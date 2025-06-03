@@ -4,7 +4,7 @@
 [![Paper Status](https://img.shields.io/badge/Paper-Preprint-orange)]()
 
 ## Overview
-StreamingCoT is the first large-scale dataset explicitly designed for temporally evolving reasoning in streaming Video Question Answering (VideoQA) and multimodal Chain-of-Thought (CoT) tasks. Addressing critical limitations in current VideoQA benchmarks, StreamingCoT features:
+StreamingCoT is the first dataset explicitly designed for temporally evolving reasoning in streaming Video Question Answering (VideoQA) and multimodal Chain-of-Thought (CoT) tasks. Addressing critical limitations in current VideoQA benchmarks, StreamingCoT features:
 
 - **Dynamic temporal understanding**: Captures evolving answers in video streams
 - **Explicit reasoning chains**: Provides annotated multimodal reasoning paths
