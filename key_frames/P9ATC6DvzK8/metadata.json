@@ -1,0 +1,191 @@
+[
+    {
+        "second": 0,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P9ATC6DvzK8/output_frames/sec_0_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A man in a fluorescent yellow work suit is eating. A gray building can be seen behind him."
+    },
+    {
+        "second": 1,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P9ATC6DvzK8/output_frames/sec_1_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[0-5] He looks up, eats, and glances left and right. Suddenly, as if he has discovered something, his eyes widen, he raises his right hand, and points his left finger forward, making a \"look over there\" gesture. Then another man in a fluorescent yellow work suit appears in the picture. This man holds a box of fried chicken lunch, looks up to the right, then looks to the left, his eyes wide."
+    },
+    {
+        "second": 2,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P9ATC6DvzK8/output_frames/sec_2_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[0-5] He looks up, eats, and glances left and right. Suddenly, as if he has discovered something, his eyes widen, he raises his right hand, and points his left finger forward, making a \"look over there\" gesture. Then another man in a fluorescent yellow work suit appears in the picture. This man holds a box of fried chicken lunch, looks up to the right, then looks to the left, his eyes wide."
+    },
+    {
+        "second": 3,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P9ATC6DvzK8/output_frames/sec_3_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[0-5] He looks up, eats, and glances left and right. Suddenly, as if he has discovered something, his eyes widen, he raises his right hand, and points his left finger forward, making a \"look over there\" gesture. Then another man in a fluorescent yellow work suit appears in the picture. This man holds a box of fried chicken lunch, looks up to the right, then looks to the left, his eyes wide."
+    },
+    {
+        "second": 4,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P9ATC6DvzK8/output_frames/sec_4_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-5] He looks up, eats, and glances left and right. Suddenly, as if he has discovered something, his eyes widen, he raises his right hand, and points his left finger forward, making a \"look over there\" gesture. Then another man in a fluorescent yellow work suit appears in the picture. This man holds a box of fried chicken lunch, looks up to the right, then looks to the left, his eyes wide."
+    },
+    {
+        "second": 5,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P9ATC6DvzK8/output_frames/sec_5_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[0-5] He looks up, eats, and glances left and right. Suddenly, as if he has discovered something, his eyes widen, he raises his right hand, and points his left finger forward, making a \"look over there\" gesture. Then another man in a fluorescent yellow work suit appears in the picture. This man holds a box of fried chicken lunch, looks up to the right, then looks to the left, his eyes wide."
+    },
+    {
+        "second": 6,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P9ATC6DvzK8/output_frames/sec_6_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[5-7] The scene switches to a street view. A person riding a blue motorcycle is speeding down the road."
+    },
+    {
+        "second": 7,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P9ATC6DvzK8/output_frames/sec_7_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[5-7] The scene switches to a street view. A person riding a blue motorcycle is speeding down the road."
+    },
+    {
+        "second": 8,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P9ATC6DvzK8/output_frames/sec_8_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[7-15] The two men stare intently at the motorcyclist. Suddenly, the motorcycle crashes into a car. The man with the lunch is shocked and leans back. The motorcycle falls to the ground. The car that was hit continues to move forward, its rear bumper dragging on the ground."
+    },
+    {
+        "second": 9,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P9ATC6DvzK8/output_frames/sec_9_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[7-15] The two men stare intently at the motorcyclist. Suddenly, the motorcycle crashes into a car. The man with the lunch is shocked and leans back. The motorcycle falls to the ground. The car that was hit continues to move forward, its rear bumper dragging on the ground."
+    },
+    {
+        "second": 10,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P9ATC6DvzK8/output_frames/sec_10_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[7-15] The two men stare intently at the motorcyclist. Suddenly, the motorcycle crashes into a car. The man with the lunch is shocked and leans back. The motorcycle falls to the ground. The car that was hit continues to move forward, its rear bumper dragging on the ground."
+    },
+    {
+        "second": 11,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P9ATC6DvzK8/output_frames/sec_11_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[7-15] The two men stare intently at the motorcyclist. Suddenly, the motorcycle crashes into a car. The man with the lunch is shocked and leans back. The motorcycle falls to the ground. The car that was hit continues to move forward, its rear bumper dragging on the ground."
+    },
+    {
+        "second": 12,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P9ATC6DvzK8/output_frames/sec_12_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[7-15] The two men stare intently at the motorcyclist. Suddenly, the motorcycle crashes into a car. The man with the lunch is shocked and leans back. The motorcycle falls to the ground. The car that was hit continues to move forward, its rear bumper dragging on the ground."
+    },
+    {
+        "second": 13,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P9ATC6DvzK8/output_frames/sec_13_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[7-15] The two men stare intently at the motorcyclist. Suddenly, the motorcycle crashes into a car. The man with the lunch is shocked and leans back. The motorcycle falls to the ground. The car that was hit continues to move forward, its rear bumper dragging on the ground."
+    },
+    {
+        "second": 14,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P9ATC6DvzK8/output_frames/sec_14_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[7-15] The two men stare intently at the motorcyclist. Suddenly, the motorcycle crashes into a car. The man with the lunch is shocked and leans back. The motorcycle falls to the ground. The car that was hit continues to move forward, its rear bumper dragging on the ground."
+    },
+    {
+        "second": 15,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P9ATC6DvzK8/output_frames/sec_15_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[7-15] The two men stare intently at the motorcyclist. Suddenly, the motorcycle crashes into a car. The man with the lunch is shocked and leans back. The motorcycle falls to the ground. The car that was hit continues to move forward, its rear bumper dragging on the ground."
+    },
+    {
+        "second": 16,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P9ATC6DvzK8/output_frames/sec_16_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[15-19] The first man looks up at the sky, then lowers his head and looks at the food in his hand with reluctance, showing helplessness. The man with the lunch raises his hand, touches the man, points forward with a fork, and lets the man see."
+    },
+    {
+        "second": 17,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P9ATC6DvzK8/output_frames/sec_17_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[15-19] The first man looks up at the sky, then lowers his head and looks at the food in his hand with reluctance, showing helplessness. The man with the lunch raises his hand, touches the man, points forward with a fork, and lets the man see."
+    },
+    {
+        "second": 18,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P9ATC6DvzK8/output_frames/sec_18_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[15-19] The first man looks up at the sky, then lowers his head and looks at the food in his hand with reluctance, showing helplessness. The man with the lunch raises his hand, touches the man, points forward with a fork, and lets the man see."
+    },
+    {
+        "second": 19,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P9ATC6DvzK8/output_frames/sec_19_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[15-19] The first man looks up at the sky, then lowers his head and looks at the food in his hand with reluctance, showing helplessness. The man with the lunch raises his hand, touches the man, points forward with a fork, and lets the man see."
+    },
+    {
+        "second": 20,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P9ATC6DvzK8/output_frames/sec_20_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[19-26] Finally, the motorcyclist from before appears running on the road. After seeing this, the first man shakes his head and continues eating the food in his hand."
+    },
+    {
+        "second": 21,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P9ATC6DvzK8/output_frames/sec_21_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[19-26] Finally, the motorcyclist from before appears running on the road. After seeing this, the first man shakes his head and continues eating the food in his hand."
+    },
+    {
+        "second": 22,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P9ATC6DvzK8/output_frames/sec_22_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[19-26] Finally, the motorcyclist from before appears running on the road. After seeing this, the first man shakes his head and continues eating the food in his hand."
+    },
+    {
+        "second": 23,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P9ATC6DvzK8/output_frames/sec_23_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[19-26] Finally, the motorcyclist from before appears running on the road. After seeing this, the first man shakes his head and continues eating the food in his hand."
+    },
+    {
+        "second": 24,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P9ATC6DvzK8/output_frames/sec_24_idx_24.jpg",
+        "fps": 30,
+        "explanation": "[19-26] Finally, the motorcyclist from before appears running on the road. After seeing this, the first man shakes his head and continues eating the food in his hand."
+    },
+    {
+        "second": 25,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P9ATC6DvzK8/output_frames/sec_25_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[19-26] Finally, the motorcyclist from before appears running on the road. After seeing this, the first man shakes his head and continues eating the food in his hand."
+    },
+    {
+        "second": 26,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P9ATC6DvzK8/output_frames/sec_26_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[19-26] Finally, the motorcyclist from before appears running on the road. After seeing this, the first man shakes his head and continues eating the food in his hand."
+    }
+]

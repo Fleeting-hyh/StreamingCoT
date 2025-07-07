@@ -1,0 +1,65 @@
+[
+    {
+        "second": 0,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HgsSbzyuXFM/output_frames/sec_0_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A young man with black-rimmed glasses is standing in the bathroom, looking to the left. He is wearing a black T-shirt and has dyed yellow hair. The room is dimly lit. Behind him is the glass partition of the shower room, and you can see the white walls and toiletries on the shelf. There are white subtitles at the top of the screen: \"I like to crack my knuckles and neck cuz i feel relaxed\"."
+    },
+    {
+        "second": 1,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HgsSbzyuXFM/output_frames/sec_1_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[0-4] While talking, he makes a gesture of cracking his fingers, shakes his head left and right, and then moves his wrist. The white subtitles at the top of the screen change to: \"me knowing what it means;\"."
+    },
+    {
+        "second": 2,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HgsSbzyuXFM/output_frames/sec_2_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[0-4] While talking, he makes a gesture of cracking his fingers, shakes his head left and right, and then moves his wrist. The white subtitles at the top of the screen change to: \"me knowing what it means;\"."
+    },
+    {
+        "second": 3,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HgsSbzyuXFM/output_frames/sec_3_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-4] While talking, he makes a gesture of cracking his fingers, shakes his head left and right, and then moves his wrist. The white subtitles at the top of the screen change to: \"me knowing what it means;\"."
+    },
+    {
+        "second": 4,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HgsSbzyuXFM/output_frames/sec_4_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[0-4] While talking, he makes a gesture of cracking his fingers, shakes his head left and right, and then moves his wrist. The white subtitles at the top of the screen change to: \"me knowing what it means;\"."
+    },
+    {
+        "second": 5,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HgsSbzyuXFM/output_frames/sec_5_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[4-9] Then the camera switches, the man pulls down his glasses with both hands, he looks at the camera in surprise, he puts his glasses back on, shakes his head, and slowly puts his hands down."
+    },
+    {
+        "second": 6,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HgsSbzyuXFM/output_frames/sec_6_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[4-9] Then the camera switches, the man pulls down his glasses with both hands, he looks at the camera in surprise, he puts his glasses back on, shakes his head, and slowly puts his hands down."
+    },
+    {
+        "second": 7,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HgsSbzyuXFM/output_frames/sec_7_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[4-9] Then the camera switches, the man pulls down his glasses with both hands, he looks at the camera in surprise, he puts his glasses back on, shakes his head, and slowly puts his hands down."
+    },
+    {
+        "second": 8,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HgsSbzyuXFM/output_frames/sec_8_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[4-9] Then the camera switches, the man pulls down his glasses with both hands, he looks at the camera in surprise, he puts his glasses back on, shakes his head, and slowly puts his hands down."
+    }
+]

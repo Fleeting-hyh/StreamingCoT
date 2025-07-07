@@ -1,0 +1,65 @@
+[
+    {
+        "second": 0,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3-MccP4GHU4/output_frames/sec_0_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A woman in a floral dress is standing in a kitchen with white walls, while a man in a black T-shirt and a red cap sits at a black table. The man is holding a lighter and a lollipop."
+    },
+    {
+        "second": 1,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3-MccP4GHU4/output_frames/sec_1_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The man in the black T-shirt, with the lollipop in his mouth, uses the lighter to light the exposed end of a stick. At this moment, the woman in the floral dress turns around, sees the man, and throws the rag in her hand at him, watching as the man spreads his hands in response."
+    },
+    {
+        "second": 2,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3-MccP4GHU4/output_frames/sec_2_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The man in the black T-shirt, with the lollipop in his mouth, uses the lighter to light the exposed end of a stick. At this moment, the woman in the floral dress turns around, sees the man, and throws the rag in her hand at him, watching as the man spreads his hands in response."
+    },
+    {
+        "second": 3,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3-MccP4GHU4/output_frames/sec_3_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The man in the black T-shirt, with the lollipop in his mouth, uses the lighter to light the exposed end of a stick. At this moment, the woman in the floral dress turns around, sees the man, and throws the rag in her hand at him, watching as the man spreads his hands in response."
+    },
+    {
+        "second": 4,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3-MccP4GHU4/output_frames/sec_4_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The man in the black T-shirt, with the lollipop in his mouth, uses the lighter to light the exposed end of a stick. At this moment, the woman in the floral dress turns around, sees the man, and throws the rag in her hand at him, watching as the man spreads his hands in response."
+    },
+    {
+        "second": 5,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3-MccP4GHU4/output_frames/sec_5_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[4-8] The man in the black T-shirt then takes the lollipop out of his mouth with a wronged expression and shows it to the woman in the floral dress. The woman covers her mouth with her hand in surprise."
+    },
+    {
+        "second": 6,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3-MccP4GHU4/output_frames/sec_6_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[4-8] The man in the black T-shirt then takes the lollipop out of his mouth with a wronged expression and shows it to the woman in the floral dress. The woman covers her mouth with her hand in surprise."
+    },
+    {
+        "second": 7,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3-MccP4GHU4/output_frames/sec_7_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[4-8] The man in the black T-shirt then takes the lollipop out of his mouth with a wronged expression and shows it to the woman in the floral dress. The woman covers her mouth with her hand in surprise."
+    },
+    {
+        "second": 8,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3-MccP4GHU4/output_frames/sec_8_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[4-8] The man in the black T-shirt then takes the lollipop out of his mouth with a wronged expression and shows it to the woman in the floral dress. The woman covers her mouth with her hand in surprise."
+    }
+]

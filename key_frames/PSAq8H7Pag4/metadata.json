@@ -1,0 +1,86 @@
+[
+    {
+        "second": 0,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PSAq8H7Pag4/output_frames/sec_0_idx_1.jpg",
+        "fps": 50,
+        "explanation": "[0-0] On the floor of a room, there is a pink jelly-like object with a goldfish-shaped toy inside."
+    },
+    {
+        "second": 1,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PSAq8H7Pag4/output_frames/sec_1_idx_25.jpg",
+        "fps": 50,
+        "explanation": "[0-3] Then a foot wearing pink socks and transparent high heels steps on and flattens the jelly-like object. The shot then cuts to a strawberry toy on the floor, which is stepped on by the same foot and returns to its original shape after being flattened."
+    },
+    {
+        "second": 2,
+        "frame_index": 38,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PSAq8H7Pag4/output_frames/sec_2_idx_38.jpg",
+        "fps": 50,
+        "explanation": "[0-3] Then a foot wearing pink socks and transparent high heels steps on and flattens the jelly-like object. The shot then cuts to a strawberry toy on the floor, which is stepped on by the same foot and returns to its original shape after being flattened."
+    },
+    {
+        "second": 3,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PSAq8H7Pag4/output_frames/sec_3_idx_4.jpg",
+        "fps": 50,
+        "explanation": "[0-3] Then a foot wearing pink socks and transparent high heels steps on and flattens the jelly-like object. The shot then cuts to a strawberry toy on the floor, which is stepped on by the same foot and returns to its original shape after being flattened."
+    },
+    {
+        "second": 4,
+        "frame_index": 41,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PSAq8H7Pag4/output_frames/sec_4_idx_41.jpg",
+        "fps": 50,
+        "explanation": "[3-5] Next, the shot cuts to a rectangular grey object on the floor. The foot then steps on it, and the high heel creates a hole in the object."
+    },
+    {
+        "second": 5,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PSAq8H7Pag4/output_frames/sec_5_idx_15.jpg",
+        "fps": 50,
+        "explanation": "[3-5] Next, the shot cuts to a rectangular grey object on the floor. The foot then steps on it, and the high heel creates a hole in the object."
+    },
+    {
+        "second": 6,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PSAq8H7Pag4/output_frames/sec_6_idx_0.jpg",
+        "fps": 50,
+        "explanation": "[5-7] Subsequently, the shot cuts to a jelly cup on the floor. The foot then steps on it with the high heel, squeezing out the jelly and getting the cup stuck to the heel."
+    },
+    {
+        "second": 7,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PSAq8H7Pag4/output_frames/sec_7_idx_16.jpg",
+        "fps": 50,
+        "explanation": "[5-7] Subsequently, the shot cuts to a jelly cup on the floor. The foot then steps on it with the high heel, squeezing out the jelly and getting the cup stuck to the heel."
+    },
+    {
+        "second": 8,
+        "frame_index": 49,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PSAq8H7Pag4/output_frames/sec_8_idx_49.jpg",
+        "fps": 50,
+        "explanation": "[7-11] Next, the shot cuts to a yellow dinosaur toy on the floor. The foot steps on it, flattening the toy. The shot then cuts to a metal basket filled with colorful balls on the floor. The foot then steps into the basket with the high heel, crushing the colorful balls."
+    },
+    {
+        "second": 9,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PSAq8H7Pag4/output_frames/sec_9_idx_27.jpg",
+        "fps": 50,
+        "explanation": "[7-11] Next, the shot cuts to a yellow dinosaur toy on the floor. The foot steps on it, flattening the toy. The shot then cuts to a metal basket filled with colorful balls on the floor. The foot then steps into the basket with the high heel, crushing the colorful balls."
+    },
+    {
+        "second": 10,
+        "frame_index": 42,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PSAq8H7Pag4/output_frames/sec_10_idx_42.jpg",
+        "fps": 50,
+        "explanation": "[7-11] Next, the shot cuts to a yellow dinosaur toy on the floor. The foot steps on it, flattening the toy. The shot then cuts to a metal basket filled with colorful balls on the floor. The foot then steps into the basket with the high heel, crushing the colorful balls."
+    },
+    {
+        "second": 11,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PSAq8H7Pag4/output_frames/sec_11_idx_17.jpg",
+        "fps": 50,
+        "explanation": "[7-11] Next, the shot cuts to a yellow dinosaur toy on the floor. The foot steps on it, flattening the toy. The shot then cuts to a metal basket filled with colorful balls on the floor. The foot then steps into the basket with the high heel, crushing the colorful balls."
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "second": 0,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DbJjKmkj8qc/output_frames/sec_0_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[0-0] There are two people in the scene. The person in the foreground is wearing a black sleeveless top and white pants, standing barefoot with their right hand outstretched and their left hand at their side. The woman in the background is wearing a light blue dress, leaning backward with her arms outstretched and her head bowed, presenting an elegant posture. The background is pure white, with a black keyboard instrument on the right side connected by wires."
+    },
+    {
+        "second": 1,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DbJjKmkj8qc/output_frames/sec_1_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[0-6] The person in the white pants in the foreground mimics the pose of the woman in the light blue dress behind them, then gets up and exits the screen from the right. The woman in the light blue dress then lowers her body slightly, adjusts her posture, and then swings one leg back with her skirt flowing. She repeats this action and almost falls."
+    },
+    {
+        "second": 2,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DbJjKmkj8qc/output_frames/sec_2_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[0-6] The person in the white pants in the foreground mimics the pose of the woman in the light blue dress behind them, then gets up and exits the screen from the right. The woman in the light blue dress then lowers her body slightly, adjusts her posture, and then swings one leg back with her skirt flowing. She repeats this action and almost falls."
+    },
+    {
+        "second": 3,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DbJjKmkj8qc/output_frames/sec_3_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[0-6] The person in the white pants in the foreground mimics the pose of the woman in the light blue dress behind them, then gets up and exits the screen from the right. The woman in the light blue dress then lowers her body slightly, adjusts her posture, and then swings one leg back with her skirt flowing. She repeats this action and almost falls."
+    },
+    {
+        "second": 4,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DbJjKmkj8qc/output_frames/sec_4_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[0-6] The person in the white pants in the foreground mimics the pose of the woman in the light blue dress behind them, then gets up and exits the screen from the right. The woman in the light blue dress then lowers her body slightly, adjusts her posture, and then swings one leg back with her skirt flowing. She repeats this action and almost falls."
+    },
+    {
+        "second": 5,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DbJjKmkj8qc/output_frames/sec_5_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[0-6] The person in the white pants in the foreground mimics the pose of the woman in the light blue dress behind them, then gets up and exits the screen from the right. The woman in the light blue dress then lowers her body slightly, adjusts her posture, and then swings one leg back with her skirt flowing. She repeats this action and almost falls."
+    },
+    {
+        "second": 6,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DbJjKmkj8qc/output_frames/sec_6_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[0-6] The person in the white pants in the foreground mimics the pose of the woman in the light blue dress behind them, then gets up and exits the screen from the right. The woman in the light blue dress then lowers her body slightly, adjusts her posture, and then swings one leg back with her skirt flowing. She repeats this action and almost falls."
+    },
+    {
+        "second": 7,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DbJjKmkj8qc/output_frames/sec_7_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[6-8] The video freezes on a photo of a dancer in a blue and white dress performing. Her body forms a graceful arc, with her left arm extended backward, her right arm forward, her right leg raised high, and her left leg supporting her on the ground. Her entire posture appears light and elegant. The background is a solid color, and the dancer's skirt unfolds in the air, forming a beautiful arc that showcases the dynamism and rhythm of the dance."
+    },
+    {
+        "second": 8,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DbJjKmkj8qc/output_frames/sec_8_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[6-8] The video freezes on a photo of a dancer in a blue and white dress performing. Her body forms a graceful arc, with her left arm extended backward, her right arm forward, her right leg raised high, and her left leg supporting her on the ground. Her entire posture appears light and elegant. The background is a solid color, and the dancer's skirt unfolds in the air, forming a beautiful arc that showcases the dynamism and rhythm of the dance."
+    }
+]

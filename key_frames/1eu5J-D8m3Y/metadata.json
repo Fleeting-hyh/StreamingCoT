@@ -1,0 +1,51 @@
+[
+    {
+        "second": 0,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1eu5J-D8m3Y/output_frames/sec_0_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-0] There are two scary dolls wearing blood-stained blue overalls, holding bloody knives and standing on the black ground. There is a long gray strip connecting the feet of the two dolls. The background is a white wall."
+    },
+    {
+        "second": 1,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1eu5J-D8m3Y/output_frames/sec_1_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[0-2] The two scary dolls slowly move to the middle."
+    },
+    {
+        "second": 2,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1eu5J-D8m3Y/output_frames/sec_2_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-2] The two scary dolls slowly move to the middle."
+    },
+    {
+        "second": 3,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1eu5J-D8m3Y/output_frames/sec_3_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[2-6] Finally, the scary dolls combine into one, holding a knife in each hand and standing in the middle of the screen."
+    },
+    {
+        "second": 4,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1eu5J-D8m3Y/output_frames/sec_4_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[2-6] Finally, the scary dolls combine into one, holding a knife in each hand and standing in the middle of the screen."
+    },
+    {
+        "second": 5,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1eu5J-D8m3Y/output_frames/sec_5_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[2-6] Finally, the scary dolls combine into one, holding a knife in each hand and standing in the middle of the screen."
+    },
+    {
+        "second": 6,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1eu5J-D8m3Y/output_frames/sec_6_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[2-6] Finally, the scary dolls combine into one, holding a knife in each hand and standing in the middle of the screen."
+    }
+]

@@ -1,0 +1,156 @@
+[
+    {
+        "second": 0,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/O-bbzTnAiUQ/output_frames/sec_0_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-0] On the left is a gray wall and on the right is a blue wall. There are three avatars on the grey wall. The first is a black toilet man wearing headphones, a white top and black pants. In the middle is a gray toilet man wearing laser glasses. The last one is a white toilet man with a brown beard. There are three avatars on the yellow wall, the first is a red light robot, the second is a black TV robot, and the last is a black robot holding a weapon."
+    },
+    {
+        "second": 1,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/O-bbzTnAiUQ/output_frames/sec_1_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[0-9] At this time, the black toilet man and the red light robot fight first, and the red light robot emits a blue light circle. The black toilet man laughs at him, and then the red light robot fires a cannonball over the black toilet man's head. Finally, the two exit."
+    },
+    {
+        "second": 2,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/O-bbzTnAiUQ/output_frames/sec_2_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[0-9] At this time, the black toilet man and the red light robot fight first, and the red light robot emits a blue light circle. The black toilet man laughs at him, and then the red light robot fires a cannonball over the black toilet man's head. Finally, the two exit."
+    },
+    {
+        "second": 3,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/O-bbzTnAiUQ/output_frames/sec_3_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[0-9] At this time, the black toilet man and the red light robot fight first, and the red light robot emits a blue light circle. The black toilet man laughs at him, and then the red light robot fires a cannonball over the black toilet man's head. Finally, the two exit."
+    },
+    {
+        "second": 4,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/O-bbzTnAiUQ/output_frames/sec_4_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-9] At this time, the black toilet man and the red light robot fight first, and the red light robot emits a blue light circle. The black toilet man laughs at him, and then the red light robot fires a cannonball over the black toilet man's head. Finally, the two exit."
+    },
+    {
+        "second": 5,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/O-bbzTnAiUQ/output_frames/sec_5_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[0-9] At this time, the black toilet man and the red light robot fight first, and the red light robot emits a blue light circle. The black toilet man laughs at him, and then the red light robot fires a cannonball over the black toilet man's head. Finally, the two exit."
+    },
+    {
+        "second": 6,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/O-bbzTnAiUQ/output_frames/sec_6_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[0-9] At this time, the black toilet man and the red light robot fight first, and the red light robot emits a blue light circle. The black toilet man laughs at him, and then the red light robot fires a cannonball over the black toilet man's head. Finally, the two exit."
+    },
+    {
+        "second": 7,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/O-bbzTnAiUQ/output_frames/sec_7_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[0-9] At this time, the black toilet man and the red light robot fight first, and the red light robot emits a blue light circle. The black toilet man laughs at him, and then the red light robot fires a cannonball over the black toilet man's head. Finally, the two exit."
+    },
+    {
+        "second": 8,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/O-bbzTnAiUQ/output_frames/sec_8_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[0-9] At this time, the black toilet man and the red light robot fight first, and the red light robot emits a blue light circle. The black toilet man laughs at him, and then the red light robot fires a cannonball over the black toilet man's head. Finally, the two exit."
+    },
+    {
+        "second": 9,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/O-bbzTnAiUQ/output_frames/sec_9_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[0-9] At this time, the black toilet man and the red light robot fight first, and the red light robot emits a blue light circle. The black toilet man laughs at him, and then the red light robot fires a cannonball over the black toilet man's head. Finally, the two exit."
+    },
+    {
+        "second": 10,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/O-bbzTnAiUQ/output_frames/sec_10_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[9-17] Then came the black toilet man with laser glasses and the TV robot. The black toilet man flew in the air, and the TV robot emitted a red light that illuminated the black toilet man. The black toilet man falls to the ground. Then the two exit."
+    },
+    {
+        "second": 11,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/O-bbzTnAiUQ/output_frames/sec_11_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[9-17] Then came the black toilet man with laser glasses and the TV robot. The black toilet man flew in the air, and the TV robot emitted a red light that illuminated the black toilet man. The black toilet man falls to the ground. Then the two exit."
+    },
+    {
+        "second": 12,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/O-bbzTnAiUQ/output_frames/sec_12_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[9-17] Then came the black toilet man with laser glasses and the TV robot. The black toilet man flew in the air, and the TV robot emitted a red light that illuminated the black toilet man. The black toilet man falls to the ground. Then the two exit."
+    },
+    {
+        "second": 13,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/O-bbzTnAiUQ/output_frames/sec_13_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[9-17] Then came the black toilet man with laser glasses and the TV robot. The black toilet man flew in the air, and the TV robot emitted a red light that illuminated the black toilet man. The black toilet man falls to the ground. Then the two exit."
+    },
+    {
+        "second": 14,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/O-bbzTnAiUQ/output_frames/sec_14_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[9-17] Then came the black toilet man with laser glasses and the TV robot. The black toilet man flew in the air, and the TV robot emitted a red light that illuminated the black toilet man. The black toilet man falls to the ground. Then the two exit."
+    },
+    {
+        "second": 15,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/O-bbzTnAiUQ/output_frames/sec_15_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[9-17] Then came the black toilet man with laser glasses and the TV robot. The black toilet man flew in the air, and the TV robot emitted a red light that illuminated the black toilet man. The black toilet man falls to the ground. Then the two exit."
+    },
+    {
+        "second": 16,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/O-bbzTnAiUQ/output_frames/sec_16_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[9-17] Then came the black toilet man with laser glasses and the TV robot. The black toilet man flew in the air, and the TV robot emitted a red light that illuminated the black toilet man. The black toilet man falls to the ground. Then the two exit."
+    },
+    {
+        "second": 17,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/O-bbzTnAiUQ/output_frames/sec_17_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[9-17] Then came the black toilet man with laser glasses and the TV robot. The black toilet man flew in the air, and the TV robot emitted a red light that illuminated the black toilet man. The black toilet man falls to the ground. Then the two exit."
+    },
+    {
+        "second": 18,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/O-bbzTnAiUQ/output_frames/sec_18_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[17-21] Finally, the white toilet man and the robot with the weapon came on the field. At this time, an option box appears on the screen, with options and a countdown timer in the option box."
+    },
+    {
+        "second": 19,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/O-bbzTnAiUQ/output_frames/sec_19_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[17-21] Finally, the white toilet man and the robot with the weapon came on the field. At this time, an option box appears on the screen, with options and a countdown timer in the option box."
+    },
+    {
+        "second": 20,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/O-bbzTnAiUQ/output_frames/sec_20_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[17-21] Finally, the white toilet man and the robot with the weapon came on the field. At this time, an option box appears on the screen, with options and a countdown timer in the option box."
+    },
+    {
+        "second": 21,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/O-bbzTnAiUQ/output_frames/sec_21_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[17-21] Finally, the white toilet man and the robot with the weapon came on the field. At this time, an option box appears on the screen, with options and a countdown timer in the option box."
+    }
+]

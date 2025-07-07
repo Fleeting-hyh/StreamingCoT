@@ -1,0 +1,107 @@
+[
+    {
+        "second": 0,
+        "frame_index": 58,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PbqROu3OYEo/output_frames/sec_0_idx_58.jpg",
+        "fps": 60,
+        "explanation": "[0-0] In the frame, two hands are holding Batman and Spiderman action figures respectively. The background is dark gray."
+    },
+    {
+        "second": 1,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PbqROu3OYEo/output_frames/sec_1_idx_16.jpg",
+        "fps": 60,
+        "explanation": "[0-5] Afterward, the two hands clash the action figures. The Batman action figure is taken out of the frame, leaving only the Spiderman action figure. Subsequently, the Captain America and Spiderman action figures collide, with the Captain America figure being removed. Next, the Hulk and Spiderman action figures clash, and the Hulk action figure is taken out of the frame, leaving only the Spiderman action figure."
+    },
+    {
+        "second": 2,
+        "frame_index": 44,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PbqROu3OYEo/output_frames/sec_2_idx_44.jpg",
+        "fps": 60,
+        "explanation": "[0-5] Afterward, the two hands clash the action figures. The Batman action figure is taken out of the frame, leaving only the Spiderman action figure. Subsequently, the Captain America and Spiderman action figures collide, with the Captain America figure being removed. Next, the Hulk and Spiderman action figures clash, and the Hulk action figure is taken out of the frame, leaving only the Spiderman action figure."
+    },
+    {
+        "second": 3,
+        "frame_index": 58,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PbqROu3OYEo/output_frames/sec_3_idx_58.jpg",
+        "fps": 60,
+        "explanation": "[0-5] Afterward, the two hands clash the action figures. The Batman action figure is taken out of the frame, leaving only the Spiderman action figure. Subsequently, the Captain America and Spiderman action figures collide, with the Captain America figure being removed. Next, the Hulk and Spiderman action figures clash, and the Hulk action figure is taken out of the frame, leaving only the Spiderman action figure."
+    },
+    {
+        "second": 4,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PbqROu3OYEo/output_frames/sec_4_idx_15.jpg",
+        "fps": 60,
+        "explanation": "[0-5] Afterward, the two hands clash the action figures. The Batman action figure is taken out of the frame, leaving only the Spiderman action figure. Subsequently, the Captain America and Spiderman action figures collide, with the Captain America figure being removed. Next, the Hulk and Spiderman action figures clash, and the Hulk action figure is taken out of the frame, leaving only the Spiderman action figure."
+    },
+    {
+        "second": 5,
+        "frame_index": 40,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PbqROu3OYEo/output_frames/sec_5_idx_40.jpg",
+        "fps": 60,
+        "explanation": "[0-5] Afterward, the two hands clash the action figures. The Batman action figure is taken out of the frame, leaving only the Spiderman action figure. Subsequently, the Captain America and Spiderman action figures collide, with the Captain America figure being removed. Next, the Hulk and Spiderman action figures clash, and the Hulk action figure is taken out of the frame, leaving only the Spiderman action figure."
+    },
+    {
+        "second": 6,
+        "frame_index": 32,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PbqROu3OYEo/output_frames/sec_6_idx_32.jpg",
+        "fps": 60,
+        "explanation": "[5-14] Then, the Doctor Strange and Spiderman action figures collide, and Doctor Strange is removed. Next, the Thor and Spiderman action figures clash, with Thor being removed. Finally, the Thanos and Spiderman action figures collide, leaving only the Spiderman action figure in the frame."
+    },
+    {
+        "second": 7,
+        "frame_index": 55,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PbqROu3OYEo/output_frames/sec_7_idx_55.jpg",
+        "fps": 60,
+        "explanation": "[5-14] Then, the Doctor Strange and Spiderman action figures collide, and Doctor Strange is removed. Next, the Thor and Spiderman action figures clash, with Thor being removed. Finally, the Thanos and Spiderman action figures collide, leaving only the Spiderman action figure in the frame."
+    },
+    {
+        "second": 8,
+        "frame_index": 34,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PbqROu3OYEo/output_frames/sec_8_idx_34.jpg",
+        "fps": 60,
+        "explanation": "[5-14] Then, the Doctor Strange and Spiderman action figures collide, and Doctor Strange is removed. Next, the Thor and Spiderman action figures clash, with Thor being removed. Finally, the Thanos and Spiderman action figures collide, leaving only the Spiderman action figure in the frame."
+    },
+    {
+        "second": 9,
+        "frame_index": 53,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PbqROu3OYEo/output_frames/sec_9_idx_53.jpg",
+        "fps": 60,
+        "explanation": "[5-14] Then, the Doctor Strange and Spiderman action figures collide, and Doctor Strange is removed. Next, the Thor and Spiderman action figures clash, with Thor being removed. Finally, the Thanos and Spiderman action figures collide, leaving only the Spiderman action figure in the frame."
+    },
+    {
+        "second": 10,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PbqROu3OYEo/output_frames/sec_10_idx_15.jpg",
+        "fps": 60,
+        "explanation": "[5-14] Then, the Doctor Strange and Spiderman action figures collide, and Doctor Strange is removed. Next, the Thor and Spiderman action figures clash, with Thor being removed. Finally, the Thanos and Spiderman action figures collide, leaving only the Spiderman action figure in the frame."
+    },
+    {
+        "second": 11,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PbqROu3OYEo/output_frames/sec_11_idx_16.jpg",
+        "fps": 60,
+        "explanation": "[5-14] Then, the Doctor Strange and Spiderman action figures collide, and Doctor Strange is removed. Next, the Thor and Spiderman action figures clash, with Thor being removed. Finally, the Thanos and Spiderman action figures collide, leaving only the Spiderman action figure in the frame."
+    },
+    {
+        "second": 12,
+        "frame_index": 57,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PbqROu3OYEo/output_frames/sec_12_idx_57.jpg",
+        "fps": 60,
+        "explanation": "[5-14] Then, the Doctor Strange and Spiderman action figures collide, and Doctor Strange is removed. Next, the Thor and Spiderman action figures clash, with Thor being removed. Finally, the Thanos and Spiderman action figures collide, leaving only the Spiderman action figure in the frame."
+    },
+    {
+        "second": 13,
+        "frame_index": 56,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PbqROu3OYEo/output_frames/sec_13_idx_56.jpg",
+        "fps": 60,
+        "explanation": "[5-14] Then, the Doctor Strange and Spiderman action figures collide, and Doctor Strange is removed. Next, the Thor and Spiderman action figures clash, with Thor being removed. Finally, the Thanos and Spiderman action figures collide, leaving only the Spiderman action figure in the frame."
+    },
+    {
+        "second": 14,
+        "frame_index": 33,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PbqROu3OYEo/output_frames/sec_14_idx_33.jpg",
+        "fps": 60,
+        "explanation": "[5-14] Then, the Doctor Strange and Spiderman action figures collide, and Doctor Strange is removed. Next, the Thor and Spiderman action figures clash, with Thor being removed. Finally, the Thanos and Spiderman action figures collide, leaving only the Spiderman action figure in the frame."
+    }
+]

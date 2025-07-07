@@ -1,0 +1,51 @@
+[
+    {
+        "second": 0,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JhNIgP3ryec/output_frames/sec_0_idx_10.jpg",
+        "fps": 60,
+        "explanation": "[0-0] The image shows an indoor corridor with white door frames and walls, wooden floors, and a white door on the left wall."
+    },
+    {
+        "second": 1,
+        "frame_index": 33,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JhNIgP3ryec/output_frames/sec_1_idx_33.jpg",
+        "fps": 60,
+        "explanation": "[0-3] Then, a man walks towards the camera from the corridor. He is wearing a black T-shirt, black pants, and a yellow banana costume. Then, the scene cuts to a person wearing a black robe and a white mask standing in a room with a door and a white shelf. The shot then cuts back to the man in the banana costume, who opens his mouth, which is exaggerated by special effects. He reaches out and presses a switch on the wall. Then, the scene cuts back to the person in the black robe, who instantly disappears, leaving the robe hanging on the door frame."
+    },
+    {
+        "second": 2,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JhNIgP3ryec/output_frames/sec_2_idx_17.jpg",
+        "fps": 60,
+        "explanation": "[0-3] Then, a man walks towards the camera from the corridor. He is wearing a black T-shirt, black pants, and a yellow banana costume. Then, the scene cuts to a person wearing a black robe and a white mask standing in a room with a door and a white shelf. The shot then cuts back to the man in the banana costume, who opens his mouth, which is exaggerated by special effects. He reaches out and presses a switch on the wall. Then, the scene cuts back to the person in the black robe, who instantly disappears, leaving the robe hanging on the door frame."
+    },
+    {
+        "second": 3,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JhNIgP3ryec/output_frames/sec_3_idx_25.jpg",
+        "fps": 60,
+        "explanation": "[0-3] Then, a man walks towards the camera from the corridor. He is wearing a black T-shirt, black pants, and a yellow banana costume. Then, the scene cuts to a person wearing a black robe and a white mask standing in a room with a door and a white shelf. The shot then cuts back to the man in the banana costume, who opens his mouth, which is exaggerated by special effects. He reaches out and presses a switch on the wall. Then, the scene cuts back to the person in the black robe, who instantly disappears, leaving the robe hanging on the door frame."
+    },
+    {
+        "second": 4,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JhNIgP3ryec/output_frames/sec_4_idx_15.jpg",
+        "fps": 60,
+        "explanation": "[3-6] Next, the shot cuts back to the man in the banana costume, who wipes his forehead in fear, his mouth still exaggerated by special effects. Then, the scene cuts to the black robe falling from the door and flying towards the man in the banana costume. Finally, the scene cuts to the man in the banana costume seeing this and running away in fear."
+    },
+    {
+        "second": 5,
+        "frame_index": 34,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JhNIgP3ryec/output_frames/sec_5_idx_34.jpg",
+        "fps": 60,
+        "explanation": "[3-6] Next, the shot cuts back to the man in the banana costume, who wipes his forehead in fear, his mouth still exaggerated by special effects. Then, the scene cuts to the black robe falling from the door and flying towards the man in the banana costume. Finally, the scene cuts to the man in the banana costume seeing this and running away in fear."
+    },
+    {
+        "second": 6,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JhNIgP3ryec/output_frames/sec_6_idx_19.jpg",
+        "fps": 60,
+        "explanation": "[3-6] Next, the shot cuts back to the man in the banana costume, who wipes his forehead in fear, his mouth still exaggerated by special effects. Then, the scene cuts to the black robe falling from the door and flying towards the man in the banana costume. Finally, the scene cuts to the man in the banana costume seeing this and running away in fear."
+    }
+]

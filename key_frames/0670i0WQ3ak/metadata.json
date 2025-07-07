@@ -1,0 +1,58 @@
+[
+    {
+        "second": 0,
+        "frame_index": 38,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0670i0WQ3ak/output_frames/sec_0_idx_38.jpg",
+        "fps": 50,
+        "explanation": "[0-0] Three people in different colored costumes are standing facing forward in a room. The person on the left is wearing a blue coat, yellow gloves, and a blue hat; the person in the middle is wearing red clothes and pants, a black tie, and a colorful horn on their head; the person on the right is wearing a blue furry costume. Behind them is a red sofa, picture frames are hanging on the wall, the walls of the room are green with white stripes, and a colorful rug is laid out on the floor."
+    },
+    {
+        "second": 1,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0670i0WQ3ak/output_frames/sec_1_idx_4.jpg",
+        "fps": 50,
+        "explanation": "[0-3] Then the person in the middle wearing red clothes raises their hands, smiles and shakes their hands, followed by the person in the blue furry costume putting their hands on their knees and twisting their body, then running to the right. The person in the blue coat turns to the right and watches."
+    },
+    {
+        "second": 2,
+        "frame_index": 44,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0670i0WQ3ak/output_frames/sec_2_idx_44.jpg",
+        "fps": 50,
+        "explanation": "[0-3] Then the person in the middle wearing red clothes raises their hands, smiles and shakes their hands, followed by the person in the blue furry costume putting their hands on their knees and twisting their body, then running to the right. The person in the blue coat turns to the right and watches."
+    },
+    {
+        "second": 3,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0670i0WQ3ak/output_frames/sec_3_idx_0.jpg",
+        "fps": 50,
+        "explanation": "[0-3] Then the person in the middle wearing red clothes raises their hands, smiles and shakes their hands, followed by the person in the blue furry costume putting their hands on their knees and twisting their body, then running to the right. The person in the blue coat turns to the right and watches."
+    },
+    {
+        "second": 4,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0670i0WQ3ak/output_frames/sec_4_idx_9.jpg",
+        "fps": 50,
+        "explanation": "[3-5] Subsequently, the person in red continues to wave their hands with a smile, then turns to look to the right, and the person in the blue coat quickly runs to the left."
+    },
+    {
+        "second": 5,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0670i0WQ3ak/output_frames/sec_5_idx_13.jpg",
+        "fps": 50,
+        "explanation": "[3-5] Subsequently, the person in red continues to wave their hands with a smile, then turns to look to the right, and the person in the blue coat quickly runs to the left."
+    },
+    {
+        "second": 6,
+        "frame_index": 45,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0670i0WQ3ak/output_frames/sec_6_idx_45.jpg",
+        "fps": 50,
+        "explanation": "[5-7] Then the camera zooms in, and the person in red clothes is smiling, nodding, and waving their hands."
+    },
+    {
+        "second": 7,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0670i0WQ3ak/output_frames/sec_7_idx_19.jpg",
+        "fps": 50,
+        "explanation": "[5-7] Then the camera zooms in, and the person in red clothes is smiling, nodding, and waving their hands."
+    }
+]

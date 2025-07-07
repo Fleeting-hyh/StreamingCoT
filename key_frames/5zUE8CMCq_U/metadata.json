@@ -1,0 +1,37 @@
+[
+    {
+        "second": 0,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5zUE8CMCq_U/output_frames/sec_0_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A deep pit built with gray bricks, the bottom of the pit filled with some muddy water. Some fallen leaves are floating on the water. The ground surrounding the pit is gray. A brown chain bucket elevator is operating, with each link carrying a dark brown bucket. The bucket on the right is filled with muddy water."
+    },
+    {
+        "second": 1,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5zUE8CMCq_U/output_frames/sec_1_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The chain then starts to move upwards to the right. The chain bucket elevator continues to operate, and the accumulated water at the bottom of the pit gradually decreases, revealing a larger area of the gray ground. Water droplets continuously fall from above."
+    },
+    {
+        "second": 2,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5zUE8CMCq_U/output_frames/sec_2_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The chain then starts to move upwards to the right. The chain bucket elevator continues to operate, and the accumulated water at the bottom of the pit gradually decreases, revealing a larger area of the gray ground. Water droplets continuously fall from above."
+    },
+    {
+        "second": 3,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5zUE8CMCq_U/output_frames/sec_3_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The chain then starts to move upwards to the right. The chain bucket elevator continues to operate, and the accumulated water at the bottom of the pit gradually decreases, revealing a larger area of the gray ground. Water droplets continuously fall from above."
+    },
+    {
+        "second": 4,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5zUE8CMCq_U/output_frames/sec_4_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The chain then starts to move upwards to the right. The chain bucket elevator continues to operate, and the accumulated water at the bottom of the pit gradually decreases, revealing a larger area of the gray ground. Water droplets continuously fall from above."
+    }
+]

@@ -1,0 +1,93 @@
+[
+    {
+        "second": 0,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Iq5bprSRW2A/output_frames/sec_0_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-0] In a photo studio, a white backdrop with a blue leaf pattern hangs, with a black camera placed on the left. A baby sits in front of the backdrop, with one person supporting the baby's head with their left hand and holding a baby bottle in their right hand. The baby has its eyes closed, mouth open, and brows furrowed."
+    },
+    {
+        "second": 1,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Iq5bprSRW2A/output_frames/sec_1_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[0-3] The baby continues to cry with its eyes closed and mouth open, while two hands continuously soothe it. Afterward, the baby is lifted with the left hand supporting its head and hands, and the right hand supporting its bottom. The baby is then placed back on the backdrop in a sitting position. The right hand then holds the bottle and feeds the baby."
+    },
+    {
+        "second": 2,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Iq5bprSRW2A/output_frames/sec_2_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[0-3] The baby continues to cry with its eyes closed and mouth open, while two hands continuously soothe it. Afterward, the baby is lifted with the left hand supporting its head and hands, and the right hand supporting its bottom. The baby is then placed back on the backdrop in a sitting position. The right hand then holds the bottle and feeds the baby."
+    },
+    {
+        "second": 3,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Iq5bprSRW2A/output_frames/sec_3_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[0-3] The baby continues to cry with its eyes closed and mouth open, while two hands continuously soothe it. Afterward, the baby is lifted with the left hand supporting its head and hands, and the right hand supporting its bottom. The baby is then placed back on the backdrop in a sitting position. The right hand then holds the bottle and feeds the baby."
+    },
+    {
+        "second": 4,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Iq5bprSRW2A/output_frames/sec_4_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[3-6] The scene then switches to a person comforting the baby by holding its head with both hands, while another person feeds the baby with a bottle. The baby drinks with its eyes closed, gradually calming down."
+    },
+    {
+        "second": 5,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Iq5bprSRW2A/output_frames/sec_5_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[3-6] The scene then switches to a person comforting the baby by holding its head with both hands, while another person feeds the baby with a bottle. The baby drinks with its eyes closed, gradually calming down."
+    },
+    {
+        "second": 6,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Iq5bprSRW2A/output_frames/sec_6_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[3-6] The scene then switches to a person comforting the baby by holding its head with both hands, while another person feeds the baby with a bottle. The baby drinks with its eyes closed, gradually calming down."
+    },
+    {
+        "second": 7,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Iq5bprSRW2A/output_frames/sec_7_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[6-9] The scene cuts back to the baby, who is now calm and no longer crying. Two hands support the baby's body, positioning it in a frog-like posture with its head resting on the hands and feet together. A hand above the baby continuously strokes its head, then places its thumb between the baby's eyes, causing the baby to slowly close its eyes. Then, two hands holding a green hat appear above and place the hat on the baby's head."
+    },
+    {
+        "second": 8,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Iq5bprSRW2A/output_frames/sec_8_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[6-9] The scene cuts back to the baby, who is now calm and no longer crying. Two hands support the baby's body, positioning it in a frog-like posture with its head resting on the hands and feet together. A hand above the baby continuously strokes its head, then places its thumb between the baby's eyes, causing the baby to slowly close its eyes. Then, two hands holding a green hat appear above and place the hat on the baby's head."
+    },
+    {
+        "second": 9,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Iq5bprSRW2A/output_frames/sec_9_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[6-9] The scene cuts back to the baby, who is now calm and no longer crying. Two hands support the baby's body, positioning it in a frog-like posture with its head resting on the hands and feet together. A hand above the baby continuously strokes its head, then places its thumb between the baby's eyes, causing the baby to slowly close its eyes. Then, two hands holding a green hat appear above and place the hat on the baby's head."
+    },
+    {
+        "second": 10,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Iq5bprSRW2A/output_frames/sec_10_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[9-12] The scene then switches to one hand supporting the baby's head, while another hand rests on the hat on the baby's head. The lower hand then moves away, followed by a flash of light from a camera. The scene then transitions to a triptych, with black screens on the top and bottom and a photo of the baby in the middle. The baby, wearing the hat and in the frog-like posture, is sleeping soundly."
+    },
+    {
+        "second": 11,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Iq5bprSRW2A/output_frames/sec_11_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[9-12] The scene then switches to one hand supporting the baby's head, while another hand rests on the hat on the baby's head. The lower hand then moves away, followed by a flash of light from a camera. The scene then transitions to a triptych, with black screens on the top and bottom and a photo of the baby in the middle. The baby, wearing the hat and in the frog-like posture, is sleeping soundly."
+    },
+    {
+        "second": 12,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Iq5bprSRW2A/output_frames/sec_12_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[9-12] The scene then switches to one hand supporting the baby's head, while another hand rests on the hat on the baby's head. The lower hand then moves away, followed by a flash of light from a camera. The scene then transitions to a triptych, with black screens on the top and bottom and a photo of the baby in the middle. The baby, wearing the hat and in the frog-like posture, is sleeping soundly."
+    }
+]

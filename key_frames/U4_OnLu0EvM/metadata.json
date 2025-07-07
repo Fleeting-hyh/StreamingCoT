@@ -1,0 +1,93 @@
+[
+    {
+        "second": 0,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/U4_OnLu0EvM/output_frames/sec_0_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[0-0] In the shot, a kitten is hanging with its four paws in the air. It is above a white bathtub with shallow water. There is a white towel laid on the bottom of the tub, and two yellow toys floating in the water."
+    },
+    {
+        "second": 1,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/U4_OnLu0EvM/output_frames/sec_1_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Firstly, a hand reaches out and grabs the kitten's back, gently placing it into the bathtub from above. The scene transitions, showing the completely soaked kitten standing in the tub. Its eyes widen as it looks towards the right. At this moment, one hand is supporting the kitten while the other scoops water from the bathtub. Some toys are placed on the edge of the bathtub."
+    },
+    {
+        "second": 2,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/U4_OnLu0EvM/output_frames/sec_2_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Firstly, a hand reaches out and grabs the kitten's back, gently placing it into the bathtub from above. The scene transitions, showing the completely soaked kitten standing in the tub. Its eyes widen as it looks towards the right. At this moment, one hand is supporting the kitten while the other scoops water from the bathtub. Some toys are placed on the edge of the bathtub."
+    },
+    {
+        "second": 3,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/U4_OnLu0EvM/output_frames/sec_3_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[2-6] Next, a small yellow duck is placed on the kitten's head. The scene changes to the kitten facing left, as a pair of hands continues to pour water over it. Immediately after, it faces forward, standing in the bathtub. Above the kitten's head, a person is squeezing a white bottle with a green cap in their left hand, while their other hand is outstretched, palm up, catching the liquid flowing from the bottle."
+    },
+    {
+        "second": 4,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/U4_OnLu0EvM/output_frames/sec_4_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[2-6] Next, a small yellow duck is placed on the kitten's head. The scene changes to the kitten facing left, as a pair of hands continues to pour water over it. Immediately after, it faces forward, standing in the bathtub. Above the kitten's head, a person is squeezing a white bottle with a green cap in their left hand, while their other hand is outstretched, palm up, catching the liquid flowing from the bottle."
+    },
+    {
+        "second": 5,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/U4_OnLu0EvM/output_frames/sec_5_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[2-6] Next, a small yellow duck is placed on the kitten's head. The scene changes to the kitten facing left, as a pair of hands continues to pour water over it. Immediately after, it faces forward, standing in the bathtub. Above the kitten's head, a person is squeezing a white bottle with a green cap in their left hand, while their other hand is outstretched, palm up, catching the liquid flowing from the bottle."
+    },
+    {
+        "second": 6,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/U4_OnLu0EvM/output_frames/sec_6_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[2-6] Next, a small yellow duck is placed on the kitten's head. The scene changes to the kitten facing left, as a pair of hands continues to pour water over it. Immediately after, it faces forward, standing in the bathtub. Above the kitten's head, a person is squeezing a white bottle with a green cap in their left hand, while their other hand is outstretched, palm up, catching the liquid flowing from the bottle."
+    },
+    {
+        "second": 7,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/U4_OnLu0EvM/output_frames/sec_7_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[6-12] Then, the kitten stands in the bathtub as two bubbles float in the air. The kitten glances to its right. The scene shifts, and the kitten is now facing right, standing supported against the edge of the bathtub. A person is using a sponge to wipe its body. The scene changes again, the kitten is standing in the bathtub and two hands are gently rubbing it. After stroking the kitten's tail, a showerhead is used to rinse the kitten before it is lifted up. Finally, water drips from the kitten's body. The kitten is then held, wrapped in a blanket as its head is being dried."
+    },
+    {
+        "second": 8,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/U4_OnLu0EvM/output_frames/sec_8_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[6-12] Then, the kitten stands in the bathtub as two bubbles float in the air. The kitten glances to its right. The scene shifts, and the kitten is now facing right, standing supported against the edge of the bathtub. A person is using a sponge to wipe its body. The scene changes again, the kitten is standing in the bathtub and two hands are gently rubbing it. After stroking the kitten's tail, a showerhead is used to rinse the kitten before it is lifted up. Finally, water drips from the kitten's body. The kitten is then held, wrapped in a blanket as its head is being dried."
+    },
+    {
+        "second": 9,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/U4_OnLu0EvM/output_frames/sec_9_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[6-12] Then, the kitten stands in the bathtub as two bubbles float in the air. The kitten glances to its right. The scene shifts, and the kitten is now facing right, standing supported against the edge of the bathtub. A person is using a sponge to wipe its body. The scene changes again, the kitten is standing in the bathtub and two hands are gently rubbing it. After stroking the kitten's tail, a showerhead is used to rinse the kitten before it is lifted up. Finally, water drips from the kitten's body. The kitten is then held, wrapped in a blanket as its head is being dried."
+    },
+    {
+        "second": 10,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/U4_OnLu0EvM/output_frames/sec_10_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[6-12] Then, the kitten stands in the bathtub as two bubbles float in the air. The kitten glances to its right. The scene shifts, and the kitten is now facing right, standing supported against the edge of the bathtub. A person is using a sponge to wipe its body. The scene changes again, the kitten is standing in the bathtub and two hands are gently rubbing it. After stroking the kitten's tail, a showerhead is used to rinse the kitten before it is lifted up. Finally, water drips from the kitten's body. The kitten is then held, wrapped in a blanket as its head is being dried."
+    },
+    {
+        "second": 11,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/U4_OnLu0EvM/output_frames/sec_11_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[6-12] Then, the kitten stands in the bathtub as two bubbles float in the air. The kitten glances to its right. The scene shifts, and the kitten is now facing right, standing supported against the edge of the bathtub. A person is using a sponge to wipe its body. The scene changes again, the kitten is standing in the bathtub and two hands are gently rubbing it. After stroking the kitten's tail, a showerhead is used to rinse the kitten before it is lifted up. Finally, water drips from the kitten's body. The kitten is then held, wrapped in a blanket as its head is being dried."
+    },
+    {
+        "second": 12,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/U4_OnLu0EvM/output_frames/sec_12_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[6-12] Then, the kitten stands in the bathtub as two bubbles float in the air. The kitten glances to its right. The scene shifts, and the kitten is now facing right, standing supported against the edge of the bathtub. A person is using a sponge to wipe its body. The scene changes again, the kitten is standing in the bathtub and two hands are gently rubbing it. After stroking the kitten's tail, a showerhead is used to rinse the kitten before it is lifted up. Finally, water drips from the kitten's body. The kitten is then held, wrapped in a blanket as its head is being dried."
+    }
+]

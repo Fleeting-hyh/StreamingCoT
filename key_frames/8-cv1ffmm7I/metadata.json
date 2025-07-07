@@ -1,0 +1,142 @@
+[
+    {
+        "second": 0,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8-cv1ffmm7I/output_frames/sec_0_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[0-0] By a river outdoors, a man in a black T-shirt bends over and stands on the cement bank, holding a green plastic bag in his hands. Behind him, a man in a blue jacket holds a black plastic bag in his hands and a woman in a purple jacket holds a blue plastic bag in her hands. There is a mountain on their right, and some white shelves behind them."
+    },
+    {
+        "second": 1,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8-cv1ffmm7I/output_frames/sec_1_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The man squats down, fills the green plastic bag with water from the river, stands up and lifts the bag, which breaks. He exits the frame to the right. His two companions behind him shake their plastic bags up and down, also ready to put the garbage bags into the water."
+    },
+    {
+        "second": 2,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8-cv1ffmm7I/output_frames/sec_2_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The man squats down, fills the green plastic bag with water from the river, stands up and lifts the bag, which breaks. He exits the frame to the right. His two companions behind him shake their plastic bags up and down, also ready to put the garbage bags into the water."
+    },
+    {
+        "second": 3,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8-cv1ffmm7I/output_frames/sec_3_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The man squats down, fills the green plastic bag with water from the river, stands up and lifts the bag, which breaks. He exits the frame to the right. His two companions behind him shake their plastic bags up and down, also ready to put the garbage bags into the water."
+    },
+    {
+        "second": 4,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8-cv1ffmm7I/output_frames/sec_4_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The man squats down, fills the green plastic bag with water from the river, stands up and lifts the bag, which breaks. He exits the frame to the right. His two companions behind him shake their plastic bags up and down, also ready to put the garbage bags into the water."
+    },
+    {
+        "second": 5,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8-cv1ffmm7I/output_frames/sec_5_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[4-9] Then, the man in the blue jacket shows the black plastic bag to the front. He squats down and puts the black plastic bag into the water to fill it. He stands up and lifts the bag, which breaks. He exits the frame to the right."
+    },
+    {
+        "second": 6,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8-cv1ffmm7I/output_frames/sec_6_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[4-9] Then, the man in the blue jacket shows the black plastic bag to the front. He squats down and puts the black plastic bag into the water to fill it. He stands up and lifts the bag, which breaks. He exits the frame to the right."
+    },
+    {
+        "second": 7,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8-cv1ffmm7I/output_frames/sec_7_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[4-9] Then, the man in the blue jacket shows the black plastic bag to the front. He squats down and puts the black plastic bag into the water to fill it. He stands up and lifts the bag, which breaks. He exits the frame to the right."
+    },
+    {
+        "second": 8,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8-cv1ffmm7I/output_frames/sec_8_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[4-9] Then, the man in the blue jacket shows the black plastic bag to the front. He squats down and puts the black plastic bag into the water to fill it. He stands up and lifts the bag, which breaks. He exits the frame to the right."
+    },
+    {
+        "second": 9,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8-cv1ffmm7I/output_frames/sec_9_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[4-9] Then, the man in the blue jacket shows the black plastic bag to the front. He squats down and puts the black plastic bag into the water to fill it. He stands up and lifts the bag, which breaks. He exits the frame to the right."
+    },
+    {
+        "second": 10,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8-cv1ffmm7I/output_frames/sec_10_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[9-19] Subsequently, the woman in the purple jacket squats down and slowly puts the bag into the water. She squats down, slowly puts the bag into the water, fills the blue plastic bag with water, stands up and lifts the plastic bag with a red rope in both hands, then puts the bag on the ground and stands up. Beside her, a pair of hands hands her a few packs of snacks."
+    },
+    {
+        "second": 11,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8-cv1ffmm7I/output_frames/sec_11_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[9-19] Subsequently, the woman in the purple jacket squats down and slowly puts the bag into the water. She squats down, slowly puts the bag into the water, fills the blue plastic bag with water, stands up and lifts the plastic bag with a red rope in both hands, then puts the bag on the ground and stands up. Beside her, a pair of hands hands her a few packs of snacks."
+    },
+    {
+        "second": 12,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8-cv1ffmm7I/output_frames/sec_12_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[9-19] Subsequently, the woman in the purple jacket squats down and slowly puts the bag into the water. She squats down, slowly puts the bag into the water, fills the blue plastic bag with water, stands up and lifts the plastic bag with a red rope in both hands, then puts the bag on the ground and stands up. Beside her, a pair of hands hands her a few packs of snacks."
+    },
+    {
+        "second": 13,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8-cv1ffmm7I/output_frames/sec_13_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[9-19] Subsequently, the woman in the purple jacket squats down and slowly puts the bag into the water. She squats down, slowly puts the bag into the water, fills the blue plastic bag with water, stands up and lifts the plastic bag with a red rope in both hands, then puts the bag on the ground and stands up. Beside her, a pair of hands hands her a few packs of snacks."
+    },
+    {
+        "second": 14,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8-cv1ffmm7I/output_frames/sec_14_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[9-19] Subsequently, the woman in the purple jacket squats down and slowly puts the bag into the water. She squats down, slowly puts the bag into the water, fills the blue plastic bag with water, stands up and lifts the plastic bag with a red rope in both hands, then puts the bag on the ground and stands up. Beside her, a pair of hands hands her a few packs of snacks."
+    },
+    {
+        "second": 15,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8-cv1ffmm7I/output_frames/sec_15_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[9-19] Subsequently, the woman in the purple jacket squats down and slowly puts the bag into the water. She squats down, slowly puts the bag into the water, fills the blue plastic bag with water, stands up and lifts the plastic bag with a red rope in both hands, then puts the bag on the ground and stands up. Beside her, a pair of hands hands her a few packs of snacks."
+    },
+    {
+        "second": 16,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8-cv1ffmm7I/output_frames/sec_16_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[9-19] Subsequently, the woman in the purple jacket squats down and slowly puts the bag into the water. She squats down, slowly puts the bag into the water, fills the blue plastic bag with water, stands up and lifts the plastic bag with a red rope in both hands, then puts the bag on the ground and stands up. Beside her, a pair of hands hands her a few packs of snacks."
+    },
+    {
+        "second": 17,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8-cv1ffmm7I/output_frames/sec_17_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[9-19] Subsequently, the woman in the purple jacket squats down and slowly puts the bag into the water. She squats down, slowly puts the bag into the water, fills the blue plastic bag with water, stands up and lifts the plastic bag with a red rope in both hands, then puts the bag on the ground and stands up. Beside her, a pair of hands hands her a few packs of snacks."
+    },
+    {
+        "second": 18,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8-cv1ffmm7I/output_frames/sec_18_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[9-19] Subsequently, the woman in the purple jacket squats down and slowly puts the bag into the water. She squats down, slowly puts the bag into the water, fills the blue plastic bag with water, stands up and lifts the plastic bag with a red rope in both hands, then puts the bag on the ground and stands up. Beside her, a pair of hands hands her a few packs of snacks."
+    },
+    {
+        "second": 19,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8-cv1ffmm7I/output_frames/sec_19_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[9-19] Subsequently, the woman in the purple jacket squats down and slowly puts the bag into the water. She squats down, slowly puts the bag into the water, fills the blue plastic bag with water, stands up and lifts the plastic bag with a red rope in both hands, then puts the bag on the ground and stands up. Beside her, a pair of hands hands her a few packs of snacks."
+    }
+]

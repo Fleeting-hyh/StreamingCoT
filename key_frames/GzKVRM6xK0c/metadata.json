@@ -1,0 +1,65 @@
+[
+    {
+        "second": 0,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GzKVRM6xK0c/output_frames/sec_0_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-0] In a bedroom, a man is lying on a bed. A left hand holds a white plate under the man's head, while a right hand holds a comb and combs his hair."
+    },
+    {
+        "second": 1,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GzKVRM6xK0c/output_frames/sec_1_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Then the right hand combs the man's hair, and many black sesame seeds fall from his head onto the plate. The scene then cuts to a right hand using a comb to pick up many black sesame seeds from the man's hair."
+    },
+    {
+        "second": 2,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GzKVRM6xK0c/output_frames/sec_2_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Then the right hand combs the man's hair, and many black sesame seeds fall from his head onto the plate. The scene then cuts to a right hand using a comb to pick up many black sesame seeds from the man's hair."
+    },
+    {
+        "second": 3,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GzKVRM6xK0c/output_frames/sec_3_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Then the right hand combs the man's hair, and many black sesame seeds fall from his head onto the plate. The scene then cuts to a right hand using a comb to pick up many black sesame seeds from the man's hair."
+    },
+    {
+        "second": 4,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GzKVRM6xK0c/output_frames/sec_4_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[3-6] The scene then cuts to a woman in a green shirt lying on the bed. A left hand is holding a white plate under the woman's head. Then a right hand combs the woman's hair with a comb, and many black sesame seeds fall from her hair onto the plate. The scene then cuts to the woman in the green shirt combing her hair in front of a bathroom mirror."
+    },
+    {
+        "second": 5,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GzKVRM6xK0c/output_frames/sec_5_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[3-6] The scene then cuts to a woman in a green shirt lying on the bed. A left hand is holding a white plate under the woman's head. Then a right hand combs the woman's hair with a comb, and many black sesame seeds fall from her hair onto the plate. The scene then cuts to the woman in the green shirt combing her hair in front of a bathroom mirror."
+    },
+    {
+        "second": 6,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GzKVRM6xK0c/output_frames/sec_6_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[3-6] The scene then cuts to a woman in a green shirt lying on the bed. A left hand is holding a white plate under the woman's head. Then a right hand combs the woman's hair with a comb, and many black sesame seeds fall from her hair onto the plate. The scene then cuts to the woman in the green shirt combing her hair in front of a bathroom mirror."
+    },
+    {
+        "second": 7,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GzKVRM6xK0c/output_frames/sec_7_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[6-9] Then the camera focuses on the sink, where a left hand holds a comb, and the right hand fiddles with the teeth of the comb. Finally, the scene changes to show a left and right hand each holding a comb."
+    },
+    {
+        "second": 8,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GzKVRM6xK0c/output_frames/sec_8_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[6-9] Then the camera focuses on the sink, where a left hand holds a comb, and the right hand fiddles with the teeth of the comb. Finally, the scene changes to show a left and right hand each holding a comb."
+    }
+]

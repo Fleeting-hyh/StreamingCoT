@@ -1,0 +1,422 @@
+[
+    {
+        "second": 0,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5s33XjKDaxA/output_frames/sec_0_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-0] In a house with white walls and a black floor, a brown horse is standing on a gray floor. On the left, a pair of hands is placed on the horse's right hind leg, and on the right, a person wearing a blue headscarf is leading the horse, with their left hand on the horse's body. They are wearing a blue shirt and light green pants."
+    },
+    {
+        "second": 1,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5s33XjKDaxA/output_frames/sec_1_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[0-3] The camera pans around the horse. The person on the right is stroking the horse, while the person on the left is checking the horse's leg and then focuses on an abscess on the horse's hind leg."
+    },
+    {
+        "second": 2,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5s33XjKDaxA/output_frames/sec_2_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[0-3] The camera pans around the horse. The person on the right is stroking the horse, while the person on the left is checking the horse's leg and then focuses on an abscess on the horse's hind leg."
+    },
+    {
+        "second": 3,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5s33XjKDaxA/output_frames/sec_3_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[0-3] The camera pans around the horse. The person on the right is stroking the horse, while the person on the left is checking the horse's leg and then focuses on an abscess on the horse's hind leg."
+    },
+    {
+        "second": 4,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5s33XjKDaxA/output_frames/sec_4_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[3-11] Then the screen changes to show a person wearing yellow gloves and holding a scalpel. The person then uses the scalpel to make an incision in the abscess, and pus immediately flows out."
+    },
+    {
+        "second": 5,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5s33XjKDaxA/output_frames/sec_5_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[3-11] Then the screen changes to show a person wearing yellow gloves and holding a scalpel. The person then uses the scalpel to make an incision in the abscess, and pus immediately flows out."
+    },
+    {
+        "second": 6,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5s33XjKDaxA/output_frames/sec_6_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[3-11] Then the screen changes to show a person wearing yellow gloves and holding a scalpel. The person then uses the scalpel to make an incision in the abscess, and pus immediately flows out."
+    },
+    {
+        "second": 7,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5s33XjKDaxA/output_frames/sec_7_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[3-11] Then the screen changes to show a person wearing yellow gloves and holding a scalpel. The person then uses the scalpel to make an incision in the abscess, and pus immediately flows out."
+    },
+    {
+        "second": 8,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5s33XjKDaxA/output_frames/sec_8_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[3-11] Then the screen changes to show a person wearing yellow gloves and holding a scalpel. The person then uses the scalpel to make an incision in the abscess, and pus immediately flows out."
+    },
+    {
+        "second": 9,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5s33XjKDaxA/output_frames/sec_9_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[3-11] Then the screen changes to show a person wearing yellow gloves and holding a scalpel. The person then uses the scalpel to make an incision in the abscess, and pus immediately flows out."
+    },
+    {
+        "second": 10,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5s33XjKDaxA/output_frames/sec_10_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[3-11] Then the screen changes to show a person wearing yellow gloves and holding a scalpel. The person then uses the scalpel to make an incision in the abscess, and pus immediately flows out."
+    },
+    {
+        "second": 11,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5s33XjKDaxA/output_frames/sec_11_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[3-11] Then the screen changes to show a person wearing yellow gloves and holding a scalpel. The person then uses the scalpel to make an incision in the abscess, and pus immediately flows out."
+    },
+    {
+        "second": 12,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5s33XjKDaxA/output_frames/sec_12_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[11-20] Then a large amount of pus flows onto the ground. Subsequently, the person wearing the yellow gloves holds surgical forceps, which are then inserted into the abscess, and a blue object is pulled out and placed in their hand."
+    },
+    {
+        "second": 13,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5s33XjKDaxA/output_frames/sec_13_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[11-20] Then a large amount of pus flows onto the ground. Subsequently, the person wearing the yellow gloves holds surgical forceps, which are then inserted into the abscess, and a blue object is pulled out and placed in their hand."
+    },
+    {
+        "second": 14,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5s33XjKDaxA/output_frames/sec_14_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[11-20] Then a large amount of pus flows onto the ground. Subsequently, the person wearing the yellow gloves holds surgical forceps, which are then inserted into the abscess, and a blue object is pulled out and placed in their hand."
+    },
+    {
+        "second": 15,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5s33XjKDaxA/output_frames/sec_15_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[11-20] Then a large amount of pus flows onto the ground. Subsequently, the person wearing the yellow gloves holds surgical forceps, which are then inserted into the abscess, and a blue object is pulled out and placed in their hand."
+    },
+    {
+        "second": 16,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5s33XjKDaxA/output_frames/sec_16_idx_24.jpg",
+        "fps": 30,
+        "explanation": "[11-20] Then a large amount of pus flows onto the ground. Subsequently, the person wearing the yellow gloves holds surgical forceps, which are then inserted into the abscess, and a blue object is pulled out and placed in their hand."
+    },
+    {
+        "second": 17,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5s33XjKDaxA/output_frames/sec_17_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[11-20] Then a large amount of pus flows onto the ground. Subsequently, the person wearing the yellow gloves holds surgical forceps, which are then inserted into the abscess, and a blue object is pulled out and placed in their hand."
+    },
+    {
+        "second": 18,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5s33XjKDaxA/output_frames/sec_18_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[11-20] Then a large amount of pus flows onto the ground. Subsequently, the person wearing the yellow gloves holds surgical forceps, which are then inserted into the abscess, and a blue object is pulled out and placed in their hand."
+    },
+    {
+        "second": 19,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5s33XjKDaxA/output_frames/sec_19_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[11-20] Then a large amount of pus flows onto the ground. Subsequently, the person wearing the yellow gloves holds surgical forceps, which are then inserted into the abscess, and a blue object is pulled out and placed in their hand."
+    },
+    {
+        "second": 20,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5s33XjKDaxA/output_frames/sec_20_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[11-20] Then a large amount of pus flows onto the ground. Subsequently, the person wearing the yellow gloves holds surgical forceps, which are then inserted into the abscess, and a blue object is pulled out and placed in their hand."
+    },
+    {
+        "second": 21,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5s33XjKDaxA/output_frames/sec_21_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[20-24] Then the forceps are inserted back into the abscess and moved around. The scene then changes to a person in a light green outfit holding a transparent bag and a person in purple clothing holding a syringe. The transparent bag contains a red liquid, which the person holding the bag pours into the syringe."
+    },
+    {
+        "second": 22,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5s33XjKDaxA/output_frames/sec_22_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[20-24] Then the forceps are inserted back into the abscess and moved around. The scene then changes to a person in a light green outfit holding a transparent bag and a person in purple clothing holding a syringe. The transparent bag contains a red liquid, which the person holding the bag pours into the syringe."
+    },
+    {
+        "second": 23,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5s33XjKDaxA/output_frames/sec_23_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[20-24] Then the forceps are inserted back into the abscess and moved around. The scene then changes to a person in a light green outfit holding a transparent bag and a person in purple clothing holding a syringe. The transparent bag contains a red liquid, which the person holding the bag pours into the syringe."
+    },
+    {
+        "second": 24,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5s33XjKDaxA/output_frames/sec_24_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[20-24] Then the forceps are inserted back into the abscess and moved around. The scene then changes to a person in a light green outfit holding a transparent bag and a person in purple clothing holding a syringe. The transparent bag contains a red liquid, which the person holding the bag pours into the syringe."
+    },
+    {
+        "second": 25,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5s33XjKDaxA/output_frames/sec_25_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[24-31] Next, the person holding the syringe injects the liquid into the horse's abscess and then presses on it with their hand, causing a lot of blue liquid to flow out of the abscess."
+    },
+    {
+        "second": 26,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5s33XjKDaxA/output_frames/sec_26_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[24-31] Next, the person holding the syringe injects the liquid into the horse's abscess and then presses on it with their hand, causing a lot of blue liquid to flow out of the abscess."
+    },
+    {
+        "second": 27,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5s33XjKDaxA/output_frames/sec_27_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[24-31] Next, the person holding the syringe injects the liquid into the horse's abscess and then presses on it with their hand, causing a lot of blue liquid to flow out of the abscess."
+    },
+    {
+        "second": 28,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5s33XjKDaxA/output_frames/sec_28_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[24-31] Next, the person holding the syringe injects the liquid into the horse's abscess and then presses on it with their hand, causing a lot of blue liquid to flow out of the abscess."
+    },
+    {
+        "second": 29,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5s33XjKDaxA/output_frames/sec_29_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[24-31] Next, the person holding the syringe injects the liquid into the horse's abscess and then presses on it with their hand, causing a lot of blue liquid to flow out of the abscess."
+    },
+    {
+        "second": 30,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5s33XjKDaxA/output_frames/sec_30_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[24-31] Next, the person holding the syringe injects the liquid into the horse's abscess and then presses on it with their hand, causing a lot of blue liquid to flow out of the abscess."
+    },
+    {
+        "second": 31,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5s33XjKDaxA/output_frames/sec_31_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[24-31] Next, the person holding the syringe injects the liquid into the horse's abscess and then presses on it with their hand, causing a lot of blue liquid to flow out of the abscess."
+    },
+    {
+        "second": 32,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5s33XjKDaxA/output_frames/sec_32_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[31-34] Then the blue liquid drips from the abscess at a slower and slower rate."
+    },
+    {
+        "second": 33,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5s33XjKDaxA/output_frames/sec_33_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[31-34] Then the blue liquid drips from the abscess at a slower and slower rate."
+    },
+    {
+        "second": 34,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5s33XjKDaxA/output_frames/sec_34_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[31-34] Then the blue liquid drips from the abscess at a slower and slower rate."
+    },
+    {
+        "second": 35,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5s33XjKDaxA/output_frames/sec_35_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[34-40] The person in purple clothing then inserts a tube into the incision in the abscess and then grabs surgical scissors, a scalpel, and suture thread."
+    },
+    {
+        "second": 36,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5s33XjKDaxA/output_frames/sec_36_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[34-40] The person in purple clothing then inserts a tube into the incision in the abscess and then grabs surgical scissors, a scalpel, and suture thread."
+    },
+    {
+        "second": 37,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5s33XjKDaxA/output_frames/sec_37_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[34-40] The person in purple clothing then inserts a tube into the incision in the abscess and then grabs surgical scissors, a scalpel, and suture thread."
+    },
+    {
+        "second": 38,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5s33XjKDaxA/output_frames/sec_38_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[34-40] The person in purple clothing then inserts a tube into the incision in the abscess and then grabs surgical scissors, a scalpel, and suture thread."
+    },
+    {
+        "second": 39,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5s33XjKDaxA/output_frames/sec_39_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[34-40] The person in purple clothing then inserts a tube into the incision in the abscess and then grabs surgical scissors, a scalpel, and suture thread."
+    },
+    {
+        "second": 40,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5s33XjKDaxA/output_frames/sec_40_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[34-40] The person in purple clothing then inserts a tube into the incision in the abscess and then grabs surgical scissors, a scalpel, and suture thread."
+    },
+    {
+        "second": 41,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5s33XjKDaxA/output_frames/sec_41_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[40-46] They then begin suturing the incision and wrap the suture thread around the surgical scissors twice before using the scissors to cut the thread."
+    },
+    {
+        "second": 42,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5s33XjKDaxA/output_frames/sec_42_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[40-46] They then begin suturing the incision and wrap the suture thread around the surgical scissors twice before using the scissors to cut the thread."
+    },
+    {
+        "second": 43,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5s33XjKDaxA/output_frames/sec_43_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[40-46] They then begin suturing the incision and wrap the suture thread around the surgical scissors twice before using the scissors to cut the thread."
+    },
+    {
+        "second": 44,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5s33XjKDaxA/output_frames/sec_44_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[40-46] They then begin suturing the incision and wrap the suture thread around the surgical scissors twice before using the scissors to cut the thread."
+    },
+    {
+        "second": 45,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5s33XjKDaxA/output_frames/sec_45_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[40-46] They then begin suturing the incision and wrap the suture thread around the surgical scissors twice before using the scissors to cut the thread."
+    },
+    {
+        "second": 46,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5s33XjKDaxA/output_frames/sec_46_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[40-46] They then begin suturing the incision and wrap the suture thread around the surgical scissors twice before using the scissors to cut the thread."
+    },
+    {
+        "second": 47,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5s33XjKDaxA/output_frames/sec_47_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[46-54] The two people from before reappear. The person in the light green outfit is holding the transparent bag containing the red liquid, and the person in purple clothing is holding the syringe. The person in light green pours the red liquid from the transparent bag into the syringe, and the person in purple then injects the red liquid into the horse's abscess. Subsequently, blue liquid begins to drip from the horse's abscess, and the person in purple starts bandaging the area around the horse's abscess using pink bandaging cloth."
+    },
+    {
+        "second": 48,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5s33XjKDaxA/output_frames/sec_48_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[46-54] The two people from before reappear. The person in the light green outfit is holding the transparent bag containing the red liquid, and the person in purple clothing is holding the syringe. The person in light green pours the red liquid from the transparent bag into the syringe, and the person in purple then injects the red liquid into the horse's abscess. Subsequently, blue liquid begins to drip from the horse's abscess, and the person in purple starts bandaging the area around the horse's abscess using pink bandaging cloth."
+    },
+    {
+        "second": 49,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5s33XjKDaxA/output_frames/sec_49_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[46-54] The two people from before reappear. The person in the light green outfit is holding the transparent bag containing the red liquid, and the person in purple clothing is holding the syringe. The person in light green pours the red liquid from the transparent bag into the syringe, and the person in purple then injects the red liquid into the horse's abscess. Subsequently, blue liquid begins to drip from the horse's abscess, and the person in purple starts bandaging the area around the horse's abscess using pink bandaging cloth."
+    },
+    {
+        "second": 50,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5s33XjKDaxA/output_frames/sec_50_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[46-54] The two people from before reappear. The person in the light green outfit is holding the transparent bag containing the red liquid, and the person in purple clothing is holding the syringe. The person in light green pours the red liquid from the transparent bag into the syringe, and the person in purple then injects the red liquid into the horse's abscess. Subsequently, blue liquid begins to drip from the horse's abscess, and the person in purple starts bandaging the area around the horse's abscess using pink bandaging cloth."
+    },
+    {
+        "second": 51,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5s33XjKDaxA/output_frames/sec_51_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[46-54] The two people from before reappear. The person in the light green outfit is holding the transparent bag containing the red liquid, and the person in purple clothing is holding the syringe. The person in light green pours the red liquid from the transparent bag into the syringe, and the person in purple then injects the red liquid into the horse's abscess. Subsequently, blue liquid begins to drip from the horse's abscess, and the person in purple starts bandaging the area around the horse's abscess using pink bandaging cloth."
+    },
+    {
+        "second": 52,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5s33XjKDaxA/output_frames/sec_52_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[46-54] The two people from before reappear. The person in the light green outfit is holding the transparent bag containing the red liquid, and the person in purple clothing is holding the syringe. The person in light green pours the red liquid from the transparent bag into the syringe, and the person in purple then injects the red liquid into the horse's abscess. Subsequently, blue liquid begins to drip from the horse's abscess, and the person in purple starts bandaging the area around the horse's abscess using pink bandaging cloth."
+    },
+    {
+        "second": 53,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5s33XjKDaxA/output_frames/sec_53_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[46-54] The two people from before reappear. The person in the light green outfit is holding the transparent bag containing the red liquid, and the person in purple clothing is holding the syringe. The person in light green pours the red liquid from the transparent bag into the syringe, and the person in purple then injects the red liquid into the horse's abscess. Subsequently, blue liquid begins to drip from the horse's abscess, and the person in purple starts bandaging the area around the horse's abscess using pink bandaging cloth."
+    },
+    {
+        "second": 54,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5s33XjKDaxA/output_frames/sec_54_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[46-54] The two people from before reappear. The person in the light green outfit is holding the transparent bag containing the red liquid, and the person in purple clothing is holding the syringe. The person in light green pours the red liquid from the transparent bag into the syringe, and the person in purple then injects the red liquid into the horse's abscess. Subsequently, blue liquid begins to drip from the horse's abscess, and the person in purple starts bandaging the area around the horse's abscess using pink bandaging cloth."
+    },
+    {
+        "second": 55,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5s33XjKDaxA/output_frames/sec_55_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[54-59] Finally, the bandaging is complete, and the person in the light green outfit leads the horse out, followed by the person in purple. They return to the stable, and the person in the light green outfit strokes the horse's head."
+    },
+    {
+        "second": 56,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5s33XjKDaxA/output_frames/sec_56_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[54-59] Finally, the bandaging is complete, and the person in the light green outfit leads the horse out, followed by the person in purple. They return to the stable, and the person in the light green outfit strokes the horse's head."
+    },
+    {
+        "second": 57,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5s33XjKDaxA/output_frames/sec_57_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[54-59] Finally, the bandaging is complete, and the person in the light green outfit leads the horse out, followed by the person in purple. They return to the stable, and the person in the light green outfit strokes the horse's head."
+    },
+    {
+        "second": 58,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5s33XjKDaxA/output_frames/sec_58_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[54-59] Finally, the bandaging is complete, and the person in the light green outfit leads the horse out, followed by the person in purple. They return to the stable, and the person in the light green outfit strokes the horse's head."
+    },
+    {
+        "second": 59,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5s33XjKDaxA/output_frames/sec_59_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[54-59] Finally, the bandaging is complete, and the person in the light green outfit leads the horse out, followed by the person in purple. They return to the stable, and the person in the light green outfit strokes the horse's head."
+    }
+]

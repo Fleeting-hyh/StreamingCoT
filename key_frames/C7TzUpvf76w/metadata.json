@@ -1,0 +1,121 @@
+[
+    {
+        "second": 0,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/C7TzUpvf76w/output_frames/sec_0_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A game character in yellow clothing stands on a yellow plane, facing right, carrying a black backpack. Beside the character is a desert with a few trees in the distance. The screen displays white subtitles on a black background: \"Tapping Master\" and a golden crown emoji. In the lower right corner, there is an image of two guns."
+    },
+    {
+        "second": 1,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/C7TzUpvf76w/output_frames/sec_1_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Next, the character in yellow runs to the right and opens the scope. The screen switches to the scope view, showing a desert vehicle driving in the distance."
+    },
+    {
+        "second": 2,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/C7TzUpvf76w/output_frames/sec_2_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Next, the character in yellow runs to the right and opens the scope. The screen switches to the scope view, showing a desert vehicle driving in the distance."
+    },
+    {
+        "second": 3,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/C7TzUpvf76w/output_frames/sec_3_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[2-4] Immediately, the character shoots. The desert vehicle is hit and emits red smoke, a person falls off the vehicle, and the vehicle continues driving."
+    },
+    {
+        "second": 4,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/C7TzUpvf76w/output_frames/sec_4_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[2-4] Immediately, the character shoots. The desert vehicle is hit and emits red smoke, a person falls off the vehicle, and the vehicle continues driving."
+    },
+    {
+        "second": 5,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/C7TzUpvf76w/output_frames/sec_5_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[4-10] Then, the screen switches to the character in yellow putting away the gun and running forward on the rooftop. The character then shoots at the desert vehicle ahead, knocking down the enemy on it."
+    },
+    {
+        "second": 6,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/C7TzUpvf76w/output_frames/sec_6_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[4-10] Then, the screen switches to the character in yellow putting away the gun and running forward on the rooftop. The character then shoots at the desert vehicle ahead, knocking down the enemy on it."
+    },
+    {
+        "second": 7,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/C7TzUpvf76w/output_frames/sec_7_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[4-10] Then, the screen switches to the character in yellow putting away the gun and running forward on the rooftop. The character then shoots at the desert vehicle ahead, knocking down the enemy on it."
+    },
+    {
+        "second": 8,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/C7TzUpvf76w/output_frames/sec_8_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[4-10] Then, the screen switches to the character in yellow putting away the gun and running forward on the rooftop. The character then shoots at the desert vehicle ahead, knocking down the enemy on it."
+    },
+    {
+        "second": 9,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/C7TzUpvf76w/output_frames/sec_9_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[4-10] Then, the screen switches to the character in yellow putting away the gun and running forward on the rooftop. The character then shoots at the desert vehicle ahead, knocking down the enemy on it."
+    },
+    {
+        "second": 10,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/C7TzUpvf76w/output_frames/sec_10_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[4-10] Then, the screen switches to the character in yellow putting away the gun and running forward on the rooftop. The character then shoots at the desert vehicle ahead, knocking down the enemy on it."
+    },
+    {
+        "second": 11,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/C7TzUpvf76w/output_frames/sec_11_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[10-16] Finally, the character in yellow crouches on the rooftop. The screen switches to the image of two guns, then switches back to the character continuing to run on the rooftop."
+    },
+    {
+        "second": 12,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/C7TzUpvf76w/output_frames/sec_12_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[10-16] Finally, the character in yellow crouches on the rooftop. The screen switches to the image of two guns, then switches back to the character continuing to run on the rooftop."
+    },
+    {
+        "second": 13,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/C7TzUpvf76w/output_frames/sec_13_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[10-16] Finally, the character in yellow crouches on the rooftop. The screen switches to the image of two guns, then switches back to the character continuing to run on the rooftop."
+    },
+    {
+        "second": 14,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/C7TzUpvf76w/output_frames/sec_14_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[10-16] Finally, the character in yellow crouches on the rooftop. The screen switches to the image of two guns, then switches back to the character continuing to run on the rooftop."
+    },
+    {
+        "second": 15,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/C7TzUpvf76w/output_frames/sec_15_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[10-16] Finally, the character in yellow crouches on the rooftop. The screen switches to the image of two guns, then switches back to the character continuing to run on the rooftop."
+    },
+    {
+        "second": 16,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/C7TzUpvf76w/output_frames/sec_16_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[10-16] Finally, the character in yellow crouches on the rooftop. The screen switches to the image of two guns, then switches back to the character continuing to run on the rooftop."
+    }
+]

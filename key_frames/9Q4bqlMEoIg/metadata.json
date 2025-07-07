@@ -1,0 +1,107 @@
+[
+    {
+        "second": 0,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9Q4bqlMEoIg/output_frames/sec_0_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[0-0] Messi, wearing an Argentina number 10 jersey and holding a water bottle in his right hand, is standing in a hallway. He is surrounded by staff and reporters. There is a white \"FIFA\" watermark in the upper right corner."
+    },
+    {
+        "second": 1,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9Q4bqlMEoIg/output_frames/sec_1_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Messi walks to the right, and the camera follows him. Then Messi walks to a red background board."
+    },
+    {
+        "second": 2,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9Q4bqlMEoIg/output_frames/sec_2_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Messi walks to the right, and the camera follows him. Then Messi walks to a red background board."
+    },
+    {
+        "second": 3,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9Q4bqlMEoIg/output_frames/sec_3_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Messi walks to the right, and the camera follows him. Then Messi walks to a red background board."
+    },
+    {
+        "second": 4,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9Q4bqlMEoIg/output_frames/sec_4_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Messi walks to the right, and the camera follows him. Then Messi walks to a red background board."
+    },
+    {
+        "second": 5,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9Q4bqlMEoIg/output_frames/sec_5_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[4-7] Then, Messi hugs a man wearing a black tracksuit."
+    },
+    {
+        "second": 6,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9Q4bqlMEoIg/output_frames/sec_6_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[4-7] Then, Messi hugs a man wearing a black tracksuit."
+    },
+    {
+        "second": 7,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9Q4bqlMEoIg/output_frames/sec_7_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[4-7] Then, Messi hugs a man wearing a black tracksuit."
+    },
+    {
+        "second": 8,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9Q4bqlMEoIg/output_frames/sec_8_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[7-15] Subsequently, Messi bends down to put the water bottle on the ground and smiles as he takes a red trophy from the man in the black tracksuit. Finally, Messi and the man in the black tracksuit smile at each other."
+    },
+    {
+        "second": 9,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9Q4bqlMEoIg/output_frames/sec_9_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[7-15] Subsequently, Messi bends down to put the water bottle on the ground and smiles as he takes a red trophy from the man in the black tracksuit. Finally, Messi and the man in the black tracksuit smile at each other."
+    },
+    {
+        "second": 10,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9Q4bqlMEoIg/output_frames/sec_10_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[7-15] Subsequently, Messi bends down to put the water bottle on the ground and smiles as he takes a red trophy from the man in the black tracksuit. Finally, Messi and the man in the black tracksuit smile at each other."
+    },
+    {
+        "second": 11,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9Q4bqlMEoIg/output_frames/sec_11_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[7-15] Subsequently, Messi bends down to put the water bottle on the ground and smiles as he takes a red trophy from the man in the black tracksuit. Finally, Messi and the man in the black tracksuit smile at each other."
+    },
+    {
+        "second": 12,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9Q4bqlMEoIg/output_frames/sec_12_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[7-15] Subsequently, Messi bends down to put the water bottle on the ground and smiles as he takes a red trophy from the man in the black tracksuit. Finally, Messi and the man in the black tracksuit smile at each other."
+    },
+    {
+        "second": 13,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9Q4bqlMEoIg/output_frames/sec_13_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[7-15] Subsequently, Messi bends down to put the water bottle on the ground and smiles as he takes a red trophy from the man in the black tracksuit. Finally, Messi and the man in the black tracksuit smile at each other."
+    },
+    {
+        "second": 14,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9Q4bqlMEoIg/output_frames/sec_14_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[7-15] Subsequently, Messi bends down to put the water bottle on the ground and smiles as he takes a red trophy from the man in the black tracksuit. Finally, Messi and the man in the black tracksuit smile at each other."
+    }
+]

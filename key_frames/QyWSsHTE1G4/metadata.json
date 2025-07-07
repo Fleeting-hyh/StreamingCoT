@@ -1,0 +1,205 @@
+[
+    {
+        "second": 0,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QyWSsHTE1G4/output_frames/sec_0_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A woman wearing a pink sweater and white pants is standing on the sidewalk in front of a multi-story building. The woman is smiling excitedly with her hands raised, holding a can of cola, a small bottle, a tube of Mentos, and a blue spray bottle in front of her. The background features buildings with blue glass and brown striped decorations."
+    },
+    {
+        "second": 1,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QyWSsHTE1G4/output_frames/sec_1_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[0-9] Then the woman bends down and pours the cola into the small bottle, picks up a Mentos and puts it into the bottle, then connects the spray bottle to the water bottle."
+    },
+    {
+        "second": 2,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QyWSsHTE1G4/output_frames/sec_2_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-9] Then the woman bends down and pours the cola into the small bottle, picks up a Mentos and puts it into the bottle, then connects the spray bottle to the water bottle."
+    },
+    {
+        "second": 3,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QyWSsHTE1G4/output_frames/sec_3_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[0-9] Then the woman bends down and pours the cola into the small bottle, picks up a Mentos and puts it into the bottle, then connects the spray bottle to the water bottle."
+    },
+    {
+        "second": 4,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QyWSsHTE1G4/output_frames/sec_4_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[0-9] Then the woman bends down and pours the cola into the small bottle, picks up a Mentos and puts it into the bottle, then connects the spray bottle to the water bottle."
+    },
+    {
+        "second": 5,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QyWSsHTE1G4/output_frames/sec_5_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[0-9] Then the woman bends down and pours the cola into the small bottle, picks up a Mentos and puts it into the bottle, then connects the spray bottle to the water bottle."
+    },
+    {
+        "second": 6,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QyWSsHTE1G4/output_frames/sec_6_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[0-9] Then the woman bends down and pours the cola into the small bottle, picks up a Mentos and puts it into the bottle, then connects the spray bottle to the water bottle."
+    },
+    {
+        "second": 7,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QyWSsHTE1G4/output_frames/sec_7_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-9] Then the woman bends down and pours the cola into the small bottle, picks up a Mentos and puts it into the bottle, then connects the spray bottle to the water bottle."
+    },
+    {
+        "second": 8,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QyWSsHTE1G4/output_frames/sec_8_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[0-9] Then the woman bends down and pours the cola into the small bottle, picks up a Mentos and puts it into the bottle, then connects the spray bottle to the water bottle."
+    },
+    {
+        "second": 9,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QyWSsHTE1G4/output_frames/sec_9_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[0-9] Then the woman bends down and pours the cola into the small bottle, picks up a Mentos and puts it into the bottle, then connects the spray bottle to the water bottle."
+    },
+    {
+        "second": 10,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QyWSsHTE1G4/output_frames/sec_10_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[9-13] Subsequently, she aims the nozzle at a yellow balloon and sprays the liquid into it."
+    },
+    {
+        "second": 11,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QyWSsHTE1G4/output_frames/sec_11_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[9-13] Subsequently, she aims the nozzle at a yellow balloon and sprays the liquid into it."
+    },
+    {
+        "second": 12,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QyWSsHTE1G4/output_frames/sec_12_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[9-13] Subsequently, she aims the nozzle at a yellow balloon and sprays the liquid into it."
+    },
+    {
+        "second": 13,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QyWSsHTE1G4/output_frames/sec_13_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[9-13] Subsequently, she aims the nozzle at a yellow balloon and sprays the liquid into it."
+    },
+    {
+        "second": 14,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QyWSsHTE1G4/output_frames/sec_14_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[13-19] She then seals the balloon and walks backward."
+    },
+    {
+        "second": 15,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QyWSsHTE1G4/output_frames/sec_15_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[13-19] She then seals the balloon and walks backward."
+    },
+    {
+        "second": 16,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QyWSsHTE1G4/output_frames/sec_16_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[13-19] She then seals the balloon and walks backward."
+    },
+    {
+        "second": 17,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QyWSsHTE1G4/output_frames/sec_17_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[13-19] She then seals the balloon and walks backward."
+    },
+    {
+        "second": 18,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QyWSsHTE1G4/output_frames/sec_18_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[13-19] She then seals the balloon and walks backward."
+    },
+    {
+        "second": 19,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QyWSsHTE1G4/output_frames/sec_19_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[13-19] She then seals the balloon and walks backward."
+    },
+    {
+        "second": 20,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QyWSsHTE1G4/output_frames/sec_20_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[19-28] Then she throws the balloon into the air. The balloon expands continuously and finally explodes, splashing a pool of brown liquid on the ground."
+    },
+    {
+        "second": 21,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QyWSsHTE1G4/output_frames/sec_21_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[19-28] Then she throws the balloon into the air. The balloon expands continuously and finally explodes, splashing a pool of brown liquid on the ground."
+    },
+    {
+        "second": 22,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QyWSsHTE1G4/output_frames/sec_22_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[19-28] Then she throws the balloon into the air. The balloon expands continuously and finally explodes, splashing a pool of brown liquid on the ground."
+    },
+    {
+        "second": 23,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QyWSsHTE1G4/output_frames/sec_23_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[19-28] Then she throws the balloon into the air. The balloon expands continuously and finally explodes, splashing a pool of brown liquid on the ground."
+    },
+    {
+        "second": 24,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QyWSsHTE1G4/output_frames/sec_24_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[19-28] Then she throws the balloon into the air. The balloon expands continuously and finally explodes, splashing a pool of brown liquid on the ground."
+    },
+    {
+        "second": 25,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QyWSsHTE1G4/output_frames/sec_25_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[19-28] Then she throws the balloon into the air. The balloon expands continuously and finally explodes, splashing a pool of brown liquid on the ground."
+    },
+    {
+        "second": 26,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QyWSsHTE1G4/output_frames/sec_26_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[19-28] Then she throws the balloon into the air. The balloon expands continuously and finally explodes, splashing a pool of brown liquid on the ground."
+    },
+    {
+        "second": 27,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QyWSsHTE1G4/output_frames/sec_27_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[19-28] Then she throws the balloon into the air. The balloon expands continuously and finally explodes, splashing a pool of brown liquid on the ground."
+    },
+    {
+        "second": 28,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QyWSsHTE1G4/output_frames/sec_28_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[19-28] Then she throws the balloon into the air. The balloon expands continuously and finally explodes, splashing a pool of brown liquid on the ground."
+    }
+]

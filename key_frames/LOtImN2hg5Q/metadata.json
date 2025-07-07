@@ -1,0 +1,72 @@
+[
+    {
+        "second": 0,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LOtImN2hg5Q/output_frames/sec_0_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[0-0] Inside a car, a blonde woman wearing a black top sits in the driver's seat, smiling at the camera."
+    },
+    {
+        "second": 1,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LOtImN2hg5Q/output_frames/sec_1_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Then, the woman in black raises her right hand and points towards the right side of the frame. Immediately afterward, the camera zooms in and the scene changes to show the woman's finger resting on the car's central control screen. Through the windshield, the background outside the car can be seen as white and yellow mountains."
+    },
+    {
+        "second": 2,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LOtImN2hg5Q/output_frames/sec_2_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Then, the woman in black raises her right hand and points towards the right side of the frame. Immediately afterward, the camera zooms in and the scene changes to show the woman's finger resting on the car's central control screen. Through the windshield, the background outside the car can be seen as white and yellow mountains."
+    },
+    {
+        "second": 3,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LOtImN2hg5Q/output_frames/sec_3_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[2-5] As the woman slides her finger across the control screen, a 360-degree view around a car is displayed. A red truck appears in the screen image, approaching from a distance."
+    },
+    {
+        "second": 4,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LOtImN2hg5Q/output_frames/sec_4_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[2-5] As the woman slides her finger across the control screen, a 360-degree view around a car is displayed. A red truck appears in the screen image, approaching from a distance."
+    },
+    {
+        "second": 5,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LOtImN2hg5Q/output_frames/sec_5_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[2-5] As the woman slides her finger across the control screen, a 360-degree view around a car is displayed. A red truck appears in the screen image, approaching from a distance."
+    },
+    {
+        "second": 6,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LOtImN2hg5Q/output_frames/sec_6_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[5-9] While the woman's finger slides across the screen, the red truck travels along the road and passes by the car. The shot then pulls back, and through the windshield, the back of a red truck can be seen on the road above and to the left."
+    },
+    {
+        "second": 7,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LOtImN2hg5Q/output_frames/sec_7_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[5-9] While the woman's finger slides across the screen, the red truck travels along the road and passes by the car. The shot then pulls back, and through the windshield, the back of a red truck can be seen on the road above and to the left."
+    },
+    {
+        "second": 8,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LOtImN2hg5Q/output_frames/sec_8_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[5-9] While the woman's finger slides across the screen, the red truck travels along the road and passes by the car. The shot then pulls back, and through the windshield, the back of a red truck can be seen on the road above and to the left."
+    },
+    {
+        "second": 9,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LOtImN2hg5Q/output_frames/sec_9_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[5-9] While the woman's finger slides across the screen, the red truck travels along the road and passes by the car. The shot then pulls back, and through the windshield, the back of a red truck can be seen on the road above and to the left."
+    }
+]

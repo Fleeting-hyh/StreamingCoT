@@ -1,0 +1,65 @@
+[
+    {
+        "second": 0,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8H2N5h2BrxM/output_frames/sec_0_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[0-0] An elderly man wearing a red shirt and beige shorts, and glasses, is sitting on a chair. The chair is placed on yellow tiles in front of a bus stop. To the left of the elderly man stand a man in a gray shirt and a woman in a blue shirt with a white bag. In front of the elderly man is a road with railings alongside it, and a blue bus is on the road."
+    },
+    {
+        "second": 1,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8H2N5h2BrxM/output_frames/sec_1_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[0-4] At this moment, the blue bus drives up to the elderly man, and he stands up, folding the chair into a cane. Then the shot changes, and the elderly man is now wearing a white shirt and beige pants, holding the green chair folded as a cane in his left hand. Immediately, he unfolds the cane back into a chair and sits down."
+    },
+    {
+        "second": 2,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8H2N5h2BrxM/output_frames/sec_2_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[0-4] At this moment, the blue bus drives up to the elderly man, and he stands up, folding the chair into a cane. Then the shot changes, and the elderly man is now wearing a white shirt and beige pants, holding the green chair folded as a cane in his left hand. Immediately, he unfolds the cane back into a chair and sits down."
+    },
+    {
+        "second": 3,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8H2N5h2BrxM/output_frames/sec_3_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[0-4] At this moment, the blue bus drives up to the elderly man, and he stands up, folding the chair into a cane. Then the shot changes, and the elderly man is now wearing a white shirt and beige pants, holding the green chair folded as a cane in his left hand. Immediately, he unfolds the cane back into a chair and sits down."
+    },
+    {
+        "second": 4,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8H2N5h2BrxM/output_frames/sec_4_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[0-4] At this moment, the blue bus drives up to the elderly man, and he stands up, folding the chair into a cane. Then the shot changes, and the elderly man is now wearing a white shirt and beige pants, holding the green chair folded as a cane in his left hand. Immediately, he unfolds the cane back into a chair and sits down."
+    },
+    {
+        "second": 5,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8H2N5h2BrxM/output_frames/sec_5_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[4-8] The scene then switches again, the elderly man now wears a black shirt and beige pants, and is in a room with many electric bikes. On the white wall behind him are a painting and a photograph. He is holding the red chair folded as a cane in his left hand. Next, the elderly man unfolds the cane back into a chair. The shot changes again to a person wearing black shorts and white shoes standing in front of a bed. There is a blue pillow on the bed. The person in white shoes is holding a red chair, and then folds it into a cane."
+    },
+    {
+        "second": 6,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8H2N5h2BrxM/output_frames/sec_6_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[4-8] The scene then switches again, the elderly man now wears a black shirt and beige pants, and is in a room with many electric bikes. On the white wall behind him are a painting and a photograph. He is holding the red chair folded as a cane in his left hand. Next, the elderly man unfolds the cane back into a chair. The shot changes again to a person wearing black shorts and white shoes standing in front of a bed. There is a blue pillow on the bed. The person in white shoes is holding a red chair, and then folds it into a cane."
+    },
+    {
+        "second": 7,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8H2N5h2BrxM/output_frames/sec_7_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[4-8] The scene then switches again, the elderly man now wears a black shirt and beige pants, and is in a room with many electric bikes. On the white wall behind him are a painting and a photograph. He is holding the red chair folded as a cane in his left hand. Next, the elderly man unfolds the cane back into a chair. The shot changes again to a person wearing black shorts and white shoes standing in front of a bed. There is a blue pillow on the bed. The person in white shoes is holding a red chair, and then folds it into a cane."
+    },
+    {
+        "second": 8,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8H2N5h2BrxM/output_frames/sec_8_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[4-8] The scene then switches again, the elderly man now wears a black shirt and beige pants, and is in a room with many electric bikes. On the white wall behind him are a painting and a photograph. He is holding the red chair folded as a cane in his left hand. Next, the elderly man unfolds the cane back into a chair. The shot changes again to a person wearing black shorts and white shoes standing in front of a bed. There is a blue pillow on the bed. The person in white shoes is holding a red chair, and then folds it into a cane."
+    }
+]

@@ -1,0 +1,268 @@
+[
+    {
+        "second": 0,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HdN5-8SXeAM/output_frames/sec_0_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-0] In front of a window with pink curtains, a man wearing a white shirt, jeans and a black cap is sitting on a sofa, holding a black pot in both hands. Beside him, a little girl in a purple top, black pants and a ponytail is looking at him. In front of them is a black marble table with gold trim, on which sits a transparent plastic bottle."
+    },
+    {
+        "second": 1,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HdN5-8SXeAM/output_frames/sec_1_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[0-2] The man moves the pot in his hands closer to the bottle in front of him, tilting it to pour water into the bottle. A lot of water spills outside the bottle. Seeing this, the little girl turns around and takes a transparent funnel from the right, waving it at the man."
+    },
+    {
+        "second": 2,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HdN5-8SXeAM/output_frames/sec_2_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[0-2] The man moves the pot in his hands closer to the bottle in front of him, tilting it to pour water into the bottle. A lot of water spills outside the bottle. Seeing this, the little girl turns around and takes a transparent funnel from the right, waving it at the man."
+    },
+    {
+        "second": 3,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HdN5-8SXeAM/output_frames/sec_3_idx_24.jpg",
+        "fps": 30,
+        "explanation": "[2-6] Then the man stops pouring water and looks at the little girl. With the man's help, the little girl places the funnel on the mouth of the bottle. Because the funnel is placed upside down on the bottle, it falls into the black pot next to the water bottle after the man lets go. The man then takes out the funnel and puts it upside down on the mouth of the bottle again."
+    },
+    {
+        "second": 4,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HdN5-8SXeAM/output_frames/sec_4_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[2-6] Then the man stops pouring water and looks at the little girl. With the man's help, the little girl places the funnel on the mouth of the bottle. Because the funnel is placed upside down on the bottle, it falls into the black pot next to the water bottle after the man lets go. The man then takes out the funnel and puts it upside down on the mouth of the bottle again."
+    },
+    {
+        "second": 5,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HdN5-8SXeAM/output_frames/sec_5_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[2-6] Then the man stops pouring water and looks at the little girl. With the man's help, the little girl places the funnel on the mouth of the bottle. Because the funnel is placed upside down on the bottle, it falls into the black pot next to the water bottle after the man lets go. The man then takes out the funnel and puts it upside down on the mouth of the bottle again."
+    },
+    {
+        "second": 6,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HdN5-8SXeAM/output_frames/sec_6_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[2-6] Then the man stops pouring water and looks at the little girl. With the man's help, the little girl places the funnel on the mouth of the bottle. Because the funnel is placed upside down on the bottle, it falls into the black pot next to the water bottle after the man lets go. The man then takes out the funnel and puts it upside down on the mouth of the bottle again."
+    },
+    {
+        "second": 7,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HdN5-8SXeAM/output_frames/sec_7_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[6-11] Then, after the man fixes the funnel, he picks up the black pot with his right hand and pours water into the bottle. All the water is poured onto the funnel. The little girl shakes her right index finger, indicating that this is not the way to do it."
+    },
+    {
+        "second": 8,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HdN5-8SXeAM/output_frames/sec_8_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[6-11] Then, after the man fixes the funnel, he picks up the black pot with his right hand and pours water into the bottle. All the water is poured onto the funnel. The little girl shakes her right index finger, indicating that this is not the way to do it."
+    },
+    {
+        "second": 9,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HdN5-8SXeAM/output_frames/sec_9_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[6-11] Then, after the man fixes the funnel, he picks up the black pot with his right hand and pours water into the bottle. All the water is poured onto the funnel. The little girl shakes her right index finger, indicating that this is not the way to do it."
+    },
+    {
+        "second": 10,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HdN5-8SXeAM/output_frames/sec_10_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[6-11] Then, after the man fixes the funnel, he picks up the black pot with his right hand and pours water into the bottle. All the water is poured onto the funnel. The little girl shakes her right index finger, indicating that this is not the way to do it."
+    },
+    {
+        "second": 11,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HdN5-8SXeAM/output_frames/sec_11_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[6-11] Then, after the man fixes the funnel, he picks up the black pot with his right hand and pours water into the bottle. All the water is poured onto the funnel. The little girl shakes her right index finger, indicating that this is not the way to do it."
+    },
+    {
+        "second": 12,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HdN5-8SXeAM/output_frames/sec_12_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[11-20] Then the little girl picks up the funnel and inserts it into the bottle. The man reveals a look of sudden realization and looks at the little girl, then pours the water from the pot into the bottle. The water from the pot flows through the funnel and into the bottle without a single drop spilled. The man stops his action with a smile, pats the little girl's hand and gives a thumbs up, indicating that this is the way to do it. The little girl also smiles and gives a thumbs up."
+    },
+    {
+        "second": 13,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HdN5-8SXeAM/output_frames/sec_13_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[11-20] Then the little girl picks up the funnel and inserts it into the bottle. The man reveals a look of sudden realization and looks at the little girl, then pours the water from the pot into the bottle. The water from the pot flows through the funnel and into the bottle without a single drop spilled. The man stops his action with a smile, pats the little girl's hand and gives a thumbs up, indicating that this is the way to do it. The little girl also smiles and gives a thumbs up."
+    },
+    {
+        "second": 14,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HdN5-8SXeAM/output_frames/sec_14_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[11-20] Then the little girl picks up the funnel and inserts it into the bottle. The man reveals a look of sudden realization and looks at the little girl, then pours the water from the pot into the bottle. The water from the pot flows through the funnel and into the bottle without a single drop spilled. The man stops his action with a smile, pats the little girl's hand and gives a thumbs up, indicating that this is the way to do it. The little girl also smiles and gives a thumbs up."
+    },
+    {
+        "second": 15,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HdN5-8SXeAM/output_frames/sec_15_idx_24.jpg",
+        "fps": 30,
+        "explanation": "[11-20] Then the little girl picks up the funnel and inserts it into the bottle. The man reveals a look of sudden realization and looks at the little girl, then pours the water from the pot into the bottle. The water from the pot flows through the funnel and into the bottle without a single drop spilled. The man stops his action with a smile, pats the little girl's hand and gives a thumbs up, indicating that this is the way to do it. The little girl also smiles and gives a thumbs up."
+    },
+    {
+        "second": 16,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HdN5-8SXeAM/output_frames/sec_16_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[11-20] Then the little girl picks up the funnel and inserts it into the bottle. The man reveals a look of sudden realization and looks at the little girl, then pours the water from the pot into the bottle. The water from the pot flows through the funnel and into the bottle without a single drop spilled. The man stops his action with a smile, pats the little girl's hand and gives a thumbs up, indicating that this is the way to do it. The little girl also smiles and gives a thumbs up."
+    },
+    {
+        "second": 17,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HdN5-8SXeAM/output_frames/sec_17_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[11-20] Then the little girl picks up the funnel and inserts it into the bottle. The man reveals a look of sudden realization and looks at the little girl, then pours the water from the pot into the bottle. The water from the pot flows through the funnel and into the bottle without a single drop spilled. The man stops his action with a smile, pats the little girl's hand and gives a thumbs up, indicating that this is the way to do it. The little girl also smiles and gives a thumbs up."
+    },
+    {
+        "second": 18,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HdN5-8SXeAM/output_frames/sec_18_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[11-20] Then the little girl picks up the funnel and inserts it into the bottle. The man reveals a look of sudden realization and looks at the little girl, then pours the water from the pot into the bottle. The water from the pot flows through the funnel and into the bottle without a single drop spilled. The man stops his action with a smile, pats the little girl's hand and gives a thumbs up, indicating that this is the way to do it. The little girl also smiles and gives a thumbs up."
+    },
+    {
+        "second": 19,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HdN5-8SXeAM/output_frames/sec_19_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[11-20] Then the little girl picks up the funnel and inserts it into the bottle. The man reveals a look of sudden realization and looks at the little girl, then pours the water from the pot into the bottle. The water from the pot flows through the funnel and into the bottle without a single drop spilled. The man stops his action with a smile, pats the little girl's hand and gives a thumbs up, indicating that this is the way to do it. The little girl also smiles and gives a thumbs up."
+    },
+    {
+        "second": 20,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HdN5-8SXeAM/output_frames/sec_20_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[11-20] Then the little girl picks up the funnel and inserts it into the bottle. The man reveals a look of sudden realization and looks at the little girl, then pours the water from the pot into the bottle. The water from the pot flows through the funnel and into the bottle without a single drop spilled. The man stops his action with a smile, pats the little girl's hand and gives a thumbs up, indicating that this is the way to do it. The little girl also smiles and gives a thumbs up."
+    },
+    {
+        "second": 21,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HdN5-8SXeAM/output_frames/sec_21_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[20-24] Then the man puts the funnel upside down on the bottle, and the little girl shows a puzzled expression. Before the water is poured out, the funnel on the mouth of the bottle falls on the table. The man does not stop pouring, and a lot of water still spills onto the table. The little girl picks up the funnel that fell on the table. The man stops pouring and takes the funnel from the little girl and reinserts it into the bottle."
+    },
+    {
+        "second": 22,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HdN5-8SXeAM/output_frames/sec_22_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[20-24] Then the man puts the funnel upside down on the bottle, and the little girl shows a puzzled expression. Before the water is poured out, the funnel on the mouth of the bottle falls on the table. The man does not stop pouring, and a lot of water still spills onto the table. The little girl picks up the funnel that fell on the table. The man stops pouring and takes the funnel from the little girl and reinserts it into the bottle."
+    },
+    {
+        "second": 23,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HdN5-8SXeAM/output_frames/sec_23_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[20-24] Then the man puts the funnel upside down on the bottle, and the little girl shows a puzzled expression. Before the water is poured out, the funnel on the mouth of the bottle falls on the table. The man does not stop pouring, and a lot of water still spills onto the table. The little girl picks up the funnel that fell on the table. The man stops pouring and takes the funnel from the little girl and reinserts it into the bottle."
+    },
+    {
+        "second": 24,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HdN5-8SXeAM/output_frames/sec_24_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[20-24] Then the man puts the funnel upside down on the bottle, and the little girl shows a puzzled expression. Before the water is poured out, the funnel on the mouth of the bottle falls on the table. The man does not stop pouring, and a lot of water still spills onto the table. The little girl picks up the funnel that fell on the table. The man stops pouring and takes the funnel from the little girl and reinserts it into the bottle."
+    },
+    {
+        "second": 25,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HdN5-8SXeAM/output_frames/sec_25_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[24-29] Then the man continues to pour the water from the pot into the bottle through the funnel. Seeing the water pouring into the bottle, the man covers his glasses with his left hand and pours all the remaining water from the pot into the bottle. The little girl sees that there is not much water left in the pot and the bottle is about to be filled. She happily raises both fists to the sides of her head."
+    },
+    {
+        "second": 26,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HdN5-8SXeAM/output_frames/sec_26_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[24-29] Then the man continues to pour the water from the pot into the bottle through the funnel. Seeing the water pouring into the bottle, the man covers his glasses with his left hand and pours all the remaining water from the pot into the bottle. The little girl sees that there is not much water left in the pot and the bottle is about to be filled. She happily raises both fists to the sides of her head."
+    },
+    {
+        "second": 27,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HdN5-8SXeAM/output_frames/sec_27_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[24-29] Then the man continues to pour the water from the pot into the bottle through the funnel. Seeing the water pouring into the bottle, the man covers his glasses with his left hand and pours all the remaining water from the pot into the bottle. The little girl sees that there is not much water left in the pot and the bottle is about to be filled. She happily raises both fists to the sides of her head."
+    },
+    {
+        "second": 28,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HdN5-8SXeAM/output_frames/sec_28_idx_24.jpg",
+        "fps": 30,
+        "explanation": "[24-29] Then the man continues to pour the water from the pot into the bottle through the funnel. Seeing the water pouring into the bottle, the man covers his glasses with his left hand and pours all the remaining water from the pot into the bottle. The little girl sees that there is not much water left in the pot and the bottle is about to be filled. She happily raises both fists to the sides of her head."
+    },
+    {
+        "second": 29,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HdN5-8SXeAM/output_frames/sec_29_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[24-29] Then the man continues to pour the water from the pot into the bottle through the funnel. Seeing the water pouring into the bottle, the man covers his glasses with his left hand and pours all the remaining water from the pot into the bottle. The little girl sees that there is not much water left in the pot and the bottle is about to be filled. She happily raises both fists to the sides of her head."
+    },
+    {
+        "second": 30,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HdN5-8SXeAM/output_frames/sec_30_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[29-37] Then, all the water in the pot is poured into the bottle. The man puts the pot aside, takes his hand off his glasses and waves his arms happily. The little girl also looks at the man at this time. Finally, the man bends over with his hands on his waist and the little girl also claps her hands while looking at him. The man is delighted because he successfully poured the water into the bottle. The man uses his hand to push the funnel on the bottle into the empty pot next to it and then uses his hand to fiddle with the bottle filled with water. When he touches the bottle for the second time, he knocks it over, spilling water on the table. The man reveals a panicked expression and reaches for the bottle. The little girl also shows a look of fright and stops clapping her hands. After righting the bottle, the man looks around cautiously."
+    },
+    {
+        "second": 31,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HdN5-8SXeAM/output_frames/sec_31_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[29-37] Then, all the water in the pot is poured into the bottle. The man puts the pot aside, takes his hand off his glasses and waves his arms happily. The little girl also looks at the man at this time. Finally, the man bends over with his hands on his waist and the little girl also claps her hands while looking at him. The man is delighted because he successfully poured the water into the bottle. The man uses his hand to push the funnel on the bottle into the empty pot next to it and then uses his hand to fiddle with the bottle filled with water. When he touches the bottle for the second time, he knocks it over, spilling water on the table. The man reveals a panicked expression and reaches for the bottle. The little girl also shows a look of fright and stops clapping her hands. After righting the bottle, the man looks around cautiously."
+    },
+    {
+        "second": 32,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HdN5-8SXeAM/output_frames/sec_32_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[29-37] Then, all the water in the pot is poured into the bottle. The man puts the pot aside, takes his hand off his glasses and waves his arms happily. The little girl also looks at the man at this time. Finally, the man bends over with his hands on his waist and the little girl also claps her hands while looking at him. The man is delighted because he successfully poured the water into the bottle. The man uses his hand to push the funnel on the bottle into the empty pot next to it and then uses his hand to fiddle with the bottle filled with water. When he touches the bottle for the second time, he knocks it over, spilling water on the table. The man reveals a panicked expression and reaches for the bottle. The little girl also shows a look of fright and stops clapping her hands. After righting the bottle, the man looks around cautiously."
+    },
+    {
+        "second": 33,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HdN5-8SXeAM/output_frames/sec_33_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[29-37] Then, all the water in the pot is poured into the bottle. The man puts the pot aside, takes his hand off his glasses and waves his arms happily. The little girl also looks at the man at this time. Finally, the man bends over with his hands on his waist and the little girl also claps her hands while looking at him. The man is delighted because he successfully poured the water into the bottle. The man uses his hand to push the funnel on the bottle into the empty pot next to it and then uses his hand to fiddle with the bottle filled with water. When he touches the bottle for the second time, he knocks it over, spilling water on the table. The man reveals a panicked expression and reaches for the bottle. The little girl also shows a look of fright and stops clapping her hands. After righting the bottle, the man looks around cautiously."
+    },
+    {
+        "second": 34,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HdN5-8SXeAM/output_frames/sec_34_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[29-37] Then, all the water in the pot is poured into the bottle. The man puts the pot aside, takes his hand off his glasses and waves his arms happily. The little girl also looks at the man at this time. Finally, the man bends over with his hands on his waist and the little girl also claps her hands while looking at him. The man is delighted because he successfully poured the water into the bottle. The man uses his hand to push the funnel on the bottle into the empty pot next to it and then uses his hand to fiddle with the bottle filled with water. When he touches the bottle for the second time, he knocks it over, spilling water on the table. The man reveals a panicked expression and reaches for the bottle. The little girl also shows a look of fright and stops clapping her hands. After righting the bottle, the man looks around cautiously."
+    },
+    {
+        "second": 35,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HdN5-8SXeAM/output_frames/sec_35_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[29-37] Then, all the water in the pot is poured into the bottle. The man puts the pot aside, takes his hand off his glasses and waves his arms happily. The little girl also looks at the man at this time. Finally, the man bends over with his hands on his waist and the little girl also claps her hands while looking at him. The man is delighted because he successfully poured the water into the bottle. The man uses his hand to push the funnel on the bottle into the empty pot next to it and then uses his hand to fiddle with the bottle filled with water. When he touches the bottle for the second time, he knocks it over, spilling water on the table. The man reveals a panicked expression and reaches for the bottle. The little girl also shows a look of fright and stops clapping her hands. After righting the bottle, the man looks around cautiously."
+    },
+    {
+        "second": 36,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HdN5-8SXeAM/output_frames/sec_36_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[29-37] Then, all the water in the pot is poured into the bottle. The man puts the pot aside, takes his hand off his glasses and waves his arms happily. The little girl also looks at the man at this time. Finally, the man bends over with his hands on his waist and the little girl also claps her hands while looking at him. The man is delighted because he successfully poured the water into the bottle. The man uses his hand to push the funnel on the bottle into the empty pot next to it and then uses his hand to fiddle with the bottle filled with water. When he touches the bottle for the second time, he knocks it over, spilling water on the table. The man reveals a panicked expression and reaches for the bottle. The little girl also shows a look of fright and stops clapping her hands. After righting the bottle, the man looks around cautiously."
+    },
+    {
+        "second": 37,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HdN5-8SXeAM/output_frames/sec_37_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[29-37] Then, all the water in the pot is poured into the bottle. The man puts the pot aside, takes his hand off his glasses and waves his arms happily. The little girl also looks at the man at this time. Finally, the man bends over with his hands on his waist and the little girl also claps her hands while looking at him. The man is delighted because he successfully poured the water into the bottle. The man uses his hand to push the funnel on the bottle into the empty pot next to it and then uses his hand to fiddle with the bottle filled with water. When he touches the bottle for the second time, he knocks it over, spilling water on the table. The man reveals a panicked expression and reaches for the bottle. The little girl also shows a look of fright and stops clapping her hands. After righting the bottle, the man looks around cautiously."
+    }
+]

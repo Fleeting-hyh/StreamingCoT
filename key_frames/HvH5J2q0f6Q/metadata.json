@@ -1,0 +1,37 @@
+[
+    {
+        "second": 0,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HvH5J2q0f6Q/output_frames/sec_0_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[0-0] In the frame, a colorful bird is sitting in a wooden boat, holding oars in its hands. The boat is resting on green water. There is a hand in front of the bird. On the left side of the frame, the yellow subtitle \"doodle by LeopARTnik\" appears. In the upper right corner is a small black and white version of the frame. At the bottom of the image is the subtitle \"@ with coco\"."
+    },
+    {
+        "second": 1,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HvH5J2q0f6Q/output_frames/sec_1_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[0-5] In the frame, the parrot repeatedly swings its body to row. Every time it swings forward, its head rests on the hand. At this point, the yellow subtitle \"doodle by LeopARTnik\" appears above the hand. In the upper right corner is a small black and white version of the frame. At the bottom of the image is the subtitle \"@ with coco\"."
+    },
+    {
+        "second": 2,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HvH5J2q0f6Q/output_frames/sec_2_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-5] In the frame, the parrot repeatedly swings its body to row. Every time it swings forward, its head rests on the hand. At this point, the yellow subtitle \"doodle by LeopARTnik\" appears above the hand. In the upper right corner is a small black and white version of the frame. At the bottom of the image is the subtitle \"@ with coco\"."
+    },
+    {
+        "second": 3,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HvH5J2q0f6Q/output_frames/sec_3_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[0-5] In the frame, the parrot repeatedly swings its body to row. Every time it swings forward, its head rests on the hand. At this point, the yellow subtitle \"doodle by LeopARTnik\" appears above the hand. In the upper right corner is a small black and white version of the frame. At the bottom of the image is the subtitle \"@ with coco\"."
+    },
+    {
+        "second": 4,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HvH5J2q0f6Q/output_frames/sec_4_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[0-5] In the frame, the parrot repeatedly swings its body to row. Every time it swings forward, its head rests on the hand. At this point, the yellow subtitle \"doodle by LeopARTnik\" appears above the hand. In the upper right corner is a small black and white version of the frame. At the bottom of the image is the subtitle \"@ with coco\"."
+    }
+]

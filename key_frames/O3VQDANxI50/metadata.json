@@ -1,0 +1,86 @@
+[
+    {
+        "second": 0,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/O3VQDANxI50/output_frames/sec_0_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A cartoon penguin with a yellow hat and orange goggles appears in the center of the screen, with two rows of white teeth in front."
+    },
+    {
+        "second": 1,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/O3VQDANxI50/output_frames/sec_1_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Then the two rows of teeth open, the cartoon penguin opens its eyes wide, its mouth slightly open, looking surprised, the background is the blue sea and the sand on the seabed."
+    },
+    {
+        "second": 2,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/O3VQDANxI50/output_frames/sec_2_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Then the two rows of teeth open, the cartoon penguin opens its eyes wide, its mouth slightly open, looking surprised, the background is the blue sea and the sand on the seabed."
+    },
+    {
+        "second": 3,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/O3VQDANxI50/output_frames/sec_3_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Then the two rows of teeth open, the cartoon penguin opens its eyes wide, its mouth slightly open, looking surprised, the background is the blue sea and the sand on the seabed."
+    },
+    {
+        "second": 4,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/O3VQDANxI50/output_frames/sec_4_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Then the two rows of teeth open, the cartoon penguin opens its eyes wide, its mouth slightly open, looking surprised, the background is the blue sea and the sand on the seabed."
+    },
+    {
+        "second": 5,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/O3VQDANxI50/output_frames/sec_5_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[4-9] Immediately afterwards, the cartoon penguin takes out a pair of pliers and pulls out one of the upper teeth."
+    },
+    {
+        "second": 6,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/O3VQDANxI50/output_frames/sec_6_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[4-9] Immediately afterwards, the cartoon penguin takes out a pair of pliers and pulls out one of the upper teeth."
+    },
+    {
+        "second": 7,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/O3VQDANxI50/output_frames/sec_7_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[4-9] Immediately afterwards, the cartoon penguin takes out a pair of pliers and pulls out one of the upper teeth."
+    },
+    {
+        "second": 8,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/O3VQDANxI50/output_frames/sec_8_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[4-9] Immediately afterwards, the cartoon penguin takes out a pair of pliers and pulls out one of the upper teeth."
+    },
+    {
+        "second": 9,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/O3VQDANxI50/output_frames/sec_9_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[4-9] Immediately afterwards, the cartoon penguin takes out a pair of pliers and pulls out one of the upper teeth."
+    },
+    {
+        "second": 10,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/O3VQDANxI50/output_frames/sec_10_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[9-11] Finally, the scene switches to the underwater world, the penguin is standing on the left, and the blue shark with its teeth pulled out appears on the right. They are smiling at each other, and there is a white medical box on the ground."
+    },
+    {
+        "second": 11,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/O3VQDANxI50/output_frames/sec_11_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[9-11] Finally, the scene switches to the underwater world, the penguin is standing on the left, and the blue shark with its teeth pulled out appears on the right. They are smiling at each other, and there is a white medical box on the ground."
+    }
+]

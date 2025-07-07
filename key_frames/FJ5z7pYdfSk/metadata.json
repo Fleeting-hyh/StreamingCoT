@@ -1,0 +1,107 @@
+[
+    {
+        "second": 0,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FJ5z7pYdfSk/output_frames/sec_0_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A yellow cartoon dinosaur sits happily on a beige sofa with a purple food in his right hand. The dinosaur has a blue thread on its left shoulder, and behind it is a blue background."
+    },
+    {
+        "second": 1,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FJ5z7pYdfSk/output_frames/sec_1_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[0-2] The yellow dinosaur then puts the purple food in its mouth, shakes its feet, grabs its left shoulder, and catches the blue thread. Then the dinosaur looks puzzled."
+    },
+    {
+        "second": 2,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FJ5z7pYdfSk/output_frames/sec_2_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[0-2] The yellow dinosaur then puts the purple food in its mouth, shakes its feet, grabs its left shoulder, and catches the blue thread. Then the dinosaur looks puzzled."
+    },
+    {
+        "second": 3,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FJ5z7pYdfSk/output_frames/sec_3_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[2-8] Immediately afterward, the yellow dinosaur happily pulls the blue thread with both hands."
+    },
+    {
+        "second": 4,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FJ5z7pYdfSk/output_frames/sec_4_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[2-8] Immediately afterward, the yellow dinosaur happily pulls the blue thread with both hands."
+    },
+    {
+        "second": 5,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FJ5z7pYdfSk/output_frames/sec_5_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[2-8] Immediately afterward, the yellow dinosaur happily pulls the blue thread with both hands."
+    },
+    {
+        "second": 6,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FJ5z7pYdfSk/output_frames/sec_6_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[2-8] Immediately afterward, the yellow dinosaur happily pulls the blue thread with both hands."
+    },
+    {
+        "second": 7,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FJ5z7pYdfSk/output_frames/sec_7_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[2-8] Immediately afterward, the yellow dinosaur happily pulls the blue thread with both hands."
+    },
+    {
+        "second": 8,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FJ5z7pYdfSk/output_frames/sec_8_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[2-8] Immediately afterward, the yellow dinosaur happily pulls the blue thread with both hands."
+    },
+    {
+        "second": 9,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FJ5z7pYdfSk/output_frames/sec_9_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[8-11] Then the dinosaur looks to the left, where a little boy in a blue shirt is sitting on a beige sofa with a mobile phone in his hand. The yellow dinosaur then opens its mouth wide and throws the blue thread in its hand in surprise. Three white question marks appear in the picture."
+    },
+    {
+        "second": 10,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FJ5z7pYdfSk/output_frames/sec_10_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[8-11] Then the dinosaur looks to the left, where a little boy in a blue shirt is sitting on a beige sofa with a mobile phone in his hand. The yellow dinosaur then opens its mouth wide and throws the blue thread in its hand in surprise. Three white question marks appear in the picture."
+    },
+    {
+        "second": 11,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FJ5z7pYdfSk/output_frames/sec_11_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[8-11] Then the dinosaur looks to the left, where a little boy in a blue shirt is sitting on a beige sofa with a mobile phone in his hand. The yellow dinosaur then opens its mouth wide and throws the blue thread in its hand in surprise. Three white question marks appear in the picture."
+    },
+    {
+        "second": 12,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FJ5z7pYdfSk/output_frames/sec_12_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[11-14] Afterward, the yellow dinosaur looks at the little boy in the blue shirt with both hands in front of him, looking guilty. Then the little boy in the blue shirt looks up to talk to the yellow dinosaur and then lowers his head to look at the phone."
+    },
+    {
+        "second": 13,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FJ5z7pYdfSk/output_frames/sec_13_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[11-14] Afterward, the yellow dinosaur looks at the little boy in the blue shirt with both hands in front of him, looking guilty. Then the little boy in the blue shirt looks up to talk to the yellow dinosaur and then lowers his head to look at the phone."
+    },
+    {
+        "second": 14,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FJ5z7pYdfSk/output_frames/sec_14_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[11-14] Afterward, the yellow dinosaur looks at the little boy in the blue shirt with both hands in front of him, looking guilty. Then the little boy in the blue shirt looks up to talk to the yellow dinosaur and then lowers his head to look at the phone."
+    }
+]

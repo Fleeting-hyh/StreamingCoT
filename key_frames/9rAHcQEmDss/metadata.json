@@ -1,0 +1,107 @@
+[
+    {
+        "second": 0,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9rAHcQEmDss/output_frames/sec_0_idx_5.jpg",
+        "fps": 24,
+        "explanation": "[0-0] The video starts with a hand wearing a black glove holding a pink tooth model wearing a Christmas-themed dental appliance. At the same time, white English subtitles appear on the screen, and the words \"BASTON NAVIDENO\" appear below the shot, followed by a red cross. Below this text is a picture of a candy cane."
+    },
+    {
+        "second": 1,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9rAHcQEmDss/output_frames/sec_1_idx_12.jpg",
+        "fps": 24,
+        "explanation": "[0-2] Then, a hand puts a candy cane into the mouth of the tooth model, but the tooth model cannot crush it. Then, the shot changes, the hand is holding a piece of bread and putting it into the mouth of the tooth model, and then the tooth model crushes the bread. At the same time, the word \"NATILLA\" appears below the shot, with a green checkmark after it and a picture of bread below."
+    },
+    {
+        "second": 2,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9rAHcQEmDss/output_frames/sec_2_idx_16.jpg",
+        "fps": 24,
+        "explanation": "[0-2] Then, a hand puts a candy cane into the mouth of the tooth model, but the tooth model cannot crush it. Then, the shot changes, the hand is holding a piece of bread and putting it into the mouth of the tooth model, and then the tooth model crushes the bread. At the same time, the word \"NATILLA\" appears below the shot, with a green checkmark after it and a picture of bread below."
+    },
+    {
+        "second": 3,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9rAHcQEmDss/output_frames/sec_3_idx_3.jpg",
+        "fps": 24,
+        "explanation": "[2-6] Next, the hand brings a cookie close to the tooth model, but the tooth model can't crush it. At the same time, the words \"GALLETA NAVIDENA\" appear below the shot, followed by a red cross and a picture of a star-shaped cookie. Then, the hand takes a piece of lechona and puts it into the tooth model, and the tooth model successfully crushes the lechona. At the same time, the word \"LECHONA\" appears in the shot, followed by a green checkmark and a picture of lechona."
+    },
+    {
+        "second": 4,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9rAHcQEmDss/output_frames/sec_4_idx_20.jpg",
+        "fps": 24,
+        "explanation": "[2-6] Next, the hand brings a cookie close to the tooth model, but the tooth model can't crush it. At the same time, the words \"GALLETA NAVIDENA\" appear below the shot, followed by a red cross and a picture of a star-shaped cookie. Then, the hand takes a piece of lechona and puts it into the tooth model, and the tooth model successfully crushes the lechona. At the same time, the word \"LECHONA\" appears in the shot, followed by a green checkmark and a picture of lechona."
+    },
+    {
+        "second": 5,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9rAHcQEmDss/output_frames/sec_5_idx_1.jpg",
+        "fps": 24,
+        "explanation": "[2-6] Next, the hand brings a cookie close to the tooth model, but the tooth model can't crush it. At the same time, the words \"GALLETA NAVIDENA\" appear below the shot, followed by a red cross and a picture of a star-shaped cookie. Then, the hand takes a piece of lechona and puts it into the tooth model, and the tooth model successfully crushes the lechona. At the same time, the word \"LECHONA\" appears in the shot, followed by a green checkmark and a picture of lechona."
+    },
+    {
+        "second": 6,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9rAHcQEmDss/output_frames/sec_6_idx_11.jpg",
+        "fps": 24,
+        "explanation": "[2-6] Next, the hand brings a cookie close to the tooth model, but the tooth model can't crush it. At the same time, the words \"GALLETA NAVIDENA\" appear below the shot, followed by a red cross and a picture of a star-shaped cookie. Then, the hand takes a piece of lechona and puts it into the tooth model, and the tooth model successfully crushes the lechona. At the same time, the word \"LECHONA\" appears in the shot, followed by a green checkmark and a picture of lechona."
+    },
+    {
+        "second": 7,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9rAHcQEmDss/output_frames/sec_7_idx_12.jpg",
+        "fps": 24,
+        "explanation": "[6-8] Then, a round loaf of bread appears in the shot and is flattened by the tooth model. At the same time, the word \"BUNUELO\" appears below the shot, followed by a red cross and a picture of a round loaf of bread."
+    },
+    {
+        "second": 8,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9rAHcQEmDss/output_frames/sec_8_idx_12.jpg",
+        "fps": 24,
+        "explanation": "[6-8] Then, a round loaf of bread appears in the shot and is flattened by the tooth model. At the same time, the word \"BUNUELO\" appears below the shot, followed by a red cross and a picture of a round loaf of bread."
+    },
+    {
+        "second": 9,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9rAHcQEmDss/output_frames/sec_9_idx_13.jpg",
+        "fps": 24,
+        "explanation": "[8-10] Afterwards, the shot changes to the hand holding a bread with candied fruit to the mouth of the tooth model, and then the tooth model crushes the bread with candied fruit. At the same time, the word \"PANETTONE\" appears below the shot, followed by a green checkmark and a picture of bread with candied fruit below."
+    },
+    {
+        "second": 10,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9rAHcQEmDss/output_frames/sec_10_idx_6.jpg",
+        "fps": 24,
+        "explanation": "[8-10] Afterwards, the shot changes to the hand holding a bread with candied fruit to the mouth of the tooth model, and then the tooth model crushes the bread with candied fruit. At the same time, the word \"PANETTONE\" appears below the shot, followed by a green checkmark and a picture of bread with candied fruit below."
+    },
+    {
+        "second": 11,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9rAHcQEmDss/output_frames/sec_11_idx_15.jpg",
+        "fps": 24,
+        "explanation": "[10-12] Then, the hand brings another piece of roast suckling pig skin to the mouth of the tooth model, but the tooth model fails to crush the roast suckling pig skin. At the same time, the words \"CUERO LECHONE\" appear below the shot, followed by a red cross and a picture of roast suckling pig."
+    },
+    {
+        "second": 12,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9rAHcQEmDss/output_frames/sec_12_idx_17.jpg",
+        "fps": 24,
+        "explanation": "[10-12] Then, the hand brings another piece of roast suckling pig skin to the mouth of the tooth model, but the tooth model fails to crush the roast suckling pig skin. At the same time, the words \"CUERO LECHONE\" appear below the shot, followed by a red cross and a picture of roast suckling pig."
+    },
+    {
+        "second": 13,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9rAHcQEmDss/output_frames/sec_13_idx_0.jpg",
+        "fps": 24,
+        "explanation": "[12-14] Subsequently, the hand brings a piece of roasted chicken to the mouth of the tooth model, and the tooth model crushes the roasted chicken. At the same time, the word \"PAVO\" appears below the shot, followed by a green checkmark and a picture of roasted chicken."
+    },
+    {
+        "second": 14,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9rAHcQEmDss/output_frames/sec_14_idx_2.jpg",
+        "fps": 24,
+        "explanation": "[12-14] Subsequently, the hand brings a piece of roasted chicken to the mouth of the tooth model, and the tooth model crushes the roasted chicken. At the same time, the word \"PAVO\" appears below the shot, followed by a green checkmark and a picture of roasted chicken."
+    }
+]

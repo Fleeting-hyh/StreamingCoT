@@ -1,0 +1,79 @@
+[
+    {
+        "second": 0,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4O9wjs_i13M/output_frames/sec_0_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A blond man in a red shirt is in a room, smiling as he looks at a blue tray full of white tiles in his hands. There is a window next to him with some plants on the windowsill. The text \"Playing Scrabble in Germany be like\" is superimposed in white on the image."
+    },
+    {
+        "second": 1,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4O9wjs_i13M/output_frames/sec_1_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[0-3] The man then nods, picks up a small white tile from the blue object, and his smile fades."
+    },
+    {
+        "second": 2,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4O9wjs_i13M/output_frames/sec_2_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[0-3] The man then nods, picks up a small white tile from the blue object, and his smile fades."
+    },
+    {
+        "second": 3,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4O9wjs_i13M/output_frames/sec_3_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[0-3] The man then nods, picks up a small white tile from the blue object, and his smile fades."
+    },
+    {
+        "second": 4,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4O9wjs_i13M/output_frames/sec_4_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[3-8] Immediately afterwards, the shot cuts to a wooden table with a blue Scrabble board on it. The word \"Rindfleischetik\" is spelled out on the board. The camera moves to the right, showing more and more of the spelled word. There is a row of white tiles with different letters on them on the floor."
+    },
+    {
+        "second": 5,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4O9wjs_i13M/output_frames/sec_5_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[3-8] Immediately afterwards, the shot cuts to a wooden table with a blue Scrabble board on it. The word \"Rindfleischetik\" is spelled out on the board. The camera moves to the right, showing more and more of the spelled word. There is a row of white tiles with different letters on them on the floor."
+    },
+    {
+        "second": 6,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4O9wjs_i13M/output_frames/sec_6_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[3-8] Immediately afterwards, the shot cuts to a wooden table with a blue Scrabble board on it. The word \"Rindfleischetik\" is spelled out on the board. The camera moves to the right, showing more and more of the spelled word. There is a row of white tiles with different letters on them on the floor."
+    },
+    {
+        "second": 7,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4O9wjs_i13M/output_frames/sec_7_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[3-8] Immediately afterwards, the shot cuts to a wooden table with a blue Scrabble board on it. The word \"Rindfleischetik\" is spelled out on the board. The camera moves to the right, showing more and more of the spelled word. There is a row of white tiles with different letters on them on the floor."
+    },
+    {
+        "second": 8,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4O9wjs_i13M/output_frames/sec_8_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[3-8] Immediately afterwards, the shot cuts to a wooden table with a blue Scrabble board on it. The word \"Rindfleischetik\" is spelled out on the board. The camera moves to the right, showing more and more of the spelled word. There is a row of white tiles with different letters on them on the floor."
+    },
+    {
+        "second": 9,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4O9wjs_i13M/output_frames/sec_9_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[8-10] Finally, the shot cuts to a man in a black hat and gray sweatshirt holding a blue tray full of small white tiles, looking at the camera."
+    },
+    {
+        "second": 10,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4O9wjs_i13M/output_frames/sec_10_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[8-10] Finally, the shot cuts to a man in a black hat and gray sweatshirt holding a blue tray full of small white tiles, looking at the camera."
+    }
+]

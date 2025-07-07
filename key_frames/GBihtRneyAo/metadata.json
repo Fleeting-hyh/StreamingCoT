@@ -1,0 +1,44 @@
+[
+    {
+        "second": 0,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GBihtRneyAo/output_frames/sec_0_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[0-0] Inside a bedroom, a young woman in a white top sits on a bed with a silver blanket covering her legs. The woman rests her right hand on her nose, holds a mobile phone in her left hand, and lowers her head slightly. A young man in a gray top sits sideways on her right, his right hand resting beside the woman's cheek, his eyes looking to the left. At the top of the screen is white text on a black background and a yellow emoji."
+    },
+    {
+        "second": 1,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GBihtRneyAo/output_frames/sec_1_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Then the man reaches out his right hand and pushes the woman's cheek, and then quickly covers his mouth with his right hand. At the same time, the woman raises her right hand and slaps the back of the man's right hand."
+    },
+    {
+        "second": 2,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GBihtRneyAo/output_frames/sec_2_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Then the man reaches out his right hand and pushes the woman's cheek, and then quickly covers his mouth with his right hand. At the same time, the woman raises her right hand and slaps the back of the man's right hand."
+    },
+    {
+        "second": 3,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GBihtRneyAo/output_frames/sec_3_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[2-5] Immediately afterward, the woman reaches out her right hand to slap the man's ear, but the man preemptively blocks her attack with his hand. The woman then tries to slap the man's mouth, but the man once again preemptively covers his mouth with his right hand. The man then lowers his right hand, the woman raises her right hand to slap him, and the man reaches out and grabs the woman's wrist. The woman then swings another punch with her left hand, aiming for the man's head, but the man ducks slightly and dodges."
+    },
+    {
+        "second": 4,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GBihtRneyAo/output_frames/sec_4_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[2-5] Immediately afterward, the woman reaches out her right hand to slap the man's ear, but the man preemptively blocks her attack with his hand. The woman then tries to slap the man's mouth, but the man once again preemptively covers his mouth with his right hand. The man then lowers his right hand, the woman raises her right hand to slap him, and the man reaches out and grabs the woman's wrist. The woman then swings another punch with her left hand, aiming for the man's head, but the man ducks slightly and dodges."
+    },
+    {
+        "second": 5,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GBihtRneyAo/output_frames/sec_5_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[2-5] Immediately afterward, the woman reaches out her right hand to slap the man's ear, but the man preemptively blocks her attack with his hand. The woman then tries to slap the man's mouth, but the man once again preemptively covers his mouth with his right hand. The man then lowers his right hand, the woman raises her right hand to slap him, and the man reaches out and grabs the woman's wrist. The woman then swings another punch with her left hand, aiming for the man's head, but the man ducks slightly and dodges."
+    }
+]

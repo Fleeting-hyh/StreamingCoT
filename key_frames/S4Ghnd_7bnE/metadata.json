@@ -1,0 +1,72 @@
+[
+    {
+        "second": 0,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S4Ghnd_7bnE/output_frames/sec_0_idx_12.jpg",
+        "fps": 60,
+        "explanation": "[0-0] In a room with white walls, white sheets, and a green bedspread, a young woman with dark hair, wearing a pink camisole, is sleeping soundly on the bed, a turtle doll beside her. Next to her stands a young man with golden hair, wearing a blue T-shirt, with a mischievous expression on his face. He is holding a transparent plastic bag filled with water and a lit lighter, which he is using to heat the surface of the bag."
+    },
+    {
+        "second": 1,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S4Ghnd_7bnE/output_frames/sec_1_idx_27.jpg",
+        "fps": 60,
+        "explanation": "[0-9] Afterwards, the man continues to hold the lighter towards the white plastic bag with a mischievous expression."
+    },
+    {
+        "second": 2,
+        "frame_index": 32,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S4Ghnd_7bnE/output_frames/sec_2_idx_32.jpg",
+        "fps": 60,
+        "explanation": "[0-9] Afterwards, the man continues to hold the lighter towards the white plastic bag with a mischievous expression."
+    },
+    {
+        "second": 3,
+        "frame_index": 43,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S4Ghnd_7bnE/output_frames/sec_3_idx_43.jpg",
+        "fps": 60,
+        "explanation": "[0-9] Afterwards, the man continues to hold the lighter towards the white plastic bag with a mischievous expression."
+    },
+    {
+        "second": 4,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S4Ghnd_7bnE/output_frames/sec_4_idx_3.jpg",
+        "fps": 60,
+        "explanation": "[0-9] Afterwards, the man continues to hold the lighter towards the white plastic bag with a mischievous expression."
+    },
+    {
+        "second": 5,
+        "frame_index": 50,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S4Ghnd_7bnE/output_frames/sec_5_idx_50.jpg",
+        "fps": 60,
+        "explanation": "[0-9] Afterwards, the man continues to hold the lighter towards the white plastic bag with a mischievous expression."
+    },
+    {
+        "second": 6,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S4Ghnd_7bnE/output_frames/sec_6_idx_10.jpg",
+        "fps": 60,
+        "explanation": "[0-9] Afterwards, the man continues to hold the lighter towards the white plastic bag with a mischievous expression."
+    },
+    {
+        "second": 7,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S4Ghnd_7bnE/output_frames/sec_7_idx_25.jpg",
+        "fps": 60,
+        "explanation": "[0-9] Afterwards, the man continues to hold the lighter towards the white plastic bag with a mischievous expression."
+    },
+    {
+        "second": 8,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S4Ghnd_7bnE/output_frames/sec_8_idx_7.jpg",
+        "fps": 60,
+        "explanation": "[0-9] Afterwards, the man continues to hold the lighter towards the white plastic bag with a mischievous expression."
+    },
+    {
+        "second": 9,
+        "frame_index": 37,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S4Ghnd_7bnE/output_frames/sec_9_idx_37.jpg",
+        "fps": 60,
+        "explanation": "[0-9] Afterwards, the man continues to hold the lighter towards the white plastic bag with a mischievous expression."
+    }
+]

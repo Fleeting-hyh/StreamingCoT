@@ -1,0 +1,366 @@
+[
+    {
+        "second": 0,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PTM7K7LQev4/output_frames/sec_0_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A man crouches by the roadside, wearing a white short-sleeve shirt and light blue jeans. He holds a lighter in his right hand and a white string in his left. Beside him is a brick wall, and behind him stands another person, with cars and a yellow building in the background."
+    },
+    {
+        "second": 1,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PTM7K7LQev4/output_frames/sec_1_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-10] The man places the white string, which is a firecracker, on the red brick in front of him. The scene switches to a close-up of the man as he lights the lighter, which then goes out. He raises his hand to his forehead, and the scene switches to him holding the firecracker. The scene changes again to show him crouching by the red brick, trying to light the firecracker, jumping each time he attempts."
+    },
+    {
+        "second": 2,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PTM7K7LQev4/output_frames/sec_2_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-10] The man places the white string, which is a firecracker, on the red brick in front of him. The scene switches to a close-up of the man as he lights the lighter, which then goes out. He raises his hand to his forehead, and the scene switches to him holding the firecracker. The scene changes again to show him crouching by the red brick, trying to light the firecracker, jumping each time he attempts."
+    },
+    {
+        "second": 3,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PTM7K7LQev4/output_frames/sec_3_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-10] The man places the white string, which is a firecracker, on the red brick in front of him. The scene switches to a close-up of the man as he lights the lighter, which then goes out. He raises his hand to his forehead, and the scene switches to him holding the firecracker. The scene changes again to show him crouching by the red brick, trying to light the firecracker, jumping each time he attempts."
+    },
+    {
+        "second": 4,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PTM7K7LQev4/output_frames/sec_4_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-10] The man places the white string, which is a firecracker, on the red brick in front of him. The scene switches to a close-up of the man as he lights the lighter, which then goes out. He raises his hand to his forehead, and the scene switches to him holding the firecracker. The scene changes again to show him crouching by the red brick, trying to light the firecracker, jumping each time he attempts."
+    },
+    {
+        "second": 5,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PTM7K7LQev4/output_frames/sec_5_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[0-10] The man places the white string, which is a firecracker, on the red brick in front of him. The scene switches to a close-up of the man as he lights the lighter, which then goes out. He raises his hand to his forehead, and the scene switches to him holding the firecracker. The scene changes again to show him crouching by the red brick, trying to light the firecracker, jumping each time he attempts."
+    },
+    {
+        "second": 6,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PTM7K7LQev4/output_frames/sec_6_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[0-10] The man places the white string, which is a firecracker, on the red brick in front of him. The scene switches to a close-up of the man as he lights the lighter, which then goes out. He raises his hand to his forehead, and the scene switches to him holding the firecracker. The scene changes again to show him crouching by the red brick, trying to light the firecracker, jumping each time he attempts."
+    },
+    {
+        "second": 7,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PTM7K7LQev4/output_frames/sec_7_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[0-10] The man places the white string, which is a firecracker, on the red brick in front of him. The scene switches to a close-up of the man as he lights the lighter, which then goes out. He raises his hand to his forehead, and the scene switches to him holding the firecracker. The scene changes again to show him crouching by the red brick, trying to light the firecracker, jumping each time he attempts."
+    },
+    {
+        "second": 8,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PTM7K7LQev4/output_frames/sec_8_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[0-10] The man places the white string, which is a firecracker, on the red brick in front of him. The scene switches to a close-up of the man as he lights the lighter, which then goes out. He raises his hand to his forehead, and the scene switches to him holding the firecracker. The scene changes again to show him crouching by the red brick, trying to light the firecracker, jumping each time he attempts."
+    },
+    {
+        "second": 9,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PTM7K7LQev4/output_frames/sec_9_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[0-10] The man places the white string, which is a firecracker, on the red brick in front of him. The scene switches to a close-up of the man as he lights the lighter, which then goes out. He raises his hand to his forehead, and the scene switches to him holding the firecracker. The scene changes again to show him crouching by the red brick, trying to light the firecracker, jumping each time he attempts."
+    },
+    {
+        "second": 10,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PTM7K7LQev4/output_frames/sec_10_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[0-10] The man places the white string, which is a firecracker, on the red brick in front of him. The scene switches to a close-up of the man as he lights the lighter, which then goes out. He raises his hand to his forehead, and the scene switches to him holding the firecracker. The scene changes again to show him crouching by the red brick, trying to light the firecracker, jumping each time he attempts."
+    },
+    {
+        "second": 11,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PTM7K7LQev4/output_frames/sec_11_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[10-19] The scene shifts as the man picks up the firecracker from the red brick and places it on a piece of white paper. He lights the lighter and repeatedly brings it close to the firecracker."
+    },
+    {
+        "second": 12,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PTM7K7LQev4/output_frames/sec_12_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[10-19] The scene shifts as the man picks up the firecracker from the red brick and places it on a piece of white paper. He lights the lighter and repeatedly brings it close to the firecracker."
+    },
+    {
+        "second": 13,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PTM7K7LQev4/output_frames/sec_13_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[10-19] The scene shifts as the man picks up the firecracker from the red brick and places it on a piece of white paper. He lights the lighter and repeatedly brings it close to the firecracker."
+    },
+    {
+        "second": 14,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PTM7K7LQev4/output_frames/sec_14_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[10-19] The scene shifts as the man picks up the firecracker from the red brick and places it on a piece of white paper. He lights the lighter and repeatedly brings it close to the firecracker."
+    },
+    {
+        "second": 15,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PTM7K7LQev4/output_frames/sec_15_idx_24.jpg",
+        "fps": 30,
+        "explanation": "[10-19] The scene shifts as the man picks up the firecracker from the red brick and places it on a piece of white paper. He lights the lighter and repeatedly brings it close to the firecracker."
+    },
+    {
+        "second": 16,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PTM7K7LQev4/output_frames/sec_16_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[10-19] The scene shifts as the man picks up the firecracker from the red brick and places it on a piece of white paper. He lights the lighter and repeatedly brings it close to the firecracker."
+    },
+    {
+        "second": 17,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PTM7K7LQev4/output_frames/sec_17_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[10-19] The scene shifts as the man picks up the firecracker from the red brick and places it on a piece of white paper. He lights the lighter and repeatedly brings it close to the firecracker."
+    },
+    {
+        "second": 18,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PTM7K7LQev4/output_frames/sec_18_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[10-19] The scene shifts as the man picks up the firecracker from the red brick and places it on a piece of white paper. He lights the lighter and repeatedly brings it close to the firecracker."
+    },
+    {
+        "second": 19,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PTM7K7LQev4/output_frames/sec_19_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[10-19] The scene shifts as the man picks up the firecracker from the red brick and places it on a piece of white paper. He lights the lighter and repeatedly brings it close to the firecracker."
+    },
+    {
+        "second": 20,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PTM7K7LQev4/output_frames/sec_20_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[19-29] The man bends down, picks up a motorcycle helmet, puts it on, and holds it with his hands as he tries to light the firecracker again."
+    },
+    {
+        "second": 21,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PTM7K7LQev4/output_frames/sec_21_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[19-29] The man bends down, picks up a motorcycle helmet, puts it on, and holds it with his hands as he tries to light the firecracker again."
+    },
+    {
+        "second": 22,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PTM7K7LQev4/output_frames/sec_22_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[19-29] The man bends down, picks up a motorcycle helmet, puts it on, and holds it with his hands as he tries to light the firecracker again."
+    },
+    {
+        "second": 23,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PTM7K7LQev4/output_frames/sec_23_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[19-29] The man bends down, picks up a motorcycle helmet, puts it on, and holds it with his hands as he tries to light the firecracker again."
+    },
+    {
+        "second": 24,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PTM7K7LQev4/output_frames/sec_24_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[19-29] The man bends down, picks up a motorcycle helmet, puts it on, and holds it with his hands as he tries to light the firecracker again."
+    },
+    {
+        "second": 25,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PTM7K7LQev4/output_frames/sec_25_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[19-29] The man bends down, picks up a motorcycle helmet, puts it on, and holds it with his hands as he tries to light the firecracker again."
+    },
+    {
+        "second": 26,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PTM7K7LQev4/output_frames/sec_26_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[19-29] The man bends down, picks up a motorcycle helmet, puts it on, and holds it with his hands as he tries to light the firecracker again."
+    },
+    {
+        "second": 27,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PTM7K7LQev4/output_frames/sec_27_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[19-29] The man bends down, picks up a motorcycle helmet, puts it on, and holds it with his hands as he tries to light the firecracker again."
+    },
+    {
+        "second": 28,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PTM7K7LQev4/output_frames/sec_28_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[19-29] The man bends down, picks up a motorcycle helmet, puts it on, and holds it with his hands as he tries to light the firecracker again."
+    },
+    {
+        "second": 29,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PTM7K7LQev4/output_frames/sec_29_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[19-29] The man bends down, picks up a motorcycle helmet, puts it on, and holds it with his hands as he tries to light the firecracker again."
+    },
+    {
+        "second": 30,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PTM7K7LQev4/output_frames/sec_30_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[29-36] The scene switches to the man turning and running forward. He runs to a car covered with a blue cover, crouches behind it, and removes his helmet. The scene returns to the original brick wall, where the firecracker begins to ignite."
+    },
+    {
+        "second": 31,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PTM7K7LQev4/output_frames/sec_31_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[29-36] The scene switches to the man turning and running forward. He runs to a car covered with a blue cover, crouches behind it, and removes his helmet. The scene returns to the original brick wall, where the firecracker begins to ignite."
+    },
+    {
+        "second": 32,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PTM7K7LQev4/output_frames/sec_32_idx_24.jpg",
+        "fps": 30,
+        "explanation": "[29-36] The scene switches to the man turning and running forward. He runs to a car covered with a blue cover, crouches behind it, and removes his helmet. The scene returns to the original brick wall, where the firecracker begins to ignite."
+    },
+    {
+        "second": 33,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PTM7K7LQev4/output_frames/sec_33_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[29-36] The scene switches to the man turning and running forward. He runs to a car covered with a blue cover, crouches behind it, and removes his helmet. The scene returns to the original brick wall, where the firecracker begins to ignite."
+    },
+    {
+        "second": 34,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PTM7K7LQev4/output_frames/sec_34_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[29-36] The scene switches to the man turning and running forward. He runs to a car covered with a blue cover, crouches behind it, and removes his helmet. The scene returns to the original brick wall, where the firecracker begins to ignite."
+    },
+    {
+        "second": 35,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PTM7K7LQev4/output_frames/sec_35_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[29-36] The scene switches to the man turning and running forward. He runs to a car covered with a blue cover, crouches behind it, and removes his helmet. The scene returns to the original brick wall, where the firecracker begins to ignite."
+    },
+    {
+        "second": 36,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PTM7K7LQev4/output_frames/sec_36_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[29-36] The scene switches to the man turning and running forward. He runs to a car covered with a blue cover, crouches behind it, and removes his helmet. The scene returns to the original brick wall, where the firecracker begins to ignite."
+    },
+    {
+        "second": 37,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PTM7K7LQev4/output_frames/sec_37_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[36-45] The scene switches to the man holding the helmet, looking ahead, then covering his ears with both hands. The scene switches back to the ignited firecracker, then back to the man, who continues to cover his ears and puts on the helmet."
+    },
+    {
+        "second": 38,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PTM7K7LQev4/output_frames/sec_38_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[36-45] The scene switches to the man holding the helmet, looking ahead, then covering his ears with both hands. The scene switches back to the ignited firecracker, then back to the man, who continues to cover his ears and puts on the helmet."
+    },
+    {
+        "second": 39,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PTM7K7LQev4/output_frames/sec_39_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[36-45] The scene switches to the man holding the helmet, looking ahead, then covering his ears with both hands. The scene switches back to the ignited firecracker, then back to the man, who continues to cover his ears and puts on the helmet."
+    },
+    {
+        "second": 40,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PTM7K7LQev4/output_frames/sec_40_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[36-45] The scene switches to the man holding the helmet, looking ahead, then covering his ears with both hands. The scene switches back to the ignited firecracker, then back to the man, who continues to cover his ears and puts on the helmet."
+    },
+    {
+        "second": 41,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PTM7K7LQev4/output_frames/sec_41_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[36-45] The scene switches to the man holding the helmet, looking ahead, then covering his ears with both hands. The scene switches back to the ignited firecracker, then back to the man, who continues to cover his ears and puts on the helmet."
+    },
+    {
+        "second": 42,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PTM7K7LQev4/output_frames/sec_42_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[36-45] The scene switches to the man holding the helmet, looking ahead, then covering his ears with both hands. The scene switches back to the ignited firecracker, then back to the man, who continues to cover his ears and puts on the helmet."
+    },
+    {
+        "second": 43,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PTM7K7LQev4/output_frames/sec_43_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[36-45] The scene switches to the man holding the helmet, looking ahead, then covering his ears with both hands. The scene switches back to the ignited firecracker, then back to the man, who continues to cover his ears and puts on the helmet."
+    },
+    {
+        "second": 44,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PTM7K7LQev4/output_frames/sec_44_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[36-45] The scene switches to the man holding the helmet, looking ahead, then covering his ears with both hands. The scene switches back to the ignited firecracker, then back to the man, who continues to cover his ears and puts on the helmet."
+    },
+    {
+        "second": 45,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PTM7K7LQev4/output_frames/sec_45_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[36-45] The scene switches to the man holding the helmet, looking ahead, then covering his ears with both hands. The scene switches back to the ignited firecracker, then back to the man, who continues to cover his ears and puts on the helmet."
+    },
+    {
+        "second": 46,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PTM7K7LQev4/output_frames/sec_46_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[45-51] Finally, the scene switches to a close-up of the firecracker, which burns without exploding. The scene switches back to the man, who realizes the firecracker didn't explode, puts down the helmet, and waves his arms."
+    },
+    {
+        "second": 47,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PTM7K7LQev4/output_frames/sec_47_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[45-51] Finally, the scene switches to a close-up of the firecracker, which burns without exploding. The scene switches back to the man, who realizes the firecracker didn't explode, puts down the helmet, and waves his arms."
+    },
+    {
+        "second": 48,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PTM7K7LQev4/output_frames/sec_48_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[45-51] Finally, the scene switches to a close-up of the firecracker, which burns without exploding. The scene switches back to the man, who realizes the firecracker didn't explode, puts down the helmet, and waves his arms."
+    },
+    {
+        "second": 49,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PTM7K7LQev4/output_frames/sec_49_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[45-51] Finally, the scene switches to a close-up of the firecracker, which burns without exploding. The scene switches back to the man, who realizes the firecracker didn't explode, puts down the helmet, and waves his arms."
+    },
+    {
+        "second": 50,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PTM7K7LQev4/output_frames/sec_50_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[45-51] Finally, the scene switches to a close-up of the firecracker, which burns without exploding. The scene switches back to the man, who realizes the firecracker didn't explode, puts down the helmet, and waves his arms."
+    },
+    {
+        "second": 51,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PTM7K7LQev4/output_frames/sec_51_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[45-51] Finally, the scene switches to a close-up of the firecracker, which burns without exploding. The scene switches back to the man, who realizes the firecracker didn't explode, puts down the helmet, and waves his arms."
+    }
+]

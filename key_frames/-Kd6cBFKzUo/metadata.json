@@ -1,0 +1,65 @@
+[
+    {
+        "second": 0,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-Kd6cBFKzUo/output_frames/sec_0_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[0-0] In a theater, the audience sits in their seats, watching a black and white film. On the screen, the image is of a door and a mirror."
+    },
+    {
+        "second": 1,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-Kd6cBFKzUo/output_frames/sec_1_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[0-8] The white shapes become clearer, it's a giant hand with its fingers curved in a gesture. The palm shakes and then the five fingers begin to open and close. Another giant hand enters from the left side of the screen, its index finger pointing in the direction of the first hand. The two giant hands are now side by side, one with its fingers bent, the other pointing at it as if they were communicating."
+    },
+    {
+        "second": 2,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-Kd6cBFKzUo/output_frames/sec_2_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[0-8] The white shapes become clearer, it's a giant hand with its fingers curved in a gesture. The palm shakes and then the five fingers begin to open and close. Another giant hand enters from the left side of the screen, its index finger pointing in the direction of the first hand. The two giant hands are now side by side, one with its fingers bent, the other pointing at it as if they were communicating."
+    },
+    {
+        "second": 3,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-Kd6cBFKzUo/output_frames/sec_3_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[0-8] The white shapes become clearer, it's a giant hand with its fingers curved in a gesture. The palm shakes and then the five fingers begin to open and close. Another giant hand enters from the left side of the screen, its index finger pointing in the direction of the first hand. The two giant hands are now side by side, one with its fingers bent, the other pointing at it as if they were communicating."
+    },
+    {
+        "second": 4,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-Kd6cBFKzUo/output_frames/sec_4_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[0-8] The white shapes become clearer, it's a giant hand with its fingers curved in a gesture. The palm shakes and then the five fingers begin to open and close. Another giant hand enters from the left side of the screen, its index finger pointing in the direction of the first hand. The two giant hands are now side by side, one with its fingers bent, the other pointing at it as if they were communicating."
+    },
+    {
+        "second": 5,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-Kd6cBFKzUo/output_frames/sec_5_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[0-8] The white shapes become clearer, it's a giant hand with its fingers curved in a gesture. The palm shakes and then the five fingers begin to open and close. Another giant hand enters from the left side of the screen, its index finger pointing in the direction of the first hand. The two giant hands are now side by side, one with its fingers bent, the other pointing at it as if they were communicating."
+    },
+    {
+        "second": 6,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-Kd6cBFKzUo/output_frames/sec_6_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[0-8] The white shapes become clearer, it's a giant hand with its fingers curved in a gesture. The palm shakes and then the five fingers begin to open and close. Another giant hand enters from the left side of the screen, its index finger pointing in the direction of the first hand. The two giant hands are now side by side, one with its fingers bent, the other pointing at it as if they were communicating."
+    },
+    {
+        "second": 7,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-Kd6cBFKzUo/output_frames/sec_7_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[0-8] The white shapes become clearer, it's a giant hand with its fingers curved in a gesture. The palm shakes and then the five fingers begin to open and close. Another giant hand enters from the left side of the screen, its index finger pointing in the direction of the first hand. The two giant hands are now side by side, one with its fingers bent, the other pointing at it as if they were communicating."
+    },
+    {
+        "second": 8,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-Kd6cBFKzUo/output_frames/sec_8_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-8] The white shapes become clearer, it's a giant hand with its fingers curved in a gesture. The palm shakes and then the five fingers begin to open and close. Another giant hand enters from the left side of the screen, its index finger pointing in the direction of the first hand. The two giant hands are now side by side, one with its fingers bent, the other pointing at it as if they were communicating."
+    }
+]

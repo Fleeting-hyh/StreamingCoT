@@ -1,0 +1,65 @@
+[
+    {
+        "second": 0,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CRIvulCZig8/output_frames/sec_0_idx_8.jpg",
+        "fps": 50,
+        "explanation": "[0-0] The video starts in a kitchen with light wooden flooring. In the center of the frame is a whole egg. There is a grey cabinet in the background."
+    },
+    {
+        "second": 1,
+        "frame_index": 43,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CRIvulCZig8/output_frames/sec_1_idx_43.jpg",
+        "fps": 50,
+        "explanation": "[0-3] Then a foot wearing grey sneakers and neon green socks crushes the egg, spilling out the egg white and yolk. Next, Oreo cookies are placed on the floor, and the foot in the grey sneaker crushes them, leaving brown cookie crumbs."
+    },
+    {
+        "second": 2,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CRIvulCZig8/output_frames/sec_2_idx_1.jpg",
+        "fps": 50,
+        "explanation": "[0-3] Then a foot wearing grey sneakers and neon green socks crushes the egg, spilling out the egg white and yolk. Next, Oreo cookies are placed on the floor, and the foot in the grey sneaker crushes them, leaving brown cookie crumbs."
+    },
+    {
+        "second": 3,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CRIvulCZig8/output_frames/sec_3_idx_28.jpg",
+        "fps": 50,
+        "explanation": "[0-3] Then a foot wearing grey sneakers and neon green socks crushes the egg, spilling out the egg white and yolk. Next, Oreo cookies are placed on the floor, and the foot in the grey sneaker crushes them, leaving brown cookie crumbs."
+    },
+    {
+        "second": 4,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CRIvulCZig8/output_frames/sec_4_idx_13.jpg",
+        "fps": 50,
+        "explanation": "[3-8] Afterward, a bag of Skittles with green packaging appears in the frame. The foot in the grey sneaker steps on and flattens the bag. Subsequently, a Kinder Surprise egg replaces the bag on the floor, and the foot in the sneaker crushes it. Finally, several yellow wafer rolls appear, lined up on the floor, and the foot in the grey sneaker steps on them, crushing them."
+    },
+    {
+        "second": 5,
+        "frame_index": 40,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CRIvulCZig8/output_frames/sec_5_idx_40.jpg",
+        "fps": 50,
+        "explanation": "[3-8] Afterward, a bag of Skittles with green packaging appears in the frame. The foot in the grey sneaker steps on and flattens the bag. Subsequently, a Kinder Surprise egg replaces the bag on the floor, and the foot in the sneaker crushes it. Finally, several yellow wafer rolls appear, lined up on the floor, and the foot in the grey sneaker steps on them, crushing them."
+    },
+    {
+        "second": 6,
+        "frame_index": 41,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CRIvulCZig8/output_frames/sec_6_idx_41.jpg",
+        "fps": 50,
+        "explanation": "[3-8] Afterward, a bag of Skittles with green packaging appears in the frame. The foot in the grey sneaker steps on and flattens the bag. Subsequently, a Kinder Surprise egg replaces the bag on the floor, and the foot in the sneaker crushes it. Finally, several yellow wafer rolls appear, lined up on the floor, and the foot in the grey sneaker steps on them, crushing them."
+    },
+    {
+        "second": 7,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CRIvulCZig8/output_frames/sec_7_idx_6.jpg",
+        "fps": 50,
+        "explanation": "[3-8] Afterward, a bag of Skittles with green packaging appears in the frame. The foot in the grey sneaker steps on and flattens the bag. Subsequently, a Kinder Surprise egg replaces the bag on the floor, and the foot in the sneaker crushes it. Finally, several yellow wafer rolls appear, lined up on the floor, and the foot in the grey sneaker steps on them, crushing them."
+    },
+    {
+        "second": 8,
+        "frame_index": 30,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CRIvulCZig8/output_frames/sec_8_idx_30.jpg",
+        "fps": 50,
+        "explanation": "[3-8] Afterward, a bag of Skittles with green packaging appears in the frame. The foot in the grey sneaker steps on and flattens the bag. Subsequently, a Kinder Surprise egg replaces the bag on the floor, and the foot in the sneaker crushes it. Finally, several yellow wafer rolls appear, lined up on the floor, and the foot in the grey sneaker steps on them, crushing them."
+    }
+]

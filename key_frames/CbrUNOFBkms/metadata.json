@@ -1,0 +1,58 @@
+[
+    {
+        "second": 0,
+        "frame_index": 35,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CbrUNOFBkms/output_frames/sec_0_idx_35.jpg",
+        "fps": 60,
+        "explanation": "[0-0] A young woman wearing a helmet, a gray-green jacket, and blue jeans is riding a green Kawasaki motorcycle on a track. The background shows a green grassland with sparse vegetation and mountains in the distance."
+    },
+    {
+        "second": 1,
+        "frame_index": 36,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CbrUNOFBkms/output_frames/sec_1_idx_36.jpg",
+        "fps": 60,
+        "explanation": "[0-4] Then the woman loses control of the motorcycle while riding, the motorcycle veers off the track, and both the woman and the motorcycle slide on the track."
+    },
+    {
+        "second": 2,
+        "frame_index": 50,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CbrUNOFBkms/output_frames/sec_2_idx_50.jpg",
+        "fps": 60,
+        "explanation": "[0-4] Then the woman loses control of the motorcycle while riding, the motorcycle veers off the track, and both the woman and the motorcycle slide on the track."
+    },
+    {
+        "second": 3,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CbrUNOFBkms/output_frames/sec_3_idx_8.jpg",
+        "fps": 60,
+        "explanation": "[0-4] Then the woman loses control of the motorcycle while riding, the motorcycle veers off the track, and both the woman and the motorcycle slide on the track."
+    },
+    {
+        "second": 4,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CbrUNOFBkms/output_frames/sec_4_idx_2.jpg",
+        "fps": 60,
+        "explanation": "[0-4] Then the woman loses control of the motorcycle while riding, the motorcycle veers off the track, and both the woman and the motorcycle slide on the track."
+    },
+    {
+        "second": 5,
+        "frame_index": 31,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CbrUNOFBkms/output_frames/sec_5_idx_31.jpg",
+        "fps": 60,
+        "explanation": "[4-7] Finally, the woman gets up and squats next to the motorcycle, touching her helmet with both hands, looking frustrated."
+    },
+    {
+        "second": 6,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CbrUNOFBkms/output_frames/sec_6_idx_1.jpg",
+        "fps": 60,
+        "explanation": "[4-7] Finally, the woman gets up and squats next to the motorcycle, touching her helmet with both hands, looking frustrated."
+    },
+    {
+        "second": 7,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CbrUNOFBkms/output_frames/sec_7_idx_6.jpg",
+        "fps": 60,
+        "explanation": "[4-7] Finally, the woman gets up and squats next to the motorcycle, touching her helmet with both hands, looking frustrated."
+    }
+]

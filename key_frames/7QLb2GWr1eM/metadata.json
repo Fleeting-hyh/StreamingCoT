@@ -1,0 +1,93 @@
+[
+    {
+        "second": 0,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7QLb2GWr1eM/output_frames/sec_0_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A white cat paw is placed on a white food bowl on a wooden table. To the right of the bowl is a green cactus with a red octopus toy on top."
+    },
+    {
+        "second": 1,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7QLb2GWr1eM/output_frames/sec_1_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Then a white cat pats the white food bowl with its paw. The scene changes to a white cat paw pushing a white ceramic bowl off a wooden table with a red octopus toy and colorful blocks, causing it to shatter."
+    },
+    {
+        "second": 2,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7QLb2GWr1eM/output_frames/sec_2_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Then a white cat pats the white food bowl with its paw. The scene changes to a white cat paw pushing a white ceramic bowl off a wooden table with a red octopus toy and colorful blocks, causing it to shatter."
+    },
+    {
+        "second": 3,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7QLb2GWr1eM/output_frames/sec_3_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Then a white cat pats the white food bowl with its paw. The scene changes to a white cat paw pushing a white ceramic bowl off a wooden table with a red octopus toy and colorful blocks, causing it to shatter."
+    },
+    {
+        "second": 4,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7QLb2GWr1eM/output_frames/sec_4_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[3-6] Immediately after, two white cat paws push a blue box with a picture of a puppy on it toward the cactus with the red octopus. A blue pool spills out of the box. Then, a pair of white cat paws unfold the blue pool."
+    },
+    {
+        "second": 5,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7QLb2GWr1eM/output_frames/sec_5_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[3-6] Immediately after, two white cat paws push a blue box with a picture of a puppy on it toward the cactus with the red octopus. A blue pool spills out of the box. Then, a pair of white cat paws unfold the blue pool."
+    },
+    {
+        "second": 6,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7QLb2GWr1eM/output_frames/sec_6_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[3-6] Immediately after, two white cat paws push a blue box with a picture of a puppy on it toward the cactus with the red octopus. A blue pool spills out of the box. Then, a pair of white cat paws unfold the blue pool."
+    },
+    {
+        "second": 7,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7QLb2GWr1eM/output_frames/sec_7_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[6-9] Then the shot changes to brown cat food falling from above. Afterward, the scene switches to brown cat food being poured from a yellow bag into a blue pool."
+    },
+    {
+        "second": 8,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7QLb2GWr1eM/output_frames/sec_8_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[6-9] Then the shot changes to brown cat food falling from above. Afterward, the scene switches to brown cat food being poured from a yellow bag into a blue pool."
+    },
+    {
+        "second": 9,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7QLb2GWr1eM/output_frames/sec_9_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[6-9] Then the shot changes to brown cat food falling from above. Afterward, the scene switches to brown cat food being poured from a yellow bag into a blue pool."
+    },
+    {
+        "second": 10,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7QLb2GWr1eM/output_frames/sec_10_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[9-12] After that, the scene changes to a white cat lying on the brown cat food and eating. Then the scene switches to a brown cat on top of the brown cat food in the blue pool. Subsequently, the brown cat opens its mouth wide."
+    },
+    {
+        "second": 11,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7QLb2GWr1eM/output_frames/sec_11_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[9-12] After that, the scene changes to a white cat lying on the brown cat food and eating. Then the scene switches to a brown cat on top of the brown cat food in the blue pool. Subsequently, the brown cat opens its mouth wide."
+    },
+    {
+        "second": 12,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7QLb2GWr1eM/output_frames/sec_12_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[9-12] After that, the scene changes to a white cat lying on the brown cat food and eating. Then the scene switches to a brown cat on top of the brown cat food in the blue pool. Subsequently, the brown cat opens its mouth wide."
+    }
+]

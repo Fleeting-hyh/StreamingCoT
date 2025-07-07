@@ -1,0 +1,72 @@
+[
+    {
+        "second": 0,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/E2b3S3kn6B0/output_frames/sec_0_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A man stands in front of a brick house. He is wearing a maroon top, blue shorts and a pair of white shoes. In his right hand he is holding a tennis racket and in his left hand a tennis ball. The words \"Crazy tennis glitch trickshot\" are written in black at the top of the screen."
+    },
+    {
+        "second": 1,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/E2b3S3kn6B0/output_frames/sec_1_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[0-2] The man then raises his left arm as if to throw the tennis ball and looks at his left hand, but the ball is not thrown, at the same time he raises his right hand with the racket to catch the ball and hit it against the brick wall opposite."
+    },
+    {
+        "second": 2,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/E2b3S3kn6B0/output_frames/sec_2_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[0-2] The man then raises his left arm as if to throw the tennis ball and looks at his left hand, but the ball is not thrown, at the same time he raises his right hand with the racket to catch the ball and hit it against the brick wall opposite."
+    },
+    {
+        "second": 3,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/E2b3S3kn6B0/output_frames/sec_3_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[2-4] The scene then cuts to a tennis court at night, where the man is wearing a grey top, blue shorts and blue shoes, and opposite him stands a man in a pink top. The man then performs the previous action, raising his left hand high but not throwing the ball, then using the tennis racket in his right hand to hit the ball to the opposite side."
+    },
+    {
+        "second": 4,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/E2b3S3kn6B0/output_frames/sec_4_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[2-4] The scene then cuts to a tennis court at night, where the man is wearing a grey top, blue shorts and blue shoes, and opposite him stands a man in a pink top. The man then performs the previous action, raising his left hand high but not throwing the ball, then using the tennis racket in his right hand to hit the ball to the opposite side."
+    },
+    {
+        "second": 5,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/E2b3S3kn6B0/output_frames/sec_5_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[4-9] Finally the scene changes to a yard with a row of wooden fences, a yellow house and a large tree in the distance. The man, wearing a grey top, black shorts and a pair of white shoes, stands in the yard, making a tennis shot. Then he raises his left hand high but does not throw the tennis ball, using the racket in his right hand to hit the tennis ball against the fence opposite, after which the man looks in the direction the ball is flying."
+    },
+    {
+        "second": 6,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/E2b3S3kn6B0/output_frames/sec_6_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[4-9] Finally the scene changes to a yard with a row of wooden fences, a yellow house and a large tree in the distance. The man, wearing a grey top, black shorts and a pair of white shoes, stands in the yard, making a tennis shot. Then he raises his left hand high but does not throw the tennis ball, using the racket in his right hand to hit the tennis ball against the fence opposite, after which the man looks in the direction the ball is flying."
+    },
+    {
+        "second": 7,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/E2b3S3kn6B0/output_frames/sec_7_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[4-9] Finally the scene changes to a yard with a row of wooden fences, a yellow house and a large tree in the distance. The man, wearing a grey top, black shorts and a pair of white shoes, stands in the yard, making a tennis shot. Then he raises his left hand high but does not throw the tennis ball, using the racket in his right hand to hit the tennis ball against the fence opposite, after which the man looks in the direction the ball is flying."
+    },
+    {
+        "second": 8,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/E2b3S3kn6B0/output_frames/sec_8_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[4-9] Finally the scene changes to a yard with a row of wooden fences, a yellow house and a large tree in the distance. The man, wearing a grey top, black shorts and a pair of white shoes, stands in the yard, making a tennis shot. Then he raises his left hand high but does not throw the tennis ball, using the racket in his right hand to hit the tennis ball against the fence opposite, after which the man looks in the direction the ball is flying."
+    },
+    {
+        "second": 9,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/E2b3S3kn6B0/output_frames/sec_9_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[4-9] Finally the scene changes to a yard with a row of wooden fences, a yellow house and a large tree in the distance. The man, wearing a grey top, black shorts and a pair of white shoes, stands in the yard, making a tennis shot. Then he raises his left hand high but does not throw the tennis ball, using the racket in his right hand to hit the tennis ball against the fence opposite, after which the man looks in the direction the ball is flying."
+    }
+]

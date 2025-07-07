@@ -1,0 +1,121 @@
+[
+    {
+        "second": 0,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/T8H6nInofXA/output_frames/sec_0_idx_0.jpg",
+        "fps": 24,
+        "explanation": "[0-0] A man with a beard, wearing a headscarf and a long grey robe, sits on the ground with his head bowed. He presses down on a watermelon with his left hand and holds a knife to it with his right hand."
+    },
+    {
+        "second": 1,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/T8H6nInofXA/output_frames/sec_1_idx_23.jpg",
+        "fps": 24,
+        "explanation": "[0-6] The man in grey cuts open the large watermelon to reveal a small watermelon inside. He picks up the small watermelon with both hands and looks at it in confusion. Then, he holds the small watermelon in his left hand and cuts it open with the knife in his right hand. He reaches into the small watermelon with his left hand."
+    },
+    {
+        "second": 2,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/T8H6nInofXA/output_frames/sec_2_idx_0.jpg",
+        "fps": 24,
+        "explanation": "[0-6] The man in grey cuts open the large watermelon to reveal a small watermelon inside. He picks up the small watermelon with both hands and looks at it in confusion. Then, he holds the small watermelon in his left hand and cuts it open with the knife in his right hand. He reaches into the small watermelon with his left hand."
+    },
+    {
+        "second": 3,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/T8H6nInofXA/output_frames/sec_3_idx_21.jpg",
+        "fps": 24,
+        "explanation": "[0-6] The man in grey cuts open the large watermelon to reveal a small watermelon inside. He picks up the small watermelon with both hands and looks at it in confusion. Then, he holds the small watermelon in his left hand and cuts it open with the knife in his right hand. He reaches into the small watermelon with his left hand."
+    },
+    {
+        "second": 4,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/T8H6nInofXA/output_frames/sec_4_idx_23.jpg",
+        "fps": 24,
+        "explanation": "[0-6] The man in grey cuts open the large watermelon to reveal a small watermelon inside. He picks up the small watermelon with both hands and looks at it in confusion. Then, he holds the small watermelon in his left hand and cuts it open with the knife in his right hand. He reaches into the small watermelon with his left hand."
+    },
+    {
+        "second": 5,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/T8H6nInofXA/output_frames/sec_5_idx_0.jpg",
+        "fps": 24,
+        "explanation": "[0-6] The man in grey cuts open the large watermelon to reveal a small watermelon inside. He picks up the small watermelon with both hands and looks at it in confusion. Then, he holds the small watermelon in his left hand and cuts it open with the knife in his right hand. He reaches into the small watermelon with his left hand."
+    },
+    {
+        "second": 6,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/T8H6nInofXA/output_frames/sec_6_idx_0.jpg",
+        "fps": 24,
+        "explanation": "[0-6] The man in grey cuts open the large watermelon to reveal a small watermelon inside. He picks up the small watermelon with both hands and looks at it in confusion. Then, he holds the small watermelon in his left hand and cuts it open with the knife in his right hand. He reaches into the small watermelon with his left hand."
+    },
+    {
+        "second": 7,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/T8H6nInofXA/output_frames/sec_7_idx_23.jpg",
+        "fps": 24,
+        "explanation": "[6-13] Next, the man in grey holds a red fruit in his left hand and cuts it open with the knife in his right hand to reveal a yellow fruit inside. He holds the yellow fruit in his left hand and looks at it in confusion. Then, he cuts the yellow fruit open with the knife in his right hand, revealing red flesh and watermelon seeds inside."
+    },
+    {
+        "second": 8,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/T8H6nInofXA/output_frames/sec_8_idx_0.jpg",
+        "fps": 24,
+        "explanation": "[6-13] Next, the man in grey holds a red fruit in his left hand and cuts it open with the knife in his right hand to reveal a yellow fruit inside. He holds the yellow fruit in his left hand and looks at it in confusion. Then, he cuts the yellow fruit open with the knife in his right hand, revealing red flesh and watermelon seeds inside."
+    },
+    {
+        "second": 9,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/T8H6nInofXA/output_frames/sec_9_idx_6.jpg",
+        "fps": 24,
+        "explanation": "[6-13] Next, the man in grey holds a red fruit in his left hand and cuts it open with the knife in his right hand to reveal a yellow fruit inside. He holds the yellow fruit in his left hand and looks at it in confusion. Then, he cuts the yellow fruit open with the knife in his right hand, revealing red flesh and watermelon seeds inside."
+    },
+    {
+        "second": 10,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/T8H6nInofXA/output_frames/sec_10_idx_11.jpg",
+        "fps": 24,
+        "explanation": "[6-13] Next, the man in grey holds a red fruit in his left hand and cuts it open with the knife in his right hand to reveal a yellow fruit inside. He holds the yellow fruit in his left hand and looks at it in confusion. Then, he cuts the yellow fruit open with the knife in his right hand, revealing red flesh and watermelon seeds inside."
+    },
+    {
+        "second": 11,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/T8H6nInofXA/output_frames/sec_11_idx_6.jpg",
+        "fps": 24,
+        "explanation": "[6-13] Next, the man in grey holds a red fruit in his left hand and cuts it open with the knife in his right hand to reveal a yellow fruit inside. He holds the yellow fruit in his left hand and looks at it in confusion. Then, he cuts the yellow fruit open with the knife in his right hand, revealing red flesh and watermelon seeds inside."
+    },
+    {
+        "second": 12,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/T8H6nInofXA/output_frames/sec_12_idx_5.jpg",
+        "fps": 24,
+        "explanation": "[6-13] Next, the man in grey holds a red fruit in his left hand and cuts it open with the knife in his right hand to reveal a yellow fruit inside. He holds the yellow fruit in his left hand and looks at it in confusion. Then, he cuts the yellow fruit open with the knife in his right hand, revealing red flesh and watermelon seeds inside."
+    },
+    {
+        "second": 13,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/T8H6nInofXA/output_frames/sec_13_idx_20.jpg",
+        "fps": 24,
+        "explanation": "[6-13] Next, the man in grey holds a red fruit in his left hand and cuts it open with the knife in his right hand to reveal a yellow fruit inside. He holds the yellow fruit in his left hand and looks at it in confusion. Then, he cuts the yellow fruit open with the knife in his right hand, revealing red flesh and watermelon seeds inside."
+    },
+    {
+        "second": 14,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/T8H6nInofXA/output_frames/sec_14_idx_13.jpg",
+        "fps": 24,
+        "explanation": "[13-16] The man in grey then puts the red flesh in his mouth with his right hand, chews it, and shakes his head in satisfaction."
+    },
+    {
+        "second": 15,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/T8H6nInofXA/output_frames/sec_15_idx_16.jpg",
+        "fps": 24,
+        "explanation": "[13-16] The man in grey then puts the red flesh in his mouth with his right hand, chews it, and shakes his head in satisfaction."
+    },
+    {
+        "second": 16,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/T8H6nInofXA/output_frames/sec_16_idx_15.jpg",
+        "fps": 24,
+        "explanation": "[13-16] The man in grey then puts the red flesh in his mouth with his right hand, chews it, and shakes his head in satisfaction."
+    }
+]

@@ -1,0 +1,107 @@
+[
+    {
+        "second": 0,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0gilC4Vz6yI/output_frames/sec_0_idx_16.jpg",
+        "fps": 24,
+        "explanation": "[0-0] The image shows a pink tooth model with braces. A hand wearing a black glove holds a lollipop, set against a purple background. A package of candy called \"Pirulito\" appears below the image with a red cross next to it, indicating it is not recommended, and a white caption above."
+    },
+    {
+        "second": 1,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0gilC4Vz6yI/output_frames/sec_1_idx_2.jpg",
+        "fps": 24,
+        "explanation": "[0-2] Next, the gloved hand holds a piece of chocolate, brings it close to the tooth model, and chews it. Below the image appears a package of chocolate called \"Chocolatina Dracula\" with a green checkmark next to it, indicating it is recommended."
+    },
+    {
+        "second": 2,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0gilC4Vz6yI/output_frames/sec_2_idx_8.jpg",
+        "fps": 24,
+        "explanation": "[0-2] Next, the gloved hand holds a piece of chocolate, brings it close to the tooth model, and chews it. Below the image appears a package of chocolate called \"Chocolatina Dracula\" with a green checkmark next to it, indicating it is recommended."
+    },
+    {
+        "second": 3,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0gilC4Vz6yI/output_frames/sec_3_idx_19.jpg",
+        "fps": 24,
+        "explanation": "[2-4] Then a green lollipop is held up to the tooth model. Below the image appears a package of candy called \"Barrilete\" with a red cross next to it, indicating it is not recommended."
+    },
+    {
+        "second": 4,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0gilC4Vz6yI/output_frames/sec_4_idx_7.jpg",
+        "fps": 24,
+        "explanation": "[2-4] Then a green lollipop is held up to the tooth model. Below the image appears a package of candy called \"Barrilete\" with a red cross next to it, indicating it is not recommended."
+    },
+    {
+        "second": 5,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0gilC4Vz6yI/output_frames/sec_5_idx_11.jpg",
+        "fps": 24,
+        "explanation": "[4-6] After that, the gloved hand takes a cookie and puts it on the teeth. Below the image appears a package of \"Piazza\" chocolate wafer cookies with a green checkmark next to it, indicating it is recommended."
+    },
+    {
+        "second": 6,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0gilC4Vz6yI/output_frames/sec_6_idx_17.jpg",
+        "fps": 24,
+        "explanation": "[4-6] After that, the gloved hand takes a cookie and puts it on the teeth. Below the image appears a package of \"Piazza\" chocolate wafer cookies with a green checkmark next to it, indicating it is recommended."
+    },
+    {
+        "second": 7,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0gilC4Vz6yI/output_frames/sec_7_idx_20.jpg",
+        "fps": 24,
+        "explanation": "[6-8] Next is an orange candy placed on the tooth model. Below the image appears a package of colorful candies called \"Frutitas\" with a red cross next to it, indicating it is not recommended."
+    },
+    {
+        "second": 8,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0gilC4Vz6yI/output_frames/sec_8_idx_11.jpg",
+        "fps": 24,
+        "explanation": "[6-8] Next is an orange candy placed on the tooth model. Below the image appears a package of colorful candies called \"Frutitas\" with a red cross next to it, indicating it is not recommended."
+    },
+    {
+        "second": 9,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0gilC4Vz6yI/output_frames/sec_9_idx_0.jpg",
+        "fps": 24,
+        "explanation": "[8-10] Then the gloved hand picks up a chocolate cereal and brings it close to the tooth model. Below the image appears a box of Kellogg's \"Cereal de chocorramo\" chocolate cereal with a green checkmark next to it, indicating it is recommended."
+    },
+    {
+        "second": 10,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0gilC4Vz6yI/output_frames/sec_10_idx_19.jpg",
+        "fps": 24,
+        "explanation": "[8-10] Then the gloved hand picks up a chocolate cereal and brings it close to the tooth model. Below the image appears a box of Kellogg's \"Cereal de chocorramo\" chocolate cereal with a green checkmark next to it, indicating it is recommended."
+    },
+    {
+        "second": 11,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0gilC4Vz6yI/output_frames/sec_11_idx_1.jpg",
+        "fps": 24,
+        "explanation": "[10-12] Then the hand passes a red candy and places it on the tooth model. Below the image appears a package of caramel candy called \"Revolcones\" with a red cross next to it, indicating it is not recommended."
+    },
+    {
+        "second": 12,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0gilC4Vz6yI/output_frames/sec_12_idx_16.jpg",
+        "fps": 24,
+        "explanation": "[10-12] Then the hand passes a red candy and places it on the tooth model. Below the image appears a package of caramel candy called \"Revolcones\" with a red cross next to it, indicating it is not recommended."
+    },
+    {
+        "second": 13,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0gilC4Vz6yI/output_frames/sec_13_idx_20.jpg",
+        "fps": 24,
+        "explanation": "[12-15] Finally, a sandwich cookie is shown. After the cookie is bitten, the hand is taken away. Below the image appears a box of \"Galletas festival\" strawberry sandwich cookies with a green checkmark next to it, indicating it is recommended."
+    },
+    {
+        "second": 14,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0gilC4Vz6yI/output_frames/sec_14_idx_3.jpg",
+        "fps": 24,
+        "explanation": "[12-15] Finally, a sandwich cookie is shown. After the cookie is bitten, the hand is taken away. Below the image appears a box of \"Galletas festival\" strawberry sandwich cookies with a green checkmark next to it, indicating it is recommended."
+    }
+]

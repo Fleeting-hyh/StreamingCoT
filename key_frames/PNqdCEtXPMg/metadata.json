@@ -1,0 +1,247 @@
+[
+    {
+        "second": 0,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PNqdCEtXPMg/output_frames/sec_0_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A black-haired woman in a red dress is waiting for the elevator at the elevator entrance. There are subtitles on the left."
+    },
+    {
+        "second": 1,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PNqdCEtXPMg/output_frames/sec_1_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[0-6] At this moment, the elevator opens, and inside there is a man dressed in black and a brown-haired girl wearing a red and white coat and a grey skirt. After the woman in red enters the elevator, she bends over, puts her mobile phone on the ground to tie her shoelaces, and then picks up her phone and stands up straight. At this point, the elevator door closes."
+    },
+    {
+        "second": 2,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PNqdCEtXPMg/output_frames/sec_2_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[0-6] At this moment, the elevator opens, and inside there is a man dressed in black and a brown-haired girl wearing a red and white coat and a grey skirt. After the woman in red enters the elevator, she bends over, puts her mobile phone on the ground to tie her shoelaces, and then picks up her phone and stands up straight. At this point, the elevator door closes."
+    },
+    {
+        "second": 3,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PNqdCEtXPMg/output_frames/sec_3_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-6] At this moment, the elevator opens, and inside there is a man dressed in black and a brown-haired girl wearing a red and white coat and a grey skirt. After the woman in red enters the elevator, she bends over, puts her mobile phone on the ground to tie her shoelaces, and then picks up her phone and stands up straight. At this point, the elevator door closes."
+    },
+    {
+        "second": 4,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PNqdCEtXPMg/output_frames/sec_4_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[0-6] At this moment, the elevator opens, and inside there is a man dressed in black and a brown-haired girl wearing a red and white coat and a grey skirt. After the woman in red enters the elevator, she bends over, puts her mobile phone on the ground to tie her shoelaces, and then picks up her phone and stands up straight. At this point, the elevator door closes."
+    },
+    {
+        "second": 5,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PNqdCEtXPMg/output_frames/sec_5_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[0-6] At this moment, the elevator opens, and inside there is a man dressed in black and a brown-haired girl wearing a red and white coat and a grey skirt. After the woman in red enters the elevator, she bends over, puts her mobile phone on the ground to tie her shoelaces, and then picks up her phone and stands up straight. At this point, the elevator door closes."
+    },
+    {
+        "second": 6,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PNqdCEtXPMg/output_frames/sec_6_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[0-6] At this moment, the elevator opens, and inside there is a man dressed in black and a brown-haired girl wearing a red and white coat and a grey skirt. After the woman in red enters the elevator, she bends over, puts her mobile phone on the ground to tie her shoelaces, and then picks up her phone and stands up straight. At this point, the elevator door closes."
+    },
+    {
+        "second": 7,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PNqdCEtXPMg/output_frames/sec_7_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[6-15] Subsequently, the scene changes, the elevator goes up, and the woman in red looks at the man in black. At this time, the elevator arrives on the 12th floor."
+    },
+    {
+        "second": 8,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PNqdCEtXPMg/output_frames/sec_8_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[6-15] Subsequently, the scene changes, the elevator goes up, and the woman in red looks at the man in black. At this time, the elevator arrives on the 12th floor."
+    },
+    {
+        "second": 9,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PNqdCEtXPMg/output_frames/sec_9_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[6-15] Subsequently, the scene changes, the elevator goes up, and the woman in red looks at the man in black. At this time, the elevator arrives on the 12th floor."
+    },
+    {
+        "second": 10,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PNqdCEtXPMg/output_frames/sec_10_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[6-15] Subsequently, the scene changes, the elevator goes up, and the woman in red looks at the man in black. At this time, the elevator arrives on the 12th floor."
+    },
+    {
+        "second": 11,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PNqdCEtXPMg/output_frames/sec_11_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[6-15] Subsequently, the scene changes, the elevator goes up, and the woman in red looks at the man in black. At this time, the elevator arrives on the 12th floor."
+    },
+    {
+        "second": 12,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PNqdCEtXPMg/output_frames/sec_12_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[6-15] Subsequently, the scene changes, the elevator goes up, and the woman in red looks at the man in black. At this time, the elevator arrives on the 12th floor."
+    },
+    {
+        "second": 13,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PNqdCEtXPMg/output_frames/sec_13_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[6-15] Subsequently, the scene changes, the elevator goes up, and the woman in red looks at the man in black. At this time, the elevator arrives on the 12th floor."
+    },
+    {
+        "second": 14,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PNqdCEtXPMg/output_frames/sec_14_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[6-15] Subsequently, the scene changes, the elevator goes up, and the woman in red looks at the man in black. At this time, the elevator arrives on the 12th floor."
+    },
+    {
+        "second": 15,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PNqdCEtXPMg/output_frames/sec_15_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[6-15] Subsequently, the scene changes, the elevator goes up, and the woman in red looks at the man in black. At this time, the elevator arrives on the 12th floor."
+    },
+    {
+        "second": 16,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PNqdCEtXPMg/output_frames/sec_16_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[15-24] Immediately afterward, the man in black also sneaks a glance at the woman in red. At this moment, the elevator door opens, and the woman in red walks out of the elevator. At the same time, the brown-haired girl throws the pink doll in her hand to the ground. The woman in red sees this, turns around, picks up the doll from the ground, puts it in the brown-haired girl's hand, turns around, and leaves."
+    },
+    {
+        "second": 17,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PNqdCEtXPMg/output_frames/sec_17_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[15-24] Immediately afterward, the man in black also sneaks a glance at the woman in red. At this moment, the elevator door opens, and the woman in red walks out of the elevator. At the same time, the brown-haired girl throws the pink doll in her hand to the ground. The woman in red sees this, turns around, picks up the doll from the ground, puts it in the brown-haired girl's hand, turns around, and leaves."
+    },
+    {
+        "second": 18,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PNqdCEtXPMg/output_frames/sec_18_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[15-24] Immediately afterward, the man in black also sneaks a glance at the woman in red. At this moment, the elevator door opens, and the woman in red walks out of the elevator. At the same time, the brown-haired girl throws the pink doll in her hand to the ground. The woman in red sees this, turns around, picks up the doll from the ground, puts it in the brown-haired girl's hand, turns around, and leaves."
+    },
+    {
+        "second": 19,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PNqdCEtXPMg/output_frames/sec_19_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[15-24] Immediately afterward, the man in black also sneaks a glance at the woman in red. At this moment, the elevator door opens, and the woman in red walks out of the elevator. At the same time, the brown-haired girl throws the pink doll in her hand to the ground. The woman in red sees this, turns around, picks up the doll from the ground, puts it in the brown-haired girl's hand, turns around, and leaves."
+    },
+    {
+        "second": 20,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PNqdCEtXPMg/output_frames/sec_20_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[15-24] Immediately afterward, the man in black also sneaks a glance at the woman in red. At this moment, the elevator door opens, and the woman in red walks out of the elevator. At the same time, the brown-haired girl throws the pink doll in her hand to the ground. The woman in red sees this, turns around, picks up the doll from the ground, puts it in the brown-haired girl's hand, turns around, and leaves."
+    },
+    {
+        "second": 21,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PNqdCEtXPMg/output_frames/sec_21_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[15-24] Immediately afterward, the man in black also sneaks a glance at the woman in red. At this moment, the elevator door opens, and the woman in red walks out of the elevator. At the same time, the brown-haired girl throws the pink doll in her hand to the ground. The woman in red sees this, turns around, picks up the doll from the ground, puts it in the brown-haired girl's hand, turns around, and leaves."
+    },
+    {
+        "second": 22,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PNqdCEtXPMg/output_frames/sec_22_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[15-24] Immediately afterward, the man in black also sneaks a glance at the woman in red. At this moment, the elevator door opens, and the woman in red walks out of the elevator. At the same time, the brown-haired girl throws the pink doll in her hand to the ground. The woman in red sees this, turns around, picks up the doll from the ground, puts it in the brown-haired girl's hand, turns around, and leaves."
+    },
+    {
+        "second": 23,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PNqdCEtXPMg/output_frames/sec_23_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[15-24] Immediately afterward, the man in black also sneaks a glance at the woman in red. At this moment, the elevator door opens, and the woman in red walks out of the elevator. At the same time, the brown-haired girl throws the pink doll in her hand to the ground. The woman in red sees this, turns around, picks up the doll from the ground, puts it in the brown-haired girl's hand, turns around, and leaves."
+    },
+    {
+        "second": 24,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PNqdCEtXPMg/output_frames/sec_24_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[15-24] Immediately afterward, the man in black also sneaks a glance at the woman in red. At this moment, the elevator door opens, and the woman in red walks out of the elevator. At the same time, the brown-haired girl throws the pink doll in her hand to the ground. The woman in red sees this, turns around, picks up the doll from the ground, puts it in the brown-haired girl's hand, turns around, and leaves."
+    },
+    {
+        "second": 25,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PNqdCEtXPMg/output_frames/sec_25_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[24-34] At this time, the brown-haired girl calls the woman in red \"mom.\" The woman in red quickly turns around to look. The elevator door is closing. The woman in red takes the opportunity before the elevator door closes to push it open and grabs the brown-haired girl. She holds up her mobile phone, blocking the front, and the phone displays an emergency call."
+    },
+    {
+        "second": 26,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PNqdCEtXPMg/output_frames/sec_26_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[24-34] At this time, the brown-haired girl calls the woman in red \"mom.\" The woman in red quickly turns around to look. The elevator door is closing. The woman in red takes the opportunity before the elevator door closes to push it open and grabs the brown-haired girl. She holds up her mobile phone, blocking the front, and the phone displays an emergency call."
+    },
+    {
+        "second": 27,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PNqdCEtXPMg/output_frames/sec_27_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[24-34] At this time, the brown-haired girl calls the woman in red \"mom.\" The woman in red quickly turns around to look. The elevator door is closing. The woman in red takes the opportunity before the elevator door closes to push it open and grabs the brown-haired girl. She holds up her mobile phone, blocking the front, and the phone displays an emergency call."
+    },
+    {
+        "second": 28,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PNqdCEtXPMg/output_frames/sec_28_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[24-34] At this time, the brown-haired girl calls the woman in red \"mom.\" The woman in red quickly turns around to look. The elevator door is closing. The woman in red takes the opportunity before the elevator door closes to push it open and grabs the brown-haired girl. She holds up her mobile phone, blocking the front, and the phone displays an emergency call."
+    },
+    {
+        "second": 29,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PNqdCEtXPMg/output_frames/sec_29_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[24-34] At this time, the brown-haired girl calls the woman in red \"mom.\" The woman in red quickly turns around to look. The elevator door is closing. The woman in red takes the opportunity before the elevator door closes to push it open and grabs the brown-haired girl. She holds up her mobile phone, blocking the front, and the phone displays an emergency call."
+    },
+    {
+        "second": 30,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PNqdCEtXPMg/output_frames/sec_30_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[24-34] At this time, the brown-haired girl calls the woman in red \"mom.\" The woman in red quickly turns around to look. The elevator door is closing. The woman in red takes the opportunity before the elevator door closes to push it open and grabs the brown-haired girl. She holds up her mobile phone, blocking the front, and the phone displays an emergency call."
+    },
+    {
+        "second": 31,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PNqdCEtXPMg/output_frames/sec_31_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[24-34] At this time, the brown-haired girl calls the woman in red \"mom.\" The woman in red quickly turns around to look. The elevator door is closing. The woman in red takes the opportunity before the elevator door closes to push it open and grabs the brown-haired girl. She holds up her mobile phone, blocking the front, and the phone displays an emergency call."
+    },
+    {
+        "second": 32,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PNqdCEtXPMg/output_frames/sec_32_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[24-34] At this time, the brown-haired girl calls the woman in red \"mom.\" The woman in red quickly turns around to look. The elevator door is closing. The woman in red takes the opportunity before the elevator door closes to push it open and grabs the brown-haired girl. She holds up her mobile phone, blocking the front, and the phone displays an emergency call."
+    },
+    {
+        "second": 33,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PNqdCEtXPMg/output_frames/sec_33_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[24-34] At this time, the brown-haired girl calls the woman in red \"mom.\" The woman in red quickly turns around to look. The elevator door is closing. The woman in red takes the opportunity before the elevator door closes to push it open and grabs the brown-haired girl. She holds up her mobile phone, blocking the front, and the phone displays an emergency call."
+    },
+    {
+        "second": 34,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PNqdCEtXPMg/output_frames/sec_34_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[24-34] At this time, the brown-haired girl calls the woman in red \"mom.\" The woman in red quickly turns around to look. The elevator door is closing. The woman in red takes the opportunity before the elevator door closes to push it open and grabs the brown-haired girl. She holds up her mobile phone, blocking the front, and the phone displays an emergency call."
+    }
+]

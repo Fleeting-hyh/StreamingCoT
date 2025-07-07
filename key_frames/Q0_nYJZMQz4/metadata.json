@@ -1,0 +1,100 @@
+[
+    {
+        "second": 0,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Q0_nYJZMQz4/output_frames/sec_0_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[0-0] On a black stove, there is a stainless steel spoon. Around the stove, there is a lot of stove ash and black burnt objects."
+    },
+    {
+        "second": 1,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Q0_nYJZMQz4/output_frames/sec_1_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Then a hand holding white and red cotton candy appears, puts all the cotton candy into the spoon, and then takes out a wooden stick to stir it. A white \"scottsreality\" watermark appears in the picture and moves below. As the cotton candy continues to melt, the color also turns light pink, and under the constant stirring of the wooden stick, it gradually turns into a viscous pink syrup."
+    },
+    {
+        "second": 2,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Q0_nYJZMQz4/output_frames/sec_2_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Then a hand holding white and red cotton candy appears, puts all the cotton candy into the spoon, and then takes out a wooden stick to stir it. A white \"scottsreality\" watermark appears in the picture and moves below. As the cotton candy continues to melt, the color also turns light pink, and under the constant stirring of the wooden stick, it gradually turns into a viscous pink syrup."
+    },
+    {
+        "second": 3,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Q0_nYJZMQz4/output_frames/sec_3_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Then a hand holding white and red cotton candy appears, puts all the cotton candy into the spoon, and then takes out a wooden stick to stir it. A white \"scottsreality\" watermark appears in the picture and moves below. As the cotton candy continues to melt, the color also turns light pink, and under the constant stirring of the wooden stick, it gradually turns into a viscous pink syrup."
+    },
+    {
+        "second": 4,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Q0_nYJZMQz4/output_frames/sec_4_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Then a hand holding white and red cotton candy appears, puts all the cotton candy into the spoon, and then takes out a wooden stick to stir it. A white \"scottsreality\" watermark appears in the picture and moves below. As the cotton candy continues to melt, the color also turns light pink, and under the constant stirring of the wooden stick, it gradually turns into a viscous pink syrup."
+    },
+    {
+        "second": 5,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Q0_nYJZMQz4/output_frames/sec_5_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[4-7] Then a hand pinching white powder appears from the left, putting some white powder into the pink syrup, and then under the constant stirring of the wooden stick, it gradually turns red. Then the picture comes to a room with a white tablecloth in the middle of the picture and a small can of pink packaged drink behind it. Then the melted red syrup is poured onto the white tablecloth."
+    },
+    {
+        "second": 6,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Q0_nYJZMQz4/output_frames/sec_6_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[4-7] Then a hand pinching white powder appears from the left, putting some white powder into the pink syrup, and then under the constant stirring of the wooden stick, it gradually turns red. Then the picture comes to a room with a white tablecloth in the middle of the picture and a small can of pink packaged drink behind it. Then the melted red syrup is poured onto the white tablecloth."
+    },
+    {
+        "second": 7,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Q0_nYJZMQz4/output_frames/sec_7_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[4-7] Then a hand pinching white powder appears from the left, putting some white powder into the pink syrup, and then under the constant stirring of the wooden stick, it gradually turns red. Then the picture comes to a room with a white tablecloth in the middle of the picture and a small can of pink packaged drink behind it. Then the melted red syrup is poured onto the white tablecloth."
+    },
+    {
+        "second": 8,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Q0_nYJZMQz4/output_frames/sec_8_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[7-9] Then a hand puts the pink beverage can behind it on the syrup and presses it. After cooling, the beverage can is removed, and a smooth dent appears on the syrup."
+    },
+    {
+        "second": 9,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Q0_nYJZMQz4/output_frames/sec_9_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[7-9] Then a hand puts the pink beverage can behind it on the syrup and presses it. After cooling, the beverage can is removed, and a smooth dent appears on the syrup."
+    },
+    {
+        "second": 10,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Q0_nYJZMQz4/output_frames/sec_10_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[9-13] Finally, the picture comes to a black table top. A pair of hands put the solidified syrup in the middle, and a small insect crawls over it. Then the hand takes a sharp metal tool and removes it along a circle of dents on the syrup. Then, the removed syrup wafer is taken to the front of the lens for display."
+    },
+    {
+        "second": 11,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Q0_nYJZMQz4/output_frames/sec_11_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[9-13] Finally, the picture comes to a black table top. A pair of hands put the solidified syrup in the middle, and a small insect crawls over it. Then the hand takes a sharp metal tool and removes it along a circle of dents on the syrup. Then, the removed syrup wafer is taken to the front of the lens for display."
+    },
+    {
+        "second": 12,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Q0_nYJZMQz4/output_frames/sec_12_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[9-13] Finally, the picture comes to a black table top. A pair of hands put the solidified syrup in the middle, and a small insect crawls over it. Then the hand takes a sharp metal tool and removes it along a circle of dents on the syrup. Then, the removed syrup wafer is taken to the front of the lens for display."
+    },
+    {
+        "second": 13,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Q0_nYJZMQz4/output_frames/sec_13_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[9-13] Finally, the picture comes to a black table top. A pair of hands put the solidified syrup in the middle, and a small insect crawls over it. Then the hand takes a sharp metal tool and removes it along a circle of dents on the syrup. Then, the removed syrup wafer is taken to the front of the lens for display."
+    }
+]

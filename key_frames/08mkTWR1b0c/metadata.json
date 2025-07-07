@@ -1,0 +1,219 @@
+[
+    {
+        "second": 0,
+        "frame_index": 51,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/08mkTWR1b0c/output_frames/sec_0_idx_51.jpg",
+        "fps": 60,
+        "explanation": "[0-0] Blocky Sonic the Hedgehog is on a platform with a blue background and pink checkered floor."
+    },
+    {
+        "second": 1,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/08mkTWR1b0c/output_frames/sec_1_idx_1.jpg",
+        "fps": 60,
+        "explanation": "[0-3] The scene switches to Sonic starting to move forward, moving left and right to collect golden rings."
+    },
+    {
+        "second": 2,
+        "frame_index": 46,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/08mkTWR1b0c/output_frames/sec_2_idx_46.jpg",
+        "fps": 60,
+        "explanation": "[0-3] The scene switches to Sonic starting to move forward, moving left and right to collect golden rings."
+    },
+    {
+        "second": 3,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/08mkTWR1b0c/output_frames/sec_3_idx_28.jpg",
+        "fps": 60,
+        "explanation": "[0-3] The scene switches to Sonic starting to move forward, moving left and right to collect golden rings."
+    },
+    {
+        "second": 4,
+        "frame_index": 39,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/08mkTWR1b0c/output_frames/sec_4_idx_39.jpg",
+        "fps": 60,
+        "explanation": "[3-5] As Sonic keeps moving forward, the number of golden rings behind him keeps increasing."
+    },
+    {
+        "second": 5,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/08mkTWR1b0c/output_frames/sec_5_idx_21.jpg",
+        "fps": 60,
+        "explanation": "[3-5] As Sonic keeps moving forward, the number of golden rings behind him keeps increasing."
+    },
+    {
+        "second": 6,
+        "frame_index": 54,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/08mkTWR1b0c/output_frames/sec_6_idx_54.jpg",
+        "fps": 60,
+        "explanation": "[5-9] Then the scene switches to Sonic arriving in front of three red cylindrical obstacles and stopping, ramming into the thickest obstacle on the left."
+    },
+    {
+        "second": 7,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/08mkTWR1b0c/output_frames/sec_7_idx_6.jpg",
+        "fps": 60,
+        "explanation": "[5-9] Then the scene switches to Sonic arriving in front of three red cylindrical obstacles and stopping, ramming into the thickest obstacle on the left."
+    },
+    {
+        "second": 8,
+        "frame_index": 50,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/08mkTWR1b0c/output_frames/sec_8_idx_50.jpg",
+        "fps": 60,
+        "explanation": "[5-9] Then the scene switches to Sonic arriving in front of three red cylindrical obstacles and stopping, ramming into the thickest obstacle on the left."
+    },
+    {
+        "second": 9,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/08mkTWR1b0c/output_frames/sec_9_idx_12.jpg",
+        "fps": 60,
+        "explanation": "[5-9] Then the scene switches to Sonic arriving in front of three red cylindrical obstacles and stopping, ramming into the thickest obstacle on the left."
+    },
+    {
+        "second": 10,
+        "frame_index": 30,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/08mkTWR1b0c/output_frames/sec_10_idx_30.jpg",
+        "fps": 60,
+        "explanation": "[9-13] Because the ramming was unsuccessful, he gets very angry and starts to speed up continuously, ramming many times but still failing."
+    },
+    {
+        "second": 11,
+        "frame_index": 48,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/08mkTWR1b0c/output_frames/sec_11_idx_48.jpg",
+        "fps": 60,
+        "explanation": "[9-13] Because the ramming was unsuccessful, he gets very angry and starts to speed up continuously, ramming many times but still failing."
+    },
+    {
+        "second": 12,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/08mkTWR1b0c/output_frames/sec_12_idx_13.jpg",
+        "fps": 60,
+        "explanation": "[9-13] Because the ramming was unsuccessful, he gets very angry and starts to speed up continuously, ramming many times but still failing."
+    },
+    {
+        "second": 13,
+        "frame_index": 58,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/08mkTWR1b0c/output_frames/sec_13_idx_58.jpg",
+        "fps": 60,
+        "explanation": "[9-13] Because the ramming was unsuccessful, he gets very angry and starts to speed up continuously, ramming many times but still failing."
+    },
+    {
+        "second": 14,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/08mkTWR1b0c/output_frames/sec_14_idx_3.jpg",
+        "fps": 60,
+        "explanation": "[13-17] The screen switches, with white text appearing at the top: HELP THE SONIC, and three yellow arrows pointing to the obstacles. As the countdown ends, the pointer cursor selects the rightmost cylinder, indicating that it can be passed through."
+    },
+    {
+        "second": 15,
+        "frame_index": 39,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/08mkTWR1b0c/output_frames/sec_15_idx_39.jpg",
+        "fps": 60,
+        "explanation": "[13-17] The screen switches, with white text appearing at the top: HELP THE SONIC, and three yellow arrows pointing to the obstacles. As the countdown ends, the pointer cursor selects the rightmost cylinder, indicating that it can be passed through."
+    },
+    {
+        "second": 16,
+        "frame_index": 46,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/08mkTWR1b0c/output_frames/sec_16_idx_46.jpg",
+        "fps": 60,
+        "explanation": "[13-17] The screen switches, with white text appearing at the top: HELP THE SONIC, and three yellow arrows pointing to the obstacles. As the countdown ends, the pointer cursor selects the rightmost cylinder, indicating that it can be passed through."
+    },
+    {
+        "second": 17,
+        "frame_index": 42,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/08mkTWR1b0c/output_frames/sec_17_idx_42.jpg",
+        "fps": 60,
+        "explanation": "[13-17] The screen switches, with white text appearing at the top: HELP THE SONIC, and three yellow arrows pointing to the obstacles. As the countdown ends, the pointer cursor selects the rightmost cylinder, indicating that it can be passed through."
+    },
+    {
+        "second": 18,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/08mkTWR1b0c/output_frames/sec_18_idx_20.jpg",
+        "fps": 60,
+        "explanation": "[17-22] Immediately, the screen switches to Sonic happily passing through the red obstacle. The obstacle stares in disbelief with wide eyes."
+    },
+    {
+        "second": 19,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/08mkTWR1b0c/output_frames/sec_19_idx_28.jpg",
+        "fps": 60,
+        "explanation": "[17-22] Immediately, the screen switches to Sonic happily passing through the red obstacle. The obstacle stares in disbelief with wide eyes."
+    },
+    {
+        "second": 20,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/08mkTWR1b0c/output_frames/sec_20_idx_23.jpg",
+        "fps": 60,
+        "explanation": "[17-22] Immediately, the screen switches to Sonic happily passing through the red obstacle. The obstacle stares in disbelief with wide eyes."
+    },
+    {
+        "second": 21,
+        "frame_index": 55,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/08mkTWR1b0c/output_frames/sec_21_idx_55.jpg",
+        "fps": 60,
+        "explanation": "[17-22] Immediately, the screen switches to Sonic happily passing through the red obstacle. The obstacle stares in disbelief with wide eyes."
+    },
+    {
+        "second": 22,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/08mkTWR1b0c/output_frames/sec_22_idx_28.jpg",
+        "fps": 60,
+        "explanation": "[17-22] Immediately, the screen switches to Sonic happily passing through the red obstacle. The obstacle stares in disbelief with wide eyes."
+    },
+    {
+        "second": 23,
+        "frame_index": 55,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/08mkTWR1b0c/output_frames/sec_23_idx_55.jpg",
+        "fps": 60,
+        "explanation": "[22-24] The scene switches back to the platform level, where new obstacles appear. Sonic has to dodge the square obstacles while collecting golden rings."
+    },
+    {
+        "second": 24,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/08mkTWR1b0c/output_frames/sec_24_idx_14.jpg",
+        "fps": 60,
+        "explanation": "[22-24] The scene switches back to the platform level, where new obstacles appear. Sonic has to dodge the square obstacles while collecting golden rings."
+    },
+    {
+        "second": 25,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/08mkTWR1b0c/output_frames/sec_25_idx_24.jpg",
+        "fps": 60,
+        "explanation": "[24-27] Finally, Sonic successfully reaches the finish line, which is marked with a black and white checkered pattern and white text. Then the camera zooms in and moves quickly to show the multiple golden rings behind him. Amy Rose appears, standing beyond the finish line."
+    },
+    {
+        "second": 26,
+        "frame_index": 56,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/08mkTWR1b0c/output_frames/sec_26_idx_56.jpg",
+        "fps": 60,
+        "explanation": "[24-27] Finally, Sonic successfully reaches the finish line, which is marked with a black and white checkered pattern and white text. Then the camera zooms in and moves quickly to show the multiple golden rings behind him. Amy Rose appears, standing beyond the finish line."
+    },
+    {
+        "second": 27,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/08mkTWR1b0c/output_frames/sec_27_idx_10.jpg",
+        "fps": 60,
+        "explanation": "[24-27] Finally, Sonic successfully reaches the finish line, which is marked with a black and white checkered pattern and white text. Then the camera zooms in and moves quickly to show the multiple golden rings behind him. Amy Rose appears, standing beyond the finish line."
+    },
+    {
+        "second": 28,
+        "frame_index": 42,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/08mkTWR1b0c/output_frames/sec_28_idx_42.jpg",
+        "fps": 60,
+        "explanation": "[27-30] Amy Rose spins happily after seeing this, and Sonic smiles happily too."
+    },
+    {
+        "second": 29,
+        "frame_index": 44,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/08mkTWR1b0c/output_frames/sec_29_idx_44.jpg",
+        "fps": 60,
+        "explanation": "[27-30] Amy Rose spins happily after seeing this, and Sonic smiles happily too."
+    },
+    {
+        "second": 30,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/08mkTWR1b0c/output_frames/sec_30_idx_25.jpg",
+        "fps": 60,
+        "explanation": "[27-30] Amy Rose spins happily after seeing this, and Sonic smiles happily too."
+    }
+]

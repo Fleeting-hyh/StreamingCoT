@@ -1,0 +1,58 @@
+[
+    {
+        "second": 0,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/47gImjBktEI/output_frames/sec_0_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A pink cube with big, smiling eyes stands on a blue cube, behind which is a green cube. The background is dark blue, and there is a red circular logo with some symbols inside on the blue cube in the lower right corner."
+    },
+    {
+        "second": 1,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/47gImjBktEI/output_frames/sec_1_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Then the green cube at the back starts to move upwards, slowly revealing a pair of wide eyes and a large mouth with sharp teeth. Then the green cube presses forward, swallowing the pink cube in front of it into its open mouth. The pink cube's smiling expression begins to change, its eyebrows tilting upwards and its mouth curving downwards into a sad expression. The pink cube is then completely swallowed."
+    },
+    {
+        "second": 2,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/47gImjBktEI/output_frames/sec_2_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Then the green cube at the back starts to move upwards, slowly revealing a pair of wide eyes and a large mouth with sharp teeth. Then the green cube presses forward, swallowing the pink cube in front of it into its open mouth. The pink cube's smiling expression begins to change, its eyebrows tilting upwards and its mouth curving downwards into a sad expression. The pink cube is then completely swallowed."
+    },
+    {
+        "second": 3,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/47gImjBktEI/output_frames/sec_3_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Then the green cube at the back starts to move upwards, slowly revealing a pair of wide eyes and a large mouth with sharp teeth. Then the green cube presses forward, swallowing the pink cube in front of it into its open mouth. The pink cube's smiling expression begins to change, its eyebrows tilting upwards and its mouth curving downwards into a sad expression. The pink cube is then completely swallowed."
+    },
+    {
+        "second": 4,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/47gImjBktEI/output_frames/sec_4_idx_24.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Then the green cube at the back starts to move upwards, slowly revealing a pair of wide eyes and a large mouth with sharp teeth. Then the green cube presses forward, swallowing the pink cube in front of it into its open mouth. The pink cube's smiling expression begins to change, its eyebrows tilting upwards and its mouth curving downwards into a sad expression. The pink cube is then completely swallowed."
+    },
+    {
+        "second": 5,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/47gImjBktEI/output_frames/sec_5_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[4-7] The green cube then begins to contract backwards, its length shortening to that of the blue cube below it, and its color turning dark green. At this point, a pink cube with a sad expression falls from above and lands on the dark green cube below. Then the green cube starts to descend, its color changing to blue, and the pink cube above it changes to a smiling expression."
+    },
+    {
+        "second": 6,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/47gImjBktEI/output_frames/sec_6_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[4-7] The green cube then begins to contract backwards, its length shortening to that of the blue cube below it, and its color turning dark green. At this point, a pink cube with a sad expression falls from above and lands on the dark green cube below. Then the green cube starts to descend, its color changing to blue, and the pink cube above it changes to a smiling expression."
+    },
+    {
+        "second": 7,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/47gImjBktEI/output_frames/sec_7_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[4-7] The green cube then begins to contract backwards, its length shortening to that of the blue cube below it, and its color turning dark green. At this point, a pink cube with a sad expression falls from above and lands on the dark green cube below. Then the green cube starts to descend, its color changing to blue, and the pink cube above it changes to a smiling expression."
+    }
+]

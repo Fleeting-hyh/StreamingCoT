@@ -1,0 +1,212 @@
+[
+    {
+        "second": 0,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Gt94eqWmNtY/output_frames/sec_0_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[0-0] The video is in black and white. The man on the right, wearing a white T-shirt, is standing in the room, drinking water from a cup. The man on the left, wearing a white short-sleeved T-shirt, is sitting at a table in front of a keyboard."
+    },
+    {
+        "second": 1,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Gt94eqWmNtY/output_frames/sec_1_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The sitting man is typing on the keyboard, his head swaying to the music. The standing man is drinking water."
+    },
+    {
+        "second": 2,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Gt94eqWmNtY/output_frames/sec_2_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The sitting man is typing on the keyboard, his head swaying to the music. The standing man is drinking water."
+    },
+    {
+        "second": 3,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Gt94eqWmNtY/output_frames/sec_3_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The sitting man is typing on the keyboard, his head swaying to the music. The standing man is drinking water."
+    },
+    {
+        "second": 4,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Gt94eqWmNtY/output_frames/sec_4_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The sitting man is typing on the keyboard, his head swaying to the music. The standing man is drinking water."
+    },
+    {
+        "second": 5,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Gt94eqWmNtY/output_frames/sec_5_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[4-8] The camera cuts to the sitting man continuing to type and shake his head, turns to look to the right, then turns back with a smile on his face."
+    },
+    {
+        "second": 6,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Gt94eqWmNtY/output_frames/sec_6_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[4-8] The camera cuts to the sitting man continuing to type and shake his head, turns to look to the right, then turns back with a smile on his face."
+    },
+    {
+        "second": 7,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Gt94eqWmNtY/output_frames/sec_7_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[4-8] The camera cuts to the sitting man continuing to type and shake his head, turns to look to the right, then turns back with a smile on his face."
+    },
+    {
+        "second": 8,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Gt94eqWmNtY/output_frames/sec_8_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[4-8] The camera cuts to the sitting man continuing to type and shake his head, turns to look to the right, then turns back with a smile on his face."
+    },
+    {
+        "second": 9,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Gt94eqWmNtY/output_frames/sec_9_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[8-11] The camera cuts back to the beginning of the video, with the seated man continuing to type and the standing man fixing his hair with his hand."
+    },
+    {
+        "second": 10,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Gt94eqWmNtY/output_frames/sec_10_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[8-11] The camera cuts back to the beginning of the video, with the seated man continuing to type and the standing man fixing his hair with his hand."
+    },
+    {
+        "second": 11,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Gt94eqWmNtY/output_frames/sec_11_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[8-11] The camera cuts back to the beginning of the video, with the seated man continuing to type and the standing man fixing his hair with his hand."
+    },
+    {
+        "second": 12,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Gt94eqWmNtY/output_frames/sec_12_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[11-13] Now, the video cuts to another scene. A man in a white T-shirt and black pants is standing by a table in the room, facing right. Meanwhile, another man in a white short and a man in a black short-sleeved shirt are sitting at the table, facing left. They are gesturing together."
+    },
+    {
+        "second": 13,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Gt94eqWmNtY/output_frames/sec_13_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[11-13] Now, the video cuts to another scene. A man in a white T-shirt and black pants is standing by a table in the room, facing right. Meanwhile, another man in a white short and a man in a black short-sleeved shirt are sitting at the table, facing left. They are gesturing together."
+    },
+    {
+        "second": 14,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Gt94eqWmNtY/output_frames/sec_14_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[13-23] Subsequently, the video cuts to another scene where a person in black is sitting at a table in front of a laptop, while two other men stand in the room, swaying their bodies to the rhythm. There are two more men standing behind them."
+    },
+    {
+        "second": 15,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Gt94eqWmNtY/output_frames/sec_15_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[13-23] Subsequently, the video cuts to another scene where a person in black is sitting at a table in front of a laptop, while two other men stand in the room, swaying their bodies to the rhythm. There are two more men standing behind them."
+    },
+    {
+        "second": 16,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Gt94eqWmNtY/output_frames/sec_16_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[13-23] Subsequently, the video cuts to another scene where a person in black is sitting at a table in front of a laptop, while two other men stand in the room, swaying their bodies to the rhythm. There are two more men standing behind them."
+    },
+    {
+        "second": 17,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Gt94eqWmNtY/output_frames/sec_17_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[13-23] Subsequently, the video cuts to another scene where a person in black is sitting at a table in front of a laptop, while two other men stand in the room, swaying their bodies to the rhythm. There are two more men standing behind them."
+    },
+    {
+        "second": 18,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Gt94eqWmNtY/output_frames/sec_18_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[13-23] Subsequently, the video cuts to another scene where a person in black is sitting at a table in front of a laptop, while two other men stand in the room, swaying their bodies to the rhythm. There are two more men standing behind them."
+    },
+    {
+        "second": 19,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Gt94eqWmNtY/output_frames/sec_19_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[13-23] Subsequently, the video cuts to another scene where a person in black is sitting at a table in front of a laptop, while two other men stand in the room, swaying their bodies to the rhythm. There are two more men standing behind them."
+    },
+    {
+        "second": 20,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Gt94eqWmNtY/output_frames/sec_20_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[13-23] Subsequently, the video cuts to another scene where a person in black is sitting at a table in front of a laptop, while two other men stand in the room, swaying their bodies to the rhythm. There are two more men standing behind them."
+    },
+    {
+        "second": 21,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Gt94eqWmNtY/output_frames/sec_21_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[13-23] Subsequently, the video cuts to another scene where a person in black is sitting at a table in front of a laptop, while two other men stand in the room, swaying their bodies to the rhythm. There are two more men standing behind them."
+    },
+    {
+        "second": 22,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Gt94eqWmNtY/output_frames/sec_22_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[13-23] Subsequently, the video cuts to another scene where a person in black is sitting at a table in front of a laptop, while two other men stand in the room, swaying their bodies to the rhythm. There are two more men standing behind them."
+    },
+    {
+        "second": 23,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Gt94eqWmNtY/output_frames/sec_23_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[13-23] Subsequently, the video cuts to another scene where a person in black is sitting at a table in front of a laptop, while two other men stand in the room, swaying their bodies to the rhythm. There are two more men standing behind them."
+    },
+    {
+        "second": 24,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Gt94eqWmNtY/output_frames/sec_24_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[23-26] Then the scene switches to a stage where three people are performing with their backs to the camera. The light is very dim, with green lights flashing."
+    },
+    {
+        "second": 25,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Gt94eqWmNtY/output_frames/sec_25_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[23-26] Then the scene switches to a stage where three people are performing with their backs to the camera. The light is very dim, with green lights flashing."
+    },
+    {
+        "second": 26,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Gt94eqWmNtY/output_frames/sec_26_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[23-26] Then the scene switches to a stage where three people are performing with their backs to the camera. The light is very dim, with green lights flashing."
+    },
+    {
+        "second": 27,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Gt94eqWmNtY/output_frames/sec_27_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[26-28] Immediately afterwards, the scene switches to inside a room, where three men are clapping to celebrate the success of the performance."
+    },
+    {
+        "second": 28,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Gt94eqWmNtY/output_frames/sec_28_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[26-28] Immediately afterwards, the scene switches to inside a room, where three men are clapping to celebrate the success of the performance."
+    },
+    {
+        "second": 29,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Gt94eqWmNtY/output_frames/sec_29_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[28-30] Finally, the scene switches back to the stage with brilliant stage lighting and people dancing."
+    }
+]

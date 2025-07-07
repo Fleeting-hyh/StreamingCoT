@@ -1,0 +1,72 @@
+[
+    {
+        "second": 0,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/H7S8k4hfymY/output_frames/sec_0_idx_15.jpg",
+        "fps": 50,
+        "explanation": "[0-0] The video starts on a residential street with a blonde woman in a Superman costume holding a blue marker. Next to her stands a little girl in a pink princess dress and a man in a Superman costume wearing a white mask."
+    },
+    {
+        "second": 1,
+        "frame_index": 47,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/H7S8k4hfymY/output_frames/sec_1_idx_47.jpg",
+        "fps": 50,
+        "explanation": "[0-5] Then, the woman gestures with the marker towards the little girl's face, then towards the mask on the man's face, and then draws a vertical line on the back of her own hand. Finally, she moves her hand with a clenched fist towards the camera."
+    },
+    {
+        "second": 2,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/H7S8k4hfymY/output_frames/sec_2_idx_2.jpg",
+        "fps": 50,
+        "explanation": "[0-5] Then, the woman gestures with the marker towards the little girl's face, then towards the mask on the man's face, and then draws a vertical line on the back of her own hand. Finally, she moves her hand with a clenched fist towards the camera."
+    },
+    {
+        "second": 3,
+        "frame_index": 37,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/H7S8k4hfymY/output_frames/sec_3_idx_37.jpg",
+        "fps": 50,
+        "explanation": "[0-5] Then, the woman gestures with the marker towards the little girl's face, then towards the mask on the man's face, and then draws a vertical line on the back of her own hand. Finally, she moves her hand with a clenched fist towards the camera."
+    },
+    {
+        "second": 4,
+        "frame_index": 47,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/H7S8k4hfymY/output_frames/sec_4_idx_47.jpg",
+        "fps": 50,
+        "explanation": "[0-5] Then, the woman gestures with the marker towards the little girl's face, then towards the mask on the man's face, and then draws a vertical line on the back of her own hand. Finally, she moves her hand with a clenched fist towards the camera."
+    },
+    {
+        "second": 5,
+        "frame_index": 47,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/H7S8k4hfymY/output_frames/sec_5_idx_47.jpg",
+        "fps": 50,
+        "explanation": "[0-5] Then, the woman gestures with the marker towards the little girl's face, then towards the mask on the man's face, and then draws a vertical line on the back of her own hand. Finally, she moves her hand with a clenched fist towards the camera."
+    },
+    {
+        "second": 6,
+        "frame_index": 37,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/H7S8k4hfymY/output_frames/sec_6_idx_37.jpg",
+        "fps": 50,
+        "explanation": "[5-9] Immediately afterwards, the video's color tone turns blue, the little girl's face and hair turn blue, and she takes on the appearance of an Avatar. Subsequently, the man and woman behind her also turn blue, their faces transforming into Avatars. At the same time, the Superman costumes on the man and woman turn yellow."
+    },
+    {
+        "second": 7,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/H7S8k4hfymY/output_frames/sec_7_idx_6.jpg",
+        "fps": 50,
+        "explanation": "[5-9] Immediately afterwards, the video's color tone turns blue, the little girl's face and hair turn blue, and she takes on the appearance of an Avatar. Subsequently, the man and woman behind her also turn blue, their faces transforming into Avatars. At the same time, the Superman costumes on the man and woman turn yellow."
+    },
+    {
+        "second": 8,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/H7S8k4hfymY/output_frames/sec_8_idx_5.jpg",
+        "fps": 50,
+        "explanation": "[5-9] Immediately afterwards, the video's color tone turns blue, the little girl's face and hair turn blue, and she takes on the appearance of an Avatar. Subsequently, the man and woman behind her also turn blue, their faces transforming into Avatars. At the same time, the Superman costumes on the man and woman turn yellow."
+    },
+    {
+        "second": 9,
+        "frame_index": 34,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/H7S8k4hfymY/output_frames/sec_9_idx_34.jpg",
+        "fps": 50,
+        "explanation": "[5-9] Immediately afterwards, the video's color tone turns blue, the little girl's face and hair turn blue, and she takes on the appearance of an Avatar. Subsequently, the man and woman behind her also turn blue, their faces transforming into Avatars. At the same time, the Superman costumes on the man and woman turn yellow."
+    }
+]

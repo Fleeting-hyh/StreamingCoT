@@ -1,0 +1,100 @@
+[
+    {
+        "second": 0,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AQI4jYW8Rqg/output_frames/sec_0_idx_0.jpg",
+        "fps": 25,
+        "explanation": "[0-0] A large orange cat and a small orange cat are walking on a busy street, surrounded by pedestrians. The larger cat is wearing tattered clothing, while the smaller cat is wearing a small outfit."
+    },
+    {
+        "second": 1,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AQI4jYW8Rqg/output_frames/sec_1_idx_0.jpg",
+        "fps": 25,
+        "explanation": "[0-2] The scene changes to a street corner. The larger cat is sitting on the ground, draped in dirty clothes, looking pitiful. The smaller cat stands beside it, also wearing dirty clothes, both cats facing away from the camera."
+    },
+    {
+        "second": 2,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AQI4jYW8Rqg/output_frames/sec_2_idx_21.jpg",
+        "fps": 25,
+        "explanation": "[0-2] The scene changes to a street corner. The larger cat is sitting on the ground, draped in dirty clothes, looking pitiful. The smaller cat stands beside it, also wearing dirty clothes, both cats facing away from the camera."
+    },
+    {
+        "second": 3,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AQI4jYW8Rqg/output_frames/sec_3_idx_2.jpg",
+        "fps": 25,
+        "explanation": "[2-4] The scene shifts to a snowy day, with the larger and smaller cats sitting on a snow-covered street. The larger cat wears a scarf, tattered clothing, and a sign in front reading \"PLEASE FOOF\". The smaller cat nestles beside the larger cat, with a yellow car behind them and tall buildings on either side."
+    },
+    {
+        "second": 4,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AQI4jYW8Rqg/output_frames/sec_4_idx_3.jpg",
+        "fps": 25,
+        "explanation": "[2-4] The scene shifts to a snowy day, with the larger and smaller cats sitting on a snow-covered street. The larger cat wears a scarf, tattered clothing, and a sign in front reading \"PLEASE FOOF\". The smaller cat nestles beside the larger cat, with a yellow car behind them and tall buildings on either side."
+    },
+    {
+        "second": 5,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AQI4jYW8Rqg/output_frames/sec_5_idx_15.jpg",
+        "fps": 25,
+        "explanation": "[4-6] The scene changes again, the larger cat is holding a sausage, facing a container full of sausages, with two pedestrians in black clothing behind it. Many vehicles are parked on the roadside, while the other side shows endless tall buildings."
+    },
+    {
+        "second": 6,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AQI4jYW8Rqg/output_frames/sec_6_idx_0.jpg",
+        "fps": 25,
+        "explanation": "[4-6] The scene changes again, the larger cat is holding a sausage, facing a container full of sausages, with two pedestrians in black clothing behind it. Many vehicles are parked on the roadside, while the other side shows endless tall buildings."
+    },
+    {
+        "second": 7,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AQI4jYW8Rqg/output_frames/sec_7_idx_0.jpg",
+        "fps": 25,
+        "explanation": "[6-10] Subsequently, the scene switches to the larger cat with a sausage in its mouth, a man wearing red clothing chasing it with a white dog. Behind the man is a yellow food truck. Then, a policeman in a blue uniform catches the larger cat, standing it before a shelf full of sausages, with many pedestrians and bustling skyscrapers in the background. The scene cuts to the smaller cat, wearing a red top and blue pants, crying on the street with the word \"Dad\" beside it. Behind it is a bustling street with many pedestrians and buildings."
+    },
+    {
+        "second": 8,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AQI4jYW8Rqg/output_frames/sec_8_idx_0.jpg",
+        "fps": 25,
+        "explanation": "[6-10] Subsequently, the scene switches to the larger cat with a sausage in its mouth, a man wearing red clothing chasing it with a white dog. Behind the man is a yellow food truck. Then, a policeman in a blue uniform catches the larger cat, standing it before a shelf full of sausages, with many pedestrians and bustling skyscrapers in the background. The scene cuts to the smaller cat, wearing a red top and blue pants, crying on the street with the word \"Dad\" beside it. Behind it is a bustling street with many pedestrians and buildings."
+    },
+    {
+        "second": 9,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AQI4jYW8Rqg/output_frames/sec_9_idx_20.jpg",
+        "fps": 25,
+        "explanation": "[6-10] Subsequently, the scene switches to the larger cat with a sausage in its mouth, a man wearing red clothing chasing it with a white dog. Behind the man is a yellow food truck. Then, a policeman in a blue uniform catches the larger cat, standing it before a shelf full of sausages, with many pedestrians and bustling skyscrapers in the background. The scene cuts to the smaller cat, wearing a red top and blue pants, crying on the street with the word \"Dad\" beside it. Behind it is a bustling street with many pedestrians and buildings."
+    },
+    {
+        "second": 10,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AQI4jYW8Rqg/output_frames/sec_10_idx_19.jpg",
+        "fps": 25,
+        "explanation": "[6-10] Subsequently, the scene switches to the larger cat with a sausage in its mouth, a man wearing red clothing chasing it with a white dog. Behind the man is a yellow food truck. Then, a policeman in a blue uniform catches the larger cat, standing it before a shelf full of sausages, with many pedestrians and bustling skyscrapers in the background. The scene cuts to the smaller cat, wearing a red top and blue pants, crying on the street with the word \"Dad\" beside it. Behind it is a bustling street with many pedestrians and buildings."
+    },
+    {
+        "second": 11,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AQI4jYW8Rqg/output_frames/sec_11_idx_2.jpg",
+        "fps": 25,
+        "explanation": "[10-13] Next, the larger cat, in ragged clothing, sits inside a police car with black seats. A white vehicle and some buildings are visible through the window. Finally, the smaller cat, wearing a blue top and red pants, squats on the street as light snow falls."
+    },
+    {
+        "second": 12,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AQI4jYW8Rqg/output_frames/sec_12_idx_6.jpg",
+        "fps": 25,
+        "explanation": "[10-13] Next, the larger cat, in ragged clothing, sits inside a police car with black seats. A white vehicle and some buildings are visible through the window. Finally, the smaller cat, wearing a blue top and red pants, squats on the street as light snow falls."
+    },
+    {
+        "second": 13,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AQI4jYW8Rqg/output_frames/sec_13_idx_0.jpg",
+        "fps": 25,
+        "explanation": "[10-13] Next, the larger cat, in ragged clothing, sits inside a police car with black seats. A white vehicle and some buildings are visible through the window. Finally, the smaller cat, wearing a blue top and red pants, squats on the street as light snow falls."
+    }
+]

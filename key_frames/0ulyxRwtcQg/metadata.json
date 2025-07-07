@@ -1,0 +1,44 @@
+[
+    {
+        "second": 0,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0ulyxRwtcQg/output_frames/sec_0_idx_20.jpg",
+        "fps": 60,
+        "explanation": "[0-0] It's a cartoon scene. In front of a house with white walls and a red tiled roof, Mario is standing on a small white path, grinning broadly, holding a paper airplane with Baby Mario sitting in it. On both sides of the road are green meadows."
+    },
+    {
+        "second": 1,
+        "frame_index": 59,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0ulyxRwtcQg/output_frames/sec_1_idx_59.jpg",
+        "fps": 60,
+        "explanation": "[0-5] Mario throws the paper airplane forward, and Baby Mario flies up in it. The perspective switches to Baby Mario's view, where you can see him sitting in the paper airplane, with a girl in blue overalls standing on a ladder in the distance. The paper airplane hits the girl in the blue overalls and explodes, the image obscured by the fire and smoke from the explosion."
+    },
+    {
+        "second": 2,
+        "frame_index": 49,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0ulyxRwtcQg/output_frames/sec_2_idx_49.jpg",
+        "fps": 60,
+        "explanation": "[0-5] Mario throws the paper airplane forward, and Baby Mario flies up in it. The perspective switches to Baby Mario's view, where you can see him sitting in the paper airplane, with a girl in blue overalls standing on a ladder in the distance. The paper airplane hits the girl in the blue overalls and explodes, the image obscured by the fire and smoke from the explosion."
+    },
+    {
+        "second": 3,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0ulyxRwtcQg/output_frames/sec_3_idx_1.jpg",
+        "fps": 60,
+        "explanation": "[0-5] Mario throws the paper airplane forward, and Baby Mario flies up in it. The perspective switches to Baby Mario's view, where you can see him sitting in the paper airplane, with a girl in blue overalls standing on a ladder in the distance. The paper airplane hits the girl in the blue overalls and explodes, the image obscured by the fire and smoke from the explosion."
+    },
+    {
+        "second": 4,
+        "frame_index": 55,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0ulyxRwtcQg/output_frames/sec_4_idx_55.jpg",
+        "fps": 60,
+        "explanation": "[0-5] Mario throws the paper airplane forward, and Baby Mario flies up in it. The perspective switches to Baby Mario's view, where you can see him sitting in the paper airplane, with a girl in blue overalls standing on a ladder in the distance. The paper airplane hits the girl in the blue overalls and explodes, the image obscured by the fire and smoke from the explosion."
+    },
+    {
+        "second": 5,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0ulyxRwtcQg/output_frames/sec_5_idx_1.jpg",
+        "fps": 60,
+        "explanation": "[0-5] Mario throws the paper airplane forward, and Baby Mario flies up in it. The perspective switches to Baby Mario's view, where you can see him sitting in the paper airplane, with a girl in blue overalls standing on a ladder in the distance. The paper airplane hits the girl in the blue overalls and explodes, the image obscured by the fire and smoke from the explosion."
+    }
+]

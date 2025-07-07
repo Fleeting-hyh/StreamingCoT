@@ -1,0 +1,51 @@
+[
+    {
+        "second": 0,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CDGN357-ZH0/output_frames/sec_0_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A cluster of heptagons and pentagons are grouped together, each shape featuring cartoon-style eyes, a mouth, and teeth. They are brightly colored, including pink, red, green, blue, orange, and yellow. The shapes are arranged in a honeycomb-like pattern against a dark blue background."
+    },
+    {
+        "second": 1,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CDGN357-ZH0/output_frames/sec_1_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[0-4] A red heptagon separates from the arrangement of heptagons and pentagons and begins to move rightward, above the other shapes. Its expression constantly changes, its eyes turning into crosses then back to circles. As it falls on top of each shape, that shape\u2019s expression also changes, and its color lightens."
+    },
+    {
+        "second": 2,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CDGN357-ZH0/output_frames/sec_2_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[0-4] A red heptagon separates from the arrangement of heptagons and pentagons and begins to move rightward, above the other shapes. Its expression constantly changes, its eyes turning into crosses then back to circles. As it falls on top of each shape, that shape\u2019s expression also changes, and its color lightens."
+    },
+    {
+        "second": 3,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CDGN357-ZH0/output_frames/sec_3_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[0-4] A red heptagon separates from the arrangement of heptagons and pentagons and begins to move rightward, above the other shapes. Its expression constantly changes, its eyes turning into crosses then back to circles. As it falls on top of each shape, that shape\u2019s expression also changes, and its color lightens."
+    },
+    {
+        "second": 4,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CDGN357-ZH0/output_frames/sec_4_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[0-4] A red heptagon separates from the arrangement of heptagons and pentagons and begins to move rightward, above the other shapes. Its expression constantly changes, its eyes turning into crosses then back to circles. As it falls on top of each shape, that shape\u2019s expression also changes, and its color lightens."
+    },
+    {
+        "second": 5,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CDGN357-ZH0/output_frames/sec_5_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[4-6] Finally, as the red heptagon rolls, it returns to its original position, and the arrangement of heptagons and pentagons is once again complete."
+    },
+    {
+        "second": 6,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CDGN357-ZH0/output_frames/sec_6_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[4-6] Finally, as the red heptagon rolls, it returns to its original position, and the arrangement of heptagons and pentagons is once again complete."
+    }
+]

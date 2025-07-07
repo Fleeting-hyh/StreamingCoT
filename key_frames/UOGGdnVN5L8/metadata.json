@@ -1,0 +1,72 @@
+[
+    {
+        "second": 0,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UOGGdnVN5L8/output_frames/sec_0_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A hand is holding a purple balloon with a cute smiley face painted on it. The balloon is suspended directly above a gray tray filled with light purple liquid."
+    },
+    {
+        "second": 1,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UOGGdnVN5L8/output_frames/sec_1_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Then another hand uses green scissors to cut open the upper part of the balloon, and the green liquid inside starts to flow from the hole into the purple liquid in the tray."
+    },
+    {
+        "second": 2,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UOGGdnVN5L8/output_frames/sec_2_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Then another hand uses green scissors to cut open the upper part of the balloon, and the green liquid inside starts to flow from the hole into the purple liquid in the tray."
+    },
+    {
+        "second": 3,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UOGGdnVN5L8/output_frames/sec_3_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Then another hand uses green scissors to cut open the upper part of the balloon, and the green liquid inside starts to flow from the hole into the purple liquid in the tray."
+    },
+    {
+        "second": 4,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UOGGdnVN5L8/output_frames/sec_4_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Then another hand uses green scissors to cut open the upper part of the balloon, and the green liquid inside starts to flow from the hole into the purple liquid in the tray."
+    },
+    {
+        "second": 5,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UOGGdnVN5L8/output_frames/sec_5_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Then another hand uses green scissors to cut open the upper part of the balloon, and the green liquid inside starts to flow from the hole into the purple liquid in the tray."
+    },
+    {
+        "second": 6,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UOGGdnVN5L8/output_frames/sec_6_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[5-10] Subsequently, more and more green liquid flows out of the balloon, and the balloon slowly deflates."
+    },
+    {
+        "second": 7,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UOGGdnVN5L8/output_frames/sec_7_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[5-10] Subsequently, more and more green liquid flows out of the balloon, and the balloon slowly deflates."
+    },
+    {
+        "second": 8,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UOGGdnVN5L8/output_frames/sec_8_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[5-10] Subsequently, more and more green liquid flows out of the balloon, and the balloon slowly deflates."
+    },
+    {
+        "second": 9,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UOGGdnVN5L8/output_frames/sec_9_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[5-10] Subsequently, more and more green liquid flows out of the balloon, and the balloon slowly deflates."
+    }
+]

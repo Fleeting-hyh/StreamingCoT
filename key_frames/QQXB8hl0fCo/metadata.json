@@ -1,0 +1,65 @@
+[
+    {
+        "second": 0,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QQXB8hl0fCo/output_frames/sec_0_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[0-0] The video begins inside a fast food restaurant, behind the counter, where a bored cartoon cat wearing a green hat, yellow glasses, and headphones is lying on the counter. There is an ordering machine on the counter, with a backlit advertising sign hanging behind it."
+    },
+    {
+        "second": 1,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QQXB8hl0fCo/output_frames/sec_1_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[0-8] The cat continues to rest its head on its left hand, lying halfway on the counter. It briefly lowers its head in resignation, then leans over to pick up a donut, as a yellow-white explosion effect appears on the screen."
+    },
+    {
+        "second": 2,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QQXB8hl0fCo/output_frames/sec_2_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[0-8] The cat continues to rest its head on its left hand, lying halfway on the counter. It briefly lowers its head in resignation, then leans over to pick up a donut, as a yellow-white explosion effect appears on the screen."
+    },
+    {
+        "second": 3,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QQXB8hl0fCo/output_frames/sec_3_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[0-8] The cat continues to rest its head on its left hand, lying halfway on the counter. It briefly lowers its head in resignation, then leans over to pick up a donut, as a yellow-white explosion effect appears on the screen."
+    },
+    {
+        "second": 4,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QQXB8hl0fCo/output_frames/sec_4_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-8] The cat continues to rest its head on its left hand, lying halfway on the counter. It briefly lowers its head in resignation, then leans over to pick up a donut, as a yellow-white explosion effect appears on the screen."
+    },
+    {
+        "second": 5,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QQXB8hl0fCo/output_frames/sec_5_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[0-8] The cat continues to rest its head on its left hand, lying halfway on the counter. It briefly lowers its head in resignation, then leans over to pick up a donut, as a yellow-white explosion effect appears on the screen."
+    },
+    {
+        "second": 6,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QQXB8hl0fCo/output_frames/sec_6_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[0-8] The cat continues to rest its head on its left hand, lying halfway on the counter. It briefly lowers its head in resignation, then leans over to pick up a donut, as a yellow-white explosion effect appears on the screen."
+    },
+    {
+        "second": 7,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QQXB8hl0fCo/output_frames/sec_7_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[0-8] The cat continues to rest its head on its left hand, lying halfway on the counter. It briefly lowers its head in resignation, then leans over to pick up a donut, as a yellow-white explosion effect appears on the screen."
+    },
+    {
+        "second": 8,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QQXB8hl0fCo/output_frames/sec_8_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[0-8] The cat continues to rest its head on its left hand, lying halfway on the counter. It briefly lowers its head in resignation, then leans over to pick up a donut, as a yellow-white explosion effect appears on the screen."
+    }
+]

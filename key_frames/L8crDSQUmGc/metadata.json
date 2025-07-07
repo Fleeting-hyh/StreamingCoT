@@ -1,0 +1,51 @@
+[
+    {
+        "second": 0,
+        "frame_index": 59,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/L8crDSQUmGc/output_frames/sec_0_idx_59.jpg",
+        "fps": 60,
+        "explanation": "[0-0] Green grass and a white car are parked on both sides of the gray asphalt road, with green trees and a blue sky dotted with gray clouds in the background."
+    },
+    {
+        "second": 1,
+        "frame_index": 55,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/L8crDSQUmGc/output_frames/sec_1_idx_55.jpg",
+        "fps": 60,
+        "explanation": "[0-6] Then, a woman wearing a helmet is riding a motorcycle and driving forward. She tries to perform a wheelie by lifting the rear wheel off the ground but fails, causing her to jump off the motorcycle."
+    },
+    {
+        "second": 2,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/L8crDSQUmGc/output_frames/sec_2_idx_13.jpg",
+        "fps": 60,
+        "explanation": "[0-6] Then, a woman wearing a helmet is riding a motorcycle and driving forward. She tries to perform a wheelie by lifting the rear wheel off the ground but fails, causing her to jump off the motorcycle."
+    },
+    {
+        "second": 3,
+        "frame_index": 37,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/L8crDSQUmGc/output_frames/sec_3_idx_37.jpg",
+        "fps": 60,
+        "explanation": "[0-6] Then, a woman wearing a helmet is riding a motorcycle and driving forward. She tries to perform a wheelie by lifting the rear wheel off the ground but fails, causing her to jump off the motorcycle."
+    },
+    {
+        "second": 4,
+        "frame_index": 30,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/L8crDSQUmGc/output_frames/sec_4_idx_30.jpg",
+        "fps": 60,
+        "explanation": "[0-6] Then, a woman wearing a helmet is riding a motorcycle and driving forward. She tries to perform a wheelie by lifting the rear wheel off the ground but fails, causing her to jump off the motorcycle."
+    },
+    {
+        "second": 5,
+        "frame_index": 48,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/L8crDSQUmGc/output_frames/sec_5_idx_48.jpg",
+        "fps": 60,
+        "explanation": "[0-6] Then, a woman wearing a helmet is riding a motorcycle and driving forward. She tries to perform a wheelie by lifting the rear wheel off the ground but fails, causing her to jump off the motorcycle."
+    },
+    {
+        "second": 6,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/L8crDSQUmGc/output_frames/sec_6_idx_2.jpg",
+        "fps": 60,
+        "explanation": "[0-6] Then, a woman wearing a helmet is riding a motorcycle and driving forward. She tries to perform a wheelie by lifting the rear wheel off the ground but fails, causing her to jump off the motorcycle."
+    }
+]

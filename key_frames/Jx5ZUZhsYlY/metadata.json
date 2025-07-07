@@ -1,0 +1,51 @@
+[
+    {
+        "second": 0,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Jx5ZUZhsYlY/output_frames/sec_0_idx_16.jpg",
+        "fps": 60,
+        "explanation": "[0-0] An Indian cobra with a black wig on its head is coiled next to a grayish-yellow stone wall. The scales of its patterned body are clearly visible. The ground is covered with green weeds."
+    },
+    {
+        "second": 1,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Jx5ZUZhsYlY/output_frames/sec_1_idx_19.jpg",
+        "fps": 60,
+        "explanation": "[0-2] The camera moves to the left. The cobra maintains an alert posture, its head slightly shaking."
+    },
+    {
+        "second": 2,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Jx5ZUZhsYlY/output_frames/sec_2_idx_4.jpg",
+        "fps": 60,
+        "explanation": "[0-2] The camera moves to the left. The cobra maintains an alert posture, its head slightly shaking."
+    },
+    {
+        "second": 3,
+        "frame_index": 48,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Jx5ZUZhsYlY/output_frames/sec_3_idx_48.jpg",
+        "fps": 60,
+        "explanation": "[2-6] The cobra continues to hold this posture. Then, it gathers strength by moving its body. After lunging towards the camera, the cobra stops and stares at the front of the frame."
+    },
+    {
+        "second": 4,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Jx5ZUZhsYlY/output_frames/sec_4_idx_19.jpg",
+        "fps": 60,
+        "explanation": "[2-6] The cobra continues to hold this posture. Then, it gathers strength by moving its body. After lunging towards the camera, the cobra stops and stares at the front of the frame."
+    },
+    {
+        "second": 5,
+        "frame_index": 52,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Jx5ZUZhsYlY/output_frames/sec_5_idx_52.jpg",
+        "fps": 60,
+        "explanation": "[2-6] The cobra continues to hold this posture. Then, it gathers strength by moving its body. After lunging towards the camera, the cobra stops and stares at the front of the frame."
+    },
+    {
+        "second": 6,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Jx5ZUZhsYlY/output_frames/sec_6_idx_3.jpg",
+        "fps": 60,
+        "explanation": "[2-6] The cobra continues to hold this posture. Then, it gathers strength by moving its body. After lunging towards the camera, the cobra stops and stares at the front of the frame."
+    }
+]

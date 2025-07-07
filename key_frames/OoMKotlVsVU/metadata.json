@@ -1,0 +1,142 @@
+[
+    {
+        "second": 0,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/OoMKotlVsVU/output_frames/sec_0_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[0-0] The video begins with an indoor scene, showing a large LED screen playing a football match. The left side of the screen is partially black, and a hand is visible in the lower right corner. There is a blue watermark in the lower left corner."
+    },
+    {
+        "second": 1,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/OoMKotlVsVU/output_frames/sec_1_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The hand pats the black part of the screen, takes out a black tool, places it on the black area, and removes the screen panel. As the camera zooms out, a man wearing a gray jacket and black pants can be seen operating, standing on a gray floor. Numerous metal frames are behind the screen."
+    },
+    {
+        "second": 2,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/OoMKotlVsVU/output_frames/sec_2_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The hand pats the black part of the screen, takes out a black tool, places it on the black area, and removes the screen panel. As the camera zooms out, a man wearing a gray jacket and black pants can be seen operating, standing on a gray floor. Numerous metal frames are behind the screen."
+    },
+    {
+        "second": 3,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/OoMKotlVsVU/output_frames/sec_3_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The hand pats the black part of the screen, takes out a black tool, places it on the black area, and removes the screen panel. As the camera zooms out, a man wearing a gray jacket and black pants can be seen operating, standing on a gray floor. Numerous metal frames are behind the screen."
+    },
+    {
+        "second": 4,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/OoMKotlVsVU/output_frames/sec_4_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The hand pats the black part of the screen, takes out a black tool, places it on the black area, and removes the screen panel. As the camera zooms out, a man wearing a gray jacket and black pants can be seen operating, standing on a gray floor. Numerous metal frames are behind the screen."
+    },
+    {
+        "second": 5,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/OoMKotlVsVU/output_frames/sec_5_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[4-12] The man removes the panel, revealing organized wires. He picks up a red wire from inside and installs it on the back of the removed panel. Then, he puts the panel back in place by hand."
+    },
+    {
+        "second": 6,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/OoMKotlVsVU/output_frames/sec_6_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[4-12] The man removes the panel, revealing organized wires. He picks up a red wire from inside and installs it on the back of the removed panel. Then, he puts the panel back in place by hand."
+    },
+    {
+        "second": 7,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/OoMKotlVsVU/output_frames/sec_7_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[4-12] The man removes the panel, revealing organized wires. He picks up a red wire from inside and installs it on the back of the removed panel. Then, he puts the panel back in place by hand."
+    },
+    {
+        "second": 8,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/OoMKotlVsVU/output_frames/sec_8_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[4-12] The man removes the panel, revealing organized wires. He picks up a red wire from inside and installs it on the back of the removed panel. Then, he puts the panel back in place by hand."
+    },
+    {
+        "second": 9,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/OoMKotlVsVU/output_frames/sec_9_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[4-12] The man removes the panel, revealing organized wires. He picks up a red wire from inside and installs it on the back of the removed panel. Then, he puts the panel back in place by hand."
+    },
+    {
+        "second": 10,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/OoMKotlVsVU/output_frames/sec_10_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[4-12] The man removes the panel, revealing organized wires. He picks up a red wire from inside and installs it on the back of the removed panel. Then, he puts the panel back in place by hand."
+    },
+    {
+        "second": 11,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/OoMKotlVsVU/output_frames/sec_11_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[4-12] The man removes the panel, revealing organized wires. He picks up a red wire from inside and installs it on the back of the removed panel. Then, he puts the panel back in place by hand."
+    },
+    {
+        "second": 12,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/OoMKotlVsVU/output_frames/sec_12_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[4-12] The man removes the panel, revealing organized wires. He picks up a red wire from inside and installs it on the back of the removed panel. Then, he puts the panel back in place by hand."
+    },
+    {
+        "second": 13,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/OoMKotlVsVU/output_frames/sec_13_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[12-19] Finally, the man uses the tool to remove the panel again, rotates it, and reinstalls it. There is a blue stool below the screen. The wall on the right side is white."
+    },
+    {
+        "second": 14,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/OoMKotlVsVU/output_frames/sec_14_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[12-19] Finally, the man uses the tool to remove the panel again, rotates it, and reinstalls it. There is a blue stool below the screen. The wall on the right side is white."
+    },
+    {
+        "second": 15,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/OoMKotlVsVU/output_frames/sec_15_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[12-19] Finally, the man uses the tool to remove the panel again, rotates it, and reinstalls it. There is a blue stool below the screen. The wall on the right side is white."
+    },
+    {
+        "second": 16,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/OoMKotlVsVU/output_frames/sec_16_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[12-19] Finally, the man uses the tool to remove the panel again, rotates it, and reinstalls it. There is a blue stool below the screen. The wall on the right side is white."
+    },
+    {
+        "second": 17,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/OoMKotlVsVU/output_frames/sec_17_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[12-19] Finally, the man uses the tool to remove the panel again, rotates it, and reinstalls it. There is a blue stool below the screen. The wall on the right side is white."
+    },
+    {
+        "second": 18,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/OoMKotlVsVU/output_frames/sec_18_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[12-19] Finally, the man uses the tool to remove the panel again, rotates it, and reinstalls it. There is a blue stool below the screen. The wall on the right side is white."
+    },
+    {
+        "second": 19,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/OoMKotlVsVU/output_frames/sec_19_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[12-19] Finally, the man uses the tool to remove the panel again, rotates it, and reinstalls it. There is a blue stool below the screen. The wall on the right side is white."
+    }
+]

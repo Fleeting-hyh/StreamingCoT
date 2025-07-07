@@ -1,0 +1,408 @@
+[
+    {
+        "second": 0,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4XZ_BqNjzoA/output_frames/sec_0_idx_14.jpg",
+        "fps": 25,
+        "explanation": "[0-0] In a room with blue walls, a man in a denim jacket and sunglasses holding a security scanner stands on the left. In the middle is a man in a plaid shirt, brown pants, and orange shoes, and on the right is a woman in a green top, yellow pants, and white shoes, holding a mobile phone to her ear. The man in the denim jacket has a barrier to his right, and the man in the plaid shirt and the woman in green are standing on a red carpet."
+    },
+    {
+        "second": 1,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4XZ_BqNjzoA/output_frames/sec_1_idx_0.jpg",
+        "fps": 25,
+        "explanation": "[0-3] First, the man in the denim jacket scans the man in the plaid shirt with the scanner, then opens the barrier. The man in the plaid shirt walks through the barrier and enters through the blue door on the left."
+    },
+    {
+        "second": 2,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4XZ_BqNjzoA/output_frames/sec_2_idx_13.jpg",
+        "fps": 25,
+        "explanation": "[0-3] First, the man in the denim jacket scans the man in the plaid shirt with the scanner, then opens the barrier. The man in the plaid shirt walks through the barrier and enters through the blue door on the left."
+    },
+    {
+        "second": 3,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4XZ_BqNjzoA/output_frames/sec_3_idx_2.jpg",
+        "fps": 25,
+        "explanation": "[0-3] First, the man in the denim jacket scans the man in the plaid shirt with the scanner, then opens the barrier. The man in the plaid shirt walks through the barrier and enters through the blue door on the left."
+    },
+    {
+        "second": 4,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4XZ_BqNjzoA/output_frames/sec_4_idx_7.jpg",
+        "fps": 25,
+        "explanation": "[3-11] Then the woman in green walks forward while talking on her phone. A man with a beard, wearing a white long-sleeve sweatshirt and blue denim shorts, appears behind her. The man in the denim jacket scans the woman in green with the scanner. The camera zooms in on a sign on the wall that says \"No Food.\" The man in the denim jacket points to the sign, shakes his finger at the food the woman in green is holding, takes the food away, points to the right, and the woman in green stamps her foot and turns to leave. The man in the white sweatshirt walks forward with a ticket and is checked."
+    },
+    {
+        "second": 5,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4XZ_BqNjzoA/output_frames/sec_5_idx_17.jpg",
+        "fps": 25,
+        "explanation": "[3-11] Then the woman in green walks forward while talking on her phone. A man with a beard, wearing a white long-sleeve sweatshirt and blue denim shorts, appears behind her. The man in the denim jacket scans the woman in green with the scanner. The camera zooms in on a sign on the wall that says \"No Food.\" The man in the denim jacket points to the sign, shakes his finger at the food the woman in green is holding, takes the food away, points to the right, and the woman in green stamps her foot and turns to leave. The man in the white sweatshirt walks forward with a ticket and is checked."
+    },
+    {
+        "second": 6,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4XZ_BqNjzoA/output_frames/sec_6_idx_8.jpg",
+        "fps": 25,
+        "explanation": "[3-11] Then the woman in green walks forward while talking on her phone. A man with a beard, wearing a white long-sleeve sweatshirt and blue denim shorts, appears behind her. The man in the denim jacket scans the woman in green with the scanner. The camera zooms in on a sign on the wall that says \"No Food.\" The man in the denim jacket points to the sign, shakes his finger at the food the woman in green is holding, takes the food away, points to the right, and the woman in green stamps her foot and turns to leave. The man in the white sweatshirt walks forward with a ticket and is checked."
+    },
+    {
+        "second": 7,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4XZ_BqNjzoA/output_frames/sec_7_idx_0.jpg",
+        "fps": 25,
+        "explanation": "[3-11] Then the woman in green walks forward while talking on her phone. A man with a beard, wearing a white long-sleeve sweatshirt and blue denim shorts, appears behind her. The man in the denim jacket scans the woman in green with the scanner. The camera zooms in on a sign on the wall that says \"No Food.\" The man in the denim jacket points to the sign, shakes his finger at the food the woman in green is holding, takes the food away, points to the right, and the woman in green stamps her foot and turns to leave. The man in the white sweatshirt walks forward with a ticket and is checked."
+    },
+    {
+        "second": 8,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4XZ_BqNjzoA/output_frames/sec_8_idx_15.jpg",
+        "fps": 25,
+        "explanation": "[3-11] Then the woman in green walks forward while talking on her phone. A man with a beard, wearing a white long-sleeve sweatshirt and blue denim shorts, appears behind her. The man in the denim jacket scans the woman in green with the scanner. The camera zooms in on a sign on the wall that says \"No Food.\" The man in the denim jacket points to the sign, shakes his finger at the food the woman in green is holding, takes the food away, points to the right, and the woman in green stamps her foot and turns to leave. The man in the white sweatshirt walks forward with a ticket and is checked."
+    },
+    {
+        "second": 9,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4XZ_BqNjzoA/output_frames/sec_9_idx_4.jpg",
+        "fps": 25,
+        "explanation": "[3-11] Then the woman in green walks forward while talking on her phone. A man with a beard, wearing a white long-sleeve sweatshirt and blue denim shorts, appears behind her. The man in the denim jacket scans the woman in green with the scanner. The camera zooms in on a sign on the wall that says \"No Food.\" The man in the denim jacket points to the sign, shakes his finger at the food the woman in green is holding, takes the food away, points to the right, and the woman in green stamps her foot and turns to leave. The man in the white sweatshirt walks forward with a ticket and is checked."
+    },
+    {
+        "second": 10,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4XZ_BqNjzoA/output_frames/sec_10_idx_10.jpg",
+        "fps": 25,
+        "explanation": "[3-11] Then the woman in green walks forward while talking on her phone. A man with a beard, wearing a white long-sleeve sweatshirt and blue denim shorts, appears behind her. The man in the denim jacket scans the woman in green with the scanner. The camera zooms in on a sign on the wall that says \"No Food.\" The man in the denim jacket points to the sign, shakes his finger at the food the woman in green is holding, takes the food away, points to the right, and the woman in green stamps her foot and turns to leave. The man in the white sweatshirt walks forward with a ticket and is checked."
+    },
+    {
+        "second": 11,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4XZ_BqNjzoA/output_frames/sec_11_idx_8.jpg",
+        "fps": 25,
+        "explanation": "[3-11] Then the woman in green walks forward while talking on her phone. A man with a beard, wearing a white long-sleeve sweatshirt and blue denim shorts, appears behind her. The man in the denim jacket scans the woman in green with the scanner. The camera zooms in on a sign on the wall that says \"No Food.\" The man in the denim jacket points to the sign, shakes his finger at the food the woman in green is holding, takes the food away, points to the right, and the woman in green stamps her foot and turns to leave. The man in the white sweatshirt walks forward with a ticket and is checked."
+    },
+    {
+        "second": 12,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4XZ_BqNjzoA/output_frames/sec_12_idx_5.jpg",
+        "fps": 25,
+        "explanation": "[11-17] The scene then switches to a blue surface with a glass bowl full of chocolate chunks in the middle. White English subtitles appear above: \"CHOCOLATE.\" The subtitles disappear, the scene changes, and the chocolate chunks in the glass bowl melt into chocolate sauce. The right hand moves the glass bowl to the right, and the left hand takes out a transparent phone case mold."
+    },
+    {
+        "second": 13,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4XZ_BqNjzoA/output_frames/sec_13_idx_20.jpg",
+        "fps": 25,
+        "explanation": "[11-17] The scene then switches to a blue surface with a glass bowl full of chocolate chunks in the middle. White English subtitles appear above: \"CHOCOLATE.\" The subtitles disappear, the scene changes, and the chocolate chunks in the glass bowl melt into chocolate sauce. The right hand moves the glass bowl to the right, and the left hand takes out a transparent phone case mold."
+    },
+    {
+        "second": 14,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4XZ_BqNjzoA/output_frames/sec_14_idx_14.jpg",
+        "fps": 25,
+        "explanation": "[11-17] The scene then switches to a blue surface with a glass bowl full of chocolate chunks in the middle. White English subtitles appear above: \"CHOCOLATE.\" The subtitles disappear, the scene changes, and the chocolate chunks in the glass bowl melt into chocolate sauce. The right hand moves the glass bowl to the right, and the left hand takes out a transparent phone case mold."
+    },
+    {
+        "second": 15,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4XZ_BqNjzoA/output_frames/sec_15_idx_10.jpg",
+        "fps": 25,
+        "explanation": "[11-17] The scene then switches to a blue surface with a glass bowl full of chocolate chunks in the middle. White English subtitles appear above: \"CHOCOLATE.\" The subtitles disappear, the scene changes, and the chocolate chunks in the glass bowl melt into chocolate sauce. The right hand moves the glass bowl to the right, and the left hand takes out a transparent phone case mold."
+    },
+    {
+        "second": 16,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4XZ_BqNjzoA/output_frames/sec_16_idx_15.jpg",
+        "fps": 25,
+        "explanation": "[11-17] The scene then switches to a blue surface with a glass bowl full of chocolate chunks in the middle. White English subtitles appear above: \"CHOCOLATE.\" The subtitles disappear, the scene changes, and the chocolate chunks in the glass bowl melt into chocolate sauce. The right hand moves the glass bowl to the right, and the left hand takes out a transparent phone case mold."
+    },
+    {
+        "second": 17,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4XZ_BqNjzoA/output_frames/sec_17_idx_6.jpg",
+        "fps": 25,
+        "explanation": "[11-17] The scene then switches to a blue surface with a glass bowl full of chocolate chunks in the middle. White English subtitles appear above: \"CHOCOLATE.\" The subtitles disappear, the scene changes, and the chocolate chunks in the glass bowl melt into chocolate sauce. The right hand moves the glass bowl to the right, and the left hand takes out a transparent phone case mold."
+    },
+    {
+        "second": 18,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4XZ_BqNjzoA/output_frames/sec_18_idx_14.jpg",
+        "fps": 25,
+        "explanation": "[17-27] Next, the screen moves to the left, with the phone case mold in the middle of the blue surface. The right hand holds the glass bowl filled with chocolate sauce and slowly fills the mold. The white English subtitle \"FREEZE\" appears above."
+    },
+    {
+        "second": 19,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4XZ_BqNjzoA/output_frames/sec_19_idx_13.jpg",
+        "fps": 25,
+        "explanation": "[17-27] Next, the screen moves to the left, with the phone case mold in the middle of the blue surface. The right hand holds the glass bowl filled with chocolate sauce and slowly fills the mold. The white English subtitle \"FREEZE\" appears above."
+    },
+    {
+        "second": 20,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4XZ_BqNjzoA/output_frames/sec_20_idx_0.jpg",
+        "fps": 25,
+        "explanation": "[17-27] Next, the screen moves to the left, with the phone case mold in the middle of the blue surface. The right hand holds the glass bowl filled with chocolate sauce and slowly fills the mold. The white English subtitle \"FREEZE\" appears above."
+    },
+    {
+        "second": 21,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4XZ_BqNjzoA/output_frames/sec_21_idx_6.jpg",
+        "fps": 25,
+        "explanation": "[17-27] Next, the screen moves to the left, with the phone case mold in the middle of the blue surface. The right hand holds the glass bowl filled with chocolate sauce and slowly fills the mold. The white English subtitle \"FREEZE\" appears above."
+    },
+    {
+        "second": 22,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4XZ_BqNjzoA/output_frames/sec_22_idx_1.jpg",
+        "fps": 25,
+        "explanation": "[17-27] Next, the screen moves to the left, with the phone case mold in the middle of the blue surface. The right hand holds the glass bowl filled with chocolate sauce and slowly fills the mold. The white English subtitle \"FREEZE\" appears above."
+    },
+    {
+        "second": 23,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4XZ_BqNjzoA/output_frames/sec_23_idx_0.jpg",
+        "fps": 25,
+        "explanation": "[17-27] Next, the screen moves to the left, with the phone case mold in the middle of the blue surface. The right hand holds the glass bowl filled with chocolate sauce and slowly fills the mold. The white English subtitle \"FREEZE\" appears above."
+    },
+    {
+        "second": 24,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4XZ_BqNjzoA/output_frames/sec_24_idx_14.jpg",
+        "fps": 25,
+        "explanation": "[17-27] Next, the screen moves to the left, with the phone case mold in the middle of the blue surface. The right hand holds the glass bowl filled with chocolate sauce and slowly fills the mold. The white English subtitle \"FREEZE\" appears above."
+    },
+    {
+        "second": 25,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4XZ_BqNjzoA/output_frames/sec_25_idx_22.jpg",
+        "fps": 25,
+        "explanation": "[17-27] Next, the screen moves to the left, with the phone case mold in the middle of the blue surface. The right hand holds the glass bowl filled with chocolate sauce and slowly fills the mold. The white English subtitle \"FREEZE\" appears above."
+    },
+    {
+        "second": 26,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4XZ_BqNjzoA/output_frames/sec_26_idx_23.jpg",
+        "fps": 25,
+        "explanation": "[17-27] Next, the screen moves to the left, with the phone case mold in the middle of the blue surface. The right hand holds the glass bowl filled with chocolate sauce and slowly fills the mold. The white English subtitle \"FREEZE\" appears above."
+    },
+    {
+        "second": 27,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4XZ_BqNjzoA/output_frames/sec_27_idx_13.jpg",
+        "fps": 25,
+        "explanation": "[17-27] Next, the screen moves to the left, with the phone case mold in the middle of the blue surface. The right hand holds the glass bowl filled with chocolate sauce and slowly fills the mold. The white English subtitle \"FREEZE\" appears above."
+    },
+    {
+        "second": 28,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4XZ_BqNjzoA/output_frames/sec_28_idx_16.jpg",
+        "fps": 25,
+        "explanation": "[27-37] After the subtitles disappear, the right hand takes a brush and draws a silver pear-shaped logo on the chocolate phone with silver powder. After drawing, both hands hold the chocolate phone and move it down out of the picture."
+    },
+    {
+        "second": 29,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4XZ_BqNjzoA/output_frames/sec_29_idx_4.jpg",
+        "fps": 25,
+        "explanation": "[27-37] After the subtitles disappear, the right hand takes a brush and draws a silver pear-shaped logo on the chocolate phone with silver powder. After drawing, both hands hold the chocolate phone and move it down out of the picture."
+    },
+    {
+        "second": 30,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4XZ_BqNjzoA/output_frames/sec_30_idx_14.jpg",
+        "fps": 25,
+        "explanation": "[27-37] After the subtitles disappear, the right hand takes a brush and draws a silver pear-shaped logo on the chocolate phone with silver powder. After drawing, both hands hold the chocolate phone and move it down out of the picture."
+    },
+    {
+        "second": 31,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4XZ_BqNjzoA/output_frames/sec_31_idx_1.jpg",
+        "fps": 25,
+        "explanation": "[27-37] After the subtitles disappear, the right hand takes a brush and draws a silver pear-shaped logo on the chocolate phone with silver powder. After drawing, both hands hold the chocolate phone and move it down out of the picture."
+    },
+    {
+        "second": 32,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4XZ_BqNjzoA/output_frames/sec_32_idx_12.jpg",
+        "fps": 25,
+        "explanation": "[27-37] After the subtitles disappear, the right hand takes a brush and draws a silver pear-shaped logo on the chocolate phone with silver powder. After drawing, both hands hold the chocolate phone and move it down out of the picture."
+    },
+    {
+        "second": 33,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4XZ_BqNjzoA/output_frames/sec_33_idx_8.jpg",
+        "fps": 25,
+        "explanation": "[27-37] After the subtitles disappear, the right hand takes a brush and draws a silver pear-shaped logo on the chocolate phone with silver powder. After drawing, both hands hold the chocolate phone and move it down out of the picture."
+    },
+    {
+        "second": 34,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4XZ_BqNjzoA/output_frames/sec_34_idx_21.jpg",
+        "fps": 25,
+        "explanation": "[27-37] After the subtitles disappear, the right hand takes a brush and draws a silver pear-shaped logo on the chocolate phone with silver powder. After drawing, both hands hold the chocolate phone and move it down out of the picture."
+    },
+    {
+        "second": 35,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4XZ_BqNjzoA/output_frames/sec_35_idx_16.jpg",
+        "fps": 25,
+        "explanation": "[27-37] After the subtitles disappear, the right hand takes a brush and draws a silver pear-shaped logo on the chocolate phone with silver powder. After drawing, both hands hold the chocolate phone and move it down out of the picture."
+    },
+    {
+        "second": 36,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4XZ_BqNjzoA/output_frames/sec_36_idx_14.jpg",
+        "fps": 25,
+        "explanation": "[27-37] After the subtitles disappear, the right hand takes a brush and draws a silver pear-shaped logo on the chocolate phone with silver powder. After drawing, both hands hold the chocolate phone and move it down out of the picture."
+    },
+    {
+        "second": 37,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4XZ_BqNjzoA/output_frames/sec_37_idx_23.jpg",
+        "fps": 25,
+        "explanation": "[27-37] After the subtitles disappear, the right hand takes a brush and draws a silver pear-shaped logo on the chocolate phone with silver powder. After drawing, both hands hold the chocolate phone and move it down out of the picture."
+    },
+    {
+        "second": 38,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4XZ_BqNjzoA/output_frames/sec_38_idx_0.jpg",
+        "fps": 25,
+        "explanation": "[37-47] The scene then cuts back to the room with the blue walls. The man in the denim jacket finishes checking the man in the white sweatshirt, who opens the door and walks in. The woman in green walks forward with her cell phone to her ear and is checked. The camera zooms in as the man in the denim jacket tilts his head to look at the phone in the woman's hand. The woman turns the phone back and forth, and the camera zooms out. The man in the denim jacket opens the blue door, and the woman in green walks towards the blue door, holding up her phone."
+    },
+    {
+        "second": 39,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4XZ_BqNjzoA/output_frames/sec_39_idx_13.jpg",
+        "fps": 25,
+        "explanation": "[37-47] The scene then cuts back to the room with the blue walls. The man in the denim jacket finishes checking the man in the white sweatshirt, who opens the door and walks in. The woman in green walks forward with her cell phone to her ear and is checked. The camera zooms in as the man in the denim jacket tilts his head to look at the phone in the woman's hand. The woman turns the phone back and forth, and the camera zooms out. The man in the denim jacket opens the blue door, and the woman in green walks towards the blue door, holding up her phone."
+    },
+    {
+        "second": 40,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4XZ_BqNjzoA/output_frames/sec_40_idx_7.jpg",
+        "fps": 25,
+        "explanation": "[37-47] The scene then cuts back to the room with the blue walls. The man in the denim jacket finishes checking the man in the white sweatshirt, who opens the door and walks in. The woman in green walks forward with her cell phone to her ear and is checked. The camera zooms in as the man in the denim jacket tilts his head to look at the phone in the woman's hand. The woman turns the phone back and forth, and the camera zooms out. The man in the denim jacket opens the blue door, and the woman in green walks towards the blue door, holding up her phone."
+    },
+    {
+        "second": 41,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4XZ_BqNjzoA/output_frames/sec_41_idx_3.jpg",
+        "fps": 25,
+        "explanation": "[37-47] The scene then cuts back to the room with the blue walls. The man in the denim jacket finishes checking the man in the white sweatshirt, who opens the door and walks in. The woman in green walks forward with her cell phone to her ear and is checked. The camera zooms in as the man in the denim jacket tilts his head to look at the phone in the woman's hand. The woman turns the phone back and forth, and the camera zooms out. The man in the denim jacket opens the blue door, and the woman in green walks towards the blue door, holding up her phone."
+    },
+    {
+        "second": 42,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4XZ_BqNjzoA/output_frames/sec_42_idx_23.jpg",
+        "fps": 25,
+        "explanation": "[37-47] The scene then cuts back to the room with the blue walls. The man in the denim jacket finishes checking the man in the white sweatshirt, who opens the door and walks in. The woman in green walks forward with her cell phone to her ear and is checked. The camera zooms in as the man in the denim jacket tilts his head to look at the phone in the woman's hand. The woman turns the phone back and forth, and the camera zooms out. The man in the denim jacket opens the blue door, and the woman in green walks towards the blue door, holding up her phone."
+    },
+    {
+        "second": 43,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4XZ_BqNjzoA/output_frames/sec_43_idx_0.jpg",
+        "fps": 25,
+        "explanation": "[37-47] The scene then cuts back to the room with the blue walls. The man in the denim jacket finishes checking the man in the white sweatshirt, who opens the door and walks in. The woman in green walks forward with her cell phone to her ear and is checked. The camera zooms in as the man in the denim jacket tilts his head to look at the phone in the woman's hand. The woman turns the phone back and forth, and the camera zooms out. The man in the denim jacket opens the blue door, and the woman in green walks towards the blue door, holding up her phone."
+    },
+    {
+        "second": 44,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4XZ_BqNjzoA/output_frames/sec_44_idx_5.jpg",
+        "fps": 25,
+        "explanation": "[37-47] The scene then cuts back to the room with the blue walls. The man in the denim jacket finishes checking the man in the white sweatshirt, who opens the door and walks in. The woman in green walks forward with her cell phone to her ear and is checked. The camera zooms in as the man in the denim jacket tilts his head to look at the phone in the woman's hand. The woman turns the phone back and forth, and the camera zooms out. The man in the denim jacket opens the blue door, and the woman in green walks towards the blue door, holding up her phone."
+    },
+    {
+        "second": 45,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4XZ_BqNjzoA/output_frames/sec_45_idx_1.jpg",
+        "fps": 25,
+        "explanation": "[37-47] The scene then cuts back to the room with the blue walls. The man in the denim jacket finishes checking the man in the white sweatshirt, who opens the door and walks in. The woman in green walks forward with her cell phone to her ear and is checked. The camera zooms in as the man in the denim jacket tilts his head to look at the phone in the woman's hand. The woman turns the phone back and forth, and the camera zooms out. The man in the denim jacket opens the blue door, and the woman in green walks towards the blue door, holding up her phone."
+    },
+    {
+        "second": 46,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4XZ_BqNjzoA/output_frames/sec_46_idx_15.jpg",
+        "fps": 25,
+        "explanation": "[37-47] The scene then cuts back to the room with the blue walls. The man in the denim jacket finishes checking the man in the white sweatshirt, who opens the door and walks in. The woman in green walks forward with her cell phone to her ear and is checked. The camera zooms in as the man in the denim jacket tilts his head to look at the phone in the woman's hand. The woman turns the phone back and forth, and the camera zooms out. The man in the denim jacket opens the blue door, and the woman in green walks towards the blue door, holding up her phone."
+    },
+    {
+        "second": 47,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4XZ_BqNjzoA/output_frames/sec_47_idx_14.jpg",
+        "fps": 25,
+        "explanation": "[37-47] The scene then cuts back to the room with the blue walls. The man in the denim jacket finishes checking the man in the white sweatshirt, who opens the door and walks in. The woman in green walks forward with her cell phone to her ear and is checked. The camera zooms in as the man in the denim jacket tilts his head to look at the phone in the woman's hand. The woman turns the phone back and forth, and the camera zooms out. The man in the denim jacket opens the blue door, and the woman in green walks towards the blue door, holding up her phone."
+    },
+    {
+        "second": 48,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4XZ_BqNjzoA/output_frames/sec_48_idx_3.jpg",
+        "fps": 25,
+        "explanation": "[47-57] Finally, the woman in green enters through the blue door, and the man in the denim jacket closes the door. The scene cuts to the inside, where a group of people are dancing to music under colorful lights. The woman in green looks around, puts the phone to her mouth, takes a bite with her eyes closed, and continues to dance with her head shaking. The picture freezes on the woman in green tilting her head, eyes closed, holding the chocolate phone in both hands."
+    },
+    {
+        "second": 49,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4XZ_BqNjzoA/output_frames/sec_49_idx_16.jpg",
+        "fps": 25,
+        "explanation": "[47-57] Finally, the woman in green enters through the blue door, and the man in the denim jacket closes the door. The scene cuts to the inside, where a group of people are dancing to music under colorful lights. The woman in green looks around, puts the phone to her mouth, takes a bite with her eyes closed, and continues to dance with her head shaking. The picture freezes on the woman in green tilting her head, eyes closed, holding the chocolate phone in both hands."
+    },
+    {
+        "second": 50,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4XZ_BqNjzoA/output_frames/sec_50_idx_16.jpg",
+        "fps": 25,
+        "explanation": "[47-57] Finally, the woman in green enters through the blue door, and the man in the denim jacket closes the door. The scene cuts to the inside, where a group of people are dancing to music under colorful lights. The woman in green looks around, puts the phone to her mouth, takes a bite with her eyes closed, and continues to dance with her head shaking. The picture freezes on the woman in green tilting her head, eyes closed, holding the chocolate phone in both hands."
+    },
+    {
+        "second": 51,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4XZ_BqNjzoA/output_frames/sec_51_idx_9.jpg",
+        "fps": 25,
+        "explanation": "[47-57] Finally, the woman in green enters through the blue door, and the man in the denim jacket closes the door. The scene cuts to the inside, where a group of people are dancing to music under colorful lights. The woman in green looks around, puts the phone to her mouth, takes a bite with her eyes closed, and continues to dance with her head shaking. The picture freezes on the woman in green tilting her head, eyes closed, holding the chocolate phone in both hands."
+    },
+    {
+        "second": 52,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4XZ_BqNjzoA/output_frames/sec_52_idx_15.jpg",
+        "fps": 25,
+        "explanation": "[47-57] Finally, the woman in green enters through the blue door, and the man in the denim jacket closes the door. The scene cuts to the inside, where a group of people are dancing to music under colorful lights. The woman in green looks around, puts the phone to her mouth, takes a bite with her eyes closed, and continues to dance with her head shaking. The picture freezes on the woman in green tilting her head, eyes closed, holding the chocolate phone in both hands."
+    },
+    {
+        "second": 53,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4XZ_BqNjzoA/output_frames/sec_53_idx_16.jpg",
+        "fps": 25,
+        "explanation": "[47-57] Finally, the woman in green enters through the blue door, and the man in the denim jacket closes the door. The scene cuts to the inside, where a group of people are dancing to music under colorful lights. The woman in green looks around, puts the phone to her mouth, takes a bite with her eyes closed, and continues to dance with her head shaking. The picture freezes on the woman in green tilting her head, eyes closed, holding the chocolate phone in both hands."
+    },
+    {
+        "second": 54,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4XZ_BqNjzoA/output_frames/sec_54_idx_15.jpg",
+        "fps": 25,
+        "explanation": "[47-57] Finally, the woman in green enters through the blue door, and the man in the denim jacket closes the door. The scene cuts to the inside, where a group of people are dancing to music under colorful lights. The woman in green looks around, puts the phone to her mouth, takes a bite with her eyes closed, and continues to dance with her head shaking. The picture freezes on the woman in green tilting her head, eyes closed, holding the chocolate phone in both hands."
+    },
+    {
+        "second": 55,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4XZ_BqNjzoA/output_frames/sec_55_idx_8.jpg",
+        "fps": 25,
+        "explanation": "[47-57] Finally, the woman in green enters through the blue door, and the man in the denim jacket closes the door. The scene cuts to the inside, where a group of people are dancing to music under colorful lights. The woman in green looks around, puts the phone to her mouth, takes a bite with her eyes closed, and continues to dance with her head shaking. The picture freezes on the woman in green tilting her head, eyes closed, holding the chocolate phone in both hands."
+    },
+    {
+        "second": 56,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4XZ_BqNjzoA/output_frames/sec_56_idx_20.jpg",
+        "fps": 25,
+        "explanation": "[47-57] Finally, the woman in green enters through the blue door, and the man in the denim jacket closes the door. The scene cuts to the inside, where a group of people are dancing to music under colorful lights. The woman in green looks around, puts the phone to her mouth, takes a bite with her eyes closed, and continues to dance with her head shaking. The picture freezes on the woman in green tilting her head, eyes closed, holding the chocolate phone in both hands."
+    },
+    {
+        "second": 57,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4XZ_BqNjzoA/output_frames/sec_57_idx_0.jpg",
+        "fps": 25,
+        "explanation": "[47-57] Finally, the woman in green enters through the blue door, and the man in the denim jacket closes the door. The scene cuts to the inside, where a group of people are dancing to music under colorful lights. The woman in green looks around, puts the phone to her mouth, takes a bite with her eyes closed, and continues to dance with her head shaking. The picture freezes on the woman in green tilting her head, eyes closed, holding the chocolate phone in both hands."
+    }
+]

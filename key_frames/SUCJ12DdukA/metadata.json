@@ -1,0 +1,79 @@
+[
+    {
+        "second": 0,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SUCJ12DdukA/output_frames/sec_0_idx_4.jpg",
+        "fps": 60,
+        "explanation": "[0-0] The upper half of the screen shows a Fortnite map with the white English subtitle: \"Girls: it\u2019s just a map\". The lower half shows a man sitting in a cockpit, very focused and somewhat worried, with the white English subtitle: \"Boys:\"."
+    },
+    {
+        "second": 1,
+        "frame_index": 39,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SUCJ12DdukA/output_frames/sec_1_idx_39.jpg",
+        "fps": 60,
+        "explanation": "[0-4] As the man's body shakes slightly, he begins to laugh. At the same time, the Fortnite map at the top of the screen begins to change constantly, and then a beam of light envelops the smiling man."
+    },
+    {
+        "second": 2,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SUCJ12DdukA/output_frames/sec_2_idx_1.jpg",
+        "fps": 60,
+        "explanation": "[0-4] As the man's body shakes slightly, he begins to laugh. At the same time, the Fortnite map at the top of the screen begins to change constantly, and then a beam of light envelops the smiling man."
+    },
+    {
+        "second": 3,
+        "frame_index": 54,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SUCJ12DdukA/output_frames/sec_3_idx_54.jpg",
+        "fps": 60,
+        "explanation": "[0-4] As the man's body shakes slightly, he begins to laugh. At the same time, the Fortnite map at the top of the screen begins to change constantly, and then a beam of light envelops the smiling man."
+    },
+    {
+        "second": 4,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SUCJ12DdukA/output_frames/sec_4_idx_1.jpg",
+        "fps": 60,
+        "explanation": "[0-4] As the man's body shakes slightly, he begins to laugh. At the same time, the Fortnite map at the top of the screen begins to change constantly, and then a beam of light envelops the smiling man."
+    },
+    {
+        "second": 5,
+        "frame_index": 42,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SUCJ12DdukA/output_frames/sec_5_idx_42.jpg",
+        "fps": 60,
+        "explanation": "[4-10] Finally, the light gradually dims, and the man begins to cry. The Fortnite map has been changed to another chapter."
+    },
+    {
+        "second": 6,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SUCJ12DdukA/output_frames/sec_6_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[4-10] Finally, the light gradually dims, and the man begins to cry. The Fortnite map has been changed to another chapter."
+    },
+    {
+        "second": 7,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SUCJ12DdukA/output_frames/sec_7_idx_2.jpg",
+        "fps": 60,
+        "explanation": "[4-10] Finally, the light gradually dims, and the man begins to cry. The Fortnite map has been changed to another chapter."
+    },
+    {
+        "second": 8,
+        "frame_index": 50,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SUCJ12DdukA/output_frames/sec_8_idx_50.jpg",
+        "fps": 60,
+        "explanation": "[4-10] Finally, the light gradually dims, and the man begins to cry. The Fortnite map has been changed to another chapter."
+    },
+    {
+        "second": 9,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SUCJ12DdukA/output_frames/sec_9_idx_24.jpg",
+        "fps": 60,
+        "explanation": "[4-10] Finally, the light gradually dims, and the man begins to cry. The Fortnite map has been changed to another chapter."
+    },
+    {
+        "second": 10,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SUCJ12DdukA/output_frames/sec_10_idx_2.jpg",
+        "fps": 60,
+        "explanation": "[4-10] Finally, the light gradually dims, and the man begins to cry. The Fortnite map has been changed to another chapter."
+    }
+]

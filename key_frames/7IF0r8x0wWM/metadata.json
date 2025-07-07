@@ -1,0 +1,72 @@
+[
+    {
+        "second": 0,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7IF0r8x0wWM/output_frames/sec_0_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A woman is lying on her side in bed, covered with a blue blanket. There is a blue mobile phone on the blanket. She rests her head on a beige pillow. The bed is white, and next to it is a pink bucket filled with water. The floor is gray, and a green plant sits beside the headboard. A yellow hook is attached to the headboard. The walls are white."
+    },
+    {
+        "second": 1,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7IF0r8x0wWM/output_frames/sec_1_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[0-3] The woman turns over, and the blue mobile phone falls into the bucket. She quickly sits up and looks at the bucket. She is wearing a black top. She takes the phone out of the bucket and puts it on the hook on the headboard."
+    },
+    {
+        "second": 2,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7IF0r8x0wWM/output_frames/sec_2_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[0-3] The woman turns over, and the blue mobile phone falls into the bucket. She quickly sits up and looks at the bucket. She is wearing a black top. She takes the phone out of the bucket and puts it on the hook on the headboard."
+    },
+    {
+        "second": 3,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7IF0r8x0wWM/output_frames/sec_3_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[0-3] The woman turns over, and the blue mobile phone falls into the bucket. She quickly sits up and looks at the bucket. She is wearing a black top. She takes the phone out of the bucket and puts it on the hook on the headboard."
+    },
+    {
+        "second": 4,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7IF0r8x0wWM/output_frames/sec_4_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[3-7] The scene then switches to a white cabinet with yellow, blue, green, and pink hooks on it. A pot of flowers and some books are placed beside them. The woman picks up a yellow hook, peels off the sticker underneath, and sticks it to the headboard. Then, she takes out a mobile phone with a green phone case, plugs it in to charge, and hangs it on the hook."
+    },
+    {
+        "second": 5,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7IF0r8x0wWM/output_frames/sec_5_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[3-7] The scene then switches to a white cabinet with yellow, blue, green, and pink hooks on it. A pot of flowers and some books are placed beside them. The woman picks up a yellow hook, peels off the sticker underneath, and sticks it to the headboard. Then, she takes out a mobile phone with a green phone case, plugs it in to charge, and hangs it on the hook."
+    },
+    {
+        "second": 6,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7IF0r8x0wWM/output_frames/sec_6_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[3-7] The scene then switches to a white cabinet with yellow, blue, green, and pink hooks on it. A pot of flowers and some books are placed beside them. The woman picks up a yellow hook, peels off the sticker underneath, and sticks it to the headboard. Then, she takes out a mobile phone with a green phone case, plugs it in to charge, and hangs it on the hook."
+    },
+    {
+        "second": 7,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7IF0r8x0wWM/output_frames/sec_7_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[3-7] The scene then switches to a white cabinet with yellow, blue, green, and pink hooks on it. A pot of flowers and some books are placed beside them. The woman picks up a yellow hook, peels off the sticker underneath, and sticks it to the headboard. Then, she takes out a mobile phone with a green phone case, plugs it in to charge, and hangs it on the hook."
+    },
+    {
+        "second": 8,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7IF0r8x0wWM/output_frames/sec_8_idx_24.jpg",
+        "fps": 30,
+        "explanation": "[7-9] Next, she hangs a pair of glasses to the left of the hook and a hair tie to the right. Finally, the scene changes to a man wearing a gray top and glasses sitting at the head of the bed. He plugs a mobile phone in to charge, places it on the hook, and takes off his glasses."
+    },
+    {
+        "second": 9,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7IF0r8x0wWM/output_frames/sec_9_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[7-9] Next, she hangs a pair of glasses to the left of the hook and a hair tie to the right. Finally, the scene changes to a man wearing a gray top and glasses sitting at the head of the bed. He plugs a mobile phone in to charge, places it on the hook, and takes off his glasses."
+    }
+]

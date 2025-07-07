@@ -1,0 +1,86 @@
+[
+    {
+        "second": 0,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DFC-EX2XY1Q/output_frames/sec_0_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[0-0] In a dimly lit white room, a person wearing camouflage clothing and a green wig is kneeling on the floor with both hands raised on either side of their head. There are two red toys in front of them, and three green toys lying to their right. The white subtitle \"FAKE\" is displayed in the lower left corner of the screen."
+    },
+    {
+        "second": 1,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DFC-EX2XY1Q/output_frames/sec_1_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Next, the person with green hair is seen bowing to the red toys in front of them. The scene then switches to a woman with pink hair wearing a pink dress and a red bow on her head."
+    },
+    {
+        "second": 2,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DFC-EX2XY1Q/output_frames/sec_2_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Next, the person with green hair is seen bowing to the red toys in front of them. The scene then switches to a woman with pink hair wearing a pink dress and a red bow on her head."
+    },
+    {
+        "second": 3,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DFC-EX2XY1Q/output_frames/sec_3_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[2-4] The scene switches back to the person with green hair, who pulls off the head of a doll and places it in front of the red toys. The scene then cuts to the woman in pink, who has a horrified expression on her face."
+    },
+    {
+        "second": 4,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DFC-EX2XY1Q/output_frames/sec_4_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[2-4] The scene switches back to the person with green hair, who pulls off the head of a doll and places it in front of the red toys. The scene then cuts to the woman in pink, who has a horrified expression on her face."
+    },
+    {
+        "second": 5,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DFC-EX2XY1Q/output_frames/sec_5_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[4-12] The scene cuts back to the person with green hair, who picks up a red doll. They suddenly turn their head to the right and look forward. The person in green clothes stands up, grabs the red doll, and starts to chase after someone. The camera then moves backwards. Finally, the scene arrives at a room with green walls. A pair of legs is seen lying on the ground, and a hand waves in front of the camera. The person with green hair approaches the fallen person with the red doll in hand, ready to attack them."
+    },
+    {
+        "second": 6,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DFC-EX2XY1Q/output_frames/sec_6_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[4-12] The scene cuts back to the person with green hair, who picks up a red doll. They suddenly turn their head to the right and look forward. The person in green clothes stands up, grabs the red doll, and starts to chase after someone. The camera then moves backwards. Finally, the scene arrives at a room with green walls. A pair of legs is seen lying on the ground, and a hand waves in front of the camera. The person with green hair approaches the fallen person with the red doll in hand, ready to attack them."
+    },
+    {
+        "second": 7,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DFC-EX2XY1Q/output_frames/sec_7_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[4-12] The scene cuts back to the person with green hair, who picks up a red doll. They suddenly turn their head to the right and look forward. The person in green clothes stands up, grabs the red doll, and starts to chase after someone. The camera then moves backwards. Finally, the scene arrives at a room with green walls. A pair of legs is seen lying on the ground, and a hand waves in front of the camera. The person with green hair approaches the fallen person with the red doll in hand, ready to attack them."
+    },
+    {
+        "second": 8,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DFC-EX2XY1Q/output_frames/sec_8_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[4-12] The scene cuts back to the person with green hair, who picks up a red doll. They suddenly turn their head to the right and look forward. The person in green clothes stands up, grabs the red doll, and starts to chase after someone. The camera then moves backwards. Finally, the scene arrives at a room with green walls. A pair of legs is seen lying on the ground, and a hand waves in front of the camera. The person with green hair approaches the fallen person with the red doll in hand, ready to attack them."
+    },
+    {
+        "second": 9,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DFC-EX2XY1Q/output_frames/sec_9_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[4-12] The scene cuts back to the person with green hair, who picks up a red doll. They suddenly turn their head to the right and look forward. The person in green clothes stands up, grabs the red doll, and starts to chase after someone. The camera then moves backwards. Finally, the scene arrives at a room with green walls. A pair of legs is seen lying on the ground, and a hand waves in front of the camera. The person with green hair approaches the fallen person with the red doll in hand, ready to attack them."
+    },
+    {
+        "second": 10,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DFC-EX2XY1Q/output_frames/sec_10_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[4-12] The scene cuts back to the person with green hair, who picks up a red doll. They suddenly turn their head to the right and look forward. The person in green clothes stands up, grabs the red doll, and starts to chase after someone. The camera then moves backwards. Finally, the scene arrives at a room with green walls. A pair of legs is seen lying on the ground, and a hand waves in front of the camera. The person with green hair approaches the fallen person with the red doll in hand, ready to attack them."
+    },
+    {
+        "second": 11,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DFC-EX2XY1Q/output_frames/sec_11_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[4-12] The scene cuts back to the person with green hair, who picks up a red doll. They suddenly turn their head to the right and look forward. The person in green clothes stands up, grabs the red doll, and starts to chase after someone. The camera then moves backwards. Finally, the scene arrives at a room with green walls. A pair of legs is seen lying on the ground, and a hand waves in front of the camera. The person with green hair approaches the fallen person with the red doll in hand, ready to attack them."
+    }
+]

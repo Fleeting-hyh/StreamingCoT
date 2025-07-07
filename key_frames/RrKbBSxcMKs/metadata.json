@@ -1,0 +1,114 @@
+[
+    {
+        "second": 0,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RrKbBSxcMKs/output_frames/sec_0_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A person holds a needle in their left hand and red thread in their right hand, with a rip in a pair of blue pants."
+    },
+    {
+        "second": 1,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RrKbBSxcMKs/output_frames/sec_1_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[0-10] Next, the stitching is shown to be fine and even, with the needle and thread passing through the fabric from one side of the rip to the other, forming rows of red stitches."
+    },
+    {
+        "second": 2,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RrKbBSxcMKs/output_frames/sec_2_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[0-10] Next, the stitching is shown to be fine and even, with the needle and thread passing through the fabric from one side of the rip to the other, forming rows of red stitches."
+    },
+    {
+        "second": 3,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RrKbBSxcMKs/output_frames/sec_3_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[0-10] Next, the stitching is shown to be fine and even, with the needle and thread passing through the fabric from one side of the rip to the other, forming rows of red stitches."
+    },
+    {
+        "second": 4,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RrKbBSxcMKs/output_frames/sec_4_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[0-10] Next, the stitching is shown to be fine and even, with the needle and thread passing through the fabric from one side of the rip to the other, forming rows of red stitches."
+    },
+    {
+        "second": 5,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RrKbBSxcMKs/output_frames/sec_5_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[0-10] Next, the stitching is shown to be fine and even, with the needle and thread passing through the fabric from one side of the rip to the other, forming rows of red stitches."
+    },
+    {
+        "second": 6,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RrKbBSxcMKs/output_frames/sec_6_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[0-10] Next, the stitching is shown to be fine and even, with the needle and thread passing through the fabric from one side of the rip to the other, forming rows of red stitches."
+    },
+    {
+        "second": 7,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RrKbBSxcMKs/output_frames/sec_7_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[0-10] Next, the stitching is shown to be fine and even, with the needle and thread passing through the fabric from one side of the rip to the other, forming rows of red stitches."
+    },
+    {
+        "second": 8,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RrKbBSxcMKs/output_frames/sec_8_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[0-10] Next, the stitching is shown to be fine and even, with the needle and thread passing through the fabric from one side of the rip to the other, forming rows of red stitches."
+    },
+    {
+        "second": 9,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RrKbBSxcMKs/output_frames/sec_9_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[0-10] Next, the stitching is shown to be fine and even, with the needle and thread passing through the fabric from one side of the rip to the other, forming rows of red stitches."
+    },
+    {
+        "second": 10,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RrKbBSxcMKs/output_frames/sec_10_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[0-10] Next, the stitching is shown to be fine and even, with the needle and thread passing through the fabric from one side of the rip to the other, forming rows of red stitches."
+    },
+    {
+        "second": 11,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RrKbBSxcMKs/output_frames/sec_11_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[10-16] Subsequently, the rip is completely covered with red thread. The red thread is pulled taut, and the mended area shows no gaps or holes."
+    },
+    {
+        "second": 12,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RrKbBSxcMKs/output_frames/sec_12_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[10-16] Subsequently, the rip is completely covered with red thread. The red thread is pulled taut, and the mended area shows no gaps or holes."
+    },
+    {
+        "second": 13,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RrKbBSxcMKs/output_frames/sec_13_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[10-16] Subsequently, the rip is completely covered with red thread. The red thread is pulled taut, and the mended area shows no gaps or holes."
+    },
+    {
+        "second": 14,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RrKbBSxcMKs/output_frames/sec_14_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[10-16] Subsequently, the rip is completely covered with red thread. The red thread is pulled taut, and the mended area shows no gaps or holes."
+    },
+    {
+        "second": 15,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RrKbBSxcMKs/output_frames/sec_15_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[10-16] Subsequently, the rip is completely covered with red thread. The red thread is pulled taut, and the mended area shows no gaps or holes."
+    }
+]

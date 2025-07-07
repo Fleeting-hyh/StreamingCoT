@@ -1,0 +1,44 @@
+[
+    {
+        "second": 0,
+        "frame_index": 56,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1kbJiS7soKY/output_frames/sec_0_idx_56.jpg",
+        "fps": 60,
+        "explanation": "[0-0] In a room with pink walls, a little girl in a purple dress and wearing a German Shepherd mask stands behind an open door. Behind her, there's another closed white door. A man in black pants approaches from outside the door in front of the girl in the purple dress."
+    },
+    {
+        "second": 1,
+        "frame_index": 34,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1kbJiS7soKY/output_frames/sec_1_idx_34.jpg",
+        "fps": 60,
+        "explanation": "[0-5] The man in black pants walks towards the girl in the purple dress, who remains motionless with the mask on. As he approaches, the girl starts jumping up and down, waving her arms. The man pretends to be startled, raising his hands as if scared. Finally, the man in black pants laughs and removes the dog mask from the girl's head, revealing her smiling face and messy hair."
+    },
+    {
+        "second": 2,
+        "frame_index": 53,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1kbJiS7soKY/output_frames/sec_2_idx_53.jpg",
+        "fps": 60,
+        "explanation": "[0-5] The man in black pants walks towards the girl in the purple dress, who remains motionless with the mask on. As he approaches, the girl starts jumping up and down, waving her arms. The man pretends to be startled, raising his hands as if scared. Finally, the man in black pants laughs and removes the dog mask from the girl's head, revealing her smiling face and messy hair."
+    },
+    {
+        "second": 3,
+        "frame_index": 44,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1kbJiS7soKY/output_frames/sec_3_idx_44.jpg",
+        "fps": 60,
+        "explanation": "[0-5] The man in black pants walks towards the girl in the purple dress, who remains motionless with the mask on. As he approaches, the girl starts jumping up and down, waving her arms. The man pretends to be startled, raising his hands as if scared. Finally, the man in black pants laughs and removes the dog mask from the girl's head, revealing her smiling face and messy hair."
+    },
+    {
+        "second": 4,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1kbJiS7soKY/output_frames/sec_4_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[0-5] The man in black pants walks towards the girl in the purple dress, who remains motionless with the mask on. As he approaches, the girl starts jumping up and down, waving her arms. The man pretends to be startled, raising his hands as if scared. Finally, the man in black pants laughs and removes the dog mask from the girl's head, revealing her smiling face and messy hair."
+    },
+    {
+        "second": 5,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1kbJiS7soKY/output_frames/sec_5_idx_18.jpg",
+        "fps": 60,
+        "explanation": "[0-5] The man in black pants walks towards the girl in the purple dress, who remains motionless with the mask on. As he approaches, the girl starts jumping up and down, waving her arms. The man pretends to be startled, raising his hands as if scared. Finally, the man in black pants laughs and removes the dog mask from the girl's head, revealing her smiling face and messy hair."
+    }
+]

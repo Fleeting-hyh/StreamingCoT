@@ -1,0 +1,142 @@
+[
+    {
+        "second": 0,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EKkCYzrmJHs/output_frames/sec_0_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[0-0] The background is a nighttime environment, with a white machine hanging above, illuminated by light. A wooden floor can be seen below the machine with an opening in the middle. A small stream of white exhaust is visible from the machine's outlet. In the distance, there are silver-gray railings."
+    },
+    {
+        "second": 1,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EKkCYzrmJHs/output_frames/sec_1_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[0-2] White smoke billows from the outlet under the machine, quickly enveloping the device. As the smoke dissipates, a blue light illuminates in the middle of the upper part of the device."
+    },
+    {
+        "second": 2,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EKkCYzrmJHs/output_frames/sec_2_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[0-2] White smoke billows from the outlet under the machine, quickly enveloping the device. As the smoke dissipates, a blue light illuminates in the middle of the upper part of the device."
+    },
+    {
+        "second": 3,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EKkCYzrmJHs/output_frames/sec_3_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[2-4] Smoke continues to emanate from the device's outlet. The blue light above disappears, and a green light is emitted from the outlet."
+    },
+    {
+        "second": 4,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EKkCYzrmJHs/output_frames/sec_4_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[2-4] Smoke continues to emanate from the device's outlet. The blue light above disappears, and a green light is emitted from the outlet."
+    },
+    {
+        "second": 5,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EKkCYzrmJHs/output_frames/sec_5_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[4-6] A large amount of smoke erupts from the outlet, and a white light shines from the hole in the middle of the wooden board below. Blue flames start to shoot out from the outlet, and smoke fills the surrounding area of the wooden board and the device."
+    },
+    {
+        "second": 6,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EKkCYzrmJHs/output_frames/sec_6_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[4-6] A large amount of smoke erupts from the outlet, and a white light shines from the hole in the middle of the wooden board below. Blue flames start to shoot out from the outlet, and smoke fills the surrounding area of the wooden board and the device."
+    },
+    {
+        "second": 7,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EKkCYzrmJHs/output_frames/sec_7_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[6-16] Blue flames continue to emerge from the outlet as the surrounding smoke gradually dissipates. Then, two outlets on either side above the initial outlet emit a large amount of smoke. The blue flames disappear from the main outlet, and orange flames are ejected simultaneously."
+    },
+    {
+        "second": 8,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EKkCYzrmJHs/output_frames/sec_8_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[6-16] Blue flames continue to emerge from the outlet as the surrounding smoke gradually dissipates. Then, two outlets on either side above the initial outlet emit a large amount of smoke. The blue flames disappear from the main outlet, and orange flames are ejected simultaneously."
+    },
+    {
+        "second": 9,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EKkCYzrmJHs/output_frames/sec_9_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[6-16] Blue flames continue to emerge from the outlet as the surrounding smoke gradually dissipates. Then, two outlets on either side above the initial outlet emit a large amount of smoke. The blue flames disappear from the main outlet, and orange flames are ejected simultaneously."
+    },
+    {
+        "second": 10,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EKkCYzrmJHs/output_frames/sec_10_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[6-16] Blue flames continue to emerge from the outlet as the surrounding smoke gradually dissipates. Then, two outlets on either side above the initial outlet emit a large amount of smoke. The blue flames disappear from the main outlet, and orange flames are ejected simultaneously."
+    },
+    {
+        "second": 11,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EKkCYzrmJHs/output_frames/sec_11_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[6-16] Blue flames continue to emerge from the outlet as the surrounding smoke gradually dissipates. Then, two outlets on either side above the initial outlet emit a large amount of smoke. The blue flames disappear from the main outlet, and orange flames are ejected simultaneously."
+    },
+    {
+        "second": 12,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EKkCYzrmJHs/output_frames/sec_12_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[6-16] Blue flames continue to emerge from the outlet as the surrounding smoke gradually dissipates. Then, two outlets on either side above the initial outlet emit a large amount of smoke. The blue flames disappear from the main outlet, and orange flames are ejected simultaneously."
+    },
+    {
+        "second": 13,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EKkCYzrmJHs/output_frames/sec_13_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[6-16] Blue flames continue to emerge from the outlet as the surrounding smoke gradually dissipates. Then, two outlets on either side above the initial outlet emit a large amount of smoke. The blue flames disappear from the main outlet, and orange flames are ejected simultaneously."
+    },
+    {
+        "second": 14,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EKkCYzrmJHs/output_frames/sec_14_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[6-16] Blue flames continue to emerge from the outlet as the surrounding smoke gradually dissipates. Then, two outlets on either side above the initial outlet emit a large amount of smoke. The blue flames disappear from the main outlet, and orange flames are ejected simultaneously."
+    },
+    {
+        "second": 15,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EKkCYzrmJHs/output_frames/sec_15_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[6-16] Blue flames continue to emerge from the outlet as the surrounding smoke gradually dissipates. Then, two outlets on either side above the initial outlet emit a large amount of smoke. The blue flames disappear from the main outlet, and orange flames are ejected simultaneously."
+    },
+    {
+        "second": 16,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EKkCYzrmJHs/output_frames/sec_16_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[6-16] Blue flames continue to emerge from the outlet as the surrounding smoke gradually dissipates. Then, two outlets on either side above the initial outlet emit a large amount of smoke. The blue flames disappear from the main outlet, and orange flames are ejected simultaneously."
+    },
+    {
+        "second": 17,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EKkCYzrmJHs/output_frames/sec_17_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[16-19] The orange flames disappear, and the outlet continues to spew white smoke. The blue light above the machine illuminates again and then goes out."
+    },
+    {
+        "second": 18,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EKkCYzrmJHs/output_frames/sec_18_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[16-19] The orange flames disappear, and the outlet continues to spew white smoke. The blue light above the machine illuminates again and then goes out."
+    },
+    {
+        "second": 19,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EKkCYzrmJHs/output_frames/sec_19_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[16-19] The orange flames disappear, and the outlet continues to spew white smoke. The blue light above the machine illuminates again and then goes out."
+    }
+]

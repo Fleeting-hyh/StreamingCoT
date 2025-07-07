@@ -1,0 +1,86 @@
+[
+    {
+        "second": 0,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/59A9_epeB3s/output_frames/sec_0_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A white cat is standing in front of a glass door, mouth open, yelling inside. The text \"When you lied on your resume about your skills\" is displayed on the screen in white font, along with an emoji. There is a wooden table in the background."
+    },
+    {
+        "second": 1,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/59A9_epeB3s/output_frames/sec_1_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Next, a man wearing a blue shirt and black shorts is using a broom to catch a mouse on the floor. There is a cabinet in the background."
+    },
+    {
+        "second": 2,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/59A9_epeB3s/output_frames/sec_2_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Next, a man wearing a blue shirt and black shorts is using a broom to catch a mouse on the floor. There is a cabinet in the background."
+    },
+    {
+        "second": 3,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/59A9_epeB3s/output_frames/sec_3_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Next, a man wearing a blue shirt and black shorts is using a broom to catch a mouse on the floor. There is a cabinet in the background."
+    },
+    {
+        "second": 4,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/59A9_epeB3s/output_frames/sec_4_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[3-11] The man continues to chase the mouse with the broom, and the white cat yells while the man catches the mouse."
+    },
+    {
+        "second": 5,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/59A9_epeB3s/output_frames/sec_5_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[3-11] The man continues to chase the mouse with the broom, and the white cat yells while the man catches the mouse."
+    },
+    {
+        "second": 6,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/59A9_epeB3s/output_frames/sec_6_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[3-11] The man continues to chase the mouse with the broom, and the white cat yells while the man catches the mouse."
+    },
+    {
+        "second": 7,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/59A9_epeB3s/output_frames/sec_7_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[3-11] The man continues to chase the mouse with the broom, and the white cat yells while the man catches the mouse."
+    },
+    {
+        "second": 8,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/59A9_epeB3s/output_frames/sec_8_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[3-11] The man continues to chase the mouse with the broom, and the white cat yells while the man catches the mouse."
+    },
+    {
+        "second": 9,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/59A9_epeB3s/output_frames/sec_9_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[3-11] The man continues to chase the mouse with the broom, and the white cat yells while the man catches the mouse."
+    },
+    {
+        "second": 10,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/59A9_epeB3s/output_frames/sec_10_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[3-11] The man continues to chase the mouse with the broom, and the white cat yells while the man catches the mouse."
+    },
+    {
+        "second": 11,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/59A9_epeB3s/output_frames/sec_11_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[3-11] The man continues to chase the mouse with the broom, and the white cat yells while the man catches the mouse."
+    }
+]

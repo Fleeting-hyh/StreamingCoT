@@ -1,0 +1,37 @@
+[
+    {
+        "second": 0,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/43PgN_zB0k8/output_frames/sec_0_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[0-0] In a lively room, on the left is a man wearing a black inner shirt and a gray jacket. To the right of the man in the gray jacket is a woman with yellow hair wearing a black top. Next to the woman in the black top is a woman with a ponytail wearing a black vest. All three are looking to the left. On the right side is a woman with long hair wearing a red top, she has her back to the front. On the wall behind them is a TV, which is playing a video. Black English subtitles and a crying emoji appear above the video frame."
+    },
+    {
+        "second": 1,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/43PgN_zB0k8/output_frames/sec_1_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[0-2] First, the woman with the ponytail points her right index finger to the left and then to the front, turning her head and looking forward at the same time. Her shoulder leans towards the woman in the black top. The woman in red on the right side exits to the right."
+    },
+    {
+        "second": 2,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/43PgN_zB0k8/output_frames/sec_2_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-2] First, the woman with the ponytail points her right index finger to the left and then to the front, turning her head and looking forward at the same time. Her shoulder leans towards the woman in the black top. The woman in red on the right side exits to the right."
+    },
+    {
+        "second": 3,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/43PgN_zB0k8/output_frames/sec_3_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[2-4] Finally, a blond man walks in from the right and stands behind the woman in the black top, turning his head to look to the right. The woman with the ponytail looks forward and lowers her right hand, her mouth moving slightly. The woman in the black top turns her head, opens her mouth wide, and looks forward."
+    },
+    {
+        "second": 4,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/43PgN_zB0k8/output_frames/sec_4_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[2-4] Finally, a blond man walks in from the right and stands behind the woman in the black top, turning his head to look to the right. The woman with the ponytail looks forward and lowers her right hand, her mouth moving slightly. The woman in the black top turns her head, opens her mouth wide, and looks forward."
+    }
+]

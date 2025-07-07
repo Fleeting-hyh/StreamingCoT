@@ -1,0 +1,422 @@
+[
+    {
+        "second": 0,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TE7YjiQZpZo/output_frames/sec_0_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[0-0] On a path with withered grass, a man in black is running towards the camera."
+    },
+    {
+        "second": 1,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TE7YjiQZpZo/output_frames/sec_1_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[0-7] Imitating Tom Cruise's tripping scene, the man runs towards a piece of wood, trips over it, and falls forward onto the ground. He quickly gets up and continues running forward. Next, he imitates Keanu Reeves, running towards the wood, tripping, losing his balance, and falling to the ground. He then quickly rolls over, stands up, and continues running."
+    },
+    {
+        "second": 2,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TE7YjiQZpZo/output_frames/sec_2_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[0-7] Imitating Tom Cruise's tripping scene, the man runs towards a piece of wood, trips over it, and falls forward onto the ground. He quickly gets up and continues running forward. Next, he imitates Keanu Reeves, running towards the wood, tripping, losing his balance, and falling to the ground. He then quickly rolls over, stands up, and continues running."
+    },
+    {
+        "second": 3,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TE7YjiQZpZo/output_frames/sec_3_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[0-7] Imitating Tom Cruise's tripping scene, the man runs towards a piece of wood, trips over it, and falls forward onto the ground. He quickly gets up and continues running forward. Next, he imitates Keanu Reeves, running towards the wood, tripping, losing his balance, and falling to the ground. He then quickly rolls over, stands up, and continues running."
+    },
+    {
+        "second": 4,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TE7YjiQZpZo/output_frames/sec_4_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-7] Imitating Tom Cruise's tripping scene, the man runs towards a piece of wood, trips over it, and falls forward onto the ground. He quickly gets up and continues running forward. Next, he imitates Keanu Reeves, running towards the wood, tripping, losing his balance, and falling to the ground. He then quickly rolls over, stands up, and continues running."
+    },
+    {
+        "second": 5,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TE7YjiQZpZo/output_frames/sec_5_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[0-7] Imitating Tom Cruise's tripping scene, the man runs towards a piece of wood, trips over it, and falls forward onto the ground. He quickly gets up and continues running forward. Next, he imitates Keanu Reeves, running towards the wood, tripping, losing his balance, and falling to the ground. He then quickly rolls over, stands up, and continues running."
+    },
+    {
+        "second": 6,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TE7YjiQZpZo/output_frames/sec_6_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-7] Imitating Tom Cruise's tripping scene, the man runs towards a piece of wood, trips over it, and falls forward onto the ground. He quickly gets up and continues running forward. Next, he imitates Keanu Reeves, running towards the wood, tripping, losing his balance, and falling to the ground. He then quickly rolls over, stands up, and continues running."
+    },
+    {
+        "second": 7,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TE7YjiQZpZo/output_frames/sec_7_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[0-7] Imitating Tom Cruise's tripping scene, the man runs towards a piece of wood, trips over it, and falls forward onto the ground. He quickly gets up and continues running forward. Next, he imitates Keanu Reeves, running towards the wood, tripping, losing his balance, and falling to the ground. He then quickly rolls over, stands up, and continues running."
+    },
+    {
+        "second": 8,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TE7YjiQZpZo/output_frames/sec_8_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[7-15] Next, the man imitates Jackie Chan tripping. He runs to the wood, jumps up, puts his hands on it, does a handstand, then stands up and regains his balance. Then he imitates Michael Jackson tripping. He walks to the wood, pauses, then runs, jumps, spins in the air, regains his balance, and continues walking down the path."
+    },
+    {
+        "second": 9,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TE7YjiQZpZo/output_frames/sec_9_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[7-15] Next, the man imitates Jackie Chan tripping. He runs to the wood, jumps up, puts his hands on it, does a handstand, then stands up and regains his balance. Then he imitates Michael Jackson tripping. He walks to the wood, pauses, then runs, jumps, spins in the air, regains his balance, and continues walking down the path."
+    },
+    {
+        "second": 10,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TE7YjiQZpZo/output_frames/sec_10_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[7-15] Next, the man imitates Jackie Chan tripping. He runs to the wood, jumps up, puts his hands on it, does a handstand, then stands up and regains his balance. Then he imitates Michael Jackson tripping. He walks to the wood, pauses, then runs, jumps, spins in the air, regains his balance, and continues walking down the path."
+    },
+    {
+        "second": 11,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TE7YjiQZpZo/output_frames/sec_11_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[7-15] Next, the man imitates Jackie Chan tripping. He runs to the wood, jumps up, puts his hands on it, does a handstand, then stands up and regains his balance. Then he imitates Michael Jackson tripping. He walks to the wood, pauses, then runs, jumps, spins in the air, regains his balance, and continues walking down the path."
+    },
+    {
+        "second": 12,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TE7YjiQZpZo/output_frames/sec_12_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[7-15] Next, the man imitates Jackie Chan tripping. He runs to the wood, jumps up, puts his hands on it, does a handstand, then stands up and regains his balance. Then he imitates Michael Jackson tripping. He walks to the wood, pauses, then runs, jumps, spins in the air, regains his balance, and continues walking down the path."
+    },
+    {
+        "second": 13,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TE7YjiQZpZo/output_frames/sec_13_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[7-15] Next, the man imitates Jackie Chan tripping. He runs to the wood, jumps up, puts his hands on it, does a handstand, then stands up and regains his balance. Then he imitates Michael Jackson tripping. He walks to the wood, pauses, then runs, jumps, spins in the air, regains his balance, and continues walking down the path."
+    },
+    {
+        "second": 14,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TE7YjiQZpZo/output_frames/sec_14_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[7-15] Next, the man imitates Jackie Chan tripping. He runs to the wood, jumps up, puts his hands on it, does a handstand, then stands up and regains his balance. Then he imitates Michael Jackson tripping. He walks to the wood, pauses, then runs, jumps, spins in the air, regains his balance, and continues walking down the path."
+    },
+    {
+        "second": 15,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TE7YjiQZpZo/output_frames/sec_15_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[7-15] Next, the man imitates Jackie Chan tripping. He runs to the wood, jumps up, puts his hands on it, does a handstand, then stands up and regains his balance. Then he imitates Michael Jackson tripping. He walks to the wood, pauses, then runs, jumps, spins in the air, regains his balance, and continues walking down the path."
+    },
+    {
+        "second": 16,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TE7YjiQZpZo/output_frames/sec_16_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[15-25] The next imitation is of Johnny Depp. He walks to the wood, lifts one leg, pretends to trip, but regains his balance and continues down the path. Following that is an imitation of Jim Carrey, who runs to the wood, jumps, loses his balance, falls to the ground, then rolls over and stands up, looking forward in shock."
+    },
+    {
+        "second": 17,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TE7YjiQZpZo/output_frames/sec_17_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[15-25] The next imitation is of Johnny Depp. He walks to the wood, lifts one leg, pretends to trip, but regains his balance and continues down the path. Following that is an imitation of Jim Carrey, who runs to the wood, jumps, loses his balance, falls to the ground, then rolls over and stands up, looking forward in shock."
+    },
+    {
+        "second": 18,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TE7YjiQZpZo/output_frames/sec_18_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[15-25] The next imitation is of Johnny Depp. He walks to the wood, lifts one leg, pretends to trip, but regains his balance and continues down the path. Following that is an imitation of Jim Carrey, who runs to the wood, jumps, loses his balance, falls to the ground, then rolls over and stands up, looking forward in shock."
+    },
+    {
+        "second": 19,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TE7YjiQZpZo/output_frames/sec_19_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[15-25] The next imitation is of Johnny Depp. He walks to the wood, lifts one leg, pretends to trip, but regains his balance and continues down the path. Following that is an imitation of Jim Carrey, who runs to the wood, jumps, loses his balance, falls to the ground, then rolls over and stands up, looking forward in shock."
+    },
+    {
+        "second": 20,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TE7YjiQZpZo/output_frames/sec_20_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[15-25] The next imitation is of Johnny Depp. He walks to the wood, lifts one leg, pretends to trip, but regains his balance and continues down the path. Following that is an imitation of Jim Carrey, who runs to the wood, jumps, loses his balance, falls to the ground, then rolls over and stands up, looking forward in shock."
+    },
+    {
+        "second": 21,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TE7YjiQZpZo/output_frames/sec_21_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[15-25] The next imitation is of Johnny Depp. He walks to the wood, lifts one leg, pretends to trip, but regains his balance and continues down the path. Following that is an imitation of Jim Carrey, who runs to the wood, jumps, loses his balance, falls to the ground, then rolls over and stands up, looking forward in shock."
+    },
+    {
+        "second": 22,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TE7YjiQZpZo/output_frames/sec_22_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[15-25] The next imitation is of Johnny Depp. He walks to the wood, lifts one leg, pretends to trip, but regains his balance and continues down the path. Following that is an imitation of Jim Carrey, who runs to the wood, jumps, loses his balance, falls to the ground, then rolls over and stands up, looking forward in shock."
+    },
+    {
+        "second": 23,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TE7YjiQZpZo/output_frames/sec_23_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[15-25] The next imitation is of Johnny Depp. He walks to the wood, lifts one leg, pretends to trip, but regains his balance and continues down the path. Following that is an imitation of Jim Carrey, who runs to the wood, jumps, loses his balance, falls to the ground, then rolls over and stands up, looking forward in shock."
+    },
+    {
+        "second": 24,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TE7YjiQZpZo/output_frames/sec_24_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[15-25] The next imitation is of Johnny Depp. He walks to the wood, lifts one leg, pretends to trip, but regains his balance and continues down the path. Following that is an imitation of Jim Carrey, who runs to the wood, jumps, loses his balance, falls to the ground, then rolls over and stands up, looking forward in shock."
+    },
+    {
+        "second": 25,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TE7YjiQZpZo/output_frames/sec_25_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[15-25] The next imitation is of Johnny Depp. He walks to the wood, lifts one leg, pretends to trip, but regains his balance and continues down the path. Following that is an imitation of Jim Carrey, who runs to the wood, jumps, loses his balance, falls to the ground, then rolls over and stands up, looking forward in shock."
+    },
+    {
+        "second": 26,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TE7YjiQZpZo/output_frames/sec_26_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[25-33] He continues walking forward. Next, the man imitates Chris Pratt tripping. He runs to the wood, jumps, falls face down on the ground, then stands up and raises his hands in anger."
+    },
+    {
+        "second": 27,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TE7YjiQZpZo/output_frames/sec_27_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[25-33] He continues walking forward. Next, the man imitates Chris Pratt tripping. He runs to the wood, jumps, falls face down on the ground, then stands up and raises his hands in anger."
+    },
+    {
+        "second": 28,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TE7YjiQZpZo/output_frames/sec_28_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[25-33] He continues walking forward. Next, the man imitates Chris Pratt tripping. He runs to the wood, jumps, falls face down on the ground, then stands up and raises his hands in anger."
+    },
+    {
+        "second": 29,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TE7YjiQZpZo/output_frames/sec_29_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[25-33] He continues walking forward. Next, the man imitates Chris Pratt tripping. He runs to the wood, jumps, falls face down on the ground, then stands up and raises his hands in anger."
+    },
+    {
+        "second": 30,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TE7YjiQZpZo/output_frames/sec_30_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[25-33] He continues walking forward. Next, the man imitates Chris Pratt tripping. He runs to the wood, jumps, falls face down on the ground, then stands up and raises his hands in anger."
+    },
+    {
+        "second": 31,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TE7YjiQZpZo/output_frames/sec_31_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[25-33] He continues walking forward. Next, the man imitates Chris Pratt tripping. He runs to the wood, jumps, falls face down on the ground, then stands up and raises his hands in anger."
+    },
+    {
+        "second": 32,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TE7YjiQZpZo/output_frames/sec_32_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[25-33] He continues walking forward. Next, the man imitates Chris Pratt tripping. He runs to the wood, jumps, falls face down on the ground, then stands up and raises his hands in anger."
+    },
+    {
+        "second": 33,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TE7YjiQZpZo/output_frames/sec_33_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[25-33] He continues walking forward. Next, the man imitates Chris Pratt tripping. He runs to the wood, jumps, falls face down on the ground, then stands up and raises his hands in anger."
+    },
+    {
+        "second": 34,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TE7YjiQZpZo/output_frames/sec_34_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[33-41] This is followed by an imitation of Rancho from 3 Idiots tripping. He stands in front of the wood, looks up at the sky, steps back, trips over the wood, falls backwards to the ground, then rolls over and stands up. Finally, the man imitates Chuck Norris. He walks to the wood, looks at it, then lifts the wood and walks past, continuing down the path. He doesn't trip."
+    },
+    {
+        "second": 35,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TE7YjiQZpZo/output_frames/sec_35_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[33-41] This is followed by an imitation of Rancho from 3 Idiots tripping. He stands in front of the wood, looks up at the sky, steps back, trips over the wood, falls backwards to the ground, then rolls over and stands up. Finally, the man imitates Chuck Norris. He walks to the wood, looks at it, then lifts the wood and walks past, continuing down the path. He doesn't trip."
+    },
+    {
+        "second": 36,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TE7YjiQZpZo/output_frames/sec_36_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[33-41] This is followed by an imitation of Rancho from 3 Idiots tripping. He stands in front of the wood, looks up at the sky, steps back, trips over the wood, falls backwards to the ground, then rolls over and stands up. Finally, the man imitates Chuck Norris. He walks to the wood, looks at it, then lifts the wood and walks past, continuing down the path. He doesn't trip."
+    },
+    {
+        "second": 37,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TE7YjiQZpZo/output_frames/sec_37_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[33-41] This is followed by an imitation of Rancho from 3 Idiots tripping. He stands in front of the wood, looks up at the sky, steps back, trips over the wood, falls backwards to the ground, then rolls over and stands up. Finally, the man imitates Chuck Norris. He walks to the wood, looks at it, then lifts the wood and walks past, continuing down the path. He doesn't trip."
+    },
+    {
+        "second": 38,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TE7YjiQZpZo/output_frames/sec_38_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[33-41] This is followed by an imitation of Rancho from 3 Idiots tripping. He stands in front of the wood, looks up at the sky, steps back, trips over the wood, falls backwards to the ground, then rolls over and stands up. Finally, the man imitates Chuck Norris. He walks to the wood, looks at it, then lifts the wood and walks past, continuing down the path. He doesn't trip."
+    },
+    {
+        "second": 39,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TE7YjiQZpZo/output_frames/sec_39_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[33-41] This is followed by an imitation of Rancho from 3 Idiots tripping. He stands in front of the wood, looks up at the sky, steps back, trips over the wood, falls backwards to the ground, then rolls over and stands up. Finally, the man imitates Chuck Norris. He walks to the wood, looks at it, then lifts the wood and walks past, continuing down the path. He doesn't trip."
+    },
+    {
+        "second": 40,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TE7YjiQZpZo/output_frames/sec_40_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[33-41] This is followed by an imitation of Rancho from 3 Idiots tripping. He stands in front of the wood, looks up at the sky, steps back, trips over the wood, falls backwards to the ground, then rolls over and stands up. Finally, the man imitates Chuck Norris. He walks to the wood, looks at it, then lifts the wood and walks past, continuing down the path. He doesn't trip."
+    },
+    {
+        "second": 41,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TE7YjiQZpZo/output_frames/sec_41_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[33-41] This is followed by an imitation of Rancho from 3 Idiots tripping. He stands in front of the wood, looks up at the sky, steps back, trips over the wood, falls backwards to the ground, then rolls over and stands up. Finally, the man imitates Chuck Norris. He walks to the wood, looks at it, then lifts the wood and walks past, continuing down the path. He doesn't trip."
+    },
+    {
+        "second": 42,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TE7YjiQZpZo/output_frames/sec_42_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[41-47] The man continues walking forward with his head held high. When he trips, he supports himself with his hand on the ground, not falling, and continues walking forward, looking back at the wood."
+    },
+    {
+        "second": 43,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TE7YjiQZpZo/output_frames/sec_43_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[41-47] The man continues walking forward with his head held high. When he trips, he supports himself with his hand on the ground, not falling, and continues walking forward, looking back at the wood."
+    },
+    {
+        "second": 44,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TE7YjiQZpZo/output_frames/sec_44_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[41-47] The man continues walking forward with his head held high. When he trips, he supports himself with his hand on the ground, not falling, and continues walking forward, looking back at the wood."
+    },
+    {
+        "second": 45,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TE7YjiQZpZo/output_frames/sec_45_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[41-47] The man continues walking forward with his head held high. When he trips, he supports himself with his hand on the ground, not falling, and continues walking forward, looking back at the wood."
+    },
+    {
+        "second": 46,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TE7YjiQZpZo/output_frames/sec_46_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[41-47] The man continues walking forward with his head held high. When he trips, he supports himself with his hand on the ground, not falling, and continues walking forward, looking back at the wood."
+    },
+    {
+        "second": 47,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TE7YjiQZpZo/output_frames/sec_47_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[41-47] The man continues walking forward with his head held high. When he trips, he supports himself with his hand on the ground, not falling, and continues walking forward, looking back at the wood."
+    },
+    {
+        "second": 48,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TE7YjiQZpZo/output_frames/sec_48_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[47-51] Finally, the man imitates Chuck Norris again. He walks to the wood, then kicks it away with one foot and continues walking dominantly down the path."
+    },
+    {
+        "second": 49,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TE7YjiQZpZo/output_frames/sec_49_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[47-51] Finally, the man imitates Chuck Norris again. He walks to the wood, then kicks it away with one foot and continues walking dominantly down the path."
+    },
+    {
+        "second": 50,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TE7YjiQZpZo/output_frames/sec_50_idx_24.jpg",
+        "fps": 30,
+        "explanation": "[47-51] Finally, the man imitates Chuck Norris again. He walks to the wood, then kicks it away with one foot and continues walking dominantly down the path."
+    },
+    {
+        "second": 51,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TE7YjiQZpZo/output_frames/sec_51_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[47-51] Finally, the man imitates Chuck Norris again. He walks to the wood, then kicks it away with one foot and continues walking dominantly down the path."
+    },
+    {
+        "second": 52,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TE7YjiQZpZo/output_frames/sec_52_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[51-60] The man walks forward with his back to the camera, and the words \"john cena\" appear on the screen. He almost trips over the wood, then angrily turns around, picks up the wood, and slams it to the ground, breaking it. Finally, he turns and continues walking."
+    },
+    {
+        "second": 53,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TE7YjiQZpZo/output_frames/sec_53_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[51-60] The man walks forward with his back to the camera, and the words \"john cena\" appear on the screen. He almost trips over the wood, then angrily turns around, picks up the wood, and slams it to the ground, breaking it. Finally, he turns and continues walking."
+    },
+    {
+        "second": 54,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TE7YjiQZpZo/output_frames/sec_54_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[51-60] The man walks forward with his back to the camera, and the words \"john cena\" appear on the screen. He almost trips over the wood, then angrily turns around, picks up the wood, and slams it to the ground, breaking it. Finally, he turns and continues walking."
+    },
+    {
+        "second": 55,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TE7YjiQZpZo/output_frames/sec_55_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[51-60] The man walks forward with his back to the camera, and the words \"john cena\" appear on the screen. He almost trips over the wood, then angrily turns around, picks up the wood, and slams it to the ground, breaking it. Finally, he turns and continues walking."
+    },
+    {
+        "second": 56,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TE7YjiQZpZo/output_frames/sec_56_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[51-60] The man walks forward with his back to the camera, and the words \"john cena\" appear on the screen. He almost trips over the wood, then angrily turns around, picks up the wood, and slams it to the ground, breaking it. Finally, he turns and continues walking."
+    },
+    {
+        "second": 57,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TE7YjiQZpZo/output_frames/sec_57_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[51-60] The man walks forward with his back to the camera, and the words \"john cena\" appear on the screen. He almost trips over the wood, then angrily turns around, picks up the wood, and slams it to the ground, breaking it. Finally, he turns and continues walking."
+    },
+    {
+        "second": 58,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TE7YjiQZpZo/output_frames/sec_58_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[51-60] The man walks forward with his back to the camera, and the words \"john cena\" appear on the screen. He almost trips over the wood, then angrily turns around, picks up the wood, and slams it to the ground, breaking it. Finally, he turns and continues walking."
+    },
+    {
+        "second": 59,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TE7YjiQZpZo/output_frames/sec_59_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[51-60] The man walks forward with his back to the camera, and the words \"john cena\" appear on the screen. He almost trips over the wood, then angrily turns around, picks up the wood, and slams it to the ground, breaking it. Finally, he turns and continues walking."
+    }
+]

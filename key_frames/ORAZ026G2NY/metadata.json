@@ -1,0 +1,100 @@
+[
+    {
+        "second": 0,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/ORAZ026G2NY/output_frames/sec_0_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[0-0] An indoor scene, a father in gray pajamas and his son in white clothes are playing a game on a gray marble floor. A geometric figure is taped out on the floor with blue tape, the figure has four corners like a square, with two tomatoes placed on the left two corners and two apples on the right two corners. Except for the two lower corners which are not connected by tape, the rest of the corners are connected by tape. There are also several banknotes in the center position between the lower two corners. The adult is squatting on the left side, and the child is on the right side, seemingly focused on the game props. A glass door and a blue plastic bag can be seen in the background."
+    },
+    {
+        "second": 1,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/ORAZ026G2NY/output_frames/sec_1_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-5] The son picks up the apple in the upper right corner and puts it on the intersection in the center of the board. Then the father picks up the tomato in the upper left corner and puts it in the upper right corner. Immediately afterwards, the son picks up the apple in the center and puts it in the upper left corner, and then the father picks up the tomato in the upper right corner and puts it in the center."
+    },
+    {
+        "second": 2,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/ORAZ026G2NY/output_frames/sec_2_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[0-5] The son picks up the apple in the upper right corner and puts it on the intersection in the center of the board. Then the father picks up the tomato in the upper left corner and puts it in the upper right corner. Immediately afterwards, the son picks up the apple in the center and puts it in the upper left corner, and then the father picks up the tomato in the upper right corner and puts it in the center."
+    },
+    {
+        "second": 3,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/ORAZ026G2NY/output_frames/sec_3_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[0-5] The son picks up the apple in the upper right corner and puts it on the intersection in the center of the board. Then the father picks up the tomato in the upper left corner and puts it in the upper right corner. Immediately afterwards, the son picks up the apple in the center and puts it in the upper left corner, and then the father picks up the tomato in the upper right corner and puts it in the center."
+    },
+    {
+        "second": 4,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/ORAZ026G2NY/output_frames/sec_4_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[0-5] The son picks up the apple in the upper right corner and puts it on the intersection in the center of the board. Then the father picks up the tomato in the upper left corner and puts it in the upper right corner. Immediately afterwards, the son picks up the apple in the center and puts it in the upper left corner, and then the father picks up the tomato in the upper right corner and puts it in the center."
+    },
+    {
+        "second": 5,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/ORAZ026G2NY/output_frames/sec_5_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-5] The son picks up the apple in the upper right corner and puts it on the intersection in the center of the board. Then the father picks up the tomato in the upper left corner and puts it in the upper right corner. Immediately afterwards, the son picks up the apple in the center and puts it in the upper left corner, and then the father picks up the tomato in the upper right corner and puts it in the center."
+    },
+    {
+        "second": 6,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/ORAZ026G2NY/output_frames/sec_6_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[5-13] Then the son picks up the apple in the upper left corner and puts it in the upper right corner, and the father puts the tomato in the center to the upper left corner. Finally, the son puts the apple in the lower right corner to the center to block the tomato, completing the game. At this time, the father scratched his head, and the son picked up the banknotes placed in the middle of the board and jumped up happily."
+    },
+    {
+        "second": 7,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/ORAZ026G2NY/output_frames/sec_7_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[5-13] Then the son picks up the apple in the upper left corner and puts it in the upper right corner, and the father puts the tomato in the center to the upper left corner. Finally, the son puts the apple in the lower right corner to the center to block the tomato, completing the game. At this time, the father scratched his head, and the son picked up the banknotes placed in the middle of the board and jumped up happily."
+    },
+    {
+        "second": 8,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/ORAZ026G2NY/output_frames/sec_8_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[5-13] Then the son picks up the apple in the upper left corner and puts it in the upper right corner, and the father puts the tomato in the center to the upper left corner. Finally, the son puts the apple in the lower right corner to the center to block the tomato, completing the game. At this time, the father scratched his head, and the son picked up the banknotes placed in the middle of the board and jumped up happily."
+    },
+    {
+        "second": 9,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/ORAZ026G2NY/output_frames/sec_9_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[5-13] Then the son picks up the apple in the upper left corner and puts it in the upper right corner, and the father puts the tomato in the center to the upper left corner. Finally, the son puts the apple in the lower right corner to the center to block the tomato, completing the game. At this time, the father scratched his head, and the son picked up the banknotes placed in the middle of the board and jumped up happily."
+    },
+    {
+        "second": 10,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/ORAZ026G2NY/output_frames/sec_10_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[5-13] Then the son picks up the apple in the upper left corner and puts it in the upper right corner, and the father puts the tomato in the center to the upper left corner. Finally, the son puts the apple in the lower right corner to the center to block the tomato, completing the game. At this time, the father scratched his head, and the son picked up the banknotes placed in the middle of the board and jumped up happily."
+    },
+    {
+        "second": 11,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/ORAZ026G2NY/output_frames/sec_11_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[5-13] Then the son picks up the apple in the upper left corner and puts it in the upper right corner, and the father puts the tomato in the center to the upper left corner. Finally, the son puts the apple in the lower right corner to the center to block the tomato, completing the game. At this time, the father scratched his head, and the son picked up the banknotes placed in the middle of the board and jumped up happily."
+    },
+    {
+        "second": 12,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/ORAZ026G2NY/output_frames/sec_12_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[5-13] Then the son picks up the apple in the upper left corner and puts it in the upper right corner, and the father puts the tomato in the center to the upper left corner. Finally, the son puts the apple in the lower right corner to the center to block the tomato, completing the game. At this time, the father scratched his head, and the son picked up the banknotes placed in the middle of the board and jumped up happily."
+    },
+    {
+        "second": 13,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/ORAZ026G2NY/output_frames/sec_13_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[5-13] Then the son picks up the apple in the upper left corner and puts it in the upper right corner, and the father puts the tomato in the center to the upper left corner. Finally, the son puts the apple in the lower right corner to the center to block the tomato, completing the game. At this time, the father scratched his head, and the son picked up the banknotes placed in the middle of the board and jumped up happily."
+    }
+]

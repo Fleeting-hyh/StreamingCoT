@@ -1,0 +1,121 @@
+[
+    {
+        "second": 0,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P62-XwK6NAA/output_frames/sec_0_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A pair of feet is walking on a road paved with small gray-black bricks."
+    },
+    {
+        "second": 1,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P62-XwK6NAA/output_frames/sec_1_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[0-2] As the person walks forward, a red lollipop lies on the road. The person stops, bends over, and picks up the lollipop with their left hand. The camera then follows the person lifting and moving the lollipop, the background showing a street with green trees on the right and pedestrians sitting on chairs by the roadside."
+    },
+    {
+        "second": 2,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P62-XwK6NAA/output_frames/sec_2_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[0-2] As the person walks forward, a red lollipop lies on the road. The person stops, bends over, and picks up the lollipop with their left hand. The camera then follows the person lifting and moving the lollipop, the background showing a street with green trees on the right and pedestrians sitting on chairs by the roadside."
+    },
+    {
+        "second": 3,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P62-XwK6NAA/output_frames/sec_3_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[2-11] Then, the scene quickly changes to a hand holding the lollipop, rubbing it in the dust. The hand keeps turning the lollipop, covering it with dust. Then, the hand continues to hold the lollipop and puts it into a green trash can, rubbing it against the dirty inner wall. There are fallen leaves, a dustpan, and a broom scattered inside the trash can. Next, the person holds the lollipop with their right hand, lifts their left foot, and rubs the lollipop on the sole of their shoe. The background is a road with yellow lane markings. Immediately afterward, the hand puts the lollipop into the exhaust pipe of a car and keeps stirring it."
+    },
+    {
+        "second": 4,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P62-XwK6NAA/output_frames/sec_4_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[2-11] Then, the scene quickly changes to a hand holding the lollipop, rubbing it in the dust. The hand keeps turning the lollipop, covering it with dust. Then, the hand continues to hold the lollipop and puts it into a green trash can, rubbing it against the dirty inner wall. There are fallen leaves, a dustpan, and a broom scattered inside the trash can. Next, the person holds the lollipop with their right hand, lifts their left foot, and rubs the lollipop on the sole of their shoe. The background is a road with yellow lane markings. Immediately afterward, the hand puts the lollipop into the exhaust pipe of a car and keeps stirring it."
+    },
+    {
+        "second": 5,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P62-XwK6NAA/output_frames/sec_5_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[2-11] Then, the scene quickly changes to a hand holding the lollipop, rubbing it in the dust. The hand keeps turning the lollipop, covering it with dust. Then, the hand continues to hold the lollipop and puts it into a green trash can, rubbing it against the dirty inner wall. There are fallen leaves, a dustpan, and a broom scattered inside the trash can. Next, the person holds the lollipop with their right hand, lifts their left foot, and rubs the lollipop on the sole of their shoe. The background is a road with yellow lane markings. Immediately afterward, the hand puts the lollipop into the exhaust pipe of a car and keeps stirring it."
+    },
+    {
+        "second": 6,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P62-XwK6NAA/output_frames/sec_6_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[2-11] Then, the scene quickly changes to a hand holding the lollipop, rubbing it in the dust. The hand keeps turning the lollipop, covering it with dust. Then, the hand continues to hold the lollipop and puts it into a green trash can, rubbing it against the dirty inner wall. There are fallen leaves, a dustpan, and a broom scattered inside the trash can. Next, the person holds the lollipop with their right hand, lifts their left foot, and rubs the lollipop on the sole of their shoe. The background is a road with yellow lane markings. Immediately afterward, the hand puts the lollipop into the exhaust pipe of a car and keeps stirring it."
+    },
+    {
+        "second": 7,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P62-XwK6NAA/output_frames/sec_7_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[2-11] Then, the scene quickly changes to a hand holding the lollipop, rubbing it in the dust. The hand keeps turning the lollipop, covering it with dust. Then, the hand continues to hold the lollipop and puts it into a green trash can, rubbing it against the dirty inner wall. There are fallen leaves, a dustpan, and a broom scattered inside the trash can. Next, the person holds the lollipop with their right hand, lifts their left foot, and rubs the lollipop on the sole of their shoe. The background is a road with yellow lane markings. Immediately afterward, the hand puts the lollipop into the exhaust pipe of a car and keeps stirring it."
+    },
+    {
+        "second": 8,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P62-XwK6NAA/output_frames/sec_8_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[2-11] Then, the scene quickly changes to a hand holding the lollipop, rubbing it in the dust. The hand keeps turning the lollipop, covering it with dust. Then, the hand continues to hold the lollipop and puts it into a green trash can, rubbing it against the dirty inner wall. There are fallen leaves, a dustpan, and a broom scattered inside the trash can. Next, the person holds the lollipop with their right hand, lifts their left foot, and rubs the lollipop on the sole of their shoe. The background is a road with yellow lane markings. Immediately afterward, the hand puts the lollipop into the exhaust pipe of a car and keeps stirring it."
+    },
+    {
+        "second": 9,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P62-XwK6NAA/output_frames/sec_9_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[2-11] Then, the scene quickly changes to a hand holding the lollipop, rubbing it in the dust. The hand keeps turning the lollipop, covering it with dust. Then, the hand continues to hold the lollipop and puts it into a green trash can, rubbing it against the dirty inner wall. There are fallen leaves, a dustpan, and a broom scattered inside the trash can. Next, the person holds the lollipop with their right hand, lifts their left foot, and rubs the lollipop on the sole of their shoe. The background is a road with yellow lane markings. Immediately afterward, the hand puts the lollipop into the exhaust pipe of a car and keeps stirring it."
+    },
+    {
+        "second": 10,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P62-XwK6NAA/output_frames/sec_10_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[2-11] Then, the scene quickly changes to a hand holding the lollipop, rubbing it in the dust. The hand keeps turning the lollipop, covering it with dust. Then, the hand continues to hold the lollipop and puts it into a green trash can, rubbing it against the dirty inner wall. There are fallen leaves, a dustpan, and a broom scattered inside the trash can. Next, the person holds the lollipop with their right hand, lifts their left foot, and rubs the lollipop on the sole of their shoe. The background is a road with yellow lane markings. Immediately afterward, the hand puts the lollipop into the exhaust pipe of a car and keeps stirring it."
+    },
+    {
+        "second": 11,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P62-XwK6NAA/output_frames/sec_11_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[2-11] Then, the scene quickly changes to a hand holding the lollipop, rubbing it in the dust. The hand keeps turning the lollipop, covering it with dust. Then, the hand continues to hold the lollipop and puts it into a green trash can, rubbing it against the dirty inner wall. There are fallen leaves, a dustpan, and a broom scattered inside the trash can. Next, the person holds the lollipop with their right hand, lifts their left foot, and rubs the lollipop on the sole of their shoe. The background is a road with yellow lane markings. Immediately afterward, the hand puts the lollipop into the exhaust pipe of a car and keeps stirring it."
+    },
+    {
+        "second": 12,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P62-XwK6NAA/output_frames/sec_12_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[11-16] Subsequently, the hand comes to a patch of ground scattered with dead leaves and a puddle of water. The hand puts the lollipop into the muddy water, stirs it repeatedly, and finally picks up the lollipop and shakes it. The camera cuts to a man in an orange shirt and blue jeans sitting cross-legged on a patch of grass. A green iron-sheet house can be seen behind him, with trees next to it. A hand holds out a \"clean\" lollipop to the man, who happily takes it, puts it in his mouth, and finally gives a thumbs-up."
+    },
+    {
+        "second": 13,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P62-XwK6NAA/output_frames/sec_13_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[11-16] Subsequently, the hand comes to a patch of ground scattered with dead leaves and a puddle of water. The hand puts the lollipop into the muddy water, stirs it repeatedly, and finally picks up the lollipop and shakes it. The camera cuts to a man in an orange shirt and blue jeans sitting cross-legged on a patch of grass. A green iron-sheet house can be seen behind him, with trees next to it. A hand holds out a \"clean\" lollipop to the man, who happily takes it, puts it in his mouth, and finally gives a thumbs-up."
+    },
+    {
+        "second": 14,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P62-XwK6NAA/output_frames/sec_14_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[11-16] Subsequently, the hand comes to a patch of ground scattered with dead leaves and a puddle of water. The hand puts the lollipop into the muddy water, stirs it repeatedly, and finally picks up the lollipop and shakes it. The camera cuts to a man in an orange shirt and blue jeans sitting cross-legged on a patch of grass. A green iron-sheet house can be seen behind him, with trees next to it. A hand holds out a \"clean\" lollipop to the man, who happily takes it, puts it in his mouth, and finally gives a thumbs-up."
+    },
+    {
+        "second": 15,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P62-XwK6NAA/output_frames/sec_15_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[11-16] Subsequently, the hand comes to a patch of ground scattered with dead leaves and a puddle of water. The hand puts the lollipop into the muddy water, stirs it repeatedly, and finally picks up the lollipop and shakes it. The camera cuts to a man in an orange shirt and blue jeans sitting cross-legged on a patch of grass. A green iron-sheet house can be seen behind him, with trees next to it. A hand holds out a \"clean\" lollipop to the man, who happily takes it, puts it in his mouth, and finally gives a thumbs-up."
+    },
+    {
+        "second": 16,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P62-XwK6NAA/output_frames/sec_16_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[11-16] Subsequently, the hand comes to a patch of ground scattered with dead leaves and a puddle of water. The hand puts the lollipop into the muddy water, stirs it repeatedly, and finally picks up the lollipop and shakes it. The camera cuts to a man in an orange shirt and blue jeans sitting cross-legged on a patch of grass. A green iron-sheet house can be seen behind him, with trees next to it. A hand holds out a \"clean\" lollipop to the man, who happily takes it, puts it in his mouth, and finally gives a thumbs-up."
+    }
+]

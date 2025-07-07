@@ -1,0 +1,401 @@
+[
+    {
+        "second": 0,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PDUfdIacMIM/output_frames/sec_0_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A yellow corn with cartoon features lies vertically on a white towel, with big eyes, red lips, and short eyebrows. The white caption \"GOODLAND\" is displayed in the lower left corner of the video."
+    },
+    {
+        "second": 1,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PDUfdIacMIM/output_frames/sec_1_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[0-4] A hand enters the frame and reaches for the corn. The corn's expression changes, its lips curving into a slight smile."
+    },
+    {
+        "second": 2,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PDUfdIacMIM/output_frames/sec_2_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-4] A hand enters the frame and reaches for the corn. The corn's expression changes, its lips curving into a slight smile."
+    },
+    {
+        "second": 3,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PDUfdIacMIM/output_frames/sec_3_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-4] A hand enters the frame and reaches for the corn. The corn's expression changes, its lips curving into a slight smile."
+    },
+    {
+        "second": 4,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PDUfdIacMIM/output_frames/sec_4_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-4] A hand enters the frame and reaches for the corn. The corn's expression changes, its lips curving into a slight smile."
+    },
+    {
+        "second": 5,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PDUfdIacMIM/output_frames/sec_5_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[4-12] The hand begins to rotate the corn, and the corn's face turns with it. Then you can see five cartoon faces on the back of the corn, distributed on five corn kernels. Then the hand rotates the corn again and puts it back on the white towel. Two hands appear in the picture and put on blue gloves, then put a metal square box containing a scalpel on the white towel at the top of the corn."
+    },
+    {
+        "second": 6,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PDUfdIacMIM/output_frames/sec_6_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[4-12] The hand begins to rotate the corn, and the corn's face turns with it. Then you can see five cartoon faces on the back of the corn, distributed on five corn kernels. Then the hand rotates the corn again and puts it back on the white towel. Two hands appear in the picture and put on blue gloves, then put a metal square box containing a scalpel on the white towel at the top of the corn."
+    },
+    {
+        "second": 7,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PDUfdIacMIM/output_frames/sec_7_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[4-12] The hand begins to rotate the corn, and the corn's face turns with it. Then you can see five cartoon faces on the back of the corn, distributed on five corn kernels. Then the hand rotates the corn again and puts it back on the white towel. Two hands appear in the picture and put on blue gloves, then put a metal square box containing a scalpel on the white towel at the top of the corn."
+    },
+    {
+        "second": 8,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PDUfdIacMIM/output_frames/sec_8_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[4-12] The hand begins to rotate the corn, and the corn's face turns with it. Then you can see five cartoon faces on the back of the corn, distributed on five corn kernels. Then the hand rotates the corn again and puts it back on the white towel. Two hands appear in the picture and put on blue gloves, then put a metal square box containing a scalpel on the white towel at the top of the corn."
+    },
+    {
+        "second": 9,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PDUfdIacMIM/output_frames/sec_9_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[4-12] The hand begins to rotate the corn, and the corn's face turns with it. Then you can see five cartoon faces on the back of the corn, distributed on five corn kernels. Then the hand rotates the corn again and puts it back on the white towel. Two hands appear in the picture and put on blue gloves, then put a metal square box containing a scalpel on the white towel at the top of the corn."
+    },
+    {
+        "second": 10,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PDUfdIacMIM/output_frames/sec_10_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[4-12] The hand begins to rotate the corn, and the corn's face turns with it. Then you can see five cartoon faces on the back of the corn, distributed on five corn kernels. Then the hand rotates the corn again and puts it back on the white towel. Two hands appear in the picture and put on blue gloves, then put a metal square box containing a scalpel on the white towel at the top of the corn."
+    },
+    {
+        "second": 11,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PDUfdIacMIM/output_frames/sec_11_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[4-12] The hand begins to rotate the corn, and the corn's face turns with it. Then you can see five cartoon faces on the back of the corn, distributed on five corn kernels. Then the hand rotates the corn again and puts it back on the white towel. Two hands appear in the picture and put on blue gloves, then put a metal square box containing a scalpel on the white towel at the top of the corn."
+    },
+    {
+        "second": 12,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PDUfdIacMIM/output_frames/sec_12_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[4-12] The hand begins to rotate the corn, and the corn's face turns with it. Then you can see five cartoon faces on the back of the corn, distributed on five corn kernels. Then the hand rotates the corn again and puts it back on the white towel. Two hands appear in the picture and put on blue gloves, then put a metal square box containing a scalpel on the white towel at the top of the corn."
+    },
+    {
+        "second": 13,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PDUfdIacMIM/output_frames/sec_13_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[12-20] Then the scene switches to a white background, a pair of hands wearing blue gloves is using a syringe to draw liquid from a medicine bottle. After drawing a portion of the liquid, pull out the needle, and then gently flick the syringe with the right hand. Then gently push the syringe, and liquid flows out of the needle. Then the picture turns to the corn, and a pair of hands wearing blue gloves are using a syringe to inject the corn. The cartoon face on the corn turns into a scared expression. Then the medicine in the syringe is injected into the corn, and then the syringe is pulled out."
+    },
+    {
+        "second": 14,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PDUfdIacMIM/output_frames/sec_14_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[12-20] Then the scene switches to a white background, a pair of hands wearing blue gloves is using a syringe to draw liquid from a medicine bottle. After drawing a portion of the liquid, pull out the needle, and then gently flick the syringe with the right hand. Then gently push the syringe, and liquid flows out of the needle. Then the picture turns to the corn, and a pair of hands wearing blue gloves are using a syringe to inject the corn. The cartoon face on the corn turns into a scared expression. Then the medicine in the syringe is injected into the corn, and then the syringe is pulled out."
+    },
+    {
+        "second": 15,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PDUfdIacMIM/output_frames/sec_15_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[12-20] Then the scene switches to a white background, a pair of hands wearing blue gloves is using a syringe to draw liquid from a medicine bottle. After drawing a portion of the liquid, pull out the needle, and then gently flick the syringe with the right hand. Then gently push the syringe, and liquid flows out of the needle. Then the picture turns to the corn, and a pair of hands wearing blue gloves are using a syringe to inject the corn. The cartoon face on the corn turns into a scared expression. Then the medicine in the syringe is injected into the corn, and then the syringe is pulled out."
+    },
+    {
+        "second": 16,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PDUfdIacMIM/output_frames/sec_16_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[12-20] Then the scene switches to a white background, a pair of hands wearing blue gloves is using a syringe to draw liquid from a medicine bottle. After drawing a portion of the liquid, pull out the needle, and then gently flick the syringe with the right hand. Then gently push the syringe, and liquid flows out of the needle. Then the picture turns to the corn, and a pair of hands wearing blue gloves are using a syringe to inject the corn. The cartoon face on the corn turns into a scared expression. Then the medicine in the syringe is injected into the corn, and then the syringe is pulled out."
+    },
+    {
+        "second": 17,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PDUfdIacMIM/output_frames/sec_17_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[12-20] Then the scene switches to a white background, a pair of hands wearing blue gloves is using a syringe to draw liquid from a medicine bottle. After drawing a portion of the liquid, pull out the needle, and then gently flick the syringe with the right hand. Then gently push the syringe, and liquid flows out of the needle. Then the picture turns to the corn, and a pair of hands wearing blue gloves are using a syringe to inject the corn. The cartoon face on the corn turns into a scared expression. Then the medicine in the syringe is injected into the corn, and then the syringe is pulled out."
+    },
+    {
+        "second": 18,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PDUfdIacMIM/output_frames/sec_18_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[12-20] Then the scene switches to a white background, a pair of hands wearing blue gloves is using a syringe to draw liquid from a medicine bottle. After drawing a portion of the liquid, pull out the needle, and then gently flick the syringe with the right hand. Then gently push the syringe, and liquid flows out of the needle. Then the picture turns to the corn, and a pair of hands wearing blue gloves are using a syringe to inject the corn. The cartoon face on the corn turns into a scared expression. Then the medicine in the syringe is injected into the corn, and then the syringe is pulled out."
+    },
+    {
+        "second": 19,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PDUfdIacMIM/output_frames/sec_19_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[12-20] Then the scene switches to a white background, a pair of hands wearing blue gloves is using a syringe to draw liquid from a medicine bottle. After drawing a portion of the liquid, pull out the needle, and then gently flick the syringe with the right hand. Then gently push the syringe, and liquid flows out of the needle. Then the picture turns to the corn, and a pair of hands wearing blue gloves are using a syringe to inject the corn. The cartoon face on the corn turns into a scared expression. Then the medicine in the syringe is injected into the corn, and then the syringe is pulled out."
+    },
+    {
+        "second": 20,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PDUfdIacMIM/output_frames/sec_20_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[12-20] Then the scene switches to a white background, a pair of hands wearing blue gloves is using a syringe to draw liquid from a medicine bottle. After drawing a portion of the liquid, pull out the needle, and then gently flick the syringe with the right hand. Then gently push the syringe, and liquid flows out of the needle. Then the picture turns to the corn, and a pair of hands wearing blue gloves are using a syringe to inject the corn. The cartoon face on the corn turns into a scared expression. Then the medicine in the syringe is injected into the corn, and then the syringe is pulled out."
+    },
+    {
+        "second": 21,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PDUfdIacMIM/output_frames/sec_21_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[20-27] The hand wearing blue gloves picks up the corn again and rotates it to the left, showing the back of the corn to the camera. Then the lens focuses on the smiling cartoon face of the corn, and uses tweezers to pull out the corn kernel with the expression."
+    },
+    {
+        "second": 22,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PDUfdIacMIM/output_frames/sec_22_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[20-27] The hand wearing blue gloves picks up the corn again and rotates it to the left, showing the back of the corn to the camera. Then the lens focuses on the smiling cartoon face of the corn, and uses tweezers to pull out the corn kernel with the expression."
+    },
+    {
+        "second": 23,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PDUfdIacMIM/output_frames/sec_23_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[20-27] The hand wearing blue gloves picks up the corn again and rotates it to the left, showing the back of the corn to the camera. Then the lens focuses on the smiling cartoon face of the corn, and uses tweezers to pull out the corn kernel with the expression."
+    },
+    {
+        "second": 24,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PDUfdIacMIM/output_frames/sec_24_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[20-27] The hand wearing blue gloves picks up the corn again and rotates it to the left, showing the back of the corn to the camera. Then the lens focuses on the smiling cartoon face of the corn, and uses tweezers to pull out the corn kernel with the expression."
+    },
+    {
+        "second": 25,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PDUfdIacMIM/output_frames/sec_25_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[20-27] The hand wearing blue gloves picks up the corn again and rotates it to the left, showing the back of the corn to the camera. Then the lens focuses on the smiling cartoon face of the corn, and uses tweezers to pull out the corn kernel with the expression."
+    },
+    {
+        "second": 26,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PDUfdIacMIM/output_frames/sec_26_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[20-27] The hand wearing blue gloves picks up the corn again and rotates it to the left, showing the back of the corn to the camera. Then the lens focuses on the smiling cartoon face of the corn, and uses tweezers to pull out the corn kernel with the expression."
+    },
+    {
+        "second": 27,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PDUfdIacMIM/output_frames/sec_27_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[20-27] The hand wearing blue gloves picks up the corn again and rotates it to the left, showing the back of the corn to the camera. Then the lens focuses on the smiling cartoon face of the corn, and uses tweezers to pull out the corn kernel with the expression."
+    },
+    {
+        "second": 28,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PDUfdIacMIM/output_frames/sec_28_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[27-34] Then repeat this step, use tweezers to pull out a corn kernel with a painful expression on the left and move it out of the picture."
+    },
+    {
+        "second": 29,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PDUfdIacMIM/output_frames/sec_29_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[27-34] Then repeat this step, use tweezers to pull out a corn kernel with a painful expression on the left and move it out of the picture."
+    },
+    {
+        "second": 30,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PDUfdIacMIM/output_frames/sec_30_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[27-34] Then repeat this step, use tweezers to pull out a corn kernel with a painful expression on the left and move it out of the picture."
+    },
+    {
+        "second": 31,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PDUfdIacMIM/output_frames/sec_31_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[27-34] Then repeat this step, use tweezers to pull out a corn kernel with a painful expression on the left and move it out of the picture."
+    },
+    {
+        "second": 32,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PDUfdIacMIM/output_frames/sec_32_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[27-34] Then repeat this step, use tweezers to pull out a corn kernel with a painful expression on the left and move it out of the picture."
+    },
+    {
+        "second": 33,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PDUfdIacMIM/output_frames/sec_33_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[27-34] Then repeat this step, use tweezers to pull out a corn kernel with a painful expression on the left and move it out of the picture."
+    },
+    {
+        "second": 34,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PDUfdIacMIM/output_frames/sec_34_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[27-34] Then repeat this step, use tweezers to pull out a corn kernel with a painful expression on the left and move it out of the picture."
+    },
+    {
+        "second": 35,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PDUfdIacMIM/output_frames/sec_35_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[34-39] Then continue to use tweezers to remove the corn kernels with expressions. After the corn kernels are pulled out, the expressions change from round eyes to squinted eyes."
+    },
+    {
+        "second": 36,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PDUfdIacMIM/output_frames/sec_36_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[34-39] Then continue to use tweezers to remove the corn kernels with expressions. After the corn kernels are pulled out, the expressions change from round eyes to squinted eyes."
+    },
+    {
+        "second": 37,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PDUfdIacMIM/output_frames/sec_37_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[34-39] Then continue to use tweezers to remove the corn kernels with expressions. After the corn kernels are pulled out, the expressions change from round eyes to squinted eyes."
+    },
+    {
+        "second": 38,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PDUfdIacMIM/output_frames/sec_38_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[34-39] Then continue to use tweezers to remove the corn kernels with expressions. After the corn kernels are pulled out, the expressions change from round eyes to squinted eyes."
+    },
+    {
+        "second": 39,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PDUfdIacMIM/output_frames/sec_39_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[34-39] Then continue to use tweezers to remove the corn kernels with expressions. After the corn kernels are pulled out, the expressions change from round eyes to squinted eyes."
+    },
+    {
+        "second": 40,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PDUfdIacMIM/output_frames/sec_40_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[39-45] The picture switches to the top corn kernel, repeats the previous operation, and takes out another corn kernel with an expression. Then move the corn kernel to the lower right corner of the screen, at this time the picture focuses on the last corn kernel with an expression."
+    },
+    {
+        "second": 41,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PDUfdIacMIM/output_frames/sec_41_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[39-45] The picture switches to the top corn kernel, repeats the previous operation, and takes out another corn kernel with an expression. Then move the corn kernel to the lower right corner of the screen, at this time the picture focuses on the last corn kernel with an expression."
+    },
+    {
+        "second": 42,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PDUfdIacMIM/output_frames/sec_42_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[39-45] The picture switches to the top corn kernel, repeats the previous operation, and takes out another corn kernel with an expression. Then move the corn kernel to the lower right corner of the screen, at this time the picture focuses on the last corn kernel with an expression."
+    },
+    {
+        "second": 43,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PDUfdIacMIM/output_frames/sec_43_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[39-45] The picture switches to the top corn kernel, repeats the previous operation, and takes out another corn kernel with an expression. Then move the corn kernel to the lower right corner of the screen, at this time the picture focuses on the last corn kernel with an expression."
+    },
+    {
+        "second": 44,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PDUfdIacMIM/output_frames/sec_44_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[39-45] The picture switches to the top corn kernel, repeats the previous operation, and takes out another corn kernel with an expression. Then move the corn kernel to the lower right corner of the screen, at this time the picture focuses on the last corn kernel with an expression."
+    },
+    {
+        "second": 45,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PDUfdIacMIM/output_frames/sec_45_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[39-45] The picture switches to the top corn kernel, repeats the previous operation, and takes out another corn kernel with an expression. Then move the corn kernel to the lower right corner of the screen, at this time the picture focuses on the last corn kernel with an expression."
+    },
+    {
+        "second": 46,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PDUfdIacMIM/output_frames/sec_46_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[45-54] A metal instrument appears in the picture, and then use tweezers to remove the last corn kernel with an expression. Now there are five small gaps in the corn."
+    },
+    {
+        "second": 47,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PDUfdIacMIM/output_frames/sec_47_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[45-54] A metal instrument appears in the picture, and then use tweezers to remove the last corn kernel with an expression. Now there are five small gaps in the corn."
+    },
+    {
+        "second": 48,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PDUfdIacMIM/output_frames/sec_48_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[45-54] A metal instrument appears in the picture, and then use tweezers to remove the last corn kernel with an expression. Now there are five small gaps in the corn."
+    },
+    {
+        "second": 49,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PDUfdIacMIM/output_frames/sec_49_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[45-54] A metal instrument appears in the picture, and then use tweezers to remove the last corn kernel with an expression. Now there are five small gaps in the corn."
+    },
+    {
+        "second": 50,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PDUfdIacMIM/output_frames/sec_50_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[45-54] A metal instrument appears in the picture, and then use tweezers to remove the last corn kernel with an expression. Now there are five small gaps in the corn."
+    },
+    {
+        "second": 51,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PDUfdIacMIM/output_frames/sec_51_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[45-54] A metal instrument appears in the picture, and then use tweezers to remove the last corn kernel with an expression. Now there are five small gaps in the corn."
+    },
+    {
+        "second": 52,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PDUfdIacMIM/output_frames/sec_52_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[45-54] A metal instrument appears in the picture, and then use tweezers to remove the last corn kernel with an expression. Now there are five small gaps in the corn."
+    },
+    {
+        "second": 53,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PDUfdIacMIM/output_frames/sec_53_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[45-54] A metal instrument appears in the picture, and then use tweezers to remove the last corn kernel with an expression. Now there are five small gaps in the corn."
+    },
+    {
+        "second": 54,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PDUfdIacMIM/output_frames/sec_54_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[45-54] A metal instrument appears in the picture, and then use tweezers to remove the last corn kernel with an expression. Now there are five small gaps in the corn."
+    },
+    {
+        "second": 55,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PDUfdIacMIM/output_frames/sec_55_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[54-56] The corn is placed in a row with five corn kernels in front of a white background. The five corn kernels are arranged in a column, each with a different expression. The corn blinked and looked at the corn kernels on the right, and the picture ended here."
+    },
+    {
+        "second": 56,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PDUfdIacMIM/output_frames/sec_56_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[54-56] The corn is placed in a row with five corn kernels in front of a white background. The five corn kernels are arranged in a column, each with a different expression. The corn blinked and looked at the corn kernels on the right, and the picture ended here."
+    }
+]

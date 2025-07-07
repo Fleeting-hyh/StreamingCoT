@@ -1,0 +1,58 @@
+[
+    {
+        "second": 0,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3FCKNnZBZ60/output_frames/sec_0_idx_8.jpg",
+        "fps": 60,
+        "explanation": "[0-0] In a sheep pen made of cement and bricks, a woman wearing a pink coat and blue jeans stands in front of a metal gate at the top of a ramp. The ramp is made of many cylindrical logs fixed on two wooden beams, supported by several pillars. A flock of sheep of various colors stand on the ramp. There are some pieces of broken stone on the ground below the ramp, and a blue object on the left."
+    },
+    {
+        "second": 1,
+        "frame_index": 43,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3FCKNnZBZ60/output_frames/sec_1_idx_43.jpg",
+        "fps": 60,
+        "explanation": "[0-4] Then the woman in the pink coat walks to the gate, opens the gate to the left, and walks in first. A few sheep fall from the ramp, and then a flock of sheep of various colors rush into the pen impatiently."
+    },
+    {
+        "second": 2,
+        "frame_index": 35,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3FCKNnZBZ60/output_frames/sec_2_idx_35.jpg",
+        "fps": 60,
+        "explanation": "[0-4] Then the woman in the pink coat walks to the gate, opens the gate to the left, and walks in first. A few sheep fall from the ramp, and then a flock of sheep of various colors rush into the pen impatiently."
+    },
+    {
+        "second": 3,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3FCKNnZBZ60/output_frames/sec_3_idx_8.jpg",
+        "fps": 60,
+        "explanation": "[0-4] Then the woman in the pink coat walks to the gate, opens the gate to the left, and walks in first. A few sheep fall from the ramp, and then a flock of sheep of various colors rush into the pen impatiently."
+    },
+    {
+        "second": 4,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3FCKNnZBZ60/output_frames/sec_4_idx_25.jpg",
+        "fps": 60,
+        "explanation": "[0-4] Then the woman in the pink coat walks to the gate, opens the gate to the left, and walks in first. A few sheep fall from the ramp, and then a flock of sheep of various colors rush into the pen impatiently."
+    },
+    {
+        "second": 5,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3FCKNnZBZ60/output_frames/sec_5_idx_12.jpg",
+        "fps": 60,
+        "explanation": "[4-7] Subsequently, the flock continues to run into the pen."
+    },
+    {
+        "second": 6,
+        "frame_index": 49,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3FCKNnZBZ60/output_frames/sec_6_idx_49.jpg",
+        "fps": 60,
+        "explanation": "[4-7] Subsequently, the flock continues to run into the pen."
+    },
+    {
+        "second": 7,
+        "frame_index": 41,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3FCKNnZBZ60/output_frames/sec_7_idx_41.jpg",
+        "fps": 60,
+        "explanation": "[4-7] Subsequently, the flock continues to run into the pen."
+    }
+]

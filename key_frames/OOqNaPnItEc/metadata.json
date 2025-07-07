@@ -1,0 +1,79 @@
+[
+    {
+        "second": 0,
+        "frame_index": 34,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/OOqNaPnItEc/output_frames/sec_0_idx_34.jpg",
+        "fps": 60,
+        "explanation": "[0-0] On a wide highway, a motorcycle appears in the distance."
+    },
+    {
+        "second": 1,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/OOqNaPnItEc/output_frames/sec_1_idx_3.jpg",
+        "fps": 60,
+        "explanation": "[0-8] The motorcycle then speeds towards the camera, the rear end lifts, and the bike flips over, throwing the rider to the right side of the frame, who does a somersault and looks around."
+    },
+    {
+        "second": 2,
+        "frame_index": 45,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/OOqNaPnItEc/output_frames/sec_2_idx_45.jpg",
+        "fps": 60,
+        "explanation": "[0-8] The motorcycle then speeds towards the camera, the rear end lifts, and the bike flips over, throwing the rider to the right side of the frame, who does a somersault and looks around."
+    },
+    {
+        "second": 3,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/OOqNaPnItEc/output_frames/sec_3_idx_6.jpg",
+        "fps": 60,
+        "explanation": "[0-8] The motorcycle then speeds towards the camera, the rear end lifts, and the bike flips over, throwing the rider to the right side of the frame, who does a somersault and looks around."
+    },
+    {
+        "second": 4,
+        "frame_index": 49,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/OOqNaPnItEc/output_frames/sec_4_idx_49.jpg",
+        "fps": 60,
+        "explanation": "[0-8] The motorcycle then speeds towards the camera, the rear end lifts, and the bike flips over, throwing the rider to the right side of the frame, who does a somersault and looks around."
+    },
+    {
+        "second": 5,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/OOqNaPnItEc/output_frames/sec_5_idx_4.jpg",
+        "fps": 60,
+        "explanation": "[0-8] The motorcycle then speeds towards the camera, the rear end lifts, and the bike flips over, throwing the rider to the right side of the frame, who does a somersault and looks around."
+    },
+    {
+        "second": 6,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/OOqNaPnItEc/output_frames/sec_6_idx_21.jpg",
+        "fps": 60,
+        "explanation": "[0-8] The motorcycle then speeds towards the camera, the rear end lifts, and the bike flips over, throwing the rider to the right side of the frame, who does a somersault and looks around."
+    },
+    {
+        "second": 7,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/OOqNaPnItEc/output_frames/sec_7_idx_25.jpg",
+        "fps": 60,
+        "explanation": "[0-8] The motorcycle then speeds towards the camera, the rear end lifts, and the bike flips over, throwing the rider to the right side of the frame, who does a somersault and looks around."
+    },
+    {
+        "second": 8,
+        "frame_index": 34,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/OOqNaPnItEc/output_frames/sec_8_idx_34.jpg",
+        "fps": 60,
+        "explanation": "[0-8] The motorcycle then speeds towards the camera, the rear end lifts, and the bike flips over, throwing the rider to the right side of the frame, who does a somersault and looks around."
+    },
+    {
+        "second": 9,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/OOqNaPnItEc/output_frames/sec_9_idx_1.jpg",
+        "fps": 60,
+        "explanation": "[8-10] Finally, the rider stands up and walks towards the motorcycle."
+    },
+    {
+        "second": 10,
+        "frame_index": 37,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/OOqNaPnItEc/output_frames/sec_10_idx_37.jpg",
+        "fps": 60,
+        "explanation": "[8-10] Finally, the rider stands up and walks towards the motorcycle."
+    }
+]

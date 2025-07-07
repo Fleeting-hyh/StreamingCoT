@@ -1,0 +1,65 @@
+[
+    {
+        "second": 0,
+        "frame_index": 31,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2BxYpP9noDM/output_frames/sec_0_idx_31.jpg",
+        "fps": 50,
+        "explanation": "[0-0] A woman in a black bikini is standing on a platform, with long black hair draped down her back. She's holding a blue water slide mat. Green plants and distant hills are visible in the background."
+    },
+    {
+        "second": 1,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2BxYpP9noDM/output_frames/sec_1_idx_7.jpg",
+        "fps": 50,
+        "explanation": "[0-2] The camera then pans to the right, revealing another woman in a bikini with short hair in front. She's also holding a blue water slide mat and is standing at the edge of a water slide. The camera cuts back to the woman with long black hair in the black bikini as she crouches down and places her mat on the water slide."
+    },
+    {
+        "second": 2,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2BxYpP9noDM/output_frames/sec_2_idx_5.jpg",
+        "fps": 50,
+        "explanation": "[0-2] The camera then pans to the right, revealing another woman in a bikini with short hair in front. She's also holding a blue water slide mat and is standing at the edge of a water slide. The camera cuts back to the woman with long black hair in the black bikini as she crouches down and places her mat on the water slide."
+    },
+    {
+        "second": 3,
+        "frame_index": 39,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2BxYpP9noDM/output_frames/sec_3_idx_39.jpg",
+        "fps": 50,
+        "explanation": "[2-5] Immediately, the scene shifts to the water slide, where a woman in a black bikini lies on her stomach on the blue mat and begins to slide down. Many people can be seen playing below in the distance, along with green plants and some buildings to the left. She slides down quickly, splashing water everywhere at high speed."
+    },
+    {
+        "second": 4,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2BxYpP9noDM/output_frames/sec_4_idx_12.jpg",
+        "fps": 50,
+        "explanation": "[2-5] Immediately, the scene shifts to the water slide, where a woman in a black bikini lies on her stomach on the blue mat and begins to slide down. Many people can be seen playing below in the distance, along with green plants and some buildings to the left. She slides down quickly, splashing water everywhere at high speed."
+    },
+    {
+        "second": 5,
+        "frame_index": 41,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2BxYpP9noDM/output_frames/sec_5_idx_41.jpg",
+        "fps": 50,
+        "explanation": "[2-5] Immediately, the scene shifts to the water slide, where a woman in a black bikini lies on her stomach on the blue mat and begins to slide down. Many people can be seen playing below in the distance, along with green plants and some buildings to the left. She slides down quickly, splashing water everywhere at high speed."
+    },
+    {
+        "second": 6,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2BxYpP9noDM/output_frames/sec_6_idx_25.jpg",
+        "fps": 50,
+        "explanation": "[5-8] The camera then continues to move down the water slide, revealing other people sliding down adjacent slides. The shot zooms in on the water slide, showing splashing water. Then, a person is seen sliding down from above."
+    },
+    {
+        "second": 7,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2BxYpP9noDM/output_frames/sec_7_idx_1.jpg",
+        "fps": 50,
+        "explanation": "[5-8] The camera then continues to move down the water slide, revealing other people sliding down adjacent slides. The shot zooms in on the water slide, showing splashing water. Then, a person is seen sliding down from above."
+    },
+    {
+        "second": 8,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2BxYpP9noDM/output_frames/sec_8_idx_25.jpg",
+        "fps": 50,
+        "explanation": "[5-8] The camera then continues to move down the water slide, revealing other people sliding down adjacent slides. The shot zooms in on the water slide, showing splashing water. Then, a person is seen sliding down from above."
+    }
+]

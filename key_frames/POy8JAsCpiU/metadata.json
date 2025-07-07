@@ -1,0 +1,352 @@
+[
+    {
+        "second": 0,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/POy8JAsCpiU/output_frames/sec_0_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A man is standing in a living room, holding a glass of orange juice, he is wearing a purple jacket. The living room walls are white, and the living room has a white sofa, yellow curtains and a stone fireplace. Above the man's head, there is a white rectangle with the math problem \"1+1\" inside. Two arrows point down from the rectangle to two answer choices: \"2\" and \"3.\""
+    },
+    {
+        "second": 1,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/POy8JAsCpiU/output_frames/sec_1_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[0-2] The man raises his right hand, tilting his head to the left, and points to the correct answer \"2.\""
+    },
+    {
+        "second": 2,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/POy8JAsCpiU/output_frames/sec_2_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[0-2] The man raises his right hand, tilting his head to the left, and points to the correct answer \"2.\""
+    },
+    {
+        "second": 3,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/POy8JAsCpiU/output_frames/sec_3_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[2-4] Then, the math quiz changes to \"3+3.\" The man looks surprised, continues to tilt his head to the left, and points to the correct answer \"6\" again."
+    },
+    {
+        "second": 4,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/POy8JAsCpiU/output_frames/sec_4_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[2-4] Then, the math quiz changes to \"3+3.\" The man looks surprised, continues to tilt his head to the left, and points to the correct answer \"6\" again."
+    },
+    {
+        "second": 5,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/POy8JAsCpiU/output_frames/sec_5_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[4-8] Subsequently, the quiz continues to change to \"13+13.\" He confidently tilts his head to the right and points to the correct answer \"26.\""
+    },
+    {
+        "second": 6,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/POy8JAsCpiU/output_frames/sec_6_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[4-8] Subsequently, the quiz continues to change to \"13+13.\" He confidently tilts his head to the right and points to the correct answer \"26.\""
+    },
+    {
+        "second": 7,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/POy8JAsCpiU/output_frames/sec_7_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[4-8] Subsequently, the quiz continues to change to \"13+13.\" He confidently tilts his head to the right and points to the correct answer \"26.\""
+    },
+    {
+        "second": 8,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/POy8JAsCpiU/output_frames/sec_8_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[4-8] Subsequently, the quiz continues to change to \"13+13.\" He confidently tilts his head to the right and points to the correct answer \"26.\""
+    },
+    {
+        "second": 9,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/POy8JAsCpiU/output_frames/sec_9_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[8-14] Then, the next question is \"20+10.\" He hesitates, touches his chin, points his finger forward and speaks. Then the man tilts his head to the right and points out the correct answer, \"30.\""
+    },
+    {
+        "second": 10,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/POy8JAsCpiU/output_frames/sec_10_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[8-14] Then, the next question is \"20+10.\" He hesitates, touches his chin, points his finger forward and speaks. Then the man tilts his head to the right and points out the correct answer, \"30.\""
+    },
+    {
+        "second": 11,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/POy8JAsCpiU/output_frames/sec_11_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[8-14] Then, the next question is \"20+10.\" He hesitates, touches his chin, points his finger forward and speaks. Then the man tilts his head to the right and points out the correct answer, \"30.\""
+    },
+    {
+        "second": 12,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/POy8JAsCpiU/output_frames/sec_12_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[8-14] Then, the next question is \"20+10.\" He hesitates, touches his chin, points his finger forward and speaks. Then the man tilts his head to the right and points out the correct answer, \"30.\""
+    },
+    {
+        "second": 13,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/POy8JAsCpiU/output_frames/sec_13_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[8-14] Then, the next question is \"20+10.\" He hesitates, touches his chin, points his finger forward and speaks. Then the man tilts his head to the right and points out the correct answer, \"30.\""
+    },
+    {
+        "second": 14,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/POy8JAsCpiU/output_frames/sec_14_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[8-14] Then, the next question is \"20+10.\" He hesitates, touches his chin, points his finger forward and speaks. Then the man tilts his head to the right and points out the correct answer, \"30.\""
+    },
+    {
+        "second": 15,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/POy8JAsCpiU/output_frames/sec_15_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[14-24] Afterwards, the quiz takes a turn, showing a bunch of gibberish with large numbers as answer choices. The man opens his mouth in surprise, pulls down his sunglasses, and looks forward. Then the man speaks, takes out a brown oval object from the left side, which is skewered on a toothpick, and puts it near his mouth."
+    },
+    {
+        "second": 16,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/POy8JAsCpiU/output_frames/sec_16_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[14-24] Afterwards, the quiz takes a turn, showing a bunch of gibberish with large numbers as answer choices. The man opens his mouth in surprise, pulls down his sunglasses, and looks forward. Then the man speaks, takes out a brown oval object from the left side, which is skewered on a toothpick, and puts it near his mouth."
+    },
+    {
+        "second": 17,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/POy8JAsCpiU/output_frames/sec_17_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[14-24] Afterwards, the quiz takes a turn, showing a bunch of gibberish with large numbers as answer choices. The man opens his mouth in surprise, pulls down his sunglasses, and looks forward. Then the man speaks, takes out a brown oval object from the left side, which is skewered on a toothpick, and puts it near his mouth."
+    },
+    {
+        "second": 18,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/POy8JAsCpiU/output_frames/sec_18_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[14-24] Afterwards, the quiz takes a turn, showing a bunch of gibberish with large numbers as answer choices. The man opens his mouth in surprise, pulls down his sunglasses, and looks forward. Then the man speaks, takes out a brown oval object from the left side, which is skewered on a toothpick, and puts it near his mouth."
+    },
+    {
+        "second": 19,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/POy8JAsCpiU/output_frames/sec_19_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[14-24] Afterwards, the quiz takes a turn, showing a bunch of gibberish with large numbers as answer choices. The man opens his mouth in surprise, pulls down his sunglasses, and looks forward. Then the man speaks, takes out a brown oval object from the left side, which is skewered on a toothpick, and puts it near his mouth."
+    },
+    {
+        "second": 20,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/POy8JAsCpiU/output_frames/sec_20_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[14-24] Afterwards, the quiz takes a turn, showing a bunch of gibberish with large numbers as answer choices. The man opens his mouth in surprise, pulls down his sunglasses, and looks forward. Then the man speaks, takes out a brown oval object from the left side, which is skewered on a toothpick, and puts it near his mouth."
+    },
+    {
+        "second": 21,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/POy8JAsCpiU/output_frames/sec_21_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[14-24] Afterwards, the quiz takes a turn, showing a bunch of gibberish with large numbers as answer choices. The man opens his mouth in surprise, pulls down his sunglasses, and looks forward. Then the man speaks, takes out a brown oval object from the left side, which is skewered on a toothpick, and puts it near his mouth."
+    },
+    {
+        "second": 22,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/POy8JAsCpiU/output_frames/sec_22_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[14-24] Afterwards, the quiz takes a turn, showing a bunch of gibberish with large numbers as answer choices. The man opens his mouth in surprise, pulls down his sunglasses, and looks forward. Then the man speaks, takes out a brown oval object from the left side, which is skewered on a toothpick, and puts it near his mouth."
+    },
+    {
+        "second": 23,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/POy8JAsCpiU/output_frames/sec_23_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[14-24] Afterwards, the quiz takes a turn, showing a bunch of gibberish with large numbers as answer choices. The man opens his mouth in surprise, pulls down his sunglasses, and looks forward. Then the man speaks, takes out a brown oval object from the left side, which is skewered on a toothpick, and puts it near his mouth."
+    },
+    {
+        "second": 24,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/POy8JAsCpiU/output_frames/sec_24_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[14-24] Afterwards, the quiz takes a turn, showing a bunch of gibberish with large numbers as answer choices. The man opens his mouth in surprise, pulls down his sunglasses, and looks forward. Then the man speaks, takes out a brown oval object from the left side, which is skewered on a toothpick, and puts it near his mouth."
+    },
+    {
+        "second": 25,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/POy8JAsCpiU/output_frames/sec_25_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[24-34] Then, the man puts the brown oval object in his mouth, holds the toothpick in front of his face, points it and speaks."
+    },
+    {
+        "second": 26,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/POy8JAsCpiU/output_frames/sec_26_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[24-34] Then, the man puts the brown oval object in his mouth, holds the toothpick in front of his face, points it and speaks."
+    },
+    {
+        "second": 27,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/POy8JAsCpiU/output_frames/sec_27_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[24-34] Then, the man puts the brown oval object in his mouth, holds the toothpick in front of his face, points it and speaks."
+    },
+    {
+        "second": 28,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/POy8JAsCpiU/output_frames/sec_28_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[24-34] Then, the man puts the brown oval object in his mouth, holds the toothpick in front of his face, points it and speaks."
+    },
+    {
+        "second": 29,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/POy8JAsCpiU/output_frames/sec_29_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[24-34] Then, the man puts the brown oval object in his mouth, holds the toothpick in front of his face, points it and speaks."
+    },
+    {
+        "second": 30,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/POy8JAsCpiU/output_frames/sec_30_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[24-34] Then, the man puts the brown oval object in his mouth, holds the toothpick in front of his face, points it and speaks."
+    },
+    {
+        "second": 31,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/POy8JAsCpiU/output_frames/sec_31_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[24-34] Then, the man puts the brown oval object in his mouth, holds the toothpick in front of his face, points it and speaks."
+    },
+    {
+        "second": 32,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/POy8JAsCpiU/output_frames/sec_32_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[24-34] Then, the man puts the brown oval object in his mouth, holds the toothpick in front of his face, points it and speaks."
+    },
+    {
+        "second": 33,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/POy8JAsCpiU/output_frames/sec_33_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[24-34] Then, the man puts the brown oval object in his mouth, holds the toothpick in front of his face, points it and speaks."
+    },
+    {
+        "second": 34,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/POy8JAsCpiU/output_frames/sec_34_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[24-34] Then, the man puts the brown oval object in his mouth, holds the toothpick in front of his face, points it and speaks."
+    },
+    {
+        "second": 35,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/POy8JAsCpiU/output_frames/sec_35_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[34-41] Afterward, the man continues to gesture with the toothpick and speaks. He looks forward with a puzzled expression and then leans back with a confused expression."
+    },
+    {
+        "second": 36,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/POy8JAsCpiU/output_frames/sec_36_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[34-41] Afterward, the man continues to gesture with the toothpick and speaks. He looks forward with a puzzled expression and then leans back with a confused expression."
+    },
+    {
+        "second": 37,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/POy8JAsCpiU/output_frames/sec_37_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[34-41] Afterward, the man continues to gesture with the toothpick and speaks. He looks forward with a puzzled expression and then leans back with a confused expression."
+    },
+    {
+        "second": 38,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/POy8JAsCpiU/output_frames/sec_38_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[34-41] Afterward, the man continues to gesture with the toothpick and speaks. He looks forward with a puzzled expression and then leans back with a confused expression."
+    },
+    {
+        "second": 39,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/POy8JAsCpiU/output_frames/sec_39_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[34-41] Afterward, the man continues to gesture with the toothpick and speaks. He looks forward with a puzzled expression and then leans back with a confused expression."
+    },
+    {
+        "second": 40,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/POy8JAsCpiU/output_frames/sec_40_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[34-41] Afterward, the man continues to gesture with the toothpick and speaks. He looks forward with a puzzled expression and then leans back with a confused expression."
+    },
+    {
+        "second": 41,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/POy8JAsCpiU/output_frames/sec_41_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[34-41] Afterward, the man continues to gesture with the toothpick and speaks. He looks forward with a puzzled expression and then leans back with a confused expression."
+    },
+    {
+        "second": 42,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/POy8JAsCpiU/output_frames/sec_42_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[41-49] Then, the man continues to gesture with the toothpick and speak, tilting his head to the left. Above his head appears a white circle with a black \"100\" in the center and five stars along the bottom edge. The man holds the toothpick in his left hand, shakes it, and looks forward excitedly."
+    },
+    {
+        "second": 43,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/POy8JAsCpiU/output_frames/sec_43_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[41-49] Then, the man continues to gesture with the toothpick and speak, tilting his head to the left. Above his head appears a white circle with a black \"100\" in the center and five stars along the bottom edge. The man holds the toothpick in his left hand, shakes it, and looks forward excitedly."
+    },
+    {
+        "second": 44,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/POy8JAsCpiU/output_frames/sec_44_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[41-49] Then, the man continues to gesture with the toothpick and speak, tilting his head to the left. Above his head appears a white circle with a black \"100\" in the center and five stars along the bottom edge. The man holds the toothpick in his left hand, shakes it, and looks forward excitedly."
+    },
+    {
+        "second": 45,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/POy8JAsCpiU/output_frames/sec_45_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[41-49] Then, the man continues to gesture with the toothpick and speak, tilting his head to the left. Above his head appears a white circle with a black \"100\" in the center and five stars along the bottom edge. The man holds the toothpick in his left hand, shakes it, and looks forward excitedly."
+    },
+    {
+        "second": 46,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/POy8JAsCpiU/output_frames/sec_46_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[41-49] Then, the man continues to gesture with the toothpick and speak, tilting his head to the left. Above his head appears a white circle with a black \"100\" in the center and five stars along the bottom edge. The man holds the toothpick in his left hand, shakes it, and looks forward excitedly."
+    },
+    {
+        "second": 47,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/POy8JAsCpiU/output_frames/sec_47_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[41-49] Then, the man continues to gesture with the toothpick and speak, tilting his head to the left. Above his head appears a white circle with a black \"100\" in the center and five stars along the bottom edge. The man holds the toothpick in his left hand, shakes it, and looks forward excitedly."
+    },
+    {
+        "second": 48,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/POy8JAsCpiU/output_frames/sec_48_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[41-49] Then, the man continues to gesture with the toothpick and speak, tilting his head to the left. Above his head appears a white circle with a black \"100\" in the center and five stars along the bottom edge. The man holds the toothpick in his left hand, shakes it, and looks forward excitedly."
+    },
+    {
+        "second": 49,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/POy8JAsCpiU/output_frames/sec_49_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[41-49] Then, the man continues to gesture with the toothpick and speak, tilting his head to the left. Above his head appears a white circle with a black \"100\" in the center and five stars along the bottom edge. The man holds the toothpick in his left hand, shakes it, and looks forward excitedly."
+    }
+]

@@ -1,0 +1,317 @@
+[
+    {
+        "second": 0,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IZiDTOfz6G0/output_frames/sec_0_idx_9.jpg",
+        "fps": 60,
+        "explanation": "[0-0] A person wearing a black top and jeans is holding a large watermelon. In front of the person is a brown plate with white spots, on which lies a black knife. There is a white refrigerator in the background."
+    },
+    {
+        "second": 1,
+        "frame_index": 46,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IZiDTOfz6G0/output_frames/sec_1_idx_46.jpg",
+        "fps": 60,
+        "explanation": "[0-9] Then the person puts the watermelon on the plate, puts on a blue glove on their left hand, and uses the knife to cut off the watermelon rind."
+    },
+    {
+        "second": 2,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IZiDTOfz6G0/output_frames/sec_2_idx_14.jpg",
+        "fps": 60,
+        "explanation": "[0-9] Then the person puts the watermelon on the plate, puts on a blue glove on their left hand, and uses the knife to cut off the watermelon rind."
+    },
+    {
+        "second": 3,
+        "frame_index": 38,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IZiDTOfz6G0/output_frames/sec_3_idx_38.jpg",
+        "fps": 60,
+        "explanation": "[0-9] Then the person puts the watermelon on the plate, puts on a blue glove on their left hand, and uses the knife to cut off the watermelon rind."
+    },
+    {
+        "second": 4,
+        "frame_index": 33,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IZiDTOfz6G0/output_frames/sec_4_idx_33.jpg",
+        "fps": 60,
+        "explanation": "[0-9] Then the person puts the watermelon on the plate, puts on a blue glove on their left hand, and uses the knife to cut off the watermelon rind."
+    },
+    {
+        "second": 5,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IZiDTOfz6G0/output_frames/sec_5_idx_18.jpg",
+        "fps": 60,
+        "explanation": "[0-9] Then the person puts the watermelon on the plate, puts on a blue glove on their left hand, and uses the knife to cut off the watermelon rind."
+    },
+    {
+        "second": 6,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IZiDTOfz6G0/output_frames/sec_6_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[0-9] Then the person puts the watermelon on the plate, puts on a blue glove on their left hand, and uses the knife to cut off the watermelon rind."
+    },
+    {
+        "second": 7,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IZiDTOfz6G0/output_frames/sec_7_idx_11.jpg",
+        "fps": 60,
+        "explanation": "[0-9] Then the person puts the watermelon on the plate, puts on a blue glove on their left hand, and uses the knife to cut off the watermelon rind."
+    },
+    {
+        "second": 8,
+        "frame_index": 56,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IZiDTOfz6G0/output_frames/sec_8_idx_56.jpg",
+        "fps": 60,
+        "explanation": "[0-9] Then the person puts the watermelon on the plate, puts on a blue glove on their left hand, and uses the knife to cut off the watermelon rind."
+    },
+    {
+        "second": 9,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IZiDTOfz6G0/output_frames/sec_9_idx_26.jpg",
+        "fps": 60,
+        "explanation": "[0-9] Then the person puts the watermelon on the plate, puts on a blue glove on their left hand, and uses the knife to cut off the watermelon rind."
+    },
+    {
+        "second": 10,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IZiDTOfz6G0/output_frames/sec_10_idx_14.jpg",
+        "fps": 60,
+        "explanation": "[9-16] The person stands the watermelon upright, cuts the watermelon in half with the knife, then places the watermelon on the plate and slices it with the knife."
+    },
+    {
+        "second": 11,
+        "frame_index": 30,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IZiDTOfz6G0/output_frames/sec_11_idx_30.jpg",
+        "fps": 60,
+        "explanation": "[9-16] The person stands the watermelon upright, cuts the watermelon in half with the knife, then places the watermelon on the plate and slices it with the knife."
+    },
+    {
+        "second": 12,
+        "frame_index": 55,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IZiDTOfz6G0/output_frames/sec_12_idx_55.jpg",
+        "fps": 60,
+        "explanation": "[9-16] The person stands the watermelon upright, cuts the watermelon in half with the knife, then places the watermelon on the plate and slices it with the knife."
+    },
+    {
+        "second": 13,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IZiDTOfz6G0/output_frames/sec_13_idx_5.jpg",
+        "fps": 60,
+        "explanation": "[9-16] The person stands the watermelon upright, cuts the watermelon in half with the knife, then places the watermelon on the plate and slices it with the knife."
+    },
+    {
+        "second": 14,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IZiDTOfz6G0/output_frames/sec_14_idx_2.jpg",
+        "fps": 60,
+        "explanation": "[9-16] The person stands the watermelon upright, cuts the watermelon in half with the knife, then places the watermelon on the plate and slices it with the knife."
+    },
+    {
+        "second": 15,
+        "frame_index": 56,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IZiDTOfz6G0/output_frames/sec_15_idx_56.jpg",
+        "fps": 60,
+        "explanation": "[9-16] The person stands the watermelon upright, cuts the watermelon in half with the knife, then places the watermelon on the plate and slices it with the knife."
+    },
+    {
+        "second": 16,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IZiDTOfz6G0/output_frames/sec_16_idx_9.jpg",
+        "fps": 60,
+        "explanation": "[9-16] The person stands the watermelon upright, cuts the watermelon in half with the knife, then places the watermelon on the plate and slices it with the knife."
+    },
+    {
+        "second": 17,
+        "frame_index": 42,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IZiDTOfz6G0/output_frames/sec_17_idx_42.jpg",
+        "fps": 60,
+        "explanation": "[16-26] The person continues to dice the watermelon with the knife."
+    },
+    {
+        "second": 18,
+        "frame_index": 45,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IZiDTOfz6G0/output_frames/sec_18_idx_45.jpg",
+        "fps": 60,
+        "explanation": "[16-26] The person continues to dice the watermelon with the knife."
+    },
+    {
+        "second": 19,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IZiDTOfz6G0/output_frames/sec_19_idx_3.jpg",
+        "fps": 60,
+        "explanation": "[16-26] The person continues to dice the watermelon with the knife."
+    },
+    {
+        "second": 20,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IZiDTOfz6G0/output_frames/sec_20_idx_12.jpg",
+        "fps": 60,
+        "explanation": "[16-26] The person continues to dice the watermelon with the knife."
+    },
+    {
+        "second": 21,
+        "frame_index": 43,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IZiDTOfz6G0/output_frames/sec_21_idx_43.jpg",
+        "fps": 60,
+        "explanation": "[16-26] The person continues to dice the watermelon with the knife."
+    },
+    {
+        "second": 22,
+        "frame_index": 43,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IZiDTOfz6G0/output_frames/sec_22_idx_43.jpg",
+        "fps": 60,
+        "explanation": "[16-26] The person continues to dice the watermelon with the knife."
+    },
+    {
+        "second": 23,
+        "frame_index": 53,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IZiDTOfz6G0/output_frames/sec_23_idx_53.jpg",
+        "fps": 60,
+        "explanation": "[16-26] The person continues to dice the watermelon with the knife."
+    },
+    {
+        "second": 24,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IZiDTOfz6G0/output_frames/sec_24_idx_3.jpg",
+        "fps": 60,
+        "explanation": "[16-26] The person continues to dice the watermelon with the knife."
+    },
+    {
+        "second": 25,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IZiDTOfz6G0/output_frames/sec_25_idx_20.jpg",
+        "fps": 60,
+        "explanation": "[16-26] The person continues to dice the watermelon with the knife."
+    },
+    {
+        "second": 26,
+        "frame_index": 57,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IZiDTOfz6G0/output_frames/sec_26_idx_57.jpg",
+        "fps": 60,
+        "explanation": "[16-26] The person continues to dice the watermelon with the knife."
+    },
+    {
+        "second": 27,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IZiDTOfz6G0/output_frames/sec_27_idx_6.jpg",
+        "fps": 60,
+        "explanation": "[26-33] Then the person takes the plate of diced watermelon, pours the watermelon into a transparent container on the left, and then sprinkles white powder on the watermelon."
+    },
+    {
+        "second": 28,
+        "frame_index": 32,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IZiDTOfz6G0/output_frames/sec_28_idx_32.jpg",
+        "fps": 60,
+        "explanation": "[26-33] Then the person takes the plate of diced watermelon, pours the watermelon into a transparent container on the left, and then sprinkles white powder on the watermelon."
+    },
+    {
+        "second": 29,
+        "frame_index": 58,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IZiDTOfz6G0/output_frames/sec_29_idx_58.jpg",
+        "fps": 60,
+        "explanation": "[26-33] Then the person takes the plate of diced watermelon, pours the watermelon into a transparent container on the left, and then sprinkles white powder on the watermelon."
+    },
+    {
+        "second": 30,
+        "frame_index": 42,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IZiDTOfz6G0/output_frames/sec_30_idx_42.jpg",
+        "fps": 60,
+        "explanation": "[26-33] Then the person takes the plate of diced watermelon, pours the watermelon into a transparent container on the left, and then sprinkles white powder on the watermelon."
+    },
+    {
+        "second": 31,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IZiDTOfz6G0/output_frames/sec_31_idx_3.jpg",
+        "fps": 60,
+        "explanation": "[26-33] Then the person takes the plate of diced watermelon, pours the watermelon into a transparent container on the left, and then sprinkles white powder on the watermelon."
+    },
+    {
+        "second": 32,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IZiDTOfz6G0/output_frames/sec_32_idx_17.jpg",
+        "fps": 60,
+        "explanation": "[26-33] Then the person takes the plate of diced watermelon, pours the watermelon into a transparent container on the left, and then sprinkles white powder on the watermelon."
+    },
+    {
+        "second": 33,
+        "frame_index": 39,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IZiDTOfz6G0/output_frames/sec_33_idx_39.jpg",
+        "fps": 60,
+        "explanation": "[26-33] Then the person takes the plate of diced watermelon, pours the watermelon into a transparent container on the left, and then sprinkles white powder on the watermelon."
+    },
+    {
+        "second": 34,
+        "frame_index": 35,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IZiDTOfz6G0/output_frames/sec_34_idx_35.jpg",
+        "fps": 60,
+        "explanation": "[33-40] Then the person pours water and ice cubes into the transparent container containing the watermelon, and then uses a large spoon to continuously stir the watermelon and ice cubes in the transparent container to mix them thoroughly. Then the person puts a plastic bottle-shaped ice cube into the transparent container and presses the ice cube into the watermelon juice with their hand."
+    },
+    {
+        "second": 35,
+        "frame_index": 48,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IZiDTOfz6G0/output_frames/sec_35_idx_48.jpg",
+        "fps": 60,
+        "explanation": "[33-40] Then the person pours water and ice cubes into the transparent container containing the watermelon, and then uses a large spoon to continuously stir the watermelon and ice cubes in the transparent container to mix them thoroughly. Then the person puts a plastic bottle-shaped ice cube into the transparent container and presses the ice cube into the watermelon juice with their hand."
+    },
+    {
+        "second": 36,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IZiDTOfz6G0/output_frames/sec_36_idx_15.jpg",
+        "fps": 60,
+        "explanation": "[33-40] Then the person pours water and ice cubes into the transparent container containing the watermelon, and then uses a large spoon to continuously stir the watermelon and ice cubes in the transparent container to mix them thoroughly. Then the person puts a plastic bottle-shaped ice cube into the transparent container and presses the ice cube into the watermelon juice with their hand."
+    },
+    {
+        "second": 37,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IZiDTOfz6G0/output_frames/sec_37_idx_15.jpg",
+        "fps": 60,
+        "explanation": "[33-40] Then the person pours water and ice cubes into the transparent container containing the watermelon, and then uses a large spoon to continuously stir the watermelon and ice cubes in the transparent container to mix them thoroughly. Then the person puts a plastic bottle-shaped ice cube into the transparent container and presses the ice cube into the watermelon juice with their hand."
+    },
+    {
+        "second": 38,
+        "frame_index": 58,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IZiDTOfz6G0/output_frames/sec_38_idx_58.jpg",
+        "fps": 60,
+        "explanation": "[33-40] Then the person pours water and ice cubes into the transparent container containing the watermelon, and then uses a large spoon to continuously stir the watermelon and ice cubes in the transparent container to mix them thoroughly. Then the person puts a plastic bottle-shaped ice cube into the transparent container and presses the ice cube into the watermelon juice with their hand."
+    },
+    {
+        "second": 39,
+        "frame_index": 38,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IZiDTOfz6G0/output_frames/sec_39_idx_38.jpg",
+        "fps": 60,
+        "explanation": "[33-40] Then the person pours water and ice cubes into the transparent container containing the watermelon, and then uses a large spoon to continuously stir the watermelon and ice cubes in the transparent container to mix them thoroughly. Then the person puts a plastic bottle-shaped ice cube into the transparent container and presses the ice cube into the watermelon juice with their hand."
+    },
+    {
+        "second": 40,
+        "frame_index": 52,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IZiDTOfz6G0/output_frames/sec_40_idx_52.jpg",
+        "fps": 60,
+        "explanation": "[33-40] Then the person pours water and ice cubes into the transparent container containing the watermelon, and then uses a large spoon to continuously stir the watermelon and ice cubes in the transparent container to mix them thoroughly. Then the person puts a plastic bottle-shaped ice cube into the transparent container and presses the ice cube into the watermelon juice with their hand."
+    },
+    {
+        "second": 41,
+        "frame_index": 49,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IZiDTOfz6G0/output_frames/sec_41_idx_49.jpg",
+        "fps": 60,
+        "explanation": "[40-44] Finally, the person holds a transparent cup in their left hand, scoops the watermelon juice from the container into the cup with a large spoon in their right hand, and then inserts a white spoon into the cup. Then a hand holding the cup of watermelon juice appears in the picture."
+    },
+    {
+        "second": 42,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IZiDTOfz6G0/output_frames/sec_42_idx_3.jpg",
+        "fps": 60,
+        "explanation": "[40-44] Finally, the person holds a transparent cup in their left hand, scoops the watermelon juice from the container into the cup with a large spoon in their right hand, and then inserts a white spoon into the cup. Then a hand holding the cup of watermelon juice appears in the picture."
+    },
+    {
+        "second": 43,
+        "frame_index": 48,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IZiDTOfz6G0/output_frames/sec_43_idx_48.jpg",
+        "fps": 60,
+        "explanation": "[40-44] Finally, the person holds a transparent cup in their left hand, scoops the watermelon juice from the container into the cup with a large spoon in their right hand, and then inserts a white spoon into the cup. Then a hand holding the cup of watermelon juice appears in the picture."
+    },
+    {
+        "second": 44,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IZiDTOfz6G0/output_frames/sec_44_idx_19.jpg",
+        "fps": 60,
+        "explanation": "[40-44] Finally, the person holds a transparent cup in their left hand, scoops the watermelon juice from the container into the cup with a large spoon in their right hand, and then inserts a white spoon into the cup. Then a hand holding the cup of watermelon juice appears in the picture."
+    }
+]

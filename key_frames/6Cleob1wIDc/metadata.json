@@ -1,0 +1,86 @@
+[
+    {
+        "second": 0,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6Cleob1wIDc/output_frames/sec_0_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A beige robot is pushing a plow and standing in the muddy field, with a black ox at the other end of the plow. Water is flowing in the muddy field, and many trees surround it."
+    },
+    {
+        "second": 1,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6Cleob1wIDc/output_frames/sec_1_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The black ox pulls the plow forward, and the robot hops while holding the plow, causing it to sway from side to side."
+    },
+    {
+        "second": 2,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6Cleob1wIDc/output_frames/sec_2_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The black ox pulls the plow forward, and the robot hops while holding the plow, causing it to sway from side to side."
+    },
+    {
+        "second": 3,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6Cleob1wIDc/output_frames/sec_3_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The black ox pulls the plow forward, and the robot hops while holding the plow, causing it to sway from side to side."
+    },
+    {
+        "second": 4,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6Cleob1wIDc/output_frames/sec_4_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The black ox pulls the plow forward, and the robot hops while holding the plow, causing it to sway from side to side."
+    },
+    {
+        "second": 5,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6Cleob1wIDc/output_frames/sec_5_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[4-11] After straightening the plow, the robot follows the black ox forward, taking strides."
+    },
+    {
+        "second": 6,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6Cleob1wIDc/output_frames/sec_6_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[4-11] After straightening the plow, the robot follows the black ox forward, taking strides."
+    },
+    {
+        "second": 7,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6Cleob1wIDc/output_frames/sec_7_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[4-11] After straightening the plow, the robot follows the black ox forward, taking strides."
+    },
+    {
+        "second": 8,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6Cleob1wIDc/output_frames/sec_8_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[4-11] After straightening the plow, the robot follows the black ox forward, taking strides."
+    },
+    {
+        "second": 9,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6Cleob1wIDc/output_frames/sec_9_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[4-11] After straightening the plow, the robot follows the black ox forward, taking strides."
+    },
+    {
+        "second": 10,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6Cleob1wIDc/output_frames/sec_10_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[4-11] After straightening the plow, the robot follows the black ox forward, taking strides."
+    },
+    {
+        "second": 11,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6Cleob1wIDc/output_frames/sec_11_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[4-11] After straightening the plow, the robot follows the black ox forward, taking strides."
+    }
+]

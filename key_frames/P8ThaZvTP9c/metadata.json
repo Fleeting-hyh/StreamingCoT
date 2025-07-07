@@ -1,0 +1,86 @@
+[
+    {
+        "second": 0,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P8ThaZvTP9c/output_frames/sec_0_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A man wearing a yellow shirt, black pants, and a yellow hat is standing in a room. There is a black sofa on the left."
+    },
+    {
+        "second": 1,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P8ThaZvTP9c/output_frames/sec_1_idx_24.jpg",
+        "fps": 30,
+        "explanation": "[0-8] At this moment, a man dressed in black suddenly appears on the sofa. The man in black jumps around the room. Suddenly, the man in black jumps up and attacks the man in the yellow hat, then the man in the yellow hat throws a punch and hits the man in black in the groin."
+    },
+    {
+        "second": 2,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P8ThaZvTP9c/output_frames/sec_2_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[0-8] At this moment, a man dressed in black suddenly appears on the sofa. The man in black jumps around the room. Suddenly, the man in black jumps up and attacks the man in the yellow hat, then the man in the yellow hat throws a punch and hits the man in black in the groin."
+    },
+    {
+        "second": 3,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P8ThaZvTP9c/output_frames/sec_3_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[0-8] At this moment, a man dressed in black suddenly appears on the sofa. The man in black jumps around the room. Suddenly, the man in black jumps up and attacks the man in the yellow hat, then the man in the yellow hat throws a punch and hits the man in black in the groin."
+    },
+    {
+        "second": 4,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P8ThaZvTP9c/output_frames/sec_4_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-8] At this moment, a man dressed in black suddenly appears on the sofa. The man in black jumps around the room. Suddenly, the man in black jumps up and attacks the man in the yellow hat, then the man in the yellow hat throws a punch and hits the man in black in the groin."
+    },
+    {
+        "second": 5,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P8ThaZvTP9c/output_frames/sec_5_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[0-8] At this moment, a man dressed in black suddenly appears on the sofa. The man in black jumps around the room. Suddenly, the man in black jumps up and attacks the man in the yellow hat, then the man in the yellow hat throws a punch and hits the man in black in the groin."
+    },
+    {
+        "second": 6,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P8ThaZvTP9c/output_frames/sec_6_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-8] At this moment, a man dressed in black suddenly appears on the sofa. The man in black jumps around the room. Suddenly, the man in black jumps up and attacks the man in the yellow hat, then the man in the yellow hat throws a punch and hits the man in black in the groin."
+    },
+    {
+        "second": 7,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P8ThaZvTP9c/output_frames/sec_7_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[0-8] At this moment, a man dressed in black suddenly appears on the sofa. The man in black jumps around the room. Suddenly, the man in black jumps up and attacks the man in the yellow hat, then the man in the yellow hat throws a punch and hits the man in black in the groin."
+    },
+    {
+        "second": 8,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P8ThaZvTP9c/output_frames/sec_8_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[0-8] At this moment, a man dressed in black suddenly appears on the sofa. The man in black jumps around the room. Suddenly, the man in black jumps up and attacks the man in the yellow hat, then the man in the yellow hat throws a punch and hits the man in black in the groin."
+    },
+    {
+        "second": 9,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P8ThaZvTP9c/output_frames/sec_9_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[8-11] Immediately following, the scene cuts to a black tombstone standing on the grass, with a picture of a fist on it."
+    },
+    {
+        "second": 10,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P8ThaZvTP9c/output_frames/sec_10_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[8-11] Immediately following, the scene cuts to a black tombstone standing on the grass, with a picture of a fist on it."
+    },
+    {
+        "second": 11,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P8ThaZvTP9c/output_frames/sec_11_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[8-11] Immediately following, the scene cuts to a black tombstone standing on the grass, with a picture of a fist on it."
+    }
+]

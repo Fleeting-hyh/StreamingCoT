@@ -1,0 +1,198 @@
+[
+    {
+        "second": 0,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Mb5_DwEs864/output_frames/sec_0_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-0] In the frame, on the left, a woman with long, tied-up hair, wearing a red Spider-Man costume, looks towards the upper right corner, her mouth sealed with tape. In the upper right corner frame, a woman with short hair holds a camera outstretched, smiling. The background of the room is white curtains printed with green leaves. There is a number 10 in the frame."
+    },
+    {
+        "second": 1,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Mb5_DwEs864/output_frames/sec_1_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[0-5] First, the number in the frame counts down from 10 to 4. The long-haired woman nods her head and looks towards the upper right corner. The short-haired woman, holding the camera with both hands outstretched, points it towards herself. After the camera flash flashes, she flips the camera over, and her picture appears on it. She puts down the phone and transforms into a woman wearing black clothes and heavy makeup. She lifts the camera with her left hand and holds it up to her left eye, revealing a smile."
+    },
+    {
+        "second": 2,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Mb5_DwEs864/output_frames/sec_2_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-5] First, the number in the frame counts down from 10 to 4. The long-haired woman nods her head and looks towards the upper right corner. The short-haired woman, holding the camera with both hands outstretched, points it towards herself. After the camera flash flashes, she flips the camera over, and her picture appears on it. She puts down the phone and transforms into a woman wearing black clothes and heavy makeup. She lifts the camera with her left hand and holds it up to her left eye, revealing a smile."
+    },
+    {
+        "second": 3,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Mb5_DwEs864/output_frames/sec_3_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[0-5] First, the number in the frame counts down from 10 to 4. The long-haired woman nods her head and looks towards the upper right corner. The short-haired woman, holding the camera with both hands outstretched, points it towards herself. After the camera flash flashes, she flips the camera over, and her picture appears on it. She puts down the phone and transforms into a woman wearing black clothes and heavy makeup. She lifts the camera with her left hand and holds it up to her left eye, revealing a smile."
+    },
+    {
+        "second": 4,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Mb5_DwEs864/output_frames/sec_4_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[0-5] First, the number in the frame counts down from 10 to 4. The long-haired woman nods her head and looks towards the upper right corner. The short-haired woman, holding the camera with both hands outstretched, points it towards herself. After the camera flash flashes, she flips the camera over, and her picture appears on it. She puts down the phone and transforms into a woman wearing black clothes and heavy makeup. She lifts the camera with her left hand and holds it up to her left eye, revealing a smile."
+    },
+    {
+        "second": 5,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Mb5_DwEs864/output_frames/sec_5_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-5] First, the number in the frame counts down from 10 to 4. The long-haired woman nods her head and looks towards the upper right corner. The short-haired woman, holding the camera with both hands outstretched, points it towards herself. After the camera flash flashes, she flips the camera over, and her picture appears on it. She puts down the phone and transforms into a woman wearing black clothes and heavy makeup. She lifts the camera with her left hand and holds it up to her left eye, revealing a smile."
+    },
+    {
+        "second": 6,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Mb5_DwEs864/output_frames/sec_6_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[5-9] Then, the number in the frame continues to count down from 3 to 1. The long-haired woman takes out a mobile phone with both hands and holds it up, facing the phone directly."
+    },
+    {
+        "second": 7,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Mb5_DwEs864/output_frames/sec_7_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[5-9] Then, the number in the frame continues to count down from 3 to 1. The long-haired woman takes out a mobile phone with both hands and holds it up, facing the phone directly."
+    },
+    {
+        "second": 8,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Mb5_DwEs864/output_frames/sec_8_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[5-9] Then, the number in the frame continues to count down from 3 to 1. The long-haired woman takes out a mobile phone with both hands and holds it up, facing the phone directly."
+    },
+    {
+        "second": 9,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Mb5_DwEs864/output_frames/sec_9_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[5-9] Then, the number in the frame continues to count down from 3 to 1. The long-haired woman takes out a mobile phone with both hands and holds it up, facing the phone directly."
+    },
+    {
+        "second": 10,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Mb5_DwEs864/output_frames/sec_10_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[9-12] Immediately afterwards, the phone's flash flashes once, she flips the phone over, the phone screen is in shooting mode, she takes the phone back."
+    },
+    {
+        "second": 11,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Mb5_DwEs864/output_frames/sec_11_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[9-12] Immediately afterwards, the phone's flash flashes once, she flips the phone over, the phone screen is in shooting mode, she takes the phone back."
+    },
+    {
+        "second": 12,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Mb5_DwEs864/output_frames/sec_12_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[9-12] Immediately afterwards, the phone's flash flashes once, she flips the phone over, the phone screen is in shooting mode, she takes the phone back."
+    },
+    {
+        "second": 13,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Mb5_DwEs864/output_frames/sec_13_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[12-13] Then, the screen changes, the long-haired woman sits on a chair in the room, picks up her phone and points it at herself. In front of her is a wooden table with a red table mat on which is placed a mobile phone holder and a white table mat next to it. On the white wall there is a lit light bulb and an air conditioner. A mirror is placed on the floor reflecting the curtains."
+    },
+    {
+        "second": 14,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Mb5_DwEs864/output_frames/sec_14_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[13-16] Suddenly, the screen switches, she clenches her fists in front of her chest and then separates them, she starts to tear off the tape on her mouth with her hands, pulls her hair apart and shakes it. The screen shows the camera mode of the mobile phone, and some functions are displayed on the right."
+    },
+    {
+        "second": 15,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Mb5_DwEs864/output_frames/sec_15_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[13-16] Suddenly, the screen switches, she clenches her fists in front of her chest and then separates them, she starts to tear off the tape on her mouth with her hands, pulls her hair apart and shakes it. The screen shows the camera mode of the mobile phone, and some functions are displayed on the right."
+    },
+    {
+        "second": 16,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Mb5_DwEs864/output_frames/sec_16_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[13-16] Suddenly, the screen switches, she clenches her fists in front of her chest and then separates them, she starts to tear off the tape on her mouth with her hands, pulls her hair apart and shakes it. The screen shows the camera mode of the mobile phone, and some functions are displayed on the right."
+    },
+    {
+        "second": 17,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Mb5_DwEs864/output_frames/sec_17_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[16-18] At this point, she takes off her red Spider-Man top, revealing a black Spider-Man costume."
+    },
+    {
+        "second": 18,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Mb5_DwEs864/output_frames/sec_18_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[16-18] At this point, she takes off her red Spider-Man top, revealing a black Spider-Man costume."
+    },
+    {
+        "second": 19,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Mb5_DwEs864/output_frames/sec_19_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[18-23] Then, she reaches out and clicks on the bottom of the screen, the screen darkens, she holds up the phone, the number in the screen counts down from 3 to 1."
+    },
+    {
+        "second": 20,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Mb5_DwEs864/output_frames/sec_20_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[18-23] Then, she reaches out and clicks on the bottom of the screen, the screen darkens, she holds up the phone, the number in the screen counts down from 3 to 1."
+    },
+    {
+        "second": 21,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Mb5_DwEs864/output_frames/sec_21_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[18-23] Then, she reaches out and clicks on the bottom of the screen, the screen darkens, she holds up the phone, the number in the screen counts down from 3 to 1."
+    },
+    {
+        "second": 22,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Mb5_DwEs864/output_frames/sec_22_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[18-23] Then, she reaches out and clicks on the bottom of the screen, the screen darkens, she holds up the phone, the number in the screen counts down from 3 to 1."
+    },
+    {
+        "second": 23,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Mb5_DwEs864/output_frames/sec_23_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[18-23] Then, she reaches out and clicks on the bottom of the screen, the screen darkens, she holds up the phone, the number in the screen counts down from 3 to 1."
+    },
+    {
+        "second": 24,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Mb5_DwEs864/output_frames/sec_24_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[23-27] Finally, the screen brightens again, she flips the phone over and places it on her right chest, the phone screen shows her just now wearing the red Spider-Man costume. She turns the phone over again, slowly extending it forward. Smiling and looking ahead."
+    },
+    {
+        "second": 25,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Mb5_DwEs864/output_frames/sec_25_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[23-27] Finally, the screen brightens again, she flips the phone over and places it on her right chest, the phone screen shows her just now wearing the red Spider-Man costume. She turns the phone over again, slowly extending it forward. Smiling and looking ahead."
+    },
+    {
+        "second": 26,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Mb5_DwEs864/output_frames/sec_26_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[23-27] Finally, the screen brightens again, she flips the phone over and places it on her right chest, the phone screen shows her just now wearing the red Spider-Man costume. She turns the phone over again, slowly extending it forward. Smiling and looking ahead."
+    },
+    {
+        "second": 27,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Mb5_DwEs864/output_frames/sec_27_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[23-27] Finally, the screen brightens again, she flips the phone over and places it on her right chest, the phone screen shows her just now wearing the red Spider-Man costume. She turns the phone over again, slowly extending it forward. Smiling and looking ahead."
+    }
+]

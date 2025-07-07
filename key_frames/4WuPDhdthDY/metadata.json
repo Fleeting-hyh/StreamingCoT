@@ -1,0 +1,114 @@
+[
+    {
+        "second": 0,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4WuPDhdthDY/output_frames/sec_0_idx_12.jpg",
+        "fps": 24,
+        "explanation": "[0-0] A cat is standing at the doorway of a blue room in a white hallway. The door is half-open with the pink caption \"Jerrie Ragdoll 1 y.o. girl\" in the upper left corner. Two pink hurdles are placed horizontally in front of the cat. To the right of the hurdles are some inverted paper cups, and behind the cups, there is a black board with the pink caption \"20cm\" on it. A long line is drawn on the wall behind the black board."
+    },
+    {
+        "second": 1,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4WuPDhdthDY/output_frames/sec_1_idx_12.jpg",
+        "fps": 24,
+        "explanation": "[0-9] Next, the cat jumps over the hurdles and disappears from the screen. Afterward, the height of the hurdles gradually increases along with the changing caption on the black board, which reads \"29cm 38cm 47cm 56cm 65cm 74cm 83cm\" in sequence. The cat successfully jumps over the hurdles each time."
+    },
+    {
+        "second": 2,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4WuPDhdthDY/output_frames/sec_2_idx_13.jpg",
+        "fps": 24,
+        "explanation": "[0-9] Next, the cat jumps over the hurdles and disappears from the screen. Afterward, the height of the hurdles gradually increases along with the changing caption on the black board, which reads \"29cm 38cm 47cm 56cm 65cm 74cm 83cm\" in sequence. The cat successfully jumps over the hurdles each time."
+    },
+    {
+        "second": 3,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4WuPDhdthDY/output_frames/sec_3_idx_16.jpg",
+        "fps": 24,
+        "explanation": "[0-9] Next, the cat jumps over the hurdles and disappears from the screen. Afterward, the height of the hurdles gradually increases along with the changing caption on the black board, which reads \"29cm 38cm 47cm 56cm 65cm 74cm 83cm\" in sequence. The cat successfully jumps over the hurdles each time."
+    },
+    {
+        "second": 4,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4WuPDhdthDY/output_frames/sec_4_idx_2.jpg",
+        "fps": 24,
+        "explanation": "[0-9] Next, the cat jumps over the hurdles and disappears from the screen. Afterward, the height of the hurdles gradually increases along with the changing caption on the black board, which reads \"29cm 38cm 47cm 56cm 65cm 74cm 83cm\" in sequence. The cat successfully jumps over the hurdles each time."
+    },
+    {
+        "second": 5,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4WuPDhdthDY/output_frames/sec_5_idx_3.jpg",
+        "fps": 24,
+        "explanation": "[0-9] Next, the cat jumps over the hurdles and disappears from the screen. Afterward, the height of the hurdles gradually increases along with the changing caption on the black board, which reads \"29cm 38cm 47cm 56cm 65cm 74cm 83cm\" in sequence. The cat successfully jumps over the hurdles each time."
+    },
+    {
+        "second": 6,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4WuPDhdthDY/output_frames/sec_6_idx_16.jpg",
+        "fps": 24,
+        "explanation": "[0-9] Next, the cat jumps over the hurdles and disappears from the screen. Afterward, the height of the hurdles gradually increases along with the changing caption on the black board, which reads \"29cm 38cm 47cm 56cm 65cm 74cm 83cm\" in sequence. The cat successfully jumps over the hurdles each time."
+    },
+    {
+        "second": 7,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4WuPDhdthDY/output_frames/sec_7_idx_22.jpg",
+        "fps": 24,
+        "explanation": "[0-9] Next, the cat jumps over the hurdles and disappears from the screen. Afterward, the height of the hurdles gradually increases along with the changing caption on the black board, which reads \"29cm 38cm 47cm 56cm 65cm 74cm 83cm\" in sequence. The cat successfully jumps over the hurdles each time."
+    },
+    {
+        "second": 8,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4WuPDhdthDY/output_frames/sec_8_idx_1.jpg",
+        "fps": 24,
+        "explanation": "[0-9] Next, the cat jumps over the hurdles and disappears from the screen. Afterward, the height of the hurdles gradually increases along with the changing caption on the black board, which reads \"29cm 38cm 47cm 56cm 65cm 74cm 83cm\" in sequence. The cat successfully jumps over the hurdles each time."
+    },
+    {
+        "second": 9,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4WuPDhdthDY/output_frames/sec_9_idx_12.jpg",
+        "fps": 24,
+        "explanation": "[0-9] Next, the cat jumps over the hurdles and disappears from the screen. Afterward, the height of the hurdles gradually increases along with the changing caption on the black board, which reads \"29cm 38cm 47cm 56cm 65cm 74cm 83cm\" in sequence. The cat successfully jumps over the hurdles each time."
+    },
+    {
+        "second": 10,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4WuPDhdthDY/output_frames/sec_10_idx_20.jpg",
+        "fps": 24,
+        "explanation": "[9-15] At this point, the hurdles have increased to ten, and the black board reads \"92cm\". The cat paces back and forth in front of the hurdles. Suddenly, it jumps high and clears the hurdles, finally disappearing from view."
+    },
+    {
+        "second": 11,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4WuPDhdthDY/output_frames/sec_11_idx_11.jpg",
+        "fps": 24,
+        "explanation": "[9-15] At this point, the hurdles have increased to ten, and the black board reads \"92cm\". The cat paces back and forth in front of the hurdles. Suddenly, it jumps high and clears the hurdles, finally disappearing from view."
+    },
+    {
+        "second": 12,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4WuPDhdthDY/output_frames/sec_12_idx_2.jpg",
+        "fps": 24,
+        "explanation": "[9-15] At this point, the hurdles have increased to ten, and the black board reads \"92cm\". The cat paces back and forth in front of the hurdles. Suddenly, it jumps high and clears the hurdles, finally disappearing from view."
+    },
+    {
+        "second": 13,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4WuPDhdthDY/output_frames/sec_13_idx_23.jpg",
+        "fps": 24,
+        "explanation": "[9-15] At this point, the hurdles have increased to ten, and the black board reads \"92cm\". The cat paces back and forth in front of the hurdles. Suddenly, it jumps high and clears the hurdles, finally disappearing from view."
+    },
+    {
+        "second": 14,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4WuPDhdthDY/output_frames/sec_14_idx_21.jpg",
+        "fps": 24,
+        "explanation": "[9-15] At this point, the hurdles have increased to ten, and the black board reads \"92cm\". The cat paces back and forth in front of the hurdles. Suddenly, it jumps high and clears the hurdles, finally disappearing from view."
+    },
+    {
+        "second": 15,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4WuPDhdthDY/output_frames/sec_15_idx_5.jpg",
+        "fps": 24,
+        "explanation": "[9-15] At this point, the hurdles have increased to ten, and the black board reads \"92cm\". The cat paces back and forth in front of the hurdles. Suddenly, it jumps high and clears the hurdles, finally disappearing from view."
+    }
+]

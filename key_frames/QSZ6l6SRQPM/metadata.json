@@ -1,0 +1,100 @@
+[
+    {
+        "second": 0,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QSZ6l6SRQPM/output_frames/sec_0_idx_2.jpg",
+        "fps": 60,
+        "explanation": "[0-0] A man is standing outdoors, smiling and looking at the camera. The man is wearing a black down jacket and a black hat. Above is the white English text \"Lil bro is cooking Some serious meals...\". The background is a beige building and a cloudy sky."
+    },
+    {
+        "second": 1,
+        "frame_index": 47,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QSZ6l6SRQPM/output_frames/sec_1_idx_47.jpg",
+        "fps": 60,
+        "explanation": "[0-5] Then, the man walks along the sidewalk, the camera follows, and the man walks to a table where a little boy is sitting and eating something that looks like pink cotton candy. On the table are cotton candy making equipment and ingredients."
+    },
+    {
+        "second": 2,
+        "frame_index": 40,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QSZ6l6SRQPM/output_frames/sec_2_idx_40.jpg",
+        "fps": 60,
+        "explanation": "[0-5] Then, the man walks along the sidewalk, the camera follows, and the man walks to a table where a little boy is sitting and eating something that looks like pink cotton candy. On the table are cotton candy making equipment and ingredients."
+    },
+    {
+        "second": 3,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QSZ6l6SRQPM/output_frames/sec_3_idx_7.jpg",
+        "fps": 60,
+        "explanation": "[0-5] Then, the man walks along the sidewalk, the camera follows, and the man walks to a table where a little boy is sitting and eating something that looks like pink cotton candy. On the table are cotton candy making equipment and ingredients."
+    },
+    {
+        "second": 4,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QSZ6l6SRQPM/output_frames/sec_4_idx_14.jpg",
+        "fps": 60,
+        "explanation": "[0-5] Then, the man walks along the sidewalk, the camera follows, and the man walks to a table where a little boy is sitting and eating something that looks like pink cotton candy. On the table are cotton candy making equipment and ingredients."
+    },
+    {
+        "second": 5,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QSZ6l6SRQPM/output_frames/sec_5_idx_21.jpg",
+        "fps": 60,
+        "explanation": "[0-5] Then, the man walks along the sidewalk, the camera follows, and the man walks to a table where a little boy is sitting and eating something that looks like pink cotton candy. On the table are cotton candy making equipment and ingredients."
+    },
+    {
+        "second": 6,
+        "frame_index": 45,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QSZ6l6SRQPM/output_frames/sec_6_idx_45.jpg",
+        "fps": 60,
+        "explanation": "[5-9] Next, the man points his finger at the table, the little boy puts the cotton candy over the table, the camera focuses on the cotton candy."
+    },
+    {
+        "second": 7,
+        "frame_index": 58,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QSZ6l6SRQPM/output_frames/sec_7_idx_58.jpg",
+        "fps": 60,
+        "explanation": "[5-9] Next, the man points his finger at the table, the little boy puts the cotton candy over the table, the camera focuses on the cotton candy."
+    },
+    {
+        "second": 8,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QSZ6l6SRQPM/output_frames/sec_8_idx_9.jpg",
+        "fps": 60,
+        "explanation": "[5-9] Next, the man points his finger at the table, the little boy puts the cotton candy over the table, the camera focuses on the cotton candy."
+    },
+    {
+        "second": 9,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QSZ6l6SRQPM/output_frames/sec_9_idx_1.jpg",
+        "fps": 60,
+        "explanation": "[5-9] Next, the man points his finger at the table, the little boy puts the cotton candy over the table, the camera focuses on the cotton candy."
+    },
+    {
+        "second": 10,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QSZ6l6SRQPM/output_frames/sec_10_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[9-13] Subsequently, the scene switches to pink and gray clouds in the sky, a man with his back to the camera is sitting, looking at the pink clouds and cityscape in the distance."
+    },
+    {
+        "second": 11,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QSZ6l6SRQPM/output_frames/sec_11_idx_1.jpg",
+        "fps": 60,
+        "explanation": "[9-13] Subsequently, the scene switches to pink and gray clouds in the sky, a man with his back to the camera is sitting, looking at the pink clouds and cityscape in the distance."
+    },
+    {
+        "second": 12,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QSZ6l6SRQPM/output_frames/sec_12_idx_1.jpg",
+        "fps": 60,
+        "explanation": "[9-13] Subsequently, the scene switches to pink and gray clouds in the sky, a man with his back to the camera is sitting, looking at the pink clouds and cityscape in the distance."
+    },
+    {
+        "second": 13,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QSZ6l6SRQPM/output_frames/sec_13_idx_11.jpg",
+        "fps": 60,
+        "explanation": "[9-13] Subsequently, the scene switches to pink and gray clouds in the sky, a man with his back to the camera is sitting, looking at the pink clouds and cityscape in the distance."
+    }
+]

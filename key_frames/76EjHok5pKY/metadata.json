@@ -1,0 +1,79 @@
+[
+    {
+        "second": 0,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/76EjHok5pKY/output_frames/sec_0_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A person wearing a black short-sleeved shirt with a vest and colorful pants is riding a motorcycle on the road. In the background, there are white houses and many large trees, and the sky is clear."
+    },
+    {
+        "second": 1,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/76EjHok5pKY/output_frames/sec_1_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The person in the black short-sleeved shirt starts riding the motorcycle forward, then raises his buttocks slightly, causing the motorcycle to shake. After continuing to ride for a distance, he raises his buttocks twice more, sits down, and looks back. During the ride, cars constantly pass by from the opposite direction."
+    },
+    {
+        "second": 2,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/76EjHok5pKY/output_frames/sec_2_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The person in the black short-sleeved shirt starts riding the motorcycle forward, then raises his buttocks slightly, causing the motorcycle to shake. After continuing to ride for a distance, he raises his buttocks twice more, sits down, and looks back. During the ride, cars constantly pass by from the opposite direction."
+    },
+    {
+        "second": 3,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/76EjHok5pKY/output_frames/sec_3_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The person in the black short-sleeved shirt starts riding the motorcycle forward, then raises his buttocks slightly, causing the motorcycle to shake. After continuing to ride for a distance, he raises his buttocks twice more, sits down, and looks back. During the ride, cars constantly pass by from the opposite direction."
+    },
+    {
+        "second": 4,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/76EjHok5pKY/output_frames/sec_4_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The person in the black short-sleeved shirt starts riding the motorcycle forward, then raises his buttocks slightly, causing the motorcycle to shake. After continuing to ride for a distance, he raises his buttocks twice more, sits down, and looks back. During the ride, cars constantly pass by from the opposite direction."
+    },
+    {
+        "second": 5,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/76EjHok5pKY/output_frames/sec_5_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[4-5] Then the person in the black short-sleeved shirt swings the motorcycle left and right while riding forward. Then the camera moves to the right, leaving only the front wheel of the motorcycle in the picture. Finally, the camera moves left to the motorcycle, and the person in the black short-sleeved shirt twists the handlebar with his right hand, lifting the front wheel of the motorcycle while the rear wheel continues to move forward."
+    },
+    {
+        "second": 6,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/76EjHok5pKY/output_frames/sec_6_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[5-10] At the end of the video, the person is riding the motorcycle with both hands gripping the handlebars, the front wheel completely off the ground."
+    },
+    {
+        "second": 7,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/76EjHok5pKY/output_frames/sec_7_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[5-10] At the end of the video, the person is riding the motorcycle with both hands gripping the handlebars, the front wheel completely off the ground."
+    },
+    {
+        "second": 8,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/76EjHok5pKY/output_frames/sec_8_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[5-10] At the end of the video, the person is riding the motorcycle with both hands gripping the handlebars, the front wheel completely off the ground."
+    },
+    {
+        "second": 9,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/76EjHok5pKY/output_frames/sec_9_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[5-10] At the end of the video, the person is riding the motorcycle with both hands gripping the handlebars, the front wheel completely off the ground."
+    },
+    {
+        "second": 10,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/76EjHok5pKY/output_frames/sec_10_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[5-10] At the end of the video, the person is riding the motorcycle with both hands gripping the handlebars, the front wheel completely off the ground."
+    }
+]

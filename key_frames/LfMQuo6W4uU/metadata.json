@@ -1,0 +1,44 @@
+[
+    {
+        "second": 0,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LfMQuo6W4uU/output_frames/sec_0_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[0-0] In the scene, a pregnant woman is standing in her living room with a golden retriever wearing pink clothes by her side, lowering its head and sniffing her legs. The woman is wearing a gray sundress and orange slippers, looking down at the dog with a phone in her hand. There is a sofa beside the pregnant woman."
+    },
+    {
+        "second": 1,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LfMQuo6W4uU/output_frames/sec_1_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Then, as the pregnant woman looks at her phone, the dog lifts her skirt with its head. The pregnant woman takes a few steps back and pushes the dog away with her hand."
+    },
+    {
+        "second": 2,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LfMQuo6W4uU/output_frames/sec_2_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Then, as the pregnant woman looks at her phone, the dog lifts her skirt with its head. The pregnant woman takes a few steps back and pushes the dog away with her hand."
+    },
+    {
+        "second": 3,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LfMQuo6W4uU/output_frames/sec_3_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Then, as the pregnant woman looks at her phone, the dog lifts her skirt with its head. The pregnant woman takes a few steps back and pushes the dog away with her hand."
+    },
+    {
+        "second": 4,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LfMQuo6W4uU/output_frames/sec_4_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Then, as the pregnant woman looks at her phone, the dog lifts her skirt with its head. The pregnant woman takes a few steps back and pushes the dog away with her hand."
+    },
+    {
+        "second": 5,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LfMQuo6W4uU/output_frames/sec_5_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[4-6] Finally, the dog continues to sniff her while the pregnant woman stares at her phone."
+    }
+]

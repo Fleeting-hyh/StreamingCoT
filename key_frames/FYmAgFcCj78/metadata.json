@@ -1,0 +1,408 @@
+[
+    {
+        "second": 0,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FYmAgFcCj78/output_frames/sec_0_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A blonde woman in a yellow coat is standing outdoors, holding a phone. There is a yellow arch above her head. A white car is parked behind her, with a white car and a blue car beside it. There are trees in the background. The words \"PANIC\" in yellow and \"FAILARMY\" in white are superimposed on the image."
+    },
+    {
+        "second": 1,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FYmAgFcCj78/output_frames/sec_1_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[0-5] The woman takes two steps back, and the white car drives forward. The woman runs to the car and grabs the hood, trying to stop it from driving away. The car hits a door."
+    },
+    {
+        "second": 2,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FYmAgFcCj78/output_frames/sec_2_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[0-5] The woman takes two steps back, and the white car drives forward. The woman runs to the car and grabs the hood, trying to stop it from driving away. The car hits a door."
+    },
+    {
+        "second": 3,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FYmAgFcCj78/output_frames/sec_3_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[0-5] The woman takes two steps back, and the white car drives forward. The woman runs to the car and grabs the hood, trying to stop it from driving away. The car hits a door."
+    },
+    {
+        "second": 4,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FYmAgFcCj78/output_frames/sec_4_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-5] The woman takes two steps back, and the white car drives forward. The woman runs to the car and grabs the hood, trying to stop it from driving away. The car hits a door."
+    },
+    {
+        "second": 5,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FYmAgFcCj78/output_frames/sec_5_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[0-5] The woman takes two steps back, and the white car drives forward. The woman runs to the car and grabs the hood, trying to stop it from driving away. The car hits a door."
+    },
+    {
+        "second": 6,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FYmAgFcCj78/output_frames/sec_6_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[5-10] The scene cuts to an arcade. A person in a black jacket runs into the arcade and falls, one shoe coming off."
+    },
+    {
+        "second": 7,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FYmAgFcCj78/output_frames/sec_7_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[5-10] The scene cuts to an arcade. A person in a black jacket runs into the arcade and falls, one shoe coming off."
+    },
+    {
+        "second": 8,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FYmAgFcCj78/output_frames/sec_8_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[5-10] The scene cuts to an arcade. A person in a black jacket runs into the arcade and falls, one shoe coming off."
+    },
+    {
+        "second": 9,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FYmAgFcCj78/output_frames/sec_9_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[5-10] The scene cuts to an arcade. A person in a black jacket runs into the arcade and falls, one shoe coming off."
+    },
+    {
+        "second": 10,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FYmAgFcCj78/output_frames/sec_10_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[5-10] The scene cuts to an arcade. A person in a black jacket runs into the arcade and falls, one shoe coming off."
+    },
+    {
+        "second": 11,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FYmAgFcCj78/output_frames/sec_11_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[10-20] The scene then shifts to a riverside. A man in a blue hat is fishing in a kayak, holding a fishing rod with both hands. He then opens his mouth, picks up a big fish with his right hand, and holds it up in the air."
+    },
+    {
+        "second": 12,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FYmAgFcCj78/output_frames/sec_12_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[10-20] The scene then shifts to a riverside. A man in a blue hat is fishing in a kayak, holding a fishing rod with both hands. He then opens his mouth, picks up a big fish with his right hand, and holds it up in the air."
+    },
+    {
+        "second": 13,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FYmAgFcCj78/output_frames/sec_13_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[10-20] The scene then shifts to a riverside. A man in a blue hat is fishing in a kayak, holding a fishing rod with both hands. He then opens his mouth, picks up a big fish with his right hand, and holds it up in the air."
+    },
+    {
+        "second": 14,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FYmAgFcCj78/output_frames/sec_14_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[10-20] The scene then shifts to a riverside. A man in a blue hat is fishing in a kayak, holding a fishing rod with both hands. He then opens his mouth, picks up a big fish with his right hand, and holds it up in the air."
+    },
+    {
+        "second": 15,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FYmAgFcCj78/output_frames/sec_15_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[10-20] The scene then shifts to a riverside. A man in a blue hat is fishing in a kayak, holding a fishing rod with both hands. He then opens his mouth, picks up a big fish with his right hand, and holds it up in the air."
+    },
+    {
+        "second": 16,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FYmAgFcCj78/output_frames/sec_16_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[10-20] The scene then shifts to a riverside. A man in a blue hat is fishing in a kayak, holding a fishing rod with both hands. He then opens his mouth, picks up a big fish with his right hand, and holds it up in the air."
+    },
+    {
+        "second": 17,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FYmAgFcCj78/output_frames/sec_17_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[10-20] The scene then shifts to a riverside. A man in a blue hat is fishing in a kayak, holding a fishing rod with both hands. He then opens his mouth, picks up a big fish with his right hand, and holds it up in the air."
+    },
+    {
+        "second": 18,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FYmAgFcCj78/output_frames/sec_18_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[10-20] The scene then shifts to a riverside. A man in a blue hat is fishing in a kayak, holding a fishing rod with both hands. He then opens his mouth, picks up a big fish with his right hand, and holds it up in the air."
+    },
+    {
+        "second": 19,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FYmAgFcCj78/output_frames/sec_19_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[10-20] The scene then shifts to a riverside. A man in a blue hat is fishing in a kayak, holding a fishing rod with both hands. He then opens his mouth, picks up a big fish with his right hand, and holds it up in the air."
+    },
+    {
+        "second": 20,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FYmAgFcCj78/output_frames/sec_20_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[10-20] The scene then shifts to a riverside. A man in a blue hat is fishing in a kayak, holding a fishing rod with both hands. He then opens his mouth, picks up a big fish with his right hand, and holds it up in the air."
+    },
+    {
+        "second": 21,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FYmAgFcCj78/output_frames/sec_21_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[20-24] The scene cuts to a room. A woman in a blue top walks into the room, looks at the camera with a frightened expression, and then smiles."
+    },
+    {
+        "second": 22,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FYmAgFcCj78/output_frames/sec_22_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[20-24] The scene cuts to a room. A woman in a blue top walks into the room, looks at the camera with a frightened expression, and then smiles."
+    },
+    {
+        "second": 23,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FYmAgFcCj78/output_frames/sec_23_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[20-24] The scene cuts to a room. A woman in a blue top walks into the room, looks at the camera with a frightened expression, and then smiles."
+    },
+    {
+        "second": 24,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FYmAgFcCj78/output_frames/sec_24_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[20-24] The scene cuts to a room. A woman in a blue top walks into the room, looks at the camera with a frightened expression, and then smiles."
+    },
+    {
+        "second": 25,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FYmAgFcCj78/output_frames/sec_25_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[24-31] The scene then changes to outdoors. A woman in a black half-sleeve shirt and jeans runs toward a person wearing a mask. The masked person falls to the ground. The woman falls on top of the masked person. Then they both get up and hug each other."
+    },
+    {
+        "second": 26,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FYmAgFcCj78/output_frames/sec_26_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[24-31] The scene then changes to outdoors. A woman in a black half-sleeve shirt and jeans runs toward a person wearing a mask. The masked person falls to the ground. The woman falls on top of the masked person. Then they both get up and hug each other."
+    },
+    {
+        "second": 27,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FYmAgFcCj78/output_frames/sec_27_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[24-31] The scene then changes to outdoors. A woman in a black half-sleeve shirt and jeans runs toward a person wearing a mask. The masked person falls to the ground. The woman falls on top of the masked person. Then they both get up and hug each other."
+    },
+    {
+        "second": 28,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FYmAgFcCj78/output_frames/sec_28_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[24-31] The scene then changes to outdoors. A woman in a black half-sleeve shirt and jeans runs toward a person wearing a mask. The masked person falls to the ground. The woman falls on top of the masked person. Then they both get up and hug each other."
+    },
+    {
+        "second": 29,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FYmAgFcCj78/output_frames/sec_29_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[24-31] The scene then changes to outdoors. A woman in a black half-sleeve shirt and jeans runs toward a person wearing a mask. The masked person falls to the ground. The woman falls on top of the masked person. Then they both get up and hug each other."
+    },
+    {
+        "second": 30,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FYmAgFcCj78/output_frames/sec_30_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[24-31] The scene then changes to outdoors. A woman in a black half-sleeve shirt and jeans runs toward a person wearing a mask. The masked person falls to the ground. The woman falls on top of the masked person. Then they both get up and hug each other."
+    },
+    {
+        "second": 31,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FYmAgFcCj78/output_frames/sec_31_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[24-31] The scene then changes to outdoors. A woman in a black half-sleeve shirt and jeans runs toward a person wearing a mask. The masked person falls to the ground. The woman falls on top of the masked person. Then they both get up and hug each other."
+    },
+    {
+        "second": 32,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FYmAgFcCj78/output_frames/sec_32_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[31-40] The scene then shifts to a moving car. A man in green clothes and glasses is sleeping with a string of red candy in his mouth. A hand places a red object over the man's glasses. Then, the man looks up and the camera pans to the right, showing another man in the driver's seat."
+    },
+    {
+        "second": 33,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FYmAgFcCj78/output_frames/sec_33_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[31-40] The scene then shifts to a moving car. A man in green clothes and glasses is sleeping with a string of red candy in his mouth. A hand places a red object over the man's glasses. Then, the man looks up and the camera pans to the right, showing another man in the driver's seat."
+    },
+    {
+        "second": 34,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FYmAgFcCj78/output_frames/sec_34_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[31-40] The scene then shifts to a moving car. A man in green clothes and glasses is sleeping with a string of red candy in his mouth. A hand places a red object over the man's glasses. Then, the man looks up and the camera pans to the right, showing another man in the driver's seat."
+    },
+    {
+        "second": 35,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FYmAgFcCj78/output_frames/sec_35_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[31-40] The scene then shifts to a moving car. A man in green clothes and glasses is sleeping with a string of red candy in his mouth. A hand places a red object over the man's glasses. Then, the man looks up and the camera pans to the right, showing another man in the driver's seat."
+    },
+    {
+        "second": 36,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FYmAgFcCj78/output_frames/sec_36_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[31-40] The scene then shifts to a moving car. A man in green clothes and glasses is sleeping with a string of red candy in his mouth. A hand places a red object over the man's glasses. Then, the man looks up and the camera pans to the right, showing another man in the driver's seat."
+    },
+    {
+        "second": 37,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FYmAgFcCj78/output_frames/sec_37_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[31-40] The scene then shifts to a moving car. A man in green clothes and glasses is sleeping with a string of red candy in his mouth. A hand places a red object over the man's glasses. Then, the man looks up and the camera pans to the right, showing another man in the driver's seat."
+    },
+    {
+        "second": 38,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FYmAgFcCj78/output_frames/sec_38_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[31-40] The scene then shifts to a moving car. A man in green clothes and glasses is sleeping with a string of red candy in his mouth. A hand places a red object over the man's glasses. Then, the man looks up and the camera pans to the right, showing another man in the driver's seat."
+    },
+    {
+        "second": 39,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FYmAgFcCj78/output_frames/sec_39_idx_24.jpg",
+        "fps": 30,
+        "explanation": "[31-40] The scene then shifts to a moving car. A man in green clothes and glasses is sleeping with a string of red candy in his mouth. A hand places a red object over the man's glasses. Then, the man looks up and the camera pans to the right, showing another man in the driver's seat."
+    },
+    {
+        "second": 40,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FYmAgFcCj78/output_frames/sec_40_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[31-40] The scene then shifts to a moving car. A man in green clothes and glasses is sleeping with a string of red candy in his mouth. A hand places a red object over the man's glasses. Then, the man looks up and the camera pans to the right, showing another man in the driver's seat."
+    },
+    {
+        "second": 41,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FYmAgFcCj78/output_frames/sec_41_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[40-44] The scene changes again, showing a large truck parked at an angle in front of a house. A person gets out of the truck."
+    },
+    {
+        "second": 42,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FYmAgFcCj78/output_frames/sec_42_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[40-44] The scene changes again, showing a large truck parked at an angle in front of a house. A person gets out of the truck."
+    },
+    {
+        "second": 43,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FYmAgFcCj78/output_frames/sec_43_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[40-44] The scene changes again, showing a large truck parked at an angle in front of a house. A person gets out of the truck."
+    },
+    {
+        "second": 44,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FYmAgFcCj78/output_frames/sec_44_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[40-44] The scene changes again, showing a large truck parked at an angle in front of a house. A person gets out of the truck."
+    },
+    {
+        "second": 45,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FYmAgFcCj78/output_frames/sec_45_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[44-49] The scene then cuts to a gym. A blonde woman in a black hat walks forward and trips on a treadmill. A woman in black next to her laughs and looks at her."
+    },
+    {
+        "second": 46,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FYmAgFcCj78/output_frames/sec_46_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[44-49] The scene then cuts to a gym. A blonde woman in a black hat walks forward and trips on a treadmill. A woman in black next to her laughs and looks at her."
+    },
+    {
+        "second": 47,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FYmAgFcCj78/output_frames/sec_47_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[44-49] The scene then cuts to a gym. A blonde woman in a black hat walks forward and trips on a treadmill. A woman in black next to her laughs and looks at her."
+    },
+    {
+        "second": 48,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FYmAgFcCj78/output_frames/sec_48_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[44-49] The scene then cuts to a gym. A blonde woman in a black hat walks forward and trips on a treadmill. A woman in black next to her laughs and looks at her."
+    },
+    {
+        "second": 49,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FYmAgFcCj78/output_frames/sec_49_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[44-49] The scene then cuts to a gym. A blonde woman in a black hat walks forward and trips on a treadmill. A woman in black next to her laughs and looks at her."
+    },
+    {
+        "second": 50,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FYmAgFcCj78/output_frames/sec_50_idx_24.jpg",
+        "fps": 30,
+        "explanation": "[49-52] The scene shifts to a street. A hand throws a purple balloon, and several boys are standing opposite. The balloon hits one of the boys wearing a green half-sleeve shirt in the face."
+    },
+    {
+        "second": 51,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FYmAgFcCj78/output_frames/sec_51_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[49-52] The scene shifts to a street. A hand throws a purple balloon, and several boys are standing opposite. The balloon hits one of the boys wearing a green half-sleeve shirt in the face."
+    },
+    {
+        "second": 52,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FYmAgFcCj78/output_frames/sec_52_idx_24.jpg",
+        "fps": 30,
+        "explanation": "[49-52] The scene shifts to a street. A hand throws a purple balloon, and several boys are standing opposite. The balloon hits one of the boys wearing a green half-sleeve shirt in the face."
+    },
+    {
+        "second": 53,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FYmAgFcCj78/output_frames/sec_53_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[52-58] Finally, the scene changes to a man with a cross on his back going up an escalator. He is wearing an orange jacket. The cross gets stuck on the ceiling. He tries to get the cross down, but fails."
+    },
+    {
+        "second": 54,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FYmAgFcCj78/output_frames/sec_54_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[52-58] Finally, the scene changes to a man with a cross on his back going up an escalator. He is wearing an orange jacket. The cross gets stuck on the ceiling. He tries to get the cross down, but fails."
+    },
+    {
+        "second": 55,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FYmAgFcCj78/output_frames/sec_55_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[52-58] Finally, the scene changes to a man with a cross on his back going up an escalator. He is wearing an orange jacket. The cross gets stuck on the ceiling. He tries to get the cross down, but fails."
+    },
+    {
+        "second": 56,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FYmAgFcCj78/output_frames/sec_56_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[52-58] Finally, the scene changes to a man with a cross on his back going up an escalator. He is wearing an orange jacket. The cross gets stuck on the ceiling. He tries to get the cross down, but fails."
+    },
+    {
+        "second": 57,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FYmAgFcCj78/output_frames/sec_57_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[52-58] Finally, the scene changes to a man with a cross on his back going up an escalator. He is wearing an orange jacket. The cross gets stuck on the ceiling. He tries to get the cross down, but fails."
+    }
+]

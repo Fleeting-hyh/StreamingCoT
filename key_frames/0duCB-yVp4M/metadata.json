@@ -1,0 +1,72 @@
+[
+    {
+        "second": 0,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0duCB-yVp4M/output_frames/sec_0_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[0-0] The scene shows seven people standing in three rows. Three women are in the front row, two women and a man in the middle row, and two men in the last row. There are several lights on the white ceiling."
+    },
+    {
+        "second": 1,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0duCB-yVp4M/output_frames/sec_1_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-3] The woman in the middle of the front row opens her mouth and starts gesturing with her hands, while others remain still."
+    },
+    {
+        "second": 2,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0duCB-yVp4M/output_frames/sec_2_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-3] The woman in the middle of the front row opens her mouth and starts gesturing with her hands, while others remain still."
+    },
+    {
+        "second": 3,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0duCB-yVp4M/output_frames/sec_3_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[0-3] The woman in the middle of the front row opens her mouth and starts gesturing with her hands, while others remain still."
+    },
+    {
+        "second": 4,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0duCB-yVp4M/output_frames/sec_4_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[3-6] Then everyone raises one hand, making a phone call gesture while shaking their heads from side to side. Next, everyone opens their palms near their mouths and opens their mouths wide. They continue making phone call gestures and shaking their heads."
+    },
+    {
+        "second": 5,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0duCB-yVp4M/output_frames/sec_5_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[3-6] Then everyone raises one hand, making a phone call gesture while shaking their heads from side to side. Next, everyone opens their palms near their mouths and opens their mouths wide. They continue making phone call gestures and shaking their heads."
+    },
+    {
+        "second": 6,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0duCB-yVp4M/output_frames/sec_6_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[3-6] Then everyone raises one hand, making a phone call gesture while shaking their heads from side to side. Next, everyone opens their palms near their mouths and opens their mouths wide. They continue making phone call gestures and shaking their heads."
+    },
+    {
+        "second": 7,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0duCB-yVp4M/output_frames/sec_7_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[6-9] Finally, everyone continues gesturing, then opens their mouths wide and spreads their palms. The woman on the far left in the second row stretches out her hand forward."
+    },
+    {
+        "second": 8,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0duCB-yVp4M/output_frames/sec_8_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[6-9] Finally, everyone continues gesturing, then opens their mouths wide and spreads their palms. The woman on the far left in the second row stretches out her hand forward."
+    },
+    {
+        "second": 9,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0duCB-yVp4M/output_frames/sec_9_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[6-9] Finally, everyone continues gesturing, then opens their mouths wide and spreads their palms. The woman on the far left in the second row stretches out her hand forward."
+    }
+]

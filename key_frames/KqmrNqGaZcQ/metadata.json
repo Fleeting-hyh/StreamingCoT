@@ -1,0 +1,65 @@
+[
+    {
+        "second": 0,
+        "frame_index": 32,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/KqmrNqGaZcQ/output_frames/sec_0_idx_32.jpg",
+        "fps": 60,
+        "explanation": "[0-0] On a soccer field with green grass, a player in black clothes is standing in the distance, with a fence and wall behind him, under a cloudy sky and vegetation."
+    },
+    {
+        "second": 1,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/KqmrNqGaZcQ/output_frames/sec_1_idx_3.jpg",
+        "fps": 60,
+        "explanation": "[0-3] Then, a player in a blue jersey and black shorts gets ready to kick the ball. As the player in blue kicks the ball with his right foot, a red cross appears above. The ball goes off track and runs to the other side of the field."
+    },
+    {
+        "second": 2,
+        "frame_index": 58,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/KqmrNqGaZcQ/output_frames/sec_2_idx_58.jpg",
+        "fps": 60,
+        "explanation": "[0-3] Then, a player in a blue jersey and black shorts gets ready to kick the ball. As the player in blue kicks the ball with his right foot, a red cross appears above. The ball goes off track and runs to the other side of the field."
+    },
+    {
+        "second": 3,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/KqmrNqGaZcQ/output_frames/sec_3_idx_6.jpg",
+        "fps": 60,
+        "explanation": "[0-3] Then, a player in a blue jersey and black shorts gets ready to kick the ball. As the player in blue kicks the ball with his right foot, a red cross appears above. The ball goes off track and runs to the other side of the field."
+    },
+    {
+        "second": 4,
+        "frame_index": 30,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/KqmrNqGaZcQ/output_frames/sec_4_idx_30.jpg",
+        "fps": 60,
+        "explanation": "[3-8] Next, the player in blue continues to kick the ball. This time, as he kicks, a green rectangular frame with a white check mark appears above. The ball is successfully kicked to the player in black's feet."
+    },
+    {
+        "second": 5,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/KqmrNqGaZcQ/output_frames/sec_5_idx_11.jpg",
+        "fps": 60,
+        "explanation": "[3-8] Next, the player in blue continues to kick the ball. This time, as he kicks, a green rectangular frame with a white check mark appears above. The ball is successfully kicked to the player in black's feet."
+    },
+    {
+        "second": 6,
+        "frame_index": 47,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/KqmrNqGaZcQ/output_frames/sec_6_idx_47.jpg",
+        "fps": 60,
+        "explanation": "[3-8] Next, the player in blue continues to kick the ball. This time, as he kicks, a green rectangular frame with a white check mark appears above. The ball is successfully kicked to the player in black's feet."
+    },
+    {
+        "second": 7,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/KqmrNqGaZcQ/output_frames/sec_7_idx_1.jpg",
+        "fps": 60,
+        "explanation": "[3-8] Next, the player in blue continues to kick the ball. This time, as he kicks, a green rectangular frame with a white check mark appears above. The ball is successfully kicked to the player in black's feet."
+    },
+    {
+        "second": 8,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/KqmrNqGaZcQ/output_frames/sec_8_idx_21.jpg",
+        "fps": 60,
+        "explanation": "[3-8] Next, the player in blue continues to kick the ball. This time, as he kicks, a green rectangular frame with a white check mark appears above. The ball is successfully kicked to the player in black's feet."
+    }
+]

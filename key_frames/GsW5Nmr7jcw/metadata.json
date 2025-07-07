@@ -1,0 +1,93 @@
+[
+    {
+        "second": 0,
+        "frame_index": 50,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GsW5Nmr7jcw/output_frames/sec_0_idx_50.jpg",
+        "fps": 60,
+        "explanation": "[0-0] On an outdoor court, four people are standing. The man in front is wearing a gray shirt, black pants, and blue shoes, with a yellow ball above him. The three men behind him are all wearing black clothes, and the two on the left have balls at their feet. They are looking at the man in blue shoes in front. Outside the court are some buildings and trees."
+    },
+    {
+        "second": 1,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GsW5Nmr7jcw/output_frames/sec_1_idx_15.jpg",
+        "fps": 60,
+        "explanation": "[0-2] At this point, the man in blue shoes kicks the ball forward, and three more men appear in the picture, wearing the same shirt but different colored shoes. One man is wearing white shoes, one is wearing red shoes, and one is wearing yellow shoes. The man in blue shoes passes the ball to his teammate in yellow shoes."
+    },
+    {
+        "second": 2,
+        "frame_index": 32,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GsW5Nmr7jcw/output_frames/sec_2_idx_32.jpg",
+        "fps": 60,
+        "explanation": "[0-2] At this point, the man in blue shoes kicks the ball forward, and three more men appear in the picture, wearing the same shirt but different colored shoes. One man is wearing white shoes, one is wearing red shoes, and one is wearing yellow shoes. The man in blue shoes passes the ball to his teammate in yellow shoes."
+    },
+    {
+        "second": 3,
+        "frame_index": 34,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GsW5Nmr7jcw/output_frames/sec_3_idx_34.jpg",
+        "fps": 60,
+        "explanation": "[2-12] At this time, another man wearing white shoes appears in the picture, and next to him is a man wearing green shoes. Then the man in yellow shoes kicks the ball backward to the teammate in white shoes who appeared later. Then the man in white shoes bounces the ball with his knee and passes it to the teammate in green shoes. After receiving the ball, the man in green shoes kicks the ball up, and when the ball falls, the teammate in red shoes catches it. Then the man in red shoes passes the ball back to the man in white shoes who appeared later, and after receiving the ball, the man in white shoes starts passing the ball again."
+    },
+    {
+        "second": 4,
+        "frame_index": 59,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GsW5Nmr7jcw/output_frames/sec_4_idx_59.jpg",
+        "fps": 60,
+        "explanation": "[2-12] At this time, another man wearing white shoes appears in the picture, and next to him is a man wearing green shoes. Then the man in yellow shoes kicks the ball backward to the teammate in white shoes who appeared later. Then the man in white shoes bounces the ball with his knee and passes it to the teammate in green shoes. After receiving the ball, the man in green shoes kicks the ball up, and when the ball falls, the teammate in red shoes catches it. Then the man in red shoes passes the ball back to the man in white shoes who appeared later, and after receiving the ball, the man in white shoes starts passing the ball again."
+    },
+    {
+        "second": 5,
+        "frame_index": 38,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GsW5Nmr7jcw/output_frames/sec_5_idx_38.jpg",
+        "fps": 60,
+        "explanation": "[2-12] At this time, another man wearing white shoes appears in the picture, and next to him is a man wearing green shoes. Then the man in yellow shoes kicks the ball backward to the teammate in white shoes who appeared later. Then the man in white shoes bounces the ball with his knee and passes it to the teammate in green shoes. After receiving the ball, the man in green shoes kicks the ball up, and when the ball falls, the teammate in red shoes catches it. Then the man in red shoes passes the ball back to the man in white shoes who appeared later, and after receiving the ball, the man in white shoes starts passing the ball again."
+    },
+    {
+        "second": 6,
+        "frame_index": 33,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GsW5Nmr7jcw/output_frames/sec_6_idx_33.jpg",
+        "fps": 60,
+        "explanation": "[2-12] At this time, another man wearing white shoes appears in the picture, and next to him is a man wearing green shoes. Then the man in yellow shoes kicks the ball backward to the teammate in white shoes who appeared later. Then the man in white shoes bounces the ball with his knee and passes it to the teammate in green shoes. After receiving the ball, the man in green shoes kicks the ball up, and when the ball falls, the teammate in red shoes catches it. Then the man in red shoes passes the ball back to the man in white shoes who appeared later, and after receiving the ball, the man in white shoes starts passing the ball again."
+    },
+    {
+        "second": 7,
+        "frame_index": 31,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GsW5Nmr7jcw/output_frames/sec_7_idx_31.jpg",
+        "fps": 60,
+        "explanation": "[2-12] At this time, another man wearing white shoes appears in the picture, and next to him is a man wearing green shoes. Then the man in yellow shoes kicks the ball backward to the teammate in white shoes who appeared later. Then the man in white shoes bounces the ball with his knee and passes it to the teammate in green shoes. After receiving the ball, the man in green shoes kicks the ball up, and when the ball falls, the teammate in red shoes catches it. Then the man in red shoes passes the ball back to the man in white shoes who appeared later, and after receiving the ball, the man in white shoes starts passing the ball again."
+    },
+    {
+        "second": 8,
+        "frame_index": 30,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GsW5Nmr7jcw/output_frames/sec_8_idx_30.jpg",
+        "fps": 60,
+        "explanation": "[2-12] At this time, another man wearing white shoes appears in the picture, and next to him is a man wearing green shoes. Then the man in yellow shoes kicks the ball backward to the teammate in white shoes who appeared later. Then the man in white shoes bounces the ball with his knee and passes it to the teammate in green shoes. After receiving the ball, the man in green shoes kicks the ball up, and when the ball falls, the teammate in red shoes catches it. Then the man in red shoes passes the ball back to the man in white shoes who appeared later, and after receiving the ball, the man in white shoes starts passing the ball again."
+    },
+    {
+        "second": 9,
+        "frame_index": 53,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GsW5Nmr7jcw/output_frames/sec_9_idx_53.jpg",
+        "fps": 60,
+        "explanation": "[2-12] At this time, another man wearing white shoes appears in the picture, and next to him is a man wearing green shoes. Then the man in yellow shoes kicks the ball backward to the teammate in white shoes who appeared later. Then the man in white shoes bounces the ball with his knee and passes it to the teammate in green shoes. After receiving the ball, the man in green shoes kicks the ball up, and when the ball falls, the teammate in red shoes catches it. Then the man in red shoes passes the ball back to the man in white shoes who appeared later, and after receiving the ball, the man in white shoes starts passing the ball again."
+    },
+    {
+        "second": 10,
+        "frame_index": 53,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GsW5Nmr7jcw/output_frames/sec_10_idx_53.jpg",
+        "fps": 60,
+        "explanation": "[2-12] At this time, another man wearing white shoes appears in the picture, and next to him is a man wearing green shoes. Then the man in yellow shoes kicks the ball backward to the teammate in white shoes who appeared later. Then the man in white shoes bounces the ball with his knee and passes it to the teammate in green shoes. After receiving the ball, the man in green shoes kicks the ball up, and when the ball falls, the teammate in red shoes catches it. Then the man in red shoes passes the ball back to the man in white shoes who appeared later, and after receiving the ball, the man in white shoes starts passing the ball again."
+    },
+    {
+        "second": 11,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GsW5Nmr7jcw/output_frames/sec_11_idx_2.jpg",
+        "fps": 60,
+        "explanation": "[2-12] At this time, another man wearing white shoes appears in the picture, and next to him is a man wearing green shoes. Then the man in yellow shoes kicks the ball backward to the teammate in white shoes who appeared later. Then the man in white shoes bounces the ball with his knee and passes it to the teammate in green shoes. After receiving the ball, the man in green shoes kicks the ball up, and when the ball falls, the teammate in red shoes catches it. Then the man in red shoes passes the ball back to the man in white shoes who appeared later, and after receiving the ball, the man in white shoes starts passing the ball again."
+    },
+    {
+        "second": 12,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GsW5Nmr7jcw/output_frames/sec_12_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[2-12] At this time, another man wearing white shoes appears in the picture, and next to him is a man wearing green shoes. Then the man in yellow shoes kicks the ball backward to the teammate in white shoes who appeared later. Then the man in white shoes bounces the ball with his knee and passes it to the teammate in green shoes. After receiving the ball, the man in green shoes kicks the ball up, and when the ball falls, the teammate in red shoes catches it. Then the man in red shoes passes the ball back to the man in white shoes who appeared later, and after receiving the ball, the man in white shoes starts passing the ball again."
+    }
+]

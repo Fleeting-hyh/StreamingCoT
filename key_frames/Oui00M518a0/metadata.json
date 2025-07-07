@@ -1,0 +1,44 @@
+[
+    {
+        "second": 0,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Oui00M518a0/output_frames/sec_0_idx_15.jpg",
+        "fps": 24,
+        "explanation": "[0-0] In a brick-walled room with a painting of a red sports car on the wall, Spiderman is standing by a wooden table with a plate of hamburgers on it."
+    },
+    {
+        "second": 1,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Oui00M518a0/output_frames/sec_1_idx_23.jpg",
+        "fps": 24,
+        "explanation": "[0-5] The camera moves to the right, a Joker wearing a purple striped suit pops his head out from under the table and reaches out to grab a hamburger from the plate, then the Joker moves down and disappears. Spiderman turns to look at the empty plate, then turns his head to look around, holding a hamburger in his right hand and placing it on the plate, then turns to look to the left."
+    },
+    {
+        "second": 2,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Oui00M518a0/output_frames/sec_2_idx_0.jpg",
+        "fps": 24,
+        "explanation": "[0-5] The camera moves to the right, a Joker wearing a purple striped suit pops his head out from under the table and reaches out to grab a hamburger from the plate, then the Joker moves down and disappears. Spiderman turns to look at the empty plate, then turns his head to look around, holding a hamburger in his right hand and placing it on the plate, then turns to look to the left."
+    },
+    {
+        "second": 3,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Oui00M518a0/output_frames/sec_3_idx_3.jpg",
+        "fps": 24,
+        "explanation": "[0-5] The camera moves to the right, a Joker wearing a purple striped suit pops his head out from under the table and reaches out to grab a hamburger from the plate, then the Joker moves down and disappears. Spiderman turns to look at the empty plate, then turns his head to look around, holding a hamburger in his right hand and placing it on the plate, then turns to look to the left."
+    },
+    {
+        "second": 4,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Oui00M518a0/output_frames/sec_4_idx_6.jpg",
+        "fps": 24,
+        "explanation": "[0-5] The camera moves to the right, a Joker wearing a purple striped suit pops his head out from under the table and reaches out to grab a hamburger from the plate, then the Joker moves down and disappears. Spiderman turns to look at the empty plate, then turns his head to look around, holding a hamburger in his right hand and placing it on the plate, then turns to look to the left."
+    },
+    {
+        "second": 5,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Oui00M518a0/output_frames/sec_5_idx_5.jpg",
+        "fps": 24,
+        "explanation": "[0-5] The camera moves to the right, a Joker wearing a purple striped suit pops his head out from under the table and reaches out to grab a hamburger from the plate, then the Joker moves down and disappears. Spiderman turns to look at the empty plate, then turns his head to look around, holding a hamburger in his right hand and placing it on the plate, then turns to look to the left."
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "second": 0,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TmOvuLLdjfg/output_frames/sec_0_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-0] The scene shows a railway turnout with rails, sleepers, and ballast. There is white English text PERJALANAN KERETA on the lower right side of the video."
+    },
+    {
+        "second": 1,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TmOvuLLdjfg/output_frames/sec_1_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[0-6] Finally, a short section of rail moves to the right side."
+    },
+    {
+        "second": 2,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TmOvuLLdjfg/output_frames/sec_2_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[0-6] Finally, a short section of rail moves to the right side."
+    },
+    {
+        "second": 3,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TmOvuLLdjfg/output_frames/sec_3_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-6] Finally, a short section of rail moves to the right side."
+    },
+    {
+        "second": 4,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TmOvuLLdjfg/output_frames/sec_4_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-6] Finally, a short section of rail moves to the right side."
+    },
+    {
+        "second": 5,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TmOvuLLdjfg/output_frames/sec_5_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-6] Finally, a short section of rail moves to the right side."
+    },
+    {
+        "second": 6,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TmOvuLLdjfg/output_frames/sec_6_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[0-6] Finally, a short section of rail moves to the right side."
+    }
+]

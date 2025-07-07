@@ -1,0 +1,401 @@
+[
+    {
+        "second": 0,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7Fp7OKIMi5s/output_frames/sec_0_idx_7.jpg",
+        "fps": 24,
+        "explanation": "[0-0] A flashlight is strapped to a shelf, its beam shining down to the left. On the shelf below the flashlight, there's a plate with colorful objects. To the right of the plate is a small blue animal."
+    },
+    {
+        "second": 1,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7Fp7OKIMi5s/output_frames/sec_1_idx_7.jpg",
+        "fps": 24,
+        "explanation": "[0-3] The small blue mouse pushes the plate from right to left. The flashlight shines on the objects in the plate, causing the color of the light to change. The small blue mouse stands on the edge of the shelf, looking down."
+    },
+    {
+        "second": 2,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7Fp7OKIMi5s/output_frames/sec_2_idx_13.jpg",
+        "fps": 24,
+        "explanation": "[0-3] The small blue mouse pushes the plate from right to left. The flashlight shines on the objects in the plate, causing the color of the light to change. The small blue mouse stands on the edge of the shelf, looking down."
+    },
+    {
+        "second": 3,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7Fp7OKIMi5s/output_frames/sec_3_idx_19.jpg",
+        "fps": 24,
+        "explanation": "[0-3] The small blue mouse pushes the plate from right to left. The flashlight shines on the objects in the plate, causing the color of the light to change. The small blue mouse stands on the edge of the shelf, looking down."
+    },
+    {
+        "second": 4,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7Fp7OKIMi5s/output_frames/sec_4_idx_0.jpg",
+        "fps": 24,
+        "explanation": "[3-12] Then the scene switches to the ground illuminated by the flashlight. A small brown mouse dances in the light, then stops on the right side, eyes wide open, looking to the right."
+    },
+    {
+        "second": 5,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7Fp7OKIMi5s/output_frames/sec_5_idx_1.jpg",
+        "fps": 24,
+        "explanation": "[3-12] Then the scene switches to the ground illuminated by the flashlight. A small brown mouse dances in the light, then stops on the right side, eyes wide open, looking to the right."
+    },
+    {
+        "second": 6,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7Fp7OKIMi5s/output_frames/sec_6_idx_19.jpg",
+        "fps": 24,
+        "explanation": "[3-12] Then the scene switches to the ground illuminated by the flashlight. A small brown mouse dances in the light, then stops on the right side, eyes wide open, looking to the right."
+    },
+    {
+        "second": 7,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7Fp7OKIMi5s/output_frames/sec_7_idx_23.jpg",
+        "fps": 24,
+        "explanation": "[3-12] Then the scene switches to the ground illuminated by the flashlight. A small brown mouse dances in the light, then stops on the right side, eyes wide open, looking to the right."
+    },
+    {
+        "second": 8,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7Fp7OKIMi5s/output_frames/sec_8_idx_11.jpg",
+        "fps": 24,
+        "explanation": "[3-12] Then the scene switches to the ground illuminated by the flashlight. A small brown mouse dances in the light, then stops on the right side, eyes wide open, looking to the right."
+    },
+    {
+        "second": 9,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7Fp7OKIMi5s/output_frames/sec_9_idx_22.jpg",
+        "fps": 24,
+        "explanation": "[3-12] Then the scene switches to the ground illuminated by the flashlight. A small brown mouse dances in the light, then stops on the right side, eyes wide open, looking to the right."
+    },
+    {
+        "second": 10,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7Fp7OKIMi5s/output_frames/sec_10_idx_1.jpg",
+        "fps": 24,
+        "explanation": "[3-12] Then the scene switches to the ground illuminated by the flashlight. A small brown mouse dances in the light, then stops on the right side, eyes wide open, looking to the right."
+    },
+    {
+        "second": 11,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7Fp7OKIMi5s/output_frames/sec_11_idx_9.jpg",
+        "fps": 24,
+        "explanation": "[3-12] Then the scene switches to the ground illuminated by the flashlight. A small brown mouse dances in the light, then stops on the right side, eyes wide open, looking to the right."
+    },
+    {
+        "second": 12,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7Fp7OKIMi5s/output_frames/sec_12_idx_3.jpg",
+        "fps": 24,
+        "explanation": "[3-12] Then the scene switches to the ground illuminated by the flashlight. A small brown mouse dances in the light, then stops on the right side, eyes wide open, looking to the right."
+    },
+    {
+        "second": 13,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7Fp7OKIMi5s/output_frames/sec_13_idx_6.jpg",
+        "fps": 24,
+        "explanation": "[12-20] Then the little blue mouse slides in from the right, sliding back and forth across the illuminated floor, and then slides up to the small brown mouse. The brown mouse puts its hands on its hips, and they look at each other."
+    },
+    {
+        "second": 14,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7Fp7OKIMi5s/output_frames/sec_14_idx_8.jpg",
+        "fps": 24,
+        "explanation": "[12-20] Then the little blue mouse slides in from the right, sliding back and forth across the illuminated floor, and then slides up to the small brown mouse. The brown mouse puts its hands on its hips, and they look at each other."
+    },
+    {
+        "second": 15,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7Fp7OKIMi5s/output_frames/sec_15_idx_13.jpg",
+        "fps": 24,
+        "explanation": "[12-20] Then the little blue mouse slides in from the right, sliding back and forth across the illuminated floor, and then slides up to the small brown mouse. The brown mouse puts its hands on its hips, and they look at each other."
+    },
+    {
+        "second": 16,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7Fp7OKIMi5s/output_frames/sec_16_idx_15.jpg",
+        "fps": 24,
+        "explanation": "[12-20] Then the little blue mouse slides in from the right, sliding back and forth across the illuminated floor, and then slides up to the small brown mouse. The brown mouse puts its hands on its hips, and they look at each other."
+    },
+    {
+        "second": 17,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7Fp7OKIMi5s/output_frames/sec_17_idx_0.jpg",
+        "fps": 24,
+        "explanation": "[12-20] Then the little blue mouse slides in from the right, sliding back and forth across the illuminated floor, and then slides up to the small brown mouse. The brown mouse puts its hands on its hips, and they look at each other."
+    },
+    {
+        "second": 18,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7Fp7OKIMi5s/output_frames/sec_18_idx_4.jpg",
+        "fps": 24,
+        "explanation": "[12-20] Then the little blue mouse slides in from the right, sliding back and forth across the illuminated floor, and then slides up to the small brown mouse. The brown mouse puts its hands on its hips, and they look at each other."
+    },
+    {
+        "second": 19,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7Fp7OKIMi5s/output_frames/sec_19_idx_10.jpg",
+        "fps": 24,
+        "explanation": "[12-20] Then the little blue mouse slides in from the right, sliding back and forth across the illuminated floor, and then slides up to the small brown mouse. The brown mouse puts its hands on its hips, and they look at each other."
+    },
+    {
+        "second": 20,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7Fp7OKIMi5s/output_frames/sec_20_idx_23.jpg",
+        "fps": 24,
+        "explanation": "[12-20] Then the little blue mouse slides in from the right, sliding back and forth across the illuminated floor, and then slides up to the small brown mouse. The brown mouse puts its hands on its hips, and they look at each other."
+    },
+    {
+        "second": 21,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7Fp7OKIMi5s/output_frames/sec_21_idx_7.jpg",
+        "fps": 24,
+        "explanation": "[20-28] Then the small brown mouse takes the small blue mouse's hands, and the two of them dance with their eyes closed on the floor illuminated by the light."
+    },
+    {
+        "second": 22,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7Fp7OKIMi5s/output_frames/sec_22_idx_22.jpg",
+        "fps": 24,
+        "explanation": "[20-28] Then the small brown mouse takes the small blue mouse's hands, and the two of them dance with their eyes closed on the floor illuminated by the light."
+    },
+    {
+        "second": 23,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7Fp7OKIMi5s/output_frames/sec_23_idx_0.jpg",
+        "fps": 24,
+        "explanation": "[20-28] Then the small brown mouse takes the small blue mouse's hands, and the two of them dance with their eyes closed on the floor illuminated by the light."
+    },
+    {
+        "second": 24,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7Fp7OKIMi5s/output_frames/sec_24_idx_19.jpg",
+        "fps": 24,
+        "explanation": "[20-28] Then the small brown mouse takes the small blue mouse's hands, and the two of them dance with their eyes closed on the floor illuminated by the light."
+    },
+    {
+        "second": 25,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7Fp7OKIMi5s/output_frames/sec_25_idx_23.jpg",
+        "fps": 24,
+        "explanation": "[20-28] Then the small brown mouse takes the small blue mouse's hands, and the two of them dance with their eyes closed on the floor illuminated by the light."
+    },
+    {
+        "second": 26,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7Fp7OKIMi5s/output_frames/sec_26_idx_2.jpg",
+        "fps": 24,
+        "explanation": "[20-28] Then the small brown mouse takes the small blue mouse's hands, and the two of them dance with their eyes closed on the floor illuminated by the light."
+    },
+    {
+        "second": 27,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7Fp7OKIMi5s/output_frames/sec_27_idx_3.jpg",
+        "fps": 24,
+        "explanation": "[20-28] Then the small brown mouse takes the small blue mouse's hands, and the two of them dance with their eyes closed on the floor illuminated by the light."
+    },
+    {
+        "second": 28,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7Fp7OKIMi5s/output_frames/sec_28_idx_10.jpg",
+        "fps": 24,
+        "explanation": "[20-28] Then the small brown mouse takes the small blue mouse's hands, and the two of them dance with their eyes closed on the floor illuminated by the light."
+    },
+    {
+        "second": 29,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7Fp7OKIMi5s/output_frames/sec_29_idx_6.jpg",
+        "fps": 24,
+        "explanation": "[28-35] The scene then switches to Tom's bedroom, where he is sleeping on a sofa with a white blanket over him. There is a gray fireplace on the right side of the room. Tom suddenly wakes up and jumps up from the sofa, looking to the right in confusion. The blanket over his head falls off, and he walks cautiously towards a white bookshelf."
+    },
+    {
+        "second": 30,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7Fp7OKIMi5s/output_frames/sec_30_idx_9.jpg",
+        "fps": 24,
+        "explanation": "[28-35] The scene then switches to Tom's bedroom, where he is sleeping on a sofa with a white blanket over him. There is a gray fireplace on the right side of the room. Tom suddenly wakes up and jumps up from the sofa, looking to the right in confusion. The blanket over his head falls off, and he walks cautiously towards a white bookshelf."
+    },
+    {
+        "second": 31,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7Fp7OKIMi5s/output_frames/sec_31_idx_5.jpg",
+        "fps": 24,
+        "explanation": "[28-35] The scene then switches to Tom's bedroom, where he is sleeping on a sofa with a white blanket over him. There is a gray fireplace on the right side of the room. Tom suddenly wakes up and jumps up from the sofa, looking to the right in confusion. The blanket over his head falls off, and he walks cautiously towards a white bookshelf."
+    },
+    {
+        "second": 32,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7Fp7OKIMi5s/output_frames/sec_32_idx_17.jpg",
+        "fps": 24,
+        "explanation": "[28-35] The scene then switches to Tom's bedroom, where he is sleeping on a sofa with a white blanket over him. There is a gray fireplace on the right side of the room. Tom suddenly wakes up and jumps up from the sofa, looking to the right in confusion. The blanket over his head falls off, and he walks cautiously towards a white bookshelf."
+    },
+    {
+        "second": 33,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7Fp7OKIMi5s/output_frames/sec_33_idx_16.jpg",
+        "fps": 24,
+        "explanation": "[28-35] The scene then switches to Tom's bedroom, where he is sleeping on a sofa with a white blanket over him. There is a gray fireplace on the right side of the room. Tom suddenly wakes up and jumps up from the sofa, looking to the right in confusion. The blanket over his head falls off, and he walks cautiously towards a white bookshelf."
+    },
+    {
+        "second": 34,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7Fp7OKIMi5s/output_frames/sec_34_idx_12.jpg",
+        "fps": 24,
+        "explanation": "[28-35] The scene then switches to Tom's bedroom, where he is sleeping on a sofa with a white blanket over him. There is a gray fireplace on the right side of the room. Tom suddenly wakes up and jumps up from the sofa, looking to the right in confusion. The blanket over his head falls off, and he walks cautiously towards a white bookshelf."
+    },
+    {
+        "second": 35,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7Fp7OKIMi5s/output_frames/sec_35_idx_1.jpg",
+        "fps": 24,
+        "explanation": "[28-35] The scene then switches to Tom's bedroom, where he is sleeping on a sofa with a white blanket over him. There is a gray fireplace on the right side of the room. Tom suddenly wakes up and jumps up from the sofa, looking to the right in confusion. The blanket over his head falls off, and he walks cautiously towards a white bookshelf."
+    },
+    {
+        "second": 36,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7Fp7OKIMi5s/output_frames/sec_36_idx_3.jpg",
+        "fps": 24,
+        "explanation": "[35-40] Tom then turns the doorknob with his right hand, opens the door, and sticks his head into the room."
+    },
+    {
+        "second": 37,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7Fp7OKIMi5s/output_frames/sec_37_idx_14.jpg",
+        "fps": 24,
+        "explanation": "[35-40] Tom then turns the doorknob with his right hand, opens the door, and sticks his head into the room."
+    },
+    {
+        "second": 38,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7Fp7OKIMi5s/output_frames/sec_38_idx_1.jpg",
+        "fps": 24,
+        "explanation": "[35-40] Tom then turns the doorknob with his right hand, opens the door, and sticks his head into the room."
+    },
+    {
+        "second": 39,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7Fp7OKIMi5s/output_frames/sec_39_idx_3.jpg",
+        "fps": 24,
+        "explanation": "[35-40] Tom then turns the doorknob with his right hand, opens the door, and sticks his head into the room."
+    },
+    {
+        "second": 40,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7Fp7OKIMi5s/output_frames/sec_40_idx_9.jpg",
+        "fps": 24,
+        "explanation": "[35-40] Tom then turns the doorknob with his right hand, opens the door, and sticks his head into the room."
+    },
+    {
+        "second": 41,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7Fp7OKIMi5s/output_frames/sec_41_idx_22.jpg",
+        "fps": 24,
+        "explanation": "[40-50] The scene then switches to a room where the small blue mouse is grabbing the small brown mouse's tail, and the two are sliding freely around the room. Then the small brown mouse grabs the leg of a green chair, and the small blue mouse is thrown off, continuing to slide to the left. Then the small blue mouse grabs Tom's whiskers with both hands and continues to slide to the left, stretching Tom's whiskers out. Then there are several flashes on the right, and the small blue mouse pulls off Tom's whiskers. The small blue mouse squats down on the gray carpet, its rear end glowing."
+    },
+    {
+        "second": 42,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7Fp7OKIMi5s/output_frames/sec_42_idx_21.jpg",
+        "fps": 24,
+        "explanation": "[40-50] The scene then switches to a room where the small blue mouse is grabbing the small brown mouse's tail, and the two are sliding freely around the room. Then the small brown mouse grabs the leg of a green chair, and the small blue mouse is thrown off, continuing to slide to the left. Then the small blue mouse grabs Tom's whiskers with both hands and continues to slide to the left, stretching Tom's whiskers out. Then there are several flashes on the right, and the small blue mouse pulls off Tom's whiskers. The small blue mouse squats down on the gray carpet, its rear end glowing."
+    },
+    {
+        "second": 43,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7Fp7OKIMi5s/output_frames/sec_43_idx_13.jpg",
+        "fps": 24,
+        "explanation": "[40-50] The scene then switches to a room where the small blue mouse is grabbing the small brown mouse's tail, and the two are sliding freely around the room. Then the small brown mouse grabs the leg of a green chair, and the small blue mouse is thrown off, continuing to slide to the left. Then the small blue mouse grabs Tom's whiskers with both hands and continues to slide to the left, stretching Tom's whiskers out. Then there are several flashes on the right, and the small blue mouse pulls off Tom's whiskers. The small blue mouse squats down on the gray carpet, its rear end glowing."
+    },
+    {
+        "second": 44,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7Fp7OKIMi5s/output_frames/sec_44_idx_0.jpg",
+        "fps": 24,
+        "explanation": "[40-50] The scene then switches to a room where the small blue mouse is grabbing the small brown mouse's tail, and the two are sliding freely around the room. Then the small brown mouse grabs the leg of a green chair, and the small blue mouse is thrown off, continuing to slide to the left. Then the small blue mouse grabs Tom's whiskers with both hands and continues to slide to the left, stretching Tom's whiskers out. Then there are several flashes on the right, and the small blue mouse pulls off Tom's whiskers. The small blue mouse squats down on the gray carpet, its rear end glowing."
+    },
+    {
+        "second": 45,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7Fp7OKIMi5s/output_frames/sec_45_idx_4.jpg",
+        "fps": 24,
+        "explanation": "[40-50] The scene then switches to a room where the small blue mouse is grabbing the small brown mouse's tail, and the two are sliding freely around the room. Then the small brown mouse grabs the leg of a green chair, and the small blue mouse is thrown off, continuing to slide to the left. Then the small blue mouse grabs Tom's whiskers with both hands and continues to slide to the left, stretching Tom's whiskers out. Then there are several flashes on the right, and the small blue mouse pulls off Tom's whiskers. The small blue mouse squats down on the gray carpet, its rear end glowing."
+    },
+    {
+        "second": 46,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7Fp7OKIMi5s/output_frames/sec_46_idx_11.jpg",
+        "fps": 24,
+        "explanation": "[40-50] The scene then switches to a room where the small blue mouse is grabbing the small brown mouse's tail, and the two are sliding freely around the room. Then the small brown mouse grabs the leg of a green chair, and the small blue mouse is thrown off, continuing to slide to the left. Then the small blue mouse grabs Tom's whiskers with both hands and continues to slide to the left, stretching Tom's whiskers out. Then there are several flashes on the right, and the small blue mouse pulls off Tom's whiskers. The small blue mouse squats down on the gray carpet, its rear end glowing."
+    },
+    {
+        "second": 47,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7Fp7OKIMi5s/output_frames/sec_47_idx_16.jpg",
+        "fps": 24,
+        "explanation": "[40-50] The scene then switches to a room where the small blue mouse is grabbing the small brown mouse's tail, and the two are sliding freely around the room. Then the small brown mouse grabs the leg of a green chair, and the small blue mouse is thrown off, continuing to slide to the left. Then the small blue mouse grabs Tom's whiskers with both hands and continues to slide to the left, stretching Tom's whiskers out. Then there are several flashes on the right, and the small blue mouse pulls off Tom's whiskers. The small blue mouse squats down on the gray carpet, its rear end glowing."
+    },
+    {
+        "second": 48,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7Fp7OKIMi5s/output_frames/sec_48_idx_20.jpg",
+        "fps": 24,
+        "explanation": "[40-50] The scene then switches to a room where the small blue mouse is grabbing the small brown mouse's tail, and the two are sliding freely around the room. Then the small brown mouse grabs the leg of a green chair, and the small blue mouse is thrown off, continuing to slide to the left. Then the small blue mouse grabs Tom's whiskers with both hands and continues to slide to the left, stretching Tom's whiskers out. Then there are several flashes on the right, and the small blue mouse pulls off Tom's whiskers. The small blue mouse squats down on the gray carpet, its rear end glowing."
+    },
+    {
+        "second": 49,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7Fp7OKIMi5s/output_frames/sec_49_idx_0.jpg",
+        "fps": 24,
+        "explanation": "[40-50] The scene then switches to a room where the small blue mouse is grabbing the small brown mouse's tail, and the two are sliding freely around the room. Then the small brown mouse grabs the leg of a green chair, and the small blue mouse is thrown off, continuing to slide to the left. Then the small blue mouse grabs Tom's whiskers with both hands and continues to slide to the left, stretching Tom's whiskers out. Then there are several flashes on the right, and the small blue mouse pulls off Tom's whiskers. The small blue mouse squats down on the gray carpet, its rear end glowing."
+    },
+    {
+        "second": 50,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7Fp7OKIMi5s/output_frames/sec_50_idx_3.jpg",
+        "fps": 24,
+        "explanation": "[40-50] The scene then switches to a room where the small blue mouse is grabbing the small brown mouse's tail, and the two are sliding freely around the room. Then the small brown mouse grabs the leg of a green chair, and the small blue mouse is thrown off, continuing to slide to the left. Then the small blue mouse grabs Tom's whiskers with both hands and continues to slide to the left, stretching Tom's whiskers out. Then there are several flashes on the right, and the small blue mouse pulls off Tom's whiskers. The small blue mouse squats down on the gray carpet, its rear end glowing."
+    },
+    {
+        "second": 51,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7Fp7OKIMi5s/output_frames/sec_51_idx_11.jpg",
+        "fps": 24,
+        "explanation": "[50-56] Then black subtitles appear on the left. Tom looks to the left fiercely. The small blue mouse takes the whiskers and puts them near Tom's mouth, then sticks out its tongue, dips it in its hand, and helps Tom stick the whiskers back on his face."
+    },
+    {
+        "second": 52,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7Fp7OKIMi5s/output_frames/sec_52_idx_20.jpg",
+        "fps": 24,
+        "explanation": "[50-56] Then black subtitles appear on the left. Tom looks to the left fiercely. The small blue mouse takes the whiskers and puts them near Tom's mouth, then sticks out its tongue, dips it in its hand, and helps Tom stick the whiskers back on his face."
+    },
+    {
+        "second": 53,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7Fp7OKIMi5s/output_frames/sec_53_idx_23.jpg",
+        "fps": 24,
+        "explanation": "[50-56] Then black subtitles appear on the left. Tom looks to the left fiercely. The small blue mouse takes the whiskers and puts them near Tom's mouth, then sticks out its tongue, dips it in its hand, and helps Tom stick the whiskers back on his face."
+    },
+    {
+        "second": 54,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7Fp7OKIMi5s/output_frames/sec_54_idx_19.jpg",
+        "fps": 24,
+        "explanation": "[50-56] Then black subtitles appear on the left. Tom looks to the left fiercely. The small blue mouse takes the whiskers and puts them near Tom's mouth, then sticks out its tongue, dips it in its hand, and helps Tom stick the whiskers back on his face."
+    },
+    {
+        "second": 55,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7Fp7OKIMi5s/output_frames/sec_55_idx_20.jpg",
+        "fps": 24,
+        "explanation": "[50-56] Then black subtitles appear on the left. Tom looks to the left fiercely. The small blue mouse takes the whiskers and puts them near Tom's mouth, then sticks out its tongue, dips it in its hand, and helps Tom stick the whiskers back on his face."
+    },
+    {
+        "second": 56,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7Fp7OKIMi5s/output_frames/sec_56_idx_1.jpg",
+        "fps": 24,
+        "explanation": "[50-56] Then black subtitles appear on the left. Tom looks to the left fiercely. The small blue mouse takes the whiskers and puts them near Tom's mouth, then sticks out its tongue, dips it in its hand, and helps Tom stick the whiskers back on his face."
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "second": 0,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3TrGqVKJV6Y/output_frames/sec_0_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[0-0] In a room, a man with a purple headscarf and headphones looks to the right, holding a white game controller in both hands, tears streaming down his face. There are several round white lights on the ceiling. Behind the man in the purple headscarf, there is a brown sofa with the white English subtitles \"POV: Xbox and PS4 players on October 20th.\""
+    },
+    {
+        "second": 1,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3TrGqVKJV6Y/output_frames/sec_1_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[0-4] First, the man in the purple headscarf keeps pressing the game controller with both hands, his mouth twitching a few times. The screen switches, the upper part is black, and there are white English subtitles \"POV: Xbox and PS4 players on October 20th.\" The middle part switches to a cartoon city landscape, and a black Spider-Man jumps off a tall building, then swings through the city with both hands grabbing white spider silk. The lower part is also black."
+    },
+    {
+        "second": 2,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3TrGqVKJV6Y/output_frames/sec_2_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[0-4] First, the man in the purple headscarf keeps pressing the game controller with both hands, his mouth twitching a few times. The screen switches, the upper part is black, and there are white English subtitles \"POV: Xbox and PS4 players on October 20th.\" The middle part switches to a cartoon city landscape, and a black Spider-Man jumps off a tall building, then swings through the city with both hands grabbing white spider silk. The lower part is also black."
+    },
+    {
+        "second": 3,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3TrGqVKJV6Y/output_frames/sec_3_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[0-4] First, the man in the purple headscarf keeps pressing the game controller with both hands, his mouth twitching a few times. The screen switches, the upper part is black, and there are white English subtitles \"POV: Xbox and PS4 players on October 20th.\" The middle part switches to a cartoon city landscape, and a black Spider-Man jumps off a tall building, then swings through the city with both hands grabbing white spider silk. The lower part is also black."
+    },
+    {
+        "second": 4,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3TrGqVKJV6Y/output_frames/sec_4_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[0-4] First, the man in the purple headscarf keeps pressing the game controller with both hands, his mouth twitching a few times. The screen switches, the upper part is black, and there are white English subtitles \"POV: Xbox and PS4 players on October 20th.\" The middle part switches to a cartoon city landscape, and a black Spider-Man jumps off a tall building, then swings through the city with both hands grabbing white spider silk. The lower part is also black."
+    },
+    {
+        "second": 5,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3TrGqVKJV6Y/output_frames/sec_5_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[4-8] Finally, the middle part of the picture moves, the black Spider-Man rolls in the air, and starts to descend rapidly. The black Spider-Man lands on the sidewalk, poses in a squatting position, opens his hands and raises them to both sides of his body. Many cracks appear on the ground around the black Spider-Man. The black Spider-Man stands up and runs to the road. The upper and lower parts remain unchanged, and the picture freezes."
+    },
+    {
+        "second": 6,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3TrGqVKJV6Y/output_frames/sec_6_idx_24.jpg",
+        "fps": 30,
+        "explanation": "[4-8] Finally, the middle part of the picture moves, the black Spider-Man rolls in the air, and starts to descend rapidly. The black Spider-Man lands on the sidewalk, poses in a squatting position, opens his hands and raises them to both sides of his body. Many cracks appear on the ground around the black Spider-Man. The black Spider-Man stands up and runs to the road. The upper and lower parts remain unchanged, and the picture freezes."
+    },
+    {
+        "second": 7,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3TrGqVKJV6Y/output_frames/sec_7_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[4-8] Finally, the middle part of the picture moves, the black Spider-Man rolls in the air, and starts to descend rapidly. The black Spider-Man lands on the sidewalk, poses in a squatting position, opens his hands and raises them to both sides of his body. Many cracks appear on the ground around the black Spider-Man. The black Spider-Man stands up and runs to the road. The upper and lower parts remain unchanged, and the picture freezes."
+    },
+    {
+        "second": 8,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3TrGqVKJV6Y/output_frames/sec_8_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[4-8] Finally, the middle part of the picture moves, the black Spider-Man rolls in the air, and starts to descend rapidly. The black Spider-Man lands on the sidewalk, poses in a squatting position, opens his hands and raises them to both sides of his body. Many cracks appear on the ground around the black Spider-Man. The black Spider-Man stands up and runs to the road. The upper and lower parts remain unchanged, and the picture freezes."
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "second": 0,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/NY9soWLol90/output_frames/sec_0_idx_21.jpg",
+        "fps": 25,
+        "explanation": "[0-0] Outside a house at night, a man in a green hat and blue overalls is knocking on the door. The man is holding a blond child wearing yellow clothes and black and white shoes in his left hand, and the child is holding a red bag. On the steps in front of the door is a pumpkin lantern, and in front of the pumpkin lantern is a skeleton dog."
+    },
+    {
+        "second": 1,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/NY9soWLol90/output_frames/sec_1_idx_16.jpg",
+        "fps": 25,
+        "explanation": "[0-2] Then the man in the green hat knocks on the door, and a man in a red hat and blue overalls opens the door. The man in the red hat is holding a bowl of candy."
+    },
+    {
+        "second": 2,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/NY9soWLol90/output_frames/sec_2_idx_24.jpg",
+        "fps": 25,
+        "explanation": "[0-2] Then the man in the green hat knocks on the door, and a man in a red hat and blue overalls opens the door. The man in the red hat is holding a bowl of candy."
+    },
+    {
+        "second": 3,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/NY9soWLol90/output_frames/sec_3_idx_9.jpg",
+        "fps": 25,
+        "explanation": "[2-5] Subsequently, the shot changes, and the man in the red hat pours candy into the red bag in the child's hand while talking."
+    },
+    {
+        "second": 4,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/NY9soWLol90/output_frames/sec_4_idx_1.jpg",
+        "fps": 25,
+        "explanation": "[2-5] Subsequently, the shot changes, and the man in the red hat pours candy into the red bag in the child's hand while talking."
+    },
+    {
+        "second": 5,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/NY9soWLol90/output_frames/sec_5_idx_23.jpg",
+        "fps": 25,
+        "explanation": "[2-5] Subsequently, the shot changes, and the man in the red hat pours candy into the red bag in the child's hand while talking."
+    },
+    {
+        "second": 6,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/NY9soWLol90/output_frames/sec_6_idx_20.jpg",
+        "fps": 25,
+        "explanation": "[5-8] Then the screen changes, and after the man in the red hat waves his hand, the man in the green hat picks up the child and runs away."
+    },
+    {
+        "second": 7,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/NY9soWLol90/output_frames/sec_7_idx_8.jpg",
+        "fps": 25,
+        "explanation": "[5-8] Then the screen changes, and after the man in the red hat waves his hand, the man in the green hat picks up the child and runs away."
+    },
+    {
+        "second": 8,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/NY9soWLol90/output_frames/sec_8_idx_24.jpg",
+        "fps": 25,
+        "explanation": "[5-8] Then the screen changes, and after the man in the red hat waves his hand, the man in the green hat picks up the child and runs away."
+    },
+    {
+        "second": 9,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/NY9soWLol90/output_frames/sec_9_idx_6.jpg",
+        "fps": 25,
+        "explanation": "[8-10] Finally, the man in the red hat spreads his hands in surprise and touches his head."
+    },
+    {
+        "second": 10,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/NY9soWLol90/output_frames/sec_10_idx_0.jpg",
+        "fps": 25,
+        "explanation": "[8-10] Finally, the man in the red hat spreads his hands in surprise and touches his head."
+    }
+]

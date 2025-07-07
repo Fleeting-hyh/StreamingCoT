@@ -1,0 +1,58 @@
+[
+    {
+        "second": 0,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AS0VtBhFIhM/output_frames/sec_0_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A man with glasses, wearing a pink shirt and a colorful cupcake-patterned apron, and a pink headband on his head, is sitting at a wooden table. He is holding a plastic bag open with both hands, his eyes looking down. There is a burger and two glasses of soda on the table. At the bottom of the screen, there is a white background with black text \"Mom\". There is a decorative painting on the wall behind him."
+    },
+    {
+        "second": 1,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AS0VtBhFIhM/output_frames/sec_1_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Then the man in the pink shirt opens the plastic bag and puts it on the table. He then puts a glass of soda into the plastic bag, ties a knot in the bag, and then picks up the other drink and puts it in the bag as well. He then picks up the plastic bag with his right hand, picks up the burger with his left hand, and gets up and leaves."
+    },
+    {
+        "second": 2,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AS0VtBhFIhM/output_frames/sec_2_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Then the man in the pink shirt opens the plastic bag and puts it on the table. He then puts a glass of soda into the plastic bag, ties a knot in the bag, and then picks up the other drink and puts it in the bag as well. He then picks up the plastic bag with his right hand, picks up the burger with his left hand, and gets up and leaves."
+    },
+    {
+        "second": 3,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AS0VtBhFIhM/output_frames/sec_3_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Then the man in the pink shirt opens the plastic bag and puts it on the table. He then puts a glass of soda into the plastic bag, ties a knot in the bag, and then picks up the other drink and puts it in the bag as well. He then picks up the plastic bag with his right hand, picks up the burger with his left hand, and gets up and leaves."
+    },
+    {
+        "second": 4,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AS0VtBhFIhM/output_frames/sec_4_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Then the man in the pink shirt opens the plastic bag and puts it on the table. He then puts a glass of soda into the plastic bag, ties a knot in the bag, and then picks up the other drink and puts it in the bag as well. He then picks up the plastic bag with his right hand, picks up the burger with his left hand, and gets up and leaves."
+    },
+    {
+        "second": 5,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AS0VtBhFIhM/output_frames/sec_5_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[4-7] The scene then cuts to a young man in a knitted green diamond-patterned vest and a white shirt sitting at a table. There are two glasses of soda, a burger and a serving of fries on the table. The man has his hands on either side of the table, his eyes looking down at the items. The words \"Dad\" appear in black on a white background in the middle of the screen. The man then sandwiches the two glasses of soda between his right arm and chest, and picks up the burger and fries with his left hand. He then lifts his left hand, takes a bite of the burger, nods his head, and gets up and walks away to the right."
+    },
+    {
+        "second": 6,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AS0VtBhFIhM/output_frames/sec_6_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[4-7] The scene then cuts to a young man in a knitted green diamond-patterned vest and a white shirt sitting at a table. There are two glasses of soda, a burger and a serving of fries on the table. The man has his hands on either side of the table, his eyes looking down at the items. The words \"Dad\" appear in black on a white background in the middle of the screen. The man then sandwiches the two glasses of soda between his right arm and chest, and picks up the burger and fries with his left hand. He then lifts his left hand, takes a bite of the burger, nods his head, and gets up and walks away to the right."
+    },
+    {
+        "second": 7,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AS0VtBhFIhM/output_frames/sec_7_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[4-7] The scene then cuts to a young man in a knitted green diamond-patterned vest and a white shirt sitting at a table. There are two glasses of soda, a burger and a serving of fries on the table. The man has his hands on either side of the table, his eyes looking down at the items. The words \"Dad\" appear in black on a white background in the middle of the screen. The man then sandwiches the two glasses of soda between his right arm and chest, and picks up the burger and fries with his left hand. He then lifts his left hand, takes a bite of the burger, nods his head, and gets up and walks away to the right."
+    }
+]

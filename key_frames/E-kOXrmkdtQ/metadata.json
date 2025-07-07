@@ -1,0 +1,100 @@
+[
+    {
+        "second": 0,
+        "frame_index": 35,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/E-kOXrmkdtQ/output_frames/sec_0_idx_35.jpg",
+        "fps": 60,
+        "explanation": "[0-0] A girl in a pink bikini is diving in the sea. She has orange hair, wears diving goggles, and holds a selfie stick. Behind her are green seaweed and blue seawater."
+    },
+    {
+        "second": 1,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/E-kOXrmkdtQ/output_frames/sec_1_idx_2.jpg",
+        "fps": 60,
+        "explanation": "[0-5] The camera starts to move with the girl, behind her is a large amount of seaweed, and a few small fish are swimming in the back."
+    },
+    {
+        "second": 2,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/E-kOXrmkdtQ/output_frames/sec_2_idx_4.jpg",
+        "fps": 60,
+        "explanation": "[0-5] The camera starts to move with the girl, behind her is a large amount of seaweed, and a few small fish are swimming in the back."
+    },
+    {
+        "second": 3,
+        "frame_index": 55,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/E-kOXrmkdtQ/output_frames/sec_3_idx_55.jpg",
+        "fps": 60,
+        "explanation": "[0-5] The camera starts to move with the girl, behind her is a large amount of seaweed, and a few small fish are swimming in the back."
+    },
+    {
+        "second": 4,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/E-kOXrmkdtQ/output_frames/sec_4_idx_10.jpg",
+        "fps": 60,
+        "explanation": "[0-5] The camera starts to move with the girl, behind her is a large amount of seaweed, and a few small fish are swimming in the back."
+    },
+    {
+        "second": 5,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/E-kOXrmkdtQ/output_frames/sec_5_idx_15.jpg",
+        "fps": 60,
+        "explanation": "[0-5] The camera starts to move with the girl, behind her is a large amount of seaweed, and a few small fish are swimming in the back."
+    },
+    {
+        "second": 6,
+        "frame_index": 41,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/E-kOXrmkdtQ/output_frames/sec_6_idx_41.jpg",
+        "fps": 60,
+        "explanation": "[5-10] As the girl keeps moving, the scene behind her changes to a sandy seabed."
+    },
+    {
+        "second": 7,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/E-kOXrmkdtQ/output_frames/sec_7_idx_5.jpg",
+        "fps": 60,
+        "explanation": "[5-10] As the girl keeps moving, the scene behind her changes to a sandy seabed."
+    },
+    {
+        "second": 8,
+        "frame_index": 32,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/E-kOXrmkdtQ/output_frames/sec_8_idx_32.jpg",
+        "fps": 60,
+        "explanation": "[5-10] As the girl keeps moving, the scene behind her changes to a sandy seabed."
+    },
+    {
+        "second": 9,
+        "frame_index": 52,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/E-kOXrmkdtQ/output_frames/sec_9_idx_52.jpg",
+        "fps": 60,
+        "explanation": "[5-10] As the girl keeps moving, the scene behind her changes to a sandy seabed."
+    },
+    {
+        "second": 10,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/E-kOXrmkdtQ/output_frames/sec_10_idx_4.jpg",
+        "fps": 60,
+        "explanation": "[5-10] As the girl keeps moving, the scene behind her changes to a sandy seabed."
+    },
+    {
+        "second": 11,
+        "frame_index": 40,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/E-kOXrmkdtQ/output_frames/sec_11_idx_40.jpg",
+        "fps": 60,
+        "explanation": "[10-13] Then the girl continues to move, and the background changes back to seaweed."
+    },
+    {
+        "second": 12,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/E-kOXrmkdtQ/output_frames/sec_12_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[10-13] Then the girl continues to move, and the background changes back to seaweed."
+    },
+    {
+        "second": 13,
+        "frame_index": 44,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/E-kOXrmkdtQ/output_frames/sec_13_idx_44.jpg",
+        "fps": 60,
+        "explanation": "[10-13] Then the girl continues to move, and the background changes back to seaweed."
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "second": 0,
+        "frame_index": 58,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0RDhltTJ88g/output_frames/sec_0_idx_58.jpg",
+        "fps": 60,
+        "explanation": "[0-0] In a dimly lit room, a giant insect lies horizontally on the wooden floor. The door is half open, a beam of light shines in from the hallway, and a character in white clothing stands at the doorway holding a baseball bat. The watermark \"@BANANA D.\" is displayed at the bottom of the screen."
+    },
+    {
+        "second": 1,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0RDhltTJ88g/output_frames/sec_1_idx_1.jpg",
+        "fps": 60,
+        "explanation": "[0-4] The character in white clothing then closes the door. Instantly, the giant insect disappears, replaced by a swarm of cockroaches covering almost the entire floor. Subsequently, the character opens the door, the cockroaches vanish, leaving only the empty floor and the giant insect."
+    },
+    {
+        "second": 2,
+        "frame_index": 38,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0RDhltTJ88g/output_frames/sec_2_idx_38.jpg",
+        "fps": 60,
+        "explanation": "[0-4] The character in white clothing then closes the door. Instantly, the giant insect disappears, replaced by a swarm of cockroaches covering almost the entire floor. Subsequently, the character opens the door, the cockroaches vanish, leaving only the empty floor and the giant insect."
+    },
+    {
+        "second": 3,
+        "frame_index": 59,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0RDhltTJ88g/output_frames/sec_3_idx_59.jpg",
+        "fps": 60,
+        "explanation": "[0-4] The character in white clothing then closes the door. Instantly, the giant insect disappears, replaced by a swarm of cockroaches covering almost the entire floor. Subsequently, the character opens the door, the cockroaches vanish, leaving only the empty floor and the giant insect."
+    },
+    {
+        "second": 4,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0RDhltTJ88g/output_frames/sec_4_idx_1.jpg",
+        "fps": 60,
+        "explanation": "[0-4] The character in white clothing then closes the door. Instantly, the giant insect disappears, replaced by a swarm of cockroaches covering almost the entire floor. Subsequently, the character opens the door, the cockroaches vanish, leaving only the empty floor and the giant insect."
+    },
+    {
+        "second": 5,
+        "frame_index": 31,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0RDhltTJ88g/output_frames/sec_5_idx_31.jpg",
+        "fps": 60,
+        "explanation": "[4-9] Immediately, the character in white clothing closes the door again, and the swarm of cockroaches reappears. Opening the door reveals the giant cockroach once more. Closing the door brings back the swarm of cockroaches. Finally, the character in white clothing opens the door again, and the giant cockroach remains lying on the floor."
+    },
+    {
+        "second": 6,
+        "frame_index": 44,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0RDhltTJ88g/output_frames/sec_6_idx_44.jpg",
+        "fps": 60,
+        "explanation": "[4-9] Immediately, the character in white clothing closes the door again, and the swarm of cockroaches reappears. Opening the door reveals the giant cockroach once more. Closing the door brings back the swarm of cockroaches. Finally, the character in white clothing opens the door again, and the giant cockroach remains lying on the floor."
+    },
+    {
+        "second": 7,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0RDhltTJ88g/output_frames/sec_7_idx_6.jpg",
+        "fps": 60,
+        "explanation": "[4-9] Immediately, the character in white clothing closes the door again, and the swarm of cockroaches reappears. Opening the door reveals the giant cockroach once more. Closing the door brings back the swarm of cockroaches. Finally, the character in white clothing opens the door again, and the giant cockroach remains lying on the floor."
+    },
+    {
+        "second": 8,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0RDhltTJ88g/output_frames/sec_8_idx_24.jpg",
+        "fps": 60,
+        "explanation": "[4-9] Immediately, the character in white clothing closes the door again, and the swarm of cockroaches reappears. Opening the door reveals the giant cockroach once more. Closing the door brings back the swarm of cockroaches. Finally, the character in white clothing opens the door again, and the giant cockroach remains lying on the floor."
+    }
+]

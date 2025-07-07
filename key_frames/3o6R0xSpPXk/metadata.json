@@ -1,0 +1,100 @@
+[
+    {
+        "second": 0,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3o6R0xSpPXk/output_frames/sec_0_idx_6.jpg",
+        "fps": 50,
+        "explanation": "[0-0] A girl with a bun hairstyle, wearing a yellow short-sleeved shirt and three rings on her left hand, is standing. To her left, a boy in a white outfit and a black hat is sitting on a chair. A gray background is behind them. Above them, there are seven emojis: speechless, smirk, robot, smile, confused, wronged, and angry. In the middle of the screen, there is a white number 3."
+    },
+    {
+        "second": 1,
+        "frame_index": 30,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3o6R0xSpPXk/output_frames/sec_1_idx_30.jpg",
+        "fps": 50,
+        "explanation": "[0-2] The white number 3 starts to count down. As the countdown progresses, the boy glances at the girl. When the countdown ends, a white \"GO\" appears. After it disappears, the first emoji above enlarges, and the girl imitates the speechless emoji on her face. Afterward, the two talk together."
+    },
+    {
+        "second": 2,
+        "frame_index": 30,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3o6R0xSpPXk/output_frames/sec_2_idx_30.jpg",
+        "fps": 50,
+        "explanation": "[0-2] The white number 3 starts to count down. As the countdown progresses, the boy glances at the girl. When the countdown ends, a white \"GO\" appears. After it disappears, the first emoji above enlarges, and the girl imitates the speechless emoji on her face. Afterward, the two talk together."
+    },
+    {
+        "second": 3,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3o6R0xSpPXk/output_frames/sec_3_idx_8.jpg",
+        "fps": 50,
+        "explanation": "[2-4] The second emoji above enlarges, the girl holds a knife in her right hand and imitates the smirk emoji on her face, and the boy looks at her. Then they talk together."
+    },
+    {
+        "second": 4,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3o6R0xSpPXk/output_frames/sec_4_idx_7.jpg",
+        "fps": 50,
+        "explanation": "[2-4] The second emoji above enlarges, the girl holds a knife in her right hand and imitates the smirk emoji on her face, and the boy looks at her. Then they talk together."
+    },
+    {
+        "second": 5,
+        "frame_index": 39,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3o6R0xSpPXk/output_frames/sec_5_idx_39.jpg",
+        "fps": 50,
+        "explanation": "[4-6] The third emoji above enlarges, the girl holds an electric drill in her right hand and imitates the robot emoji on her face, and then the boy and the girl move their hands up and down and talk together."
+    },
+    {
+        "second": 6,
+        "frame_index": 31,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3o6R0xSpPXk/output_frames/sec_6_idx_31.jpg",
+        "fps": 50,
+        "explanation": "[4-6] The third emoji above enlarges, the girl holds an electric drill in her right hand and imitates the robot emoji on her face, and then the boy and the girl move their hands up and down and talk together."
+    },
+    {
+        "second": 7,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3o6R0xSpPXk/output_frames/sec_7_idx_2.jpg",
+        "fps": 50,
+        "explanation": "[6-10] The fourth emoji above enlarges, the girl holds a baseball bat in both hands, then she taps the bat on her left hand, imitates the smile emoji on her face, and talks with the boy. Immediately the shot changes, the fifth emoji above enlarges, the girl blows a small trumpet and imitates the confused emoji on her face, the boy looks at her, and then she nods her head up and down."
+    },
+    {
+        "second": 8,
+        "frame_index": 49,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3o6R0xSpPXk/output_frames/sec_8_idx_49.jpg",
+        "fps": 50,
+        "explanation": "[6-10] The fourth emoji above enlarges, the girl holds a baseball bat in both hands, then she taps the bat on her left hand, imitates the smile emoji on her face, and talks with the boy. Immediately the shot changes, the fifth emoji above enlarges, the girl blows a small trumpet and imitates the confused emoji on her face, the boy looks at her, and then she nods her head up and down."
+    },
+    {
+        "second": 9,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3o6R0xSpPXk/output_frames/sec_9_idx_27.jpg",
+        "fps": 50,
+        "explanation": "[6-10] The fourth emoji above enlarges, the girl holds a baseball bat in both hands, then she taps the bat on her left hand, imitates the smile emoji on her face, and talks with the boy. Immediately the shot changes, the fifth emoji above enlarges, the girl blows a small trumpet and imitates the confused emoji on her face, the boy looks at her, and then she nods her head up and down."
+    },
+    {
+        "second": 10,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3o6R0xSpPXk/output_frames/sec_10_idx_3.jpg",
+        "fps": 50,
+        "explanation": "[6-10] The fourth emoji above enlarges, the girl holds a baseball bat in both hands, then she taps the bat on her left hand, imitates the smile emoji on her face, and talks with the boy. Immediately the shot changes, the fifth emoji above enlarges, the girl blows a small trumpet and imitates the confused emoji on her face, the boy looks at her, and then she nods her head up and down."
+    },
+    {
+        "second": 11,
+        "frame_index": 49,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3o6R0xSpPXk/output_frames/sec_11_idx_49.jpg",
+        "fps": 50,
+        "explanation": "[10-13] The sixth emoji above enlarges, the girl holds an axe in both hands and imitates the wronged emoji on her face, the boy looks at her with a terrified expression. Then the girl says something, and the boy opens his mouth. Then the shot changes, the seventh emoji above enlarges, the girl raises an electric saw with both hands and imitates the angry emoji on her face, while the boy opens his mouth in terror after seeing the electric saw and gets down from the chair."
+    },
+    {
+        "second": 12,
+        "frame_index": 38,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3o6R0xSpPXk/output_frames/sec_12_idx_38.jpg",
+        "fps": 50,
+        "explanation": "[10-13] The sixth emoji above enlarges, the girl holds an axe in both hands and imitates the wronged emoji on her face, the boy looks at her with a terrified expression. Then the girl says something, and the boy opens his mouth. Then the shot changes, the seventh emoji above enlarges, the girl raises an electric saw with both hands and imitates the angry emoji on her face, while the boy opens his mouth in terror after seeing the electric saw and gets down from the chair."
+    },
+    {
+        "second": 13,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3o6R0xSpPXk/output_frames/sec_13_idx_1.jpg",
+        "fps": 50,
+        "explanation": "[10-13] The sixth emoji above enlarges, the girl holds an axe in both hands and imitates the wronged emoji on her face, the boy looks at her with a terrified expression. Then the girl says something, and the boy opens his mouth. Then the shot changes, the seventh emoji above enlarges, the girl raises an electric saw with both hands and imitates the angry emoji on her face, while the boy opens his mouth in terror after seeing the electric saw and gets down from the chair."
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "second": 0,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/O9QbfRN6cHk/output_frames/sec_0_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A pair of hands wearing red and white gloves is holding a handgun."
+    },
+    {
+        "second": 1,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/O9QbfRN6cHk/output_frames/sec_1_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The hands remove the magazine from the handgun and hold it in the left hand while chambering a round. A bullet is ejected from the handgun, and the hand holding the magazine catches the bullet in mid-air."
+    },
+    {
+        "second": 2,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/O9QbfRN6cHk/output_frames/sec_2_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The hands remove the magazine from the handgun and hold it in the left hand while chambering a round. A bullet is ejected from the handgun, and the hand holding the magazine catches the bullet in mid-air."
+    },
+    {
+        "second": 3,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/O9QbfRN6cHk/output_frames/sec_3_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The hands remove the magazine from the handgun and hold it in the left hand while chambering a round. A bullet is ejected from the handgun, and the hand holding the magazine catches the bullet in mid-air."
+    },
+    {
+        "second": 4,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/O9QbfRN6cHk/output_frames/sec_4_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The hands remove the magazine from the handgun and hold it in the left hand while chambering a round. A bullet is ejected from the handgun, and the hand holding the magazine catches the bullet in mid-air."
+    }
+]

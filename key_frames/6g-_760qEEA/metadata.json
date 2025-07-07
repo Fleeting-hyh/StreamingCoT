@@ -1,0 +1,415 @@
+[
+    {
+        "second": 0,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6g-_760qEEA/output_frames/sec_0_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[0-0] The picture shows a quiet backyard with an electric scooter and a chair. The yard is surrounded by a hedge, and there is a yellow sunshade above the scooter. The words \"FAILARMY\" are written in the upper right corner of the picture."
+    },
+    {
+        "second": 1,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6g-_760qEEA/output_frames/sec_1_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Suddenly, a car breaks through the hedge and crashes into the electric scooter, knocking the sunshade off. The scene is chaotic. White English subtitles appear at the bottom of the screen."
+    },
+    {
+        "second": 2,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6g-_760qEEA/output_frames/sec_2_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Suddenly, a car breaks through the hedge and crashes into the electric scooter, knocking the sunshade off. The scene is chaotic. White English subtitles appear at the bottom of the screen."
+    },
+    {
+        "second": 3,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6g-_760qEEA/output_frames/sec_3_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[2-6] Then the scene switches to a room where a woman is hanging upside down on a pole, doing spins. However, she loses control and falls off the pole, landing hard on the ground. She lies on the ground, looking a bit embarrassed."
+    },
+    {
+        "second": 4,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6g-_760qEEA/output_frames/sec_4_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[2-6] Then the scene switches to a room where a woman is hanging upside down on a pole, doing spins. However, she loses control and falls off the pole, landing hard on the ground. She lies on the ground, looking a bit embarrassed."
+    },
+    {
+        "second": 5,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6g-_760qEEA/output_frames/sec_5_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[2-6] Then the scene switches to a room where a woman is hanging upside down on a pole, doing spins. However, she loses control and falls off the pole, landing hard on the ground. She lies on the ground, looking a bit embarrassed."
+    },
+    {
+        "second": 6,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6g-_760qEEA/output_frames/sec_6_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[2-6] Then the scene switches to a room where a woman is hanging upside down on a pole, doing spins. However, she loses control and falls off the pole, landing hard on the ground. She lies on the ground, looking a bit embarrassed."
+    },
+    {
+        "second": 7,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6g-_760qEEA/output_frames/sec_7_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[6-10] The scene then shifts to an indoor arena where a man is standing on a chair, trying to mount a horse. He accidentally falls off the chair, breaking it, and he lies on the ground."
+    },
+    {
+        "second": 8,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6g-_760qEEA/output_frames/sec_8_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[6-10] The scene then shifts to an indoor arena where a man is standing on a chair, trying to mount a horse. He accidentally falls off the chair, breaking it, and he lies on the ground."
+    },
+    {
+        "second": 9,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6g-_760qEEA/output_frames/sec_9_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[6-10] The scene then shifts to an indoor arena where a man is standing on a chair, trying to mount a horse. He accidentally falls off the chair, breaking it, and he lies on the ground."
+    },
+    {
+        "second": 10,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6g-_760qEEA/output_frames/sec_10_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[6-10] The scene then shifts to an indoor arena where a man is standing on a chair, trying to mount a horse. He accidentally falls off the chair, breaking it, and he lies on the ground."
+    },
+    {
+        "second": 11,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6g-_760qEEA/output_frames/sec_11_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[10-14] Then the scene switches to a muddy pond where a group of people are riding mountain bikes. A man approaches the edge of the pond and prepares to jump in. He takes a leap and jumps into the mud, splashing a large amount of mud, and ends up covered in mud."
+    },
+    {
+        "second": 12,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6g-_760qEEA/output_frames/sec_12_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[10-14] Then the scene switches to a muddy pond where a group of people are riding mountain bikes. A man approaches the edge of the pond and prepares to jump in. He takes a leap and jumps into the mud, splashing a large amount of mud, and ends up covered in mud."
+    },
+    {
+        "second": 13,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6g-_760qEEA/output_frames/sec_13_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[10-14] Then the scene switches to a muddy pond where a group of people are riding mountain bikes. A man approaches the edge of the pond and prepares to jump in. He takes a leap and jumps into the mud, splashing a large amount of mud, and ends up covered in mud."
+    },
+    {
+        "second": 14,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6g-_760qEEA/output_frames/sec_14_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[10-14] Then the scene switches to a muddy pond where a group of people are riding mountain bikes. A man approaches the edge of the pond and prepares to jump in. He takes a leap and jumps into the mud, splashing a large amount of mud, and ends up covered in mud."
+    },
+    {
+        "second": 15,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6g-_760qEEA/output_frames/sec_15_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[14-20] The scene then switches to a yacht where a man is standing on the stern, about to jump onto an inflatable trampoline. He jumps up but misses the trampoline and falls directly into the sea, splashing a large amount of water. The man turns his head back and smiles. White subtitles also appear at the bottom of the screen."
+    },
+    {
+        "second": 16,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6g-_760qEEA/output_frames/sec_16_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[14-20] The scene then switches to a yacht where a man is standing on the stern, about to jump onto an inflatable trampoline. He jumps up but misses the trampoline and falls directly into the sea, splashing a large amount of water. The man turns his head back and smiles. White subtitles also appear at the bottom of the screen."
+    },
+    {
+        "second": 17,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6g-_760qEEA/output_frames/sec_17_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[14-20] The scene then switches to a yacht where a man is standing on the stern, about to jump onto an inflatable trampoline. He jumps up but misses the trampoline and falls directly into the sea, splashing a large amount of water. The man turns his head back and smiles. White subtitles also appear at the bottom of the screen."
+    },
+    {
+        "second": 18,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6g-_760qEEA/output_frames/sec_18_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[14-20] The scene then switches to a yacht where a man is standing on the stern, about to jump onto an inflatable trampoline. He jumps up but misses the trampoline and falls directly into the sea, splashing a large amount of water. The man turns his head back and smiles. White subtitles also appear at the bottom of the screen."
+    },
+    {
+        "second": 19,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6g-_760qEEA/output_frames/sec_19_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[14-20] The scene then switches to a yacht where a man is standing on the stern, about to jump onto an inflatable trampoline. He jumps up but misses the trampoline and falls directly into the sea, splashing a large amount of water. The man turns his head back and smiles. White subtitles also appear at the bottom of the screen."
+    },
+    {
+        "second": 20,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6g-_760qEEA/output_frames/sec_20_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[14-20] The scene then switches to a yacht where a man is standing on the stern, about to jump onto an inflatable trampoline. He jumps up but misses the trampoline and falls directly into the sea, splashing a large amount of water. The man turns his head back and smiles. White subtitles also appear at the bottom of the screen."
+    },
+    {
+        "second": 21,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6g-_760qEEA/output_frames/sec_21_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[20-23] Then the scene switches to a blue lake where a man is standing on a wooden bridge, preparing to jump into the lake. He slips, loses his balance, and falls headfirst into the water, splashing a large amount of water."
+    },
+    {
+        "second": 22,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6g-_760qEEA/output_frames/sec_22_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[20-23] Then the scene switches to a blue lake where a man is standing on a wooden bridge, preparing to jump into the lake. He slips, loses his balance, and falls headfirst into the water, splashing a large amount of water."
+    },
+    {
+        "second": 23,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6g-_760qEEA/output_frames/sec_23_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[20-23] Then the scene switches to a blue lake where a man is standing on a wooden bridge, preparing to jump into the lake. He slips, loses his balance, and falls headfirst into the water, splashing a large amount of water."
+    },
+    {
+        "second": 24,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6g-_760qEEA/output_frames/sec_24_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[23-26] The scene then switches to a muddy river where a woman is sitting in a wheelbarrow. A man is pushing the wheelbarrow along a single-plank bridge, trying to cross the river. He loses his balance, and both of them, along with the wheelbarrow, fall into the river."
+    },
+    {
+        "second": 25,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6g-_760qEEA/output_frames/sec_25_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[23-26] The scene then switches to a muddy river where a woman is sitting in a wheelbarrow. A man is pushing the wheelbarrow along a single-plank bridge, trying to cross the river. He loses his balance, and both of them, along with the wheelbarrow, fall into the river."
+    },
+    {
+        "second": 26,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6g-_760qEEA/output_frames/sec_26_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[23-26] The scene then switches to a muddy river where a woman is sitting in a wheelbarrow. A man is pushing the wheelbarrow along a single-plank bridge, trying to cross the river. He loses his balance, and both of them, along with the wheelbarrow, fall into the river."
+    },
+    {
+        "second": 27,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6g-_760qEEA/output_frames/sec_27_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[26-31] The scene then moves to an icy road with a car parked by the side. A man in black is walking on the ice when he suddenly slips and falls onto the road."
+    },
+    {
+        "second": 28,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6g-_760qEEA/output_frames/sec_28_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[26-31] The scene then moves to an icy road with a car parked by the side. A man in black is walking on the ice when he suddenly slips and falls onto the road."
+    },
+    {
+        "second": 29,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6g-_760qEEA/output_frames/sec_29_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[26-31] The scene then moves to an icy road with a car parked by the side. A man in black is walking on the ice when he suddenly slips and falls onto the road."
+    },
+    {
+        "second": 30,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6g-_760qEEA/output_frames/sec_30_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[26-31] The scene then moves to an icy road with a car parked by the side. A man in black is walking on the ice when he suddenly slips and falls onto the road."
+    },
+    {
+        "second": 31,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6g-_760qEEA/output_frames/sec_31_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[26-31] The scene then moves to an icy road with a car parked by the side. A man in black is walking on the ice when he suddenly slips and falls onto the road."
+    },
+    {
+        "second": 32,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6g-_760qEEA/output_frames/sec_32_idx_24.jpg",
+        "fps": 30,
+        "explanation": "[31-36] The scene then switches to a street full of parked cars. A man walks by, and then two dogs rush out. The man jumps onto a car to avoid them."
+    },
+    {
+        "second": 33,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6g-_760qEEA/output_frames/sec_33_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[31-36] The scene then switches to a street full of parked cars. A man walks by, and then two dogs rush out. The man jumps onto a car to avoid them."
+    },
+    {
+        "second": 34,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6g-_760qEEA/output_frames/sec_34_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[31-36] The scene then switches to a street full of parked cars. A man walks by, and then two dogs rush out. The man jumps onto a car to avoid them."
+    },
+    {
+        "second": 35,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6g-_760qEEA/output_frames/sec_35_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[31-36] The scene then switches to a street full of parked cars. A man walks by, and then two dogs rush out. The man jumps onto a car to avoid them."
+    },
+    {
+        "second": 36,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6g-_760qEEA/output_frames/sec_36_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[31-36] The scene then switches to a street full of parked cars. A man walks by, and then two dogs rush out. The man jumps onto a car to avoid them."
+    },
+    {
+        "second": 37,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6g-_760qEEA/output_frames/sec_37_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[36-41] Then the scene switches to a kitchen where a woman is looking at her cell phone while wearing roller skates. She slips and falls while walking forward."
+    },
+    {
+        "second": 38,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6g-_760qEEA/output_frames/sec_38_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[36-41] Then the scene switches to a kitchen where a woman is looking at her cell phone while wearing roller skates. She slips and falls while walking forward."
+    },
+    {
+        "second": 39,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6g-_760qEEA/output_frames/sec_39_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[36-41] Then the scene switches to a kitchen where a woman is looking at her cell phone while wearing roller skates. She slips and falls while walking forward."
+    },
+    {
+        "second": 40,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6g-_760qEEA/output_frames/sec_40_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[36-41] Then the scene switches to a kitchen where a woman is looking at her cell phone while wearing roller skates. She slips and falls while walking forward."
+    },
+    {
+        "second": 41,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6g-_760qEEA/output_frames/sec_41_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[36-41] Then the scene switches to a kitchen where a woman is looking at her cell phone while wearing roller skates. She slips and falls while walking forward."
+    },
+    {
+        "second": 42,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6g-_760qEEA/output_frames/sec_42_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[41-47] The scene then moves to a street where a group of people with backpacks run out of an alley. The last person, a man in white, slips and falls to the ground after running out. He then sits on the ground."
+    },
+    {
+        "second": 43,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6g-_760qEEA/output_frames/sec_43_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[41-47] The scene then moves to a street where a group of people with backpacks run out of an alley. The last person, a man in white, slips and falls to the ground after running out. He then sits on the ground."
+    },
+    {
+        "second": 44,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6g-_760qEEA/output_frames/sec_44_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[41-47] The scene then moves to a street where a group of people with backpacks run out of an alley. The last person, a man in white, slips and falls to the ground after running out. He then sits on the ground."
+    },
+    {
+        "second": 45,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6g-_760qEEA/output_frames/sec_45_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[41-47] The scene then moves to a street where a group of people with backpacks run out of an alley. The last person, a man in white, slips and falls to the ground after running out. He then sits on the ground."
+    },
+    {
+        "second": 46,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6g-_760qEEA/output_frames/sec_46_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[41-47] The scene then moves to a street where a group of people with backpacks run out of an alley. The last person, a man in white, slips and falls to the ground after running out. He then sits on the ground."
+    },
+    {
+        "second": 47,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6g-_760qEEA/output_frames/sec_47_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[41-47] The scene then moves to a street where a group of people with backpacks run out of an alley. The last person, a man in white, slips and falls to the ground after running out. He then sits on the ground."
+    },
+    {
+        "second": 48,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6g-_760qEEA/output_frames/sec_48_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[47-51] The scene switches again to a boy riding a bicycle. As he passes a mound of dirt, the bicycle loses its balance, and both the boy and the bicycle fall to the ground."
+    },
+    {
+        "second": 49,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6g-_760qEEA/output_frames/sec_49_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[47-51] The scene switches again to a boy riding a bicycle. As he passes a mound of dirt, the bicycle loses its balance, and both the boy and the bicycle fall to the ground."
+    },
+    {
+        "second": 50,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6g-_760qEEA/output_frames/sec_50_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[47-51] The scene switches again to a boy riding a bicycle. As he passes a mound of dirt, the bicycle loses its balance, and both the boy and the bicycle fall to the ground."
+    },
+    {
+        "second": 51,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6g-_760qEEA/output_frames/sec_51_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[47-51] The scene switches again to a boy riding a bicycle. As he passes a mound of dirt, the bicycle loses its balance, and both the boy and the bicycle fall to the ground."
+    },
+    {
+        "second": 52,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6g-_760qEEA/output_frames/sec_52_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[51-53] The scene then switches again to a remote-controlled car driving towards a ramp. After driving over the ramp, it flies into the air and hits the man holding the remote control on the head. The man falls to the ground and covers his head with one hand."
+    },
+    {
+        "second": 53,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6g-_760qEEA/output_frames/sec_53_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[51-53] The scene then switches again to a remote-controlled car driving towards a ramp. After driving over the ramp, it flies into the air and hits the man holding the remote control on the head. The man falls to the ground and covers his head with one hand."
+    },
+    {
+        "second": 54,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6g-_760qEEA/output_frames/sec_54_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[53-58] Finally, a man riding a yellow tricycle drives towards the lake. He then does a backflip and falls into the lake."
+    },
+    {
+        "second": 55,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6g-_760qEEA/output_frames/sec_55_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[53-58] Finally, a man riding a yellow tricycle drives towards the lake. He then does a backflip and falls into the lake."
+    },
+    {
+        "second": 56,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6g-_760qEEA/output_frames/sec_56_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[53-58] Finally, a man riding a yellow tricycle drives towards the lake. He then does a backflip and falls into the lake."
+    },
+    {
+        "second": 57,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6g-_760qEEA/output_frames/sec_57_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[53-58] Finally, a man riding a yellow tricycle drives towards the lake. He then does a backflip and falls into the lake."
+    },
+    {
+        "second": 58,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6g-_760qEEA/output_frames/sec_58_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[53-58] Finally, a man riding a yellow tricycle drives towards the lake. He then does a backflip and falls into the lake."
+    }
+]

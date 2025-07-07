@@ -1,0 +1,51 @@
+[
+    {
+        "second": 0,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-pphciZmnNA/output_frames/sec_0_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A dark brown silkworm cocoon with a textured surface lies in the palm of a hand, with many other cocoons scattered on the white cloth beneath."
+    },
+    {
+        "second": 1,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-pphciZmnNA/output_frames/sec_1_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[0-2] The palm gently sways from side to side, but the cocoon remains still, resting in the palm."
+    },
+    {
+        "second": 2,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-pphciZmnNA/output_frames/sec_2_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-2] The palm gently sways from side to side, but the cocoon remains still, resting in the palm."
+    },
+    {
+        "second": 3,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-pphciZmnNA/output_frames/sec_3_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[2-6] A beautiful moth suddenly appears, perching on the person's palm with its wings spread. The thumb slightly moves, causing the moth to hop a little, but it remains on the palm."
+    },
+    {
+        "second": 4,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-pphciZmnNA/output_frames/sec_4_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[2-6] A beautiful moth suddenly appears, perching on the person's palm with its wings spread. The thumb slightly moves, causing the moth to hop a little, but it remains on the palm."
+    },
+    {
+        "second": 5,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-pphciZmnNA/output_frames/sec_5_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[2-6] A beautiful moth suddenly appears, perching on the person's palm with its wings spread. The thumb slightly moves, causing the moth to hop a little, but it remains on the palm."
+    },
+    {
+        "second": 6,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-pphciZmnNA/output_frames/sec_6_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[2-6] A beautiful moth suddenly appears, perching on the person's palm with its wings spread. The thumb slightly moves, causing the moth to hop a little, but it remains on the palm."
+    }
+]

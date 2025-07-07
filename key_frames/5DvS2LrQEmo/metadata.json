@@ -1,0 +1,65 @@
+[
+    {
+        "second": 0,
+        "frame_index": 49,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5DvS2LrQEmo/output_frames/sec_0_idx_49.jpg",
+        "fps": 50,
+        "explanation": "[0-0] The video begins with a man and a woman, both wearing purple rabbit masks, standing in a colorful room. The man is wearing pink dungarees, and the woman is wearing a black dress and purple stockings. In front of them float carrots, hot dogs, green apples, peaches, fries, and patties."
+    },
+    {
+        "second": 1,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5DvS2LrQEmo/output_frames/sec_1_idx_17.jpg",
+        "fps": 50,
+        "explanation": "[0-2] The woman opens her mouth wide and takes a bite of the peach."
+    },
+    {
+        "second": 2,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5DvS2LrQEmo/output_frames/sec_2_idx_5.jpg",
+        "fps": 50,
+        "explanation": "[0-2] The woman opens her mouth wide and takes a bite of the peach."
+    },
+    {
+        "second": 3,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5DvS2LrQEmo/output_frames/sec_3_idx_23.jpg",
+        "fps": 50,
+        "explanation": "[2-4] Afterward, the man eats the patty above him, then suddenly squats down and eats the hot dog. He quickly stands up again and looks at the woman."
+    },
+    {
+        "second": 4,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5DvS2LrQEmo/output_frames/sec_4_idx_26.jpg",
+        "fps": 50,
+        "explanation": "[2-4] Afterward, the man eats the patty above him, then suddenly squats down and eats the hot dog. He quickly stands up again and looks at the woman."
+    },
+    {
+        "second": 5,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5DvS2LrQEmo/output_frames/sec_5_idx_28.jpg",
+        "fps": 50,
+        "explanation": "[4-6] Then the woman opens her mouth wide and eats the apple floating above her head. She then looks at the man, who bends down and eats the fries. After standing up, he looks back at the woman."
+    },
+    {
+        "second": 6,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5DvS2LrQEmo/output_frames/sec_6_idx_2.jpg",
+        "fps": 50,
+        "explanation": "[4-6] Then the woman opens her mouth wide and eats the apple floating above her head. She then looks at the man, who bends down and eats the fries. After standing up, he looks back at the woman."
+    },
+    {
+        "second": 7,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5DvS2LrQEmo/output_frames/sec_7_idx_26.jpg",
+        "fps": 50,
+        "explanation": "[6-8] Finally, the woman jumps up and eats the carrot floating above her head. The two look at each other."
+    },
+    {
+        "second": 8,
+        "frame_index": 33,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5DvS2LrQEmo/output_frames/sec_8_idx_33.jpg",
+        "fps": 50,
+        "explanation": "[6-8] Finally, the woman jumps up and eats the carrot floating above her head. The two look at each other."
+    }
+]

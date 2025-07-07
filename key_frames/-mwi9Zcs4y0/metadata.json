@@ -1,0 +1,79 @@
+[
+    {
+        "second": 0,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-mwi9Zcs4y0/output_frames/sec_0_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[0-0] In the frame, an Alaskan Malamute is standing on the yellow striped floor of a living room. Behind the Alaskan Malamute is a white wall with a white cabinet on it, and a chandelier hangs from the ceiling. On the right side of the frame is a Velociraptor model, with a black kitchen counter next to it. Food is placed on the floor from the Alaskan Malamute to the Velociraptor model."
+    },
+    {
+        "second": 1,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-mwi9Zcs4y0/output_frames/sec_1_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[0-2] As the Alaskan Malamute lowers its head to eat the food on the floor, it gets closer and closer to the Velociraptor model, while the Velociraptor model shakes its head slightly."
+    },
+    {
+        "second": 2,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-mwi9Zcs4y0/output_frames/sec_2_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[0-2] As the Alaskan Malamute lowers its head to eat the food on the floor, it gets closer and closer to the Velociraptor model, while the Velociraptor model shakes its head slightly."
+    },
+    {
+        "second": 3,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-mwi9Zcs4y0/output_frames/sec_3_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[2-8] The Alaskan Malamute continues to walk towards the front of the frame, lowering its head to eat the food on the floor, until it finishes the food placed in front of the Velociraptor model."
+    },
+    {
+        "second": 4,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-mwi9Zcs4y0/output_frames/sec_4_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[2-8] The Alaskan Malamute continues to walk towards the front of the frame, lowering its head to eat the food on the floor, until it finishes the food placed in front of the Velociraptor model."
+    },
+    {
+        "second": 5,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-mwi9Zcs4y0/output_frames/sec_5_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[2-8] The Alaskan Malamute continues to walk towards the front of the frame, lowering its head to eat the food on the floor, until it finishes the food placed in front of the Velociraptor model."
+    },
+    {
+        "second": 6,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-mwi9Zcs4y0/output_frames/sec_6_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[2-8] The Alaskan Malamute continues to walk towards the front of the frame, lowering its head to eat the food on the floor, until it finishes the food placed in front of the Velociraptor model."
+    },
+    {
+        "second": 7,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-mwi9Zcs4y0/output_frames/sec_7_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[2-8] The Alaskan Malamute continues to walk towards the front of the frame, lowering its head to eat the food on the floor, until it finishes the food placed in front of the Velociraptor model."
+    },
+    {
+        "second": 8,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-mwi9Zcs4y0/output_frames/sec_8_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[2-8] The Alaskan Malamute continues to walk towards the front of the frame, lowering its head to eat the food on the floor, until it finishes the food placed in front of the Velociraptor model."
+    },
+    {
+        "second": 9,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-mwi9Zcs4y0/output_frames/sec_9_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[8-10] Immediately afterwards, the Alaskan Malamute raises its head and notices the Velociraptor model at the kitchen entrance, and then opens its mouth. At this moment, the Velociraptor model suddenly opens its mouth, revealing sharp teeth and letting out a roar. The Alaskan Malamute is startled by the Velociraptor model's actions and turns to the right."
+    },
+    {
+        "second": 10,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-mwi9Zcs4y0/output_frames/sec_10_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[8-10] Immediately afterwards, the Alaskan Malamute raises its head and notices the Velociraptor model at the kitchen entrance, and then opens its mouth. At this moment, the Velociraptor model suddenly opens its mouth, revealing sharp teeth and letting out a roar. The Alaskan Malamute is startled by the Velociraptor model's actions and turns to the right."
+    }
+]

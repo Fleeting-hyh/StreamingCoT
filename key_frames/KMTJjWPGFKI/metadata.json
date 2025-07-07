@@ -1,0 +1,51 @@
+[
+    {
+        "second": 0,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/KMTJjWPGFKI/output_frames/sec_0_idx_20.jpg",
+        "fps": 24,
+        "explanation": "[0-0] In a cricket match, an Indian batsman in a blue jersey is shown, alongside an umpire in a black uniform and other players."
+    },
+    {
+        "second": 1,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/KMTJjWPGFKI/output_frames/sec_1_idx_9.jpg",
+        "fps": 24,
+        "explanation": "[0-2] Next, the bowler bowls the ball towards the batsman. The ball flies through the air, bounces on the ground, and hits the stumps."
+    },
+    {
+        "second": 2,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/KMTJjWPGFKI/output_frames/sec_2_idx_23.jpg",
+        "fps": 24,
+        "explanation": "[0-2] Next, the bowler bowls the ball towards the batsman. The ball flies through the air, bounces on the ground, and hits the stumps."
+    },
+    {
+        "second": 3,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/KMTJjWPGFKI/output_frames/sec_3_idx_12.jpg",
+        "fps": 24,
+        "explanation": "[2-6] Subsequently, the shot changes to a slow-motion close-up of the batsman, the ball flying through the air, bouncing on the ground, and hitting the stumps."
+    },
+    {
+        "second": 4,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/KMTJjWPGFKI/output_frames/sec_4_idx_4.jpg",
+        "fps": 24,
+        "explanation": "[2-6] Subsequently, the shot changes to a slow-motion close-up of the batsman, the ball flying through the air, bouncing on the ground, and hitting the stumps."
+    },
+    {
+        "second": 5,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/KMTJjWPGFKI/output_frames/sec_5_idx_15.jpg",
+        "fps": 24,
+        "explanation": "[2-6] Subsequently, the shot changes to a slow-motion close-up of the batsman, the ball flying through the air, bouncing on the ground, and hitting the stumps."
+    },
+    {
+        "second": 6,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/KMTJjWPGFKI/output_frames/sec_6_idx_0.jpg",
+        "fps": 24,
+        "explanation": "[2-6] Subsequently, the shot changes to a slow-motion close-up of the batsman, the ball flying through the air, bouncing on the ground, and hitting the stumps."
+    }
+]

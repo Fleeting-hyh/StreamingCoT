@@ -1,0 +1,296 @@
+[
+    {
+        "second": 0,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QuabNUtr9mc/output_frames/sec_0_idx_13.jpg",
+        "fps": 60,
+        "explanation": "[0-0] A man wearing a blue hoodie is standing behind a white table. In the center of the table is a green bowling pin, surrounded by various candies and two stacks of 50 euro bills."
+    },
+    {
+        "second": 1,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QuabNUtr9mc/output_frames/sec_1_idx_13.jpg",
+        "fps": 60,
+        "explanation": "[0-4] The bowling pin spins on the white table, the man stretches out his hands with a nervous expression. The pin then stops, pointing to a pile of yellow candy, the man shows a disappointed expression and reaches for the candy."
+    },
+    {
+        "second": 2,
+        "frame_index": 41,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QuabNUtr9mc/output_frames/sec_2_idx_41.jpg",
+        "fps": 60,
+        "explanation": "[0-4] The bowling pin spins on the white table, the man stretches out his hands with a nervous expression. The pin then stops, pointing to a pile of yellow candy, the man shows a disappointed expression and reaches for the candy."
+    },
+    {
+        "second": 3,
+        "frame_index": 35,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QuabNUtr9mc/output_frames/sec_3_idx_35.jpg",
+        "fps": 60,
+        "explanation": "[0-4] The bowling pin spins on the white table, the man stretches out his hands with a nervous expression. The pin then stops, pointing to a pile of yellow candy, the man shows a disappointed expression and reaches for the candy."
+    },
+    {
+        "second": 4,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QuabNUtr9mc/output_frames/sec_4_idx_4.jpg",
+        "fps": 60,
+        "explanation": "[0-4] The bowling pin spins on the white table, the man stretches out his hands with a nervous expression. The pin then stops, pointing to a pile of yellow candy, the man shows a disappointed expression and reaches for the candy."
+    },
+    {
+        "second": 5,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QuabNUtr9mc/output_frames/sec_5_idx_9.jpg",
+        "fps": 60,
+        "explanation": "[4-8] The bowling pin continues to spin, this time behind the white table is a woman with a ponytail in a red dress, she claps her hands together, looking at the bowling pin expectantly. Finally the bowling pin points to a stack of 50 euro bills, the woman happily raises her hands and jumps up, she reaches out her right hand to grab a stack of 50 euro bills."
+    },
+    {
+        "second": 6,
+        "frame_index": 45,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QuabNUtr9mc/output_frames/sec_6_idx_45.jpg",
+        "fps": 60,
+        "explanation": "[4-8] The bowling pin continues to spin, this time behind the white table is a woman with a ponytail in a red dress, she claps her hands together, looking at the bowling pin expectantly. Finally the bowling pin points to a stack of 50 euro bills, the woman happily raises her hands and jumps up, she reaches out her right hand to grab a stack of 50 euro bills."
+    },
+    {
+        "second": 7,
+        "frame_index": 51,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QuabNUtr9mc/output_frames/sec_7_idx_51.jpg",
+        "fps": 60,
+        "explanation": "[4-8] The bowling pin continues to spin, this time behind the white table is a woman with a ponytail in a red dress, she claps her hands together, looking at the bowling pin expectantly. Finally the bowling pin points to a stack of 50 euro bills, the woman happily raises her hands and jumps up, she reaches out her right hand to grab a stack of 50 euro bills."
+    },
+    {
+        "second": 8,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QuabNUtr9mc/output_frames/sec_8_idx_27.jpg",
+        "fps": 60,
+        "explanation": "[4-8] The bowling pin continues to spin, this time behind the white table is a woman with a ponytail in a red dress, she claps her hands together, looking at the bowling pin expectantly. Finally the bowling pin points to a stack of 50 euro bills, the woman happily raises her hands and jumps up, she reaches out her right hand to grab a stack of 50 euro bills."
+    },
+    {
+        "second": 9,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QuabNUtr9mc/output_frames/sec_9_idx_3.jpg",
+        "fps": 60,
+        "explanation": "[8-12] Now appearing behind the white table is a man in a purple hoodie, watching the spinning bowling pin. Finally the bowling pin points to the two bags of red candy on the left side of the table, the man in the purple hoodie reaches out with both hands to take the candy, he picks up the candy to his face and shows it to the camera."
+    },
+    {
+        "second": 10,
+        "frame_index": 51,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QuabNUtr9mc/output_frames/sec_10_idx_51.jpg",
+        "fps": 60,
+        "explanation": "[8-12] Now appearing behind the white table is a man in a purple hoodie, watching the spinning bowling pin. Finally the bowling pin points to the two bags of red candy on the left side of the table, the man in the purple hoodie reaches out with both hands to take the candy, he picks up the candy to his face and shows it to the camera."
+    },
+    {
+        "second": 11,
+        "frame_index": 59,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QuabNUtr9mc/output_frames/sec_11_idx_59.jpg",
+        "fps": 60,
+        "explanation": "[8-12] Now appearing behind the white table is a man in a purple hoodie, watching the spinning bowling pin. Finally the bowling pin points to the two bags of red candy on the left side of the table, the man in the purple hoodie reaches out with both hands to take the candy, he picks up the candy to his face and shows it to the camera."
+    },
+    {
+        "second": 12,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QuabNUtr9mc/output_frames/sec_12_idx_3.jpg",
+        "fps": 60,
+        "explanation": "[8-12] Now appearing behind the white table is a man in a purple hoodie, watching the spinning bowling pin. Finally the bowling pin points to the two bags of red candy on the left side of the table, the man in the purple hoodie reaches out with both hands to take the candy, he picks up the candy to his face and shows it to the camera."
+    },
+    {
+        "second": 13,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QuabNUtr9mc/output_frames/sec_13_idx_10.jpg",
+        "fps": 60,
+        "explanation": "[12-16] Then a woman in a yellow dress looks expectantly at the bowling pin spinning in front of her, the bowling pin spins a few times and points to the yellow, long snack. The woman happily stretches out both hands, each grabbing a yellow bar and showing it to the camera."
+    },
+    {
+        "second": 14,
+        "frame_index": 47,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QuabNUtr9mc/output_frames/sec_14_idx_47.jpg",
+        "fps": 60,
+        "explanation": "[12-16] Then a woman in a yellow dress looks expectantly at the bowling pin spinning in front of her, the bowling pin spins a few times and points to the yellow, long snack. The woman happily stretches out both hands, each grabbing a yellow bar and showing it to the camera."
+    },
+    {
+        "second": 15,
+        "frame_index": 59,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QuabNUtr9mc/output_frames/sec_15_idx_59.jpg",
+        "fps": 60,
+        "explanation": "[12-16] Then a woman in a yellow dress looks expectantly at the bowling pin spinning in front of her, the bowling pin spins a few times and points to the yellow, long snack. The woman happily stretches out both hands, each grabbing a yellow bar and showing it to the camera."
+    },
+    {
+        "second": 16,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QuabNUtr9mc/output_frames/sec_16_idx_2.jpg",
+        "fps": 60,
+        "explanation": "[12-16] Then a woman in a yellow dress looks expectantly at the bowling pin spinning in front of her, the bowling pin spins a few times and points to the yellow, long snack. The woman happily stretches out both hands, each grabbing a yellow bar and showing it to the camera."
+    },
+    {
+        "second": 17,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QuabNUtr9mc/output_frames/sec_17_idx_24.jpg",
+        "fps": 60,
+        "explanation": "[16-22] The man in the blue hoodie reappears behind the table, this time he nervously covers his mouth with both hands. The bowling pin finally points to the candy in the lower left corner of the table, he reaches out and grabs three packs of candy in his hands."
+    },
+    {
+        "second": 18,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QuabNUtr9mc/output_frames/sec_18_idx_16.jpg",
+        "fps": 60,
+        "explanation": "[16-22] The man in the blue hoodie reappears behind the table, this time he nervously covers his mouth with both hands. The bowling pin finally points to the candy in the lower left corner of the table, he reaches out and grabs three packs of candy in his hands."
+    },
+    {
+        "second": 19,
+        "frame_index": 46,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QuabNUtr9mc/output_frames/sec_19_idx_46.jpg",
+        "fps": 60,
+        "explanation": "[16-22] The man in the blue hoodie reappears behind the table, this time he nervously covers his mouth with both hands. The bowling pin finally points to the candy in the lower left corner of the table, he reaches out and grabs three packs of candy in his hands."
+    },
+    {
+        "second": 20,
+        "frame_index": 43,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QuabNUtr9mc/output_frames/sec_20_idx_43.jpg",
+        "fps": 60,
+        "explanation": "[16-22] The man in the blue hoodie reappears behind the table, this time he nervously covers his mouth with both hands. The bowling pin finally points to the candy in the lower left corner of the table, he reaches out and grabs three packs of candy in his hands."
+    },
+    {
+        "second": 21,
+        "frame_index": 46,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QuabNUtr9mc/output_frames/sec_21_idx_46.jpg",
+        "fps": 60,
+        "explanation": "[16-22] The man in the blue hoodie reappears behind the table, this time he nervously covers his mouth with both hands. The bowling pin finally points to the candy in the lower left corner of the table, he reaches out and grabs three packs of candy in his hands."
+    },
+    {
+        "second": 22,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QuabNUtr9mc/output_frames/sec_22_idx_9.jpg",
+        "fps": 60,
+        "explanation": "[16-22] The man in the blue hoodie reappears behind the table, this time he nervously covers his mouth with both hands. The bowling pin finally points to the candy in the lower left corner of the table, he reaches out and grabs three packs of candy in his hands."
+    },
+    {
+        "second": 23,
+        "frame_index": 34,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QuabNUtr9mc/output_frames/sec_23_idx_34.jpg",
+        "fps": 60,
+        "explanation": "[22-27] The woman in red appears once again, this time the bowling pin points to the empty side, and the woman shows a disappointed expression on her face."
+    },
+    {
+        "second": 24,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QuabNUtr9mc/output_frames/sec_24_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[22-27] The woman in red appears once again, this time the bowling pin points to the empty side, and the woman shows a disappointed expression on her face."
+    },
+    {
+        "second": 25,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QuabNUtr9mc/output_frames/sec_25_idx_3.jpg",
+        "fps": 60,
+        "explanation": "[22-27] The woman in red appears once again, this time the bowling pin points to the empty side, and the woman shows a disappointed expression on her face."
+    },
+    {
+        "second": 26,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QuabNUtr9mc/output_frames/sec_26_idx_10.jpg",
+        "fps": 60,
+        "explanation": "[22-27] The woman in red appears once again, this time the bowling pin points to the empty side, and the woman shows a disappointed expression on her face."
+    },
+    {
+        "second": 27,
+        "frame_index": 50,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QuabNUtr9mc/output_frames/sec_27_idx_50.jpg",
+        "fps": 60,
+        "explanation": "[22-27] The woman in red appears once again, this time the bowling pin points to the empty side, and the woman shows a disappointed expression on her face."
+    },
+    {
+        "second": 28,
+        "frame_index": 30,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QuabNUtr9mc/output_frames/sec_28_idx_30.jpg",
+        "fps": 60,
+        "explanation": "[27-31] The man in the purple hoodie also reappears behind the table, clapping his hands expectantly. The bowling pin points to a pile of blue square candies in the lower right corner of the table, the man in purple spreads his hands in frustration, then reaches for the candy."
+    },
+    {
+        "second": 29,
+        "frame_index": 49,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QuabNUtr9mc/output_frames/sec_29_idx_49.jpg",
+        "fps": 60,
+        "explanation": "[27-31] The man in the purple hoodie also reappears behind the table, clapping his hands expectantly. The bowling pin points to a pile of blue square candies in the lower right corner of the table, the man in purple spreads his hands in frustration, then reaches for the candy."
+    },
+    {
+        "second": 30,
+        "frame_index": 48,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QuabNUtr9mc/output_frames/sec_30_idx_48.jpg",
+        "fps": 60,
+        "explanation": "[27-31] The man in the purple hoodie also reappears behind the table, clapping his hands expectantly. The bowling pin points to a pile of blue square candies in the lower right corner of the table, the man in purple spreads his hands in frustration, then reaches for the candy."
+    },
+    {
+        "second": 31,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QuabNUtr9mc/output_frames/sec_31_idx_1.jpg",
+        "fps": 60,
+        "explanation": "[27-31] The man in the purple hoodie also reappears behind the table, clapping his hands expectantly. The bowling pin points to a pile of blue square candies in the lower right corner of the table, the man in purple spreads his hands in frustration, then reaches for the candy."
+    },
+    {
+        "second": 32,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QuabNUtr9mc/output_frames/sec_32_idx_10.jpg",
+        "fps": 60,
+        "explanation": "[31-34] Now there is only a pile of 50 euro bills and some black candy left on the table. The woman who was wearing the yellow dress before is standing behind the table, her hands clasped in front of her chest, praying for good luck. The bowling pin once again points to an empty space, and the woman smiles helplessly at the camera."
+    },
+    {
+        "second": 33,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QuabNUtr9mc/output_frames/sec_33_idx_11.jpg",
+        "fps": 60,
+        "explanation": "[31-34] Now there is only a pile of 50 euro bills and some black candy left on the table. The woman who was wearing the yellow dress before is standing behind the table, her hands clasped in front of her chest, praying for good luck. The bowling pin once again points to an empty space, and the woman smiles helplessly at the camera."
+    },
+    {
+        "second": 34,
+        "frame_index": 45,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QuabNUtr9mc/output_frames/sec_34_idx_45.jpg",
+        "fps": 60,
+        "explanation": "[31-34] Now there is only a pile of 50 euro bills and some black candy left on the table. The woman who was wearing the yellow dress before is standing behind the table, her hands clasped in front of her chest, praying for good luck. The bowling pin once again points to an empty space, and the woman smiles helplessly at the camera."
+    },
+    {
+        "second": 35,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QuabNUtr9mc/output_frames/sec_35_idx_18.jpg",
+        "fps": 60,
+        "explanation": "[34-39] The man in the blue hoodie appears for the third time behind the table, the bowling pin spins and stops, pointing at the black-wrapped candy. The man has a disappointed look on his face, he claps his hands, picks up the black snacks on the table, the bowling pin falls off the table."
+    },
+    {
+        "second": 36,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QuabNUtr9mc/output_frames/sec_36_idx_17.jpg",
+        "fps": 60,
+        "explanation": "[34-39] The man in the blue hoodie appears for the third time behind the table, the bowling pin spins and stops, pointing at the black-wrapped candy. The man has a disappointed look on his face, he claps his hands, picks up the black snacks on the table, the bowling pin falls off the table."
+    },
+    {
+        "second": 37,
+        "frame_index": 55,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QuabNUtr9mc/output_frames/sec_37_idx_55.jpg",
+        "fps": 60,
+        "explanation": "[34-39] The man in the blue hoodie appears for the third time behind the table, the bowling pin spins and stops, pointing at the black-wrapped candy. The man has a disappointed look on his face, he claps his hands, picks up the black snacks on the table, the bowling pin falls off the table."
+    },
+    {
+        "second": 38,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QuabNUtr9mc/output_frames/sec_38_idx_17.jpg",
+        "fps": 60,
+        "explanation": "[34-39] The man in the blue hoodie appears for the third time behind the table, the bowling pin spins and stops, pointing at the black-wrapped candy. The man has a disappointed look on his face, he claps his hands, picks up the black snacks on the table, the bowling pin falls off the table."
+    },
+    {
+        "second": 39,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QuabNUtr9mc/output_frames/sec_39_idx_2.jpg",
+        "fps": 60,
+        "explanation": "[34-39] The man in the blue hoodie appears for the third time behind the table, the bowling pin spins and stops, pointing at the black-wrapped candy. The man has a disappointed look on his face, he claps his hands, picks up the black snacks on the table, the bowling pin falls off the table."
+    },
+    {
+        "second": 40,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QuabNUtr9mc/output_frames/sec_40_idx_21.jpg",
+        "fps": 60,
+        "explanation": "[39-42] Finally, the man in the purple hoodie appears behind the table, this time, the bowling pin points to the pile of 50 euro bills, and the game is over. The picture ends with the man reaching out with his left hand to grab the 50 euro bill."
+    },
+    {
+        "second": 41,
+        "frame_index": 50,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QuabNUtr9mc/output_frames/sec_41_idx_50.jpg",
+        "fps": 60,
+        "explanation": "[39-42] Finally, the man in the purple hoodie appears behind the table, this time, the bowling pin points to the pile of 50 euro bills, and the game is over. The picture ends with the man reaching out with his left hand to grab the 50 euro bill."
+    }
+]

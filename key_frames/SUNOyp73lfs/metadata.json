@@ -1,0 +1,37 @@
+[
+    {
+        "second": 0,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SUNOyp73lfs/output_frames/sec_0_idx_9.jpg",
+        "fps": 60,
+        "explanation": "[0-0] A young man with long brown hair and tattoos on his face is standing outdoors on a sunny day. He is holding a cigarette to his mouth in his right hand."
+    },
+    {
+        "second": 1,
+        "frame_index": 54,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SUNOyp73lfs/output_frames/sec_1_idx_54.jpg",
+        "fps": 60,
+        "explanation": "[0-4] He takes a deep drag from the cigarette and starts coughing with his head down, his long hair swaying violently with his movements and obscuring his face."
+    },
+    {
+        "second": 2,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SUNOyp73lfs/output_frames/sec_2_idx_2.jpg",
+        "fps": 60,
+        "explanation": "[0-4] He takes a deep drag from the cigarette and starts coughing with his head down, his long hair swaying violently with his movements and obscuring his face."
+    },
+    {
+        "second": 3,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SUNOyp73lfs/output_frames/sec_3_idx_17.jpg",
+        "fps": 60,
+        "explanation": "[0-4] He takes a deep drag from the cigarette and starts coughing with his head down, his long hair swaying violently with his movements and obscuring his face."
+    },
+    {
+        "second": 4,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SUNOyp73lfs/output_frames/sec_4_idx_4.jpg",
+        "fps": 60,
+        "explanation": "[0-4] He takes a deep drag from the cigarette and starts coughing with his head down, his long hair swaying violently with his movements and obscuring his face."
+    }
+]

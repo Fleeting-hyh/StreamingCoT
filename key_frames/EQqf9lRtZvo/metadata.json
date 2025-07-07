@@ -1,0 +1,65 @@
+[
+    {
+        "second": 0,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EQqf9lRtZvo/output_frames/sec_0_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[0-0] In a football match, a player in a yellow jersey numbered 31 watches as several players in blue and red jerseys play the ball in the distance."
+    },
+    {
+        "second": 1,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EQqf9lRtZvo/output_frames/sec_1_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Subsequently, a player in red takes a shot, and player number 31 quickly moves forward to block the player in red. However, the ball is not stopped by player 31 and is kicked towards the goalpost, bouncing back afterwards."
+    },
+    {
+        "second": 2,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EQqf9lRtZvo/output_frames/sec_2_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Subsequently, a player in red takes a shot, and player number 31 quickly moves forward to block the player in red. However, the ball is not stopped by player 31 and is kicked towards the goalpost, bouncing back afterwards."
+    },
+    {
+        "second": 3,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EQqf9lRtZvo/output_frames/sec_3_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Subsequently, a player in red takes a shot, and player number 31 quickly moves forward to block the player in red. However, the ball is not stopped by player 31 and is kicked towards the goalpost, bouncing back afterwards."
+    },
+    {
+        "second": 4,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EQqf9lRtZvo/output_frames/sec_4_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Subsequently, a player in red takes a shot, and player number 31 quickly moves forward to block the player in red. However, the ball is not stopped by player 31 and is kicked towards the goalpost, bouncing back afterwards."
+    },
+    {
+        "second": 5,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EQqf9lRtZvo/output_frames/sec_5_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Subsequently, a player in red takes a shot, and player number 31 quickly moves forward to block the player in red. However, the ball is not stopped by player 31 and is kicked towards the goalpost, bouncing back afterwards."
+    },
+    {
+        "second": 6,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EQqf9lRtZvo/output_frames/sec_6_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[5-8] Immediately, player 31 quickly tries to remedy the situation, but the ball is still kicked towards the goal by a player in a red jersey. Suddenly, a player in a blue jersey numbered 5 kicks the ball away, preventing it from going into the goal."
+    },
+    {
+        "second": 7,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EQqf9lRtZvo/output_frames/sec_7_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[5-8] Immediately, player 31 quickly tries to remedy the situation, but the ball is still kicked towards the goal by a player in a red jersey. Suddenly, a player in a blue jersey numbered 5 kicks the ball away, preventing it from going into the goal."
+    },
+    {
+        "second": 8,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EQqf9lRtZvo/output_frames/sec_8_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[5-8] Immediately, player 31 quickly tries to remedy the situation, but the ball is still kicked towards the goal by a player in a red jersey. Suddenly, a player in a blue jersey numbered 5 kicks the ball away, preventing it from going into the goal."
+    }
+]

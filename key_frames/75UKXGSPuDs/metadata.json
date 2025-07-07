@@ -1,0 +1,51 @@
+[
+    {
+        "second": 0,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/75UKXGSPuDs/output_frames/sec_0_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A person wearing white socks and blue shorts, holding an empty black baking tray in their left hand, stands on a wooden floor with a blue object above them."
+    },
+    {
+        "second": 1,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/75UKXGSPuDs/output_frames/sec_1_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Subsequently, the person walks forward with the black baking tray in their left hand. On the floor, there is a blue plastic basin containing cat food, toys, and a small white cat. The scene then shifts to the stove in the kitchen, where the black baking tray is placed on the stovetop. Next to the stove are cat food and toys. The small white cat is then placed onto the baking tray."
+    },
+    {
+        "second": 2,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/75UKXGSPuDs/output_frames/sec_2_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Subsequently, the person walks forward with the black baking tray in their left hand. On the floor, there is a blue plastic basin containing cat food, toys, and a small white cat. The scene then shifts to the stove in the kitchen, where the black baking tray is placed on the stovetop. Next to the stove are cat food and toys. The small white cat is then placed onto the baking tray."
+    },
+    {
+        "second": 3,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/75UKXGSPuDs/output_frames/sec_3_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[2-6] Then, the small white cat sits in the baking tray, and a hand appears above, sprinkling something onto the cat. Next, a hand turns a knob to turn on the stove. The lid of the baking tray is then opened, revealing a black cat standing inside. The black cat opens its mouth, sticks out its tongue, and looks upward, with the subtitle \"burned\" appearing on its body."
+    },
+    {
+        "second": 4,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/75UKXGSPuDs/output_frames/sec_4_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[2-6] Then, the small white cat sits in the baking tray, and a hand appears above, sprinkling something onto the cat. Next, a hand turns a knob to turn on the stove. The lid of the baking tray is then opened, revealing a black cat standing inside. The black cat opens its mouth, sticks out its tongue, and looks upward, with the subtitle \"burned\" appearing on its body."
+    },
+    {
+        "second": 5,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/75UKXGSPuDs/output_frames/sec_5_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[2-6] Then, the small white cat sits in the baking tray, and a hand appears above, sprinkling something onto the cat. Next, a hand turns a knob to turn on the stove. The lid of the baking tray is then opened, revealing a black cat standing inside. The black cat opens its mouth, sticks out its tongue, and looks upward, with the subtitle \"burned\" appearing on its body."
+    },
+    {
+        "second": 6,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/75UKXGSPuDs/output_frames/sec_6_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[2-6] Then, the small white cat sits in the baking tray, and a hand appears above, sprinkling something onto the cat. Next, a hand turns a knob to turn on the stove. The lid of the baking tray is then opened, revealing a black cat standing inside. The black cat opens its mouth, sticks out its tongue, and looks upward, with the subtitle \"burned\" appearing on its body."
+    }
+]

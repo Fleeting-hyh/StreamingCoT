@@ -1,0 +1,338 @@
+[
+    {
+        "second": 0,
+        "frame_index": 45,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3H1sVknXDe0/output_frames/sec_0_idx_45.jpg",
+        "fps": 60,
+        "explanation": "[0-0] In a lush green meadow, a white car is parked on the grass. The camera shoots from below the car body, showing the car chassis and a nail stuck in the grass."
+    },
+    {
+        "second": 1,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3H1sVknXDe0/output_frames/sec_1_idx_6.jpg",
+        "fps": 60,
+        "explanation": "[0-5] Next, the car tire can be seen driving forward, gradually revealing the tire tread and hub. Then the tire runs over the nail, and afterward, the tire appears deflated."
+    },
+    {
+        "second": 2,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3H1sVknXDe0/output_frames/sec_2_idx_11.jpg",
+        "fps": 60,
+        "explanation": "[0-5] Next, the car tire can be seen driving forward, gradually revealing the tire tread and hub. Then the tire runs over the nail, and afterward, the tire appears deflated."
+    },
+    {
+        "second": 3,
+        "frame_index": 59,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3H1sVknXDe0/output_frames/sec_3_idx_59.jpg",
+        "fps": 60,
+        "explanation": "[0-5] Next, the car tire can be seen driving forward, gradually revealing the tire tread and hub. Then the tire runs over the nail, and afterward, the tire appears deflated."
+    },
+    {
+        "second": 4,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3H1sVknXDe0/output_frames/sec_4_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[0-5] Next, the car tire can be seen driving forward, gradually revealing the tire tread and hub. Then the tire runs over the nail, and afterward, the tire appears deflated."
+    },
+    {
+        "second": 5,
+        "frame_index": 56,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3H1sVknXDe0/output_frames/sec_5_idx_56.jpg",
+        "fps": 60,
+        "explanation": "[0-5] Next, the car tire can be seen driving forward, gradually revealing the tire tread and hub. Then the tire runs over the nail, and afterward, the tire appears deflated."
+    },
+    {
+        "second": 6,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3H1sVknXDe0/output_frames/sec_6_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[5-7] The scene immediately switches to a hand holding a black mobile phone. On the left, there is a tire lying flat on the ground, and on the right, an upright tire. Then, the person puts the phone in their right hand on the tire on the left. The phone screen displays the timer \"00:00:00\". Subsequently, the person presses the start button of the timer with their left hand. Some repair tools can be seen placed on the grass."
+    },
+    {
+        "second": 7,
+        "frame_index": 49,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3H1sVknXDe0/output_frames/sec_7_idx_49.jpg",
+        "fps": 60,
+        "explanation": "[5-7] The scene immediately switches to a hand holding a black mobile phone. On the left, there is a tire lying flat on the ground, and on the right, an upright tire. Then, the person puts the phone in their right hand on the tire on the left. The phone screen displays the timer \"00:00:00\". Subsequently, the person presses the start button of the timer with their left hand. Some repair tools can be seen placed on the grass."
+    },
+    {
+        "second": 8,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3H1sVknXDe0/output_frames/sec_8_idx_9.jpg",
+        "fps": 60,
+        "explanation": "[7-17] The man then picks up a pair of pliers and starts pulling the nail out of the tire. After pulling out the nail, he picks up a green tool with his left hand and inserts it into the tire's hole. Afterward, holding a black plastic tube in his right hand, he squeezes out blue glue onto the green tool and then quickly pumps the blue tool."
+    },
+    {
+        "second": 9,
+        "frame_index": 42,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3H1sVknXDe0/output_frames/sec_9_idx_42.jpg",
+        "fps": 60,
+        "explanation": "[7-17] The man then picks up a pair of pliers and starts pulling the nail out of the tire. After pulling out the nail, he picks up a green tool with his left hand and inserts it into the tire's hole. Afterward, holding a black plastic tube in his right hand, he squeezes out blue glue onto the green tool and then quickly pumps the blue tool."
+    },
+    {
+        "second": 10,
+        "frame_index": 45,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3H1sVknXDe0/output_frames/sec_10_idx_45.jpg",
+        "fps": 60,
+        "explanation": "[7-17] The man then picks up a pair of pliers and starts pulling the nail out of the tire. After pulling out the nail, he picks up a green tool with his left hand and inserts it into the tire's hole. Afterward, holding a black plastic tube in his right hand, he squeezes out blue glue onto the green tool and then quickly pumps the blue tool."
+    },
+    {
+        "second": 11,
+        "frame_index": 32,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3H1sVknXDe0/output_frames/sec_11_idx_32.jpg",
+        "fps": 60,
+        "explanation": "[7-17] The man then picks up a pair of pliers and starts pulling the nail out of the tire. After pulling out the nail, he picks up a green tool with his left hand and inserts it into the tire's hole. Afterward, holding a black plastic tube in his right hand, he squeezes out blue glue onto the green tool and then quickly pumps the blue tool."
+    },
+    {
+        "second": 12,
+        "frame_index": 42,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3H1sVknXDe0/output_frames/sec_12_idx_42.jpg",
+        "fps": 60,
+        "explanation": "[7-17] The man then picks up a pair of pliers and starts pulling the nail out of the tire. After pulling out the nail, he picks up a green tool with his left hand and inserts it into the tire's hole. Afterward, holding a black plastic tube in his right hand, he squeezes out blue glue onto the green tool and then quickly pumps the blue tool."
+    },
+    {
+        "second": 13,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3H1sVknXDe0/output_frames/sec_13_idx_1.jpg",
+        "fps": 60,
+        "explanation": "[7-17] The man then picks up a pair of pliers and starts pulling the nail out of the tire. After pulling out the nail, he picks up a green tool with his left hand and inserts it into the tire's hole. Afterward, holding a black plastic tube in his right hand, he squeezes out blue glue onto the green tool and then quickly pumps the blue tool."
+    },
+    {
+        "second": 14,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3H1sVknXDe0/output_frames/sec_14_idx_19.jpg",
+        "fps": 60,
+        "explanation": "[7-17] The man then picks up a pair of pliers and starts pulling the nail out of the tire. After pulling out the nail, he picks up a green tool with his left hand and inserts it into the tire's hole. Afterward, holding a black plastic tube in his right hand, he squeezes out blue glue onto the green tool and then quickly pumps the blue tool."
+    },
+    {
+        "second": 15,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3H1sVknXDe0/output_frames/sec_15_idx_28.jpg",
+        "fps": 60,
+        "explanation": "[7-17] The man then picks up a pair of pliers and starts pulling the nail out of the tire. After pulling out the nail, he picks up a green tool with his left hand and inserts it into the tire's hole. Afterward, holding a black plastic tube in his right hand, he squeezes out blue glue onto the green tool and then quickly pumps the blue tool."
+    },
+    {
+        "second": 16,
+        "frame_index": 47,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3H1sVknXDe0/output_frames/sec_16_idx_47.jpg",
+        "fps": 60,
+        "explanation": "[7-17] The man then picks up a pair of pliers and starts pulling the nail out of the tire. After pulling out the nail, he picks up a green tool with his left hand and inserts it into the tire's hole. Afterward, holding a black plastic tube in his right hand, he squeezes out blue glue onto the green tool and then quickly pumps the blue tool."
+    },
+    {
+        "second": 17,
+        "frame_index": 46,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3H1sVknXDe0/output_frames/sec_17_idx_46.jpg",
+        "fps": 60,
+        "explanation": "[7-17] The man then picks up a pair of pliers and starts pulling the nail out of the tire. After pulling out the nail, he picks up a green tool with his left hand and inserts it into the tire's hole. Afterward, holding a black plastic tube in his right hand, he squeezes out blue glue onto the green tool and then quickly pumps the blue tool."
+    },
+    {
+        "second": 18,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3H1sVknXDe0/output_frames/sec_18_idx_8.jpg",
+        "fps": 60,
+        "explanation": "[17-23] Afterward, the person holds the green tool in his left hand, takes the black plastic tube in his right hand again, and drips blue glue onto the green tool. Then, holding the green tool with both hands, he quickly pumps it a few more times."
+    },
+    {
+        "second": 19,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3H1sVknXDe0/output_frames/sec_19_idx_5.jpg",
+        "fps": 60,
+        "explanation": "[17-23] Afterward, the person holds the green tool in his left hand, takes the black plastic tube in his right hand again, and drips blue glue onto the green tool. Then, holding the green tool with both hands, he quickly pumps it a few more times."
+    },
+    {
+        "second": 20,
+        "frame_index": 48,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3H1sVknXDe0/output_frames/sec_20_idx_48.jpg",
+        "fps": 60,
+        "explanation": "[17-23] Afterward, the person holds the green tool in his left hand, takes the black plastic tube in his right hand again, and drips blue glue onto the green tool. Then, holding the green tool with both hands, he quickly pumps it a few more times."
+    },
+    {
+        "second": 21,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3H1sVknXDe0/output_frames/sec_21_idx_29.jpg",
+        "fps": 60,
+        "explanation": "[17-23] Afterward, the person holds the green tool in his left hand, takes the black plastic tube in his right hand again, and drips blue glue onto the green tool. Then, holding the green tool with both hands, he quickly pumps it a few more times."
+    },
+    {
+        "second": 22,
+        "frame_index": 48,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3H1sVknXDe0/output_frames/sec_22_idx_48.jpg",
+        "fps": 60,
+        "explanation": "[17-23] Afterward, the person holds the green tool in his left hand, takes the black plastic tube in his right hand again, and drips blue glue onto the green tool. Then, holding the green tool with both hands, he quickly pumps it a few more times."
+    },
+    {
+        "second": 23,
+        "frame_index": 42,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3H1sVknXDe0/output_frames/sec_23_idx_42.jpg",
+        "fps": 60,
+        "explanation": "[17-23] Afterward, the person holds the green tool in his left hand, takes the black plastic tube in his right hand again, and drips blue glue onto the green tool. Then, holding the green tool with both hands, he quickly pumps it a few more times."
+    },
+    {
+        "second": 24,
+        "frame_index": 41,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3H1sVknXDe0/output_frames/sec_24_idx_41.jpg",
+        "fps": 60,
+        "explanation": "[23-33] Afterward, he picks up another green tool from the grass with a white strip attached to its top. Subsequently, a few drops of blue glue are dripped onto this white strip. Then, he pulls out the blue tool inserted in the nail hole and inserts the blue tool with the white object into the nail hole."
+    },
+    {
+        "second": 25,
+        "frame_index": 42,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3H1sVknXDe0/output_frames/sec_25_idx_42.jpg",
+        "fps": 60,
+        "explanation": "[23-33] Afterward, he picks up another green tool from the grass with a white strip attached to its top. Subsequently, a few drops of blue glue are dripped onto this white strip. Then, he pulls out the blue tool inserted in the nail hole and inserts the blue tool with the white object into the nail hole."
+    },
+    {
+        "second": 26,
+        "frame_index": 57,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3H1sVknXDe0/output_frames/sec_26_idx_57.jpg",
+        "fps": 60,
+        "explanation": "[23-33] Afterward, he picks up another green tool from the grass with a white strip attached to its top. Subsequently, a few drops of blue glue are dripped onto this white strip. Then, he pulls out the blue tool inserted in the nail hole and inserts the blue tool with the white object into the nail hole."
+    },
+    {
+        "second": 27,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3H1sVknXDe0/output_frames/sec_27_idx_6.jpg",
+        "fps": 60,
+        "explanation": "[23-33] Afterward, he picks up another green tool from the grass with a white strip attached to its top. Subsequently, a few drops of blue glue are dripped onto this white strip. Then, he pulls out the blue tool inserted in the nail hole and inserts the blue tool with the white object into the nail hole."
+    },
+    {
+        "second": 28,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3H1sVknXDe0/output_frames/sec_28_idx_3.jpg",
+        "fps": 60,
+        "explanation": "[23-33] Afterward, he picks up another green tool from the grass with a white strip attached to its top. Subsequently, a few drops of blue glue are dripped onto this white strip. Then, he pulls out the blue tool inserted in the nail hole and inserts the blue tool with the white object into the nail hole."
+    },
+    {
+        "second": 29,
+        "frame_index": 42,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3H1sVknXDe0/output_frames/sec_29_idx_42.jpg",
+        "fps": 60,
+        "explanation": "[23-33] Afterward, he picks up another green tool from the grass with a white strip attached to its top. Subsequently, a few drops of blue glue are dripped onto this white strip. Then, he pulls out the blue tool inserted in the nail hole and inserts the blue tool with the white object into the nail hole."
+    },
+    {
+        "second": 30,
+        "frame_index": 33,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3H1sVknXDe0/output_frames/sec_30_idx_33.jpg",
+        "fps": 60,
+        "explanation": "[23-33] Afterward, he picks up another green tool from the grass with a white strip attached to its top. Subsequently, a few drops of blue glue are dripped onto this white strip. Then, he pulls out the blue tool inserted in the nail hole and inserts the blue tool with the white object into the nail hole."
+    },
+    {
+        "second": 31,
+        "frame_index": 43,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3H1sVknXDe0/output_frames/sec_31_idx_43.jpg",
+        "fps": 60,
+        "explanation": "[23-33] Afterward, he picks up another green tool from the grass with a white strip attached to its top. Subsequently, a few drops of blue glue are dripped onto this white strip. Then, he pulls out the blue tool inserted in the nail hole and inserts the blue tool with the white object into the nail hole."
+    },
+    {
+        "second": 32,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3H1sVknXDe0/output_frames/sec_32_idx_8.jpg",
+        "fps": 60,
+        "explanation": "[23-33] Afterward, he picks up another green tool from the grass with a white strip attached to its top. Subsequently, a few drops of blue glue are dripped onto this white strip. Then, he pulls out the blue tool inserted in the nail hole and inserts the blue tool with the white object into the nail hole."
+    },
+    {
+        "second": 33,
+        "frame_index": 53,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3H1sVknXDe0/output_frames/sec_33_idx_53.jpg",
+        "fps": 60,
+        "explanation": "[23-33] Afterward, he picks up another green tool from the grass with a white strip attached to its top. Subsequently, a few drops of blue glue are dripped onto this white strip. Then, he pulls out the blue tool inserted in the nail hole and inserts the blue tool with the white object into the nail hole."
+    },
+    {
+        "second": 34,
+        "frame_index": 32,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3H1sVknXDe0/output_frames/sec_34_idx_32.jpg",
+        "fps": 60,
+        "explanation": "[33-42] After that, he uses the pliers again to cut off the excess part of the white object. Then he pulls out the green tool, leaving only the white strip in the nail hole. As the person works, the timer beside him changes rapidly."
+    },
+    {
+        "second": 35,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3H1sVknXDe0/output_frames/sec_35_idx_28.jpg",
+        "fps": 60,
+        "explanation": "[33-42] After that, he uses the pliers again to cut off the excess part of the white object. Then he pulls out the green tool, leaving only the white strip in the nail hole. As the person works, the timer beside him changes rapidly."
+    },
+    {
+        "second": 36,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3H1sVknXDe0/output_frames/sec_36_idx_7.jpg",
+        "fps": 60,
+        "explanation": "[33-42] After that, he uses the pliers again to cut off the excess part of the white object. Then he pulls out the green tool, leaving only the white strip in the nail hole. As the person works, the timer beside him changes rapidly."
+    },
+    {
+        "second": 37,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3H1sVknXDe0/output_frames/sec_37_idx_13.jpg",
+        "fps": 60,
+        "explanation": "[33-42] After that, he uses the pliers again to cut off the excess part of the white object. Then he pulls out the green tool, leaving only the white strip in the nail hole. As the person works, the timer beside him changes rapidly."
+    },
+    {
+        "second": 38,
+        "frame_index": 32,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3H1sVknXDe0/output_frames/sec_38_idx_32.jpg",
+        "fps": 60,
+        "explanation": "[33-42] After that, he uses the pliers again to cut off the excess part of the white object. Then he pulls out the green tool, leaving only the white strip in the nail hole. As the person works, the timer beside him changes rapidly."
+    },
+    {
+        "second": 39,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3H1sVknXDe0/output_frames/sec_39_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[33-42] After that, he uses the pliers again to cut off the excess part of the white object. Then he pulls out the green tool, leaving only the white strip in the nail hole. As the person works, the timer beside him changes rapidly."
+    },
+    {
+        "second": 40,
+        "frame_index": 34,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3H1sVknXDe0/output_frames/sec_40_idx_34.jpg",
+        "fps": 60,
+        "explanation": "[33-42] After that, he uses the pliers again to cut off the excess part of the white object. Then he pulls out the green tool, leaving only the white strip in the nail hole. As the person works, the timer beside him changes rapidly."
+    },
+    {
+        "second": 41,
+        "frame_index": 42,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3H1sVknXDe0/output_frames/sec_41_idx_42.jpg",
+        "fps": 60,
+        "explanation": "[33-42] After that, he uses the pliers again to cut off the excess part of the white object. Then he pulls out the green tool, leaving only the white strip in the nail hole. As the person works, the timer beside him changes rapidly."
+    },
+    {
+        "second": 42,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3H1sVknXDe0/output_frames/sec_42_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[33-42] After that, he uses the pliers again to cut off the excess part of the white object. Then he pulls out the green tool, leaving only the white strip in the nail hole. As the person works, the timer beside him changes rapidly."
+    },
+    {
+        "second": 43,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3H1sVknXDe0/output_frames/sec_43_idx_28.jpg",
+        "fps": 60,
+        "explanation": "[42-48] Then the person presses the stop button on the phone timer with his left hand, and the time freezes at \"00:56:22\". Subsequently, he takes out a bottle of black spray with his right hand and starts spraying it on the tire."
+    },
+    {
+        "second": 44,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3H1sVknXDe0/output_frames/sec_44_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[42-48] Then the person presses the stop button on the phone timer with his left hand, and the time freezes at \"00:56:22\". Subsequently, he takes out a bottle of black spray with his right hand and starts spraying it on the tire."
+    },
+    {
+        "second": 45,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3H1sVknXDe0/output_frames/sec_45_idx_8.jpg",
+        "fps": 60,
+        "explanation": "[42-48] Then the person presses the stop button on the phone timer with his left hand, and the time freezes at \"00:56:22\". Subsequently, he takes out a bottle of black spray with his right hand and starts spraying it on the tire."
+    },
+    {
+        "second": 46,
+        "frame_index": 59,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3H1sVknXDe0/output_frames/sec_46_idx_59.jpg",
+        "fps": 60,
+        "explanation": "[42-48] Then the person presses the stop button on the phone timer with his left hand, and the time freezes at \"00:56:22\". Subsequently, he takes out a bottle of black spray with his right hand and starts spraying it on the tire."
+    },
+    {
+        "second": 47,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3H1sVknXDe0/output_frames/sec_47_idx_12.jpg",
+        "fps": 60,
+        "explanation": "[42-48] Then the person presses the stop button on the phone timer with his left hand, and the time freezes at \"00:56:22\". Subsequently, he takes out a bottle of black spray with his right hand and starts spraying it on the tire."
+    }
+]

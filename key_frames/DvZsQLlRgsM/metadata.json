@@ -1,0 +1,37 @@
+[
+    {
+        "second": 0,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DvZsQLlRgsM/output_frames/sec_0_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A man wearing a white baseball cap and a blue shirt is sitting at a table with a little girl wearing a white shirt and a gold pom-pom headband. There is a bucket of fried chicken on the table. The man is holding a French fry in one hand, and the little girl is holding a piece of fried chicken. The table in front of them is white, and the wall in the background is white with black decorations, and an air conditioner on top of that."
+    },
+    {
+        "second": 1,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DvZsQLlRgsM/output_frames/sec_1_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The man covers his mouth and sneezes. The girl takes the opportunity to grab the French fry from the man's hand and eats it. The man notices the French fry is gone and looks puzzled. Then he rummages through the bucket of fried chicken. The girl makes a \"hush\" gesture with her hand. The man looks at the girl, who spreads her hands with an innocent look."
+    },
+    {
+        "second": 2,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DvZsQLlRgsM/output_frames/sec_2_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The man covers his mouth and sneezes. The girl takes the opportunity to grab the French fry from the man's hand and eats it. The man notices the French fry is gone and looks puzzled. Then he rummages through the bucket of fried chicken. The girl makes a \"hush\" gesture with her hand. The man looks at the girl, who spreads her hands with an innocent look."
+    },
+    {
+        "second": 3,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DvZsQLlRgsM/output_frames/sec_3_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The man covers his mouth and sneezes. The girl takes the opportunity to grab the French fry from the man's hand and eats it. The man notices the French fry is gone and looks puzzled. Then he rummages through the bucket of fried chicken. The girl makes a \"hush\" gesture with her hand. The man looks at the girl, who spreads her hands with an innocent look."
+    },
+    {
+        "second": 4,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DvZsQLlRgsM/output_frames/sec_4_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The man covers his mouth and sneezes. The girl takes the opportunity to grab the French fry from the man's hand and eats it. The man notices the French fry is gone and looks puzzled. Then he rummages through the bucket of fried chicken. The girl makes a \"hush\" gesture with her hand. The man looks at the girl, who spreads her hands with an innocent look."
+    }
+]

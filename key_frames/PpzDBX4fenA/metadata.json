@@ -1,0 +1,79 @@
+[
+    {
+        "second": 0,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PpzDBX4fenA/output_frames/sec_0_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[0-0] In a living room, a woman wearing a black dress is about to sit on a sofa. There is a painting hanging on the living room wall, and the words \"POV: You have a Pomeranian\" appear at the top of the screen."
+    },
+    {
+        "second": 1,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PpzDBX4fenA/output_frames/sec_1_idx_15.jpg",
+        "fps": 60,
+        "explanation": "[0-5] Then the woman sits down on the sofa carefully. The screen switches to a black Pomeranian lying on the carpet, holding a teddy bear toy in its arms, with a pot of green plants behind it. The screen cuts back to the living room, and the woman slowly covers herself with a blanket. The picture switches to the black Pomeranian, which raises its head."
+    },
+    {
+        "second": 2,
+        "frame_index": 56,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PpzDBX4fenA/output_frames/sec_2_idx_56.jpg",
+        "fps": 60,
+        "explanation": "[0-5] Then the woman sits down on the sofa carefully. The screen switches to a black Pomeranian lying on the carpet, holding a teddy bear toy in its arms, with a pot of green plants behind it. The screen cuts back to the living room, and the woman slowly covers herself with a blanket. The picture switches to the black Pomeranian, which raises its head."
+    },
+    {
+        "second": 3,
+        "frame_index": 44,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PpzDBX4fenA/output_frames/sec_3_idx_44.jpg",
+        "fps": 60,
+        "explanation": "[0-5] Then the woman sits down on the sofa carefully. The screen switches to a black Pomeranian lying on the carpet, holding a teddy bear toy in its arms, with a pot of green plants behind it. The screen cuts back to the living room, and the woman slowly covers herself with a blanket. The picture switches to the black Pomeranian, which raises its head."
+    },
+    {
+        "second": 4,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PpzDBX4fenA/output_frames/sec_4_idx_8.jpg",
+        "fps": 60,
+        "explanation": "[0-5] Then the woman sits down on the sofa carefully. The screen switches to a black Pomeranian lying on the carpet, holding a teddy bear toy in its arms, with a pot of green plants behind it. The screen cuts back to the living room, and the woman slowly covers herself with a blanket. The picture switches to the black Pomeranian, which raises its head."
+    },
+    {
+        "second": 5,
+        "frame_index": 40,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PpzDBX4fenA/output_frames/sec_5_idx_40.jpg",
+        "fps": 60,
+        "explanation": "[0-5] Then the woman sits down on the sofa carefully. The screen switches to a black Pomeranian lying on the carpet, holding a teddy bear toy in its arms, with a pot of green plants behind it. The screen cuts back to the living room, and the woman slowly covers herself with a blanket. The picture switches to the black Pomeranian, which raises its head."
+    },
+    {
+        "second": 6,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PpzDBX4fenA/output_frames/sec_6_idx_10.jpg",
+        "fps": 60,
+        "explanation": "[5-10] Then the screen cuts to the woman slowly covering herself with the blanket again. The screen switches to the black Pomeranian, which slowly gets up. Then the screen returns to the woman, and the Pomeranian runs to the sofa, snuggles up to her, and kisses her on the face."
+    },
+    {
+        "second": 7,
+        "frame_index": 56,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PpzDBX4fenA/output_frames/sec_7_idx_56.jpg",
+        "fps": 60,
+        "explanation": "[5-10] Then the screen cuts to the woman slowly covering herself with the blanket again. The screen switches to the black Pomeranian, which slowly gets up. Then the screen returns to the woman, and the Pomeranian runs to the sofa, snuggles up to her, and kisses her on the face."
+    },
+    {
+        "second": 8,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PpzDBX4fenA/output_frames/sec_8_idx_10.jpg",
+        "fps": 60,
+        "explanation": "[5-10] Then the screen cuts to the woman slowly covering herself with the blanket again. The screen switches to the black Pomeranian, which slowly gets up. Then the screen returns to the woman, and the Pomeranian runs to the sofa, snuggles up to her, and kisses her on the face."
+    },
+    {
+        "second": 9,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PpzDBX4fenA/output_frames/sec_9_idx_25.jpg",
+        "fps": 60,
+        "explanation": "[5-10] Then the screen cuts to the woman slowly covering herself with the blanket again. The screen switches to the black Pomeranian, which slowly gets up. Then the screen returns to the woman, and the Pomeranian runs to the sofa, snuggles up to her, and kisses her on the face."
+    },
+    {
+        "second": 10,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PpzDBX4fenA/output_frames/sec_10_idx_20.jpg",
+        "fps": 60,
+        "explanation": "[5-10] Then the screen cuts to the woman slowly covering herself with the blanket again. The screen switches to the black Pomeranian, which slowly gets up. Then the screen returns to the woman, and the Pomeranian runs to the sofa, snuggles up to her, and kisses her on the face."
+    }
+]

@@ -1,0 +1,100 @@
+[
+    {
+        "second": 0,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1UPzi-DgqAo/output_frames/sec_0_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A left hand wearing a glove is holding a can of orange paint, the rim of the paint can is stained with paint. In front of it is a gray brick wall, and below it is a light yellow table top with wood grain."
+    },
+    {
+        "second": 1,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1UPzi-DgqAo/output_frames/sec_1_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Then the camera zooms in, a silver metal screwdriver appears from the right side, a right hand holds the screwdriver and uses the top of the screwdriver against the edge of the paint can lid to pry open the lid of the paint can. A left hand takes the lid of the paint can from the left, and a red cross appears at the top of the screen."
+    },
+    {
+        "second": 2,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1UPzi-DgqAo/output_frames/sec_2_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Then the camera zooms in, a silver metal screwdriver appears from the right side, a right hand holds the screwdriver and uses the top of the screwdriver against the edge of the paint can lid to pry open the lid of the paint can. A left hand takes the lid of the paint can from the left, and a red cross appears at the top of the screen."
+    },
+    {
+        "second": 3,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1UPzi-DgqAo/output_frames/sec_3_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Then the camera zooms in, a silver metal screwdriver appears from the right side, a right hand holds the screwdriver and uses the top of the screwdriver against the edge of the paint can lid to pry open the lid of the paint can. A left hand takes the lid of the paint can from the left, and a red cross appears at the top of the screen."
+    },
+    {
+        "second": 4,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1UPzi-DgqAo/output_frames/sec_4_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Then the camera zooms in, a silver metal screwdriver appears from the right side, a right hand holds the screwdriver and uses the top of the screwdriver against the edge of the paint can lid to pry open the lid of the paint can. A left hand takes the lid of the paint can from the left, and a red cross appears at the top of the screen."
+    },
+    {
+        "second": 5,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1UPzi-DgqAo/output_frames/sec_5_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Then the camera zooms in, a silver metal screwdriver appears from the right side, a right hand holds the screwdriver and uses the top of the screwdriver against the edge of the paint can lid to pry open the lid of the paint can. A left hand takes the lid of the paint can from the left, and a red cross appears at the top of the screen."
+    },
+    {
+        "second": 6,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1UPzi-DgqAo/output_frames/sec_6_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[5-7] Then the screen switches, a transparent bottle with an orange cap appears on the light yellow table top from the left, a left hand grabs the bottom of the bottle, a right hand holds a knife, and cuts the bottle into two parts from the bottle body."
+    },
+    {
+        "second": 7,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1UPzi-DgqAo/output_frames/sec_7_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[5-7] Then the screen switches, a transparent bottle with an orange cap appears on the light yellow table top from the left, a left hand grabs the bottom of the bottle, a right hand holds a knife, and cuts the bottle into two parts from the bottle body."
+    },
+    {
+        "second": 8,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1UPzi-DgqAo/output_frames/sec_8_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[7-10] Then the picture switches, a right hand holds the upper part of the cut plastic bottle and puts it on the paint can, then a hand wearing gloves turns the orange bottle cap, a hand is holding something like a hair dryer and blowing it at the bottle, and then the upper part of the bottle is connected to the paint can."
+    },
+    {
+        "second": 9,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1UPzi-DgqAo/output_frames/sec_9_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[7-10] Then the picture switches, a right hand holds the upper part of the cut plastic bottle and puts it on the paint can, then a hand wearing gloves turns the orange bottle cap, a hand is holding something like a hair dryer and blowing it at the bottle, and then the upper part of the bottle is connected to the paint can."
+    },
+    {
+        "second": 10,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1UPzi-DgqAo/output_frames/sec_10_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[7-10] Then the picture switches, a right hand holds the upper part of the cut plastic bottle and puts it on the paint can, then a hand wearing gloves turns the orange bottle cap, a hand is holding something like a hair dryer and blowing it at the bottle, and then the upper part of the bottle is connected to the paint can."
+    },
+    {
+        "second": 11,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1UPzi-DgqAo/output_frames/sec_11_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[10-13] After that, the paint can connected with the upper part of the bottle is placed on the right side of the light yellow table top, and a transparent container is placed on the left side of the light yellow table top. Then the right hand wearing gloves opens the orange bottle cap, and then the right hand wearing gloves picks up the paint can and pours the paint into the transparent cup on the left, and a green check mark appears on the screen."
+    },
+    {
+        "second": 12,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1UPzi-DgqAo/output_frames/sec_12_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[10-13] After that, the paint can connected with the upper part of the bottle is placed on the right side of the light yellow table top, and a transparent container is placed on the left side of the light yellow table top. Then the right hand wearing gloves opens the orange bottle cap, and then the right hand wearing gloves picks up the paint can and pours the paint into the transparent cup on the left, and a green check mark appears on the screen."
+    },
+    {
+        "second": 13,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1UPzi-DgqAo/output_frames/sec_13_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[10-13] After that, the paint can connected with the upper part of the bottle is placed on the right side of the light yellow table top, and a transparent container is placed on the left side of the light yellow table top. Then the right hand wearing gloves opens the orange bottle cap, and then the right hand wearing gloves picks up the paint can and pours the paint into the transparent cup on the left, and a green check mark appears on the screen."
+    }
+]

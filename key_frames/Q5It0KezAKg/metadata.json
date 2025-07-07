@@ -1,0 +1,51 @@
+[
+    {
+        "second": 0,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Q5It0KezAKg/output_frames/sec_0_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[0-0] The upper part of the frame shows the inside of a refrigerated container, where a man in a light blue shirt and dark blue pants is carrying a large fish. The container is filled with frozen fish. In the lower part of the frame, a man in a gray shirt is wearing black headphones and sitting in front of a microphone, looking seriously at the camera. The chair behind him is black."
+    },
+    {
+        "second": 1,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Q5It0KezAKg/output_frames/sec_1_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[0-6] The man in the light blue shirt throws the large fish in his hand onto the pile of fish and then turns and runs towards the right side of the frame. The pile of fish collapses and slides down, and another man on the left side of the container is watching. The man in gray in the lower part of the frame opens his mouth as the pile of fish falls."
+    },
+    {
+        "second": 2,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Q5It0KezAKg/output_frames/sec_2_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-6] The man in the light blue shirt throws the large fish in his hand onto the pile of fish and then turns and runs towards the right side of the frame. The pile of fish collapses and slides down, and another man on the left side of the container is watching. The man in gray in the lower part of the frame opens his mouth as the pile of fish falls."
+    },
+    {
+        "second": 3,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Q5It0KezAKg/output_frames/sec_3_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[0-6] The man in the light blue shirt throws the large fish in his hand onto the pile of fish and then turns and runs towards the right side of the frame. The pile of fish collapses and slides down, and another man on the left side of the container is watching. The man in gray in the lower part of the frame opens his mouth as the pile of fish falls."
+    },
+    {
+        "second": 4,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Q5It0KezAKg/output_frames/sec_4_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-6] The man in the light blue shirt throws the large fish in his hand onto the pile of fish and then turns and runs towards the right side of the frame. The pile of fish collapses and slides down, and another man on the left side of the container is watching. The man in gray in the lower part of the frame opens his mouth as the pile of fish falls."
+    },
+    {
+        "second": 5,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Q5It0KezAKg/output_frames/sec_5_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[0-6] The man in the light blue shirt throws the large fish in his hand onto the pile of fish and then turns and runs towards the right side of the frame. The pile of fish collapses and slides down, and another man on the left side of the container is watching. The man in gray in the lower part of the frame opens his mouth as the pile of fish falls."
+    },
+    {
+        "second": 6,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Q5It0KezAKg/output_frames/sec_6_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[0-6] The man in the light blue shirt throws the large fish in his hand onto the pile of fish and then turns and runs towards the right side of the frame. The pile of fish collapses and slides down, and another man on the left side of the container is watching. The man in gray in the lower part of the frame opens his mouth as the pile of fish falls."
+    }
+]

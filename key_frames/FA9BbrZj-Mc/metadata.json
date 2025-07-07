@@ -1,0 +1,366 @@
+[
+    {
+        "second": 0,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FA9BbrZj-Mc/output_frames/sec_0_idx_0.jpg",
+        "fps": 25,
+        "explanation": "[0-0] Against a blue background, a rainbow heart-shaped bubble toy appears in the frame."
+    },
+    {
+        "second": 1,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FA9BbrZj-Mc/output_frames/sec_1_idx_0.jpg",
+        "fps": 25,
+        "explanation": "[0-9] Next, pink liquid is poured into the rainbow heart-shaped bubble toy. The camera zooms in, focusing on the part of the bubble toy filled with the pink liquid, which then fills the entire toy."
+    },
+    {
+        "second": 2,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FA9BbrZj-Mc/output_frames/sec_2_idx_1.jpg",
+        "fps": 25,
+        "explanation": "[0-9] Next, pink liquid is poured into the rainbow heart-shaped bubble toy. The camera zooms in, focusing on the part of the bubble toy filled with the pink liquid, which then fills the entire toy."
+    },
+    {
+        "second": 3,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FA9BbrZj-Mc/output_frames/sec_3_idx_19.jpg",
+        "fps": 25,
+        "explanation": "[0-9] Next, pink liquid is poured into the rainbow heart-shaped bubble toy. The camera zooms in, focusing on the part of the bubble toy filled with the pink liquid, which then fills the entire toy."
+    },
+    {
+        "second": 4,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FA9BbrZj-Mc/output_frames/sec_4_idx_22.jpg",
+        "fps": 25,
+        "explanation": "[0-9] Next, pink liquid is poured into the rainbow heart-shaped bubble toy. The camera zooms in, focusing on the part of the bubble toy filled with the pink liquid, which then fills the entire toy."
+    },
+    {
+        "second": 5,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FA9BbrZj-Mc/output_frames/sec_5_idx_11.jpg",
+        "fps": 25,
+        "explanation": "[0-9] Next, pink liquid is poured into the rainbow heart-shaped bubble toy. The camera zooms in, focusing on the part of the bubble toy filled with the pink liquid, which then fills the entire toy."
+    },
+    {
+        "second": 6,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FA9BbrZj-Mc/output_frames/sec_6_idx_8.jpg",
+        "fps": 25,
+        "explanation": "[0-9] Next, pink liquid is poured into the rainbow heart-shaped bubble toy. The camera zooms in, focusing on the part of the bubble toy filled with the pink liquid, which then fills the entire toy."
+    },
+    {
+        "second": 7,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FA9BbrZj-Mc/output_frames/sec_7_idx_18.jpg",
+        "fps": 25,
+        "explanation": "[0-9] Next, pink liquid is poured into the rainbow heart-shaped bubble toy. The camera zooms in, focusing on the part of the bubble toy filled with the pink liquid, which then fills the entire toy."
+    },
+    {
+        "second": 8,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FA9BbrZj-Mc/output_frames/sec_8_idx_23.jpg",
+        "fps": 25,
+        "explanation": "[0-9] Next, pink liquid is poured into the rainbow heart-shaped bubble toy. The camera zooms in, focusing on the part of the bubble toy filled with the pink liquid, which then fills the entire toy."
+    },
+    {
+        "second": 9,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FA9BbrZj-Mc/output_frames/sec_9_idx_2.jpg",
+        "fps": 25,
+        "explanation": "[0-9] Next, pink liquid is poured into the rainbow heart-shaped bubble toy. The camera zooms in, focusing on the part of the bubble toy filled with the pink liquid, which then fills the entire toy."
+    },
+    {
+        "second": 10,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FA9BbrZj-Mc/output_frames/sec_10_idx_19.jpg",
+        "fps": 25,
+        "explanation": "[9-16] Subsequently, the pink liquid solidifies within the rainbow heart-shaped bubble toy. The toy is turned upside down, and two hands pick it up, successfully separating the solidified pink heart from the toy. The bubble toy is then removed from the frame, leaving only the pink heart-shaped soap against the blue background."
+    },
+    {
+        "second": 11,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FA9BbrZj-Mc/output_frames/sec_11_idx_4.jpg",
+        "fps": 25,
+        "explanation": "[9-16] Subsequently, the pink liquid solidifies within the rainbow heart-shaped bubble toy. The toy is turned upside down, and two hands pick it up, successfully separating the solidified pink heart from the toy. The bubble toy is then removed from the frame, leaving only the pink heart-shaped soap against the blue background."
+    },
+    {
+        "second": 12,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FA9BbrZj-Mc/output_frames/sec_12_idx_0.jpg",
+        "fps": 25,
+        "explanation": "[9-16] Subsequently, the pink liquid solidifies within the rainbow heart-shaped bubble toy. The toy is turned upside down, and two hands pick it up, successfully separating the solidified pink heart from the toy. The bubble toy is then removed from the frame, leaving only the pink heart-shaped soap against the blue background."
+    },
+    {
+        "second": 13,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FA9BbrZj-Mc/output_frames/sec_13_idx_16.jpg",
+        "fps": 25,
+        "explanation": "[9-16] Subsequently, the pink liquid solidifies within the rainbow heart-shaped bubble toy. The toy is turned upside down, and two hands pick it up, successfully separating the solidified pink heart from the toy. The bubble toy is then removed from the frame, leaving only the pink heart-shaped soap against the blue background."
+    },
+    {
+        "second": 14,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FA9BbrZj-Mc/output_frames/sec_14_idx_24.jpg",
+        "fps": 25,
+        "explanation": "[9-16] Subsequently, the pink liquid solidifies within the rainbow heart-shaped bubble toy. The toy is turned upside down, and two hands pick it up, successfully separating the solidified pink heart from the toy. The bubble toy is then removed from the frame, leaving only the pink heart-shaped soap against the blue background."
+    },
+    {
+        "second": 15,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FA9BbrZj-Mc/output_frames/sec_15_idx_15.jpg",
+        "fps": 25,
+        "explanation": "[9-16] Subsequently, the pink liquid solidifies within the rainbow heart-shaped bubble toy. The toy is turned upside down, and two hands pick it up, successfully separating the solidified pink heart from the toy. The bubble toy is then removed from the frame, leaving only the pink heart-shaped soap against the blue background."
+    },
+    {
+        "second": 16,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FA9BbrZj-Mc/output_frames/sec_16_idx_0.jpg",
+        "fps": 25,
+        "explanation": "[9-16] Subsequently, the pink liquid solidifies within the rainbow heart-shaped bubble toy. The toy is turned upside down, and two hands pick it up, successfully separating the solidified pink heart from the toy. The bubble toy is then removed from the frame, leaving only the pink heart-shaped soap against the blue background."
+    },
+    {
+        "second": 17,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FA9BbrZj-Mc/output_frames/sec_17_idx_10.jpg",
+        "fps": 25,
+        "explanation": "[16-23] Next, two hands pick up the pink heart-shaped soap. The scene then switches to the hands holding the soap under a running faucet, with fingers continuously pressing on it."
+    },
+    {
+        "second": 18,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FA9BbrZj-Mc/output_frames/sec_18_idx_21.jpg",
+        "fps": 25,
+        "explanation": "[16-23] Next, two hands pick up the pink heart-shaped soap. The scene then switches to the hands holding the soap under a running faucet, with fingers continuously pressing on it."
+    },
+    {
+        "second": 19,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FA9BbrZj-Mc/output_frames/sec_19_idx_2.jpg",
+        "fps": 25,
+        "explanation": "[16-23] Next, two hands pick up the pink heart-shaped soap. The scene then switches to the hands holding the soap under a running faucet, with fingers continuously pressing on it."
+    },
+    {
+        "second": 20,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FA9BbrZj-Mc/output_frames/sec_20_idx_5.jpg",
+        "fps": 25,
+        "explanation": "[16-23] Next, two hands pick up the pink heart-shaped soap. The scene then switches to the hands holding the soap under a running faucet, with fingers continuously pressing on it."
+    },
+    {
+        "second": 21,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FA9BbrZj-Mc/output_frames/sec_21_idx_8.jpg",
+        "fps": 25,
+        "explanation": "[16-23] Next, two hands pick up the pink heart-shaped soap. The scene then switches to the hands holding the soap under a running faucet, with fingers continuously pressing on it."
+    },
+    {
+        "second": 22,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FA9BbrZj-Mc/output_frames/sec_22_idx_24.jpg",
+        "fps": 25,
+        "explanation": "[16-23] Next, two hands pick up the pink heart-shaped soap. The scene then switches to the hands holding the soap under a running faucet, with fingers continuously pressing on it."
+    },
+    {
+        "second": 23,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FA9BbrZj-Mc/output_frames/sec_23_idx_0.jpg",
+        "fps": 25,
+        "explanation": "[16-23] Next, two hands pick up the pink heart-shaped soap. The scene then switches to the hands holding the soap under a running faucet, with fingers continuously pressing on it."
+    },
+    {
+        "second": 24,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FA9BbrZj-Mc/output_frames/sec_24_idx_11.jpg",
+        "fps": 25,
+        "explanation": "[23-31] Afterward, the scene changes to a transparent mouse shell appearing against a purple background. A dropper is then used to drop red liquid into the mold. Gray liquid is then poured into the mold, filling it up."
+    },
+    {
+        "second": 25,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FA9BbrZj-Mc/output_frames/sec_25_idx_22.jpg",
+        "fps": 25,
+        "explanation": "[23-31] Afterward, the scene changes to a transparent mouse shell appearing against a purple background. A dropper is then used to drop red liquid into the mold. Gray liquid is then poured into the mold, filling it up."
+    },
+    {
+        "second": 26,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FA9BbrZj-Mc/output_frames/sec_26_idx_0.jpg",
+        "fps": 25,
+        "explanation": "[23-31] Afterward, the scene changes to a transparent mouse shell appearing against a purple background. A dropper is then used to drop red liquid into the mold. Gray liquid is then poured into the mold, filling it up."
+    },
+    {
+        "second": 27,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FA9BbrZj-Mc/output_frames/sec_27_idx_0.jpg",
+        "fps": 25,
+        "explanation": "[23-31] Afterward, the scene changes to a transparent mouse shell appearing against a purple background. A dropper is then used to drop red liquid into the mold. Gray liquid is then poured into the mold, filling it up."
+    },
+    {
+        "second": 28,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FA9BbrZj-Mc/output_frames/sec_28_idx_23.jpg",
+        "fps": 25,
+        "explanation": "[23-31] Afterward, the scene changes to a transparent mouse shell appearing against a purple background. A dropper is then used to drop red liquid into the mold. Gray liquid is then poured into the mold, filling it up."
+    },
+    {
+        "second": 29,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FA9BbrZj-Mc/output_frames/sec_29_idx_0.jpg",
+        "fps": 25,
+        "explanation": "[23-31] Afterward, the scene changes to a transparent mouse shell appearing against a purple background. A dropper is then used to drop red liquid into the mold. Gray liquid is then poured into the mold, filling it up."
+    },
+    {
+        "second": 30,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FA9BbrZj-Mc/output_frames/sec_30_idx_1.jpg",
+        "fps": 25,
+        "explanation": "[23-31] Afterward, the scene changes to a transparent mouse shell appearing against a purple background. A dropper is then used to drop red liquid into the mold. Gray liquid is then poured into the mold, filling it up."
+    },
+    {
+        "second": 31,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FA9BbrZj-Mc/output_frames/sec_31_idx_11.jpg",
+        "fps": 25,
+        "explanation": "[23-31] Afterward, the scene changes to a transparent mouse shell appearing against a purple background. A dropper is then used to drop red liquid into the mold. Gray liquid is then poured into the mold, filling it up."
+    },
+    {
+        "second": 32,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FA9BbrZj-Mc/output_frames/sec_32_idx_8.jpg",
+        "fps": 25,
+        "explanation": "[31-37] The scene then switches to two hands removing the solidified gray shape from the mold. Subsequently, the scene transitions to a man in an orange T-shirt sitting at a desk with a laptop in front of him. He then stretches, closes his laptop, and leaves."
+    },
+    {
+        "second": 33,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FA9BbrZj-Mc/output_frames/sec_33_idx_17.jpg",
+        "fps": 25,
+        "explanation": "[31-37] The scene then switches to two hands removing the solidified gray shape from the mold. Subsequently, the scene transitions to a man in an orange T-shirt sitting at a desk with a laptop in front of him. He then stretches, closes his laptop, and leaves."
+    },
+    {
+        "second": 34,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FA9BbrZj-Mc/output_frames/sec_34_idx_4.jpg",
+        "fps": 25,
+        "explanation": "[31-37] The scene then switches to two hands removing the solidified gray shape from the mold. Subsequently, the scene transitions to a man in an orange T-shirt sitting at a desk with a laptop in front of him. He then stretches, closes his laptop, and leaves."
+    },
+    {
+        "second": 35,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FA9BbrZj-Mc/output_frames/sec_35_idx_10.jpg",
+        "fps": 25,
+        "explanation": "[31-37] The scene then switches to two hands removing the solidified gray shape from the mold. Subsequently, the scene transitions to a man in an orange T-shirt sitting at a desk with a laptop in front of him. He then stretches, closes his laptop, and leaves."
+    },
+    {
+        "second": 36,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FA9BbrZj-Mc/output_frames/sec_36_idx_4.jpg",
+        "fps": 25,
+        "explanation": "[31-37] The scene then switches to two hands removing the solidified gray shape from the mold. Subsequently, the scene transitions to a man in an orange T-shirt sitting at a desk with a laptop in front of him. He then stretches, closes his laptop, and leaves."
+    },
+    {
+        "second": 37,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FA9BbrZj-Mc/output_frames/sec_37_idx_24.jpg",
+        "fps": 25,
+        "explanation": "[31-37] The scene then switches to two hands removing the solidified gray shape from the mold. Subsequently, the scene transitions to a man in an orange T-shirt sitting at a desk with a laptop in front of him. He then stretches, closes his laptop, and leaves."
+    },
+    {
+        "second": 38,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FA9BbrZj-Mc/output_frames/sec_38_idx_23.jpg",
+        "fps": 25,
+        "explanation": "[37-45] Then, a woman sneaks to the desk and replaces the man's mouse with the soap mouse. The man returns to his seat, opens his laptop, and starts clicking and moving the mouse."
+    },
+    {
+        "second": 39,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FA9BbrZj-Mc/output_frames/sec_39_idx_17.jpg",
+        "fps": 25,
+        "explanation": "[37-45] Then, a woman sneaks to the desk and replaces the man's mouse with the soap mouse. The man returns to his seat, opens his laptop, and starts clicking and moving the mouse."
+    },
+    {
+        "second": 40,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FA9BbrZj-Mc/output_frames/sec_40_idx_0.jpg",
+        "fps": 25,
+        "explanation": "[37-45] Then, a woman sneaks to the desk and replaces the man's mouse with the soap mouse. The man returns to his seat, opens his laptop, and starts clicking and moving the mouse."
+    },
+    {
+        "second": 41,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FA9BbrZj-Mc/output_frames/sec_41_idx_20.jpg",
+        "fps": 25,
+        "explanation": "[37-45] Then, a woman sneaks to the desk and replaces the man's mouse with the soap mouse. The man returns to his seat, opens his laptop, and starts clicking and moving the mouse."
+    },
+    {
+        "second": 42,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FA9BbrZj-Mc/output_frames/sec_42_idx_18.jpg",
+        "fps": 25,
+        "explanation": "[37-45] Then, a woman sneaks to the desk and replaces the man's mouse with the soap mouse. The man returns to his seat, opens his laptop, and starts clicking and moving the mouse."
+    },
+    {
+        "second": 43,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FA9BbrZj-Mc/output_frames/sec_43_idx_20.jpg",
+        "fps": 25,
+        "explanation": "[37-45] Then, a woman sneaks to the desk and replaces the man's mouse with the soap mouse. The man returns to his seat, opens his laptop, and starts clicking and moving the mouse."
+    },
+    {
+        "second": 44,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FA9BbrZj-Mc/output_frames/sec_44_idx_24.jpg",
+        "fps": 25,
+        "explanation": "[37-45] Then, a woman sneaks to the desk and replaces the man's mouse with the soap mouse. The man returns to his seat, opens his laptop, and starts clicking and moving the mouse."
+    },
+    {
+        "second": 45,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FA9BbrZj-Mc/output_frames/sec_45_idx_1.jpg",
+        "fps": 25,
+        "explanation": "[37-45] Then, a woman sneaks to the desk and replaces the man's mouse with the soap mouse. The man returns to his seat, opens his laptop, and starts clicking and moving the mouse."
+    },
+    {
+        "second": 46,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FA9BbrZj-Mc/output_frames/sec_46_idx_19.jpg",
+        "fps": 25,
+        "explanation": "[45-51] Finally, the man realizes the mouse is not responding and looks down at it. The camera zooms in on the bubbles forming on his hand. The man stares at the bubbles with a surprised expression."
+    },
+    {
+        "second": 47,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FA9BbrZj-Mc/output_frames/sec_47_idx_14.jpg",
+        "fps": 25,
+        "explanation": "[45-51] Finally, the man realizes the mouse is not responding and looks down at it. The camera zooms in on the bubbles forming on his hand. The man stares at the bubbles with a surprised expression."
+    },
+    {
+        "second": 48,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FA9BbrZj-Mc/output_frames/sec_48_idx_1.jpg",
+        "fps": 25,
+        "explanation": "[45-51] Finally, the man realizes the mouse is not responding and looks down at it. The camera zooms in on the bubbles forming on his hand. The man stares at the bubbles with a surprised expression."
+    },
+    {
+        "second": 49,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FA9BbrZj-Mc/output_frames/sec_49_idx_19.jpg",
+        "fps": 25,
+        "explanation": "[45-51] Finally, the man realizes the mouse is not responding and looks down at it. The camera zooms in on the bubbles forming on his hand. The man stares at the bubbles with a surprised expression."
+    },
+    {
+        "second": 50,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FA9BbrZj-Mc/output_frames/sec_50_idx_2.jpg",
+        "fps": 25,
+        "explanation": "[45-51] Finally, the man realizes the mouse is not responding and looks down at it. The camera zooms in on the bubbles forming on his hand. The man stares at the bubbles with a surprised expression."
+    },
+    {
+        "second": 51,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FA9BbrZj-Mc/output_frames/sec_51_idx_0.jpg",
+        "fps": 25,
+        "explanation": "[45-51] Finally, the man realizes the mouse is not responding and looks down at it. The camera zooms in on the bubbles forming on his hand. The man stares at the bubbles with a surprised expression."
+    }
+]

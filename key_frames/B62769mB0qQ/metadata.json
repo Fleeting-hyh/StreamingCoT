@@ -1,0 +1,135 @@
+[
+    {
+        "second": 0,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/B62769mB0qQ/output_frames/sec_0_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A man in a floral shirt holds a cartoon hammer. In the upper left corner, a woman in a yellow shirt stands with two bricks at her feet and the subtitle \"Friend\" below. In the upper right corner, a woman in a pink shirt stands with five bricks at her feet and the subtitle \"Relative\" below. The setting is a concave wall with a green plant in the lower half. The background is blue with three clouds of different sizes."
+    },
+    {
+        "second": 1,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/B62769mB0qQ/output_frames/sec_1_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-9] The man swings the hammer to build the stairs. Halfway through, he wipes his sweat, puts down the hammer, and pleads with the woman in pink. She waves her hand and turns away. The woman on the left throws down two bricks. The man turns around and gives her a thumbs up."
+    },
+    {
+        "second": 2,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/B62769mB0qQ/output_frames/sec_2_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[0-9] The man swings the hammer to build the stairs. Halfway through, he wipes his sweat, puts down the hammer, and pleads with the woman in pink. She waves her hand and turns away. The woman on the left throws down two bricks. The man turns around and gives her a thumbs up."
+    },
+    {
+        "second": 3,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/B62769mB0qQ/output_frames/sec_3_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[0-9] The man swings the hammer to build the stairs. Halfway through, he wipes his sweat, puts down the hammer, and pleads with the woman in pink. She waves her hand and turns away. The woman on the left throws down two bricks. The man turns around and gives her a thumbs up."
+    },
+    {
+        "second": 4,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/B62769mB0qQ/output_frames/sec_4_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[0-9] The man swings the hammer to build the stairs. Halfway through, he wipes his sweat, puts down the hammer, and pleads with the woman in pink. She waves her hand and turns away. The woman on the left throws down two bricks. The man turns around and gives her a thumbs up."
+    },
+    {
+        "second": 5,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/B62769mB0qQ/output_frames/sec_5_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[0-9] The man swings the hammer to build the stairs. Halfway through, he wipes his sweat, puts down the hammer, and pleads with the woman in pink. She waves her hand and turns away. The woman on the left throws down two bricks. The man turns around and gives her a thumbs up."
+    },
+    {
+        "second": 6,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/B62769mB0qQ/output_frames/sec_6_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[0-9] The man swings the hammer to build the stairs. Halfway through, he wipes his sweat, puts down the hammer, and pleads with the woman in pink. She waves her hand and turns away. The woman on the left throws down two bricks. The man turns around and gives her a thumbs up."
+    },
+    {
+        "second": 7,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/B62769mB0qQ/output_frames/sec_7_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[0-9] The man swings the hammer to build the stairs. Halfway through, he wipes his sweat, puts down the hammer, and pleads with the woman in pink. She waves her hand and turns away. The woman on the left throws down two bricks. The man turns around and gives her a thumbs up."
+    },
+    {
+        "second": 8,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/B62769mB0qQ/output_frames/sec_8_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[0-9] The man swings the hammer to build the stairs. Halfway through, he wipes his sweat, puts down the hammer, and pleads with the woman in pink. She waves her hand and turns away. The woman on the left throws down two bricks. The man turns around and gives her a thumbs up."
+    },
+    {
+        "second": 9,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/B62769mB0qQ/output_frames/sec_9_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[0-9] The man swings the hammer to build the stairs. Halfway through, he wipes his sweat, puts down the hammer, and pleads with the woman in pink. She waves her hand and turns away. The woman on the left throws down two bricks. The man turns around and gives her a thumbs up."
+    },
+    {
+        "second": 10,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/B62769mB0qQ/output_frames/sec_10_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[9-18] The man picks up the hammer and continues building. When he reaches the level with gold bars, a car, and money, he raises his arms in triumph. The woman in pink raises her hands in pleading. The man then takes out a ladder and hands it to the woman in yellow."
+    },
+    {
+        "second": 11,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/B62769mB0qQ/output_frames/sec_11_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[9-18] The man picks up the hammer and continues building. When he reaches the level with gold bars, a car, and money, he raises his arms in triumph. The woman in pink raises her hands in pleading. The man then takes out a ladder and hands it to the woman in yellow."
+    },
+    {
+        "second": 12,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/B62769mB0qQ/output_frames/sec_12_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[9-18] The man picks up the hammer and continues building. When he reaches the level with gold bars, a car, and money, he raises his arms in triumph. The woman in pink raises her hands in pleading. The man then takes out a ladder and hands it to the woman in yellow."
+    },
+    {
+        "second": 13,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/B62769mB0qQ/output_frames/sec_13_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[9-18] The man picks up the hammer and continues building. When he reaches the level with gold bars, a car, and money, he raises his arms in triumph. The woman in pink raises her hands in pleading. The man then takes out a ladder and hands it to the woman in yellow."
+    },
+    {
+        "second": 14,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/B62769mB0qQ/output_frames/sec_14_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[9-18] The man picks up the hammer and continues building. When he reaches the level with gold bars, a car, and money, he raises his arms in triumph. The woman in pink raises her hands in pleading. The man then takes out a ladder and hands it to the woman in yellow."
+    },
+    {
+        "second": 15,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/B62769mB0qQ/output_frames/sec_15_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[9-18] The man picks up the hammer and continues building. When he reaches the level with gold bars, a car, and money, he raises his arms in triumph. The woman in pink raises her hands in pleading. The man then takes out a ladder and hands it to the woman in yellow."
+    },
+    {
+        "second": 16,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/B62769mB0qQ/output_frames/sec_16_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[9-18] The man picks up the hammer and continues building. When he reaches the level with gold bars, a car, and money, he raises his arms in triumph. The woman in pink raises her hands in pleading. The man then takes out a ladder and hands it to the woman in yellow."
+    },
+    {
+        "second": 17,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/B62769mB0qQ/output_frames/sec_17_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[9-18] The man picks up the hammer and continues building. When he reaches the level with gold bars, a car, and money, he raises his arms in triumph. The woman in pink raises her hands in pleading. The man then takes out a ladder and hands it to the woman in yellow."
+    },
+    {
+        "second": 18,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/B62769mB0qQ/output_frames/sec_18_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[9-18] The man picks up the hammer and continues building. When he reaches the level with gold bars, a car, and money, he raises his arms in triumph. The woman in pink raises her hands in pleading. The man then takes out a ladder and hands it to the woman in yellow."
+    }
+]

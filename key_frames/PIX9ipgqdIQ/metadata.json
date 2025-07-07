@@ -1,0 +1,79 @@
+[
+    {
+        "second": 0,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PIX9ipgqdIQ/output_frames/sec_0_idx_24.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A white bowl filled with white frosting is placed on a wooden table. Above it is the white English text \"How to decorate your sugar cookies.\""
+    },
+    {
+        "second": 1,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PIX9ipgqdIQ/output_frames/sec_1_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Then, a hand holding a bottle of green food coloring uses the right hand to open the food coloring bottle, revealing the green food coloring. Using a toothpick dipped in the green food coloring, some curved lines are drawn on the frosting."
+    },
+    {
+        "second": 2,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PIX9ipgqdIQ/output_frames/sec_2_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Then, a hand holding a bottle of green food coloring uses the right hand to open the food coloring bottle, revealing the green food coloring. Using a toothpick dipped in the green food coloring, some curved lines are drawn on the frosting."
+    },
+    {
+        "second": 3,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PIX9ipgqdIQ/output_frames/sec_3_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Then, a hand holding a bottle of green food coloring uses the right hand to open the food coloring bottle, revealing the green food coloring. Using a toothpick dipped in the green food coloring, some curved lines are drawn on the frosting."
+    },
+    {
+        "second": 4,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PIX9ipgqdIQ/output_frames/sec_4_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Then, a hand holding a bottle of green food coloring uses the right hand to open the food coloring bottle, revealing the green food coloring. Using a toothpick dipped in the green food coloring, some curved lines are drawn on the frosting."
+    },
+    {
+        "second": 5,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PIX9ipgqdIQ/output_frames/sec_5_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[4-10] Next, a hand holds a yellow Christmas tree-shaped cookie and dips the cookie face down into the frosting. The hand slowly lifts the cookie from the frosting, and the cookie is covered in a layer of green and white marbled frosting."
+    },
+    {
+        "second": 6,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PIX9ipgqdIQ/output_frames/sec_6_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[4-10] Next, a hand holds a yellow Christmas tree-shaped cookie and dips the cookie face down into the frosting. The hand slowly lifts the cookie from the frosting, and the cookie is covered in a layer of green and white marbled frosting."
+    },
+    {
+        "second": 7,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PIX9ipgqdIQ/output_frames/sec_7_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[4-10] Next, a hand holds a yellow Christmas tree-shaped cookie and dips the cookie face down into the frosting. The hand slowly lifts the cookie from the frosting, and the cookie is covered in a layer of green and white marbled frosting."
+    },
+    {
+        "second": 8,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PIX9ipgqdIQ/output_frames/sec_8_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[4-10] Next, a hand holds a yellow Christmas tree-shaped cookie and dips the cookie face down into the frosting. The hand slowly lifts the cookie from the frosting, and the cookie is covered in a layer of green and white marbled frosting."
+    },
+    {
+        "second": 9,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PIX9ipgqdIQ/output_frames/sec_9_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[4-10] Next, a hand holds a yellow Christmas tree-shaped cookie and dips the cookie face down into the frosting. The hand slowly lifts the cookie from the frosting, and the cookie is covered in a layer of green and white marbled frosting."
+    },
+    {
+        "second": 10,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PIX9ipgqdIQ/output_frames/sec_10_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[4-10] Next, a hand holds a yellow Christmas tree-shaped cookie and dips the cookie face down into the frosting. The hand slowly lifts the cookie from the frosting, and the cookie is covered in a layer of green and white marbled frosting."
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "second": 0,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JlgND5SMFRI/output_frames/sec_0_idx_8.jpg",
+        "fps": 60,
+        "explanation": "[0-0] The screen is split into two parts. The upper part shows a man in a red shirt sitting on a chair in a room. He's wearing black headphones, has a red microphone in front of him, and is looking forward. The lower part shows a blue and white police car parked on a dock. At the end of the dock, a yellow sports car is parked. In the distance, in front of the car, are the sea and houses."
+    },
+    {
+        "second": 1,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JlgND5SMFRI/output_frames/sec_1_idx_14.jpg",
+        "fps": 60,
+        "explanation": "[0-6] In the upper part, the man stares straight ahead. In the lower part, the police car starts to turn left at a high speed. As it turns, its rear hits the iron fence on the side of the road, about to crash into the yellow sports car parked next to it. The yellow sports car then drives down a slope, avoiding the police car. The police car reverses a few meters, then straightens up and continues driving forward. At the same time, the yellow sports car speeds up, jumps over the police car, and lands smoothly."
+    },
+    {
+        "second": 2,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JlgND5SMFRI/output_frames/sec_2_idx_15.jpg",
+        "fps": 60,
+        "explanation": "[0-6] In the upper part, the man stares straight ahead. In the lower part, the police car starts to turn left at a high speed. As it turns, its rear hits the iron fence on the side of the road, about to crash into the yellow sports car parked next to it. The yellow sports car then drives down a slope, avoiding the police car. The police car reverses a few meters, then straightens up and continues driving forward. At the same time, the yellow sports car speeds up, jumps over the police car, and lands smoothly."
+    },
+    {
+        "second": 3,
+        "frame_index": 53,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JlgND5SMFRI/output_frames/sec_3_idx_53.jpg",
+        "fps": 60,
+        "explanation": "[0-6] In the upper part, the man stares straight ahead. In the lower part, the police car starts to turn left at a high speed. As it turns, its rear hits the iron fence on the side of the road, about to crash into the yellow sports car parked next to it. The yellow sports car then drives down a slope, avoiding the police car. The police car reverses a few meters, then straightens up and continues driving forward. At the same time, the yellow sports car speeds up, jumps over the police car, and lands smoothly."
+    },
+    {
+        "second": 4,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JlgND5SMFRI/output_frames/sec_4_idx_17.jpg",
+        "fps": 60,
+        "explanation": "[0-6] In the upper part, the man stares straight ahead. In the lower part, the police car starts to turn left at a high speed. As it turns, its rear hits the iron fence on the side of the road, about to crash into the yellow sports car parked next to it. The yellow sports car then drives down a slope, avoiding the police car. The police car reverses a few meters, then straightens up and continues driving forward. At the same time, the yellow sports car speeds up, jumps over the police car, and lands smoothly."
+    },
+    {
+        "second": 5,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JlgND5SMFRI/output_frames/sec_5_idx_11.jpg",
+        "fps": 60,
+        "explanation": "[0-6] In the upper part, the man stares straight ahead. In the lower part, the police car starts to turn left at a high speed. As it turns, its rear hits the iron fence on the side of the road, about to crash into the yellow sports car parked next to it. The yellow sports car then drives down a slope, avoiding the police car. The police car reverses a few meters, then straightens up and continues driving forward. At the same time, the yellow sports car speeds up, jumps over the police car, and lands smoothly."
+    },
+    {
+        "second": 6,
+        "frame_index": 46,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JlgND5SMFRI/output_frames/sec_6_idx_46.jpg",
+        "fps": 60,
+        "explanation": "[0-6] In the upper part, the man stares straight ahead. In the lower part, the police car starts to turn left at a high speed. As it turns, its rear hits the iron fence on the side of the road, about to crash into the yellow sports car parked next to it. The yellow sports car then drives down a slope, avoiding the police car. The police car reverses a few meters, then straightens up and continues driving forward. At the same time, the yellow sports car speeds up, jumps over the police car, and lands smoothly."
+    },
+    {
+        "second": 7,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JlgND5SMFRI/output_frames/sec_7_idx_4.jpg",
+        "fps": 60,
+        "explanation": "[6-10] The yellow sports car in the lower part continues to speed toward the police car. The huge impact sends the police car flying. The yellow sports car rushes under the police car and plunges into the water. The man in the upper part looks surprised and raises his right hand. At this time, a sad emoji appears in the lower part. In the upper part, an exaggerated smile mask appears on the man's face."
+    },
+    {
+        "second": 8,
+        "frame_index": 58,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JlgND5SMFRI/output_frames/sec_8_idx_58.jpg",
+        "fps": 60,
+        "explanation": "[6-10] The yellow sports car in the lower part continues to speed toward the police car. The huge impact sends the police car flying. The yellow sports car rushes under the police car and plunges into the water. The man in the upper part looks surprised and raises his right hand. At this time, a sad emoji appears in the lower part. In the upper part, an exaggerated smile mask appears on the man's face."
+    },
+    {
+        "second": 9,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JlgND5SMFRI/output_frames/sec_9_idx_2.jpg",
+        "fps": 60,
+        "explanation": "[6-10] The yellow sports car in the lower part continues to speed toward the police car. The huge impact sends the police car flying. The yellow sports car rushes under the police car and plunges into the water. The man in the upper part looks surprised and raises his right hand. At this time, a sad emoji appears in the lower part. In the upper part, an exaggerated smile mask appears on the man's face."
+    },
+    {
+        "second": 10,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JlgND5SMFRI/output_frames/sec_10_idx_25.jpg",
+        "fps": 60,
+        "explanation": "[6-10] The yellow sports car in the lower part continues to speed toward the police car. The huge impact sends the police car flying. The yellow sports car rushes under the police car and plunges into the water. The man in the upper part looks surprised and raises his right hand. At this time, a sad emoji appears in the lower part. In the upper part, an exaggerated smile mask appears on the man's face."
+    }
+]

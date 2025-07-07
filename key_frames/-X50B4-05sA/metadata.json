@@ -1,0 +1,65 @@
+[
+    {
+        "second": 0,
+        "frame_index": 42,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-X50B4-05sA/output_frames/sec_0_idx_42.jpg",
+        "fps": 50,
+        "explanation": "[0-0] The video starts in a brightly colored room with a door and a row of lockers. A man with bright orange hair, wearing an orange tracksuit, stands on the left. A woman with blue hair, wearing a blue outfit, stands next to him. Stickers of a hamburger, an apple, chocolate, broccoli, and an avocado appear on the screen."
+    },
+    {
+        "second": 1,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-X50B4-05sA/output_frames/sec_1_idx_8.jpg",
+        "fps": 50,
+        "explanation": "[0-5] Next, the man with orange hair makes a surprised expression, and the woman in the blue outfit opens her mouth and eats the broccoli sticker. Then, the man in the orange tracksuit opens his mouth and eats the hamburger sticker. The man stays still while the woman eats the apple sticker."
+    },
+    {
+        "second": 2,
+        "frame_index": 36,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-X50B4-05sA/output_frames/sec_2_idx_36.jpg",
+        "fps": 50,
+        "explanation": "[0-5] Next, the man with orange hair makes a surprised expression, and the woman in the blue outfit opens her mouth and eats the broccoli sticker. Then, the man in the orange tracksuit opens his mouth and eats the hamburger sticker. The man stays still while the woman eats the apple sticker."
+    },
+    {
+        "second": 3,
+        "frame_index": 43,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-X50B4-05sA/output_frames/sec_3_idx_43.jpg",
+        "fps": 50,
+        "explanation": "[0-5] Next, the man with orange hair makes a surprised expression, and the woman in the blue outfit opens her mouth and eats the broccoli sticker. Then, the man in the orange tracksuit opens his mouth and eats the hamburger sticker. The man stays still while the woman eats the apple sticker."
+    },
+    {
+        "second": 4,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-X50B4-05sA/output_frames/sec_4_idx_20.jpg",
+        "fps": 50,
+        "explanation": "[0-5] Next, the man with orange hair makes a surprised expression, and the woman in the blue outfit opens her mouth and eats the broccoli sticker. Then, the man in the orange tracksuit opens his mouth and eats the hamburger sticker. The man stays still while the woman eats the apple sticker."
+    },
+    {
+        "second": 5,
+        "frame_index": 37,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-X50B4-05sA/output_frames/sec_5_idx_37.jpg",
+        "fps": 50,
+        "explanation": "[0-5] Next, the man with orange hair makes a surprised expression, and the woman in the blue outfit opens her mouth and eats the broccoli sticker. Then, the man in the orange tracksuit opens his mouth and eats the hamburger sticker. The man stays still while the woman eats the apple sticker."
+    },
+    {
+        "second": 6,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-X50B4-05sA/output_frames/sec_6_idx_7.jpg",
+        "fps": 50,
+        "explanation": "[5-9] Subsequently, the woman remains still as the man looks down to the right and eats the chocolate sticker. The man stays still while the woman jumps up and eats the avocado sticker. The man looks at the woman in surprise, and the woman looks straight ahead."
+    },
+    {
+        "second": 7,
+        "frame_index": 44,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-X50B4-05sA/output_frames/sec_7_idx_44.jpg",
+        "fps": 50,
+        "explanation": "[5-9] Subsequently, the woman remains still as the man looks down to the right and eats the chocolate sticker. The man stays still while the woman jumps up and eats the avocado sticker. The man looks at the woman in surprise, and the woman looks straight ahead."
+    },
+    {
+        "second": 8,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-X50B4-05sA/output_frames/sec_8_idx_15.jpg",
+        "fps": 50,
+        "explanation": "[5-9] Subsequently, the woman remains still as the man looks down to the right and eats the chocolate sticker. The man stays still while the woman jumps up and eats the avocado sticker. The man looks at the woman in surprise, and the woman looks straight ahead."
+    }
+]

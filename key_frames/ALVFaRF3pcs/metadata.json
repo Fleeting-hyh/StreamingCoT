@@ -1,0 +1,30 @@
+[
+    {
+        "second": 0,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/ALVFaRF3pcs/output_frames/sec_0_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A young woman is on a city sidewalk. She is wearing a beige cropped jacket and loose black cargo pants, carrying a black handbag in her right hand. In the background, there are buildings and vehicles."
+    },
+    {
+        "second": 1,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/ALVFaRF3pcs/output_frames/sec_1_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Then the woman takes two steps forward and stops. Finally, she faces forward, strikes a pose, and strokes her hair with her left hand."
+    },
+    {
+        "second": 2,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/ALVFaRF3pcs/output_frames/sec_2_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Then the woman takes two steps forward and stops. Finally, she faces forward, strikes a pose, and strokes her hair with her left hand."
+    },
+    {
+        "second": 3,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/ALVFaRF3pcs/output_frames/sec_3_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Then the woman takes two steps forward and stops. Finally, she faces forward, strikes a pose, and strokes her hair with her left hand."
+    }
+]

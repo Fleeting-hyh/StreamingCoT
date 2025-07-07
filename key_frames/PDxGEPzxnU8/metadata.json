@@ -1,0 +1,65 @@
+[
+    {
+        "second": 0,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PDxGEPzxnU8/output_frames/sec_0_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A little girl in a black and white striped outfit holds a tray with a straight face. On the tray are a burger, chicken nuggets, a donut, black beans, and a carton of milk, all of which are black."
+    },
+    {
+        "second": 1,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PDxGEPzxnU8/output_frames/sec_1_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Then, the girl walks forward, and a hand is positioned above her head. Suddenly, a blue object crashes into the girl, knocking the tray out of her hands."
+    },
+    {
+        "second": 2,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PDxGEPzxnU8/output_frames/sec_2_idx_24.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Then, the girl walks forward, and a hand is positioned above her head. Suddenly, a blue object crashes into the girl, knocking the tray out of her hands."
+    },
+    {
+        "second": 3,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PDxGEPzxnU8/output_frames/sec_3_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[2-8] Immediately, the hand above the girl's head shoots out, catching the tray in mid-air and preventing the food from spilling. The girl then gives a double thumbs-up, looking at the camera with a smug expression."
+    },
+    {
+        "second": 4,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PDxGEPzxnU8/output_frames/sec_4_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[2-8] Immediately, the hand above the girl's head shoots out, catching the tray in mid-air and preventing the food from spilling. The girl then gives a double thumbs-up, looking at the camera with a smug expression."
+    },
+    {
+        "second": 5,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PDxGEPzxnU8/output_frames/sec_5_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[2-8] Immediately, the hand above the girl's head shoots out, catching the tray in mid-air and preventing the food from spilling. The girl then gives a double thumbs-up, looking at the camera with a smug expression."
+    },
+    {
+        "second": 6,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PDxGEPzxnU8/output_frames/sec_6_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[2-8] Immediately, the hand above the girl's head shoots out, catching the tray in mid-air and preventing the food from spilling. The girl then gives a double thumbs-up, looking at the camera with a smug expression."
+    },
+    {
+        "second": 7,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PDxGEPzxnU8/output_frames/sec_7_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[2-8] Immediately, the hand above the girl's head shoots out, catching the tray in mid-air and preventing the food from spilling. The girl then gives a double thumbs-up, looking at the camera with a smug expression."
+    },
+    {
+        "second": 8,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PDxGEPzxnU8/output_frames/sec_8_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[2-8] Immediately, the hand above the girl's head shoots out, catching the tray in mid-air and preventing the food from spilling. The girl then gives a double thumbs-up, looking at the camera with a smug expression."
+    }
+]

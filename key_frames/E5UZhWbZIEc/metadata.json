@@ -1,0 +1,170 @@
+[
+    {
+        "second": 0,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/E5UZhWbZIEc/output_frames/sec_0_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[0-0] On a clean gray workbench, a 3D printer is starting a new project."
+    },
+    {
+        "second": 1,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/E5UZhWbZIEc/output_frames/sec_1_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[0-5] The 3D printer uses purple filament to print the base of a little soldier figure, then prints a round hairpiece. An error occurs during printing, and the soldier model starts spinning, printing many irregular filament lines. Then the picture reverses, first back to the 3D printer printing the base of the soldier figure, and then back to the clean workbench."
+    },
+    {
+        "second": 2,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/E5UZhWbZIEc/output_frames/sec_2_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-5] The 3D printer uses purple filament to print the base of a little soldier figure, then prints a round hairpiece. An error occurs during printing, and the soldier model starts spinning, printing many irregular filament lines. Then the picture reverses, first back to the 3D printer printing the base of the soldier figure, and then back to the clean workbench."
+    },
+    {
+        "second": 3,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/E5UZhWbZIEc/output_frames/sec_3_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[0-5] The 3D printer uses purple filament to print the base of a little soldier figure, then prints a round hairpiece. An error occurs during printing, and the soldier model starts spinning, printing many irregular filament lines. Then the picture reverses, first back to the 3D printer printing the base of the soldier figure, and then back to the clean workbench."
+    },
+    {
+        "second": 4,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/E5UZhWbZIEc/output_frames/sec_4_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-5] The 3D printer uses purple filament to print the base of a little soldier figure, then prints a round hairpiece. An error occurs during printing, and the soldier model starts spinning, printing many irregular filament lines. Then the picture reverses, first back to the 3D printer printing the base of the soldier figure, and then back to the clean workbench."
+    },
+    {
+        "second": 5,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/E5UZhWbZIEc/output_frames/sec_5_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[0-5] The 3D printer uses purple filament to print the base of a little soldier figure, then prints a round hairpiece. An error occurs during printing, and the soldier model starts spinning, printing many irregular filament lines. Then the picture reverses, first back to the 3D printer printing the base of the soldier figure, and then back to the clean workbench."
+    },
+    {
+        "second": 6,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/E5UZhWbZIEc/output_frames/sec_6_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[5-7] The 3D printer works again, first printing the base of the soldier figure, then the body of the soldier figure, and finally the round hairpiece. This time, the base and the hairpiece of the soldier figure are printed completely."
+    },
+    {
+        "second": 7,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/E5UZhWbZIEc/output_frames/sec_7_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[5-7] The 3D printer works again, first printing the base of the soldier figure, then the body of the soldier figure, and finally the round hairpiece. This time, the base and the hairpiece of the soldier figure are printed completely."
+    },
+    {
+        "second": 8,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/E5UZhWbZIEc/output_frames/sec_8_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[7-11] Subsequently, the scene changes, on a wooden table, a pair of hands holding the printed purple 3D product is facing the camera, and there is an identical purple 3D product and a mini billboard with the word \"KADY\" on the table. The hands turn the purple 3D product in the hand to show the camera its structure. Then the picture switches to a left hand holding the purple 3D product, the right hand holding a knife into the inner edge of the round hairpiece and starts cutting along the edge. Subsequently, the left hand holds the round hairpiece, and the right hand pulls the lower body of the soldier figure to separate the soldier figure from the round hairpiece."
+    },
+    {
+        "second": 9,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/E5UZhWbZIEc/output_frames/sec_9_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[7-11] Subsequently, the scene changes, on a wooden table, a pair of hands holding the printed purple 3D product is facing the camera, and there is an identical purple 3D product and a mini billboard with the word \"KADY\" on the table. The hands turn the purple 3D product in the hand to show the camera its structure. Then the picture switches to a left hand holding the purple 3D product, the right hand holding a knife into the inner edge of the round hairpiece and starts cutting along the edge. Subsequently, the left hand holds the round hairpiece, and the right hand pulls the lower body of the soldier figure to separate the soldier figure from the round hairpiece."
+    },
+    {
+        "second": 10,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/E5UZhWbZIEc/output_frames/sec_10_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[7-11] Subsequently, the scene changes, on a wooden table, a pair of hands holding the printed purple 3D product is facing the camera, and there is an identical purple 3D product and a mini billboard with the word \"KADY\" on the table. The hands turn the purple 3D product in the hand to show the camera its structure. Then the picture switches to a left hand holding the purple 3D product, the right hand holding a knife into the inner edge of the round hairpiece and starts cutting along the edge. Subsequently, the left hand holds the round hairpiece, and the right hand pulls the lower body of the soldier figure to separate the soldier figure from the round hairpiece."
+    },
+    {
+        "second": 11,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/E5UZhWbZIEc/output_frames/sec_11_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[7-11] Subsequently, the scene changes, on a wooden table, a pair of hands holding the printed purple 3D product is facing the camera, and there is an identical purple 3D product and a mini billboard with the word \"KADY\" on the table. The hands turn the purple 3D product in the hand to show the camera its structure. Then the picture switches to a left hand holding the purple 3D product, the right hand holding a knife into the inner edge of the round hairpiece and starts cutting along the edge. Subsequently, the left hand holds the round hairpiece, and the right hand pulls the lower body of the soldier figure to separate the soldier figure from the round hairpiece."
+    },
+    {
+        "second": 12,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/E5UZhWbZIEc/output_frames/sec_12_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[11-19] The picture changes again, a pair of hands holding the soldier figure, its purple hair in a round shape scattered around, the table now only has a mini billboard. Then the soldier figure is rotated left and right towards the camera to show its body to the camera. Then the picture changes, at this time, the soldier figure is held by a left hand, and the nozzle of a hairdryer is facing the hairstyle part of the soldier figure to shape the soldier figure. The soldier figure's hairstyle is blown by the hairdryer, which is vertically aligned with the soldier figure's body, and there is a finished soldier figure on the table."
+    },
+    {
+        "second": 13,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/E5UZhWbZIEc/output_frames/sec_13_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[11-19] The picture changes again, a pair of hands holding the soldier figure, its purple hair in a round shape scattered around, the table now only has a mini billboard. Then the soldier figure is rotated left and right towards the camera to show its body to the camera. Then the picture changes, at this time, the soldier figure is held by a left hand, and the nozzle of a hairdryer is facing the hairstyle part of the soldier figure to shape the soldier figure. The soldier figure's hairstyle is blown by the hairdryer, which is vertically aligned with the soldier figure's body, and there is a finished soldier figure on the table."
+    },
+    {
+        "second": 14,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/E5UZhWbZIEc/output_frames/sec_14_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[11-19] The picture changes again, a pair of hands holding the soldier figure, its purple hair in a round shape scattered around, the table now only has a mini billboard. Then the soldier figure is rotated left and right towards the camera to show its body to the camera. Then the picture changes, at this time, the soldier figure is held by a left hand, and the nozzle of a hairdryer is facing the hairstyle part of the soldier figure to shape the soldier figure. The soldier figure's hairstyle is blown by the hairdryer, which is vertically aligned with the soldier figure's body, and there is a finished soldier figure on the table."
+    },
+    {
+        "second": 15,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/E5UZhWbZIEc/output_frames/sec_15_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[11-19] The picture changes again, a pair of hands holding the soldier figure, its purple hair in a round shape scattered around, the table now only has a mini billboard. Then the soldier figure is rotated left and right towards the camera to show its body to the camera. Then the picture changes, at this time, the soldier figure is held by a left hand, and the nozzle of a hairdryer is facing the hairstyle part of the soldier figure to shape the soldier figure. The soldier figure's hairstyle is blown by the hairdryer, which is vertically aligned with the soldier figure's body, and there is a finished soldier figure on the table."
+    },
+    {
+        "second": 16,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/E5UZhWbZIEc/output_frames/sec_16_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[11-19] The picture changes again, a pair of hands holding the soldier figure, its purple hair in a round shape scattered around, the table now only has a mini billboard. Then the soldier figure is rotated left and right towards the camera to show its body to the camera. Then the picture changes, at this time, the soldier figure is held by a left hand, and the nozzle of a hairdryer is facing the hairstyle part of the soldier figure to shape the soldier figure. The soldier figure's hairstyle is blown by the hairdryer, which is vertically aligned with the soldier figure's body, and there is a finished soldier figure on the table."
+    },
+    {
+        "second": 17,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/E5UZhWbZIEc/output_frames/sec_17_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[11-19] The picture changes again, a pair of hands holding the soldier figure, its purple hair in a round shape scattered around, the table now only has a mini billboard. Then the soldier figure is rotated left and right towards the camera to show its body to the camera. Then the picture changes, at this time, the soldier figure is held by a left hand, and the nozzle of a hairdryer is facing the hairstyle part of the soldier figure to shape the soldier figure. The soldier figure's hairstyle is blown by the hairdryer, which is vertically aligned with the soldier figure's body, and there is a finished soldier figure on the table."
+    },
+    {
+        "second": 18,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/E5UZhWbZIEc/output_frames/sec_18_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[11-19] The picture changes again, a pair of hands holding the soldier figure, its purple hair in a round shape scattered around, the table now only has a mini billboard. Then the soldier figure is rotated left and right towards the camera to show its body to the camera. Then the picture changes, at this time, the soldier figure is held by a left hand, and the nozzle of a hairdryer is facing the hairstyle part of the soldier figure to shape the soldier figure. The soldier figure's hairstyle is blown by the hairdryer, which is vertically aligned with the soldier figure's body, and there is a finished soldier figure on the table."
+    },
+    {
+        "second": 19,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/E5UZhWbZIEc/output_frames/sec_19_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[11-19] The picture changes again, a pair of hands holding the soldier figure, its purple hair in a round shape scattered around, the table now only has a mini billboard. Then the soldier figure is rotated left and right towards the camera to show its body to the camera. Then the picture changes, at this time, the soldier figure is held by a left hand, and the nozzle of a hairdryer is facing the hairstyle part of the soldier figure to shape the soldier figure. The soldier figure's hairstyle is blown by the hairdryer, which is vertically aligned with the soldier figure's body, and there is a finished soldier figure on the table."
+    },
+    {
+        "second": 20,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/E5UZhWbZIEc/output_frames/sec_20_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[19-24] Then a pair of hands each holding a small soldier figure to the camera to show the results of 3D printing. First showing the body of the soldier figure, and then showing the hairstyle of the soldier figure. Then the pair of hands placed the two soldier figures diagonally opposite each other on the table. The video ends with a shot of two 3D printed soldier figures facing each other diagonally on a table."
+    },
+    {
+        "second": 21,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/E5UZhWbZIEc/output_frames/sec_21_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[19-24] Then a pair of hands each holding a small soldier figure to the camera to show the results of 3D printing. First showing the body of the soldier figure, and then showing the hairstyle of the soldier figure. Then the pair of hands placed the two soldier figures diagonally opposite each other on the table. The video ends with a shot of two 3D printed soldier figures facing each other diagonally on a table."
+    },
+    {
+        "second": 22,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/E5UZhWbZIEc/output_frames/sec_22_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[19-24] Then a pair of hands each holding a small soldier figure to the camera to show the results of 3D printing. First showing the body of the soldier figure, and then showing the hairstyle of the soldier figure. Then the pair of hands placed the two soldier figures diagonally opposite each other on the table. The video ends with a shot of two 3D printed soldier figures facing each other diagonally on a table."
+    },
+    {
+        "second": 23,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/E5UZhWbZIEc/output_frames/sec_23_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[19-24] Then a pair of hands each holding a small soldier figure to the camera to show the results of 3D printing. First showing the body of the soldier figure, and then showing the hairstyle of the soldier figure. Then the pair of hands placed the two soldier figures diagonally opposite each other on the table. The video ends with a shot of two 3D printed soldier figures facing each other diagonally on a table."
+    }
+]

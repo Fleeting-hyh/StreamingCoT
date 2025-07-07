@@ -1,0 +1,51 @@
+[
+    {
+        "second": 0,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GubFrf1HDFg/output_frames/sec_0_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A brown kitten is being held by a person, with some green trees in the background. There is a caption \"Republic of Cat\" in the middle of the screen."
+    },
+    {
+        "second": 1,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GubFrf1HDFg/output_frames/sec_1_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[0-6] The kitten opens its mouth and sticks out its tongue as if it is about to vomit, then the shot of the kitten opening its mouth is replayed repeatedly from various angles. Finally, the kitten licks its mouth with its tongue and closes it."
+    },
+    {
+        "second": 2,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GubFrf1HDFg/output_frames/sec_2_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[0-6] The kitten opens its mouth and sticks out its tongue as if it is about to vomit, then the shot of the kitten opening its mouth is replayed repeatedly from various angles. Finally, the kitten licks its mouth with its tongue and closes it."
+    },
+    {
+        "second": 3,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GubFrf1HDFg/output_frames/sec_3_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[0-6] The kitten opens its mouth and sticks out its tongue as if it is about to vomit, then the shot of the kitten opening its mouth is replayed repeatedly from various angles. Finally, the kitten licks its mouth with its tongue and closes it."
+    },
+    {
+        "second": 4,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GubFrf1HDFg/output_frames/sec_4_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[0-6] The kitten opens its mouth and sticks out its tongue as if it is about to vomit, then the shot of the kitten opening its mouth is replayed repeatedly from various angles. Finally, the kitten licks its mouth with its tongue and closes it."
+    },
+    {
+        "second": 5,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GubFrf1HDFg/output_frames/sec_5_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-6] The kitten opens its mouth and sticks out its tongue as if it is about to vomit, then the shot of the kitten opening its mouth is replayed repeatedly from various angles. Finally, the kitten licks its mouth with its tongue and closes it."
+    },
+    {
+        "second": 6,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GubFrf1HDFg/output_frames/sec_6_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[0-6] The kitten opens its mouth and sticks out its tongue as if it is about to vomit, then the shot of the kitten opening its mouth is replayed repeatedly from various angles. Finally, the kitten licks its mouth with its tongue and closes it."
+    }
+]

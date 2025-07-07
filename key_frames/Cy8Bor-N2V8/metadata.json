@@ -1,0 +1,422 @@
+[
+    {
+        "second": 0,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Cy8Bor-N2V8/output_frames/sec_0_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A man in a blue shirt and a man in a black shirt are sitting in front of a table with a red tablecloth. The man in the blue shirt raises his right index finger, and the man in the black shirt looks at it with a straight face. There is a small brown bottle on the table."
+    },
+    {
+        "second": 1,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Cy8Bor-N2V8/output_frames/sec_1_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[0-9] The man in the blue shirt pushes the bottle over with his index finger. The man in the black shirt laughs, looks up, and closes his eyes. Then the man in the black shirt rubs his hands together and tries to push the bottle over with his index finger, but the bottle always stands back up. The man in the blue shirt laughs, covering his mouth. The man in the black shirt frowns in confusion and tries again, but the bottle still won't stay down. Angrily, he swipes the bottle off the table."
+    },
+    {
+        "second": 2,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Cy8Bor-N2V8/output_frames/sec_2_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[0-9] The man in the blue shirt pushes the bottle over with his index finger. The man in the black shirt laughs, looks up, and closes his eyes. Then the man in the black shirt rubs his hands together and tries to push the bottle over with his index finger, but the bottle always stands back up. The man in the blue shirt laughs, covering his mouth. The man in the black shirt frowns in confusion and tries again, but the bottle still won't stay down. Angrily, he swipes the bottle off the table."
+    },
+    {
+        "second": 3,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Cy8Bor-N2V8/output_frames/sec_3_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[0-9] The man in the blue shirt pushes the bottle over with his index finger. The man in the black shirt laughs, looks up, and closes his eyes. Then the man in the black shirt rubs his hands together and tries to push the bottle over with his index finger, but the bottle always stands back up. The man in the blue shirt laughs, covering his mouth. The man in the black shirt frowns in confusion and tries again, but the bottle still won't stay down. Angrily, he swipes the bottle off the table."
+    },
+    {
+        "second": 4,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Cy8Bor-N2V8/output_frames/sec_4_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[0-9] The man in the blue shirt pushes the bottle over with his index finger. The man in the black shirt laughs, looks up, and closes his eyes. Then the man in the black shirt rubs his hands together and tries to push the bottle over with his index finger, but the bottle always stands back up. The man in the blue shirt laughs, covering his mouth. The man in the black shirt frowns in confusion and tries again, but the bottle still won't stay down. Angrily, he swipes the bottle off the table."
+    },
+    {
+        "second": 5,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Cy8Bor-N2V8/output_frames/sec_5_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-9] The man in the blue shirt pushes the bottle over with his index finger. The man in the black shirt laughs, looks up, and closes his eyes. Then the man in the black shirt rubs his hands together and tries to push the bottle over with his index finger, but the bottle always stands back up. The man in the blue shirt laughs, covering his mouth. The man in the black shirt frowns in confusion and tries again, but the bottle still won't stay down. Angrily, he swipes the bottle off the table."
+    },
+    {
+        "second": 6,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Cy8Bor-N2V8/output_frames/sec_6_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[0-9] The man in the blue shirt pushes the bottle over with his index finger. The man in the black shirt laughs, looks up, and closes his eyes. Then the man in the black shirt rubs his hands together and tries to push the bottle over with his index finger, but the bottle always stands back up. The man in the blue shirt laughs, covering his mouth. The man in the black shirt frowns in confusion and tries again, but the bottle still won't stay down. Angrily, he swipes the bottle off the table."
+    },
+    {
+        "second": 7,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Cy8Bor-N2V8/output_frames/sec_7_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[0-9] The man in the blue shirt pushes the bottle over with his index finger. The man in the black shirt laughs, looks up, and closes his eyes. Then the man in the black shirt rubs his hands together and tries to push the bottle over with his index finger, but the bottle always stands back up. The man in the blue shirt laughs, covering his mouth. The man in the black shirt frowns in confusion and tries again, but the bottle still won't stay down. Angrily, he swipes the bottle off the table."
+    },
+    {
+        "second": 8,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Cy8Bor-N2V8/output_frames/sec_8_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[0-9] The man in the blue shirt pushes the bottle over with his index finger. The man in the black shirt laughs, looks up, and closes his eyes. Then the man in the black shirt rubs his hands together and tries to push the bottle over with his index finger, but the bottle always stands back up. The man in the blue shirt laughs, covering his mouth. The man in the black shirt frowns in confusion and tries again, but the bottle still won't stay down. Angrily, he swipes the bottle off the table."
+    },
+    {
+        "second": 9,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Cy8Bor-N2V8/output_frames/sec_9_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-9] The man in the blue shirt pushes the bottle over with his index finger. The man in the black shirt laughs, looks up, and closes his eyes. Then the man in the black shirt rubs his hands together and tries to push the bottle over with his index finger, but the bottle always stands back up. The man in the blue shirt laughs, covering his mouth. The man in the black shirt frowns in confusion and tries again, but the bottle still won't stay down. Angrily, he swipes the bottle off the table."
+    },
+    {
+        "second": 10,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Cy8Bor-N2V8/output_frames/sec_10_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[9-17] Next, the man in the blue shirt takes out a syringe, points it at the table, and pulls the plunger. The syringe is filled with red liquid. He then squirts the liquid into his nostril and spits out a piece of red sponge from his mouth. The man in the black shirt's mouth drops open in surprise."
+    },
+    {
+        "second": 11,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Cy8Bor-N2V8/output_frames/sec_11_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[9-17] Next, the man in the blue shirt takes out a syringe, points it at the table, and pulls the plunger. The syringe is filled with red liquid. He then squirts the liquid into his nostril and spits out a piece of red sponge from his mouth. The man in the black shirt's mouth drops open in surprise."
+    },
+    {
+        "second": 12,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Cy8Bor-N2V8/output_frames/sec_12_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[9-17] Next, the man in the blue shirt takes out a syringe, points it at the table, and pulls the plunger. The syringe is filled with red liquid. He then squirts the liquid into his nostril and spits out a piece of red sponge from his mouth. The man in the black shirt's mouth drops open in surprise."
+    },
+    {
+        "second": 13,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Cy8Bor-N2V8/output_frames/sec_13_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[9-17] Next, the man in the blue shirt takes out a syringe, points it at the table, and pulls the plunger. The syringe is filled with red liquid. He then squirts the liquid into his nostril and spits out a piece of red sponge from his mouth. The man in the black shirt's mouth drops open in surprise."
+    },
+    {
+        "second": 14,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Cy8Bor-N2V8/output_frames/sec_14_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[9-17] Next, the man in the blue shirt takes out a syringe, points it at the table, and pulls the plunger. The syringe is filled with red liquid. He then squirts the liquid into his nostril and spits out a piece of red sponge from his mouth. The man in the black shirt's mouth drops open in surprise."
+    },
+    {
+        "second": 15,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Cy8Bor-N2V8/output_frames/sec_15_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[9-17] Next, the man in the blue shirt takes out a syringe, points it at the table, and pulls the plunger. The syringe is filled with red liquid. He then squirts the liquid into his nostril and spits out a piece of red sponge from his mouth. The man in the black shirt's mouth drops open in surprise."
+    },
+    {
+        "second": 16,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Cy8Bor-N2V8/output_frames/sec_16_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[9-17] Next, the man in the blue shirt takes out a syringe, points it at the table, and pulls the plunger. The syringe is filled with red liquid. He then squirts the liquid into his nostril and spits out a piece of red sponge from his mouth. The man in the black shirt's mouth drops open in surprise."
+    },
+    {
+        "second": 17,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Cy8Bor-N2V8/output_frames/sec_17_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[9-17] Next, the man in the blue shirt takes out a syringe, points it at the table, and pulls the plunger. The syringe is filled with red liquid. He then squirts the liquid into his nostril and spits out a piece of red sponge from his mouth. The man in the black shirt's mouth drops open in surprise."
+    },
+    {
+        "second": 18,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Cy8Bor-N2V8/output_frames/sec_18_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[17-26] The man in the black shirt grabs his hair in astonishment. The man in the blue shirt shakes his head blankly. The camera cuts to the man in the blue shirt holding up a large pitcher filled with yellow liquid and a small empty cup. He pours all the liquid from the pitcher into the small cup. The man in the blue shirt laughs loudly, while the man in the black shirt covers his mouth with his hand, looking surprised."
+    },
+    {
+        "second": 19,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Cy8Bor-N2V8/output_frames/sec_19_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[17-26] The man in the black shirt grabs his hair in astonishment. The man in the blue shirt shakes his head blankly. The camera cuts to the man in the blue shirt holding up a large pitcher filled with yellow liquid and a small empty cup. He pours all the liquid from the pitcher into the small cup. The man in the blue shirt laughs loudly, while the man in the black shirt covers his mouth with his hand, looking surprised."
+    },
+    {
+        "second": 20,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Cy8Bor-N2V8/output_frames/sec_20_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[17-26] The man in the black shirt grabs his hair in astonishment. The man in the blue shirt shakes his head blankly. The camera cuts to the man in the blue shirt holding up a large pitcher filled with yellow liquid and a small empty cup. He pours all the liquid from the pitcher into the small cup. The man in the blue shirt laughs loudly, while the man in the black shirt covers his mouth with his hand, looking surprised."
+    },
+    {
+        "second": 21,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Cy8Bor-N2V8/output_frames/sec_21_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[17-26] The man in the black shirt grabs his hair in astonishment. The man in the blue shirt shakes his head blankly. The camera cuts to the man in the blue shirt holding up a large pitcher filled with yellow liquid and a small empty cup. He pours all the liquid from the pitcher into the small cup. The man in the blue shirt laughs loudly, while the man in the black shirt covers his mouth with his hand, looking surprised."
+    },
+    {
+        "second": 22,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Cy8Bor-N2V8/output_frames/sec_22_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[17-26] The man in the black shirt grabs his hair in astonishment. The man in the blue shirt shakes his head blankly. The camera cuts to the man in the blue shirt holding up a large pitcher filled with yellow liquid and a small empty cup. He pours all the liquid from the pitcher into the small cup. The man in the blue shirt laughs loudly, while the man in the black shirt covers his mouth with his hand, looking surprised."
+    },
+    {
+        "second": 23,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Cy8Bor-N2V8/output_frames/sec_23_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[17-26] The man in the black shirt grabs his hair in astonishment. The man in the blue shirt shakes his head blankly. The camera cuts to the man in the blue shirt holding up a large pitcher filled with yellow liquid and a small empty cup. He pours all the liquid from the pitcher into the small cup. The man in the blue shirt laughs loudly, while the man in the black shirt covers his mouth with his hand, looking surprised."
+    },
+    {
+        "second": 24,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Cy8Bor-N2V8/output_frames/sec_24_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[17-26] The man in the black shirt grabs his hair in astonishment. The man in the blue shirt shakes his head blankly. The camera cuts to the man in the blue shirt holding up a large pitcher filled with yellow liquid and a small empty cup. He pours all the liquid from the pitcher into the small cup. The man in the blue shirt laughs loudly, while the man in the black shirt covers his mouth with his hand, looking surprised."
+    },
+    {
+        "second": 25,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Cy8Bor-N2V8/output_frames/sec_25_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[17-26] The man in the black shirt grabs his hair in astonishment. The man in the blue shirt shakes his head blankly. The camera cuts to the man in the blue shirt holding up a large pitcher filled with yellow liquid and a small empty cup. He pours all the liquid from the pitcher into the small cup. The man in the blue shirt laughs loudly, while the man in the black shirt covers his mouth with his hand, looking surprised."
+    },
+    {
+        "second": 26,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Cy8Bor-N2V8/output_frames/sec_26_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[17-26] The man in the black shirt grabs his hair in astonishment. The man in the blue shirt shakes his head blankly. The camera cuts to the man in the blue shirt holding up a large pitcher filled with yellow liquid and a small empty cup. He pours all the liquid from the pitcher into the small cup. The man in the blue shirt laughs loudly, while the man in the black shirt covers his mouth with his hand, looking surprised."
+    },
+    {
+        "second": 27,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Cy8Bor-N2V8/output_frames/sec_27_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[26-33] The man in the black shirt then tries to pick up the large cup filled with liquid while the man in the blue shirt holds the small cup. The man in the black shirt pours the liquid, causing it to overflow. The man in the black shirt opens his mouth wide in surprise, and the man in the blue shirt looks on with resignation. The man in the black shirt pours the remaining liquid onto the man in the blue shirt."
+    },
+    {
+        "second": 28,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Cy8Bor-N2V8/output_frames/sec_28_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[26-33] The man in the black shirt then tries to pick up the large cup filled with liquid while the man in the blue shirt holds the small cup. The man in the black shirt pours the liquid, causing it to overflow. The man in the black shirt opens his mouth wide in surprise, and the man in the blue shirt looks on with resignation. The man in the black shirt pours the remaining liquid onto the man in the blue shirt."
+    },
+    {
+        "second": 29,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Cy8Bor-N2V8/output_frames/sec_29_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[26-33] The man in the black shirt then tries to pick up the large cup filled with liquid while the man in the blue shirt holds the small cup. The man in the black shirt pours the liquid, causing it to overflow. The man in the black shirt opens his mouth wide in surprise, and the man in the blue shirt looks on with resignation. The man in the black shirt pours the remaining liquid onto the man in the blue shirt."
+    },
+    {
+        "second": 30,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Cy8Bor-N2V8/output_frames/sec_30_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[26-33] The man in the black shirt then tries to pick up the large cup filled with liquid while the man in the blue shirt holds the small cup. The man in the black shirt pours the liquid, causing it to overflow. The man in the black shirt opens his mouth wide in surprise, and the man in the blue shirt looks on with resignation. The man in the black shirt pours the remaining liquid onto the man in the blue shirt."
+    },
+    {
+        "second": 31,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Cy8Bor-N2V8/output_frames/sec_31_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[26-33] The man in the black shirt then tries to pick up the large cup filled with liquid while the man in the blue shirt holds the small cup. The man in the black shirt pours the liquid, causing it to overflow. The man in the black shirt opens his mouth wide in surprise, and the man in the blue shirt looks on with resignation. The man in the black shirt pours the remaining liquid onto the man in the blue shirt."
+    },
+    {
+        "second": 32,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Cy8Bor-N2V8/output_frames/sec_32_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[26-33] The man in the black shirt then tries to pick up the large cup filled with liquid while the man in the blue shirt holds the small cup. The man in the black shirt pours the liquid, causing it to overflow. The man in the black shirt opens his mouth wide in surprise, and the man in the blue shirt looks on with resignation. The man in the black shirt pours the remaining liquid onto the man in the blue shirt."
+    },
+    {
+        "second": 33,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Cy8Bor-N2V8/output_frames/sec_33_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[26-33] The man in the black shirt then tries to pick up the large cup filled with liquid while the man in the blue shirt holds the small cup. The man in the black shirt pours the liquid, causing it to overflow. The man in the black shirt opens his mouth wide in surprise, and the man in the blue shirt looks on with resignation. The man in the black shirt pours the remaining liquid onto the man in the blue shirt."
+    },
+    {
+        "second": 34,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Cy8Bor-N2V8/output_frames/sec_34_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[33-39] The scene then switches to the two men wearing different clothes. The blue shirt is now gray, and the black shirt is white. The man in the gray shirt holds a black marker and presses it against the shoulder of the man in the white shirt, drawing a line before retracting it. The man in the white shirt looks on in puzzlement. The man in the gray shirt then reveals that the marker contains a string, not ink."
+    },
+    {
+        "second": 35,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Cy8Bor-N2V8/output_frames/sec_35_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[33-39] The scene then switches to the two men wearing different clothes. The blue shirt is now gray, and the black shirt is white. The man in the gray shirt holds a black marker and presses it against the shoulder of the man in the white shirt, drawing a line before retracting it. The man in the white shirt looks on in puzzlement. The man in the gray shirt then reveals that the marker contains a string, not ink."
+    },
+    {
+        "second": 36,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Cy8Bor-N2V8/output_frames/sec_36_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[33-39] The scene then switches to the two men wearing different clothes. The blue shirt is now gray, and the black shirt is white. The man in the gray shirt holds a black marker and presses it against the shoulder of the man in the white shirt, drawing a line before retracting it. The man in the white shirt looks on in puzzlement. The man in the gray shirt then reveals that the marker contains a string, not ink."
+    },
+    {
+        "second": 37,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Cy8Bor-N2V8/output_frames/sec_37_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[33-39] The scene then switches to the two men wearing different clothes. The blue shirt is now gray, and the black shirt is white. The man in the gray shirt holds a black marker and presses it against the shoulder of the man in the white shirt, drawing a line before retracting it. The man in the white shirt looks on in puzzlement. The man in the gray shirt then reveals that the marker contains a string, not ink."
+    },
+    {
+        "second": 38,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Cy8Bor-N2V8/output_frames/sec_38_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[33-39] The scene then switches to the two men wearing different clothes. The blue shirt is now gray, and the black shirt is white. The man in the gray shirt holds a black marker and presses it against the shoulder of the man in the white shirt, drawing a line before retracting it. The man in the white shirt looks on in puzzlement. The man in the gray shirt then reveals that the marker contains a string, not ink."
+    },
+    {
+        "second": 39,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Cy8Bor-N2V8/output_frames/sec_39_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[33-39] The scene then switches to the two men wearing different clothes. The blue shirt is now gray, and the black shirt is white. The man in the gray shirt holds a black marker and presses it against the shoulder of the man in the white shirt, drawing a line before retracting it. The man in the white shirt looks on in puzzlement. The man in the gray shirt then reveals that the marker contains a string, not ink."
+    },
+    {
+        "second": 40,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Cy8Bor-N2V8/output_frames/sec_40_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[39-46] The man picks up the remaining pen on the table, opens it, and draws a line on the back of his hand. He then closes the pen and places it on the table."
+    },
+    {
+        "second": 41,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Cy8Bor-N2V8/output_frames/sec_41_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[39-46] The man picks up the remaining pen on the table, opens it, and draws a line on the back of his hand. He then closes the pen and places it on the table."
+    },
+    {
+        "second": 42,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Cy8Bor-N2V8/output_frames/sec_42_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[39-46] The man picks up the remaining pen on the table, opens it, and draws a line on the back of his hand. He then closes the pen and places it on the table."
+    },
+    {
+        "second": 43,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Cy8Bor-N2V8/output_frames/sec_43_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[39-46] The man picks up the remaining pen on the table, opens it, and draws a line on the back of his hand. He then closes the pen and places it on the table."
+    },
+    {
+        "second": 44,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Cy8Bor-N2V8/output_frames/sec_44_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[39-46] The man picks up the remaining pen on the table, opens it, and draws a line on the back of his hand. He then closes the pen and places it on the table."
+    },
+    {
+        "second": 45,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Cy8Bor-N2V8/output_frames/sec_45_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[39-46] The man picks up the remaining pen on the table, opens it, and draws a line on the back of his hand. He then closes the pen and places it on the table."
+    },
+    {
+        "second": 46,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Cy8Bor-N2V8/output_frames/sec_46_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[39-46] The man picks up the remaining pen on the table, opens it, and draws a line on the back of his hand. He then closes the pen and places it on the table."
+    },
+    {
+        "second": 47,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Cy8Bor-N2V8/output_frames/sec_47_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[46-54] The two men then face the right front. The man in the white shirt watches as the man in the gray shirt picks up the pen and shows it to him. He then draws a line on the back of his hand and rubs it, but the line doesn't disappear."
+    },
+    {
+        "second": 48,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Cy8Bor-N2V8/output_frames/sec_48_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[46-54] The two men then face the right front. The man in the white shirt watches as the man in the gray shirt picks up the pen and shows it to him. He then draws a line on the back of his hand and rubs it, but the line doesn't disappear."
+    },
+    {
+        "second": 49,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Cy8Bor-N2V8/output_frames/sec_49_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[46-54] The two men then face the right front. The man in the white shirt watches as the man in the gray shirt picks up the pen and shows it to him. He then draws a line on the back of his hand and rubs it, but the line doesn't disappear."
+    },
+    {
+        "second": 50,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Cy8Bor-N2V8/output_frames/sec_50_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[46-54] The two men then face the right front. The man in the white shirt watches as the man in the gray shirt picks up the pen and shows it to him. He then draws a line on the back of his hand and rubs it, but the line doesn't disappear."
+    },
+    {
+        "second": 51,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Cy8Bor-N2V8/output_frames/sec_51_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[46-54] The two men then face the right front. The man in the white shirt watches as the man in the gray shirt picks up the pen and shows it to him. He then draws a line on the back of his hand and rubs it, but the line doesn't disappear."
+    },
+    {
+        "second": 52,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Cy8Bor-N2V8/output_frames/sec_52_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[46-54] The two men then face the right front. The man in the white shirt watches as the man in the gray shirt picks up the pen and shows it to him. He then draws a line on the back of his hand and rubs it, but the line doesn't disappear."
+    },
+    {
+        "second": 53,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Cy8Bor-N2V8/output_frames/sec_53_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[46-54] The two men then face the right front. The man in the white shirt watches as the man in the gray shirt picks up the pen and shows it to him. He then draws a line on the back of his hand and rubs it, but the line doesn't disappear."
+    },
+    {
+        "second": 54,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Cy8Bor-N2V8/output_frames/sec_54_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[46-54] The two men then face the right front. The man in the white shirt watches as the man in the gray shirt picks up the pen and shows it to him. He then draws a line on the back of his hand and rubs it, but the line doesn't disappear."
+    },
+    {
+        "second": 55,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Cy8Bor-N2V8/output_frames/sec_55_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[54-59] The man in the gray shirt then picks up another pen and draws a line on the man in the white shirt's clothes. The man in the gray shirt looks at the pen, and the man in the white shirt looks down at his clothes. The man in the gray shirt realizes he used the wrong pen, a real marker instead of the trick pen. The man in the white shirt now has a black line on his clothes. The white subtitle \"Subscribe for more\" appears at the bottom of the screen."
+    },
+    {
+        "second": 56,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Cy8Bor-N2V8/output_frames/sec_56_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[54-59] The man in the gray shirt then picks up another pen and draws a line on the man in the white shirt's clothes. The man in the gray shirt looks at the pen, and the man in the white shirt looks down at his clothes. The man in the gray shirt realizes he used the wrong pen, a real marker instead of the trick pen. The man in the white shirt now has a black line on his clothes. The white subtitle \"Subscribe for more\" appears at the bottom of the screen."
+    },
+    {
+        "second": 57,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Cy8Bor-N2V8/output_frames/sec_57_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[54-59] The man in the gray shirt then picks up another pen and draws a line on the man in the white shirt's clothes. The man in the gray shirt looks at the pen, and the man in the white shirt looks down at his clothes. The man in the gray shirt realizes he used the wrong pen, a real marker instead of the trick pen. The man in the white shirt now has a black line on his clothes. The white subtitle \"Subscribe for more\" appears at the bottom of the screen."
+    },
+    {
+        "second": 58,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Cy8Bor-N2V8/output_frames/sec_58_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[54-59] The man in the gray shirt then picks up another pen and draws a line on the man in the white shirt's clothes. The man in the gray shirt looks at the pen, and the man in the white shirt looks down at his clothes. The man in the gray shirt realizes he used the wrong pen, a real marker instead of the trick pen. The man in the white shirt now has a black line on his clothes. The white subtitle \"Subscribe for more\" appears at the bottom of the screen."
+    },
+    {
+        "second": 59,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Cy8Bor-N2V8/output_frames/sec_59_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[54-59] The man in the gray shirt then picks up another pen and draws a line on the man in the white shirt's clothes. The man in the gray shirt looks at the pen, and the man in the white shirt looks down at his clothes. The man in the gray shirt realizes he used the wrong pen, a real marker instead of the trick pen. The man in the white shirt now has a black line on his clothes. The white subtitle \"Subscribe for more\" appears at the bottom of the screen."
+    }
+]

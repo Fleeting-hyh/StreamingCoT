@@ -1,0 +1,65 @@
+[
+    {
+        "second": 0,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0-heWrEu_Ns/output_frames/sec_0_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[0-0] On a street, a man in black is standing by the roadside. The words \"Bro found the Gojo and Geto KFC in Japan\" appear on the screen."
+    },
+    {
+        "second": 1,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0-heWrEu_Ns/output_frames/sec_1_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Subsequently, the camera moves to the right, gradually revealing a KFC restaurant opposite the man."
+    },
+    {
+        "second": 2,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0-heWrEu_Ns/output_frames/sec_2_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Subsequently, the camera moves to the right, gradually revealing a KFC restaurant opposite the man."
+    },
+    {
+        "second": 3,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0-heWrEu_Ns/output_frames/sec_3_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[2-6] Then, the screen is split into upper and lower parts. The upper part shows the KFC restaurant on the street and the surrounding shops, while the lower part shows the comic-style KFC restaurant and the surrounding shops, with many cartoon-style people walking down the street."
+    },
+    {
+        "second": 4,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0-heWrEu_Ns/output_frames/sec_4_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[2-6] Then, the screen is split into upper and lower parts. The upper part shows the KFC restaurant on the street and the surrounding shops, while the lower part shows the comic-style KFC restaurant and the surrounding shops, with many cartoon-style people walking down the street."
+    },
+    {
+        "second": 5,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0-heWrEu_Ns/output_frames/sec_5_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[2-6] Then, the screen is split into upper and lower parts. The upper part shows the KFC restaurant on the street and the surrounding shops, while the lower part shows the comic-style KFC restaurant and the surrounding shops, with many cartoon-style people walking down the street."
+    },
+    {
+        "second": 6,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0-heWrEu_Ns/output_frames/sec_6_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[2-6] Then, the screen is split into upper and lower parts. The upper part shows the KFC restaurant on the street and the surrounding shops, while the lower part shows the comic-style KFC restaurant and the surrounding shops, with many cartoon-style people walking down the street."
+    },
+    {
+        "second": 7,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0-heWrEu_Ns/output_frames/sec_7_idx_24.jpg",
+        "fps": 30,
+        "explanation": "[6-8] Immediately afterwards, the camera switches to the man standing in front of the KFC restaurant. In the ordering area of the KFC restaurant, a man in a black down jacket is ordering food. At the same time, the words \"1 backshot for gojo and geto breakup\" appear on the screen."
+    },
+    {
+        "second": 8,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0-heWrEu_Ns/output_frames/sec_8_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[6-8] Immediately afterwards, the camera switches to the man standing in front of the KFC restaurant. In the ordering area of the KFC restaurant, a man in a black down jacket is ordering food. At the same time, the words \"1 backshot for gojo and geto breakup\" appear on the screen."
+    }
+]

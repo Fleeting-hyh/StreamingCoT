@@ -1,0 +1,58 @@
+[
+    {
+        "second": 0,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AwewB75A7OU/output_frames/sec_0_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[0-0] In a Chinese kitchen equipped with stainless steel utensils, a beige humanoid robot stands in front of a large black metal pot. The room has artificial lighting and rectangular wooden flooring. The robot has red and gray parts and is holding a spatula in its right hand."
+    },
+    {
+        "second": 1,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AwewB75A7OU/output_frames/sec_1_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Afterward, the robot holds the spatula in its right mechanical hand and supports the pot with its left, stirring the ingredients in the pot."
+    },
+    {
+        "second": 2,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AwewB75A7OU/output_frames/sec_2_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Afterward, the robot holds the spatula in its right mechanical hand and supports the pot with its left, stirring the ingredients in the pot."
+    },
+    {
+        "second": 3,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AwewB75A7OU/output_frames/sec_3_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[2-7] Finally, the robot continues to stir-fry the yellow ingredients in the pot with its right mechanical hand and uses its left mechanical hand to shake the black pot continuously on the edge of the stove."
+    },
+    {
+        "second": 4,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AwewB75A7OU/output_frames/sec_4_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[2-7] Finally, the robot continues to stir-fry the yellow ingredients in the pot with its right mechanical hand and uses its left mechanical hand to shake the black pot continuously on the edge of the stove."
+    },
+    {
+        "second": 5,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AwewB75A7OU/output_frames/sec_5_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[2-7] Finally, the robot continues to stir-fry the yellow ingredients in the pot with its right mechanical hand and uses its left mechanical hand to shake the black pot continuously on the edge of the stove."
+    },
+    {
+        "second": 6,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AwewB75A7OU/output_frames/sec_6_idx_24.jpg",
+        "fps": 30,
+        "explanation": "[2-7] Finally, the robot continues to stir-fry the yellow ingredients in the pot with its right mechanical hand and uses its left mechanical hand to shake the black pot continuously on the edge of the stove."
+    },
+    {
+        "second": 7,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AwewB75A7OU/output_frames/sec_7_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[2-7] Finally, the robot continues to stir-fry the yellow ingredients in the pot with its right mechanical hand and uses its left mechanical hand to shake the black pot continuously on the edge of the stove."
+    }
+]

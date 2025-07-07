@@ -1,0 +1,86 @@
+[
+    {
+        "second": 0,
+        "frame_index": 59,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SYmkZKju9Kw/output_frames/sec_0_idx_59.jpg",
+        "fps": 60,
+        "explanation": "[0-0] The video starts with a split-screen. The upper part shows a man in an orange hoodie wearing black headphones, facing the camera and playing a video game. There's a black and orange microphone in front of him, and behind him are a white wall and a closed brown door. The lower part shows the game screen, displaying a blue and white police car parked at a dock, with an orange sports car parked at the edge of the dock."
+    },
+    {
+        "second": 1,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SYmkZKju9Kw/output_frames/sec_1_idx_18.jpg",
+        "fps": 60,
+        "explanation": "[0-6] The orange sports car drives into the water, and the police car drives to the edge of the dock."
+    },
+    {
+        "second": 2,
+        "frame_index": 45,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SYmkZKju9Kw/output_frames/sec_2_idx_45.jpg",
+        "fps": 60,
+        "explanation": "[0-6] The orange sports car drives into the water, and the police car drives to the edge of the dock."
+    },
+    {
+        "second": 3,
+        "frame_index": 52,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SYmkZKju9Kw/output_frames/sec_3_idx_52.jpg",
+        "fps": 60,
+        "explanation": "[0-6] The orange sports car drives into the water, and the police car drives to the edge of the dock."
+    },
+    {
+        "second": 4,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SYmkZKju9Kw/output_frames/sec_4_idx_14.jpg",
+        "fps": 60,
+        "explanation": "[0-6] The orange sports car drives into the water, and the police car drives to the edge of the dock."
+    },
+    {
+        "second": 5,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SYmkZKju9Kw/output_frames/sec_5_idx_25.jpg",
+        "fps": 60,
+        "explanation": "[0-6] The orange sports car drives into the water, and the police car drives to the edge of the dock."
+    },
+    {
+        "second": 6,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SYmkZKju9Kw/output_frames/sec_6_idx_22.jpg",
+        "fps": 60,
+        "explanation": "[0-6] The orange sports car drives into the water, and the police car drives to the edge of the dock."
+    },
+    {
+        "second": 7,
+        "frame_index": 58,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SYmkZKju9Kw/output_frames/sec_7_idx_58.jpg",
+        "fps": 60,
+        "explanation": "[6-9] Then the scene switches to a parking lot. The orange sports car reverses from the water back to the parking lot, surrounded by high-rise buildings and green trees. Then a yellow sports car drives towards the water."
+    },
+    {
+        "second": 8,
+        "frame_index": 40,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SYmkZKju9Kw/output_frames/sec_8_idx_40.jpg",
+        "fps": 60,
+        "explanation": "[6-9] Then the scene switches to a parking lot. The orange sports car reverses from the water back to the parking lot, surrounded by high-rise buildings and green trees. Then a yellow sports car drives towards the water."
+    },
+    {
+        "second": 9,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SYmkZKju9Kw/output_frames/sec_9_idx_3.jpg",
+        "fps": 60,
+        "explanation": "[6-9] Then the scene switches to a parking lot. The orange sports car reverses from the water back to the parking lot, surrounded by high-rise buildings and green trees. Then a yellow sports car drives towards the water."
+    },
+    {
+        "second": 10,
+        "frame_index": 33,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SYmkZKju9Kw/output_frames/sec_10_idx_33.jpg",
+        "fps": 60,
+        "explanation": "[9-12] The scene switches back to the dock, with the sports car in the water and the police car parked on the dock. Cartoon expressions are added to the man, the sports car, and the police car: a pipe-smoking expression, a sad expression, and a happy expression, respectively."
+    },
+    {
+        "second": 11,
+        "frame_index": 49,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SYmkZKju9Kw/output_frames/sec_11_idx_49.jpg",
+        "fps": 60,
+        "explanation": "[9-12] The scene switches back to the dock, with the sports car in the water and the police car parked on the dock. Cartoon expressions are added to the man, the sports car, and the police car: a pipe-smoking expression, a sad expression, and a happy expression, respectively."
+    }
+]

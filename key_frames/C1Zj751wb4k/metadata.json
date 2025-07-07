@@ -1,0 +1,65 @@
+[
+    {
+        "second": 0,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/C1Zj751wb4k/output_frames/sec_0_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[0-0] In the frame, four construction workers are together, carrying a concrete wall block, and in front of them is a concrete wall under construction. A man with short hair in khaki pants and a man with short hair in a blue-collar shirt stand side by side in front, using a metal rod to lift the concrete wall, while a man in a blue-sleeved shirt and a man in black pants stand side by side behind the concrete wall, all wearing gloves. Some bricks and other building materials are piled on the ground, with green vegetation on the far left of the picture and a light-colored wall on the far right."
+    },
+    {
+        "second": 1,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/C1Zj751wb4k/output_frames/sec_1_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Then the camera zooms in as the four of them put the concrete wall block they are carrying onto the concrete wall under construction."
+    },
+    {
+        "second": 2,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/C1Zj751wb4k/output_frames/sec_2_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Then the camera zooms in as the four of them put the concrete wall block they are carrying onto the concrete wall under construction."
+    },
+    {
+        "second": 3,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/C1Zj751wb4k/output_frames/sec_3_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[2-6] Immediately following, the camera pans to focus on the man in the khaki pants, who, along with the others, carries a second concrete wall block and places it on the concrete wall under construction. Then the man in the khaki pants pulls a metal tool from the wall and turns around."
+    },
+    {
+        "second": 4,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/C1Zj751wb4k/output_frames/sec_4_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[2-6] Immediately following, the camera pans to focus on the man in the khaki pants, who, along with the others, carries a second concrete wall block and places it on the concrete wall under construction. Then the man in the khaki pants pulls a metal tool from the wall and turns around."
+    },
+    {
+        "second": 5,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/C1Zj751wb4k/output_frames/sec_5_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[2-6] Immediately following, the camera pans to focus on the man in the khaki pants, who, along with the others, carries a second concrete wall block and places it on the concrete wall under construction. Then the man in the khaki pants pulls a metal tool from the wall and turns around."
+    },
+    {
+        "second": 6,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/C1Zj751wb4k/output_frames/sec_6_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[2-6] Immediately following, the camera pans to focus on the man in the khaki pants, who, along with the others, carries a second concrete wall block and places it on the concrete wall under construction. Then the man in the khaki pants pulls a metal tool from the wall and turns around."
+    },
+    {
+        "second": 7,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/C1Zj751wb4k/output_frames/sec_7_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[6-8] Afterwards, the camera pans again, and in the frame, the man in the blue-collar shirt is holding a long concrete pillar in his hands and placing it on the side of the built concrete wall, carefully checking its stability by hand against the wall. Behind the man, men in black pants and khaki pants are walking back and forth."
+    },
+    {
+        "second": 8,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/C1Zj751wb4k/output_frames/sec_8_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[6-8] Afterwards, the camera pans again, and in the frame, the man in the blue-collar shirt is holding a long concrete pillar in his hands and placing it on the side of the built concrete wall, carefully checking its stability by hand against the wall. Behind the man, men in black pants and khaki pants are walking back and forth."
+    }
+]

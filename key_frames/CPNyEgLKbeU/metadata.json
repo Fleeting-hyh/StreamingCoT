@@ -1,0 +1,51 @@
+[
+    {
+        "second": 0,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CPNyEgLKbeU/output_frames/sec_0_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[0-0] The video starts with a scene on a soccer field at night. The field is lit, with a goalkeeper on the left side and a player in a black and white striped jersey on the right. The player in the striped jersey is about to take a penalty kick in the center. Below the main scene, a large cartoon caterpillar is shown with a mischievous smile on its face."
+    },
+    {
+        "second": 1,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CPNyEgLKbeU/output_frames/sec_1_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[0-2] The player in the striped jersey takes the penalty kick but it is headed away by the goalkeeper who is using crutches. The player holds his head in his hands, clearly frustrated."
+    },
+    {
+        "second": 2,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CPNyEgLKbeU/output_frames/sec_2_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[0-2] The player in the striped jersey takes the penalty kick but it is headed away by the goalkeeper who is using crutches. The player holds his head in his hands, clearly frustrated."
+    },
+    {
+        "second": 3,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CPNyEgLKbeU/output_frames/sec_3_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[2-6] The scene cuts to a player in black on the field. He is using crutches and his right pant leg is empty. He then fakes a kick with his empty right leg, the ball doesn't move, but the goalkeeper dives to the ground. The player then uses his left foot to kick the ball into the goal."
+    },
+    {
+        "second": 4,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CPNyEgLKbeU/output_frames/sec_4_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[2-6] The scene cuts to a player in black on the field. He is using crutches and his right pant leg is empty. He then fakes a kick with his empty right leg, the ball doesn't move, but the goalkeeper dives to the ground. The player then uses his left foot to kick the ball into the goal."
+    },
+    {
+        "second": 5,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CPNyEgLKbeU/output_frames/sec_5_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[2-6] The scene cuts to a player in black on the field. He is using crutches and his right pant leg is empty. He then fakes a kick with his empty right leg, the ball doesn't move, but the goalkeeper dives to the ground. The player then uses his left foot to kick the ball into the goal."
+    },
+    {
+        "second": 6,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CPNyEgLKbeU/output_frames/sec_6_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[2-6] The scene cuts to a player in black on the field. He is using crutches and his right pant leg is empty. He then fakes a kick with his empty right leg, the ball doesn't move, but the goalkeeper dives to the ground. The player then uses his left foot to kick the ball into the goal."
+    }
+]

@@ -1,0 +1,93 @@
+[
+    {
+        "second": 0,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/O4XGsIDesEI/output_frames/sec_0_idx_1.jpg",
+        "fps": 60,
+        "explanation": "[0-0] In a sunny square, a man wearing a printed T-shirt and blue shorts is sitting at a white table making a phone call. There is a mobile phone on the white table. Two of his friends are standing behind him, one wearing a white T-shirt and the other wearing a pink T-shirt. Next to them are a man in a green vest and a woman in a black vest."
+    },
+    {
+        "second": 1,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/O4XGsIDesEI/output_frames/sec_1_idx_19.jpg",
+        "fps": 60,
+        "explanation": "[0-6] Immediately afterwards, the man making the phone call stands up, then the man in the white T-shirt behind him removes the chair behind the man, and then the man in the pink T-shirt removes the white table, accidentally dropping the mobile phone on the ground."
+    },
+    {
+        "second": 2,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/O4XGsIDesEI/output_frames/sec_2_idx_15.jpg",
+        "fps": 60,
+        "explanation": "[0-6] Immediately afterwards, the man making the phone call stands up, then the man in the white T-shirt behind him removes the chair behind the man, and then the man in the pink T-shirt removes the white table, accidentally dropping the mobile phone on the ground."
+    },
+    {
+        "second": 3,
+        "frame_index": 56,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/O4XGsIDesEI/output_frames/sec_3_idx_56.jpg",
+        "fps": 60,
+        "explanation": "[0-6] Immediately afterwards, the man making the phone call stands up, then the man in the white T-shirt behind him removes the chair behind the man, and then the man in the pink T-shirt removes the white table, accidentally dropping the mobile phone on the ground."
+    },
+    {
+        "second": 4,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/O4XGsIDesEI/output_frames/sec_4_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[0-6] Immediately afterwards, the man making the phone call stands up, then the man in the white T-shirt behind him removes the chair behind the man, and then the man in the pink T-shirt removes the white table, accidentally dropping the mobile phone on the ground."
+    },
+    {
+        "second": 5,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/O4XGsIDesEI/output_frames/sec_5_idx_9.jpg",
+        "fps": 60,
+        "explanation": "[0-6] Immediately afterwards, the man making the phone call stands up, then the man in the white T-shirt behind him removes the chair behind the man, and then the man in the pink T-shirt removes the white table, accidentally dropping the mobile phone on the ground."
+    },
+    {
+        "second": 6,
+        "frame_index": 33,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/O4XGsIDesEI/output_frames/sec_6_idx_33.jpg",
+        "fps": 60,
+        "explanation": "[0-6] Immediately afterwards, the man making the phone call stands up, then the man in the white T-shirt behind him removes the chair behind the man, and then the man in the pink T-shirt removes the white table, accidentally dropping the mobile phone on the ground."
+    },
+    {
+        "second": 7,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/O4XGsIDesEI/output_frames/sec_7_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[6-12] Immediately afterwards, the man in the green vest comes in front of the man making the phone call and performs a bending-over move, while the woman in the black vest comes behind the man and also performs a bending-over move. Subsequently, the man making the phone call sits on the woman in the black vest, then puts the phone on the man in the green vest, and then makes a spreading-hands gesture."
+    },
+    {
+        "second": 8,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/O4XGsIDesEI/output_frames/sec_8_idx_12.jpg",
+        "fps": 60,
+        "explanation": "[6-12] Immediately afterwards, the man in the green vest comes in front of the man making the phone call and performs a bending-over move, while the woman in the black vest comes behind the man and also performs a bending-over move. Subsequently, the man making the phone call sits on the woman in the black vest, then puts the phone on the man in the green vest, and then makes a spreading-hands gesture."
+    },
+    {
+        "second": 9,
+        "frame_index": 54,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/O4XGsIDesEI/output_frames/sec_9_idx_54.jpg",
+        "fps": 60,
+        "explanation": "[6-12] Immediately afterwards, the man in the green vest comes in front of the man making the phone call and performs a bending-over move, while the woman in the black vest comes behind the man and also performs a bending-over move. Subsequently, the man making the phone call sits on the woman in the black vest, then puts the phone on the man in the green vest, and then makes a spreading-hands gesture."
+    },
+    {
+        "second": 10,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/O4XGsIDesEI/output_frames/sec_10_idx_7.jpg",
+        "fps": 60,
+        "explanation": "[6-12] Immediately afterwards, the man in the green vest comes in front of the man making the phone call and performs a bending-over move, while the woman in the black vest comes behind the man and also performs a bending-over move. Subsequently, the man making the phone call sits on the woman in the black vest, then puts the phone on the man in the green vest, and then makes a spreading-hands gesture."
+    },
+    {
+        "second": 11,
+        "frame_index": 42,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/O4XGsIDesEI/output_frames/sec_11_idx_42.jpg",
+        "fps": 60,
+        "explanation": "[6-12] Immediately afterwards, the man in the green vest comes in front of the man making the phone call and performs a bending-over move, while the woman in the black vest comes behind the man and also performs a bending-over move. Subsequently, the man making the phone call sits on the woman in the black vest, then puts the phone on the man in the green vest, and then makes a spreading-hands gesture."
+    },
+    {
+        "second": 12,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/O4XGsIDesEI/output_frames/sec_12_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[6-12] Immediately afterwards, the man in the green vest comes in front of the man making the phone call and performs a bending-over move, while the woman in the black vest comes behind the man and also performs a bending-over move. Subsequently, the man making the phone call sits on the woman in the black vest, then puts the phone on the man in the green vest, and then makes a spreading-hands gesture."
+    }
+]

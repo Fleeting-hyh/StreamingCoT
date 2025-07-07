@@ -1,0 +1,86 @@
+[
+    {
+        "second": 0,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/NTpOR8zLOqs/output_frames/sec_0_idx_1.jpg",
+        "fps": 24,
+        "explanation": "[0-0] On a sunny day, a man wearing a white headscarf and a blue shirt sits in a burlap sack on a dirt road. He holds a handgun in his right hand. To the left of the road is an irrigation ditch, and in the distance, a person is riding a motorcycle towards him. There are some trees in the background."
+    },
+    {
+        "second": 1,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/NTpOR8zLOqs/output_frames/sec_1_idx_22.jpg",
+        "fps": 24,
+        "explanation": "[0-3] As the motorcycle gets closer, the man in the headscarf looks around, lies down on the ground, and pulls the burlap sack over himself."
+    },
+    {
+        "second": 2,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/NTpOR8zLOqs/output_frames/sec_2_idx_13.jpg",
+        "fps": 24,
+        "explanation": "[0-3] As the motorcycle gets closer, the man in the headscarf looks around, lies down on the ground, and pulls the burlap sack over himself."
+    },
+    {
+        "second": 3,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/NTpOR8zLOqs/output_frames/sec_3_idx_19.jpg",
+        "fps": 24,
+        "explanation": "[0-3] As the motorcycle gets closer, the man in the headscarf looks around, lies down on the ground, and pulls the burlap sack over himself."
+    },
+    {
+        "second": 4,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/NTpOR8zLOqs/output_frames/sec_4_idx_8.jpg",
+        "fps": 24,
+        "explanation": "[3-8] The camera zooms in as the motorcycle travels along the dirt road, then zooms out as the motorcycle continues forward, kicking up dust. The motorcycle rides over the burlap sack, and the rider looks down at the sack with a surprised expression as the motorcycle passes over it and moves to the left."
+    },
+    {
+        "second": 5,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/NTpOR8zLOqs/output_frames/sec_5_idx_10.jpg",
+        "fps": 24,
+        "explanation": "[3-8] The camera zooms in as the motorcycle travels along the dirt road, then zooms out as the motorcycle continues forward, kicking up dust. The motorcycle rides over the burlap sack, and the rider looks down at the sack with a surprised expression as the motorcycle passes over it and moves to the left."
+    },
+    {
+        "second": 6,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/NTpOR8zLOqs/output_frames/sec_6_idx_3.jpg",
+        "fps": 24,
+        "explanation": "[3-8] The camera zooms in as the motorcycle travels along the dirt road, then zooms out as the motorcycle continues forward, kicking up dust. The motorcycle rides over the burlap sack, and the rider looks down at the sack with a surprised expression as the motorcycle passes over it and moves to the left."
+    },
+    {
+        "second": 7,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/NTpOR8zLOqs/output_frames/sec_7_idx_16.jpg",
+        "fps": 24,
+        "explanation": "[3-8] The camera zooms in as the motorcycle travels along the dirt road, then zooms out as the motorcycle continues forward, kicking up dust. The motorcycle rides over the burlap sack, and the rider looks down at the sack with a surprised expression as the motorcycle passes over it and moves to the left."
+    },
+    {
+        "second": 8,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/NTpOR8zLOqs/output_frames/sec_8_idx_9.jpg",
+        "fps": 24,
+        "explanation": "[3-8] The camera zooms in as the motorcycle travels along the dirt road, then zooms out as the motorcycle continues forward, kicking up dust. The motorcycle rides over the burlap sack, and the rider looks down at the sack with a surprised expression as the motorcycle passes over it and moves to the left."
+    },
+    {
+        "second": 9,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/NTpOR8zLOqs/output_frames/sec_9_idx_21.jpg",
+        "fps": 24,
+        "explanation": "[8-11] Finally, the camera switches to a view from behind the motorcycle, showing the motorcycle dragging the burlap sack on its left side as it moves further away."
+    },
+    {
+        "second": 10,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/NTpOR8zLOqs/output_frames/sec_10_idx_20.jpg",
+        "fps": 24,
+        "explanation": "[8-11] Finally, the camera switches to a view from behind the motorcycle, showing the motorcycle dragging the burlap sack on its left side as it moves further away."
+    },
+    {
+        "second": 11,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/NTpOR8zLOqs/output_frames/sec_11_idx_20.jpg",
+        "fps": 24,
+        "explanation": "[8-11] Finally, the camera switches to a view from behind the motorcycle, showing the motorcycle dragging the burlap sack on its left side as it moves further away."
+    }
+]

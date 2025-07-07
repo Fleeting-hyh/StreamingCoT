@@ -1,0 +1,51 @@
+[
+    {
+        "second": 0,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CmvIfR5_QzM/output_frames/sec_0_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A blonde woman is standing in the living room, wearing a black sports bra and white pants. She smiles with her mouth wide open, looking surprised. There are some paintings on the white wall and a gray sofa in the front."
+    },
+    {
+        "second": 1,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CmvIfR5_QzM/output_frames/sec_1_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Then the blonde woman crosses her arms, places the fingers of both hands on the sides of her nose, and successfully separates them."
+    },
+    {
+        "second": 2,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CmvIfR5_QzM/output_frames/sec_2_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Then the blonde woman crosses her arms, places the fingers of both hands on the sides of her nose, and successfully separates them."
+    },
+    {
+        "second": 3,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CmvIfR5_QzM/output_frames/sec_3_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[2-6] Subsequently, a man in a beige short-sleeved shirt appears. He also crosses his arms and puts the fingers of both hands on the sides of his nose, but fails to separate them. A red geometric shape appears at the bottom of the screen, containing white English words and a yellow crying-with-laughter emoji. The words include \"sub for more\"."
+    },
+    {
+        "second": 4,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CmvIfR5_QzM/output_frames/sec_4_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[2-6] Subsequently, a man in a beige short-sleeved shirt appears. He also crosses his arms and puts the fingers of both hands on the sides of his nose, but fails to separate them. A red geometric shape appears at the bottom of the screen, containing white English words and a yellow crying-with-laughter emoji. The words include \"sub for more\"."
+    },
+    {
+        "second": 5,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CmvIfR5_QzM/output_frames/sec_5_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[2-6] Subsequently, a man in a beige short-sleeved shirt appears. He also crosses his arms and puts the fingers of both hands on the sides of his nose, but fails to separate them. A red geometric shape appears at the bottom of the screen, containing white English words and a yellow crying-with-laughter emoji. The words include \"sub for more\"."
+    },
+    {
+        "second": 6,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CmvIfR5_QzM/output_frames/sec_6_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[2-6] Subsequently, a man in a beige short-sleeved shirt appears. He also crosses his arms and puts the fingers of both hands on the sides of his nose, but fails to separate them. A red geometric shape appears at the bottom of the screen, containing white English words and a yellow crying-with-laughter emoji. The words include \"sub for more\"."
+    }
+]

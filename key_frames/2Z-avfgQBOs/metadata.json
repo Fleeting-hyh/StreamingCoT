@@ -1,0 +1,128 @@
+[
+    {
+        "second": 0,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2Z-avfgQBOs/output_frames/sec_0_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[0-0] In a room, a girl with purple hair wearing a yellow dress is sitting at a table. On the table, from left to right, are plates of watermelon, grapes, durian, and bananas. Behind her are a person wearing a pink top, blue pants, and a green hood, and a person wearing an Ultraman costume and headgear. The person in the green hood is holding a black hammer, and the person in the Ultraman costume is holding a durian."
+    },
+    {
+        "second": 1,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2Z-avfgQBOs/output_frames/sec_1_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The girl in the yellow dress hesitates over the fruit in front of her, then places her hand on the watermelon and looks back. A green cross appears under the watermelon. She did not correctly choose the fruit in Ultraman's hand. Ultraman starts dancing with the durian, while the girl turns her head back with her hands on her head, her face contorted. The person in the green hood raises the black hammer and hits the girl in the yellow dress on the head."
+    },
+    {
+        "second": 2,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2Z-avfgQBOs/output_frames/sec_2_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The girl in the yellow dress hesitates over the fruit in front of her, then places her hand on the watermelon and looks back. A green cross appears under the watermelon. She did not correctly choose the fruit in Ultraman's hand. Ultraman starts dancing with the durian, while the girl turns her head back with her hands on her head, her face contorted. The person in the green hood raises the black hammer and hits the girl in the yellow dress on the head."
+    },
+    {
+        "second": 3,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2Z-avfgQBOs/output_frames/sec_3_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The girl in the yellow dress hesitates over the fruit in front of her, then places her hand on the watermelon and looks back. A green cross appears under the watermelon. She did not correctly choose the fruit in Ultraman's hand. Ultraman starts dancing with the durian, while the girl turns her head back with her hands on her head, her face contorted. The person in the green hood raises the black hammer and hits the girl in the yellow dress on the head."
+    },
+    {
+        "second": 4,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2Z-avfgQBOs/output_frames/sec_4_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The girl in the yellow dress hesitates over the fruit in front of her, then places her hand on the watermelon and looks back. A green cross appears under the watermelon. She did not correctly choose the fruit in Ultraman's hand. Ultraman starts dancing with the durian, while the girl turns her head back with her hands on her head, her face contorted. The person in the green hood raises the black hammer and hits the girl in the yellow dress on the head."
+    },
+    {
+        "second": 5,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2Z-avfgQBOs/output_frames/sec_5_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[4-7] Then the scene changes to another woman in a red dress sitting at the table. The plates, from left to right, have changed to mango, dragon fruit, cantaloupe, and durian. Ultraman is holding a dragon fruit. The woman in red slaps her hand on the cantaloupe, and a green cross appears under it. She also failed to choose the fruit in Ultraman's hand. She then looks back and sees Ultraman dancing with the dragon fruit, while the person in the green hood hits her on the head with the black hammer. The woman turns her head back, holding her head with a contorted expression."
+    },
+    {
+        "second": 6,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2Z-avfgQBOs/output_frames/sec_6_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[4-7] Then the scene changes to another woman in a red dress sitting at the table. The plates, from left to right, have changed to mango, dragon fruit, cantaloupe, and durian. Ultraman is holding a dragon fruit. The woman in red slaps her hand on the cantaloupe, and a green cross appears under it. She also failed to choose the fruit in Ultraman's hand. She then looks back and sees Ultraman dancing with the dragon fruit, while the person in the green hood hits her on the head with the black hammer. The woman turns her head back, holding her head with a contorted expression."
+    },
+    {
+        "second": 7,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2Z-avfgQBOs/output_frames/sec_7_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[4-7] Then the scene changes to another woman in a red dress sitting at the table. The plates, from left to right, have changed to mango, dragon fruit, cantaloupe, and durian. Ultraman is holding a dragon fruit. The woman in red slaps her hand on the cantaloupe, and a green cross appears under it. She also failed to choose the fruit in Ultraman's hand. She then looks back and sees Ultraman dancing with the dragon fruit, while the person in the green hood hits her on the head with the black hammer. The woman turns her head back, holding her head with a contorted expression."
+    },
+    {
+        "second": 8,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2Z-avfgQBOs/output_frames/sec_8_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[7-11] The scene changes again to a man in pink sitting at the table. The person in the green hood behind him is now wearing a yellow top and black pants. The plates, from left to right, have changed to banana, durian, pineapple, and watermelon. Ultraman is holding a banana. The man in pink hesitates and then places his hand on the banana. A green check mark appears under the banana. The man chose the fruit in Ultraman's hand correctly. He looks back, and the people in the Ultraman and green hood costumes start dancing. The man turns back and holds the banana in his hands, swaying happily from side to side."
+    },
+    {
+        "second": 9,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2Z-avfgQBOs/output_frames/sec_9_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[7-11] The scene changes again to a man in pink sitting at the table. The person in the green hood behind him is now wearing a yellow top and black pants. The plates, from left to right, have changed to banana, durian, pineapple, and watermelon. Ultraman is holding a banana. The man in pink hesitates and then places his hand on the banana. A green check mark appears under the banana. The man chose the fruit in Ultraman's hand correctly. He looks back, and the people in the Ultraman and green hood costumes start dancing. The man turns back and holds the banana in his hands, swaying happily from side to side."
+    },
+    {
+        "second": 10,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2Z-avfgQBOs/output_frames/sec_10_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[7-11] The scene changes again to a man in pink sitting at the table. The person in the green hood behind him is now wearing a yellow top and black pants. The plates, from left to right, have changed to banana, durian, pineapple, and watermelon. Ultraman is holding a banana. The man in pink hesitates and then places his hand on the banana. A green check mark appears under the banana. The man chose the fruit in Ultraman's hand correctly. He looks back, and the people in the Ultraman and green hood costumes start dancing. The man turns back and holds the banana in his hands, swaying happily from side to side."
+    },
+    {
+        "second": 11,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2Z-avfgQBOs/output_frames/sec_11_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[7-11] The scene changes again to a man in pink sitting at the table. The person in the green hood behind him is now wearing a yellow top and black pants. The plates, from left to right, have changed to banana, durian, pineapple, and watermelon. Ultraman is holding a banana. The man in pink hesitates and then places his hand on the banana. A green check mark appears under the banana. The man chose the fruit in Ultraman's hand correctly. He looks back, and the people in the Ultraman and green hood costumes start dancing. The man turns back and holds the banana in his hands, swaying happily from side to side."
+    },
+    {
+        "second": 12,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2Z-avfgQBOs/output_frames/sec_12_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[11-17] Then the scene changes to a little boy in a red shirt sitting at the table. The plates, from left to right, have changed to dragon fruit, grapes, watermelon, and pineapple. Ultraman is holding a watermelon. The child puts his hand on the dragon fruit, and a green cross appears underneath. The boy did not choose correctly. He then looks back and sees Ultraman swaying from side to side. The person in the green hood hits the boy on the head with the hammer. The boy's expression contorts, and he turns his head back, holding it with his hands. Immediately afterwards, the scene changes to a man in black sitting at the table. The plates, from left to right, have changed to grapes, mango, cantaloupe, and pineapple. Behind him, Ultraman is holding a pineapple. The man in black puts his hand on the mango, and a green cross appears underneath. He also chose incorrectly. He then looks back, and the person in the green hood hits him on the head with the hammer. He then turns his head back, holding it with both hands, his face contorted. Behind him, Ultraman dances with the pineapple."
+    },
+    {
+        "second": 13,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2Z-avfgQBOs/output_frames/sec_13_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[11-17] Then the scene changes to a little boy in a red shirt sitting at the table. The plates, from left to right, have changed to dragon fruit, grapes, watermelon, and pineapple. Ultraman is holding a watermelon. The child puts his hand on the dragon fruit, and a green cross appears underneath. The boy did not choose correctly. He then looks back and sees Ultraman swaying from side to side. The person in the green hood hits the boy on the head with the hammer. The boy's expression contorts, and he turns his head back, holding it with his hands. Immediately afterwards, the scene changes to a man in black sitting at the table. The plates, from left to right, have changed to grapes, mango, cantaloupe, and pineapple. Behind him, Ultraman is holding a pineapple. The man in black puts his hand on the mango, and a green cross appears underneath. He also chose incorrectly. He then looks back, and the person in the green hood hits him on the head with the hammer. He then turns his head back, holding it with both hands, his face contorted. Behind him, Ultraman dances with the pineapple."
+    },
+    {
+        "second": 14,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2Z-avfgQBOs/output_frames/sec_14_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[11-17] Then the scene changes to a little boy in a red shirt sitting at the table. The plates, from left to right, have changed to dragon fruit, grapes, watermelon, and pineapple. Ultraman is holding a watermelon. The child puts his hand on the dragon fruit, and a green cross appears underneath. The boy did not choose correctly. He then looks back and sees Ultraman swaying from side to side. The person in the green hood hits the boy on the head with the hammer. The boy's expression contorts, and he turns his head back, holding it with his hands. Immediately afterwards, the scene changes to a man in black sitting at the table. The plates, from left to right, have changed to grapes, mango, cantaloupe, and pineapple. Behind him, Ultraman is holding a pineapple. The man in black puts his hand on the mango, and a green cross appears underneath. He also chose incorrectly. He then looks back, and the person in the green hood hits him on the head with the hammer. He then turns his head back, holding it with both hands, his face contorted. Behind him, Ultraman dances with the pineapple."
+    },
+    {
+        "second": 15,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2Z-avfgQBOs/output_frames/sec_15_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[11-17] Then the scene changes to a little boy in a red shirt sitting at the table. The plates, from left to right, have changed to dragon fruit, grapes, watermelon, and pineapple. Ultraman is holding a watermelon. The child puts his hand on the dragon fruit, and a green cross appears underneath. The boy did not choose correctly. He then looks back and sees Ultraman swaying from side to side. The person in the green hood hits the boy on the head with the hammer. The boy's expression contorts, and he turns his head back, holding it with his hands. Immediately afterwards, the scene changes to a man in black sitting at the table. The plates, from left to right, have changed to grapes, mango, cantaloupe, and pineapple. Behind him, Ultraman is holding a pineapple. The man in black puts his hand on the mango, and a green cross appears underneath. He also chose incorrectly. He then looks back, and the person in the green hood hits him on the head with the hammer. He then turns his head back, holding it with both hands, his face contorted. Behind him, Ultraman dances with the pineapple."
+    },
+    {
+        "second": 16,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2Z-avfgQBOs/output_frames/sec_16_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[11-17] Then the scene changes to a little boy in a red shirt sitting at the table. The plates, from left to right, have changed to dragon fruit, grapes, watermelon, and pineapple. Ultraman is holding a watermelon. The child puts his hand on the dragon fruit, and a green cross appears underneath. The boy did not choose correctly. He then looks back and sees Ultraman swaying from side to side. The person in the green hood hits the boy on the head with the hammer. The boy's expression contorts, and he turns his head back, holding it with his hands. Immediately afterwards, the scene changes to a man in black sitting at the table. The plates, from left to right, have changed to grapes, mango, cantaloupe, and pineapple. Behind him, Ultraman is holding a pineapple. The man in black puts his hand on the mango, and a green cross appears underneath. He also chose incorrectly. He then looks back, and the person in the green hood hits him on the head with the hammer. He then turns his head back, holding it with both hands, his face contorted. Behind him, Ultraman dances with the pineapple."
+    },
+    {
+        "second": 17,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2Z-avfgQBOs/output_frames/sec_17_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[11-17] Then the scene changes to a little boy in a red shirt sitting at the table. The plates, from left to right, have changed to dragon fruit, grapes, watermelon, and pineapple. Ultraman is holding a watermelon. The child puts his hand on the dragon fruit, and a green cross appears underneath. The boy did not choose correctly. He then looks back and sees Ultraman swaying from side to side. The person in the green hood hits the boy on the head with the hammer. The boy's expression contorts, and he turns his head back, holding it with his hands. Immediately afterwards, the scene changes to a man in black sitting at the table. The plates, from left to right, have changed to grapes, mango, cantaloupe, and pineapple. Behind him, Ultraman is holding a pineapple. The man in black puts his hand on the mango, and a green cross appears underneath. He also chose incorrectly. He then looks back, and the person in the green hood hits him on the head with the hammer. He then turns his head back, holding it with both hands, his face contorted. Behind him, Ultraman dances with the pineapple."
+    }
+]

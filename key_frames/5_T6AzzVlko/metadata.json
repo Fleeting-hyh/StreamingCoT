@@ -1,0 +1,58 @@
+[
+    {
+        "second": 0,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5_T6AzzVlko/output_frames/sec_0_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A young ballerina stands in an arched doorway, wearing a red ballet dress and nude leotard, with ballet shoes on her feet. Her arms are outstretched, holding up the skirt. The background wall is pale yellow."
+    },
+    {
+        "second": 1,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5_T6AzzVlko/output_frames/sec_1_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-5] The dancer then bends over and flips her skirt over her head, then gradually straightens up, the skirt slowly falling with her movement."
+    },
+    {
+        "second": 2,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5_T6AzzVlko/output_frames/sec_2_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[0-5] The dancer then bends over and flips her skirt over her head, then gradually straightens up, the skirt slowly falling with her movement."
+    },
+    {
+        "second": 3,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5_T6AzzVlko/output_frames/sec_3_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[0-5] The dancer then bends over and flips her skirt over her head, then gradually straightens up, the skirt slowly falling with her movement."
+    },
+    {
+        "second": 4,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5_T6AzzVlko/output_frames/sec_4_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[0-5] The dancer then bends over and flips her skirt over her head, then gradually straightens up, the skirt slowly falling with her movement."
+    },
+    {
+        "second": 5,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5_T6AzzVlko/output_frames/sec_5_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[0-5] The dancer then bends over and flips her skirt over her head, then gradually straightens up, the skirt slowly falling with her movement."
+    },
+    {
+        "second": 6,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5_T6AzzVlko/output_frames/sec_6_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[5-7] Finally, the dancer is shown in a single-leg ballet pose, her body balanced, her skirt spread out around her upper body in a beautiful arc."
+    },
+    {
+        "second": 7,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5_T6AzzVlko/output_frames/sec_7_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[5-7] Finally, the dancer is shown in a single-leg ballet pose, her body balanced, her skirt spread out around her upper body in a beautiful arc."
+    }
+]

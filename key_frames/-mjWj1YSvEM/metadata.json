@@ -1,0 +1,142 @@
+[
+    {
+        "second": 0,
+        "frame_index": 46,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-mjWj1YSvEM/output_frames/sec_0_idx_46.jpg",
+        "fps": 60,
+        "explanation": "[0-0] A man wearing a helmet is standing next to a white electric motorcycle parked on a city sidewalk."
+    },
+    {
+        "second": 1,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-mjWj1YSvEM/output_frames/sec_1_idx_13.jpg",
+        "fps": 60,
+        "explanation": "[0-2] Then the man walks to the motorcycle, puts one hand on the handlebar, and reaches under the rear seat with the other hand. He lifts the rear seat while holding the handlebar and turns the motorcycle around."
+    },
+    {
+        "second": 2,
+        "frame_index": 42,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-mjWj1YSvEM/output_frames/sec_2_idx_42.jpg",
+        "fps": 60,
+        "explanation": "[0-2] Then the man walks to the motorcycle, puts one hand on the handlebar, and reaches under the rear seat with the other hand. He lifts the rear seat while holding the handlebar and turns the motorcycle around."
+    },
+    {
+        "second": 3,
+        "frame_index": 43,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-mjWj1YSvEM/output_frames/sec_3_idx_43.jpg",
+        "fps": 60,
+        "explanation": "[2-5] The man is riding the electric motorcycle on the road when he suddenly stops, puts his left foot on the ground, and lifts the rear wheel of the motorcycle onto the curb. Then he firmly grabs the handlebar, lifts the front wheel onto the curb as well, and continues riding away."
+    },
+    {
+        "second": 4,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-mjWj1YSvEM/output_frames/sec_4_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[2-5] The man is riding the electric motorcycle on the road when he suddenly stops, puts his left foot on the ground, and lifts the rear wheel of the motorcycle onto the curb. Then he firmly grabs the handlebar, lifts the front wheel onto the curb as well, and continues riding away."
+    },
+    {
+        "second": 5,
+        "frame_index": 53,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-mjWj1YSvEM/output_frames/sec_5_idx_53.jpg",
+        "fps": 60,
+        "explanation": "[2-5] The man is riding the electric motorcycle on the road when he suddenly stops, puts his left foot on the ground, and lifts the rear wheel of the motorcycle onto the curb. Then he firmly grabs the handlebar, lifts the front wheel onto the curb as well, and continues riding away."
+    },
+    {
+        "second": 6,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-mjWj1YSvEM/output_frames/sec_6_idx_11.jpg",
+        "fps": 60,
+        "explanation": "[5-11] Then the man arrives at the electric motorcycle with his shopping. He takes out a small card from the key in his hand and puts it on the handlebar to start the motorcycle. He then takes out another small card and puts it on the box in the middle of the motorcycle. The box doesn't respond when he lets go. He tries again and opens the box. The man then puts the bag in his hand into the box."
+    },
+    {
+        "second": 7,
+        "frame_index": 47,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-mjWj1YSvEM/output_frames/sec_7_idx_47.jpg",
+        "fps": 60,
+        "explanation": "[5-11] Then the man arrives at the electric motorcycle with his shopping. He takes out a small card from the key in his hand and puts it on the handlebar to start the motorcycle. He then takes out another small card and puts it on the box in the middle of the motorcycle. The box doesn't respond when he lets go. He tries again and opens the box. The man then puts the bag in his hand into the box."
+    },
+    {
+        "second": 8,
+        "frame_index": 44,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-mjWj1YSvEM/output_frames/sec_8_idx_44.jpg",
+        "fps": 60,
+        "explanation": "[5-11] Then the man arrives at the electric motorcycle with his shopping. He takes out a small card from the key in his hand and puts it on the handlebar to start the motorcycle. He then takes out another small card and puts it on the box in the middle of the motorcycle. The box doesn't respond when he lets go. He tries again and opens the box. The man then puts the bag in his hand into the box."
+    },
+    {
+        "second": 9,
+        "frame_index": 38,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-mjWj1YSvEM/output_frames/sec_9_idx_38.jpg",
+        "fps": 60,
+        "explanation": "[5-11] Then the man arrives at the electric motorcycle with his shopping. He takes out a small card from the key in his hand and puts it on the handlebar to start the motorcycle. He then takes out another small card and puts it on the box in the middle of the motorcycle. The box doesn't respond when he lets go. He tries again and opens the box. The man then puts the bag in his hand into the box."
+    },
+    {
+        "second": 10,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-mjWj1YSvEM/output_frames/sec_10_idx_4.jpg",
+        "fps": 60,
+        "explanation": "[5-11] Then the man arrives at the electric motorcycle with his shopping. He takes out a small card from the key in his hand and puts it on the handlebar to start the motorcycle. He then takes out another small card and puts it on the box in the middle of the motorcycle. The box doesn't respond when he lets go. He tries again and opens the box. The man then puts the bag in his hand into the box."
+    },
+    {
+        "second": 11,
+        "frame_index": 50,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-mjWj1YSvEM/output_frames/sec_11_idx_50.jpg",
+        "fps": 60,
+        "explanation": "[5-11] Then the man arrives at the electric motorcycle with his shopping. He takes out a small card from the key in his hand and puts it on the handlebar to start the motorcycle. He then takes out another small card and puts it on the box in the middle of the motorcycle. The box doesn't respond when he lets go. He tries again and opens the box. The man then puts the bag in his hand into the box."
+    },
+    {
+        "second": 12,
+        "frame_index": 52,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-mjWj1YSvEM/output_frames/sec_12_idx_52.jpg",
+        "fps": 60,
+        "explanation": "[11-16] Then the scene changes to the man riding the electric motorcycle on the road."
+    },
+    {
+        "second": 13,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-mjWj1YSvEM/output_frames/sec_13_idx_2.jpg",
+        "fps": 60,
+        "explanation": "[11-16] Then the scene changes to the man riding the electric motorcycle on the road."
+    },
+    {
+        "second": 14,
+        "frame_index": 44,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-mjWj1YSvEM/output_frames/sec_14_idx_44.jpg",
+        "fps": 60,
+        "explanation": "[11-16] Then the scene changes to the man riding the electric motorcycle on the road."
+    },
+    {
+        "second": 15,
+        "frame_index": 52,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-mjWj1YSvEM/output_frames/sec_15_idx_52.jpg",
+        "fps": 60,
+        "explanation": "[11-16] Then the scene changes to the man riding the electric motorcycle on the road."
+    },
+    {
+        "second": 16,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-mjWj1YSvEM/output_frames/sec_16_idx_11.jpg",
+        "fps": 60,
+        "explanation": "[11-16] Then the scene changes to the man riding the electric motorcycle on the road."
+    },
+    {
+        "second": 17,
+        "frame_index": 32,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-mjWj1YSvEM/output_frames/sec_17_idx_32.jpg",
+        "fps": 60,
+        "explanation": "[16-19] Finally, the motorcycle is parked on a city sidewalk for display. Behind the motorcycle are a yellow wall with a pattern and the side of a building with a huge illustration."
+    },
+    {
+        "second": 18,
+        "frame_index": 46,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-mjWj1YSvEM/output_frames/sec_18_idx_46.jpg",
+        "fps": 60,
+        "explanation": "[16-19] Finally, the motorcycle is parked on a city sidewalk for display. Behind the motorcycle are a yellow wall with a pattern and the side of a building with a huge illustration."
+    },
+    {
+        "second": 19,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-mjWj1YSvEM/output_frames/sec_19_idx_28.jpg",
+        "fps": 60,
+        "explanation": "[16-19] Finally, the motorcycle is parked on a city sidewalk for display. Behind the motorcycle are a yellow wall with a pattern and the side of a building with a huge illustration."
+    }
+]

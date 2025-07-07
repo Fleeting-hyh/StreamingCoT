@@ -1,0 +1,30 @@
+[
+    {
+        "second": 0,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2KOjb4lY_cw/output_frames/sec_0_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A 3D model of a wooden lock is shown against a black background. The internal structure is clearly visible. The words SIMPLE MOTIONS are engraved on the lock. There is a green circular watermark in the upper right corner."
+    },
+    {
+        "second": 1,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2KOjb4lY_cw/output_frames/sec_1_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The shackle of the lock begins to close downwards, showing the action of locking. The lock bolt fully engages, forming a complete ring. It shakes back and forth a bit, appearing very secure."
+    },
+    {
+        "second": 2,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2KOjb4lY_cw/output_frames/sec_2_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The shackle of the lock begins to close downwards, showing the action of locking. The lock bolt fully engages, forming a complete ring. It shakes back and forth a bit, appearing very secure."
+    },
+    {
+        "second": 3,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2KOjb4lY_cw/output_frames/sec_3_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The shackle of the lock begins to close downwards, showing the action of locking. The lock bolt fully engages, forming a complete ring. It shakes back and forth a bit, appearing very secure."
+    }
+]

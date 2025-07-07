@@ -1,0 +1,51 @@
+[
+    {
+        "second": 0,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9riAlVbLuy0/output_frames/sec_0_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A young woman with long brown hair sits in a gray Lamborghini convertible. She is smiling and looking ahead as the car drives down a street with parked motorcycles, buildings, and greenery."
+    },
+    {
+        "second": 1,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9riAlVbLuy0/output_frames/sec_1_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[0-6] The car continues down the street. The woman smiles and gives a peace sign with her right hand. The driver, a man with short black and white hair and a beard, is wearing a black short-sleeved T-shirt. The woman then holds a red object in her left hand and brushes her hair with her right hand. Lastly, the car's license plate, which has black text on a white background, is revealed."
+    },
+    {
+        "second": 2,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9riAlVbLuy0/output_frames/sec_2_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[0-6] The car continues down the street. The woman smiles and gives a peace sign with her right hand. The driver, a man with short black and white hair and a beard, is wearing a black short-sleeved T-shirt. The woman then holds a red object in her left hand and brushes her hair with her right hand. Lastly, the car's license plate, which has black text on a white background, is revealed."
+    },
+    {
+        "second": 3,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9riAlVbLuy0/output_frames/sec_3_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[0-6] The car continues down the street. The woman smiles and gives a peace sign with her right hand. The driver, a man with short black and white hair and a beard, is wearing a black short-sleeved T-shirt. The woman then holds a red object in her left hand and brushes her hair with her right hand. Lastly, the car's license plate, which has black text on a white background, is revealed."
+    },
+    {
+        "second": 4,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9riAlVbLuy0/output_frames/sec_4_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[0-6] The car continues down the street. The woman smiles and gives a peace sign with her right hand. The driver, a man with short black and white hair and a beard, is wearing a black short-sleeved T-shirt. The woman then holds a red object in her left hand and brushes her hair with her right hand. Lastly, the car's license plate, which has black text on a white background, is revealed."
+    },
+    {
+        "second": 5,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9riAlVbLuy0/output_frames/sec_5_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-6] The car continues down the street. The woman smiles and gives a peace sign with her right hand. The driver, a man with short black and white hair and a beard, is wearing a black short-sleeved T-shirt. The woman then holds a red object in her left hand and brushes her hair with her right hand. Lastly, the car's license plate, which has black text on a white background, is revealed."
+    },
+    {
+        "second": 6,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9riAlVbLuy0/output_frames/sec_6_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[0-6] The car continues down the street. The woman smiles and gives a peace sign with her right hand. The driver, a man with short black and white hair and a beard, is wearing a black short-sleeved T-shirt. The woman then holds a red object in her left hand and brushes her hair with her right hand. Lastly, the car's license plate, which has black text on a white background, is revealed."
+    }
+]

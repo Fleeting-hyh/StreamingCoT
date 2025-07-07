@@ -1,0 +1,72 @@
+[
+    {
+        "second": 0,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TGG6yW_h5v4/output_frames/sec_0_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[0-0] At a bustling night market stall, a woman in a red apron stands in front of a charcoal grill. She holds a plate of fish in her left hand and a fish in her right hand, wearing a disposable glove. A fish is already grilling on the grill, and a row of empty baking trays is placed beside it. Next to the woman in the red apron, a man in blue-green clothes is grilling skewers with flames blazing beside them. The stall is surrounded by many people."
+    },
+    {
+        "second": 1,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TGG6yW_h5v4/output_frames/sec_1_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-9] The woman in the red apron places the fish one by one into the baking trays, which have been filled with oil. White smoke rises from the trays after the fish are placed inside. The man in blue-green clothes turns the skewers. The scene then switches to the grilled fish on the grill. A grilled fish is ready, its golden body drizzled with sauce and sprinkled with chili peppers and chopped green onions. Subsequently, the woman in the red apron smiles and picks up the cooked fish with her left hand."
+    },
+    {
+        "second": 2,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TGG6yW_h5v4/output_frames/sec_2_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-9] The woman in the red apron places the fish one by one into the baking trays, which have been filled with oil. White smoke rises from the trays after the fish are placed inside. The man in blue-green clothes turns the skewers. The scene then switches to the grilled fish on the grill. A grilled fish is ready, its golden body drizzled with sauce and sprinkled with chili peppers and chopped green onions. Subsequently, the woman in the red apron smiles and picks up the cooked fish with her left hand."
+    },
+    {
+        "second": 3,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TGG6yW_h5v4/output_frames/sec_3_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-9] The woman in the red apron places the fish one by one into the baking trays, which have been filled with oil. White smoke rises from the trays after the fish are placed inside. The man in blue-green clothes turns the skewers. The scene then switches to the grilled fish on the grill. A grilled fish is ready, its golden body drizzled with sauce and sprinkled with chili peppers and chopped green onions. Subsequently, the woman in the red apron smiles and picks up the cooked fish with her left hand."
+    },
+    {
+        "second": 4,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TGG6yW_h5v4/output_frames/sec_4_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-9] The woman in the red apron places the fish one by one into the baking trays, which have been filled with oil. White smoke rises from the trays after the fish are placed inside. The man in blue-green clothes turns the skewers. The scene then switches to the grilled fish on the grill. A grilled fish is ready, its golden body drizzled with sauce and sprinkled with chili peppers and chopped green onions. Subsequently, the woman in the red apron smiles and picks up the cooked fish with her left hand."
+    },
+    {
+        "second": 5,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TGG6yW_h5v4/output_frames/sec_5_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[0-9] The woman in the red apron places the fish one by one into the baking trays, which have been filled with oil. White smoke rises from the trays after the fish are placed inside. The man in blue-green clothes turns the skewers. The scene then switches to the grilled fish on the grill. A grilled fish is ready, its golden body drizzled with sauce and sprinkled with chili peppers and chopped green onions. Subsequently, the woman in the red apron smiles and picks up the cooked fish with her left hand."
+    },
+    {
+        "second": 6,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TGG6yW_h5v4/output_frames/sec_6_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[0-9] The woman in the red apron places the fish one by one into the baking trays, which have been filled with oil. White smoke rises from the trays after the fish are placed inside. The man in blue-green clothes turns the skewers. The scene then switches to the grilled fish on the grill. A grilled fish is ready, its golden body drizzled with sauce and sprinkled with chili peppers and chopped green onions. Subsequently, the woman in the red apron smiles and picks up the cooked fish with her left hand."
+    },
+    {
+        "second": 7,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TGG6yW_h5v4/output_frames/sec_7_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[0-9] The woman in the red apron places the fish one by one into the baking trays, which have been filled with oil. White smoke rises from the trays after the fish are placed inside. The man in blue-green clothes turns the skewers. The scene then switches to the grilled fish on the grill. A grilled fish is ready, its golden body drizzled with sauce and sprinkled with chili peppers and chopped green onions. Subsequently, the woman in the red apron smiles and picks up the cooked fish with her left hand."
+    },
+    {
+        "second": 8,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TGG6yW_h5v4/output_frames/sec_8_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[0-9] The woman in the red apron places the fish one by one into the baking trays, which have been filled with oil. White smoke rises from the trays after the fish are placed inside. The man in blue-green clothes turns the skewers. The scene then switches to the grilled fish on the grill. A grilled fish is ready, its golden body drizzled with sauce and sprinkled with chili peppers and chopped green onions. Subsequently, the woman in the red apron smiles and picks up the cooked fish with her left hand."
+    },
+    {
+        "second": 9,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TGG6yW_h5v4/output_frames/sec_9_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[0-9] The woman in the red apron places the fish one by one into the baking trays, which have been filled with oil. White smoke rises from the trays after the fish are placed inside. The man in blue-green clothes turns the skewers. The scene then switches to the grilled fish on the grill. A grilled fish is ready, its golden body drizzled with sauce and sprinkled with chili peppers and chopped green onions. Subsequently, the woman in the red apron smiles and picks up the cooked fish with her left hand."
+    }
+]

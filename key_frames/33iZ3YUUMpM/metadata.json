@@ -1,0 +1,51 @@
+[
+    {
+        "second": 0,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/33iZ3YUUMpM/output_frames/sec_0_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-0] The lower half of the screen shows a red worm against a white background, while the upper half is black."
+    },
+    {
+        "second": 1,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/33iZ3YUUMpM/output_frames/sec_1_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[0-3] In a dimly lit room with a white bed and objects hanging on the wall, a black shadow resembling a kitten seems to be picked up and moved to another location. A broken red heart emoji appears in the middle of the screen. The upper half has the subtitle \"FAKE\" while the lower half shows \"LORDSAMURAI.\""
+    },
+    {
+        "second": 2,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/33iZ3YUUMpM/output_frames/sec_2_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[0-3] In a dimly lit room with a white bed and objects hanging on the wall, a black shadow resembling a kitten seems to be picked up and moved to another location. A broken red heart emoji appears in the middle of the screen. The upper half has the subtitle \"FAKE\" while the lower half shows \"LORDSAMURAI.\""
+    },
+    {
+        "second": 3,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/33iZ3YUUMpM/output_frames/sec_3_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[0-3] In a dimly lit room with a white bed and objects hanging on the wall, a black shadow resembling a kitten seems to be picked up and moved to another location. A broken red heart emoji appears in the middle of the screen. The upper half has the subtitle \"FAKE\" while the lower half shows \"LORDSAMURAI.\""
+    },
+    {
+        "second": 4,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/33iZ3YUUMpM/output_frames/sec_4_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[3-6] The worm below closes its mouth. The scene transitions to a white kitten dancing on a dimly lit street with a car on the right. The upper subtitle changes to \"REAL.\" The emoji in the middle becomes a bandaged red heart."
+    },
+    {
+        "second": 5,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/33iZ3YUUMpM/output_frames/sec_5_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[3-6] The worm below closes its mouth. The scene transitions to a white kitten dancing on a dimly lit street with a car on the right. The upper subtitle changes to \"REAL.\" The emoji in the middle becomes a bandaged red heart."
+    },
+    {
+        "second": 6,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/33iZ3YUUMpM/output_frames/sec_6_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[3-6] The worm below closes its mouth. The scene transitions to a white kitten dancing on a dimly lit street with a car on the right. The upper subtitle changes to \"REAL.\" The emoji in the middle becomes a bandaged red heart."
+    }
+]

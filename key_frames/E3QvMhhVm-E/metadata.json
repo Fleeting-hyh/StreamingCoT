@@ -1,0 +1,58 @@
+[
+    {
+        "second": 0,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/E3QvMhhVm-E/output_frames/sec_0_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A man wearing a blue shirt and gray pants is building a gray brick wall. He is wearing blue gloves and holding a brick, ready to place it on the wall. In front of the shot is a section of laid bricks. The background is a field of yellow grass."
+    },
+    {
+        "second": 1,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/E3QvMhhVm-E/output_frames/sec_1_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[0-7] The worker picks up a brick and arranges it in order, then pulls it to make sure it is tightly seamed. Then another worker appears on the left carrying a brick to lay it up. Finally, another worker comes from behind and lays up another brick."
+    },
+    {
+        "second": 2,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/E3QvMhhVm-E/output_frames/sec_2_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-7] The worker picks up a brick and arranges it in order, then pulls it to make sure it is tightly seamed. Then another worker appears on the left carrying a brick to lay it up. Finally, another worker comes from behind and lays up another brick."
+    },
+    {
+        "second": 3,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/E3QvMhhVm-E/output_frames/sec_3_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[0-7] The worker picks up a brick and arranges it in order, then pulls it to make sure it is tightly seamed. Then another worker appears on the left carrying a brick to lay it up. Finally, another worker comes from behind and lays up another brick."
+    },
+    {
+        "second": 4,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/E3QvMhhVm-E/output_frames/sec_4_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[0-7] The worker picks up a brick and arranges it in order, then pulls it to make sure it is tightly seamed. Then another worker appears on the left carrying a brick to lay it up. Finally, another worker comes from behind and lays up another brick."
+    },
+    {
+        "second": 5,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/E3QvMhhVm-E/output_frames/sec_5_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-7] The worker picks up a brick and arranges it in order, then pulls it to make sure it is tightly seamed. Then another worker appears on the left carrying a brick to lay it up. Finally, another worker comes from behind and lays up another brick."
+    },
+    {
+        "second": 6,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/E3QvMhhVm-E/output_frames/sec_6_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[0-7] The worker picks up a brick and arranges it in order, then pulls it to make sure it is tightly seamed. Then another worker appears on the left carrying a brick to lay it up. Finally, another worker comes from behind and lays up another brick."
+    },
+    {
+        "second": 7,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/E3QvMhhVm-E/output_frames/sec_7_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-7] The worker picks up a brick and arranges it in order, then pulls it to make sure it is tightly seamed. Then another worker appears on the left carrying a brick to lay it up. Finally, another worker comes from behind and lays up another brick."
+    }
+]

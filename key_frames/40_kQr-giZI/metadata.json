@@ -1,0 +1,65 @@
+[
+    {
+        "second": 0,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/40_kQr-giZI/output_frames/sec_0_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A black-haired man stands in a bedroom with a row of cabinets on the left wall. He wears a gray vest, pulling at the hem with both hands. He's using a scary clown makeup filter. At the top of the screen is the English caption \"*GuguGaga*, MakeUp and 57%\"."
+    },
+    {
+        "second": 1,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/40_kQr-giZI/output_frames/sec_1_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[0-2] At first, the man wears a scary clown makeup filter featuring large chocolate-colored mouth and nose, black eyes, and raised eyebrows. He pulls at the hem of his vest with both hands and shakes his body."
+    },
+    {
+        "second": 2,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/40_kQr-giZI/output_frames/sec_2_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-2] At first, the man wears a scary clown makeup filter featuring large chocolate-colored mouth and nose, black eyes, and raised eyebrows. He pulls at the hem of his vest with both hands and shakes his body."
+    },
+    {
+        "second": 3,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/40_kQr-giZI/output_frames/sec_3_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[2-4] Then he switches to another scary clown makeup filter. The percentage at the top of the screen changes to 66%. This filter has a white theme color, yellow eyeballs, blue paint on the forehead, red paint on the nose, and a mouth effect that splits open to the cheeks."
+    },
+    {
+        "second": 4,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/40_kQr-giZI/output_frames/sec_4_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[2-4] Then he switches to another scary clown makeup filter. The percentage at the top of the screen changes to 66%. This filter has a white theme color, yellow eyeballs, blue paint on the forehead, red paint on the nose, and a mouth effect that splits open to the cheeks."
+    },
+    {
+        "second": 5,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/40_kQr-giZI/output_frames/sec_5_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[4-6] The filter switches again, showing a new scary makeup look. The percentage at the top of the screen changes to 89%. This makeup features exaggerated red lips, raised eyebrows, wide black eyeshadow, and blue eyeballs."
+    },
+    {
+        "second": 6,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/40_kQr-giZI/output_frames/sec_6_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[4-6] The filter switches again, showing a new scary makeup look. The percentage at the top of the screen changes to 89%. This makeup features exaggerated red lips, raised eyebrows, wide black eyeshadow, and blue eyeballs."
+    },
+    {
+        "second": 7,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/40_kQr-giZI/output_frames/sec_7_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[6-8] Finally, the scary makeup filter changes to a black and white robot mask filter. The man pulls at the hem of his vest with both hands and shakes his body. The image freezes on a close-up of the black and white robot mask filter's face. The percentage at the top of the screen changes to 105%."
+    },
+    {
+        "second": 8,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/40_kQr-giZI/output_frames/sec_8_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[6-8] Finally, the scary makeup filter changes to a black and white robot mask filter. The man pulls at the hem of his vest with both hands and shakes his body. The image freezes on a close-up of the black and white robot mask filter's face. The percentage at the top of the screen changes to 105%."
+    }
+]

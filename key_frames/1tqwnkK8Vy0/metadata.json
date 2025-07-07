@@ -1,0 +1,135 @@
+[
+    {
+        "second": 0,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1tqwnkK8Vy0/output_frames/sec_0_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[0-0] In the living room, a boy wearing a gray and white striped shirt and gray pants is standing barefoot on a puzzle mat with a red object in his right hand. A man wearing a red short-sleeved shirt and gray feather-patterned pants is facing away from the camera, squatting by the sofa. There are several RMB bills on the sofa. There is a white and gray refrigerator to the left of the sofa. The wall is white."
+    },
+    {
+        "second": 1,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1tqwnkK8Vy0/output_frames/sec_1_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[0-2] The boy walks over to face the camera, puts his left index finger to his lips, and makes a \"hush\" gesture. The subtitle \"hush\" appears on the screen."
+    },
+    {
+        "second": 2,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1tqwnkK8Vy0/output_frames/sec_2_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[0-2] The boy walks over to face the camera, puts his left index finger to his lips, and makes a \"hush\" gesture. The subtitle \"hush\" appears on the screen."
+    },
+    {
+        "second": 3,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1tqwnkK8Vy0/output_frames/sec_3_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[2-4] The boy puts the red object in his hand on his buttock, turns around, and jumps onto the man's back."
+    },
+    {
+        "second": 4,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1tqwnkK8Vy0/output_frames/sec_4_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[2-4] The boy puts the red object in his hand on his buttock, turns around, and jumps onto the man's back."
+    },
+    {
+        "second": 5,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1tqwnkK8Vy0/output_frames/sec_5_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[4-9] The man stands up with the boy on his back and turns to face the camera. He sits down on the sofa with the boy on his back, and the boy hugs the man's neck tightly. The man stands up again with the boy on his back, turns his back to the camera, and continues to squat next to the sofa. There are several 100 yuan bills stuck to the boy's buttock."
+    },
+    {
+        "second": 6,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1tqwnkK8Vy0/output_frames/sec_6_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[4-9] The man stands up with the boy on his back and turns to face the camera. He sits down on the sofa with the boy on his back, and the boy hugs the man's neck tightly. The man stands up again with the boy on his back, turns his back to the camera, and continues to squat next to the sofa. There are several 100 yuan bills stuck to the boy's buttock."
+    },
+    {
+        "second": 7,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1tqwnkK8Vy0/output_frames/sec_7_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[4-9] The man stands up with the boy on his back and turns to face the camera. He sits down on the sofa with the boy on his back, and the boy hugs the man's neck tightly. The man stands up again with the boy on his back, turns his back to the camera, and continues to squat next to the sofa. There are several 100 yuan bills stuck to the boy's buttock."
+    },
+    {
+        "second": 8,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1tqwnkK8Vy0/output_frames/sec_8_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[4-9] The man stands up with the boy on his back and turns to face the camera. He sits down on the sofa with the boy on his back, and the boy hugs the man's neck tightly. The man stands up again with the boy on his back, turns his back to the camera, and continues to squat next to the sofa. There are several 100 yuan bills stuck to the boy's buttock."
+    },
+    {
+        "second": 9,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1tqwnkK8Vy0/output_frames/sec_9_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[4-9] The man stands up with the boy on his back and turns to face the camera. He sits down on the sofa with the boy on his back, and the boy hugs the man's neck tightly. The man stands up again with the boy on his back, turns his back to the camera, and continues to squat next to the sofa. There are several 100 yuan bills stuck to the boy's buttock."
+    },
+    {
+        "second": 10,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1tqwnkK8Vy0/output_frames/sec_10_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[9-11] At this time, a hand enters the screen and takes the money from the boy's buttock."
+    },
+    {
+        "second": 11,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1tqwnkK8Vy0/output_frames/sec_11_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[9-11] At this time, a hand enters the screen and takes the money from the boy's buttock."
+    },
+    {
+        "second": 12,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1tqwnkK8Vy0/output_frames/sec_12_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[11-18] Then, the man seems to have noticed something and pulls the boy off his back. He turns the boy around and carefully examines his whole body. After finding nothing, he pats the boy's buttock, and the boy turns and walks out of the picture. The man turns around and continues to squat by the sofa with his back to the camera."
+    },
+    {
+        "second": 13,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1tqwnkK8Vy0/output_frames/sec_13_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[11-18] Then, the man seems to have noticed something and pulls the boy off his back. He turns the boy around and carefully examines his whole body. After finding nothing, he pats the boy's buttock, and the boy turns and walks out of the picture. The man turns around and continues to squat by the sofa with his back to the camera."
+    },
+    {
+        "second": 14,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1tqwnkK8Vy0/output_frames/sec_14_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[11-18] Then, the man seems to have noticed something and pulls the boy off his back. He turns the boy around and carefully examines his whole body. After finding nothing, he pats the boy's buttock, and the boy turns and walks out of the picture. The man turns around and continues to squat by the sofa with his back to the camera."
+    },
+    {
+        "second": 15,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1tqwnkK8Vy0/output_frames/sec_15_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[11-18] Then, the man seems to have noticed something and pulls the boy off his back. He turns the boy around and carefully examines his whole body. After finding nothing, he pats the boy's buttock, and the boy turns and walks out of the picture. The man turns around and continues to squat by the sofa with his back to the camera."
+    },
+    {
+        "second": 16,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1tqwnkK8Vy0/output_frames/sec_16_idx_24.jpg",
+        "fps": 30,
+        "explanation": "[11-18] Then, the man seems to have noticed something and pulls the boy off his back. He turns the boy around and carefully examines his whole body. After finding nothing, he pats the boy's buttock, and the boy turns and walks out of the picture. The man turns around and continues to squat by the sofa with his back to the camera."
+    },
+    {
+        "second": 17,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1tqwnkK8Vy0/output_frames/sec_17_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[11-18] Then, the man seems to have noticed something and pulls the boy off his back. He turns the boy around and carefully examines his whole body. After finding nothing, he pats the boy's buttock, and the boy turns and walks out of the picture. The man turns around and continues to squat by the sofa with his back to the camera."
+    },
+    {
+        "second": 18,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1tqwnkK8Vy0/output_frames/sec_18_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[11-18] Then, the man seems to have noticed something and pulls the boy off his back. He turns the boy around and carefully examines his whole body. After finding nothing, he pats the boy's buttock, and the boy turns and walks out of the picture. The man turns around and continues to squat by the sofa with his back to the camera."
+    }
+]

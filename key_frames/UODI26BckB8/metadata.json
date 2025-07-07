@@ -1,0 +1,51 @@
+[
+    {
+        "second": 0,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UODI26BckB8/output_frames/sec_0_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[0-0] In a bright room, a man wearing a red T-shirt is standing by a table, pouring drinks into two glasses. Under the table, a woman and a little girl are each biting on a straw. The woman is wearing a pink T-shirt and khaki pants, while the little girl is wearing a yellow T-shirt and purple pants."
+    },
+    {
+        "second": 1,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UODI26BckB8/output_frames/sec_1_idx_1.jpg",
+        "fps": 60,
+        "explanation": "[0-6] The man continues to pour the drinks into the glasses, looking very surprised with wide eyes and a slightly open mouth. Under the table, the woman and the little girl are still biting on the straws, making drinking motions."
+    },
+    {
+        "second": 2,
+        "frame_index": 33,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UODI26BckB8/output_frames/sec_2_idx_33.jpg",
+        "fps": 60,
+        "explanation": "[0-6] The man continues to pour the drinks into the glasses, looking very surprised with wide eyes and a slightly open mouth. Under the table, the woman and the little girl are still biting on the straws, making drinking motions."
+    },
+    {
+        "second": 3,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UODI26BckB8/output_frames/sec_3_idx_8.jpg",
+        "fps": 60,
+        "explanation": "[0-6] The man continues to pour the drinks into the glasses, looking very surprised with wide eyes and a slightly open mouth. Under the table, the woman and the little girl are still biting on the straws, making drinking motions."
+    },
+    {
+        "second": 4,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UODI26BckB8/output_frames/sec_4_idx_2.jpg",
+        "fps": 60,
+        "explanation": "[0-6] The man continues to pour the drinks into the glasses, looking very surprised with wide eyes and a slightly open mouth. Under the table, the woman and the little girl are still biting on the straws, making drinking motions."
+    },
+    {
+        "second": 5,
+        "frame_index": 47,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UODI26BckB8/output_frames/sec_5_idx_47.jpg",
+        "fps": 60,
+        "explanation": "[0-6] The man continues to pour the drinks into the glasses, looking very surprised with wide eyes and a slightly open mouth. Under the table, the woman and the little girl are still biting on the straws, making drinking motions."
+    },
+    {
+        "second": 6,
+        "frame_index": 33,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UODI26BckB8/output_frames/sec_6_idx_33.jpg",
+        "fps": 60,
+        "explanation": "[0-6] The man continues to pour the drinks into the glasses, looking very surprised with wide eyes and a slightly open mouth. Under the table, the woman and the little girl are still biting on the straws, making drinking motions."
+    }
+]

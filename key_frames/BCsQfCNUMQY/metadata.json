@@ -1,0 +1,51 @@
+[
+    {
+        "second": 0,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/BCsQfCNUMQY/output_frames/sec_0_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[0-0] The video starts with a window with a white frame. There is a fly on the window frame, and outside the window, you can see a green lawn, trees, and blue sky. There are white English subtitles in the lower-middle of the video."
+    },
+    {
+        "second": 1,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/BCsQfCNUMQY/output_frames/sec_1_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Then the fly on the window starts to crawl, and a hand wearing a ring enters from the right side holding a white paper towel."
+    },
+    {
+        "second": 2,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/BCsQfCNUMQY/output_frames/sec_2_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Then the fly on the window starts to crawl, and a hand wearing a ring enters from the right side holding a white paper towel."
+    },
+    {
+        "second": 3,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/BCsQfCNUMQY/output_frames/sec_3_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Then the fly on the window starts to crawl, and a hand wearing a ring enters from the right side holding a white paper towel."
+    },
+    {
+        "second": 4,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/BCsQfCNUMQY/output_frames/sec_4_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Then the fly on the window starts to crawl, and a hand wearing a ring enters from the right side holding a white paper towel."
+    },
+    {
+        "second": 5,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/BCsQfCNUMQY/output_frames/sec_5_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[4-6] Then the hand holding the paper towel catches the fly with the paper towel and shows the fly to the front."
+    },
+    {
+        "second": 6,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/BCsQfCNUMQY/output_frames/sec_6_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[4-6] Then the hand holding the paper towel catches the fly with the paper towel and shows the fly to the front."
+    }
+]

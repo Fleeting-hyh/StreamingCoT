@@ -1,0 +1,58 @@
+[
+    {
+        "second": 0,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/H3M6O1unAMI/output_frames/sec_0_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[0-0] The video is a split screen. The upper half shows a roadside scene with a man in a pink shirt and helmet bending over a motorcycle. A snake is wrapped around the motorcycle's rear wheel. The man is holding a yellow flip-flop in his left hand, pressing down on the snake's head. Green plants can be seen in the background. The lower half shows a man wearing headphones sitting on a chair with a microphone in front of him. The background is a dark gray curtain."
+    },
+    {
+        "second": 1,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/H3M6O1unAMI/output_frames/sec_1_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[0-4] First, the man in the helmet releases his right hand that was gripping the snake's tail. A black dynamic arrow appears in the lower right corner of the upper screen, pointing to the man's left hand. The arrow disappears, and the man presses the flip-flop on the ground with both hands. The snake's tail wraps around his left wrist. The man with headphones in the lower screen smirks, then closes his mouth, his lips still slightly upturned. He shakes his head and then grins, baring his teeth."
+    },
+    {
+        "second": 2,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/H3M6O1unAMI/output_frames/sec_2_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[0-4] First, the man in the helmet releases his right hand that was gripping the snake's tail. A black dynamic arrow appears in the lower right corner of the upper screen, pointing to the man's left hand. The arrow disappears, and the man presses the flip-flop on the ground with both hands. The snake's tail wraps around his left wrist. The man with headphones in the lower screen smirks, then closes his mouth, his lips still slightly upturned. He shakes his head and then grins, baring his teeth."
+    },
+    {
+        "second": 3,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/H3M6O1unAMI/output_frames/sec_3_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[0-4] First, the man in the helmet releases his right hand that was gripping the snake's tail. A black dynamic arrow appears in the lower right corner of the upper screen, pointing to the man's left hand. The arrow disappears, and the man presses the flip-flop on the ground with both hands. The snake's tail wraps around his left wrist. The man with headphones in the lower screen smirks, then closes his mouth, his lips still slightly upturned. He shakes his head and then grins, baring his teeth."
+    },
+    {
+        "second": 4,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/H3M6O1unAMI/output_frames/sec_4_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[0-4] First, the man in the helmet releases his right hand that was gripping the snake's tail. A black dynamic arrow appears in the lower right corner of the upper screen, pointing to the man's left hand. The arrow disappears, and the man presses the flip-flop on the ground with both hands. The snake's tail wraps around his left wrist. The man with headphones in the lower screen smirks, then closes his mouth, his lips still slightly upturned. He shakes his head and then grins, baring his teeth."
+    },
+    {
+        "second": 5,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/H3M6O1unAMI/output_frames/sec_5_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[4-7] Finally, the man in the helmet keeps pressing down on the flip-flop with his left hand and reaches under it with his right hand, grabbing the snake's head and lifting it up. The camera pans left, revealing a man in a white shirt and a black helmet. He is holding a white chicken in his left hand and recording with a red mobile phone in his right hand. The man with headphones in the lower screen closes his eyes, pouts, bares his teeth again, and shakes his head while pouting."
+    },
+    {
+        "second": 6,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/H3M6O1unAMI/output_frames/sec_6_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[4-7] Finally, the man in the helmet keeps pressing down on the flip-flop with his left hand and reaches under it with his right hand, grabbing the snake's head and lifting it up. The camera pans left, revealing a man in a white shirt and a black helmet. He is holding a white chicken in his left hand and recording with a red mobile phone in his right hand. The man with headphones in the lower screen closes his eyes, pouts, bares his teeth again, and shakes his head while pouting."
+    },
+    {
+        "second": 7,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/H3M6O1unAMI/output_frames/sec_7_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[4-7] Finally, the man in the helmet keeps pressing down on the flip-flop with his left hand and reaches under it with his right hand, grabbing the snake's head and lifting it up. The camera pans left, revealing a man in a white shirt and a black helmet. He is holding a white chicken in his left hand and recording with a red mobile phone in his right hand. The man with headphones in the lower screen closes his eyes, pouts, bares his teeth again, and shakes his head while pouting."
+    }
+]

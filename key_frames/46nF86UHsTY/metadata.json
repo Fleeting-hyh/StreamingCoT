@@ -1,0 +1,79 @@
+[
+    {
+        "second": 0,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/46nF86UHsTY/output_frames/sec_0_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[0-0] On a football field, all athletes are looking at the athlete in a purple jersey on the edge of the field, with a yellow football at his feet. The stands are filled with spectators."
+    },
+    {
+        "second": 1,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/46nF86UHsTY/output_frames/sec_1_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Next, the athlete in the purple jersey with the yellow football passes the ball to the purple jersey number six. The white jersey number twelve runs to grab the ball. After receiving the ball, the purple jersey number six passes it to his teammate in the purple jersey on the right. Then the purple-shirted athlete on the right kicks the ball away, and the white jersey number ten and the purple jersey number six rush for the ball again."
+    },
+    {
+        "second": 2,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/46nF86UHsTY/output_frames/sec_2_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Next, the athlete in the purple jersey with the yellow football passes the ball to the purple jersey number six. The white jersey number twelve runs to grab the ball. After receiving the ball, the purple jersey number six passes it to his teammate in the purple jersey on the right. Then the purple-shirted athlete on the right kicks the ball away, and the white jersey number ten and the purple jersey number six rush for the ball again."
+    },
+    {
+        "second": 3,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/46nF86UHsTY/output_frames/sec_3_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Next, the athlete in the purple jersey with the yellow football passes the ball to the purple jersey number six. The white jersey number twelve runs to grab the ball. After receiving the ball, the purple jersey number six passes it to his teammate in the purple jersey on the right. Then the purple-shirted athlete on the right kicks the ball away, and the white jersey number ten and the purple jersey number six rush for the ball again."
+    },
+    {
+        "second": 4,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/46nF86UHsTY/output_frames/sec_4_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[3-7] However, the white jersey number ten failed to get the ball, and then the purple jersey number six ran forward with the ball."
+    },
+    {
+        "second": 5,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/46nF86UHsTY/output_frames/sec_5_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[3-7] However, the white jersey number ten failed to get the ball, and then the purple jersey number six ran forward with the ball."
+    },
+    {
+        "second": 6,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/46nF86UHsTY/output_frames/sec_6_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[3-7] However, the white jersey number ten failed to get the ball, and then the purple jersey number six ran forward with the ball."
+    },
+    {
+        "second": 7,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/46nF86UHsTY/output_frames/sec_7_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[3-7] However, the white jersey number ten failed to get the ball, and then the purple jersey number six ran forward with the ball."
+    },
+    {
+        "second": 8,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/46nF86UHsTY/output_frames/sec_8_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[7-10] Then the purple jersey number six passes the ball to his teammate in the purple jersey number twenty-two near the goal. Subsequently, the white jersey number six and the purple jersey number twenty-two scramble for the ball, and they kick it away. Then the goalkeeper in blue in front of the goal runs towards the football."
+    },
+    {
+        "second": 9,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/46nF86UHsTY/output_frames/sec_9_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[7-10] Then the purple jersey number six passes the ball to his teammate in the purple jersey number twenty-two near the goal. Subsequently, the white jersey number six and the purple jersey number twenty-two scramble for the ball, and they kick it away. Then the goalkeeper in blue in front of the goal runs towards the football."
+    },
+    {
+        "second": 10,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/46nF86UHsTY/output_frames/sec_10_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[7-10] Then the purple jersey number six passes the ball to his teammate in the purple jersey number twenty-two near the goal. Subsequently, the white jersey number six and the purple jersey number twenty-two scramble for the ball, and they kick it away. Then the goalkeeper in blue in front of the goal runs towards the football."
+    }
+]

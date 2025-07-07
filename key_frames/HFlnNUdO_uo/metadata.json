@@ -1,0 +1,65 @@
+[
+    {
+        "second": 0,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HFlnNUdO_uo/output_frames/sec_0_idx_7.jpg",
+        "fps": 60,
+        "explanation": "[0-0] In a room, a man wearing a red headscarf and pink clothes sits excitedly at a wooden table with several boxes of Cadbury chocolates. He holds a glass of milk in his other hand, ready to conduct a chocolate milk-dipping test. The background features a white wall decorated with picture frames."
+    },
+    {
+        "second": 1,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HFlnNUdO_uo/output_frames/sec_1_idx_23.jpg",
+        "fps": 60,
+        "explanation": "[0-4] The scene switches to the hands of the man in pink. He holds a chocolate-coated wafer biscuit, preparing to dip it into the milk. The text \"Easy\" appears. Next, the man's hands hold a Cadbury chocolate chip cookie and dip it into the milk. The text \"Hard\" appears. As he tries to take the cookie out, it breaks and falls into the milk."
+    },
+    {
+        "second": 2,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HFlnNUdO_uo/output_frames/sec_2_idx_18.jpg",
+        "fps": 60,
+        "explanation": "[0-4] The scene switches to the hands of the man in pink. He holds a chocolate-coated wafer biscuit, preparing to dip it into the milk. The text \"Easy\" appears. Next, the man's hands hold a Cadbury chocolate chip cookie and dip it into the milk. The text \"Hard\" appears. As he tries to take the cookie out, it breaks and falls into the milk."
+    },
+    {
+        "second": 3,
+        "frame_index": 58,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HFlnNUdO_uo/output_frames/sec_3_idx_58.jpg",
+        "fps": 60,
+        "explanation": "[0-4] The scene switches to the hands of the man in pink. He holds a chocolate-coated wafer biscuit, preparing to dip it into the milk. The text \"Easy\" appears. Next, the man's hands hold a Cadbury chocolate chip cookie and dip it into the milk. The text \"Hard\" appears. As he tries to take the cookie out, it breaks and falls into the milk."
+    },
+    {
+        "second": 4,
+        "frame_index": 40,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HFlnNUdO_uo/output_frames/sec_4_idx_40.jpg",
+        "fps": 60,
+        "explanation": "[0-4] The scene switches to the hands of the man in pink. He holds a chocolate-coated wafer biscuit, preparing to dip it into the milk. The text \"Easy\" appears. Next, the man's hands hold a Cadbury chocolate chip cookie and dip it into the milk. The text \"Hard\" appears. As he tries to take the cookie out, it breaks and falls into the milk."
+    },
+    {
+        "second": 5,
+        "frame_index": 32,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HFlnNUdO_uo/output_frames/sec_5_idx_32.jpg",
+        "fps": 60,
+        "explanation": "[4-8] The scene then switches again. The man in pink holds a honeycomb chocolate bar and dips it into the milk. The text \"Impossible\" appears. It also breaks. He then takes a round chocolate biscuit, preparing to dip it into the milk. The text \"Mythic\" appears. The man takes the round chocolate biscuit out, leaving only the red candy center."
+    },
+    {
+        "second": 6,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HFlnNUdO_uo/output_frames/sec_6_idx_4.jpg",
+        "fps": 60,
+        "explanation": "[4-8] The scene then switches again. The man in pink holds a honeycomb chocolate bar and dips it into the milk. The text \"Impossible\" appears. It also breaks. He then takes a round chocolate biscuit, preparing to dip it into the milk. The text \"Mythic\" appears. The man takes the round chocolate biscuit out, leaving only the red candy center."
+    },
+    {
+        "second": 7,
+        "frame_index": 43,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HFlnNUdO_uo/output_frames/sec_7_idx_43.jpg",
+        "fps": 60,
+        "explanation": "[4-8] The scene then switches again. The man in pink holds a honeycomb chocolate bar and dips it into the milk. The text \"Impossible\" appears. It also breaks. He then takes a round chocolate biscuit, preparing to dip it into the milk. The text \"Mythic\" appears. The man takes the round chocolate biscuit out, leaving only the red candy center."
+    },
+    {
+        "second": 8,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HFlnNUdO_uo/output_frames/sec_8_idx_19.jpg",
+        "fps": 60,
+        "explanation": "[4-8] The scene then switches again. The man in pink holds a honeycomb chocolate bar and dips it into the milk. The text \"Impossible\" appears. It also breaks. He then takes a round chocolate biscuit, preparing to dip it into the milk. The text \"Mythic\" appears. The man takes the round chocolate biscuit out, leaving only the red candy center."
+    }
+]

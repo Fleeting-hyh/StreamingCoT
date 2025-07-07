@@ -1,0 +1,51 @@
+[
+    {
+        "second": 0,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FjN3KLWUoFU/output_frames/sec_0_idx_4.jpg",
+        "fps": 25,
+        "explanation": "[0-0] An old man in a red shirt and black hat is wearing black gloves and holding a revolver. Behind him is a field of dry grass, and the sky is filled with white clouds."
+    },
+    {
+        "second": 1,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FjN3KLWUoFU/output_frames/sec_1_idx_14.jpg",
+        "fps": 25,
+        "explanation": "[0-2] Then, the old man in the red shirt cocks the revolver with his left hand and fires a shot. White smoke comes out of the barrel. He then cocks the revolver again with his left hand and fires two shots. White smoke comes out of the barrel again. Afterwards, the scene changes to the old man in the red shirt in front of a yellow cabin. He cocks the revolver with his left hand and fires a shot. White smoke comes out of the barrel."
+    },
+    {
+        "second": 2,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FjN3KLWUoFU/output_frames/sec_2_idx_20.jpg",
+        "fps": 25,
+        "explanation": "[0-2] Then, the old man in the red shirt cocks the revolver with his left hand and fires a shot. White smoke comes out of the barrel. He then cocks the revolver again with his left hand and fires two shots. White smoke comes out of the barrel again. Afterwards, the scene changes to the old man in the red shirt in front of a yellow cabin. He cocks the revolver with his left hand and fires a shot. White smoke comes out of the barrel."
+    },
+    {
+        "second": 3,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FjN3KLWUoFU/output_frames/sec_3_idx_4.jpg",
+        "fps": 25,
+        "explanation": "[2-6] Immediately, the camera cuts back to the old man in the red shirt in the field of dry grass. He cocks the revolver with his left hand and fires two shots. White smoke comes out of the barrel. Then the scene changes again, the old man in the red shirt cocks the revolver with his left hand and fires two shots. White smoke comes out of the barrel."
+    },
+    {
+        "second": 4,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FjN3KLWUoFU/output_frames/sec_4_idx_20.jpg",
+        "fps": 25,
+        "explanation": "[2-6] Immediately, the camera cuts back to the old man in the red shirt in the field of dry grass. He cocks the revolver with his left hand and fires two shots. White smoke comes out of the barrel. Then the scene changes again, the old man in the red shirt cocks the revolver with his left hand and fires two shots. White smoke comes out of the barrel."
+    },
+    {
+        "second": 5,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FjN3KLWUoFU/output_frames/sec_5_idx_17.jpg",
+        "fps": 25,
+        "explanation": "[2-6] Immediately, the camera cuts back to the old man in the red shirt in the field of dry grass. He cocks the revolver with his left hand and fires two shots. White smoke comes out of the barrel. Then the scene changes again, the old man in the red shirt cocks the revolver with his left hand and fires two shots. White smoke comes out of the barrel."
+    },
+    {
+        "second": 6,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FjN3KLWUoFU/output_frames/sec_6_idx_12.jpg",
+        "fps": 25,
+        "explanation": "[2-6] Immediately, the camera cuts back to the old man in the red shirt in the field of dry grass. He cocks the revolver with his left hand and fires two shots. White smoke comes out of the barrel. Then the scene changes again, the old man in the red shirt cocks the revolver with his left hand and fires two shots. White smoke comes out of the barrel."
+    }
+]

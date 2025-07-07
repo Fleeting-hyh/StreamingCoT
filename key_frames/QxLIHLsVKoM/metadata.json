@@ -1,0 +1,65 @@
+[
+    {
+        "second": 0,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QxLIHLsVKoM/output_frames/sec_0_idx_3.jpg",
+        "fps": 24,
+        "explanation": "[0-0] In a dance studio with purple walls, a man wearing a gray and white top and black pants is holding a mobile phone. Beside him is a girl wearing a green top and jeans."
+    },
+    {
+        "second": 1,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QxLIHLsVKoM/output_frames/sec_1_idx_11.jpg",
+        "fps": 24,
+        "explanation": "[0-3] The man looks at the camera and then walks forward with the same movements and rhythm as the little girl. Afterwards, the man and the girl shake their right legs twice together."
+    },
+    {
+        "second": 2,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QxLIHLsVKoM/output_frames/sec_2_idx_0.jpg",
+        "fps": 24,
+        "explanation": "[0-3] The man looks at the camera and then walks forward with the same movements and rhythm as the little girl. Afterwards, the man and the girl shake their right legs twice together."
+    },
+    {
+        "second": 3,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QxLIHLsVKoM/output_frames/sec_3_idx_23.jpg",
+        "fps": 24,
+        "explanation": "[0-3] The man looks at the camera and then walks forward with the same movements and rhythm as the little girl. Afterwards, the man and the girl shake their right legs twice together."
+    },
+    {
+        "second": 4,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QxLIHLsVKoM/output_frames/sec_4_idx_20.jpg",
+        "fps": 24,
+        "explanation": "[3-8] Subsequently, the man moves twice to the left and the girl to the right, then they face each other and shake their left legs twice. Following that, they turn around together, and then the man shakes his right leg while the girl shakes her left leg."
+    },
+    {
+        "second": 5,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QxLIHLsVKoM/output_frames/sec_5_idx_1.jpg",
+        "fps": 24,
+        "explanation": "[3-8] Subsequently, the man moves twice to the left and the girl to the right, then they face each other and shake their left legs twice. Following that, they turn around together, and then the man shakes his right leg while the girl shakes her left leg."
+    },
+    {
+        "second": 6,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QxLIHLsVKoM/output_frames/sec_6_idx_13.jpg",
+        "fps": 24,
+        "explanation": "[3-8] Subsequently, the man moves twice to the left and the girl to the right, then they face each other and shake their left legs twice. Following that, they turn around together, and then the man shakes his right leg while the girl shakes her left leg."
+    },
+    {
+        "second": 7,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QxLIHLsVKoM/output_frames/sec_7_idx_2.jpg",
+        "fps": 24,
+        "explanation": "[3-8] Subsequently, the man moves twice to the left and the girl to the right, then they face each other and shake their left legs twice. Following that, they turn around together, and then the man shakes his right leg while the girl shakes her left leg."
+    },
+    {
+        "second": 8,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QxLIHLsVKoM/output_frames/sec_8_idx_14.jpg",
+        "fps": 24,
+        "explanation": "[3-8] Subsequently, the man moves twice to the left and the girl to the right, then they face each other and shake their left legs twice. Following that, they turn around together, and then the man shakes his right leg while the girl shakes her left leg."
+    }
+]

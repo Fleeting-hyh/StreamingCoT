@@ -1,0 +1,44 @@
+[
+    {
+        "second": 0,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-4KQhtA3WOQ/output_frames/sec_0_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[0-0] On a football training ground, a player in purple and yellow training wear faces the goal. In the distance, a person in purple and yellow training wear can be seen next to the goal. In the background are blue stands, empty of people. On the left side is a person in black clothing, with a soccer ball at their feet. There is a white circular icon at the top of the screen."
+    },
+    {
+        "second": 1,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-4KQhtA3WOQ/output_frames/sec_1_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Next, the person in black clothing kicks the soccer ball to the player in purple and yellow training wear on the field. The player then lifts their right foot and shoots towards the opposite goal."
+    },
+    {
+        "second": 2,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-4KQhtA3WOQ/output_frames/sec_2_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Next, the person in black clothing kicks the soccer ball to the player in purple and yellow training wear on the field. The player then lifts their right foot and shoots towards the opposite goal."
+    },
+    {
+        "second": 3,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-4KQhtA3WOQ/output_frames/sec_3_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Next, the person in black clothing kicks the soccer ball to the player in purple and yellow training wear on the field. The player then lifts their right foot and shoots towards the opposite goal."
+    },
+    {
+        "second": 4,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-4KQhtA3WOQ/output_frames/sec_4_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[3-5] Immediately, a goalkeeper appears from the right side, diving to save the incoming shot. However, the goalkeeper fails to touch the ball, and the ball flies into the goal. The goalkeeper falls to the ground, and a player standing to the left of the goal raises their arms in celebration. The camera then moves to the right, revealing more players on the field and soccer balls scattered on the ground. As the camera pans right, the surrounding scenery moves left. The camera then focuses on the player who took the shot, smiling happily and walking forward, looking towards the opposite stands."
+    },
+    {
+        "second": 5,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-4KQhtA3WOQ/output_frames/sec_5_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[3-5] Immediately, a goalkeeper appears from the right side, diving to save the incoming shot. However, the goalkeeper fails to touch the ball, and the ball flies into the goal. The goalkeeper falls to the ground, and a player standing to the left of the goal raises their arms in celebration. The camera then moves to the right, revealing more players on the field and soccer balls scattered on the ground. As the camera pans right, the surrounding scenery moves left. The camera then focuses on the player who took the shot, smiling happily and walking forward, looking towards the opposite stands."
+    }
+]

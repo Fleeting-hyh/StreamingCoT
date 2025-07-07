@@ -1,0 +1,51 @@
+[
+    {
+        "second": 0,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6hW5tT5W1Wo/output_frames/sec_0_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[0-0] There is a device made of a glass box with a rat trapped inside. There is an opening on top of the device connected to a transparent glass jar containing food. One rat is trying to climb into the glass jar, while another rat is outside the box, with four crying emojis on top."
+    },
+    {
+        "second": 1,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6hW5tT5W1Wo/output_frames/sec_1_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[0-2] The rat trying to climb into the jar successfully enters and starts eating the food inside. It touches a mechanism, causing the cardboard holding the glass jar to overturn. The rat rolls down with the cardboard and falls to the bottom of the box. The rat outside the box climbs onto the box."
+    },
+    {
+        "second": 2,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6hW5tT5W1Wo/output_frames/sec_2_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[0-2] The rat trying to climb into the jar successfully enters and starts eating the food inside. It touches a mechanism, causing the cardboard holding the glass jar to overturn. The rat rolls down with the cardboard and falls to the bottom of the box. The rat outside the box climbs onto the box."
+    },
+    {
+        "second": 3,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6hW5tT5W1Wo/output_frames/sec_3_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[2-6] This last rat climbs to the top of the box and successfully enters the glass jar. It also starts eating the food inside. The glass jar overturns again, and the rat rolls down with the cardboard, falling to the bottom of the box, while another rat remains outside the box."
+    },
+    {
+        "second": 4,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6hW5tT5W1Wo/output_frames/sec_4_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[2-6] This last rat climbs to the top of the box and successfully enters the glass jar. It also starts eating the food inside. The glass jar overturns again, and the rat rolls down with the cardboard, falling to the bottom of the box, while another rat remains outside the box."
+    },
+    {
+        "second": 5,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6hW5tT5W1Wo/output_frames/sec_5_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[2-6] This last rat climbs to the top of the box and successfully enters the glass jar. It also starts eating the food inside. The glass jar overturns again, and the rat rolls down with the cardboard, falling to the bottom of the box, while another rat remains outside the box."
+    },
+    {
+        "second": 6,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6hW5tT5W1Wo/output_frames/sec_6_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[2-6] This last rat climbs to the top of the box and successfully enters the glass jar. It also starts eating the food inside. The glass jar overturns again, and the rat rolls down with the cardboard, falling to the bottom of the box, while another rat remains outside the box."
+    }
+]

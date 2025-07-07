@@ -1,0 +1,359 @@
+[
+    {
+        "second": 0,
+        "frame_index": 32,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/By9mpKtFo68/output_frames/sec_0_idx_32.jpg",
+        "fps": 60,
+        "explanation": "[0-0] A chef in a black uniform is preparing ingredients in a kitchen. He wears white gloves and holds a bowl of fresh cabbage. A knife is placed on a white countertop."
+    },
+    {
+        "second": 1,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/By9mpKtFo68/output_frames/sec_1_idx_13.jpg",
+        "fps": 60,
+        "explanation": "[0-3] Next, the chef places a bowl of fresh cabbage on the countertop, followed by a box of freshly cut tomato slices, a box of fresh lettuce leaves, a box of red ham slices, a box of yellow sauce, and a stainless steel container with tomato slices covered in plastic wrap. The chef opens the lid of the stainless steel container, revealing golden egg salad dressing inside."
+    },
+    {
+        "second": 2,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/By9mpKtFo68/output_frames/sec_2_idx_25.jpg",
+        "fps": 60,
+        "explanation": "[0-3] Next, the chef places a bowl of fresh cabbage on the countertop, followed by a box of freshly cut tomato slices, a box of fresh lettuce leaves, a box of red ham slices, a box of yellow sauce, and a stainless steel container with tomato slices covered in plastic wrap. The chef opens the lid of the stainless steel container, revealing golden egg salad dressing inside."
+    },
+    {
+        "second": 3,
+        "frame_index": 33,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/By9mpKtFo68/output_frames/sec_3_idx_33.jpg",
+        "fps": 60,
+        "explanation": "[0-3] Next, the chef places a bowl of fresh cabbage on the countertop, followed by a box of freshly cut tomato slices, a box of fresh lettuce leaves, a box of red ham slices, a box of yellow sauce, and a stainless steel container with tomato slices covered in plastic wrap. The chef opens the lid of the stainless steel container, revealing golden egg salad dressing inside."
+    },
+    {
+        "second": 4,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/By9mpKtFo68/output_frames/sec_4_idx_25.jpg",
+        "fps": 60,
+        "explanation": "[3-9] Then the scene switches to bread slicing. The chef uses a long knife to cut off the edges of the toast and neatly arranges the sliced bread on wrapping paper."
+    },
+    {
+        "second": 5,
+        "frame_index": 50,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/By9mpKtFo68/output_frames/sec_5_idx_50.jpg",
+        "fps": 60,
+        "explanation": "[3-9] Then the scene switches to bread slicing. The chef uses a long knife to cut off the edges of the toast and neatly arranges the sliced bread on wrapping paper."
+    },
+    {
+        "second": 6,
+        "frame_index": 45,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/By9mpKtFo68/output_frames/sec_6_idx_45.jpg",
+        "fps": 60,
+        "explanation": "[3-9] Then the scene switches to bread slicing. The chef uses a long knife to cut off the edges of the toast and neatly arranges the sliced bread on wrapping paper."
+    },
+    {
+        "second": 7,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/By9mpKtFo68/output_frames/sec_7_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[3-9] Then the scene switches to bread slicing. The chef uses a long knife to cut off the edges of the toast and neatly arranges the sliced bread on wrapping paper."
+    },
+    {
+        "second": 8,
+        "frame_index": 57,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/By9mpKtFo68/output_frames/sec_8_idx_57.jpg",
+        "fps": 60,
+        "explanation": "[3-9] Then the scene switches to bread slicing. The chef uses a long knife to cut off the edges of the toast and neatly arranges the sliced bread on wrapping paper."
+    },
+    {
+        "second": 9,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/By9mpKtFo68/output_frames/sec_9_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[3-9] Then the scene switches to bread slicing. The chef uses a long knife to cut off the edges of the toast and neatly arranges the sliced bread on wrapping paper."
+    },
+    {
+        "second": 10,
+        "frame_index": 33,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/By9mpKtFo68/output_frames/sec_10_idx_33.jpg",
+        "fps": 60,
+        "explanation": "[9-15] The chef then starts making sandwiches. First, he spreads yellow sauce on each slice of bread, then puts a lettuce leaf on it, and a slice of ham on each lettuce leaf."
+    },
+    {
+        "second": 11,
+        "frame_index": 55,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/By9mpKtFo68/output_frames/sec_11_idx_55.jpg",
+        "fps": 60,
+        "explanation": "[9-15] The chef then starts making sandwiches. First, he spreads yellow sauce on each slice of bread, then puts a lettuce leaf on it, and a slice of ham on each lettuce leaf."
+    },
+    {
+        "second": 12,
+        "frame_index": 58,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/By9mpKtFo68/output_frames/sec_12_idx_58.jpg",
+        "fps": 60,
+        "explanation": "[9-15] The chef then starts making sandwiches. First, he spreads yellow sauce on each slice of bread, then puts a lettuce leaf on it, and a slice of ham on each lettuce leaf."
+    },
+    {
+        "second": 13,
+        "frame_index": 33,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/By9mpKtFo68/output_frames/sec_13_idx_33.jpg",
+        "fps": 60,
+        "explanation": "[9-15] The chef then starts making sandwiches. First, he spreads yellow sauce on each slice of bread, then puts a lettuce leaf on it, and a slice of ham on each lettuce leaf."
+    },
+    {
+        "second": 14,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/By9mpKtFo68/output_frames/sec_14_idx_29.jpg",
+        "fps": 60,
+        "explanation": "[9-15] The chef then starts making sandwiches. First, he spreads yellow sauce on each slice of bread, then puts a lettuce leaf on it, and a slice of ham on each lettuce leaf."
+    },
+    {
+        "second": 15,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/By9mpKtFo68/output_frames/sec_15_idx_28.jpg",
+        "fps": 60,
+        "explanation": "[9-15] The chef then starts making sandwiches. First, he spreads yellow sauce on each slice of bread, then puts a lettuce leaf on it, and a slice of ham on each lettuce leaf."
+    },
+    {
+        "second": 16,
+        "frame_index": 33,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/By9mpKtFo68/output_frames/sec_16_idx_33.jpg",
+        "fps": 60,
+        "explanation": "[15-22] Next, the chef scoops the egg salad dressing into a ball with a spoon and places it on the ham, then covers it with another slice of bread. The chef then neatly arranges the tomato slices on the bread."
+    },
+    {
+        "second": 17,
+        "frame_index": 43,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/By9mpKtFo68/output_frames/sec_17_idx_43.jpg",
+        "fps": 60,
+        "explanation": "[15-22] Next, the chef scoops the egg salad dressing into a ball with a spoon and places it on the ham, then covers it with another slice of bread. The chef then neatly arranges the tomato slices on the bread."
+    },
+    {
+        "second": 18,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/By9mpKtFo68/output_frames/sec_18_idx_19.jpg",
+        "fps": 60,
+        "explanation": "[15-22] Next, the chef scoops the egg salad dressing into a ball with a spoon and places it on the ham, then covers it with another slice of bread. The chef then neatly arranges the tomato slices on the bread."
+    },
+    {
+        "second": 19,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/By9mpKtFo68/output_frames/sec_19_idx_16.jpg",
+        "fps": 60,
+        "explanation": "[15-22] Next, the chef scoops the egg salad dressing into a ball with a spoon and places it on the ham, then covers it with another slice of bread. The chef then neatly arranges the tomato slices on the bread."
+    },
+    {
+        "second": 20,
+        "frame_index": 53,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/By9mpKtFo68/output_frames/sec_20_idx_53.jpg",
+        "fps": 60,
+        "explanation": "[15-22] Next, the chef scoops the egg salad dressing into a ball with a spoon and places it on the ham, then covers it with another slice of bread. The chef then neatly arranges the tomato slices on the bread."
+    },
+    {
+        "second": 21,
+        "frame_index": 53,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/By9mpKtFo68/output_frames/sec_21_idx_53.jpg",
+        "fps": 60,
+        "explanation": "[15-22] Next, the chef scoops the egg salad dressing into a ball with a spoon and places it on the ham, then covers it with another slice of bread. The chef then neatly arranges the tomato slices on the bread."
+    },
+    {
+        "second": 22,
+        "frame_index": 44,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/By9mpKtFo68/output_frames/sec_22_idx_44.jpg",
+        "fps": 60,
+        "explanation": "[15-22] Next, the chef scoops the egg salad dressing into a ball with a spoon and places it on the ham, then covers it with another slice of bread. The chef then neatly arranges the tomato slices on the bread."
+    },
+    {
+        "second": 23,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/By9mpKtFo68/output_frames/sec_23_idx_1.jpg",
+        "fps": 60,
+        "explanation": "[22-27] Afterwards, the chef puts cabbage on the tomato slices and covers it with another slice of bread."
+    },
+    {
+        "second": 24,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/By9mpKtFo68/output_frames/sec_24_idx_3.jpg",
+        "fps": 60,
+        "explanation": "[22-27] Afterwards, the chef puts cabbage on the tomato slices and covers it with another slice of bread."
+    },
+    {
+        "second": 25,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/By9mpKtFo68/output_frames/sec_25_idx_2.jpg",
+        "fps": 60,
+        "explanation": "[22-27] Afterwards, the chef puts cabbage on the tomato slices and covers it with another slice of bread."
+    },
+    {
+        "second": 26,
+        "frame_index": 47,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/By9mpKtFo68/output_frames/sec_26_idx_47.jpg",
+        "fps": 60,
+        "explanation": "[22-27] Afterwards, the chef puts cabbage on the tomato slices and covers it with another slice of bread."
+    },
+    {
+        "second": 27,
+        "frame_index": 45,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/By9mpKtFo68/output_frames/sec_27_idx_45.jpg",
+        "fps": 60,
+        "explanation": "[22-27] Afterwards, the chef puts cabbage on the tomato slices and covers it with another slice of bread."
+    },
+    {
+        "second": 28,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/By9mpKtFo68/output_frames/sec_28_idx_25.jpg",
+        "fps": 60,
+        "explanation": "[27-31] The scene then switches to the making of a fruit box. The chef puts the cut orange slices into a white paper holder, then puts watermelon cubes, a red cherry, two cherry tomatoes and two slices of cantaloupe next to the orange slices."
+    },
+    {
+        "second": 29,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/By9mpKtFo68/output_frames/sec_29_idx_16.jpg",
+        "fps": 60,
+        "explanation": "[27-31] The scene then switches to the making of a fruit box. The chef puts the cut orange slices into a white paper holder, then puts watermelon cubes, a red cherry, two cherry tomatoes and two slices of cantaloupe next to the orange slices."
+    },
+    {
+        "second": 30,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/By9mpKtFo68/output_frames/sec_30_idx_4.jpg",
+        "fps": 60,
+        "explanation": "[27-31] The scene then switches to the making of a fruit box. The chef puts the cut orange slices into a white paper holder, then puts watermelon cubes, a red cherry, two cherry tomatoes and two slices of cantaloupe next to the orange slices."
+    },
+    {
+        "second": 31,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/By9mpKtFo68/output_frames/sec_31_idx_2.jpg",
+        "fps": 60,
+        "explanation": "[27-31] The scene then switches to the making of a fruit box. The chef puts the cut orange slices into a white paper holder, then puts watermelon cubes, a red cherry, two cherry tomatoes and two slices of cantaloupe next to the orange slices."
+    },
+    {
+        "second": 32,
+        "frame_index": 53,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/By9mpKtFo68/output_frames/sec_32_idx_53.jpg",
+        "fps": 60,
+        "explanation": "[31-36] The chef then cuts the wrapped sandwich in half with a knife and puts it into a white lunch box, which also contains two rice balls."
+    },
+    {
+        "second": 33,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/By9mpKtFo68/output_frames/sec_33_idx_7.jpg",
+        "fps": 60,
+        "explanation": "[31-36] The chef then cuts the wrapped sandwich in half with a knife and puts it into a white lunch box, which also contains two rice balls."
+    },
+    {
+        "second": 34,
+        "frame_index": 35,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/By9mpKtFo68/output_frames/sec_34_idx_35.jpg",
+        "fps": 60,
+        "explanation": "[31-36] The chef then cuts the wrapped sandwich in half with a knife and puts it into a white lunch box, which also contains two rice balls."
+    },
+    {
+        "second": 35,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/By9mpKtFo68/output_frames/sec_35_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[31-36] The chef then cuts the wrapped sandwich in half with a knife and puts it into a white lunch box, which also contains two rice balls."
+    },
+    {
+        "second": 36,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/By9mpKtFo68/output_frames/sec_36_idx_22.jpg",
+        "fps": 60,
+        "explanation": "[31-36] The chef then cuts the wrapped sandwich in half with a knife and puts it into a white lunch box, which also contains two rice balls."
+    },
+    {
+        "second": 37,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/By9mpKtFo68/output_frames/sec_37_idx_12.jpg",
+        "fps": 60,
+        "explanation": "[36-42] The chef puts meat paste on one rice ball and cheese strips on the other, then garnishes them with green vegetable leaves."
+    },
+    {
+        "second": 38,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/By9mpKtFo68/output_frames/sec_38_idx_28.jpg",
+        "fps": 60,
+        "explanation": "[36-42] The chef puts meat paste on one rice ball and cheese strips on the other, then garnishes them with green vegetable leaves."
+    },
+    {
+        "second": 39,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/By9mpKtFo68/output_frames/sec_39_idx_14.jpg",
+        "fps": 60,
+        "explanation": "[36-42] The chef puts meat paste on one rice ball and cheese strips on the other, then garnishes them with green vegetable leaves."
+    },
+    {
+        "second": 40,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/By9mpKtFo68/output_frames/sec_40_idx_20.jpg",
+        "fps": 60,
+        "explanation": "[36-42] The chef puts meat paste on one rice ball and cheese strips on the other, then garnishes them with green vegetable leaves."
+    },
+    {
+        "second": 41,
+        "frame_index": 32,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/By9mpKtFo68/output_frames/sec_41_idx_32.jpg",
+        "fps": 60,
+        "explanation": "[36-42] The chef puts meat paste on one rice ball and cheese strips on the other, then garnishes them with green vegetable leaves."
+    },
+    {
+        "second": 42,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/By9mpKtFo68/output_frames/sec_42_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[36-42] The chef puts meat paste on one rice ball and cheese strips on the other, then garnishes them with green vegetable leaves."
+    },
+    {
+        "second": 43,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/By9mpKtFo68/output_frames/sec_43_idx_2.jpg",
+        "fps": 60,
+        "explanation": "[42-50] The chef then labels the packed lunch boxes and puts them into bags, placing a bottle of green drink in each bag. Another chef in black clothing is working next to him. Finally, a pair of hands picks up a finished sandwich and shows its cross-section to the camera."
+    },
+    {
+        "second": 44,
+        "frame_index": 59,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/By9mpKtFo68/output_frames/sec_44_idx_59.jpg",
+        "fps": 60,
+        "explanation": "[42-50] The chef then labels the packed lunch boxes and puts them into bags, placing a bottle of green drink in each bag. Another chef in black clothing is working next to him. Finally, a pair of hands picks up a finished sandwich and shows its cross-section to the camera."
+    },
+    {
+        "second": 45,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/By9mpKtFo68/output_frames/sec_45_idx_2.jpg",
+        "fps": 60,
+        "explanation": "[42-50] The chef then labels the packed lunch boxes and puts them into bags, placing a bottle of green drink in each bag. Another chef in black clothing is working next to him. Finally, a pair of hands picks up a finished sandwich and shows its cross-section to the camera."
+    },
+    {
+        "second": 46,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/By9mpKtFo68/output_frames/sec_46_idx_5.jpg",
+        "fps": 60,
+        "explanation": "[42-50] The chef then labels the packed lunch boxes and puts them into bags, placing a bottle of green drink in each bag. Another chef in black clothing is working next to him. Finally, a pair of hands picks up a finished sandwich and shows its cross-section to the camera."
+    },
+    {
+        "second": 47,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/By9mpKtFo68/output_frames/sec_47_idx_3.jpg",
+        "fps": 60,
+        "explanation": "[42-50] The chef then labels the packed lunch boxes and puts them into bags, placing a bottle of green drink in each bag. Another chef in black clothing is working next to him. Finally, a pair of hands picks up a finished sandwich and shows its cross-section to the camera."
+    },
+    {
+        "second": 48,
+        "frame_index": 39,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/By9mpKtFo68/output_frames/sec_48_idx_39.jpg",
+        "fps": 60,
+        "explanation": "[42-50] The chef then labels the packed lunch boxes and puts them into bags, placing a bottle of green drink in each bag. Another chef in black clothing is working next to him. Finally, a pair of hands picks up a finished sandwich and shows its cross-section to the camera."
+    },
+    {
+        "second": 49,
+        "frame_index": 40,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/By9mpKtFo68/output_frames/sec_49_idx_40.jpg",
+        "fps": 60,
+        "explanation": "[42-50] The chef then labels the packed lunch boxes and puts them into bags, placing a bottle of green drink in each bag. Another chef in black clothing is working next to him. Finally, a pair of hands picks up a finished sandwich and shows its cross-section to the camera."
+    },
+    {
+        "second": 50,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/By9mpKtFo68/output_frames/sec_50_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[42-50] The chef then labels the packed lunch boxes and puts them into bags, placing a bottle of green drink in each bag. Another chef in black clothing is working next to him. Finally, a pair of hands picks up a finished sandwich and shows its cross-section to the camera."
+    }
+]

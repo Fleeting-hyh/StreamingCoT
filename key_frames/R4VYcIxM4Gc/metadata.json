@@ -1,0 +1,79 @@
+[
+    {
+        "second": 0,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/R4VYcIxM4Gc/output_frames/sec_0_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A Golden Retriever and a Corgi wearing a blue vest are standing on either side of a slightly ajar glass door, looking at each other. The white caption \"Dog took a break in the middle of the argument to drink\" appears in the middle of the screen."
+    },
+    {
+        "second": 1,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/R4VYcIxM4Gc/output_frames/sec_1_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The Corgi outside and the Golden Retriever inside are barking at each other. A black car drives in on the road outside. The Corgi barks and moves forward. The Golden Retriever inside is watching the car outside."
+    },
+    {
+        "second": 2,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/R4VYcIxM4Gc/output_frames/sec_2_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The Corgi outside and the Golden Retriever inside are barking at each other. A black car drives in on the road outside. The Corgi barks and moves forward. The Golden Retriever inside is watching the car outside."
+    },
+    {
+        "second": 3,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/R4VYcIxM4Gc/output_frames/sec_3_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The Corgi outside and the Golden Retriever inside are barking at each other. A black car drives in on the road outside. The Corgi barks and moves forward. The Golden Retriever inside is watching the car outside."
+    },
+    {
+        "second": 4,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/R4VYcIxM4Gc/output_frames/sec_4_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The Corgi outside and the Golden Retriever inside are barking at each other. A black car drives in on the road outside. The Corgi barks and moves forward. The Golden Retriever inside is watching the car outside."
+    },
+    {
+        "second": 5,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/R4VYcIxM4Gc/output_frames/sec_5_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[4-10] Then the Corgi turns around and runs in through the gap of the glass door. As the Corgi runs forward, the surrounding scenery moves backward. The Corgi comes to a table in the room, where a basin of water is placed in the corner below. The Corgi lowers its head to drink, then turns around and runs out through the gap of the glass door. Then the Corgi stands outside the glass door again and barks at the Golden Retriever inside."
+    },
+    {
+        "second": 6,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/R4VYcIxM4Gc/output_frames/sec_6_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[4-10] Then the Corgi turns around and runs in through the gap of the glass door. As the Corgi runs forward, the surrounding scenery moves backward. The Corgi comes to a table in the room, where a basin of water is placed in the corner below. The Corgi lowers its head to drink, then turns around and runs out through the gap of the glass door. Then the Corgi stands outside the glass door again and barks at the Golden Retriever inside."
+    },
+    {
+        "second": 7,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/R4VYcIxM4Gc/output_frames/sec_7_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[4-10] Then the Corgi turns around and runs in through the gap of the glass door. As the Corgi runs forward, the surrounding scenery moves backward. The Corgi comes to a table in the room, where a basin of water is placed in the corner below. The Corgi lowers its head to drink, then turns around and runs out through the gap of the glass door. Then the Corgi stands outside the glass door again and barks at the Golden Retriever inside."
+    },
+    {
+        "second": 8,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/R4VYcIxM4Gc/output_frames/sec_8_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[4-10] Then the Corgi turns around and runs in through the gap of the glass door. As the Corgi runs forward, the surrounding scenery moves backward. The Corgi comes to a table in the room, where a basin of water is placed in the corner below. The Corgi lowers its head to drink, then turns around and runs out through the gap of the glass door. Then the Corgi stands outside the glass door again and barks at the Golden Retriever inside."
+    },
+    {
+        "second": 9,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/R4VYcIxM4Gc/output_frames/sec_9_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[4-10] Then the Corgi turns around and runs in through the gap of the glass door. As the Corgi runs forward, the surrounding scenery moves backward. The Corgi comes to a table in the room, where a basin of water is placed in the corner below. The Corgi lowers its head to drink, then turns around and runs out through the gap of the glass door. Then the Corgi stands outside the glass door again and barks at the Golden Retriever inside."
+    },
+    {
+        "second": 10,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/R4VYcIxM4Gc/output_frames/sec_10_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[4-10] Then the Corgi turns around and runs in through the gap of the glass door. As the Corgi runs forward, the surrounding scenery moves backward. The Corgi comes to a table in the room, where a basin of water is placed in the corner below. The Corgi lowers its head to drink, then turns around and runs out through the gap of the glass door. Then the Corgi stands outside the glass door again and barks at the Golden Retriever inside."
+    }
+]

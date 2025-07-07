@@ -1,0 +1,100 @@
+[
+    {
+        "second": 0,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9PoaDR35DKQ/output_frames/sec_0_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[0-0] An animated scene with a green lawn in the background, a Cameroonian football player with dark skin and wearing a green tracksuit is supporting himself on his right leg with his left leg bent and raised, making a fist with his right hand raised."
+    },
+    {
+        "second": 1,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9PoaDR35DKQ/output_frames/sec_1_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[0-2] The Cameroonian football player is dribbling forward while running. At this time, a Serbian defender in a white uniform enters the scene from the left side of the frame and attempts to block the shot, sliding a tackle to the right side of the frame. Then, the Serbian goalkeeper, dressed in a black tracksuit, leans forward with his hands outstretched, ready to save. Subsequently, the Cameroonian player kicks the ball into the air."
+    },
+    {
+        "second": 2,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9PoaDR35DKQ/output_frames/sec_2_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[0-2] The Cameroonian football player is dribbling forward while running. At this time, a Serbian defender in a white uniform enters the scene from the left side of the frame and attempts to block the shot, sliding a tackle to the right side of the frame. Then, the Serbian goalkeeper, dressed in a black tracksuit, leans forward with his hands outstretched, ready to save. Subsequently, the Cameroonian player kicks the ball into the air."
+    },
+    {
+        "second": 3,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9PoaDR35DKQ/output_frames/sec_3_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[2-6] The Serbian goalkeeper looks up into the air, then takes out a telescopic ladder, quickly extends it upwards, and climbs up. The background in the distance turns light red as the goalkeeper climbs higher."
+    },
+    {
+        "second": 4,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9PoaDR35DKQ/output_frames/sec_4_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[2-6] The Serbian goalkeeper looks up into the air, then takes out a telescopic ladder, quickly extends it upwards, and climbs up. The background in the distance turns light red as the goalkeeper climbs higher."
+    },
+    {
+        "second": 5,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9PoaDR35DKQ/output_frames/sec_5_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[2-6] The Serbian goalkeeper looks up into the air, then takes out a telescopic ladder, quickly extends it upwards, and climbs up. The background in the distance turns light red as the goalkeeper climbs higher."
+    },
+    {
+        "second": 6,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9PoaDR35DKQ/output_frames/sec_6_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[2-6] The Serbian goalkeeper looks up into the air, then takes out a telescopic ladder, quickly extends it upwards, and climbs up. The background in the distance turns light red as the goalkeeper climbs higher."
+    },
+    {
+        "second": 7,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9PoaDR35DKQ/output_frames/sec_7_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[6-10] The goalkeeper reaches the top of the ladder and reaches out to intercept the football, but the ball flies over his hand and into the goal. The Cameroonian player turns around, walks forward and raises his hand in celebration."
+    },
+    {
+        "second": 8,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9PoaDR35DKQ/output_frames/sec_8_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[6-10] The goalkeeper reaches the top of the ladder and reaches out to intercept the football, but the ball flies over his hand and into the goal. The Cameroonian player turns around, walks forward and raises his hand in celebration."
+    },
+    {
+        "second": 9,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9PoaDR35DKQ/output_frames/sec_9_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[6-10] The goalkeeper reaches the top of the ladder and reaches out to intercept the football, but the ball flies over his hand and into the goal. The Cameroonian player turns around, walks forward and raises his hand in celebration."
+    },
+    {
+        "second": 10,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9PoaDR35DKQ/output_frames/sec_10_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[6-10] The goalkeeper reaches the top of the ladder and reaches out to intercept the football, but the ball flies over his hand and into the goal. The Cameroonian player turns around, walks forward and raises his hand in celebration."
+    },
+    {
+        "second": 11,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9PoaDR35DKQ/output_frames/sec_11_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[10-14] The Cameroonian player celebrates in the foreground, the ladder shakes a few times, and the disappointed goalkeeper falls off the ladder, getting hit by it and lying motionless on the ground."
+    },
+    {
+        "second": 12,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9PoaDR35DKQ/output_frames/sec_12_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[10-14] The Cameroonian player celebrates in the foreground, the ladder shakes a few times, and the disappointed goalkeeper falls off the ladder, getting hit by it and lying motionless on the ground."
+    },
+    {
+        "second": 13,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9PoaDR35DKQ/output_frames/sec_13_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[10-14] The Cameroonian player celebrates in the foreground, the ladder shakes a few times, and the disappointed goalkeeper falls off the ladder, getting hit by it and lying motionless on the ground."
+    }
+]

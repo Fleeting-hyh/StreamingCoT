@@ -1,0 +1,86 @@
+[
+    {
+        "second": 0,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3SGlLhWJTvM/output_frames/sec_0_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[0-0] In front of a building with a brown door frame and glass door, there is a flat, empty concrete area on the left and stairs on the right. To the left of the door, there's a white, upright object, with a brown wall and green decorations on the left."
+    },
+    {
+        "second": 1,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3SGlLhWJTvM/output_frames/sec_1_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Next, a man wearing a blue floral shirt rides a white motorcycle, appearing from the left and attempting to ride up the stairs. Immediately, the motorcycle falls to the right, and the man in the blue floral shirt, supporting himself with his right foot on the ground, looks to the right. A woman wearing a red floral top walks out from the right, holding a yellow plastic ramp with both hands."
+    },
+    {
+        "second": 2,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3SGlLhWJTvM/output_frames/sec_2_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Next, a man wearing a blue floral shirt rides a white motorcycle, appearing from the left and attempting to ride up the stairs. Immediately, the motorcycle falls to the right, and the man in the blue floral shirt, supporting himself with his right foot on the ground, looks to the right. A woman wearing a red floral top walks out from the right, holding a yellow plastic ramp with both hands."
+    },
+    {
+        "second": 3,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3SGlLhWJTvM/output_frames/sec_3_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Next, a man wearing a blue floral shirt rides a white motorcycle, appearing from the left and attempting to ride up the stairs. Immediately, the motorcycle falls to the right, and the man in the blue floral shirt, supporting himself with his right foot on the ground, looks to the right. A woman wearing a red floral top walks out from the right, holding a yellow plastic ramp with both hands."
+    },
+    {
+        "second": 4,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3SGlLhWJTvM/output_frames/sec_4_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[3-7] Afterward, the scene changes. The woman in the red floral top first holds the yellow ramp with both hands, then places it on the middle step. A black ramp is placed on the step above, and a yellow ramp is placed on the step below. The camera zooms out, showing the three ramps placed on the steps, forming a flat slope."
+    },
+    {
+        "second": 5,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3SGlLhWJTvM/output_frames/sec_5_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[3-7] Afterward, the scene changes. The woman in the red floral top first holds the yellow ramp with both hands, then places it on the middle step. A black ramp is placed on the step above, and a yellow ramp is placed on the step below. The camera zooms out, showing the three ramps placed on the steps, forming a flat slope."
+    },
+    {
+        "second": 6,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3SGlLhWJTvM/output_frames/sec_6_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[3-7] Afterward, the scene changes. The woman in the red floral top first holds the yellow ramp with both hands, then places it on the middle step. A black ramp is placed on the step above, and a yellow ramp is placed on the step below. The camera zooms out, showing the three ramps placed on the steps, forming a flat slope."
+    },
+    {
+        "second": 7,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3SGlLhWJTvM/output_frames/sec_7_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[3-7] Afterward, the scene changes. The woman in the red floral top first holds the yellow ramp with both hands, then places it on the middle step. A black ramp is placed on the step above, and a yellow ramp is placed on the step below. The camera zooms out, showing the three ramps placed on the steps, forming a flat slope."
+    },
+    {
+        "second": 8,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3SGlLhWJTvM/output_frames/sec_8_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[7-9] Then, the scene changes again. A man wearing a blue shirt rides a white motorcycle, appearing from the left and smoothly riding up the stairs."
+    },
+    {
+        "second": 9,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3SGlLhWJTvM/output_frames/sec_9_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[7-9] Then, the scene changes again. A man wearing a blue shirt rides a white motorcycle, appearing from the left and smoothly riding up the stairs."
+    },
+    {
+        "second": 10,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3SGlLhWJTvM/output_frames/sec_10_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[9-11] The scene then continues to change. The man in the blue shirt, riding the white motorcycle, smoothly rides down from the top of the stairs."
+    },
+    {
+        "second": 11,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3SGlLhWJTvM/output_frames/sec_11_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[9-11] The scene then continues to change. The man in the blue shirt, riding the white motorcycle, smoothly rides down from the top of the stairs."
+    }
+]

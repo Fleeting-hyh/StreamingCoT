@@ -1,0 +1,65 @@
+[
+    {
+        "second": 0,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QaXQEQKNnhE/output_frames/sec_0_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A boy in a white top and black trousers is standing on the right side of the frame. The floor is gray, with a blue sofa on the right. There's a patterned curtain in front of him, and a yellow photo frame hangs on the white wall."
+    },
+    {
+        "second": 1,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QaXQEQKNnhE/output_frames/sec_1_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[0-8] The boy leads a girl in a red top and pink skirt to the curtain and pulls it open. A person wearing a skull mask is standing outside, wearing a gray top and black trousers. Then, a woman in a yellow top and black trousers runs from the left and hugs the two children as the camera zooms in on the skull mask. The woman then draws the curtain closed and hugs the two children in front of the camera."
+    },
+    {
+        "second": 2,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QaXQEQKNnhE/output_frames/sec_2_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[0-8] The boy leads a girl in a red top and pink skirt to the curtain and pulls it open. A person wearing a skull mask is standing outside, wearing a gray top and black trousers. Then, a woman in a yellow top and black trousers runs from the left and hugs the two children as the camera zooms in on the skull mask. The woman then draws the curtain closed and hugs the two children in front of the camera."
+    },
+    {
+        "second": 3,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QaXQEQKNnhE/output_frames/sec_3_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-8] The boy leads a girl in a red top and pink skirt to the curtain and pulls it open. A person wearing a skull mask is standing outside, wearing a gray top and black trousers. Then, a woman in a yellow top and black trousers runs from the left and hugs the two children as the camera zooms in on the skull mask. The woman then draws the curtain closed and hugs the two children in front of the camera."
+    },
+    {
+        "second": 4,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QaXQEQKNnhE/output_frames/sec_4_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[0-8] The boy leads a girl in a red top and pink skirt to the curtain and pulls it open. A person wearing a skull mask is standing outside, wearing a gray top and black trousers. Then, a woman in a yellow top and black trousers runs from the left and hugs the two children as the camera zooms in on the skull mask. The woman then draws the curtain closed and hugs the two children in front of the camera."
+    },
+    {
+        "second": 5,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QaXQEQKNnhE/output_frames/sec_5_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[0-8] The boy leads a girl in a red top and pink skirt to the curtain and pulls it open. A person wearing a skull mask is standing outside, wearing a gray top and black trousers. Then, a woman in a yellow top and black trousers runs from the left and hugs the two children as the camera zooms in on the skull mask. The woman then draws the curtain closed and hugs the two children in front of the camera."
+    },
+    {
+        "second": 6,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QaXQEQKNnhE/output_frames/sec_6_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[0-8] The boy leads a girl in a red top and pink skirt to the curtain and pulls it open. A person wearing a skull mask is standing outside, wearing a gray top and black trousers. Then, a woman in a yellow top and black trousers runs from the left and hugs the two children as the camera zooms in on the skull mask. The woman then draws the curtain closed and hugs the two children in front of the camera."
+    },
+    {
+        "second": 7,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QaXQEQKNnhE/output_frames/sec_7_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-8] The boy leads a girl in a red top and pink skirt to the curtain and pulls it open. A person wearing a skull mask is standing outside, wearing a gray top and black trousers. Then, a woman in a yellow top and black trousers runs from the left and hugs the two children as the camera zooms in on the skull mask. The woman then draws the curtain closed and hugs the two children in front of the camera."
+    },
+    {
+        "second": 8,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QaXQEQKNnhE/output_frames/sec_8_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[0-8] The boy leads a girl in a red top and pink skirt to the curtain and pulls it open. A person wearing a skull mask is standing outside, wearing a gray top and black trousers. Then, a woman in a yellow top and black trousers runs from the left and hugs the two children as the camera zooms in on the skull mask. The woman then draws the curtain closed and hugs the two children in front of the camera."
+    }
+]

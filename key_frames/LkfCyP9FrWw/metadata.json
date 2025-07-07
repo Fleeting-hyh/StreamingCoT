@@ -1,0 +1,79 @@
+[
+    {
+        "second": 0,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LkfCyP9FrWw/output_frames/sec_0_idx_21.jpg",
+        "fps": 60,
+        "explanation": "[0-0] In a gymnasium, a table tennis player in a blue jersey is preparing to serve. His opponent, wearing an orange jersey, stands on the other side of the table. Referees sit beside them, the audience sits in the top area, and the score is displayed in the lower right corner of the screen."
+    },
+    {
+        "second": 1,
+        "frame_index": 59,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LkfCyP9FrWw/output_frames/sec_1_idx_59.jpg",
+        "fps": 60,
+        "explanation": "[0-7] Then the player in blue tosses the ball high, hits it, and the intense match begins. They both move with the movement of the ping pong ball."
+    },
+    {
+        "second": 2,
+        "frame_index": 51,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LkfCyP9FrWw/output_frames/sec_2_idx_51.jpg",
+        "fps": 60,
+        "explanation": "[0-7] Then the player in blue tosses the ball high, hits it, and the intense match begins. They both move with the movement of the ping pong ball."
+    },
+    {
+        "second": 3,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LkfCyP9FrWw/output_frames/sec_3_idx_11.jpg",
+        "fps": 60,
+        "explanation": "[0-7] Then the player in blue tosses the ball high, hits it, and the intense match begins. They both move with the movement of the ping pong ball."
+    },
+    {
+        "second": 4,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LkfCyP9FrWw/output_frames/sec_4_idx_14.jpg",
+        "fps": 60,
+        "explanation": "[0-7] Then the player in blue tosses the ball high, hits it, and the intense match begins. They both move with the movement of the ping pong ball."
+    },
+    {
+        "second": 5,
+        "frame_index": 36,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LkfCyP9FrWw/output_frames/sec_5_idx_36.jpg",
+        "fps": 60,
+        "explanation": "[0-7] Then the player in blue tosses the ball high, hits it, and the intense match begins. They both move with the movement of the ping pong ball."
+    },
+    {
+        "second": 6,
+        "frame_index": 49,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LkfCyP9FrWw/output_frames/sec_6_idx_49.jpg",
+        "fps": 60,
+        "explanation": "[0-7] Then the player in blue tosses the ball high, hits it, and the intense match begins. They both move with the movement of the ping pong ball."
+    },
+    {
+        "second": 7,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LkfCyP9FrWw/output_frames/sec_7_idx_4.jpg",
+        "fps": 60,
+        "explanation": "[0-7] Then the player in blue tosses the ball high, hits it, and the intense match begins. They both move with the movement of the ping pong ball."
+    },
+    {
+        "second": 8,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LkfCyP9FrWw/output_frames/sec_8_idx_14.jpg",
+        "fps": 60,
+        "explanation": "[7-10] Finally, the player in the blue jersey scores, and the referees applaud him in celebration. The player in the orange jersey leaves the table."
+    },
+    {
+        "second": 9,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LkfCyP9FrWw/output_frames/sec_9_idx_12.jpg",
+        "fps": 60,
+        "explanation": "[7-10] Finally, the player in the blue jersey scores, and the referees applaud him in celebration. The player in the orange jersey leaves the table."
+    },
+    {
+        "second": 10,
+        "frame_index": 38,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LkfCyP9FrWw/output_frames/sec_10_idx_38.jpg",
+        "fps": 60,
+        "explanation": "[7-10] Finally, the player in the blue jersey scores, and the referees applaud him in celebration. The player in the orange jersey leaves the table."
+    }
+]

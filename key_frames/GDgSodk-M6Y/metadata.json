@@ -1,0 +1,72 @@
+[
+    {
+        "second": 0,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GDgSodk-M6Y/output_frames/sec_0_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[0-0] In an outdoor swimming pool, there is a man with black hair. Beside the pool, there is a frame with two lines connected to a black cylindrical object below. There are other belongings of the man next to it."
+    },
+    {
+        "second": 1,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GDgSodk-M6Y/output_frames/sec_1_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[0-9] The man starts swimming, and as the man swims farther away, the black cylinder rises."
+    },
+    {
+        "second": 2,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GDgSodk-M6Y/output_frames/sec_2_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[0-9] The man starts swimming, and as the man swims farther away, the black cylinder rises."
+    },
+    {
+        "second": 3,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GDgSodk-M6Y/output_frames/sec_3_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[0-9] The man starts swimming, and as the man swims farther away, the black cylinder rises."
+    },
+    {
+        "second": 4,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GDgSodk-M6Y/output_frames/sec_4_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[0-9] The man starts swimming, and as the man swims farther away, the black cylinder rises."
+    },
+    {
+        "second": 5,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GDgSodk-M6Y/output_frames/sec_5_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-9] The man starts swimming, and as the man swims farther away, the black cylinder rises."
+    },
+    {
+        "second": 6,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GDgSodk-M6Y/output_frames/sec_6_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[0-9] The man starts swimming, and as the man swims farther away, the black cylinder rises."
+    },
+    {
+        "second": 7,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GDgSodk-M6Y/output_frames/sec_7_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[0-9] The man starts swimming, and as the man swims farther away, the black cylinder rises."
+    },
+    {
+        "second": 8,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GDgSodk-M6Y/output_frames/sec_8_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[0-9] The man starts swimming, and as the man swims farther away, the black cylinder rises."
+    },
+    {
+        "second": 9,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GDgSodk-M6Y/output_frames/sec_9_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[0-9] The man starts swimming, and as the man swims farther away, the black cylinder rises."
+    }
+]

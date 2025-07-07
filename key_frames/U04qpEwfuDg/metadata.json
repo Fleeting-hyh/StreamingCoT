@@ -1,0 +1,135 @@
+[
+    {
+        "second": 0,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/U04qpEwfuDg/output_frames/sec_0_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A person wearing a floral top is standing by a wooden table, holding a large white goose egg in their left hand and an iron spoon in their right. The remaining goose eggs are placed in a blue and white bowl on the wooden table, along with a rolling pin."
+    },
+    {
+        "second": 1,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/U04qpEwfuDg/output_frames/sec_1_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[0-9] Next, the person uses the back of the spoon in their right hand to tap the shell of the goose egg in their left hand, creating small cracks. They then start to peel away the shell fragments, gradually revealing the egg white and eventually removing all of the shell."
+    },
+    {
+        "second": 2,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/U04qpEwfuDg/output_frames/sec_2_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[0-9] Next, the person uses the back of the spoon in their right hand to tap the shell of the goose egg in their left hand, creating small cracks. They then start to peel away the shell fragments, gradually revealing the egg white and eventually removing all of the shell."
+    },
+    {
+        "second": 3,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/U04qpEwfuDg/output_frames/sec_3_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[0-9] Next, the person uses the back of the spoon in their right hand to tap the shell of the goose egg in their left hand, creating small cracks. They then start to peel away the shell fragments, gradually revealing the egg white and eventually removing all of the shell."
+    },
+    {
+        "second": 4,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/U04qpEwfuDg/output_frames/sec_4_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[0-9] Next, the person uses the back of the spoon in their right hand to tap the shell of the goose egg in their left hand, creating small cracks. They then start to peel away the shell fragments, gradually revealing the egg white and eventually removing all of the shell."
+    },
+    {
+        "second": 5,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/U04qpEwfuDg/output_frames/sec_5_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[0-9] Next, the person uses the back of the spoon in their right hand to tap the shell of the goose egg in their left hand, creating small cracks. They then start to peel away the shell fragments, gradually revealing the egg white and eventually removing all of the shell."
+    },
+    {
+        "second": 6,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/U04qpEwfuDg/output_frames/sec_6_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[0-9] Next, the person uses the back of the spoon in their right hand to tap the shell of the goose egg in their left hand, creating small cracks. They then start to peel away the shell fragments, gradually revealing the egg white and eventually removing all of the shell."
+    },
+    {
+        "second": 7,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/U04qpEwfuDg/output_frames/sec_7_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[0-9] Next, the person uses the back of the spoon in their right hand to tap the shell of the goose egg in their left hand, creating small cracks. They then start to peel away the shell fragments, gradually revealing the egg white and eventually removing all of the shell."
+    },
+    {
+        "second": 8,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/U04qpEwfuDg/output_frames/sec_8_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[0-9] Next, the person uses the back of the spoon in their right hand to tap the shell of the goose egg in their left hand, creating small cracks. They then start to peel away the shell fragments, gradually revealing the egg white and eventually removing all of the shell."
+    },
+    {
+        "second": 9,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/U04qpEwfuDg/output_frames/sec_9_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[0-9] Next, the person uses the back of the spoon in their right hand to tap the shell of the goose egg in their left hand, creating small cracks. They then start to peel away the shell fragments, gradually revealing the egg white and eventually removing all of the shell."
+    },
+    {
+        "second": 10,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/U04qpEwfuDg/output_frames/sec_10_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[9-18] The person continues to peel away all of the egg white, revealing two connected greenish-blue egg yolks. Finally, they separate the two yolks, exposing the yellow part inside."
+    },
+    {
+        "second": 11,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/U04qpEwfuDg/output_frames/sec_11_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[9-18] The person continues to peel away all of the egg white, revealing two connected greenish-blue egg yolks. Finally, they separate the two yolks, exposing the yellow part inside."
+    },
+    {
+        "second": 12,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/U04qpEwfuDg/output_frames/sec_12_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[9-18] The person continues to peel away all of the egg white, revealing two connected greenish-blue egg yolks. Finally, they separate the two yolks, exposing the yellow part inside."
+    },
+    {
+        "second": 13,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/U04qpEwfuDg/output_frames/sec_13_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[9-18] The person continues to peel away all of the egg white, revealing two connected greenish-blue egg yolks. Finally, they separate the two yolks, exposing the yellow part inside."
+    },
+    {
+        "second": 14,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/U04qpEwfuDg/output_frames/sec_14_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[9-18] The person continues to peel away all of the egg white, revealing two connected greenish-blue egg yolks. Finally, they separate the two yolks, exposing the yellow part inside."
+    },
+    {
+        "second": 15,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/U04qpEwfuDg/output_frames/sec_15_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[9-18] The person continues to peel away all of the egg white, revealing two connected greenish-blue egg yolks. Finally, they separate the two yolks, exposing the yellow part inside."
+    },
+    {
+        "second": 16,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/U04qpEwfuDg/output_frames/sec_16_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[9-18] The person continues to peel away all of the egg white, revealing two connected greenish-blue egg yolks. Finally, they separate the two yolks, exposing the yellow part inside."
+    },
+    {
+        "second": 17,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/U04qpEwfuDg/output_frames/sec_17_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[9-18] The person continues to peel away all of the egg white, revealing two connected greenish-blue egg yolks. Finally, they separate the two yolks, exposing the yellow part inside."
+    },
+    {
+        "second": 18,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/U04qpEwfuDg/output_frames/sec_18_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[9-18] The person continues to peel away all of the egg white, revealing two connected greenish-blue egg yolks. Finally, they separate the two yolks, exposing the yellow part inside."
+    }
+]

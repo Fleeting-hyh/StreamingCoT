@@ -1,0 +1,51 @@
+[
+    {
+        "second": 0,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/M1q56tPa9ec/output_frames/sec_0_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[0-0] In a yard paved with lawn and gray bricks, a tattooed man wearing black shorts and slippers is squatting, facing forward. In front of him squats a brown and white dog with its head turned to the left. White English subtitles \"@REIDOSPITBULLS\" appear in the upper left corner. Some outdoor furniture and greenery can be seen in the background."
+    },
+    {
+        "second": 1,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/M1q56tPa9ec/output_frames/sec_1_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[0-2] First, the man in black shorts presses his hands on the dog and moves his mouth. The dog turns its head to look at the man, moves its body, and then the man pushes the dog to the lower right corner with both hands and stands up."
+    },
+    {
+        "second": 2,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/M1q56tPa9ec/output_frames/sec_2_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[0-2] First, the man in black shorts presses his hands on the dog and moves his mouth. The dog turns its head to look at the man, moves its body, and then the man pushes the dog to the lower right corner with both hands and stands up."
+    },
+    {
+        "second": 3,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/M1q56tPa9ec/output_frames/sec_3_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[2-6] Then the man in black shorts straightens up, raises his left hand, and the dog walks back to him and looks up at him. The man lowers his head, moves his mouth at the dog, and walks to the left. The dog follows in front of him, turning its head to look at him."
+    },
+    {
+        "second": 4,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/M1q56tPa9ec/output_frames/sec_4_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[2-6] Then the man in black shorts straightens up, raises his left hand, and the dog walks back to him and looks up at him. The man lowers his head, moves his mouth at the dog, and walks to the left. The dog follows in front of him, turning its head to look at him."
+    },
+    {
+        "second": 5,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/M1q56tPa9ec/output_frames/sec_5_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[2-6] Then the man in black shorts straightens up, raises his left hand, and the dog walks back to him and looks up at him. The man lowers his head, moves his mouth at the dog, and walks to the left. The dog follows in front of him, turning its head to look at him."
+    },
+    {
+        "second": 6,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/M1q56tPa9ec/output_frames/sec_6_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[2-6] Then the man in black shorts straightens up, raises his left hand, and the dog walks back to him and looks up at him. The man lowers his head, moves his mouth at the dog, and walks to the left. The dog follows in front of him, turning its head to look at him."
+    }
+]

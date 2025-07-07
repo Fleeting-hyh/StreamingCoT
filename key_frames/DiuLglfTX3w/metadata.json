@@ -1,0 +1,86 @@
+[
+    {
+        "second": 0,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DiuLglfTX3w/output_frames/sec_0_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A woman in a black top and denim shorts stands on a concrete floor. To her right, a woman in black shorts is holding a white ball in her hand while raising her left leg. Behind them is a tall net, with green grass and sand behind it."
+    },
+    {
+        "second": 1,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DiuLglfTX3w/output_frames/sec_1_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[0-2] The woman in black shorts then throws the white ball to the woman in denim shorts, who then throws it to a woman in a white top. The woman in the white top throws the ball to a woman in pink shorts."
+    },
+    {
+        "second": 2,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DiuLglfTX3w/output_frames/sec_2_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-2] The woman in black shorts then throws the white ball to the woman in denim shorts, who then throws it to a woman in a white top. The woman in the white top throws the ball to a woman in pink shorts."
+    },
+    {
+        "second": 3,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DiuLglfTX3w/output_frames/sec_3_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[2-8] The woman in pink shorts throws the white ball to the woman in the white top, who then throws it back to the woman in pink shorts. The woman in pink shorts throws the ball to the woman in the white top again, who then throws it back to the woman in pink shorts. Finally, the woman in pink shorts throws the white ball to the woman in the white top, who catches it and squats on the ground."
+    },
+    {
+        "second": 4,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DiuLglfTX3w/output_frames/sec_4_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[2-8] The woman in pink shorts throws the white ball to the woman in the white top, who then throws it back to the woman in pink shorts. The woman in pink shorts throws the ball to the woman in the white top again, who then throws it back to the woman in pink shorts. Finally, the woman in pink shorts throws the white ball to the woman in the white top, who catches it and squats on the ground."
+    },
+    {
+        "second": 5,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DiuLglfTX3w/output_frames/sec_5_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[2-8] The woman in pink shorts throws the white ball to the woman in the white top, who then throws it back to the woman in pink shorts. The woman in pink shorts throws the ball to the woman in the white top again, who then throws it back to the woman in pink shorts. Finally, the woman in pink shorts throws the white ball to the woman in the white top, who catches it and squats on the ground."
+    },
+    {
+        "second": 6,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DiuLglfTX3w/output_frames/sec_6_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[2-8] The woman in pink shorts throws the white ball to the woman in the white top, who then throws it back to the woman in pink shorts. The woman in pink shorts throws the ball to the woman in the white top again, who then throws it back to the woman in pink shorts. Finally, the woman in pink shorts throws the white ball to the woman in the white top, who catches it and squats on the ground."
+    },
+    {
+        "second": 7,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DiuLglfTX3w/output_frames/sec_7_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[2-8] The woman in pink shorts throws the white ball to the woman in the white top, who then throws it back to the woman in pink shorts. The woman in pink shorts throws the ball to the woman in the white top again, who then throws it back to the woman in pink shorts. Finally, the woman in pink shorts throws the white ball to the woman in the white top, who catches it and squats on the ground."
+    },
+    {
+        "second": 8,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DiuLglfTX3w/output_frames/sec_8_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[2-8] The woman in pink shorts throws the white ball to the woman in the white top, who then throws it back to the woman in pink shorts. The woman in pink shorts throws the ball to the woman in the white top again, who then throws it back to the woman in pink shorts. Finally, the woman in pink shorts throws the white ball to the woman in the white top, who catches it and squats on the ground."
+    },
+    {
+        "second": 9,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DiuLglfTX3w/output_frames/sec_9_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[8-12] The woman in the white top stands up and throws the white ball to the woman in pink shorts, who then throws it to the woman in black shorts. The woman in black shorts then raises the white ball with her right hand."
+    },
+    {
+        "second": 10,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DiuLglfTX3w/output_frames/sec_10_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[8-12] The woman in the white top stands up and throws the white ball to the woman in pink shorts, who then throws it to the woman in black shorts. The woman in black shorts then raises the white ball with her right hand."
+    },
+    {
+        "second": 11,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DiuLglfTX3w/output_frames/sec_11_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[8-12] The woman in the white top stands up and throws the white ball to the woman in pink shorts, who then throws it to the woman in black shorts. The woman in black shorts then raises the white ball with her right hand."
+    }
+]

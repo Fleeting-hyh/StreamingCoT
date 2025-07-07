@@ -1,0 +1,177 @@
+[
+    {
+        "second": 0,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DoLjA9_TxvY/output_frames/sec_0_idx_21.jpg",
+        "fps": 24,
+        "explanation": "[0-0] On a kitchen counter, there is a blender. On the left side of the counter is a bowl of blueberries, and on the right is a bowl of raspberries. To the right of the blender is a bowl containing a pale yellow substance and a spoon. There is also a cartoon character with pink hair standing on the left side of the counter."
+    },
+    {
+        "second": 1,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DoLjA9_TxvY/output_frames/sec_1_idx_8.jpg",
+        "fps": 24,
+        "explanation": "[0-9] Next, the left hand places the cartoon character on the rim of the blender. Then, the right hand pours all the blueberries into the blender, followed by all the raspberries."
+    },
+    {
+        "second": 2,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DoLjA9_TxvY/output_frames/sec_2_idx_2.jpg",
+        "fps": 24,
+        "explanation": "[0-9] Next, the left hand places the cartoon character on the rim of the blender. Then, the right hand pours all the blueberries into the blender, followed by all the raspberries."
+    },
+    {
+        "second": 3,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DoLjA9_TxvY/output_frames/sec_3_idx_7.jpg",
+        "fps": 24,
+        "explanation": "[0-9] Next, the left hand places the cartoon character on the rim of the blender. Then, the right hand pours all the blueberries into the blender, followed by all the raspberries."
+    },
+    {
+        "second": 4,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DoLjA9_TxvY/output_frames/sec_4_idx_15.jpg",
+        "fps": 24,
+        "explanation": "[0-9] Next, the left hand places the cartoon character on the rim of the blender. Then, the right hand pours all the blueberries into the blender, followed by all the raspberries."
+    },
+    {
+        "second": 5,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DoLjA9_TxvY/output_frames/sec_5_idx_13.jpg",
+        "fps": 24,
+        "explanation": "[0-9] Next, the left hand places the cartoon character on the rim of the blender. Then, the right hand pours all the blueberries into the blender, followed by all the raspberries."
+    },
+    {
+        "second": 6,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DoLjA9_TxvY/output_frames/sec_6_idx_9.jpg",
+        "fps": 24,
+        "explanation": "[0-9] Next, the left hand places the cartoon character on the rim of the blender. Then, the right hand pours all the blueberries into the blender, followed by all the raspberries."
+    },
+    {
+        "second": 7,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DoLjA9_TxvY/output_frames/sec_7_idx_12.jpg",
+        "fps": 24,
+        "explanation": "[0-9] Next, the left hand places the cartoon character on the rim of the blender. Then, the right hand pours all the blueberries into the blender, followed by all the raspberries."
+    },
+    {
+        "second": 8,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DoLjA9_TxvY/output_frames/sec_8_idx_13.jpg",
+        "fps": 24,
+        "explanation": "[0-9] Next, the left hand places the cartoon character on the rim of the blender. Then, the right hand pours all the blueberries into the blender, followed by all the raspberries."
+    },
+    {
+        "second": 9,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DoLjA9_TxvY/output_frames/sec_9_idx_23.jpg",
+        "fps": 24,
+        "explanation": "[0-9] Next, the left hand places the cartoon character on the rim of the blender. Then, the right hand pours all the blueberries into the blender, followed by all the raspberries."
+    },
+    {
+        "second": 10,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DoLjA9_TxvY/output_frames/sec_10_idx_15.jpg",
+        "fps": 24,
+        "explanation": "[9-17] Then, the right hand uses the spoon to add the pale yellow substance into the blender. Afterward, the cartoon character is lifted off the blender rim, and the blender lid is closed."
+    },
+    {
+        "second": 11,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DoLjA9_TxvY/output_frames/sec_11_idx_0.jpg",
+        "fps": 24,
+        "explanation": "[9-17] Then, the right hand uses the spoon to add the pale yellow substance into the blender. Afterward, the cartoon character is lifted off the blender rim, and the blender lid is closed."
+    },
+    {
+        "second": 12,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DoLjA9_TxvY/output_frames/sec_12_idx_0.jpg",
+        "fps": 24,
+        "explanation": "[9-17] Then, the right hand uses the spoon to add the pale yellow substance into the blender. Afterward, the cartoon character is lifted off the blender rim, and the blender lid is closed."
+    },
+    {
+        "second": 13,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DoLjA9_TxvY/output_frames/sec_13_idx_21.jpg",
+        "fps": 24,
+        "explanation": "[9-17] Then, the right hand uses the spoon to add the pale yellow substance into the blender. Afterward, the cartoon character is lifted off the blender rim, and the blender lid is closed."
+    },
+    {
+        "second": 14,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DoLjA9_TxvY/output_frames/sec_14_idx_19.jpg",
+        "fps": 24,
+        "explanation": "[9-17] Then, the right hand uses the spoon to add the pale yellow substance into the blender. Afterward, the cartoon character is lifted off the blender rim, and the blender lid is closed."
+    },
+    {
+        "second": 15,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DoLjA9_TxvY/output_frames/sec_15_idx_23.jpg",
+        "fps": 24,
+        "explanation": "[9-17] Then, the right hand uses the spoon to add the pale yellow substance into the blender. Afterward, the cartoon character is lifted off the blender rim, and the blender lid is closed."
+    },
+    {
+        "second": 16,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DoLjA9_TxvY/output_frames/sec_16_idx_16.jpg",
+        "fps": 24,
+        "explanation": "[9-17] Then, the right hand uses the spoon to add the pale yellow substance into the blender. Afterward, the cartoon character is lifted off the blender rim, and the blender lid is closed."
+    },
+    {
+        "second": 17,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DoLjA9_TxvY/output_frames/sec_17_idx_11.jpg",
+        "fps": 24,
+        "explanation": "[9-17] Then, the right hand uses the spoon to add the pale yellow substance into the blender. Afterward, the cartoon character is lifted off the blender rim, and the blender lid is closed."
+    },
+    {
+        "second": 18,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DoLjA9_TxvY/output_frames/sec_18_idx_8.jpg",
+        "fps": 24,
+        "explanation": "[17-24] Finally, the food is thoroughly blended in the blender. Then, a new cartoon character appears in front of the camera. The left hand pours the blended smoothie into a glass, and then adds whipped cream on top. Subsequently, the pink-haired cartoon character hugs the glass, while the new cartoon character appears in the upper right corner."
+    },
+    {
+        "second": 19,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DoLjA9_TxvY/output_frames/sec_19_idx_9.jpg",
+        "fps": 24,
+        "explanation": "[17-24] Finally, the food is thoroughly blended in the blender. Then, a new cartoon character appears in front of the camera. The left hand pours the blended smoothie into a glass, and then adds whipped cream on top. Subsequently, the pink-haired cartoon character hugs the glass, while the new cartoon character appears in the upper right corner."
+    },
+    {
+        "second": 20,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DoLjA9_TxvY/output_frames/sec_20_idx_23.jpg",
+        "fps": 24,
+        "explanation": "[17-24] Finally, the food is thoroughly blended in the blender. Then, a new cartoon character appears in front of the camera. The left hand pours the blended smoothie into a glass, and then adds whipped cream on top. Subsequently, the pink-haired cartoon character hugs the glass, while the new cartoon character appears in the upper right corner."
+    },
+    {
+        "second": 21,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DoLjA9_TxvY/output_frames/sec_21_idx_0.jpg",
+        "fps": 24,
+        "explanation": "[17-24] Finally, the food is thoroughly blended in the blender. Then, a new cartoon character appears in front of the camera. The left hand pours the blended smoothie into a glass, and then adds whipped cream on top. Subsequently, the pink-haired cartoon character hugs the glass, while the new cartoon character appears in the upper right corner."
+    },
+    {
+        "second": 22,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DoLjA9_TxvY/output_frames/sec_22_idx_12.jpg",
+        "fps": 24,
+        "explanation": "[17-24] Finally, the food is thoroughly blended in the blender. Then, a new cartoon character appears in front of the camera. The left hand pours the blended smoothie into a glass, and then adds whipped cream on top. Subsequently, the pink-haired cartoon character hugs the glass, while the new cartoon character appears in the upper right corner."
+    },
+    {
+        "second": 23,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DoLjA9_TxvY/output_frames/sec_23_idx_22.jpg",
+        "fps": 24,
+        "explanation": "[17-24] Finally, the food is thoroughly blended in the blender. Then, a new cartoon character appears in front of the camera. The left hand pours the blended smoothie into a glass, and then adds whipped cream on top. Subsequently, the pink-haired cartoon character hugs the glass, while the new cartoon character appears in the upper right corner."
+    },
+    {
+        "second": 24,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DoLjA9_TxvY/output_frames/sec_24_idx_3.jpg",
+        "fps": 24,
+        "explanation": "[17-24] Finally, the food is thoroughly blended in the blender. Then, a new cartoon character appears in front of the camera. The left hand pours the blended smoothie into a glass, and then adds whipped cream on top. Subsequently, the pink-haired cartoon character hugs the glass, while the new cartoon character appears in the upper right corner."
+    }
+]

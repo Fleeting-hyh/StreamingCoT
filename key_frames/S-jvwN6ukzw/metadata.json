@@ -1,0 +1,114 @@
+[
+    {
+        "second": 0,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S-jvwN6ukzw/output_frames/sec_0_idx_22.jpg",
+        "fps": 50,
+        "explanation": "[0-0] As the video begins, a hand is holding a black alien doll with a green symbol on its chest. The background is a green lawn."
+    },
+    {
+        "second": 1,
+        "frame_index": 40,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S-jvwN6ukzw/output_frames/sec_1_idx_40.jpg",
+        "fps": 50,
+        "explanation": "[0-6] The green symbol on the doll lights up. The hand lifts the doll, revealing houses and streets in the distance. A white watermark appears in the lower right corner. The doll is then thrown forward, a green light flashes, and a black alien floats in front of the camera."
+    },
+    {
+        "second": 2,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S-jvwN6ukzw/output_frames/sec_2_idx_7.jpg",
+        "fps": 50,
+        "explanation": "[0-6] The green symbol on the doll lights up. The hand lifts the doll, revealing houses and streets in the distance. A white watermark appears in the lower right corner. The doll is then thrown forward, a green light flashes, and a black alien floats in front of the camera."
+    },
+    {
+        "second": 3,
+        "frame_index": 38,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S-jvwN6ukzw/output_frames/sec_3_idx_38.jpg",
+        "fps": 50,
+        "explanation": "[0-6] The green symbol on the doll lights up. The hand lifts the doll, revealing houses and streets in the distance. A white watermark appears in the lower right corner. The doll is then thrown forward, a green light flashes, and a black alien floats in front of the camera."
+    },
+    {
+        "second": 4,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S-jvwN6ukzw/output_frames/sec_4_idx_0.jpg",
+        "fps": 50,
+        "explanation": "[0-6] The green symbol on the doll lights up. The hand lifts the doll, revealing houses and streets in the distance. A white watermark appears in the lower right corner. The doll is then thrown forward, a green light flashes, and a black alien floats in front of the camera."
+    },
+    {
+        "second": 5,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S-jvwN6ukzw/output_frames/sec_5_idx_7.jpg",
+        "fps": 50,
+        "explanation": "[0-6] The green symbol on the doll lights up. The hand lifts the doll, revealing houses and streets in the distance. A white watermark appears in the lower right corner. The doll is then thrown forward, a green light flashes, and a black alien floats in front of the camera."
+    },
+    {
+        "second": 6,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S-jvwN6ukzw/output_frames/sec_6_idx_15.jpg",
+        "fps": 50,
+        "explanation": "[0-6] The green symbol on the doll lights up. The hand lifts the doll, revealing houses and streets in the distance. A white watermark appears in the lower right corner. The doll is then thrown forward, a green light flashes, and a black alien floats in front of the camera."
+    },
+    {
+        "second": 7,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S-jvwN6ukzw/output_frames/sec_7_idx_21.jpg",
+        "fps": 50,
+        "explanation": "[6-15] The alien continues to hover in the air, with the background trees, houses, and streets clearly visible. The alien slowly raises its arms, then lowers them, and with a flash of green light, it transforms back into a doll and flies back into the person's hand. Finally, the view shifts downward as the doll is placed down."
+    },
+    {
+        "second": 8,
+        "frame_index": 33,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S-jvwN6ukzw/output_frames/sec_8_idx_33.jpg",
+        "fps": 50,
+        "explanation": "[6-15] The alien continues to hover in the air, with the background trees, houses, and streets clearly visible. The alien slowly raises its arms, then lowers them, and with a flash of green light, it transforms back into a doll and flies back into the person's hand. Finally, the view shifts downward as the doll is placed down."
+    },
+    {
+        "second": 9,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S-jvwN6ukzw/output_frames/sec_9_idx_1.jpg",
+        "fps": 50,
+        "explanation": "[6-15] The alien continues to hover in the air, with the background trees, houses, and streets clearly visible. The alien slowly raises its arms, then lowers them, and with a flash of green light, it transforms back into a doll and flies back into the person's hand. Finally, the view shifts downward as the doll is placed down."
+    },
+    {
+        "second": 10,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S-jvwN6ukzw/output_frames/sec_10_idx_15.jpg",
+        "fps": 50,
+        "explanation": "[6-15] The alien continues to hover in the air, with the background trees, houses, and streets clearly visible. The alien slowly raises its arms, then lowers them, and with a flash of green light, it transforms back into a doll and flies back into the person's hand. Finally, the view shifts downward as the doll is placed down."
+    },
+    {
+        "second": 11,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S-jvwN6ukzw/output_frames/sec_11_idx_16.jpg",
+        "fps": 50,
+        "explanation": "[6-15] The alien continues to hover in the air, with the background trees, houses, and streets clearly visible. The alien slowly raises its arms, then lowers them, and with a flash of green light, it transforms back into a doll and flies back into the person's hand. Finally, the view shifts downward as the doll is placed down."
+    },
+    {
+        "second": 12,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S-jvwN6ukzw/output_frames/sec_12_idx_1.jpg",
+        "fps": 50,
+        "explanation": "[6-15] The alien continues to hover in the air, with the background trees, houses, and streets clearly visible. The alien slowly raises its arms, then lowers them, and with a flash of green light, it transforms back into a doll and flies back into the person's hand. Finally, the view shifts downward as the doll is placed down."
+    },
+    {
+        "second": 13,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S-jvwN6ukzw/output_frames/sec_13_idx_6.jpg",
+        "fps": 50,
+        "explanation": "[6-15] The alien continues to hover in the air, with the background trees, houses, and streets clearly visible. The alien slowly raises its arms, then lowers them, and with a flash of green light, it transforms back into a doll and flies back into the person's hand. Finally, the view shifts downward as the doll is placed down."
+    },
+    {
+        "second": 14,
+        "frame_index": 42,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S-jvwN6ukzw/output_frames/sec_14_idx_42.jpg",
+        "fps": 50,
+        "explanation": "[6-15] The alien continues to hover in the air, with the background trees, houses, and streets clearly visible. The alien slowly raises its arms, then lowers them, and with a flash of green light, it transforms back into a doll and flies back into the person's hand. Finally, the view shifts downward as the doll is placed down."
+    },
+    {
+        "second": 15,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S-jvwN6ukzw/output_frames/sec_15_idx_13.jpg",
+        "fps": 50,
+        "explanation": "[6-15] The alien continues to hover in the air, with the background trees, houses, and streets clearly visible. The alien slowly raises its arms, then lowers them, and with a flash of green light, it transforms back into a doll and flies back into the person's hand. Finally, the view shifts downward as the doll is placed down."
+    }
+]

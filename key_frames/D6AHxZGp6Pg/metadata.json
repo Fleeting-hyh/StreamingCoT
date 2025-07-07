@@ -1,0 +1,58 @@
+[
+    {
+        "second": 0,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/D6AHxZGp6Pg/output_frames/sec_0_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A woman in a black slip dress is standing with her back to the camera, raising her right hand, in front of a white door with black horizontal lines. The white door is in a green hallway."
+    },
+    {
+        "second": 1,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/D6AHxZGp6Pg/output_frames/sec_1_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[0-7] Then the woman in the black slip dress twists her body to turn around, then smiles and dances with her arms swinging."
+    },
+    {
+        "second": 2,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/D6AHxZGp6Pg/output_frames/sec_2_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[0-7] Then the woman in the black slip dress twists her body to turn around, then smiles and dances with her arms swinging."
+    },
+    {
+        "second": 3,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/D6AHxZGp6Pg/output_frames/sec_3_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[0-7] Then the woman in the black slip dress twists her body to turn around, then smiles and dances with her arms swinging."
+    },
+    {
+        "second": 4,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/D6AHxZGp6Pg/output_frames/sec_4_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[0-7] Then the woman in the black slip dress twists her body to turn around, then smiles and dances with her arms swinging."
+    },
+    {
+        "second": 5,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/D6AHxZGp6Pg/output_frames/sec_5_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[0-7] Then the woman in the black slip dress twists her body to turn around, then smiles and dances with her arms swinging."
+    },
+    {
+        "second": 6,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/D6AHxZGp6Pg/output_frames/sec_6_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[0-7] Then the woman in the black slip dress twists her body to turn around, then smiles and dances with her arms swinging."
+    },
+    {
+        "second": 7,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/D6AHxZGp6Pg/output_frames/sec_7_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[0-7] Then the woman in the black slip dress twists her body to turn around, then smiles and dances with her arms swinging."
+    }
+]

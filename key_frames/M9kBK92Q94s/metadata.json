@@ -1,0 +1,79 @@
+[
+    {
+        "second": 0,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/M9kBK92Q94s/output_frames/sec_0_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-0] In a bathroom with red brick walls and reddish-brown tiled floor, Superman, Spiderman, and Hulk are sitting side by side on toilets, facing left. Superman is on the far left, Spiderman in the middle, and Hulk on the far right. There is a large pile of poop on the floor to the left of Hulk. On the wall to the right, there are three pictures: a ghostface mask, a horror movie character, and a scary teddy bear. On the left wall, there is a giant spider and another pile of poop in the corner."
+    },
+    {
+        "second": 1,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/M9kBK92Q94s/output_frames/sec_1_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Then Hulk shakes his limbs and rises from the toilet. He immediately sits back down and looks to the right."
+    },
+    {
+        "second": 2,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/M9kBK92Q94s/output_frames/sec_2_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Then Hulk shakes his limbs and rises from the toilet. He immediately sits back down and looks to the right."
+    },
+    {
+        "second": 3,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/M9kBK92Q94s/output_frames/sec_3_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[2-5] Next, Spiderman shakes his limbs and rises from the toilet. He then stretches his limbs to the right, pressing against the picture frame on the right, and looks to the right."
+    },
+    {
+        "second": 4,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/M9kBK92Q94s/output_frames/sec_4_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[2-5] Next, Spiderman shakes his limbs and rises from the toilet. He then stretches his limbs to the right, pressing against the picture frame on the right, and looks to the right."
+    },
+    {
+        "second": 5,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/M9kBK92Q94s/output_frames/sec_5_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[2-5] Next, Spiderman shakes his limbs and rises from the toilet. He then stretches his limbs to the right, pressing against the picture frame on the right, and looks to the right."
+    },
+    {
+        "second": 6,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/M9kBK92Q94s/output_frames/sec_6_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[5-10] Subsequently, Superman shakes his limbs, rises from the toilet, and then turns and falls into the toilet, disappearing."
+    },
+    {
+        "second": 7,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/M9kBK92Q94s/output_frames/sec_7_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[5-10] Subsequently, Superman shakes his limbs, rises from the toilet, and then turns and falls into the toilet, disappearing."
+    },
+    {
+        "second": 8,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/M9kBK92Q94s/output_frames/sec_8_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[5-10] Subsequently, Superman shakes his limbs, rises from the toilet, and then turns and falls into the toilet, disappearing."
+    },
+    {
+        "second": 9,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/M9kBK92Q94s/output_frames/sec_9_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[5-10] Subsequently, Superman shakes his limbs, rises from the toilet, and then turns and falls into the toilet, disappearing."
+    },
+    {
+        "second": 10,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/M9kBK92Q94s/output_frames/sec_10_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[5-10] Subsequently, Superman shakes his limbs, rises from the toilet, and then turns and falls into the toilet, disappearing."
+    }
+]

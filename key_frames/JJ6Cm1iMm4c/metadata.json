@@ -1,0 +1,86 @@
+[
+    {
+        "second": 0,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JJ6Cm1iMm4c/output_frames/sec_0_idx_16.jpg",
+        "fps": 24,
+        "explanation": "[0-0] The video begins in a dimly lit room with a Christmas tree adorned with colorful lights and ornaments. Several beautifully wrapped gifts are placed under the tree. A hand reaches out from behind the tree, holding a present. A painting hangs on the wall, and a chair sits in the room."
+    },
+    {
+        "second": 1,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JJ6Cm1iMm4c/output_frames/sec_1_idx_16.jpg",
+        "fps": 24,
+        "explanation": "[0-6] Then a hand holding a gift shakes and shows it, then reaches out to the right."
+    },
+    {
+        "second": 2,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JJ6Cm1iMm4c/output_frames/sec_2_idx_22.jpg",
+        "fps": 24,
+        "explanation": "[0-6] Then a hand holding a gift shakes and shows it, then reaches out to the right."
+    },
+    {
+        "second": 3,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JJ6Cm1iMm4c/output_frames/sec_3_idx_17.jpg",
+        "fps": 24,
+        "explanation": "[0-6] Then a hand holding a gift shakes and shows it, then reaches out to the right."
+    },
+    {
+        "second": 4,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JJ6Cm1iMm4c/output_frames/sec_4_idx_5.jpg",
+        "fps": 24,
+        "explanation": "[0-6] Then a hand holding a gift shakes and shows it, then reaches out to the right."
+    },
+    {
+        "second": 5,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JJ6Cm1iMm4c/output_frames/sec_5_idx_5.jpg",
+        "fps": 24,
+        "explanation": "[0-6] Then a hand holding a gift shakes and shows it, then reaches out to the right."
+    },
+    {
+        "second": 6,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JJ6Cm1iMm4c/output_frames/sec_6_idx_23.jpg",
+        "fps": 24,
+        "explanation": "[0-6] Then a hand holding a gift shakes and shows it, then reaches out to the right."
+    },
+    {
+        "second": 7,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JJ6Cm1iMm4c/output_frames/sec_7_idx_22.jpg",
+        "fps": 24,
+        "explanation": "[6-11] Then a hand reaches out to receive the gift, the hand holding the gift grabs this hand, the gift falls, and the screen cuts to black."
+    },
+    {
+        "second": 8,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JJ6Cm1iMm4c/output_frames/sec_8_idx_0.jpg",
+        "fps": 24,
+        "explanation": "[6-11] Then a hand reaches out to receive the gift, the hand holding the gift grabs this hand, the gift falls, and the screen cuts to black."
+    },
+    {
+        "second": 9,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JJ6Cm1iMm4c/output_frames/sec_9_idx_14.jpg",
+        "fps": 24,
+        "explanation": "[6-11] Then a hand reaches out to receive the gift, the hand holding the gift grabs this hand, the gift falls, and the screen cuts to black."
+    },
+    {
+        "second": 10,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JJ6Cm1iMm4c/output_frames/sec_10_idx_20.jpg",
+        "fps": 24,
+        "explanation": "[6-11] Then a hand reaches out to receive the gift, the hand holding the gift grabs this hand, the gift falls, and the screen cuts to black."
+    },
+    {
+        "second": 11,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JJ6Cm1iMm4c/output_frames/sec_11_idx_0.jpg",
+        "fps": 24,
+        "explanation": "[6-11] Then a hand reaches out to receive the gift, the hand holding the gift grabs this hand, the gift falls, and the screen cuts to black."
+    }
+]

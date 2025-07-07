@@ -1,0 +1,135 @@
+[
+    {
+        "second": 0,
+        "frame_index": 56,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TZTt2gEPtQE/output_frames/sec_0_idx_56.jpg",
+        "fps": 60,
+        "explanation": "[0-0] The video begins with a racing game, a bright yellow Ford Mustang GT500 approaching from a distance. The lower part of the screen shows the player's hands operating the steering wheel and gearshift. In the game interface above, there are trees on both sides of the road, white clouds floating in the blue sky, and tall buildings on the right. There is a computer screen on the table below."
+    },
+    {
+        "second": 1,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TZTt2gEPtQE/output_frames/sec_1_idx_10.jpg",
+        "fps": 60,
+        "explanation": "[0-4] Subsequently, the player controls the steering wheel below, and the Mustang above accelerates towards a colorful buffer zone, soars into the air, plunges into a pipe, and rolls inside."
+    },
+    {
+        "second": 2,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TZTt2gEPtQE/output_frames/sec_2_idx_5.jpg",
+        "fps": 60,
+        "explanation": "[0-4] Subsequently, the player controls the steering wheel below, and the Mustang above accelerates towards a colorful buffer zone, soars into the air, plunges into a pipe, and rolls inside."
+    },
+    {
+        "second": 3,
+        "frame_index": 57,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TZTt2gEPtQE/output_frames/sec_3_idx_57.jpg",
+        "fps": 60,
+        "explanation": "[0-4] Subsequently, the player controls the steering wheel below, and the Mustang above accelerates towards a colorful buffer zone, soars into the air, plunges into a pipe, and rolls inside."
+    },
+    {
+        "second": 4,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TZTt2gEPtQE/output_frames/sec_4_idx_8.jpg",
+        "fps": 60,
+        "explanation": "[0-4] Subsequently, the player controls the steering wheel below, and the Mustang above accelerates towards a colorful buffer zone, soars into the air, plunges into a pipe, and rolls inside."
+    },
+    {
+        "second": 5,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TZTt2gEPtQE/output_frames/sec_5_idx_20.jpg",
+        "fps": 60,
+        "explanation": "[4-6] Afterwards, the Mustang soars through the pipe, rushes into the middle of a building, and lands on a platform."
+    },
+    {
+        "second": 6,
+        "frame_index": 36,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TZTt2gEPtQE/output_frames/sec_6_idx_36.jpg",
+        "fps": 60,
+        "explanation": "[4-6] Afterwards, the Mustang soars through the pipe, rushes into the middle of a building, and lands on a platform."
+    },
+    {
+        "second": 7,
+        "frame_index": 53,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TZTt2gEPtQE/output_frames/sec_7_idx_53.jpg",
+        "fps": 60,
+        "explanation": "[6-12] Then the Mustang drives at a constant speed on the platform, continues through the pipe, and lands on another platform."
+    },
+    {
+        "second": 8,
+        "frame_index": 37,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TZTt2gEPtQE/output_frames/sec_8_idx_37.jpg",
+        "fps": 60,
+        "explanation": "[6-12] Then the Mustang drives at a constant speed on the platform, continues through the pipe, and lands on another platform."
+    },
+    {
+        "second": 9,
+        "frame_index": 58,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TZTt2gEPtQE/output_frames/sec_9_idx_58.jpg",
+        "fps": 60,
+        "explanation": "[6-12] Then the Mustang drives at a constant speed on the platform, continues through the pipe, and lands on another platform."
+    },
+    {
+        "second": 10,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TZTt2gEPtQE/output_frames/sec_10_idx_11.jpg",
+        "fps": 60,
+        "explanation": "[6-12] Then the Mustang drives at a constant speed on the platform, continues through the pipe, and lands on another platform."
+    },
+    {
+        "second": 11,
+        "frame_index": 57,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TZTt2gEPtQE/output_frames/sec_11_idx_57.jpg",
+        "fps": 60,
+        "explanation": "[6-12] Then the Mustang drives at a constant speed on the platform, continues through the pipe, and lands on another platform."
+    },
+    {
+        "second": 12,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TZTt2gEPtQE/output_frames/sec_12_idx_2.jpg",
+        "fps": 60,
+        "explanation": "[6-12] Then the Mustang drives at a constant speed on the platform, continues through the pipe, and lands on another platform."
+    },
+    {
+        "second": 13,
+        "frame_index": 30,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TZTt2gEPtQE/output_frames/sec_13_idx_30.jpg",
+        "fps": 60,
+        "explanation": "[12-19] After that, the Mustang continues to shuttle, dashes into the pipe again, and heads towards the next \"bridge\" composed of multiple excavators. After a brief movement, it stops in the garage."
+    },
+    {
+        "second": 14,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TZTt2gEPtQE/output_frames/sec_14_idx_15.jpg",
+        "fps": 60,
+        "explanation": "[12-19] After that, the Mustang continues to shuttle, dashes into the pipe again, and heads towards the next \"bridge\" composed of multiple excavators. After a brief movement, it stops in the garage."
+    },
+    {
+        "second": 15,
+        "frame_index": 40,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TZTt2gEPtQE/output_frames/sec_15_idx_40.jpg",
+        "fps": 60,
+        "explanation": "[12-19] After that, the Mustang continues to shuttle, dashes into the pipe again, and heads towards the next \"bridge\" composed of multiple excavators. After a brief movement, it stops in the garage."
+    },
+    {
+        "second": 16,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TZTt2gEPtQE/output_frames/sec_16_idx_21.jpg",
+        "fps": 60,
+        "explanation": "[12-19] After that, the Mustang continues to shuttle, dashes into the pipe again, and heads towards the next \"bridge\" composed of multiple excavators. After a brief movement, it stops in the garage."
+    },
+    {
+        "second": 17,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TZTt2gEPtQE/output_frames/sec_17_idx_1.jpg",
+        "fps": 60,
+        "explanation": "[12-19] After that, the Mustang continues to shuttle, dashes into the pipe again, and heads towards the next \"bridge\" composed of multiple excavators. After a brief movement, it stops in the garage."
+    },
+    {
+        "second": 18,
+        "frame_index": 46,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TZTt2gEPtQE/output_frames/sec_18_idx_46.jpg",
+        "fps": 60,
+        "explanation": "[12-19] After that, the Mustang continues to shuttle, dashes into the pipe again, and heads towards the next \"bridge\" composed of multiple excavators. After a brief movement, it stops in the garage."
+    }
+]

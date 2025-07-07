@@ -1,0 +1,422 @@
+[
+    {
+        "second": 0,
+        "frame_index": 42,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LfFJhkVnp4g/output_frames/sec_0_idx_42.jpg",
+        "fps": 60,
+        "explanation": "[0-0] The image is a three-part screen, with a black background at the top and bottom. The middle part shows a kitchen where a worker in a white uniform and blue gloves is standing in front of many yellow plastic baskets full of oranges. Several metal trays are placed on the metal shelf behind the worker, and a large red basin is placed on one of the shelves."
+    },
+    {
+        "second": 1,
+        "frame_index": 48,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LfFJhkVnp4g/output_frames/sec_1_idx_48.jpg",
+        "fps": 60,
+        "explanation": "[0-4] The camera zooms in on two hands wearing blue gloves using tools to peel oranges. The peeled orange peels are piled up in the basket. The worker puts the orange pulp into a large metal basin, which is already filled with orange pulp."
+    },
+    {
+        "second": 2,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LfFJhkVnp4g/output_frames/sec_2_idx_26.jpg",
+        "fps": 60,
+        "explanation": "[0-4] The camera zooms in on two hands wearing blue gloves using tools to peel oranges. The peeled orange peels are piled up in the basket. The worker puts the orange pulp into a large metal basin, which is already filled with orange pulp."
+    },
+    {
+        "second": 3,
+        "frame_index": 31,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LfFJhkVnp4g/output_frames/sec_3_idx_31.jpg",
+        "fps": 60,
+        "explanation": "[0-4] The camera zooms in on two hands wearing blue gloves using tools to peel oranges. The peeled orange peels are piled up in the basket. The worker puts the orange pulp into a large metal basin, which is already filled with orange pulp."
+    },
+    {
+        "second": 4,
+        "frame_index": 52,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LfFJhkVnp4g/output_frames/sec_4_idx_52.jpg",
+        "fps": 60,
+        "explanation": "[0-4] The camera zooms in on two hands wearing blue gloves using tools to peel oranges. The peeled orange peels are piled up in the basket. The worker puts the orange pulp into a large metal basin, which is already filled with orange pulp."
+    },
+    {
+        "second": 5,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LfFJhkVnp4g/output_frames/sec_5_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[4-7] Then the picture switches again, and the worker puts the peeled oranges into a metal container, which moves to the right. Then the scene changes to a white plate piled with many sliced orange pulps. The camera zooms in as more and more pulps are piled on the plate."
+    },
+    {
+        "second": 6,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LfFJhkVnp4g/output_frames/sec_6_idx_8.jpg",
+        "fps": 60,
+        "explanation": "[4-7] Then the picture switches again, and the worker puts the peeled oranges into a metal container, which moves to the right. Then the scene changes to a white plate piled with many sliced orange pulps. The camera zooms in as more and more pulps are piled on the plate."
+    },
+    {
+        "second": 7,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LfFJhkVnp4g/output_frames/sec_7_idx_28.jpg",
+        "fps": 60,
+        "explanation": "[4-7] Then the picture switches again, and the worker puts the peeled oranges into a metal container, which moves to the right. Then the scene changes to a white plate piled with many sliced orange pulps. The camera zooms in as more and more pulps are piled on the plate."
+    },
+    {
+        "second": 8,
+        "frame_index": 45,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LfFJhkVnp4g/output_frames/sec_8_idx_45.jpg",
+        "fps": 60,
+        "explanation": "[7-10] Next, the picture shows a metal slicer, where a worker wearing blue gloves puts the oranges into the slicer and slices them into thin slices. The camera zooms in on the workers arranging the sliced oranges neatly on a tray."
+    },
+    {
+        "second": 9,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LfFJhkVnp4g/output_frames/sec_9_idx_8.jpg",
+        "fps": 60,
+        "explanation": "[7-10] Next, the picture shows a metal slicer, where a worker wearing blue gloves puts the oranges into the slicer and slices them into thin slices. The camera zooms in on the workers arranging the sliced oranges neatly on a tray."
+    },
+    {
+        "second": 10,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LfFJhkVnp4g/output_frames/sec_10_idx_26.jpg",
+        "fps": 60,
+        "explanation": "[7-10] Next, the picture shows a metal slicer, where a worker wearing blue gloves puts the oranges into the slicer and slices them into thin slices. The camera zooms in on the workers arranging the sliced oranges neatly on a tray."
+    },
+    {
+        "second": 11,
+        "frame_index": 59,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LfFJhkVnp4g/output_frames/sec_11_idx_59.jpg",
+        "fps": 60,
+        "explanation": "[10-13] Then, the picture switches to a drying oven, where the workers put the trays filled with orange slices into the oven and set the drying time and temperature."
+    },
+    {
+        "second": 12,
+        "frame_index": 53,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LfFJhkVnp4g/output_frames/sec_12_idx_53.jpg",
+        "fps": 60,
+        "explanation": "[10-13] Then, the picture switches to a drying oven, where the workers put the trays filled with orange slices into the oven and set the drying time and temperature."
+    },
+    {
+        "second": 13,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LfFJhkVnp4g/output_frames/sec_13_idx_10.jpg",
+        "fps": 60,
+        "explanation": "[10-13] Then, the picture switches to a drying oven, where the workers put the trays filled with orange slices into the oven and set the drying time and temperature."
+    },
+    {
+        "second": 14,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LfFJhkVnp4g/output_frames/sec_14_idx_15.jpg",
+        "fps": 60,
+        "explanation": "[13-17] Next, the picture shows an empty juicer with its lid open. The worker puts the oranges into the juicer, the lid falls, and the squeezed orange juice flows into the metal container. The camera zooms in on the orange juice flowing down."
+    },
+    {
+        "second": 15,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LfFJhkVnp4g/output_frames/sec_15_idx_1.jpg",
+        "fps": 60,
+        "explanation": "[13-17] Next, the picture shows an empty juicer with its lid open. The worker puts the oranges into the juicer, the lid falls, and the squeezed orange juice flows into the metal container. The camera zooms in on the orange juice flowing down."
+    },
+    {
+        "second": 16,
+        "frame_index": 54,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LfFJhkVnp4g/output_frames/sec_16_idx_54.jpg",
+        "fps": 60,
+        "explanation": "[13-17] Next, the picture shows an empty juicer with its lid open. The worker puts the oranges into the juicer, the lid falls, and the squeezed orange juice flows into the metal container. The camera zooms in on the orange juice flowing down."
+    },
+    {
+        "second": 17,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LfFJhkVnp4g/output_frames/sec_17_idx_27.jpg",
+        "fps": 60,
+        "explanation": "[13-17] Next, the picture shows an empty juicer with its lid open. The worker puts the oranges into the juicer, the lid falls, and the squeezed orange juice flows into the metal container. The camera zooms in on the orange juice flowing down."
+    },
+    {
+        "second": 18,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LfFJhkVnp4g/output_frames/sec_18_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[17-20] Then the worker pours the squeezed orange juice into a metal container filled with white flour and pours in some white liquid. Then he stirs and mixes it by hand."
+    },
+    {
+        "second": 19,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LfFJhkVnp4g/output_frames/sec_19_idx_23.jpg",
+        "fps": 60,
+        "explanation": "[17-20] Then the worker pours the squeezed orange juice into a metal container filled with white flour and pours in some white liquid. Then he stirs and mixes it by hand."
+    },
+    {
+        "second": 20,
+        "frame_index": 56,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LfFJhkVnp4g/output_frames/sec_20_idx_56.jpg",
+        "fps": 60,
+        "explanation": "[17-20] Then the worker pours the squeezed orange juice into a metal container filled with white flour and pours in some white liquid. Then he stirs and mixes it by hand."
+    },
+    {
+        "second": 21,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LfFJhkVnp4g/output_frames/sec_21_idx_1.jpg",
+        "fps": 60,
+        "explanation": "[20-23] Then a hand throws the dough into a machine, which presses the dough into a pancake."
+    },
+    {
+        "second": 22,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LfFJhkVnp4g/output_frames/sec_22_idx_10.jpg",
+        "fps": 60,
+        "explanation": "[20-23] Then a hand throws the dough into a machine, which presses the dough into a pancake."
+    },
+    {
+        "second": 23,
+        "frame_index": 55,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LfFJhkVnp4g/output_frames/sec_23_idx_55.jpg",
+        "fps": 60,
+        "explanation": "[20-23] Then a hand throws the dough into a machine, which presses the dough into a pancake."
+    },
+    {
+        "second": 24,
+        "frame_index": 51,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LfFJhkVnp4g/output_frames/sec_24_idx_51.jpg",
+        "fps": 60,
+        "explanation": "[23-30] Then the pancake is cut into long strips of equal size, and the worker cuts the noodles and stacks them neatly together."
+    },
+    {
+        "second": 25,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LfFJhkVnp4g/output_frames/sec_25_idx_19.jpg",
+        "fps": 60,
+        "explanation": "[23-30] Then the pancake is cut into long strips of equal size, and the worker cuts the noodles and stacks them neatly together."
+    },
+    {
+        "second": 26,
+        "frame_index": 42,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LfFJhkVnp4g/output_frames/sec_26_idx_42.jpg",
+        "fps": 60,
+        "explanation": "[23-30] Then the pancake is cut into long strips of equal size, and the worker cuts the noodles and stacks them neatly together."
+    },
+    {
+        "second": 27,
+        "frame_index": 42,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LfFJhkVnp4g/output_frames/sec_27_idx_42.jpg",
+        "fps": 60,
+        "explanation": "[23-30] Then the pancake is cut into long strips of equal size, and the worker cuts the noodles and stacks them neatly together."
+    },
+    {
+        "second": 28,
+        "frame_index": 36,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LfFJhkVnp4g/output_frames/sec_28_idx_36.jpg",
+        "fps": 60,
+        "explanation": "[23-30] Then the pancake is cut into long strips of equal size, and the worker cuts the noodles and stacks them neatly together."
+    },
+    {
+        "second": 29,
+        "frame_index": 45,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LfFJhkVnp4g/output_frames/sec_29_idx_45.jpg",
+        "fps": 60,
+        "explanation": "[23-30] Then the pancake is cut into long strips of equal size, and the worker cuts the noodles and stacks them neatly together."
+    },
+    {
+        "second": 30,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LfFJhkVnp4g/output_frames/sec_30_idx_21.jpg",
+        "fps": 60,
+        "explanation": "[23-30] Then the pancake is cut into long strips of equal size, and the worker cuts the noodles and stacks them neatly together."
+    },
+    {
+        "second": 31,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LfFJhkVnp4g/output_frames/sec_31_idx_13.jpg",
+        "fps": 60,
+        "explanation": "[30-35] Then the workers put the cut noodles into the fryer for frying. The noodles roll in the fryer and gradually turn golden yellow."
+    },
+    {
+        "second": 32,
+        "frame_index": 42,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LfFJhkVnp4g/output_frames/sec_32_idx_42.jpg",
+        "fps": 60,
+        "explanation": "[30-35] Then the workers put the cut noodles into the fryer for frying. The noodles roll in the fryer and gradually turn golden yellow."
+    },
+    {
+        "second": 33,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LfFJhkVnp4g/output_frames/sec_33_idx_4.jpg",
+        "fps": 60,
+        "explanation": "[30-35] Then the workers put the cut noodles into the fryer for frying. The noodles roll in the fryer and gradually turn golden yellow."
+    },
+    {
+        "second": 34,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LfFJhkVnp4g/output_frames/sec_34_idx_19.jpg",
+        "fps": 60,
+        "explanation": "[30-35] Then the workers put the cut noodles into the fryer for frying. The noodles roll in the fryer and gradually turn golden yellow."
+    },
+    {
+        "second": 35,
+        "frame_index": 57,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LfFJhkVnp4g/output_frames/sec_35_idx_57.jpg",
+        "fps": 60,
+        "explanation": "[30-35] Then the workers put the cut noodles into the fryer for frying. The noodles roll in the fryer and gradually turn golden yellow."
+    },
+    {
+        "second": 36,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LfFJhkVnp4g/output_frames/sec_36_idx_2.jpg",
+        "fps": 60,
+        "explanation": "[35-39] After that, the workers take out the fried noodles with a frying net, drain the oil and put them in the basket, showing an attractive golden color."
+    },
+    {
+        "second": 37,
+        "frame_index": 32,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LfFJhkVnp4g/output_frames/sec_37_idx_32.jpg",
+        "fps": 60,
+        "explanation": "[35-39] After that, the workers take out the fried noodles with a frying net, drain the oil and put them in the basket, showing an attractive golden color."
+    },
+    {
+        "second": 38,
+        "frame_index": 42,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LfFJhkVnp4g/output_frames/sec_38_idx_42.jpg",
+        "fps": 60,
+        "explanation": "[35-39] After that, the workers take out the fried noodles with a frying net, drain the oil and put them in the basket, showing an attractive golden color."
+    },
+    {
+        "second": 39,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LfFJhkVnp4g/output_frames/sec_39_idx_23.jpg",
+        "fps": 60,
+        "explanation": "[35-39] After that, the workers take out the fried noodles with a frying net, drain the oil and put them in the basket, showing an attractive golden color."
+    },
+    {
+        "second": 40,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LfFJhkVnp4g/output_frames/sec_40_idx_7.jpg",
+        "fps": 60,
+        "explanation": "[39-45] Then the picture switches to a glass of orange syrup being poured into a metal container, followed by a bag of white flour and brown liquid. Then stir and mix the liquid with a metal stick."
+    },
+    {
+        "second": 41,
+        "frame_index": 57,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LfFJhkVnp4g/output_frames/sec_41_idx_57.jpg",
+        "fps": 60,
+        "explanation": "[39-45] Then the picture switches to a glass of orange syrup being poured into a metal container, followed by a bag of white flour and brown liquid. Then stir and mix the liquid with a metal stick."
+    },
+    {
+        "second": 42,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LfFJhkVnp4g/output_frames/sec_42_idx_14.jpg",
+        "fps": 60,
+        "explanation": "[39-45] Then the picture switches to a glass of orange syrup being poured into a metal container, followed by a bag of white flour and brown liquid. Then stir and mix the liquid with a metal stick."
+    },
+    {
+        "second": 43,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LfFJhkVnp4g/output_frames/sec_43_idx_5.jpg",
+        "fps": 60,
+        "explanation": "[39-45] Then the picture switches to a glass of orange syrup being poured into a metal container, followed by a bag of white flour and brown liquid. Then stir and mix the liquid with a metal stick."
+    },
+    {
+        "second": 44,
+        "frame_index": 41,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LfFJhkVnp4g/output_frames/sec_44_idx_41.jpg",
+        "fps": 60,
+        "explanation": "[39-45] Then the picture switches to a glass of orange syrup being poured into a metal container, followed by a bag of white flour and brown liquid. Then stir and mix the liquid with a metal stick."
+    },
+    {
+        "second": 45,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LfFJhkVnp4g/output_frames/sec_45_idx_18.jpg",
+        "fps": 60,
+        "explanation": "[39-45] Then the picture switches to a glass of orange syrup being poured into a metal container, followed by a bag of white flour and brown liquid. Then stir and mix the liquid with a metal stick."
+    },
+    {
+        "second": 46,
+        "frame_index": 48,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LfFJhkVnp4g/output_frames/sec_46_idx_48.jpg",
+        "fps": 60,
+        "explanation": "[45-53] Next, the worker evenly spreads the syrup on the fried noodles with a brush. Put it into a container filled with white rice grains, put a slice of dried orange on the cake, wrap the cake with white rice grains, and put it on a tray."
+    },
+    {
+        "second": 47,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LfFJhkVnp4g/output_frames/sec_47_idx_17.jpg",
+        "fps": 60,
+        "explanation": "[45-53] Next, the worker evenly spreads the syrup on the fried noodles with a brush. Put it into a container filled with white rice grains, put a slice of dried orange on the cake, wrap the cake with white rice grains, and put it on a tray."
+    },
+    {
+        "second": 48,
+        "frame_index": 47,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LfFJhkVnp4g/output_frames/sec_48_idx_47.jpg",
+        "fps": 60,
+        "explanation": "[45-53] Next, the worker evenly spreads the syrup on the fried noodles with a brush. Put it into a container filled with white rice grains, put a slice of dried orange on the cake, wrap the cake with white rice grains, and put it on a tray."
+    },
+    {
+        "second": 49,
+        "frame_index": 49,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LfFJhkVnp4g/output_frames/sec_49_idx_49.jpg",
+        "fps": 60,
+        "explanation": "[45-53] Next, the worker evenly spreads the syrup on the fried noodles with a brush. Put it into a container filled with white rice grains, put a slice of dried orange on the cake, wrap the cake with white rice grains, and put it on a tray."
+    },
+    {
+        "second": 50,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LfFJhkVnp4g/output_frames/sec_50_idx_14.jpg",
+        "fps": 60,
+        "explanation": "[45-53] Next, the worker evenly spreads the syrup on the fried noodles with a brush. Put it into a container filled with white rice grains, put a slice of dried orange on the cake, wrap the cake with white rice grains, and put it on a tray."
+    },
+    {
+        "second": 51,
+        "frame_index": 37,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LfFJhkVnp4g/output_frames/sec_51_idx_37.jpg",
+        "fps": 60,
+        "explanation": "[45-53] Next, the worker evenly spreads the syrup on the fried noodles with a brush. Put it into a container filled with white rice grains, put a slice of dried orange on the cake, wrap the cake with white rice grains, and put it on a tray."
+    },
+    {
+        "second": 52,
+        "frame_index": 41,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LfFJhkVnp4g/output_frames/sec_52_idx_41.jpg",
+        "fps": 60,
+        "explanation": "[45-53] Next, the worker evenly spreads the syrup on the fried noodles with a brush. Put it into a container filled with white rice grains, put a slice of dried orange on the cake, wrap the cake with white rice grains, and put it on a tray."
+    },
+    {
+        "second": 53,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LfFJhkVnp4g/output_frames/sec_53_idx_17.jpg",
+        "fps": 60,
+        "explanation": "[45-53] Next, the worker evenly spreads the syrup on the fried noodles with a brush. Put it into a container filled with white rice grains, put a slice of dried orange on the cake, wrap the cake with white rice grains, and put it on a tray."
+    },
+    {
+        "second": 54,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LfFJhkVnp4g/output_frames/sec_54_idx_13.jpg",
+        "fps": 60,
+        "explanation": "[53-59] Then the machine packs the cake in a plastic bag. Finally, a pair of hands tear open the package on a brown table, break the cake open and display it."
+    },
+    {
+        "second": 55,
+        "frame_index": 47,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LfFJhkVnp4g/output_frames/sec_55_idx_47.jpg",
+        "fps": 60,
+        "explanation": "[53-59] Then the machine packs the cake in a plastic bag. Finally, a pair of hands tear open the package on a brown table, break the cake open and display it."
+    },
+    {
+        "second": 56,
+        "frame_index": 42,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LfFJhkVnp4g/output_frames/sec_56_idx_42.jpg",
+        "fps": 60,
+        "explanation": "[53-59] Then the machine packs the cake in a plastic bag. Finally, a pair of hands tear open the package on a brown table, break the cake open and display it."
+    },
+    {
+        "second": 57,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LfFJhkVnp4g/output_frames/sec_57_idx_12.jpg",
+        "fps": 60,
+        "explanation": "[53-59] Then the machine packs the cake in a plastic bag. Finally, a pair of hands tear open the package on a brown table, break the cake open and display it."
+    },
+    {
+        "second": 58,
+        "frame_index": 57,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LfFJhkVnp4g/output_frames/sec_58_idx_57.jpg",
+        "fps": 60,
+        "explanation": "[53-59] Then the machine packs the cake in a plastic bag. Finally, a pair of hands tear open the package on a brown table, break the cake open and display it."
+    },
+    {
+        "second": 59,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LfFJhkVnp4g/output_frames/sec_59_idx_17.jpg",
+        "fps": 60,
+        "explanation": "[53-59] Then the machine packs the cake in a plastic bag. Finally, a pair of hands tear open the package on a brown table, break the cake open and display it."
+    }
+]

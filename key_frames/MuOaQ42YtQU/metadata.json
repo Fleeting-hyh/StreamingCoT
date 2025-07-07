@@ -1,0 +1,44 @@
+[
+    {
+        "second": 0,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MuOaQ42YtQU/output_frames/sec_0_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[0-0] In a factory filled with metalworking machines and tools, a worker holding a pair of metal pliers in his right hand is sitting on a stool, operating a machine. To the right of the machine is a red-hot metal bar. Some debris is scattered on the ground."
+    },
+    {
+        "second": 1,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MuOaQ42YtQU/output_frames/sec_1_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[0-2] As the machine rotates, the worker uses the metal pliers in his right hand to move the red-hot metal bar on the right side of the machine to the left side of the machine and puts down the metal pliers in his right hand."
+    },
+    {
+        "second": 2,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MuOaQ42YtQU/output_frames/sec_2_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[0-2] As the machine rotates, the worker uses the metal pliers in his right hand to move the red-hot metal bar on the right side of the machine to the left side of the machine and puts down the metal pliers in his right hand."
+    },
+    {
+        "second": 3,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MuOaQ42YtQU/output_frames/sec_3_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[2-5] As the machine rotates, the metal bar begins to bend under the pressure of the machine, and then the worker picks up the metal bar with another pair of pliers in his left hand and moves it away from the left side of the screen. After that, another red-hot metal bar slides out from the right side of the machine."
+    },
+    {
+        "second": 4,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MuOaQ42YtQU/output_frames/sec_4_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[2-5] As the machine rotates, the metal bar begins to bend under the pressure of the machine, and then the worker picks up the metal bar with another pair of pliers in his left hand and moves it away from the left side of the screen. After that, another red-hot metal bar slides out from the right side of the machine."
+    },
+    {
+        "second": 5,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MuOaQ42YtQU/output_frames/sec_5_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[2-5] As the machine rotates, the metal bar begins to bend under the pressure of the machine, and then the worker picks up the metal bar with another pair of pliers in his left hand and moves it away from the left side of the screen. After that, another red-hot metal bar slides out from the right side of the machine."
+    }
+]

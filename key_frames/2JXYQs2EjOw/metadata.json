@@ -1,0 +1,79 @@
+[
+    {
+        "second": 0,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2JXYQs2EjOw/output_frames/sec_0_idx_3.jpg",
+        "fps": 24,
+        "explanation": "[0-0] Inside a room with brown wooden floors, a crib is situated on the left side. A pink plush toy lies in the crib. In front of the crib stands a light gray cabinet, with a small green cup and a large yellow-blue cup on top. To the right of the crib, there's a white double bed with a large purple plush toy lying on it, its long limbs sprawled out. The wall in front is white with brown trim."
+    },
+    {
+        "second": 1,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2JXYQs2EjOw/output_frames/sec_1_idx_3.jpg",
+        "fps": 24,
+        "explanation": "[0-3] Next, the red plush toy in the crib starts to wriggle and opens its mouth wide. The purple plush toy sits up, grabs the yellow-green cup from the cabinet, puts it into the pink plush toy's mouth, and then lies down again."
+    },
+    {
+        "second": 2,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2JXYQs2EjOw/output_frames/sec_2_idx_22.jpg",
+        "fps": 24,
+        "explanation": "[0-3] Next, the red plush toy in the crib starts to wriggle and opens its mouth wide. The purple plush toy sits up, grabs the yellow-green cup from the cabinet, puts it into the pink plush toy's mouth, and then lies down again."
+    },
+    {
+        "second": 3,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2JXYQs2EjOw/output_frames/sec_3_idx_0.jpg",
+        "fps": 24,
+        "explanation": "[0-3] Next, the red plush toy in the crib starts to wriggle and opens its mouth wide. The purple plush toy sits up, grabs the yellow-green cup from the cabinet, puts it into the pink plush toy's mouth, and then lies down again."
+    },
+    {
+        "second": 4,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2JXYQs2EjOw/output_frames/sec_4_idx_0.jpg",
+        "fps": 24,
+        "explanation": "[3-8] Subsequently, the scene switches. A large blue plush toy is lying on the white double bed on the left, while a small blue plush toy is lying in the crib on the right. On the cabinet in front of the crib, there is a large yellow-green cup, a medium-sized red-yellow cup, a small yellow-blue cup, and a toy gun beside them. Then, the small blue plush toy in the crib wriggles its body and opens its mouth wide. The large blue plush toy sits up, picks up the large yellow-green cup, and puts it to the small blue plush toy's mouth. The small blue plush toy throws the cup away."
+    },
+    {
+        "second": 5,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2JXYQs2EjOw/output_frames/sec_5_idx_11.jpg",
+        "fps": 24,
+        "explanation": "[3-8] Subsequently, the scene switches. A large blue plush toy is lying on the white double bed on the left, while a small blue plush toy is lying in the crib on the right. On the cabinet in front of the crib, there is a large yellow-green cup, a medium-sized red-yellow cup, a small yellow-blue cup, and a toy gun beside them. Then, the small blue plush toy in the crib wriggles its body and opens its mouth wide. The large blue plush toy sits up, picks up the large yellow-green cup, and puts it to the small blue plush toy's mouth. The small blue plush toy throws the cup away."
+    },
+    {
+        "second": 6,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2JXYQs2EjOw/output_frames/sec_6_idx_14.jpg",
+        "fps": 24,
+        "explanation": "[3-8] Subsequently, the scene switches. A large blue plush toy is lying on the white double bed on the left, while a small blue plush toy is lying in the crib on the right. On the cabinet in front of the crib, there is a large yellow-green cup, a medium-sized red-yellow cup, a small yellow-blue cup, and a toy gun beside them. Then, the small blue plush toy in the crib wriggles its body and opens its mouth wide. The large blue plush toy sits up, picks up the large yellow-green cup, and puts it to the small blue plush toy's mouth. The small blue plush toy throws the cup away."
+    },
+    {
+        "second": 7,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2JXYQs2EjOw/output_frames/sec_7_idx_23.jpg",
+        "fps": 24,
+        "explanation": "[3-8] Subsequently, the scene switches. A large blue plush toy is lying on the white double bed on the left, while a small blue plush toy is lying in the crib on the right. On the cabinet in front of the crib, there is a large yellow-green cup, a medium-sized red-yellow cup, a small yellow-blue cup, and a toy gun beside them. Then, the small blue plush toy in the crib wriggles its body and opens its mouth wide. The large blue plush toy sits up, picks up the large yellow-green cup, and puts it to the small blue plush toy's mouth. The small blue plush toy throws the cup away."
+    },
+    {
+        "second": 8,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2JXYQs2EjOw/output_frames/sec_8_idx_13.jpg",
+        "fps": 24,
+        "explanation": "[3-8] Subsequently, the scene switches. A large blue plush toy is lying on the white double bed on the left, while a small blue plush toy is lying in the crib on the right. On the cabinet in front of the crib, there is a large yellow-green cup, a medium-sized red-yellow cup, a small yellow-blue cup, and a toy gun beside them. Then, the small blue plush toy in the crib wriggles its body and opens its mouth wide. The large blue plush toy sits up, picks up the large yellow-green cup, and puts it to the small blue plush toy's mouth. The small blue plush toy throws the cup away."
+    },
+    {
+        "second": 9,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2JXYQs2EjOw/output_frames/sec_9_idx_8.jpg",
+        "fps": 24,
+        "explanation": "[8-10] Afterward, the small blue plush toy continues to wriggle and open its mouth. The large blue plush toy picks up the toy gun and hands it to the small blue plush toy. The small blue plush toy happily laughs while holding the toy gun, and yellow flames shoot out from the muzzle."
+    },
+    {
+        "second": 10,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2JXYQs2EjOw/output_frames/sec_10_idx_8.jpg",
+        "fps": 24,
+        "explanation": "[8-10] Afterward, the small blue plush toy continues to wriggle and open its mouth. The large blue plush toy picks up the toy gun and hands it to the small blue plush toy. The small blue plush toy happily laughs while holding the toy gun, and yellow flames shoot out from the muzzle."
+    }
+]

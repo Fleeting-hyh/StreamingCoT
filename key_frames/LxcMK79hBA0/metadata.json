@@ -1,0 +1,58 @@
+[
+    {
+        "second": 0,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LxcMK79hBA0/output_frames/sec_0_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[0-0] The frame shows a man's face with his eyes open, several plastic insect toys stuck to his face, including a spider, a grasshopper, a cockroach, a ladybug and a cicada."
+    },
+    {
+        "second": 1,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LxcMK79hBA0/output_frames/sec_1_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Then he opens his mouth slightly, and a hand reaches out and takes away the yellow cicada from the side of his mouth."
+    },
+    {
+        "second": 2,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LxcMK79hBA0/output_frames/sec_2_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Then he opens his mouth slightly, and a hand reaches out and takes away the yellow cicada from the side of his mouth."
+    },
+    {
+        "second": 3,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LxcMK79hBA0/output_frames/sec_3_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[2-4] Immediately afterwards, the man opens his mouth wide, the hand takes the ladybug, and the man closes his mouth."
+    },
+    {
+        "second": 4,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LxcMK79hBA0/output_frames/sec_4_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[2-4] Immediately afterwards, the man opens his mouth wide, the hand takes the ladybug, and the man closes his mouth."
+    },
+    {
+        "second": 5,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LxcMK79hBA0/output_frames/sec_5_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[4-7] Then the hand reappears, removes the cockroach from his face, and then the spider. Now only the grasshopper remains on his face, the man pouts his lips and continues to look straight ahead."
+    },
+    {
+        "second": 6,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LxcMK79hBA0/output_frames/sec_6_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[4-7] Then the hand reappears, removes the cockroach from his face, and then the spider. Now only the grasshopper remains on his face, the man pouts his lips and continues to look straight ahead."
+    },
+    {
+        "second": 7,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LxcMK79hBA0/output_frames/sec_7_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[4-7] Then the hand reappears, removes the cockroach from his face, and then the spider. Now only the grasshopper remains on his face, the man pouts his lips and continues to look straight ahead."
+    }
+]

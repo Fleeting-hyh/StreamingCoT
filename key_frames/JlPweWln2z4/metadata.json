@@ -1,0 +1,72 @@
+[
+    {
+        "second": 0,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JlPweWln2z4/output_frames/sec_0_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A man wearing a light brown short-sleeved shirt is holding a small wooden stick in his right hand and a green frog toy in his left hand. The frog has small yellow circles with red centers on its back, eyes, and front paws. On the table, we can see ten toys. On the left are three plush dolls in light purple, purple, and dark purple. In the middle are light purple, red, and sky blue dolls, and on the right are green, yellowish, light blue, and brown frog toys. The smallest green frog toy is at the top, and the largest brown frog toy is at the bottom."
+    },
+    {
+        "second": 1,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JlPweWln2z4/output_frames/sec_1_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-2] The man scrapes the back of the small green frog in his left hand back and forth with the small wooden stick in his right hand. After scraping twice, the sky blue doll in the middle moves forward a few steps."
+    },
+    {
+        "second": 2,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JlPweWln2z4/output_frames/sec_2_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[0-2] The man scrapes the back of the small green frog in his left hand back and forth with the small wooden stick in his right hand. After scraping twice, the sky blue doll in the middle moves forward a few steps."
+    },
+    {
+        "second": 3,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JlPweWln2z4/output_frames/sec_3_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[2-5] The red doll in the middle tilts its head to the right. The man scrapes the back of the little frog a few more times with the small wooden stick. After scraping four times, the second red doll takes a few steps forward. Because the sky blue doll is in front of it, the red doll stops behind the sky blue doll."
+    },
+    {
+        "second": 4,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JlPweWln2z4/output_frames/sec_4_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[2-5] The red doll in the middle tilts its head to the right. The man scrapes the back of the little frog a few more times with the small wooden stick. After scraping four times, the second red doll takes a few steps forward. Because the sky blue doll is in front of it, the red doll stops behind the sky blue doll."
+    },
+    {
+        "second": 5,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JlPweWln2z4/output_frames/sec_5_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[2-5] The red doll in the middle tilts its head to the right. The man scrapes the back of the little frog a few more times with the small wooden stick. After scraping four times, the second red doll takes a few steps forward. Because the sky blue doll is in front of it, the red doll stops behind the sky blue doll."
+    },
+    {
+        "second": 6,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JlPweWln2z4/output_frames/sec_6_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[5-9] The man scrapes the back of the little frog a few more times with the small wooden stick. After scraping three times, the third light purple doll takes a few steps forward. Because there are two dolls in front of it, the light purple doll keeps shaking its body and finally stops."
+    },
+    {
+        "second": 7,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JlPweWln2z4/output_frames/sec_7_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[5-9] The man scrapes the back of the little frog a few more times with the small wooden stick. After scraping three times, the third light purple doll takes a few steps forward. Because there are two dolls in front of it, the light purple doll keeps shaking its body and finally stops."
+    },
+    {
+        "second": 8,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JlPweWln2z4/output_frames/sec_8_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[5-9] The man scrapes the back of the little frog a few more times with the small wooden stick. After scraping three times, the third light purple doll takes a few steps forward. Because there are two dolls in front of it, the light purple doll keeps shaking its body and finally stops."
+    },
+    {
+        "second": 9,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JlPweWln2z4/output_frames/sec_9_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[5-9] The man scrapes the back of the little frog a few more times with the small wooden stick. After scraping three times, the third light purple doll takes a few steps forward. Because there are two dolls in front of it, the light purple doll keeps shaking its body and finally stops."
+    }
+]

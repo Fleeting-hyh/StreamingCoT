@@ -1,0 +1,44 @@
+[
+    {
+        "second": 0,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/09QdhA80r7k/output_frames/sec_0_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[0-0] On a gray ground, a right hand is placed on a spraying stone pier. On the right side, a forklift driver sits in the cab, a spherical stone tied with a rope hanging in front of the vehicle. Some sundries are placed on the left side, and in the distance are green vegetation and trees."
+    },
+    {
+        "second": 1,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/09QdhA80r7k/output_frames/sec_1_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Then, the right hand moves away, and both hands reach out. At the same time, the driver carefully operates the forklift, slowly placing the stone ball on the stone pier and holding it in place with both hands."
+    },
+    {
+        "second": 2,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/09QdhA80r7k/output_frames/sec_2_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Then, the right hand moves away, and both hands reach out. At the same time, the driver carefully operates the forklift, slowly placing the stone ball on the stone pier and holding it in place with both hands."
+    },
+    {
+        "second": 3,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/09QdhA80r7k/output_frames/sec_3_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[2-6] Subsequently, both hands untie the rope holding the stone ball, the forklift moves to the right, the stone ball is successfully installed on the stone pier, the water flows out from the bottom of the stone ball, and the stone ball rotates with the water flow."
+    },
+    {
+        "second": 4,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/09QdhA80r7k/output_frames/sec_4_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[2-6] Subsequently, both hands untie the rope holding the stone ball, the forklift moves to the right, the stone ball is successfully installed on the stone pier, the water flows out from the bottom of the stone ball, and the stone ball rotates with the water flow."
+    },
+    {
+        "second": 5,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/09QdhA80r7k/output_frames/sec_5_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[2-6] Subsequently, both hands untie the rope holding the stone ball, the forklift moves to the right, the stone ball is successfully installed on the stone pier, the water flows out from the bottom of the stone ball, and the stone ball rotates with the water flow."
+    }
+]

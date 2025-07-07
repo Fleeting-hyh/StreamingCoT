@@ -1,0 +1,65 @@
+[
+    {
+        "second": 0,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SOEluL0xKXE/output_frames/sec_0_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A young woman with blonde hair and blue eyes, wearing a green floral dress and white sneakers, sits on a bench on the beach, smiling as she looks into the distance. The afterglow of the setting sun bathes the beach in a warm light."
+    },
+    {
+        "second": 1,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SOEluL0xKXE/output_frames/sec_1_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The shot changes, and the blonde woman changes her posture, resting her hands on the back of the bench, smiling sweetly at the camera."
+    },
+    {
+        "second": 2,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SOEluL0xKXE/output_frames/sec_2_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The shot changes, and the blonde woman changes her posture, resting her hands on the back of the bench, smiling sweetly at the camera."
+    },
+    {
+        "second": 3,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SOEluL0xKXE/output_frames/sec_3_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The shot changes, and the blonde woman changes her posture, resting her hands on the back of the bench, smiling sweetly at the camera."
+    },
+    {
+        "second": 4,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SOEluL0xKXE/output_frames/sec_4_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The shot changes, and the blonde woman changes her posture, resting her hands on the back of the bench, smiling sweetly at the camera."
+    },
+    {
+        "second": 5,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SOEluL0xKXE/output_frames/sec_5_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[4-8] The camera then cuts again, focusing on the blonde woman's legs. The green floral dress she is wearing falls casually over her legs, and one hand gently strokes the hem."
+    },
+    {
+        "second": 6,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SOEluL0xKXE/output_frames/sec_6_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[4-8] The camera then cuts again, focusing on the blonde woman's legs. The green floral dress she is wearing falls casually over her legs, and one hand gently strokes the hem."
+    },
+    {
+        "second": 7,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SOEluL0xKXE/output_frames/sec_7_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[4-8] The camera then cuts again, focusing on the blonde woman's legs. The green floral dress she is wearing falls casually over her legs, and one hand gently strokes the hem."
+    },
+    {
+        "second": 8,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SOEluL0xKXE/output_frames/sec_8_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[4-8] The camera then cuts again, focusing on the blonde woman's legs. The green floral dress she is wearing falls casually over her legs, and one hand gently strokes the hem."
+    }
+]

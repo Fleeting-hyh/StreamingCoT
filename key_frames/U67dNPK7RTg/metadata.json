@@ -1,0 +1,44 @@
+[
+    {
+        "second": 0,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/U67dNPK7RTg/output_frames/sec_0_idx_5.jpg",
+        "fps": 50,
+        "explanation": "[0-0] On a sunny day, on a green soccer field, a man in a blue jersey stands defensively in the center of the field, while a man in a green jersey dribbles the ball. A green full-strength WiFi symbol appears at the top of the screen."
+    },
+    {
+        "second": 1,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/U67dNPK7RTg/output_frames/sec_1_idx_10.jpg",
+        "fps": 50,
+        "explanation": "[0-5] Immediately afterward, the man in the green jersey continues to dribble the ball forward, while the man in the blue jersey maintains a defensive posture. At this time, the WiFi signal at the top turns red, indicating a poor signal. The man in green comes behind the man in blue, the ball still in front of the man in blue. Then the man in green appears from the right side, pushes the man in blue down, and runs away with the ball."
+    },
+    {
+        "second": 2,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/U67dNPK7RTg/output_frames/sec_2_idx_0.jpg",
+        "fps": 50,
+        "explanation": "[0-5] Immediately afterward, the man in the green jersey continues to dribble the ball forward, while the man in the blue jersey maintains a defensive posture. At this time, the WiFi signal at the top turns red, indicating a poor signal. The man in green comes behind the man in blue, the ball still in front of the man in blue. Then the man in green appears from the right side, pushes the man in blue down, and runs away with the ball."
+    },
+    {
+        "second": 3,
+        "frame_index": 39,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/U67dNPK7RTg/output_frames/sec_3_idx_39.jpg",
+        "fps": 50,
+        "explanation": "[0-5] Immediately afterward, the man in the green jersey continues to dribble the ball forward, while the man in the blue jersey maintains a defensive posture. At this time, the WiFi signal at the top turns red, indicating a poor signal. The man in green comes behind the man in blue, the ball still in front of the man in blue. Then the man in green appears from the right side, pushes the man in blue down, and runs away with the ball."
+    },
+    {
+        "second": 4,
+        "frame_index": 43,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/U67dNPK7RTg/output_frames/sec_4_idx_43.jpg",
+        "fps": 50,
+        "explanation": "[0-5] Immediately afterward, the man in the green jersey continues to dribble the ball forward, while the man in the blue jersey maintains a defensive posture. At this time, the WiFi signal at the top turns red, indicating a poor signal. The man in green comes behind the man in blue, the ball still in front of the man in blue. Then the man in green appears from the right side, pushes the man in blue down, and runs away with the ball."
+    },
+    {
+        "second": 5,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/U67dNPK7RTg/output_frames/sec_5_idx_22.jpg",
+        "fps": 50,
+        "explanation": "[0-5] Immediately afterward, the man in the green jersey continues to dribble the ball forward, while the man in the blue jersey maintains a defensive posture. At this time, the WiFi signal at the top turns red, indicating a poor signal. The man in green comes behind the man in blue, the ball still in front of the man in blue. Then the man in green appears from the right side, pushes the man in blue down, and runs away with the ball."
+    }
+]

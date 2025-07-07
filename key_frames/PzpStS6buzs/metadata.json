@@ -1,0 +1,93 @@
+[
+    {
+        "second": 0,
+        "frame_index": 59,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PzpStS6buzs/output_frames/sec_0_idx_59.jpg",
+        "fps": 60,
+        "explanation": "[0-0] A man in a white protective suit and blue apron is standing at the back of a livestock truck. The truck has fences on it, and other pigs can be seen inside. The man is preparing to drive a large white pig onto the truck."
+    },
+    {
+        "second": 1,
+        "frame_index": 54,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PzpStS6buzs/output_frames/sec_1_idx_54.jpg",
+        "fps": 60,
+        "explanation": "[0-9] Then a person uses a stick to hit the pig's buttocks, and the man in the white protective suit touches the pig's back with his hand. The pig struggles to walk onto the truck."
+    },
+    {
+        "second": 2,
+        "frame_index": 58,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PzpStS6buzs/output_frames/sec_2_idx_58.jpg",
+        "fps": 60,
+        "explanation": "[0-9] Then a person uses a stick to hit the pig's buttocks, and the man in the white protective suit touches the pig's back with his hand. The pig struggles to walk onto the truck."
+    },
+    {
+        "second": 3,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PzpStS6buzs/output_frames/sec_3_idx_21.jpg",
+        "fps": 60,
+        "explanation": "[0-9] Then a person uses a stick to hit the pig's buttocks, and the man in the white protective suit touches the pig's back with his hand. The pig struggles to walk onto the truck."
+    },
+    {
+        "second": 4,
+        "frame_index": 59,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PzpStS6buzs/output_frames/sec_4_idx_59.jpg",
+        "fps": 60,
+        "explanation": "[0-9] Then a person uses a stick to hit the pig's buttocks, and the man in the white protective suit touches the pig's back with his hand. The pig struggles to walk onto the truck."
+    },
+    {
+        "second": 5,
+        "frame_index": 55,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PzpStS6buzs/output_frames/sec_5_idx_55.jpg",
+        "fps": 60,
+        "explanation": "[0-9] Then a person uses a stick to hit the pig's buttocks, and the man in the white protective suit touches the pig's back with his hand. The pig struggles to walk onto the truck."
+    },
+    {
+        "second": 6,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PzpStS6buzs/output_frames/sec_6_idx_4.jpg",
+        "fps": 60,
+        "explanation": "[0-9] Then a person uses a stick to hit the pig's buttocks, and the man in the white protective suit touches the pig's back with his hand. The pig struggles to walk onto the truck."
+    },
+    {
+        "second": 7,
+        "frame_index": 49,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PzpStS6buzs/output_frames/sec_7_idx_49.jpg",
+        "fps": 60,
+        "explanation": "[0-9] Then a person uses a stick to hit the pig's buttocks, and the man in the white protective suit touches the pig's back with his hand. The pig struggles to walk onto the truck."
+    },
+    {
+        "second": 8,
+        "frame_index": 40,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PzpStS6buzs/output_frames/sec_8_idx_40.jpg",
+        "fps": 60,
+        "explanation": "[0-9] Then a person uses a stick to hit the pig's buttocks, and the man in the white protective suit touches the pig's back with his hand. The pig struggles to walk onto the truck."
+    },
+    {
+        "second": 9,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PzpStS6buzs/output_frames/sec_9_idx_3.jpg",
+        "fps": 60,
+        "explanation": "[0-9] Then a person uses a stick to hit the pig's buttocks, and the man in the white protective suit touches the pig's back with his hand. The pig struggles to walk onto the truck."
+    },
+    {
+        "second": 10,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PzpStS6buzs/output_frames/sec_10_idx_29.jpg",
+        "fps": 60,
+        "explanation": "[9-12] After that, the man in the white protective suit removes an iron pig pen."
+    },
+    {
+        "second": 11,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PzpStS6buzs/output_frames/sec_11_idx_17.jpg",
+        "fps": 60,
+        "explanation": "[9-12] After that, the man in the white protective suit removes an iron pig pen."
+    },
+    {
+        "second": 12,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PzpStS6buzs/output_frames/sec_12_idx_9.jpg",
+        "fps": 60,
+        "explanation": "[9-12] After that, the man in the white protective suit removes an iron pig pen."
+    }
+]

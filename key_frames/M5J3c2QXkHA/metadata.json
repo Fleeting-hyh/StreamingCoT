@@ -1,0 +1,44 @@
+[
+    {
+        "second": 0,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/M5J3c2QXkHA/output_frames/sec_0_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[0-0] On the lush green bank of a river, a male lion on the shore and a crocodile in the water are both biting the same prey. In the upper left corner of the image is a white frame with a cartoon leopard head with its mouth wide open inside. The background is green vegetation and rocks."
+    },
+    {
+        "second": 1,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/M5J3c2QXkHA/output_frames/sec_1_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[0-5] The two beasts pulled back and forth, each with a firm grip on the prey, and the scene remained at a stalemate."
+    },
+    {
+        "second": 2,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/M5J3c2QXkHA/output_frames/sec_2_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[0-5] The two beasts pulled back and forth, each with a firm grip on the prey, and the scene remained at a stalemate."
+    },
+    {
+        "second": 3,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/M5J3c2QXkHA/output_frames/sec_3_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[0-5] The two beasts pulled back and forth, each with a firm grip on the prey, and the scene remained at a stalemate."
+    },
+    {
+        "second": 4,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/M5J3c2QXkHA/output_frames/sec_4_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[0-5] The two beasts pulled back and forth, each with a firm grip on the prey, and the scene remained at a stalemate."
+    },
+    {
+        "second": 5,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/M5J3c2QXkHA/output_frames/sec_5_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[0-5] The two beasts pulled back and forth, each with a firm grip on the prey, and the scene remained at a stalemate."
+    }
+]

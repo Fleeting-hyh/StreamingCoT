@@ -1,0 +1,79 @@
+[
+    {
+        "second": 0,
+        "frame_index": 49,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1dHYakzOixA/output_frames/sec_0_idx_49.jpg",
+        "fps": 50,
+        "explanation": "[0-0] Two women in black bikinis are climbing a metal staircase with their backs to the camera, holding blue skateboards. There is a metal railing in the background, and the sky is blue."
+    },
+    {
+        "second": 1,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1dHYakzOixA/output_frames/sec_1_idx_4.jpg",
+        "fps": 50,
+        "explanation": "[0-5] One of the women has climbed the stairs and reached the top of the slide. As the scene switches, the woman is ready at the top of the slide, with a large mountain in the background."
+    },
+    {
+        "second": 2,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1dHYakzOixA/output_frames/sec_2_idx_29.jpg",
+        "fps": 50,
+        "explanation": "[0-5] One of the women has climbed the stairs and reached the top of the slide. As the scene switches, the woman is ready at the top of the slide, with a large mountain in the background."
+    },
+    {
+        "second": 3,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1dHYakzOixA/output_frames/sec_3_idx_16.jpg",
+        "fps": 50,
+        "explanation": "[0-5] One of the women has climbed the stairs and reached the top of the slide. As the scene switches, the woman is ready at the top of the slide, with a large mountain in the background."
+    },
+    {
+        "second": 4,
+        "frame_index": 41,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1dHYakzOixA/output_frames/sec_4_idx_41.jpg",
+        "fps": 50,
+        "explanation": "[0-5] One of the women has climbed the stairs and reached the top of the slide. As the scene switches, the woman is ready at the top of the slide, with a large mountain in the background."
+    },
+    {
+        "second": 5,
+        "frame_index": 49,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1dHYakzOixA/output_frames/sec_5_idx_49.jpg",
+        "fps": 50,
+        "explanation": "[0-5] One of the women has climbed the stairs and reached the top of the slide. As the scene switches, the woman is ready at the top of the slide, with a large mountain in the background."
+    },
+    {
+        "second": 6,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1dHYakzOixA/output_frames/sec_6_idx_10.jpg",
+        "fps": 50,
+        "explanation": "[5-10] Then the women start sliding down one after another. The slide is composed of blue, white, and green. There are many passers-by under the slide, and a large area of green plants on the left."
+    },
+    {
+        "second": 7,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1dHYakzOixA/output_frames/sec_7_idx_6.jpg",
+        "fps": 50,
+        "explanation": "[5-10] Then the women start sliding down one after another. The slide is composed of blue, white, and green. There are many passers-by under the slide, and a large area of green plants on the left."
+    },
+    {
+        "second": 8,
+        "frame_index": 47,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1dHYakzOixA/output_frames/sec_8_idx_47.jpg",
+        "fps": 50,
+        "explanation": "[5-10] Then the women start sliding down one after another. The slide is composed of blue, white, and green. There are many passers-by under the slide, and a large area of green plants on the left."
+    },
+    {
+        "second": 9,
+        "frame_index": 46,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1dHYakzOixA/output_frames/sec_9_idx_46.jpg",
+        "fps": 50,
+        "explanation": "[5-10] Then the women start sliding down one after another. The slide is composed of blue, white, and green. There are many passers-by under the slide, and a large area of green plants on the left."
+    },
+    {
+        "second": 10,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1dHYakzOixA/output_frames/sec_10_idx_1.jpg",
+        "fps": 50,
+        "explanation": "[5-10] Then the women start sliding down one after another. The slide is composed of blue, white, and green. There are many passers-by under the slide, and a large area of green plants on the left."
+    }
+]

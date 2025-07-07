@@ -1,0 +1,114 @@
+[
+    {
+        "second": 0,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QSrNs3XggVM/output_frames/sec_0_idx_11.jpg",
+        "fps": 25,
+        "explanation": "[0-0] A man in an orange T-shirt is painting a wall while a woman in a blue T-shirt stands next to him. The background is a grayish-white floor and white walls. The word \"Fabiosa\" is written in white at the bottom."
+    },
+    {
+        "second": 1,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QSrNs3XggVM/output_frames/sec_1_idx_6.jpg",
+        "fps": 25,
+        "explanation": "[0-2] Then, as the man continues painting, the woman bumps into him, causing him to tear the wallpaper with the paint scraper. The woman has a surprised expression."
+    },
+    {
+        "second": 2,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QSrNs3XggVM/output_frames/sec_2_idx_14.jpg",
+        "fps": 25,
+        "explanation": "[0-2] Then, as the man continues painting, the woman bumps into him, causing him to tear the wallpaper with the paint scraper. The woman has a surprised expression."
+    },
+    {
+        "second": 3,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QSrNs3XggVM/output_frames/sec_3_idx_9.jpg",
+        "fps": 25,
+        "explanation": "[2-4] Next, the scene switches to an office where a man is working at a desk and a woman is sitting on the table, causing the tabletop to tilt upwards. The woman covers her mouth in surprise. The background shows wooden shelves and some potted plants."
+    },
+    {
+        "second": 4,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QSrNs3XggVM/output_frames/sec_4_idx_15.jpg",
+        "fps": 25,
+        "explanation": "[2-4] Next, the scene switches to an office where a man is working at a desk and a woman is sitting on the table, causing the tabletop to tilt upwards. The woman covers her mouth in surprise. The background shows wooden shelves and some potted plants."
+    },
+    {
+        "second": 5,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QSrNs3XggVM/output_frames/sec_5_idx_5.jpg",
+        "fps": 25,
+        "explanation": "[4-7] Subsequently, the scene changes to a bedroom where a man is lying on the bed holding a remote control. A woman holding a magazine lies down on the bed, causing it to collapse. The background shows a bed with pink sheets, a beige bed frame, blue walls, and a bedside lamp."
+    },
+    {
+        "second": 6,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QSrNs3XggVM/output_frames/sec_6_idx_3.jpg",
+        "fps": 25,
+        "explanation": "[4-7] Subsequently, the scene changes to a bedroom where a man is lying on the bed holding a remote control. A woman holding a magazine lies down on the bed, causing it to collapse. The background shows a bed with pink sheets, a beige bed frame, blue walls, and a bedside lamp."
+    },
+    {
+        "second": 7,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QSrNs3XggVM/output_frames/sec_7_idx_10.jpg",
+        "fps": 25,
+        "explanation": "[4-7] Subsequently, the scene changes to a bedroom where a man is lying on the bed holding a remote control. A woman holding a magazine lies down on the bed, causing it to collapse. The background shows a bed with pink sheets, a beige bed frame, blue walls, and a bedside lamp."
+    },
+    {
+        "second": 8,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QSrNs3XggVM/output_frames/sec_8_idx_24.jpg",
+        "fps": 25,
+        "explanation": "[7-15] Afterwards, the scene shifts to a grassy outdoor area where a woman in a rose-colored top and yellow pants is exercising on a yoga mat. The word \"EXCELLENT!\" appears in white above."
+    },
+    {
+        "second": 9,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QSrNs3XggVM/output_frames/sec_9_idx_0.jpg",
+        "fps": 25,
+        "explanation": "[7-15] Afterwards, the scene shifts to a grassy outdoor area where a woman in a rose-colored top and yellow pants is exercising on a yoga mat. The word \"EXCELLENT!\" appears in white above."
+    },
+    {
+        "second": 10,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QSrNs3XggVM/output_frames/sec_10_idx_22.jpg",
+        "fps": 25,
+        "explanation": "[7-15] Afterwards, the scene shifts to a grassy outdoor area where a woman in a rose-colored top and yellow pants is exercising on a yoga mat. The word \"EXCELLENT!\" appears in white above."
+    },
+    {
+        "second": 11,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QSrNs3XggVM/output_frames/sec_11_idx_24.jpg",
+        "fps": 25,
+        "explanation": "[7-15] Afterwards, the scene shifts to a grassy outdoor area where a woman in a rose-colored top and yellow pants is exercising on a yoga mat. The word \"EXCELLENT!\" appears in white above."
+    },
+    {
+        "second": 12,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QSrNs3XggVM/output_frames/sec_12_idx_1.jpg",
+        "fps": 25,
+        "explanation": "[7-15] Afterwards, the scene shifts to a grassy outdoor area where a woman in a rose-colored top and yellow pants is exercising on a yoga mat. The word \"EXCELLENT!\" appears in white above."
+    },
+    {
+        "second": 13,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QSrNs3XggVM/output_frames/sec_13_idx_4.jpg",
+        "fps": 25,
+        "explanation": "[7-15] Afterwards, the scene shifts to a grassy outdoor area where a woman in a rose-colored top and yellow pants is exercising on a yoga mat. The word \"EXCELLENT!\" appears in white above."
+    },
+    {
+        "second": 14,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QSrNs3XggVM/output_frames/sec_14_idx_7.jpg",
+        "fps": 25,
+        "explanation": "[7-15] Afterwards, the scene shifts to a grassy outdoor area where a woman in a rose-colored top and yellow pants is exercising on a yoga mat. The word \"EXCELLENT!\" appears in white above."
+    },
+    {
+        "second": 15,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QSrNs3XggVM/output_frames/sec_15_idx_11.jpg",
+        "fps": 25,
+        "explanation": "[7-15] Afterwards, the scene shifts to a grassy outdoor area where a woman in a rose-colored top and yellow pants is exercising on a yoga mat. The word \"EXCELLENT!\" appears in white above."
+    }
+]

@@ -1,0 +1,415 @@
+[
+    {
+        "second": 0,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6nMmQMRZEbo/output_frames/sec_0_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[0-0] On a green lawn, there is a long wooden table. In the center of the end of the table, there is a standing ring. At the front end of the table, there is a black line. A man in white clothes and a white hat is standing by the table, holding a long stick with a rectangular board attached to the end, ready to hit a red disk on the table. In the distance, in front of the low houses, there is a crowd of people dressed in different clothes, their eyes focused on the long table."
+    },
+    {
+        "second": 1,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6nMmQMRZEbo/output_frames/sec_1_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[0-2] The man then pushes the red disk forward with the stick. The red disk slides to the other end of the table, hits the left side of the ring, and bounces back. The man shakes his head. A red cross appears at the bottom of the screen, indicating that the man in white has failed."
+    },
+    {
+        "second": 2,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6nMmQMRZEbo/output_frames/sec_2_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-2] The man then pushes the red disk forward with the stick. The red disk slides to the other end of the table, hits the left side of the ring, and bounces back. The man shakes his head. A red cross appears at the bottom of the screen, indicating that the man in white has failed."
+    },
+    {
+        "second": 3,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6nMmQMRZEbo/output_frames/sec_3_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[2-4] The image then cuts to another man wearing a red, white and black shirt and a white skirt. The man bends over, holds the stick with both hands and pushes the red disk forward, while raising his right foot back. After standing up, the red disk hits the left side of the ring, falls off the right side of the table, and the man turns and walks away. A red cross appears at the bottom of the screen indicating that the man has failed the game."
+    },
+    {
+        "second": 4,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6nMmQMRZEbo/output_frames/sec_4_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[2-4] The image then cuts to another man wearing a red, white and black shirt and a white skirt. The man bends over, holds the stick with both hands and pushes the red disk forward, while raising his right foot back. After standing up, the red disk hits the left side of the ring, falls off the right side of the table, and the man turns and walks away. A red cross appears at the bottom of the screen indicating that the man has failed the game."
+    },
+    {
+        "second": 5,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6nMmQMRZEbo/output_frames/sec_5_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[4-6] The picture then cuts to a man in a pink shirt and orange skirt. The man bends over, holds the stick with both hands and pushes the red disk forward. After standing up, the red disk hits the right side of the ring and stops in front of it. A red cross appears at the bottom of the screen indicating that the man failed the game."
+    },
+    {
+        "second": 6,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6nMmQMRZEbo/output_frames/sec_6_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[4-6] The picture then cuts to a man in a pink shirt and orange skirt. The man bends over, holds the stick with both hands and pushes the red disk forward. After standing up, the red disk hits the right side of the ring and stops in front of it. A red cross appears at the bottom of the screen indicating that the man failed the game."
+    },
+    {
+        "second": 7,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6nMmQMRZEbo/output_frames/sec_7_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[6-9] Then the screen switches to a man in a blue shirt and a skirt with white, green, purple and yellow colors. The man bends over, holds the stick with both hands and pushes the red disk forward. After standing up, the red disk hits the right side of the ring and stops in front of the ring. A red cross appears at the bottom of the screen indicating that the man failed the game."
+    },
+    {
+        "second": 8,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6nMmQMRZEbo/output_frames/sec_8_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[6-9] Then the screen switches to a man in a blue shirt and a skirt with white, green, purple and yellow colors. The man bends over, holds the stick with both hands and pushes the red disk forward. After standing up, the red disk hits the right side of the ring and stops in front of the ring. A red cross appears at the bottom of the screen indicating that the man failed the game."
+    },
+    {
+        "second": 9,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6nMmQMRZEbo/output_frames/sec_9_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[6-9] Then the screen switches to a man in a blue shirt and a skirt with white, green, purple and yellow colors. The man bends over, holds the stick with both hands and pushes the red disk forward. After standing up, the red disk hits the right side of the ring and stops in front of the ring. A red cross appears at the bottom of the screen indicating that the man failed the game."
+    },
+    {
+        "second": 10,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6nMmQMRZEbo/output_frames/sec_10_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[9-12] The picture then switches to a man in a green shirt and a skirt with white, green, purple and yellow colours. The man bends over, holds the stick with both hands and pushes the red disk forward. After standing up, the red disk stops in the middle of the ring and the man smiles and turns his head to look at the right side of the screen. A red cross appears at the bottom of the picture indicating that the man has failed the game."
+    },
+    {
+        "second": 11,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6nMmQMRZEbo/output_frames/sec_11_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[9-12] The picture then switches to a man in a green shirt and a skirt with white, green, purple and yellow colours. The man bends over, holds the stick with both hands and pushes the red disk forward. After standing up, the red disk stops in the middle of the ring and the man smiles and turns his head to look at the right side of the screen. A red cross appears at the bottom of the picture indicating that the man has failed the game."
+    },
+    {
+        "second": 12,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6nMmQMRZEbo/output_frames/sec_12_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[9-12] The picture then switches to a man in a green shirt and a skirt with white, green, purple and yellow colours. The man bends over, holds the stick with both hands and pushes the red disk forward. After standing up, the red disk stops in the middle of the ring and the man smiles and turns his head to look at the right side of the screen. A red cross appears at the bottom of the picture indicating that the man has failed the game."
+    },
+    {
+        "second": 13,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6nMmQMRZEbo/output_frames/sec_13_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[12-15] The picture then cuts to a man in a purple shirt and orange trousers. The man bends over, holds the stick with both hands and pushes the red disk forward, the red disk hits the right side of the ring and slides down the right side of the table. After standing up, the man turns his head and smiles towards the right side of the picture. A red cross appears at the bottom of the picture, indicating that the man has failed the game."
+    },
+    {
+        "second": 14,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6nMmQMRZEbo/output_frames/sec_14_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[12-15] The picture then cuts to a man in a purple shirt and orange trousers. The man bends over, holds the stick with both hands and pushes the red disk forward, the red disk hits the right side of the ring and slides down the right side of the table. After standing up, the man turns his head and smiles towards the right side of the picture. A red cross appears at the bottom of the picture, indicating that the man has failed the game."
+    },
+    {
+        "second": 15,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6nMmQMRZEbo/output_frames/sec_15_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[12-15] The picture then cuts to a man in a purple shirt and orange trousers. The man bends over, holds the stick with both hands and pushes the red disk forward, the red disk hits the right side of the ring and slides down the right side of the table. After standing up, the man turns his head and smiles towards the right side of the picture. A red cross appears at the bottom of the picture, indicating that the man has failed the game."
+    },
+    {
+        "second": 16,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6nMmQMRZEbo/output_frames/sec_16_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[15-17] The picture then cuts to a man in a green and pink shirt. The man bends over, holds the stick with both hands, pushes the red disk forward, and the red disk hits the ring, bounces off, and stops in front of the ring. After standing up, a red cross appears at the bottom of the picture, indicating that the man has failed the game."
+    },
+    {
+        "second": 17,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6nMmQMRZEbo/output_frames/sec_17_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[15-17] The picture then cuts to a man in a green and pink shirt. The man bends over, holds the stick with both hands, pushes the red disk forward, and the red disk hits the ring, bounces off, and stops in front of the ring. After standing up, a red cross appears at the bottom of the picture, indicating that the man has failed the game."
+    },
+    {
+        "second": 18,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6nMmQMRZEbo/output_frames/sec_18_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[17-20] The picture then cuts to a man in a brown top and blue, brown and white trousers. The man bends over, holds the stick with both hands and pushes the red disk forward, and after standing up, the red disk hits the right side of the ring, bounces back and stops to the left of the ring. A red cross appears at the bottom of the screen indicating that the man has failed the game."
+    },
+    {
+        "second": 19,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6nMmQMRZEbo/output_frames/sec_19_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[17-20] The picture then cuts to a man in a brown top and blue, brown and white trousers. The man bends over, holds the stick with both hands and pushes the red disk forward, and after standing up, the red disk hits the right side of the ring, bounces back and stops to the left of the ring. A red cross appears at the bottom of the screen indicating that the man has failed the game."
+    },
+    {
+        "second": 20,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6nMmQMRZEbo/output_frames/sec_20_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[17-20] The picture then cuts to a man in a brown top and blue, brown and white trousers. The man bends over, holds the stick with both hands and pushes the red disk forward, and after standing up, the red disk hits the right side of the ring, bounces back and stops to the left of the ring. A red cross appears at the bottom of the screen indicating that the man has failed the game."
+    },
+    {
+        "second": 21,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6nMmQMRZEbo/output_frames/sec_21_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[20-23] The picture then switches to a man in a blue grid shirt. The man bends over, holds the stick with both hands and pushes the red disk forward, which hits the right side of the ring and bounces the red disk right in front of the ring. After standing up, a red cross appears at the bottom of the screen, indicating that the man has failed the game."
+    },
+    {
+        "second": 22,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6nMmQMRZEbo/output_frames/sec_22_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[20-23] The picture then switches to a man in a blue grid shirt. The man bends over, holds the stick with both hands and pushes the red disk forward, which hits the right side of the ring and bounces the red disk right in front of the ring. After standing up, a red cross appears at the bottom of the screen, indicating that the man has failed the game."
+    },
+    {
+        "second": 23,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6nMmQMRZEbo/output_frames/sec_23_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[20-23] The picture then switches to a man in a blue grid shirt. The man bends over, holds the stick with both hands and pushes the red disk forward, which hits the right side of the ring and bounces the red disk right in front of the ring. After standing up, a red cross appears at the bottom of the screen, indicating that the man has failed the game."
+    },
+    {
+        "second": 24,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6nMmQMRZEbo/output_frames/sec_24_idx_24.jpg",
+        "fps": 30,
+        "explanation": "[23-27] The picture then cuts to a man in a green patterned shirt and a yellow and green striped skirt. The man bends over, holds the stick in both hands and pushes the red disk forward. After standing up, the red disk goes through the middle of the ring and falls to the ground. A blue tick appears at the bottom of the screen indicating that the game was successful. The man walks to the left of the screen, then the camera follows the man to the left, the man has a happy smile on his face and the people around him are cheering for him."
+    },
+    {
+        "second": 25,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6nMmQMRZEbo/output_frames/sec_25_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[23-27] The picture then cuts to a man in a green patterned shirt and a yellow and green striped skirt. The man bends over, holds the stick in both hands and pushes the red disk forward. After standing up, the red disk goes through the middle of the ring and falls to the ground. A blue tick appears at the bottom of the screen indicating that the game was successful. The man walks to the left of the screen, then the camera follows the man to the left, the man has a happy smile on his face and the people around him are cheering for him."
+    },
+    {
+        "second": 26,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6nMmQMRZEbo/output_frames/sec_26_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[23-27] The picture then cuts to a man in a green patterned shirt and a yellow and green striped skirt. The man bends over, holds the stick in both hands and pushes the red disk forward. After standing up, the red disk goes through the middle of the ring and falls to the ground. A blue tick appears at the bottom of the screen indicating that the game was successful. The man walks to the left of the screen, then the camera follows the man to the left, the man has a happy smile on his face and the people around him are cheering for him."
+    },
+    {
+        "second": 27,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6nMmQMRZEbo/output_frames/sec_27_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[23-27] The picture then cuts to a man in a green patterned shirt and a yellow and green striped skirt. The man bends over, holds the stick in both hands and pushes the red disk forward. After standing up, the red disk goes through the middle of the ring and falls to the ground. A blue tick appears at the bottom of the screen indicating that the game was successful. The man walks to the left of the screen, then the camera follows the man to the left, the man has a happy smile on his face and the people around him are cheering for him."
+    },
+    {
+        "second": 28,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6nMmQMRZEbo/output_frames/sec_28_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[27-29] Then the camera cuts to the crowd on the right side of the screen, with a table in front of the camera with many prizes on it, onlookers standing to the left of the man who passed through, a man in a black and white shirt with a bucket of oil in his hands, awarding the prize to the winning man in green, who walks up to the camera, takes the bucket of oil in his hands and holds it over his head, smiling happily at the camera."
+    },
+    {
+        "second": 29,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6nMmQMRZEbo/output_frames/sec_29_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[27-29] Then the camera cuts to the crowd on the right side of the screen, with a table in front of the camera with many prizes on it, onlookers standing to the left of the man who passed through, a man in a black and white shirt with a bucket of oil in his hands, awarding the prize to the winning man in green, who walks up to the camera, takes the bucket of oil in his hands and holds it over his head, smiling happily at the camera."
+    },
+    {
+        "second": 30,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6nMmQMRZEbo/output_frames/sec_30_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[29-35] The camera then cuts to a man in a white robe and yellow trousers who bends over and holds the stick with both hands, using his right hand to push the red disk forward and his left hand to swing it behind him, the red disk passes through the middle of the ring and falls to the ground. A blue tick appears at the bottom of the picture to indicate that the game was successful, and the man turns to look at the camera. The camera then cuts to the podium where the man in the robe takes the bucket of oil handed to him by the man opposite and happily holds it over his head."
+    },
+    {
+        "second": 31,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6nMmQMRZEbo/output_frames/sec_31_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[29-35] The camera then cuts to a man in a white robe and yellow trousers who bends over and holds the stick with both hands, using his right hand to push the red disk forward and his left hand to swing it behind him, the red disk passes through the middle of the ring and falls to the ground. A blue tick appears at the bottom of the picture to indicate that the game was successful, and the man turns to look at the camera. The camera then cuts to the podium where the man in the robe takes the bucket of oil handed to him by the man opposite and happily holds it over his head."
+    },
+    {
+        "second": 32,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6nMmQMRZEbo/output_frames/sec_32_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[29-35] The camera then cuts to a man in a white robe and yellow trousers who bends over and holds the stick with both hands, using his right hand to push the red disk forward and his left hand to swing it behind him, the red disk passes through the middle of the ring and falls to the ground. A blue tick appears at the bottom of the picture to indicate that the game was successful, and the man turns to look at the camera. The camera then cuts to the podium where the man in the robe takes the bucket of oil handed to him by the man opposite and happily holds it over his head."
+    },
+    {
+        "second": 33,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6nMmQMRZEbo/output_frames/sec_33_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[29-35] The camera then cuts to a man in a white robe and yellow trousers who bends over and holds the stick with both hands, using his right hand to push the red disk forward and his left hand to swing it behind him, the red disk passes through the middle of the ring and falls to the ground. A blue tick appears at the bottom of the picture to indicate that the game was successful, and the man turns to look at the camera. The camera then cuts to the podium where the man in the robe takes the bucket of oil handed to him by the man opposite and happily holds it over his head."
+    },
+    {
+        "second": 34,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6nMmQMRZEbo/output_frames/sec_34_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[29-35] The camera then cuts to a man in a white robe and yellow trousers who bends over and holds the stick with both hands, using his right hand to push the red disk forward and his left hand to swing it behind him, the red disk passes through the middle of the ring and falls to the ground. A blue tick appears at the bottom of the picture to indicate that the game was successful, and the man turns to look at the camera. The camera then cuts to the podium where the man in the robe takes the bucket of oil handed to him by the man opposite and happily holds it over his head."
+    },
+    {
+        "second": 35,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6nMmQMRZEbo/output_frames/sec_35_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[29-35] The camera then cuts to a man in a white robe and yellow trousers who bends over and holds the stick with both hands, using his right hand to push the red disk forward and his left hand to swing it behind him, the red disk passes through the middle of the ring and falls to the ground. A blue tick appears at the bottom of the picture to indicate that the game was successful, and the man turns to look at the camera. The camera then cuts to the podium where the man in the robe takes the bucket of oil handed to him by the man opposite and happily holds it over his head."
+    },
+    {
+        "second": 36,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6nMmQMRZEbo/output_frames/sec_36_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[35-40] Then the picture cuts to a man in a brown, white and blue shirt and brown and white trousers, who bends over and holds the stick with both hands and pushes the red disk forward, the red disk goes through the middle of the ring and falls to the ground. A blue tick appears at the bottom of the picture indicating that the game was successful. The man stands up, turns to look at the camera, holds the stick in both hands, and smiles happily."
+    },
+    {
+        "second": 37,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6nMmQMRZEbo/output_frames/sec_37_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[35-40] Then the picture cuts to a man in a brown, white and blue shirt and brown and white trousers, who bends over and holds the stick with both hands and pushes the red disk forward, the red disk goes through the middle of the ring and falls to the ground. A blue tick appears at the bottom of the picture indicating that the game was successful. The man stands up, turns to look at the camera, holds the stick in both hands, and smiles happily."
+    },
+    {
+        "second": 38,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6nMmQMRZEbo/output_frames/sec_38_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[35-40] Then the picture cuts to a man in a brown, white and blue shirt and brown and white trousers, who bends over and holds the stick with both hands and pushes the red disk forward, the red disk goes through the middle of the ring and falls to the ground. A blue tick appears at the bottom of the picture indicating that the game was successful. The man stands up, turns to look at the camera, holds the stick in both hands, and smiles happily."
+    },
+    {
+        "second": 39,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6nMmQMRZEbo/output_frames/sec_39_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[35-40] Then the picture cuts to a man in a brown, white and blue shirt and brown and white trousers, who bends over and holds the stick with both hands and pushes the red disk forward, the red disk goes through the middle of the ring and falls to the ground. A blue tick appears at the bottom of the picture indicating that the game was successful. The man stands up, turns to look at the camera, holds the stick in both hands, and smiles happily."
+    },
+    {
+        "second": 40,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6nMmQMRZEbo/output_frames/sec_40_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[35-40] Then the picture cuts to a man in a brown, white and blue shirt and brown and white trousers, who bends over and holds the stick with both hands and pushes the red disk forward, the red disk goes through the middle of the ring and falls to the ground. A blue tick appears at the bottom of the picture indicating that the game was successful. The man stands up, turns to look at the camera, holds the stick in both hands, and smiles happily."
+    },
+    {
+        "second": 41,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6nMmQMRZEbo/output_frames/sec_41_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[40-42] The picture then cuts to a full body shot of the man who walks to the podium and receives the bucket of oil from the man in black, white and grey clothes. He turns to the camera with a happy smile and rests the oil on top of his head."
+    },
+    {
+        "second": 42,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6nMmQMRZEbo/output_frames/sec_42_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[40-42] The picture then cuts to a full body shot of the man who walks to the podium and receives the bucket of oil from the man in black, white and grey clothes. He turns to the camera with a happy smile and rests the oil on top of his head."
+    },
+    {
+        "second": 43,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6nMmQMRZEbo/output_frames/sec_43_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[42-47] The picture then cuts to a man in a white shirt and a pink striped skirt, who bends over and holds the stick with both hands, using his right hand to push the red disk forward. After standing up, the red disk passes through the middle of the ring and falls to the ground. A blue tick appears at the bottom of the screen, indicating a successful game. The man turns and looks at the camera."
+    },
+    {
+        "second": 44,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6nMmQMRZEbo/output_frames/sec_44_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[42-47] The picture then cuts to a man in a white shirt and a pink striped skirt, who bends over and holds the stick with both hands, using his right hand to push the red disk forward. After standing up, the red disk passes through the middle of the ring and falls to the ground. A blue tick appears at the bottom of the screen, indicating a successful game. The man turns and looks at the camera."
+    },
+    {
+        "second": 45,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6nMmQMRZEbo/output_frames/sec_45_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[42-47] The picture then cuts to a man in a white shirt and a pink striped skirt, who bends over and holds the stick with both hands, using his right hand to push the red disk forward. After standing up, the red disk passes through the middle of the ring and falls to the ground. A blue tick appears at the bottom of the screen, indicating a successful game. The man turns and looks at the camera."
+    },
+    {
+        "second": 46,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6nMmQMRZEbo/output_frames/sec_46_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[42-47] The picture then cuts to a man in a white shirt and a pink striped skirt, who bends over and holds the stick with both hands, using his right hand to push the red disk forward. After standing up, the red disk passes through the middle of the ring and falls to the ground. A blue tick appears at the bottom of the screen, indicating a successful game. The man turns and looks at the camera."
+    },
+    {
+        "second": 47,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6nMmQMRZEbo/output_frames/sec_47_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[42-47] The picture then cuts to a man in a white shirt and a pink striped skirt, who bends over and holds the stick with both hands, using his right hand to push the red disk forward. After standing up, the red disk passes through the middle of the ring and falls to the ground. A blue tick appears at the bottom of the screen, indicating a successful game. The man turns and looks at the camera."
+    },
+    {
+        "second": 48,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6nMmQMRZEbo/output_frames/sec_48_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[47-50] The camera then cuts to a full body shot of the man in the white shirt, who walks to the podium and raises his right hand to receive the oil from the man opposite, then turns to the camera and holds the oil up in his left hand on the right side of his head."
+    },
+    {
+        "second": 49,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6nMmQMRZEbo/output_frames/sec_49_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[47-50] The camera then cuts to a full body shot of the man in the white shirt, who walks to the podium and raises his right hand to receive the oil from the man opposite, then turns to the camera and holds the oil up in his left hand on the right side of his head."
+    },
+    {
+        "second": 50,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6nMmQMRZEbo/output_frames/sec_50_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[47-50] The camera then cuts to a full body shot of the man in the white shirt, who walks to the podium and raises his right hand to receive the oil from the man opposite, then turns to the camera and holds the oil up in his left hand on the right side of his head."
+    },
+    {
+        "second": 51,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6nMmQMRZEbo/output_frames/sec_51_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[50-58] The camera then cuts to the long table, where a man in a red shirt and green skirt bends over, holds the stick with both hands, uses his right hand to push the red disk forward and raises his right leg at the same time, the red disk passes through the middle of the ring and falls to the ground. After the man stands up, a blue tick appears at the bottom of the screen, indicating a successful game. The man turns around with a happy smile on his face, puts the stick on the table with his left hand, and walks to the right of the screen. A man in a black and grey shirt holds a bucket of oil in both hands and hands it to the man in red, who takes it with both hands and turns to face the camera, holding the bucket of oil in his hands above his head and walking to the right of the screen."
+    },
+    {
+        "second": 52,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6nMmQMRZEbo/output_frames/sec_52_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[50-58] The camera then cuts to the long table, where a man in a red shirt and green skirt bends over, holds the stick with both hands, uses his right hand to push the red disk forward and raises his right leg at the same time, the red disk passes through the middle of the ring and falls to the ground. After the man stands up, a blue tick appears at the bottom of the screen, indicating a successful game. The man turns around with a happy smile on his face, puts the stick on the table with his left hand, and walks to the right of the screen. A man in a black and grey shirt holds a bucket of oil in both hands and hands it to the man in red, who takes it with both hands and turns to face the camera, holding the bucket of oil in his hands above his head and walking to the right of the screen."
+    },
+    {
+        "second": 53,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6nMmQMRZEbo/output_frames/sec_53_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[50-58] The camera then cuts to the long table, where a man in a red shirt and green skirt bends over, holds the stick with both hands, uses his right hand to push the red disk forward and raises his right leg at the same time, the red disk passes through the middle of the ring and falls to the ground. After the man stands up, a blue tick appears at the bottom of the screen, indicating a successful game. The man turns around with a happy smile on his face, puts the stick on the table with his left hand, and walks to the right of the screen. A man in a black and grey shirt holds a bucket of oil in both hands and hands it to the man in red, who takes it with both hands and turns to face the camera, holding the bucket of oil in his hands above his head and walking to the right of the screen."
+    },
+    {
+        "second": 54,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6nMmQMRZEbo/output_frames/sec_54_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[50-58] The camera then cuts to the long table, where a man in a red shirt and green skirt bends over, holds the stick with both hands, uses his right hand to push the red disk forward and raises his right leg at the same time, the red disk passes through the middle of the ring and falls to the ground. After the man stands up, a blue tick appears at the bottom of the screen, indicating a successful game. The man turns around with a happy smile on his face, puts the stick on the table with his left hand, and walks to the right of the screen. A man in a black and grey shirt holds a bucket of oil in both hands and hands it to the man in red, who takes it with both hands and turns to face the camera, holding the bucket of oil in his hands above his head and walking to the right of the screen."
+    },
+    {
+        "second": 55,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6nMmQMRZEbo/output_frames/sec_55_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[50-58] The camera then cuts to the long table, where a man in a red shirt and green skirt bends over, holds the stick with both hands, uses his right hand to push the red disk forward and raises his right leg at the same time, the red disk passes through the middle of the ring and falls to the ground. After the man stands up, a blue tick appears at the bottom of the screen, indicating a successful game. The man turns around with a happy smile on his face, puts the stick on the table with his left hand, and walks to the right of the screen. A man in a black and grey shirt holds a bucket of oil in both hands and hands it to the man in red, who takes it with both hands and turns to face the camera, holding the bucket of oil in his hands above his head and walking to the right of the screen."
+    },
+    {
+        "second": 56,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6nMmQMRZEbo/output_frames/sec_56_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[50-58] The camera then cuts to the long table, where a man in a red shirt and green skirt bends over, holds the stick with both hands, uses his right hand to push the red disk forward and raises his right leg at the same time, the red disk passes through the middle of the ring and falls to the ground. After the man stands up, a blue tick appears at the bottom of the screen, indicating a successful game. The man turns around with a happy smile on his face, puts the stick on the table with his left hand, and walks to the right of the screen. A man in a black and grey shirt holds a bucket of oil in both hands and hands it to the man in red, who takes it with both hands and turns to face the camera, holding the bucket of oil in his hands above his head and walking to the right of the screen."
+    },
+    {
+        "second": 57,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6nMmQMRZEbo/output_frames/sec_57_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[50-58] The camera then cuts to the long table, where a man in a red shirt and green skirt bends over, holds the stick with both hands, uses his right hand to push the red disk forward and raises his right leg at the same time, the red disk passes through the middle of the ring and falls to the ground. After the man stands up, a blue tick appears at the bottom of the screen, indicating a successful game. The man turns around with a happy smile on his face, puts the stick on the table with his left hand, and walks to the right of the screen. A man in a black and grey shirt holds a bucket of oil in both hands and hands it to the man in red, who takes it with both hands and turns to face the camera, holding the bucket of oil in his hands above his head and walking to the right of the screen."
+    },
+    {
+        "second": 58,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6nMmQMRZEbo/output_frames/sec_58_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[50-58] The camera then cuts to the long table, where a man in a red shirt and green skirt bends over, holds the stick with both hands, uses his right hand to push the red disk forward and raises his right leg at the same time, the red disk passes through the middle of the ring and falls to the ground. After the man stands up, a blue tick appears at the bottom of the screen, indicating a successful game. The man turns around with a happy smile on his face, puts the stick on the table with his left hand, and walks to the right of the screen. A man in a black and grey shirt holds a bucket of oil in both hands and hands it to the man in red, who takes it with both hands and turns to face the camera, holding the bucket of oil in his hands above his head and walking to the right of the screen."
+    }
+]

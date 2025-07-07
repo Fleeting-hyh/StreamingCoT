@@ -1,0 +1,44 @@
+[
+    {
+        "second": 0,
+        "frame_index": 42,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/E6SVDq5XW98/output_frames/sec_0_idx_42.jpg",
+        "fps": 60,
+        "explanation": "[0-0] In a stationery store, shelves are filled with various notebooks, each shelf marked with prices."
+    },
+    {
+        "second": 1,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/E6SVDq5XW98/output_frames/sec_1_idx_27.jpg",
+        "fps": 60,
+        "explanation": "[0-5] Then, a woman with two ponytails and a red helmet peeks out from the right side of the frame, her right index finger pointing at a notebook on the shelf. The woman in the red helmet then peeks out from the left side of the frame, her left index finger pointing at another notebook on the shelf. Finally, the scene switches to outdoors, where a red motorcycle is parked on the side of the road. Then, the woman appears in front of the camera, holding a stack of notebooks, and twists her body."
+    },
+    {
+        "second": 2,
+        "frame_index": 33,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/E6SVDq5XW98/output_frames/sec_2_idx_33.jpg",
+        "fps": 60,
+        "explanation": "[0-5] Then, a woman with two ponytails and a red helmet peeks out from the right side of the frame, her right index finger pointing at a notebook on the shelf. The woman in the red helmet then peeks out from the left side of the frame, her left index finger pointing at another notebook on the shelf. Finally, the scene switches to outdoors, where a red motorcycle is parked on the side of the road. Then, the woman appears in front of the camera, holding a stack of notebooks, and twists her body."
+    },
+    {
+        "second": 3,
+        "frame_index": 53,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/E6SVDq5XW98/output_frames/sec_3_idx_53.jpg",
+        "fps": 60,
+        "explanation": "[0-5] Then, a woman with two ponytails and a red helmet peeks out from the right side of the frame, her right index finger pointing at a notebook on the shelf. The woman in the red helmet then peeks out from the left side of the frame, her left index finger pointing at another notebook on the shelf. Finally, the scene switches to outdoors, where a red motorcycle is parked on the side of the road. Then, the woman appears in front of the camera, holding a stack of notebooks, and twists her body."
+    },
+    {
+        "second": 4,
+        "frame_index": 44,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/E6SVDq5XW98/output_frames/sec_4_idx_44.jpg",
+        "fps": 60,
+        "explanation": "[0-5] Then, a woman with two ponytails and a red helmet peeks out from the right side of the frame, her right index finger pointing at a notebook on the shelf. The woman in the red helmet then peeks out from the left side of the frame, her left index finger pointing at another notebook on the shelf. Finally, the scene switches to outdoors, where a red motorcycle is parked on the side of the road. Then, the woman appears in front of the camera, holding a stack of notebooks, and twists her body."
+    },
+    {
+        "second": 5,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/E6SVDq5XW98/output_frames/sec_5_idx_23.jpg",
+        "fps": 60,
+        "explanation": "[0-5] Then, a woman with two ponytails and a red helmet peeks out from the right side of the frame, her right index finger pointing at a notebook on the shelf. The woman in the red helmet then peeks out from the left side of the frame, her left index finger pointing at another notebook on the shelf. Finally, the scene switches to outdoors, where a red motorcycle is parked on the side of the road. Then, the woman appears in front of the camera, holding a stack of notebooks, and twists her body."
+    }
+]

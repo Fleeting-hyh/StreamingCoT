@@ -1,0 +1,114 @@
+[
+    {
+        "second": 0,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-EUhTs9LLDY/output_frames/sec_0_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[0-0] In the scene, a robot with the head of a vintage camera, wearing a blue suit and tie, sits on a red velvet chair. Below him is another robot with a square speaker for a head and multiple speakers on its chest. Both robots are facing the screen, with a gradient background from purple to blue behind them."
+    },
+    {
+        "second": 1,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-EUhTs9LLDY/output_frames/sec_1_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[0-2] The camera-headed robot raises its right hand, revealing a mechanical palm, and raises a golden mechanical hand in its left hand. The speaker-headed robot points its left index finger at the golden mechanical arm."
+    },
+    {
+        "second": 2,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-EUhTs9LLDY/output_frames/sec_2_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[0-2] The camera-headed robot raises its right hand, revealing a mechanical palm, and raises a golden mechanical hand in its left hand. The speaker-headed robot points its left index finger at the golden mechanical arm."
+    },
+    {
+        "second": 3,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-EUhTs9LLDY/output_frames/sec_3_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[2-5] Then, the camera-headed robot holds a pair of blue shorts in its right hand and a pair of black trousers in its left hand. The speaker-headed robot raises its right index finger. The camera robot shakes its head, raising the black pants in its left hand."
+    },
+    {
+        "second": 4,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-EUhTs9LLDY/output_frames/sec_4_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[2-5] Then, the camera-headed robot holds a pair of blue shorts in its right hand and a pair of black trousers in its left hand. The speaker-headed robot raises its right index finger. The camera robot shakes its head, raising the black pants in its left hand."
+    },
+    {
+        "second": 5,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-EUhTs9LLDY/output_frames/sec_5_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[2-5] Then, the camera-headed robot holds a pair of blue shorts in its right hand and a pair of black trousers in its left hand. The speaker-headed robot raises its right index finger. The camera robot shakes its head, raising the black pants in its left hand."
+    },
+    {
+        "second": 6,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-EUhTs9LLDY/output_frames/sec_6_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[5-8] Next, the camera-headed robot holds a yellow helmet in its right hand and a red screen with a skull pattern in its left hand. The speaker-headed robot hesitates for a moment, then points its right index finger at the red screen with the skull pattern on the right."
+    },
+    {
+        "second": 7,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-EUhTs9LLDY/output_frames/sec_7_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[5-8] Next, the camera-headed robot holds a yellow helmet in its right hand and a red screen with a skull pattern in its left hand. The speaker-headed robot hesitates for a moment, then points its right index finger at the red screen with the skull pattern on the right."
+    },
+    {
+        "second": 8,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-EUhTs9LLDY/output_frames/sec_8_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[5-8] Next, the camera-headed robot holds a yellow helmet in its right hand and a red screen with a skull pattern in its left hand. The speaker-headed robot hesitates for a moment, then points its right index finger at the red screen with the skull pattern on the right."
+    },
+    {
+        "second": 9,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-EUhTs9LLDY/output_frames/sec_9_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[8-15] Then, the camera-headed robot holds a blue dress in its right hand and a long red coat in its left hand. The speaker-headed robot raises its right index finger. The camera robot is taken aback for a second, then shakes its head and raises the long red coat in its left hand. Finally, the scene switches to a blue background, showing a robot with a red screen bearing a skull pattern for a head. This robot is wearing the long red coat, holding two samurai swords, and has mechanical components visible on its chest."
+    },
+    {
+        "second": 10,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-EUhTs9LLDY/output_frames/sec_10_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[8-15] Then, the camera-headed robot holds a blue dress in its right hand and a long red coat in its left hand. The speaker-headed robot raises its right index finger. The camera robot is taken aback for a second, then shakes its head and raises the long red coat in its left hand. Finally, the scene switches to a blue background, showing a robot with a red screen bearing a skull pattern for a head. This robot is wearing the long red coat, holding two samurai swords, and has mechanical components visible on its chest."
+    },
+    {
+        "second": 11,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-EUhTs9LLDY/output_frames/sec_11_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[8-15] Then, the camera-headed robot holds a blue dress in its right hand and a long red coat in its left hand. The speaker-headed robot raises its right index finger. The camera robot is taken aback for a second, then shakes its head and raises the long red coat in its left hand. Finally, the scene switches to a blue background, showing a robot with a red screen bearing a skull pattern for a head. This robot is wearing the long red coat, holding two samurai swords, and has mechanical components visible on its chest."
+    },
+    {
+        "second": 12,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-EUhTs9LLDY/output_frames/sec_12_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[8-15] Then, the camera-headed robot holds a blue dress in its right hand and a long red coat in its left hand. The speaker-headed robot raises its right index finger. The camera robot is taken aback for a second, then shakes its head and raises the long red coat in its left hand. Finally, the scene switches to a blue background, showing a robot with a red screen bearing a skull pattern for a head. This robot is wearing the long red coat, holding two samurai swords, and has mechanical components visible on its chest."
+    },
+    {
+        "second": 13,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-EUhTs9LLDY/output_frames/sec_13_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[8-15] Then, the camera-headed robot holds a blue dress in its right hand and a long red coat in its left hand. The speaker-headed robot raises its right index finger. The camera robot is taken aback for a second, then shakes its head and raises the long red coat in its left hand. Finally, the scene switches to a blue background, showing a robot with a red screen bearing a skull pattern for a head. This robot is wearing the long red coat, holding two samurai swords, and has mechanical components visible on its chest."
+    },
+    {
+        "second": 14,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-EUhTs9LLDY/output_frames/sec_14_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[8-15] Then, the camera-headed robot holds a blue dress in its right hand and a long red coat in its left hand. The speaker-headed robot raises its right index finger. The camera robot is taken aback for a second, then shakes its head and raises the long red coat in its left hand. Finally, the scene switches to a blue background, showing a robot with a red screen bearing a skull pattern for a head. This robot is wearing the long red coat, holding two samurai swords, and has mechanical components visible on its chest."
+    },
+    {
+        "second": 15,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-EUhTs9LLDY/output_frames/sec_15_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[8-15] Then, the camera-headed robot holds a blue dress in its right hand and a long red coat in its left hand. The speaker-headed robot raises its right index finger. The camera robot is taken aback for a second, then shakes its head and raises the long red coat in its left hand. Finally, the scene switches to a blue background, showing a robot with a red screen bearing a skull pattern for a head. This robot is wearing the long red coat, holding two samurai swords, and has mechanical components visible on its chest."
+    }
+]

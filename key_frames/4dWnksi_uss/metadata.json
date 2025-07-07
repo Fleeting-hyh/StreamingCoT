@@ -1,0 +1,72 @@
+[
+    {
+        "second": 0,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4dWnksi_uss/output_frames/sec_0_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[0-0] The video begins with a scene of a cricket match on an open field. A batsman in a yellow jersey is squatting, holding a bat. Behind the batsman stands a male player wearing a purple jersey with green patterns and the number 46. Facing them are three people. On the right side of the screen, the male bowler is ready to bowl. In the middle, a man stands with his back turned and hands behind his back. Next to him, a man stands holding a bat in his left hand. On the far right, another player is waiting. There are some trees and buildings in the background."
+    },
+    {
+        "second": 1,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4dWnksi_uss/output_frames/sec_1_idx_24.jpg",
+        "fps": 30,
+        "explanation": "[0-5] The bowler starts bowling, and the batsman swings the bat attempting to hit the ball. The ball hits the bat and bounces towards the player holding the bat opposite the batsman. The batsman runs forward chasing the ball. The player opposite the batsman, after catching the ball, throws it forward and runs into the distance. The player in the number 46 jersey catches the ball and knocks over the yellow wicket beside him. The bowler runs over happily, and the batsman also turns and runs back."
+    },
+    {
+        "second": 2,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4dWnksi_uss/output_frames/sec_2_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[0-5] The bowler starts bowling, and the batsman swings the bat attempting to hit the ball. The ball hits the bat and bounces towards the player holding the bat opposite the batsman. The batsman runs forward chasing the ball. The player opposite the batsman, after catching the ball, throws it forward and runs into the distance. The player in the number 46 jersey catches the ball and knocks over the yellow wicket beside him. The bowler runs over happily, and the batsman also turns and runs back."
+    },
+    {
+        "second": 3,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4dWnksi_uss/output_frames/sec_3_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[0-5] The bowler starts bowling, and the batsman swings the bat attempting to hit the ball. The ball hits the bat and bounces towards the player holding the bat opposite the batsman. The batsman runs forward chasing the ball. The player opposite the batsman, after catching the ball, throws it forward and runs into the distance. The player in the number 46 jersey catches the ball and knocks over the yellow wicket beside him. The bowler runs over happily, and the batsman also turns and runs back."
+    },
+    {
+        "second": 4,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4dWnksi_uss/output_frames/sec_4_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[0-5] The bowler starts bowling, and the batsman swings the bat attempting to hit the ball. The ball hits the bat and bounces towards the player holding the bat opposite the batsman. The batsman runs forward chasing the ball. The player opposite the batsman, after catching the ball, throws it forward and runs into the distance. The player in the number 46 jersey catches the ball and knocks over the yellow wicket beside him. The bowler runs over happily, and the batsman also turns and runs back."
+    },
+    {
+        "second": 5,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4dWnksi_uss/output_frames/sec_5_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[0-5] The bowler starts bowling, and the batsman swings the bat attempting to hit the ball. The ball hits the bat and bounces towards the player holding the bat opposite the batsman. The batsman runs forward chasing the ball. The player opposite the batsman, after catching the ball, throws it forward and runs into the distance. The player in the number 46 jersey catches the ball and knocks over the yellow wicket beside him. The bowler runs over happily, and the batsman also turns and runs back."
+    },
+    {
+        "second": 6,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4dWnksi_uss/output_frames/sec_6_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[5-9] Then the scene transitions to black and white. The batsman runs over, picks up a stick from the yellow wicket, and throws it at the player who ran into the distance. At this time, the player in jersey number 46 and the bowler are happily celebrating."
+    },
+    {
+        "second": 7,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4dWnksi_uss/output_frames/sec_7_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[5-9] Then the scene transitions to black and white. The batsman runs over, picks up a stick from the yellow wicket, and throws it at the player who ran into the distance. At this time, the player in jersey number 46 and the bowler are happily celebrating."
+    },
+    {
+        "second": 8,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4dWnksi_uss/output_frames/sec_8_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[5-9] Then the scene transitions to black and white. The batsman runs over, picks up a stick from the yellow wicket, and throws it at the player who ran into the distance. At this time, the player in jersey number 46 and the bowler are happily celebrating."
+    },
+    {
+        "second": 9,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4dWnksi_uss/output_frames/sec_9_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[5-9] Then the scene transitions to black and white. The batsman runs over, picks up a stick from the yellow wicket, and throws it at the player who ran into the distance. At this time, the player in jersey number 46 and the bowler are happily celebrating."
+    }
+]

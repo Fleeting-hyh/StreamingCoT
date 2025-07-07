@@ -1,0 +1,65 @@
+[
+    {
+        "second": 0,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Sa4cn4I1FoA/output_frames/sec_0_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A person wearing blue clothes and a helmet sits on a blue motorcycle. In front of the motorcycle, there is a log tied to two wooden stakes. A group of people stand nearby. Some trees are in the distance, and a man in a black jacket has his back to the camera."
+    },
+    {
+        "second": 1,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Sa4cn4I1FoA/output_frames/sec_1_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Then the person drives the blue motorcycle forward, hitting the log. The scene changes to another person wearing white clothes and a helmet, riding an orange motorcycle forward."
+    },
+    {
+        "second": 2,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Sa4cn4I1FoA/output_frames/sec_2_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Then the person drives the blue motorcycle forward, hitting the log. The scene changes to another person wearing white clothes and a helmet, riding an orange motorcycle forward."
+    },
+    {
+        "second": 3,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Sa4cn4I1FoA/output_frames/sec_3_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[2-5] Immediately, the person in white rides the orange motorcycle onto the log. The motorcycle begins to tilt sideways, and the person in white falls to the ground."
+    },
+    {
+        "second": 4,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Sa4cn4I1FoA/output_frames/sec_4_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[2-5] Immediately, the person in white rides the orange motorcycle onto the log. The motorcycle begins to tilt sideways, and the person in white falls to the ground."
+    },
+    {
+        "second": 5,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Sa4cn4I1FoA/output_frames/sec_5_idx_24.jpg",
+        "fps": 30,
+        "explanation": "[2-5] Immediately, the person in white rides the orange motorcycle onto the log. The motorcycle begins to tilt sideways, and the person in white falls to the ground."
+    },
+    {
+        "second": 6,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Sa4cn4I1FoA/output_frames/sec_6_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[5-8] A final person riding a white motorcycle is attempting to lift the log with the motorcycle. The motorcycle crashes into the log, and white parts fall off the motorcycle."
+    },
+    {
+        "second": 7,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Sa4cn4I1FoA/output_frames/sec_7_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[5-8] A final person riding a white motorcycle is attempting to lift the log with the motorcycle. The motorcycle crashes into the log, and white parts fall off the motorcycle."
+    },
+    {
+        "second": 8,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Sa4cn4I1FoA/output_frames/sec_8_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[5-8] A final person riding a white motorcycle is attempting to lift the log with the motorcycle. The motorcycle crashes into the log, and white parts fall off the motorcycle."
+    }
+]

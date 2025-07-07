@@ -1,0 +1,86 @@
+[
+    {
+        "second": 0,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/ORg3vY9xdKM/output_frames/sec_0_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A character in a green tracksuit with the number 001 stands on a piece of glass on the right. There are many pieces of glass in front, and a red subtitle \"42 sec\" is displayed at the top of the screen. There is a red door in the distance, with colorful lights hanging above. A man's face is in the center of the screen, smiling."
+    },
+    {
+        "second": 1,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/ORg3vY9xdKM/output_frames/sec_1_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Then the character in green jumps to a piece of glass in front, the number in the red subtitle gradually decreases, the man opens his mouth wide, showing a surprised expression."
+    },
+    {
+        "second": 2,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/ORg3vY9xdKM/output_frames/sec_2_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Then the character in green jumps to a piece of glass in front, the number in the red subtitle gradually decreases, the man opens his mouth wide, showing a surprised expression."
+    },
+    {
+        "second": 3,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/ORg3vY9xdKM/output_frames/sec_3_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[2-8] Next, the character in green continues to jump forward on the glass, the man shakes his head, the character in green jumps to the glass on the left."
+    },
+    {
+        "second": 4,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/ORg3vY9xdKM/output_frames/sec_4_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[2-8] Next, the character in green continues to jump forward on the glass, the man shakes his head, the character in green jumps to the glass on the left."
+    },
+    {
+        "second": 5,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/ORg3vY9xdKM/output_frames/sec_5_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[2-8] Next, the character in green continues to jump forward on the glass, the man shakes his head, the character in green jumps to the glass on the left."
+    },
+    {
+        "second": 6,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/ORg3vY9xdKM/output_frames/sec_6_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[2-8] Next, the character in green continues to jump forward on the glass, the man shakes his head, the character in green jumps to the glass on the left."
+    },
+    {
+        "second": 7,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/ORg3vY9xdKM/output_frames/sec_7_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[2-8] Next, the character in green continues to jump forward on the glass, the man shakes his head, the character in green jumps to the glass on the left."
+    },
+    {
+        "second": 8,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/ORg3vY9xdKM/output_frames/sec_8_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[2-8] Next, the character in green continues to jump forward on the glass, the man shakes his head, the character in green jumps to the glass on the left."
+    },
+    {
+        "second": 9,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/ORg3vY9xdKM/output_frames/sec_9_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[8-11] Finally, the character in green jumps to the glass on the right, the scene switches back to the state at the beginning of the game, the red subtitle returns to \"42 sec\", the man smiles and looks forward."
+    },
+    {
+        "second": 10,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/ORg3vY9xdKM/output_frames/sec_10_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[8-11] Finally, the character in green jumps to the glass on the right, the scene switches back to the state at the beginning of the game, the red subtitle returns to \"42 sec\", the man smiles and looks forward."
+    },
+    {
+        "second": 11,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/ORg3vY9xdKM/output_frames/sec_11_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[8-11] Finally, the character in green jumps to the glass on the right, the scene switches back to the state at the beginning of the game, the red subtitle returns to \"42 sec\", the man smiles and looks forward."
+    }
+]

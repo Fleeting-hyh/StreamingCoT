@@ -1,0 +1,86 @@
+[
+    {
+        "second": 0,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PIUy_zydsbg/output_frames/sec_0_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[0-0] On a football field, J\u00e9r\u00e9my Doku, wearing a blue and black jersey, faces right, with several players behind him. The stands are packed with spectators."
+    },
+    {
+        "second": 1,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PIUy_zydsbg/output_frames/sec_1_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[0-5] J\u00e9r\u00e9my Doku walks towards the side of the pitch, tiptoeing to the right."
+    },
+    {
+        "second": 2,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PIUy_zydsbg/output_frames/sec_2_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[0-5] J\u00e9r\u00e9my Doku walks towards the side of the pitch, tiptoeing to the right."
+    },
+    {
+        "second": 3,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PIUy_zydsbg/output_frames/sec_3_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[0-5] J\u00e9r\u00e9my Doku walks towards the side of the pitch, tiptoeing to the right."
+    },
+    {
+        "second": 4,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PIUy_zydsbg/output_frames/sec_4_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-5] J\u00e9r\u00e9my Doku walks towards the side of the pitch, tiptoeing to the right."
+    },
+    {
+        "second": 5,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PIUy_zydsbg/output_frames/sec_5_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-5] J\u00e9r\u00e9my Doku walks towards the side of the pitch, tiptoeing to the right."
+    },
+    {
+        "second": 6,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PIUy_zydsbg/output_frames/sec_6_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[5-8] J\u00e9r\u00e9my Doku turns around, looks back, and continues his dance celebration."
+    },
+    {
+        "second": 7,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PIUy_zydsbg/output_frames/sec_7_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[5-8] J\u00e9r\u00e9my Doku turns around, looks back, and continues his dance celebration."
+    },
+    {
+        "second": 8,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PIUy_zydsbg/output_frames/sec_8_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[5-8] J\u00e9r\u00e9my Doku turns around, looks back, and continues his dance celebration."
+    },
+    {
+        "second": 9,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PIUy_zydsbg/output_frames/sec_9_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[8-11] J\u00e9r\u00e9my Doku turns around again, waving his arms enthusiastically, interacting with the fans. Finally, he gives high fives and hugs to his teammates."
+    },
+    {
+        "second": 10,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PIUy_zydsbg/output_frames/sec_10_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[8-11] J\u00e9r\u00e9my Doku turns around again, waving his arms enthusiastically, interacting with the fans. Finally, he gives high fives and hugs to his teammates."
+    },
+    {
+        "second": 11,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PIUy_zydsbg/output_frames/sec_11_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[8-11] J\u00e9r\u00e9my Doku turns around again, waving his arms enthusiastically, interacting with the fans. Finally, he gives high fives and hugs to his teammates."
+    }
+]

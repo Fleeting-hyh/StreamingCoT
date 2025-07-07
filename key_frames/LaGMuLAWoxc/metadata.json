@@ -1,0 +1,156 @@
+[
+    {
+        "second": 0,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LaGMuLAWoxc/output_frames/sec_0_idx_22.jpg",
+        "fps": 60,
+        "explanation": "[0-0] A man with curly hair, wearing a black T-shirt, is holding an ice cream cone in his right hand. He is sitting at a white table with a white sheet of paper and a transparent sphere on it."
+    },
+    {
+        "second": 1,
+        "frame_index": 58,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LaGMuLAWoxc/output_frames/sec_1_idx_58.jpg",
+        "fps": 60,
+        "explanation": "[0-4] The man opens his mouth and moves the ice cream cone towards it. However, he is holding the cone upside down, with a red circle surrounding the ice cream, preventing the cream from falling. He then raises his left hand and gestures with his index finger, switching the ice cream between his hands back and forth. Next, he picks up the white paper from the table, which reads \"FAKE,\" and shows it with the ice cream."
+    },
+    {
+        "second": 2,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LaGMuLAWoxc/output_frames/sec_2_idx_4.jpg",
+        "fps": 60,
+        "explanation": "[0-4] The man opens his mouth and moves the ice cream cone towards it. However, he is holding the cone upside down, with a red circle surrounding the ice cream, preventing the cream from falling. He then raises his left hand and gestures with his index finger, switching the ice cream between his hands back and forth. Next, he picks up the white paper from the table, which reads \"FAKE,\" and shows it with the ice cream."
+    },
+    {
+        "second": 3,
+        "frame_index": 38,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LaGMuLAWoxc/output_frames/sec_3_idx_38.jpg",
+        "fps": 60,
+        "explanation": "[0-4] The man opens his mouth and moves the ice cream cone towards it. However, he is holding the cone upside down, with a red circle surrounding the ice cream, preventing the cream from falling. He then raises his left hand and gestures with his index finger, switching the ice cream between his hands back and forth. Next, he picks up the white paper from the table, which reads \"FAKE,\" and shows it with the ice cream."
+    },
+    {
+        "second": 4,
+        "frame_index": 39,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LaGMuLAWoxc/output_frames/sec_4_idx_39.jpg",
+        "fps": 60,
+        "explanation": "[0-4] The man opens his mouth and moves the ice cream cone towards it. However, he is holding the cone upside down, with a red circle surrounding the ice cream, preventing the cream from falling. He then raises his left hand and gestures with his index finger, switching the ice cream between his hands back and forth. Next, he picks up the white paper from the table, which reads \"FAKE,\" and shows it with the ice cream."
+    },
+    {
+        "second": 5,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LaGMuLAWoxc/output_frames/sec_5_idx_5.jpg",
+        "fps": 60,
+        "explanation": "[4-7] The man wraps the fake ice cream with a tissue, hiding it behind the paper, and brings it to his chest. He then holds the paper and ice cream in his right hand, presenting them forward."
+    },
+    {
+        "second": 6,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LaGMuLAWoxc/output_frames/sec_6_idx_16.jpg",
+        "fps": 60,
+        "explanation": "[4-7] The man wraps the fake ice cream with a tissue, hiding it behind the paper, and brings it to his chest. He then holds the paper and ice cream in his right hand, presenting them forward."
+    },
+    {
+        "second": 7,
+        "frame_index": 45,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LaGMuLAWoxc/output_frames/sec_7_idx_45.jpg",
+        "fps": 60,
+        "explanation": "[4-7] The man wraps the fake ice cream with a tissue, hiding it behind the paper, and brings it to his chest. He then holds the paper and ice cream in his right hand, presenting them forward."
+    },
+    {
+        "second": 8,
+        "frame_index": 59,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LaGMuLAWoxc/output_frames/sec_8_idx_59.jpg",
+        "fps": 60,
+        "explanation": "[7-15] The man picks up the transparent sphere from the table with his left hand and throws it upwards. He then turns to the left, makes an \"ok\" gesture with his left hand in the air, and then shows his empty hands by switching them. He raises his left index finger, catches the falling ball, and holds it in his hand."
+    },
+    {
+        "second": 9,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LaGMuLAWoxc/output_frames/sec_9_idx_24.jpg",
+        "fps": 60,
+        "explanation": "[7-15] The man picks up the transparent sphere from the table with his left hand and throws it upwards. He then turns to the left, makes an \"ok\" gesture with his left hand in the air, and then shows his empty hands by switching them. He raises his left index finger, catches the falling ball, and holds it in his hand."
+    },
+    {
+        "second": 10,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LaGMuLAWoxc/output_frames/sec_10_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[7-15] The man picks up the transparent sphere from the table with his left hand and throws it upwards. He then turns to the left, makes an \"ok\" gesture with his left hand in the air, and then shows his empty hands by switching them. He raises his left index finger, catches the falling ball, and holds it in his hand."
+    },
+    {
+        "second": 11,
+        "frame_index": 44,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LaGMuLAWoxc/output_frames/sec_11_idx_44.jpg",
+        "fps": 60,
+        "explanation": "[7-15] The man picks up the transparent sphere from the table with his left hand and throws it upwards. He then turns to the left, makes an \"ok\" gesture with his left hand in the air, and then shows his empty hands by switching them. He raises his left index finger, catches the falling ball, and holds it in his hand."
+    },
+    {
+        "second": 12,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LaGMuLAWoxc/output_frames/sec_12_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[7-15] The man picks up the transparent sphere from the table with his left hand and throws it upwards. He then turns to the left, makes an \"ok\" gesture with his left hand in the air, and then shows his empty hands by switching them. He raises his left index finger, catches the falling ball, and holds it in his hand."
+    },
+    {
+        "second": 13,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LaGMuLAWoxc/output_frames/sec_13_idx_5.jpg",
+        "fps": 60,
+        "explanation": "[7-15] The man picks up the transparent sphere from the table with his left hand and throws it upwards. He then turns to the left, makes an \"ok\" gesture with his left hand in the air, and then shows his empty hands by switching them. He raises his left index finger, catches the falling ball, and holds it in his hand."
+    },
+    {
+        "second": 14,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LaGMuLAWoxc/output_frames/sec_14_idx_10.jpg",
+        "fps": 60,
+        "explanation": "[7-15] The man picks up the transparent sphere from the table with his left hand and throws it upwards. He then turns to the left, makes an \"ok\" gesture with his left hand in the air, and then shows his empty hands by switching them. He raises his left index finger, catches the falling ball, and holds it in his hand."
+    },
+    {
+        "second": 15,
+        "frame_index": 48,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LaGMuLAWoxc/output_frames/sec_15_idx_48.jpg",
+        "fps": 60,
+        "explanation": "[7-15] The man picks up the transparent sphere from the table with his left hand and throws it upwards. He then turns to the left, makes an \"ok\" gesture with his left hand in the air, and then shows his empty hands by switching them. He raises his left index finger, catches the falling ball, and holds it in his hand."
+    },
+    {
+        "second": 16,
+        "frame_index": 30,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LaGMuLAWoxc/output_frames/sec_16_idx_30.jpg",
+        "fps": 60,
+        "explanation": "[15-19] Holding the ball, he moves his right hand forward, placing the ball behind the paper. He lowers his head, shakes it while blowing air at it, and moves his left hand to the right, revealing the ice cream. The yellow subtitle \"SUB FOR MORE!\" appears in the middle of the screen."
+    },
+    {
+        "second": 17,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LaGMuLAWoxc/output_frames/sec_17_idx_4.jpg",
+        "fps": 60,
+        "explanation": "[15-19] Holding the ball, he moves his right hand forward, placing the ball behind the paper. He lowers his head, shakes it while blowing air at it, and moves his left hand to the right, revealing the ice cream. The yellow subtitle \"SUB FOR MORE!\" appears in the middle of the screen."
+    },
+    {
+        "second": 18,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LaGMuLAWoxc/output_frames/sec_18_idx_6.jpg",
+        "fps": 60,
+        "explanation": "[15-19] Holding the ball, he moves his right hand forward, placing the ball behind the paper. He lowers his head, shakes it while blowing air at it, and moves his left hand to the right, revealing the ice cream. The yellow subtitle \"SUB FOR MORE!\" appears in the middle of the screen."
+    },
+    {
+        "second": 19,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LaGMuLAWoxc/output_frames/sec_19_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[15-19] Holding the ball, he moves his right hand forward, placing the ball behind the paper. He lowers his head, shakes it while blowing air at it, and moves his left hand to the right, revealing the ice cream. The yellow subtitle \"SUB FOR MORE!\" appears in the middle of the screen."
+    },
+    {
+        "second": 20,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LaGMuLAWoxc/output_frames/sec_20_idx_7.jpg",
+        "fps": 60,
+        "explanation": "[19-21] The man crumples the tissue in his right hand while still holding the fake ice cream in his left hand, his expression showing astonishment. Then the screen fades to black, with the yellow subtitles remaining in the middle of the screen."
+    },
+    {
+        "second": 21,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LaGMuLAWoxc/output_frames/sec_21_idx_12.jpg",
+        "fps": 60,
+        "explanation": "[19-21] The man crumples the tissue in his right hand while still holding the fake ice cream in his left hand, his expression showing astonishment. Then the screen fades to black, with the yellow subtitles remaining in the middle of the screen."
+    }
+]

@@ -1,0 +1,219 @@
+[
+    {
+        "second": 0,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EDZSEdwY3kM/output_frames/sec_0_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A blue brush is on a gray table. The blue brush consists of yellow bristles, a silver ferrule, and a blue handle."
+    },
+    {
+        "second": 1,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EDZSEdwY3kM/output_frames/sec_1_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Subsequently, a hand uses a screwdriver to pry open the silver ferrule. Then, a hand removes the silver ferrule and bristles from the blue handle."
+    },
+    {
+        "second": 2,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EDZSEdwY3kM/output_frames/sec_2_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Subsequently, a hand uses a screwdriver to pry open the silver ferrule. Then, a hand removes the silver ferrule and bristles from the blue handle."
+    },
+    {
+        "second": 3,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EDZSEdwY3kM/output_frames/sec_3_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Subsequently, a hand uses a screwdriver to pry open the silver ferrule. Then, a hand removes the silver ferrule and bristles from the blue handle."
+    },
+    {
+        "second": 4,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EDZSEdwY3kM/output_frames/sec_4_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[3-5] Immediately, a hot glue gun is used to melt a hole in the blue handle, and a transparent tube is inserted into the hole."
+    },
+    {
+        "second": 5,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EDZSEdwY3kM/output_frames/sec_5_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[3-5] Immediately, a hot glue gun is used to melt a hole in the blue handle, and a transparent tube is inserted into the hole."
+    },
+    {
+        "second": 6,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EDZSEdwY3kM/output_frames/sec_6_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[5-8] Then, the hot glue gun melts a hole in the blue cap of a transparent bottle. Subsequently, a hand unscrews the blue cap from the transparent bottle."
+    },
+    {
+        "second": 7,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EDZSEdwY3kM/output_frames/sec_7_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[5-8] Then, the hot glue gun melts a hole in the blue cap of a transparent bottle. Subsequently, a hand unscrews the blue cap from the transparent bottle."
+    },
+    {
+        "second": 8,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EDZSEdwY3kM/output_frames/sec_8_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[5-8] Then, the hot glue gun melts a hole in the blue cap of a transparent bottle. Subsequently, a hand unscrews the blue cap from the transparent bottle."
+    },
+    {
+        "second": 9,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EDZSEdwY3kM/output_frames/sec_9_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[8-10] Subsequently, a hand inserts the blue cap into the transparent tube and applies glue to the joint."
+    },
+    {
+        "second": 10,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EDZSEdwY3kM/output_frames/sec_10_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[8-10] Subsequently, a hand inserts the blue cap into the transparent tube and applies glue to the joint."
+    },
+    {
+        "second": 11,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EDZSEdwY3kM/output_frames/sec_11_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[10-15] Immediately, a hand drills four holes at the bottom of the bristles with the ferrule."
+    },
+    {
+        "second": 12,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EDZSEdwY3kM/output_frames/sec_12_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[10-15] Immediately, a hand drills four holes at the bottom of the bristles with the ferrule."
+    },
+    {
+        "second": 13,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EDZSEdwY3kM/output_frames/sec_13_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[10-15] Immediately, a hand drills four holes at the bottom of the bristles with the ferrule."
+    },
+    {
+        "second": 14,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EDZSEdwY3kM/output_frames/sec_14_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[10-15] Immediately, a hand drills four holes at the bottom of the bristles with the ferrule."
+    },
+    {
+        "second": 15,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EDZSEdwY3kM/output_frames/sec_15_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[10-15] Immediately, a hand drills four holes at the bottom of the bristles with the ferrule."
+    },
+    {
+        "second": 16,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EDZSEdwY3kM/output_frames/sec_16_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[15-20] Then, a hand applies glue to the top of the blue handle and assembles the bristles with the ferrule onto the blue handle."
+    },
+    {
+        "second": 17,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EDZSEdwY3kM/output_frames/sec_17_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[15-20] Then, a hand applies glue to the top of the blue handle and assembles the bristles with the ferrule onto the blue handle."
+    },
+    {
+        "second": 18,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EDZSEdwY3kM/output_frames/sec_18_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[15-20] Then, a hand applies glue to the top of the blue handle and assembles the bristles with the ferrule onto the blue handle."
+    },
+    {
+        "second": 19,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EDZSEdwY3kM/output_frames/sec_19_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[15-20] Then, a hand applies glue to the top of the blue handle and assembles the bristles with the ferrule onto the blue handle."
+    },
+    {
+        "second": 20,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EDZSEdwY3kM/output_frames/sec_20_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[15-20] Then, a hand applies glue to the top of the blue handle and assembles the bristles with the ferrule onto the blue handle."
+    },
+    {
+        "second": 21,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EDZSEdwY3kM/output_frames/sec_21_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[20-25] Afterwards, a hand takes a container of blue paint and pours the blue paint into the transparent bottle. Subsequently, a hand screws the assembled brush onto the bottle filled with blue paint."
+    },
+    {
+        "second": 22,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EDZSEdwY3kM/output_frames/sec_22_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[20-25] Afterwards, a hand takes a container of blue paint and pours the blue paint into the transparent bottle. Subsequently, a hand screws the assembled brush onto the bottle filled with blue paint."
+    },
+    {
+        "second": 23,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EDZSEdwY3kM/output_frames/sec_23_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[20-25] Afterwards, a hand takes a container of blue paint and pours the blue paint into the transparent bottle. Subsequently, a hand screws the assembled brush onto the bottle filled with blue paint."
+    },
+    {
+        "second": 24,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EDZSEdwY3kM/output_frames/sec_24_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[20-25] Afterwards, a hand takes a container of blue paint and pours the blue paint into the transparent bottle. Subsequently, a hand screws the assembled brush onto the bottle filled with blue paint."
+    },
+    {
+        "second": 25,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EDZSEdwY3kM/output_frames/sec_25_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[20-25] Afterwards, a hand takes a container of blue paint and pours the blue paint into the transparent bottle. Subsequently, a hand screws the assembled brush onto the bottle filled with blue paint."
+    },
+    {
+        "second": 26,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EDZSEdwY3kM/output_frames/sec_26_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[25-30] Immediately, one hand holds the assembled brush while the other hand squeezes the bottle containing the blue paint. The blue paint from the bottle flows onto the bristles. Immediately after, a hand uses the assembled brush to paint a black fence with blue paint."
+    },
+    {
+        "second": 27,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EDZSEdwY3kM/output_frames/sec_27_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[25-30] Immediately, one hand holds the assembled brush while the other hand squeezes the bottle containing the blue paint. The blue paint from the bottle flows onto the bristles. Immediately after, a hand uses the assembled brush to paint a black fence with blue paint."
+    },
+    {
+        "second": 28,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EDZSEdwY3kM/output_frames/sec_28_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[25-30] Immediately, one hand holds the assembled brush while the other hand squeezes the bottle containing the blue paint. The blue paint from the bottle flows onto the bristles. Immediately after, a hand uses the assembled brush to paint a black fence with blue paint."
+    },
+    {
+        "second": 29,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EDZSEdwY3kM/output_frames/sec_29_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[25-30] Immediately, one hand holds the assembled brush while the other hand squeezes the bottle containing the blue paint. The blue paint from the bottle flows onto the bristles. Immediately after, a hand uses the assembled brush to paint a black fence with blue paint."
+    },
+    {
+        "second": 30,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EDZSEdwY3kM/output_frames/sec_30_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[25-30] Immediately, one hand holds the assembled brush while the other hand squeezes the bottle containing the blue paint. The blue paint from the bottle flows onto the bristles. Immediately after, a hand uses the assembled brush to paint a black fence with blue paint."
+    }
+]

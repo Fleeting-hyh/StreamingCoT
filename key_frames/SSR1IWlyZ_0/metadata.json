@@ -1,0 +1,163 @@
+[
+    {
+        "second": 0,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SSR1IWlyZ_0/output_frames/sec_0_idx_21.jpg",
+        "fps": 24,
+        "explanation": "[0-0] A man wearing a black top and a black hat is standing by a stainless steel sink. He holds a transparent glass funnel in front of the camera, and many coffee grounds and liquid can be seen in the funnel. There is also a stainless steel machine with blades next to the sink."
+    },
+    {
+        "second": 1,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SSR1IWlyZ_0/output_frames/sec_1_idx_11.jpg",
+        "fps": 24,
+        "explanation": "[0-9] The man then inverts the funnel onto the blades of the machine and presses down on it. Water is sprayed from the machine, flushing the coffee grounds and liquid from the funnel into the sink."
+    },
+    {
+        "second": 2,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SSR1IWlyZ_0/output_frames/sec_2_idx_6.jpg",
+        "fps": 24,
+        "explanation": "[0-9] The man then inverts the funnel onto the blades of the machine and presses down on it. Water is sprayed from the machine, flushing the coffee grounds and liquid from the funnel into the sink."
+    },
+    {
+        "second": 3,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SSR1IWlyZ_0/output_frames/sec_3_idx_12.jpg",
+        "fps": 24,
+        "explanation": "[0-9] The man then inverts the funnel onto the blades of the machine and presses down on it. Water is sprayed from the machine, flushing the coffee grounds and liquid from the funnel into the sink."
+    },
+    {
+        "second": 4,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SSR1IWlyZ_0/output_frames/sec_4_idx_7.jpg",
+        "fps": 24,
+        "explanation": "[0-9] The man then inverts the funnel onto the blades of the machine and presses down on it. Water is sprayed from the machine, flushing the coffee grounds and liquid from the funnel into the sink."
+    },
+    {
+        "second": 5,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SSR1IWlyZ_0/output_frames/sec_5_idx_12.jpg",
+        "fps": 24,
+        "explanation": "[0-9] The man then inverts the funnel onto the blades of the machine and presses down on it. Water is sprayed from the machine, flushing the coffee grounds and liquid from the funnel into the sink."
+    },
+    {
+        "second": 6,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SSR1IWlyZ_0/output_frames/sec_6_idx_23.jpg",
+        "fps": 24,
+        "explanation": "[0-9] The man then inverts the funnel onto the blades of the machine and presses down on it. Water is sprayed from the machine, flushing the coffee grounds and liquid from the funnel into the sink."
+    },
+    {
+        "second": 7,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SSR1IWlyZ_0/output_frames/sec_7_idx_9.jpg",
+        "fps": 24,
+        "explanation": "[0-9] The man then inverts the funnel onto the blades of the machine and presses down on it. Water is sprayed from the machine, flushing the coffee grounds and liquid from the funnel into the sink."
+    },
+    {
+        "second": 8,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SSR1IWlyZ_0/output_frames/sec_8_idx_20.jpg",
+        "fps": 24,
+        "explanation": "[0-9] The man then inverts the funnel onto the blades of the machine and presses down on it. Water is sprayed from the machine, flushing the coffee grounds and liquid from the funnel into the sink."
+    },
+    {
+        "second": 9,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SSR1IWlyZ_0/output_frames/sec_9_idx_22.jpg",
+        "fps": 24,
+        "explanation": "[0-9] The man then inverts the funnel onto the blades of the machine and presses down on it. Water is sprayed from the machine, flushing the coffee grounds and liquid from the funnel into the sink."
+    },
+    {
+        "second": 10,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SSR1IWlyZ_0/output_frames/sec_10_idx_13.jpg",
+        "fps": 24,
+        "explanation": "[9-12] The man then presses the funnel again, using the water flow to rinse the funnel clean."
+    },
+    {
+        "second": 11,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SSR1IWlyZ_0/output_frames/sec_11_idx_2.jpg",
+        "fps": 24,
+        "explanation": "[9-12] The man then presses the funnel again, using the water flow to rinse the funnel clean."
+    },
+    {
+        "second": 12,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SSR1IWlyZ_0/output_frames/sec_12_idx_4.jpg",
+        "fps": 24,
+        "explanation": "[9-12] The man then presses the funnel again, using the water flow to rinse the funnel clean."
+    },
+    {
+        "second": 13,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SSR1IWlyZ_0/output_frames/sec_13_idx_10.jpg",
+        "fps": 24,
+        "explanation": "[12-22] Next, the man takes out a white bottle and squeezes a bit of liquid into the funnel. He then places the funnel on the machine again, presses it against the blades, and rinses the funnel with water. Finally, the man picks up the funnel and shows the clean funnel to the camera."
+    },
+    {
+        "second": 14,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SSR1IWlyZ_0/output_frames/sec_14_idx_18.jpg",
+        "fps": 24,
+        "explanation": "[12-22] Next, the man takes out a white bottle and squeezes a bit of liquid into the funnel. He then places the funnel on the machine again, presses it against the blades, and rinses the funnel with water. Finally, the man picks up the funnel and shows the clean funnel to the camera."
+    },
+    {
+        "second": 15,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SSR1IWlyZ_0/output_frames/sec_15_idx_3.jpg",
+        "fps": 24,
+        "explanation": "[12-22] Next, the man takes out a white bottle and squeezes a bit of liquid into the funnel. He then places the funnel on the machine again, presses it against the blades, and rinses the funnel with water. Finally, the man picks up the funnel and shows the clean funnel to the camera."
+    },
+    {
+        "second": 16,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SSR1IWlyZ_0/output_frames/sec_16_idx_21.jpg",
+        "fps": 24,
+        "explanation": "[12-22] Next, the man takes out a white bottle and squeezes a bit of liquid into the funnel. He then places the funnel on the machine again, presses it against the blades, and rinses the funnel with water. Finally, the man picks up the funnel and shows the clean funnel to the camera."
+    },
+    {
+        "second": 17,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SSR1IWlyZ_0/output_frames/sec_17_idx_16.jpg",
+        "fps": 24,
+        "explanation": "[12-22] Next, the man takes out a white bottle and squeezes a bit of liquid into the funnel. He then places the funnel on the machine again, presses it against the blades, and rinses the funnel with water. Finally, the man picks up the funnel and shows the clean funnel to the camera."
+    },
+    {
+        "second": 18,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SSR1IWlyZ_0/output_frames/sec_18_idx_2.jpg",
+        "fps": 24,
+        "explanation": "[12-22] Next, the man takes out a white bottle and squeezes a bit of liquid into the funnel. He then places the funnel on the machine again, presses it against the blades, and rinses the funnel with water. Finally, the man picks up the funnel and shows the clean funnel to the camera."
+    },
+    {
+        "second": 19,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SSR1IWlyZ_0/output_frames/sec_19_idx_15.jpg",
+        "fps": 24,
+        "explanation": "[12-22] Next, the man takes out a white bottle and squeezes a bit of liquid into the funnel. He then places the funnel on the machine again, presses it against the blades, and rinses the funnel with water. Finally, the man picks up the funnel and shows the clean funnel to the camera."
+    },
+    {
+        "second": 20,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SSR1IWlyZ_0/output_frames/sec_20_idx_14.jpg",
+        "fps": 24,
+        "explanation": "[12-22] Next, the man takes out a white bottle and squeezes a bit of liquid into the funnel. He then places the funnel on the machine again, presses it against the blades, and rinses the funnel with water. Finally, the man picks up the funnel and shows the clean funnel to the camera."
+    },
+    {
+        "second": 21,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SSR1IWlyZ_0/output_frames/sec_21_idx_20.jpg",
+        "fps": 24,
+        "explanation": "[12-22] Next, the man takes out a white bottle and squeezes a bit of liquid into the funnel. He then places the funnel on the machine again, presses it against the blades, and rinses the funnel with water. Finally, the man picks up the funnel and shows the clean funnel to the camera."
+    },
+    {
+        "second": 22,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SSR1IWlyZ_0/output_frames/sec_22_idx_5.jpg",
+        "fps": 24,
+        "explanation": "[12-22] Next, the man takes out a white bottle and squeezes a bit of liquid into the funnel. He then places the funnel on the machine again, presses it against the blades, and rinses the funnel with water. Finally, the man picks up the funnel and shows the clean funnel to the camera."
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "second": 0,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JwCPGJavmIA/output_frames/sec_0_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A blonde woman is sitting in a car, wearing a gray coat. She has a smile on her face. She raises her right hand and rests her left hand on her left leg. The car's rearview mirror is blue, reflecting yellowish-green plants and a road. Outside the car window, there are yellowish-green plants, next to which is a road, and buildings behind the road."
+    },
+    {
+        "second": 1,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JwCPGJavmIA/output_frames/sec_1_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The camera then pans left to show the steering wheel, which has a Ferrari logo and many buttons. Behind the steering wheel, there is a screen displaying a lot of information. The woman is wearing yellow rings on the index and middle fingers of her left hand. She slides her right index finger across a button on the steering wheel, causing the screen behind it to go black for a moment."
+    },
+    {
+        "second": 2,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JwCPGJavmIA/output_frames/sec_2_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The camera then pans left to show the steering wheel, which has a Ferrari logo and many buttons. Behind the steering wheel, there is a screen displaying a lot of information. The woman is wearing yellow rings on the index and middle fingers of her left hand. She slides her right index finger across a button on the steering wheel, causing the screen behind it to go black for a moment."
+    },
+    {
+        "second": 3,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JwCPGJavmIA/output_frames/sec_3_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The camera then pans left to show the steering wheel, which has a Ferrari logo and many buttons. Behind the steering wheel, there is a screen displaying a lot of information. The woman is wearing yellow rings on the index and middle fingers of her left hand. She slides her right index finger across a button on the steering wheel, causing the screen behind it to go black for a moment."
+    },
+    {
+        "second": 4,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JwCPGJavmIA/output_frames/sec_4_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The camera then pans left to show the steering wheel, which has a Ferrari logo and many buttons. Behind the steering wheel, there is a screen displaying a lot of information. The woman is wearing yellow rings on the index and middle fingers of her left hand. She slides her right index finger across a button on the steering wheel, causing the screen behind it to go black for a moment."
+    },
+    {
+        "second": 5,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JwCPGJavmIA/output_frames/sec_5_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[4-6] The camera then pans right to show the car's center console, which has three buttons. Above the console, there is a screen displaying a lot of information. The woman moves her right hand to the top of the center console and swipes down on the middle button with her right index finger."
+    },
+    {
+        "second": 6,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JwCPGJavmIA/output_frames/sec_6_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[4-6] The camera then pans right to show the car's center console, which has three buttons. Above the console, there is a screen displaying a lot of information. The woman moves her right hand to the top of the center console and swipes down on the middle button with her right index finger."
+    },
+    {
+        "second": 7,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JwCPGJavmIA/output_frames/sec_7_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[6-8] Finally, the woman swipes up on the middle button of the center console with her right index finger."
+    },
+    {
+        "second": 8,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JwCPGJavmIA/output_frames/sec_8_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[6-8] Finally, the woman swipes up on the middle button of the center console with her right index finger."
+    }
+]

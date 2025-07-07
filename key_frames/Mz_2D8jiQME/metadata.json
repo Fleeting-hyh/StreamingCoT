@@ -1,0 +1,51 @@
+[
+    {
+        "second": 0,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Mz_2D8jiQME/output_frames/sec_0_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A cartoon Mario is holding a baby wearing a red hat, he looks sad. Behind him is a wall made of red bricks."
+    },
+    {
+        "second": 1,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Mz_2D8jiQME/output_frames/sec_1_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[0-6] Then Mario looks at the baby in his arms and speaks. At this time, Princess Peach appears in the picture, pointing at the baby in Mario's arms and talking. Mario then claps his hands happily, and the baby falls to the ground."
+    },
+    {
+        "second": 2,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Mz_2D8jiQME/output_frames/sec_2_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-6] Then Mario looks at the baby in his arms and speaks. At this time, Princess Peach appears in the picture, pointing at the baby in Mario's arms and talking. Mario then claps his hands happily, and the baby falls to the ground."
+    },
+    {
+        "second": 3,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Mz_2D8jiQME/output_frames/sec_3_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[0-6] Then Mario looks at the baby in his arms and speaks. At this time, Princess Peach appears in the picture, pointing at the baby in Mario's arms and talking. Mario then claps his hands happily, and the baby falls to the ground."
+    },
+    {
+        "second": 4,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Mz_2D8jiQME/output_frames/sec_4_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[0-6] Then Mario looks at the baby in his arms and speaks. At this time, Princess Peach appears in the picture, pointing at the baby in Mario's arms and talking. Mario then claps his hands happily, and the baby falls to the ground."
+    },
+    {
+        "second": 5,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Mz_2D8jiQME/output_frames/sec_5_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[0-6] Then Mario looks at the baby in his arms and speaks. At this time, Princess Peach appears in the picture, pointing at the baby in Mario's arms and talking. Mario then claps his hands happily, and the baby falls to the ground."
+    },
+    {
+        "second": 6,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Mz_2D8jiQME/output_frames/sec_6_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[0-6] Then Mario looks at the baby in his arms and speaks. At this time, Princess Peach appears in the picture, pointing at the baby in Mario's arms and talking. Mario then claps his hands happily, and the baby falls to the ground."
+    }
+]

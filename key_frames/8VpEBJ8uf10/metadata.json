@@ -1,0 +1,86 @@
+[
+    {
+        "second": 0,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8VpEBJ8uf10/output_frames/sec_0_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A wooden bridge with metal handrails is surrounded by green plants and trees. In the middle of the frame, there is a white outline of a duck, and on the right side of the frame, there is a white caption: \"@seDUCKtive\"."
+    },
+    {
+        "second": 1,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8VpEBJ8uf10/output_frames/sec_1_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[0-9] A white duck appears on the bridge. It is waddling towards the white outline."
+    },
+    {
+        "second": 2,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8VpEBJ8uf10/output_frames/sec_2_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[0-9] A white duck appears on the bridge. It is waddling towards the white outline."
+    },
+    {
+        "second": 3,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8VpEBJ8uf10/output_frames/sec_3_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[0-9] A white duck appears on the bridge. It is waddling towards the white outline."
+    },
+    {
+        "second": 4,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8VpEBJ8uf10/output_frames/sec_4_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[0-9] A white duck appears on the bridge. It is waddling towards the white outline."
+    },
+    {
+        "second": 5,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8VpEBJ8uf10/output_frames/sec_5_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[0-9] A white duck appears on the bridge. It is waddling towards the white outline."
+    },
+    {
+        "second": 6,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8VpEBJ8uf10/output_frames/sec_6_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-9] A white duck appears on the bridge. It is waddling towards the white outline."
+    },
+    {
+        "second": 7,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8VpEBJ8uf10/output_frames/sec_7_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[0-9] A white duck appears on the bridge. It is waddling towards the white outline."
+    },
+    {
+        "second": 8,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8VpEBJ8uf10/output_frames/sec_8_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[0-9] A white duck appears on the bridge. It is waddling towards the white outline."
+    },
+    {
+        "second": 9,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8VpEBJ8uf10/output_frames/sec_9_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[0-9] A white duck appears on the bridge. It is waddling towards the white outline."
+    },
+    {
+        "second": 10,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8VpEBJ8uf10/output_frames/sec_10_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[9-11] The white duck quickly reaches the white outline but does not stop and walks directly past it, disappearing to the right."
+    },
+    {
+        "second": 11,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8VpEBJ8uf10/output_frames/sec_11_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[9-11] The white duck quickly reaches the white outline but does not stop and walks directly past it, disappearing to the right."
+    }
+]

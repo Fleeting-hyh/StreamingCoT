@@ -1,0 +1,331 @@
+[
+    {
+        "second": 0,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1hVuAhO9SMw/output_frames/sec_0_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A group of people is standing at one end of two rows of red boxes. There's a woman in a green T-shirt, a woman in a pink T-shirt, a man in a yellow T-shirt, a man in a purple T-shirt, and a man in a blue T-shirt. Additionally, two people in red jumpsuits and black masks are standing on the side of the boxes. They are outside a house with white walls and blue tiles."
+    },
+    {
+        "second": 1,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1hVuAhO9SMw/output_frames/sec_1_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-2] The woman in the green T-shirt jumps onto the first box on the right. As she lands, the box collapses, and she stands on top, holding her hands up. Her friends look shocked, and she spreads her hands in surprise. The man in red points at her, indicating she is eliminated."
+    },
+    {
+        "second": 2,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1hVuAhO9SMw/output_frames/sec_2_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[0-2] The woman in the green T-shirt jumps onto the first box on the right. As she lands, the box collapses, and she stands on top, holding her hands up. Her friends look shocked, and she spreads her hands in surprise. The man in red points at her, indicating she is eliminated."
+    },
+    {
+        "second": 3,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1hVuAhO9SMw/output_frames/sec_3_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[2-8] It's now the turn of the man in the yellow T-shirt. He jumps onto the first box on the left, landing steadily. After adjusting his posture, he leaps towards the second box on the right. This box also collapses, and he steadies himself. His companions behind him reveal looks of sympathy. The man in red points at the man in yellow, indicating his elimination."
+    },
+    {
+        "second": 4,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1hVuAhO9SMw/output_frames/sec_4_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[2-8] It's now the turn of the man in the yellow T-shirt. He jumps onto the first box on the left, landing steadily. After adjusting his posture, he leaps towards the second box on the right. This box also collapses, and he steadies himself. His companions behind him reveal looks of sympathy. The man in red points at the man in yellow, indicating his elimination."
+    },
+    {
+        "second": 5,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1hVuAhO9SMw/output_frames/sec_5_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[2-8] It's now the turn of the man in the yellow T-shirt. He jumps onto the first box on the left, landing steadily. After adjusting his posture, he leaps towards the second box on the right. This box also collapses, and he steadies himself. His companions behind him reveal looks of sympathy. The man in red points at the man in yellow, indicating his elimination."
+    },
+    {
+        "second": 6,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1hVuAhO9SMw/output_frames/sec_6_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[2-8] It's now the turn of the man in the yellow T-shirt. He jumps onto the first box on the left, landing steadily. After adjusting his posture, he leaps towards the second box on the right. This box also collapses, and he steadies himself. His companions behind him reveal looks of sympathy. The man in red points at the man in yellow, indicating his elimination."
+    },
+    {
+        "second": 7,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1hVuAhO9SMw/output_frames/sec_7_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[2-8] It's now the turn of the man in the yellow T-shirt. He jumps onto the first box on the left, landing steadily. After adjusting his posture, he leaps towards the second box on the right. This box also collapses, and he steadies himself. His companions behind him reveal looks of sympathy. The man in red points at the man in yellow, indicating his elimination."
+    },
+    {
+        "second": 8,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1hVuAhO9SMw/output_frames/sec_8_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[2-8] It's now the turn of the man in the yellow T-shirt. He jumps onto the first box on the left, landing steadily. After adjusting his posture, he leaps towards the second box on the right. This box also collapses, and he steadies himself. His companions behind him reveal looks of sympathy. The man in red points at the man in yellow, indicating his elimination."
+    },
+    {
+        "second": 9,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1hVuAhO9SMw/output_frames/sec_9_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[8-16] The third challenger is the girl in the pink top and jeans. She steps onto the first box on the left and carefully jumps to the second box on the left. Her friends cheer her on from behind. She then turns and jumps to the third box on the right. The box doesn't collapse, indicating this is the correct path. Her friends are happy for her, and she claps excitedly in celebration."
+    },
+    {
+        "second": 10,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1hVuAhO9SMw/output_frames/sec_10_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[8-16] The third challenger is the girl in the pink top and jeans. She steps onto the first box on the left and carefully jumps to the second box on the left. Her friends cheer her on from behind. She then turns and jumps to the third box on the right. The box doesn't collapse, indicating this is the correct path. Her friends are happy for her, and she claps excitedly in celebration."
+    },
+    {
+        "second": 11,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1hVuAhO9SMw/output_frames/sec_11_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[8-16] The third challenger is the girl in the pink top and jeans. She steps onto the first box on the left and carefully jumps to the second box on the left. Her friends cheer her on from behind. She then turns and jumps to the third box on the right. The box doesn't collapse, indicating this is the correct path. Her friends are happy for her, and she claps excitedly in celebration."
+    },
+    {
+        "second": 12,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1hVuAhO9SMw/output_frames/sec_12_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[8-16] The third challenger is the girl in the pink top and jeans. She steps onto the first box on the left and carefully jumps to the second box on the left. Her friends cheer her on from behind. She then turns and jumps to the third box on the right. The box doesn't collapse, indicating this is the correct path. Her friends are happy for her, and she claps excitedly in celebration."
+    },
+    {
+        "second": 13,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1hVuAhO9SMw/output_frames/sec_13_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[8-16] The third challenger is the girl in the pink top and jeans. She steps onto the first box on the left and carefully jumps to the second box on the left. Her friends cheer her on from behind. She then turns and jumps to the third box on the right. The box doesn't collapse, indicating this is the correct path. Her friends are happy for her, and she claps excitedly in celebration."
+    },
+    {
+        "second": 14,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1hVuAhO9SMw/output_frames/sec_14_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[8-16] The third challenger is the girl in the pink top and jeans. She steps onto the first box on the left and carefully jumps to the second box on the left. Her friends cheer her on from behind. She then turns and jumps to the third box on the right. The box doesn't collapse, indicating this is the correct path. Her friends are happy for her, and she claps excitedly in celebration."
+    },
+    {
+        "second": 15,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1hVuAhO9SMw/output_frames/sec_15_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[8-16] The third challenger is the girl in the pink top and jeans. She steps onto the first box on the left and carefully jumps to the second box on the left. Her friends cheer her on from behind. She then turns and jumps to the third box on the right. The box doesn't collapse, indicating this is the correct path. Her friends are happy for her, and she claps excitedly in celebration."
+    },
+    {
+        "second": 16,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1hVuAhO9SMw/output_frames/sec_16_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[8-16] The third challenger is the girl in the pink top and jeans. She steps onto the first box on the left and carefully jumps to the second box on the left. Her friends cheer her on from behind. She then turns and jumps to the third box on the right. The box doesn't collapse, indicating this is the correct path. Her friends are happy for her, and she claps excitedly in celebration."
+    },
+    {
+        "second": 17,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1hVuAhO9SMw/output_frames/sec_17_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[16-24] Next, the girl adjusts her posture, preparing to jump to the fourth box on the right. She leaps, and the box holds. However, she loses her balance and falls forward, crushing the box in front of her. Her companions cover their mouths in disbelief. The man in red points at her, signaling her elimination. The girl stands up, pieces of the broken box still clinging to her feet, and hops to the right."
+    },
+    {
+        "second": 18,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1hVuAhO9SMw/output_frames/sec_18_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[16-24] Next, the girl adjusts her posture, preparing to jump to the fourth box on the right. She leaps, and the box holds. However, she loses her balance and falls forward, crushing the box in front of her. Her companions cover their mouths in disbelief. The man in red points at her, signaling her elimination. The girl stands up, pieces of the broken box still clinging to her feet, and hops to the right."
+    },
+    {
+        "second": 19,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1hVuAhO9SMw/output_frames/sec_19_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[16-24] Next, the girl adjusts her posture, preparing to jump to the fourth box on the right. She leaps, and the box holds. However, she loses her balance and falls forward, crushing the box in front of her. Her companions cover their mouths in disbelief. The man in red points at her, signaling her elimination. The girl stands up, pieces of the broken box still clinging to her feet, and hops to the right."
+    },
+    {
+        "second": 20,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1hVuAhO9SMw/output_frames/sec_20_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[16-24] Next, the girl adjusts her posture, preparing to jump to the fourth box on the right. She leaps, and the box holds. However, she loses her balance and falls forward, crushing the box in front of her. Her companions cover their mouths in disbelief. The man in red points at her, signaling her elimination. The girl stands up, pieces of the broken box still clinging to her feet, and hops to the right."
+    },
+    {
+        "second": 21,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1hVuAhO9SMw/output_frames/sec_21_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[16-24] Next, the girl adjusts her posture, preparing to jump to the fourth box on the right. She leaps, and the box holds. However, she loses her balance and falls forward, crushing the box in front of her. Her companions cover their mouths in disbelief. The man in red points at her, signaling her elimination. The girl stands up, pieces of the broken box still clinging to her feet, and hops to the right."
+    },
+    {
+        "second": 22,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1hVuAhO9SMw/output_frames/sec_22_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[16-24] Next, the girl adjusts her posture, preparing to jump to the fourth box on the right. She leaps, and the box holds. However, she loses her balance and falls forward, crushing the box in front of her. Her companions cover their mouths in disbelief. The man in red points at her, signaling her elimination. The girl stands up, pieces of the broken box still clinging to her feet, and hops to the right."
+    },
+    {
+        "second": 23,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1hVuAhO9SMw/output_frames/sec_23_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[16-24] Next, the girl adjusts her posture, preparing to jump to the fourth box on the right. She leaps, and the box holds. However, she loses her balance and falls forward, crushing the box in front of her. Her companions cover their mouths in disbelief. The man in red points at her, signaling her elimination. The girl stands up, pieces of the broken box still clinging to her feet, and hops to the right."
+    },
+    {
+        "second": 24,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1hVuAhO9SMw/output_frames/sec_24_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[16-24] Next, the girl adjusts her posture, preparing to jump to the fourth box on the right. She leaps, and the box holds. However, she loses her balance and falls forward, crushing the box in front of her. Her companions cover their mouths in disbelief. The man in red points at her, signaling her elimination. The girl stands up, pieces of the broken box still clinging to her feet, and hops to the right."
+    },
+    {
+        "second": 25,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1hVuAhO9SMw/output_frames/sec_25_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[24-32] The man in the purple shirt begins his challenge. Having observed the previous attempts, he easily navigates the initial boxes. As he stands on the third box on the right, he suddenly leaps towards the fourth box on the left. Unsurprisingly, the box collapses, and he crashes into the man in red in front of him. His companions behind him laugh while covering their faces. The man in red points, eliminating the purple-shirted man."
+    },
+    {
+        "second": 26,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1hVuAhO9SMw/output_frames/sec_26_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[24-32] The man in the purple shirt begins his challenge. Having observed the previous attempts, he easily navigates the initial boxes. As he stands on the third box on the right, he suddenly leaps towards the fourth box on the left. Unsurprisingly, the box collapses, and he crashes into the man in red in front of him. His companions behind him laugh while covering their faces. The man in red points, eliminating the purple-shirted man."
+    },
+    {
+        "second": 27,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1hVuAhO9SMw/output_frames/sec_27_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[24-32] The man in the purple shirt begins his challenge. Having observed the previous attempts, he easily navigates the initial boxes. As he stands on the third box on the right, he suddenly leaps towards the fourth box on the left. Unsurprisingly, the box collapses, and he crashes into the man in red in front of him. His companions behind him laugh while covering their faces. The man in red points, eliminating the purple-shirted man."
+    },
+    {
+        "second": 28,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1hVuAhO9SMw/output_frames/sec_28_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[24-32] The man in the purple shirt begins his challenge. Having observed the previous attempts, he easily navigates the initial boxes. As he stands on the third box on the right, he suddenly leaps towards the fourth box on the left. Unsurprisingly, the box collapses, and he crashes into the man in red in front of him. His companions behind him laugh while covering their faces. The man in red points, eliminating the purple-shirted man."
+    },
+    {
+        "second": 29,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1hVuAhO9SMw/output_frames/sec_29_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[24-32] The man in the purple shirt begins his challenge. Having observed the previous attempts, he easily navigates the initial boxes. As he stands on the third box on the right, he suddenly leaps towards the fourth box on the left. Unsurprisingly, the box collapses, and he crashes into the man in red in front of him. His companions behind him laugh while covering their faces. The man in red points, eliminating the purple-shirted man."
+    },
+    {
+        "second": 30,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1hVuAhO9SMw/output_frames/sec_30_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[24-32] The man in the purple shirt begins his challenge. Having observed the previous attempts, he easily navigates the initial boxes. As he stands on the third box on the right, he suddenly leaps towards the fourth box on the left. Unsurprisingly, the box collapses, and he crashes into the man in red in front of him. His companions behind him laugh while covering their faces. The man in red points, eliminating the purple-shirted man."
+    },
+    {
+        "second": 31,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1hVuAhO9SMw/output_frames/sec_31_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[24-32] The man in the purple shirt begins his challenge. Having observed the previous attempts, he easily navigates the initial boxes. As he stands on the third box on the right, he suddenly leaps towards the fourth box on the left. Unsurprisingly, the box collapses, and he crashes into the man in red in front of him. His companions behind him laugh while covering their faces. The man in red points, eliminating the purple-shirted man."
+    },
+    {
+        "second": 32,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1hVuAhO9SMw/output_frames/sec_32_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[24-32] The man in the purple shirt begins his challenge. Having observed the previous attempts, he easily navigates the initial boxes. As he stands on the third box on the right, he suddenly leaps towards the fourth box on the left. Unsurprisingly, the box collapses, and he crashes into the man in red in front of him. His companions behind him laugh while covering their faces. The man in red points, eliminating the purple-shirted man."
+    },
+    {
+        "second": 33,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1hVuAhO9SMw/output_frames/sec_33_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[32-42] The next challenger, wearing a blue shirt and jean shorts, effortlessly crosses the initial boxes and arrives at the final one. He crouches, placing his hands on the ground to adjust his posture."
+    },
+    {
+        "second": 34,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1hVuAhO9SMw/output_frames/sec_34_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[32-42] The next challenger, wearing a blue shirt and jean shorts, effortlessly crosses the initial boxes and arrives at the final one. He crouches, placing his hands on the ground to adjust his posture."
+    },
+    {
+        "second": 35,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1hVuAhO9SMw/output_frames/sec_35_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[32-42] The next challenger, wearing a blue shirt and jean shorts, effortlessly crosses the initial boxes and arrives at the final one. He crouches, placing his hands on the ground to adjust his posture."
+    },
+    {
+        "second": 36,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1hVuAhO9SMw/output_frames/sec_36_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[32-42] The next challenger, wearing a blue shirt and jean shorts, effortlessly crosses the initial boxes and arrives at the final one. He crouches, placing his hands on the ground to adjust his posture."
+    },
+    {
+        "second": 37,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1hVuAhO9SMw/output_frames/sec_37_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[32-42] The next challenger, wearing a blue shirt and jean shorts, effortlessly crosses the initial boxes and arrives at the final one. He crouches, placing his hands on the ground to adjust his posture."
+    },
+    {
+        "second": 38,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1hVuAhO9SMw/output_frames/sec_38_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[32-42] The next challenger, wearing a blue shirt and jean shorts, effortlessly crosses the initial boxes and arrives at the final one. He crouches, placing his hands on the ground to adjust his posture."
+    },
+    {
+        "second": 39,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1hVuAhO9SMw/output_frames/sec_39_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[32-42] The next challenger, wearing a blue shirt and jean shorts, effortlessly crosses the initial boxes and arrives at the final one. He crouches, placing his hands on the ground to adjust his posture."
+    },
+    {
+        "second": 40,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1hVuAhO9SMw/output_frames/sec_40_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[32-42] The next challenger, wearing a blue shirt and jean shorts, effortlessly crosses the initial boxes and arrives at the final one. He crouches, placing his hands on the ground to adjust his posture."
+    },
+    {
+        "second": 41,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1hVuAhO9SMw/output_frames/sec_41_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[32-42] The next challenger, wearing a blue shirt and jean shorts, effortlessly crosses the initial boxes and arrives at the final one. He crouches, placing his hands on the ground to adjust his posture."
+    },
+    {
+        "second": 42,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1hVuAhO9SMw/output_frames/sec_42_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[32-42] The next challenger, wearing a blue shirt and jean shorts, effortlessly crosses the initial boxes and arrives at the final one. He crouches, placing his hands on the ground to adjust his posture."
+    },
+    {
+        "second": 43,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1hVuAhO9SMw/output_frames/sec_43_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[42-47] The man keeps turning his head, examining the two boxes in front of him. Finally, he musters his courage and leaps towards the box on the right. The box doesn't break, and he triumphantly raises his hands, jumping for joy on top of it. The words \"like y suscribete\" and a laughing-crying emoji appear on the screen against a white background."
+    },
+    {
+        "second": 44,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1hVuAhO9SMw/output_frames/sec_44_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[42-47] The man keeps turning his head, examining the two boxes in front of him. Finally, he musters his courage and leaps towards the box on the right. The box doesn't break, and he triumphantly raises his hands, jumping for joy on top of it. The words \"like y suscribete\" and a laughing-crying emoji appear on the screen against a white background."
+    },
+    {
+        "second": 45,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1hVuAhO9SMw/output_frames/sec_45_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[42-47] The man keeps turning his head, examining the two boxes in front of him. Finally, he musters his courage and leaps towards the box on the right. The box doesn't break, and he triumphantly raises his hands, jumping for joy on top of it. The words \"like y suscribete\" and a laughing-crying emoji appear on the screen against a white background."
+    },
+    {
+        "second": 46,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1hVuAhO9SMw/output_frames/sec_46_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[42-47] The man keeps turning his head, examining the two boxes in front of him. Finally, he musters his courage and leaps towards the box on the right. The box doesn't break, and he triumphantly raises his hands, jumping for joy on top of it. The words \"like y suscribete\" and a laughing-crying emoji appear on the screen against a white background."
+    }
+]

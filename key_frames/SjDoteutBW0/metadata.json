@@ -1,0 +1,156 @@
+[
+    {
+        "second": 0,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SjDoteutBW0/output_frames/sec_0_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[0-0] The scene shows a rainforest landscape with a pool of water in the center surrounded by stones. Green plants grow on the stone wall above the pool."
+    },
+    {
+        "second": 1,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SjDoteutBW0/output_frames/sec_1_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-2] The camera zooms in, showing a man wearing a hat in the pool, his face submerged as he splashes around."
+    },
+    {
+        "second": 2,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SjDoteutBW0/output_frames/sec_2_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[0-2] The camera zooms in, showing a man wearing a hat in the pool, his face submerged as he splashes around."
+    },
+    {
+        "second": 3,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SjDoteutBW0/output_frames/sec_3_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[2-8] The camera then moves to the upper body of the man, his hands grasping a gray object underwater. Suddenly, the man's head emerges from the water, holding the dark object as he prepares to stand."
+    },
+    {
+        "second": 4,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SjDoteutBW0/output_frames/sec_4_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[2-8] The camera then moves to the upper body of the man, his hands grasping a gray object underwater. Suddenly, the man's head emerges from the water, holding the dark object as he prepares to stand."
+    },
+    {
+        "second": 5,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SjDoteutBW0/output_frames/sec_5_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[2-8] The camera then moves to the upper body of the man, his hands grasping a gray object underwater. Suddenly, the man's head emerges from the water, holding the dark object as he prepares to stand."
+    },
+    {
+        "second": 6,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SjDoteutBW0/output_frames/sec_6_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[2-8] The camera then moves to the upper body of the man, his hands grasping a gray object underwater. Suddenly, the man's head emerges from the water, holding the dark object as he prepares to stand."
+    },
+    {
+        "second": 7,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SjDoteutBW0/output_frames/sec_7_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[2-8] The camera then moves to the upper body of the man, his hands grasping a gray object underwater. Suddenly, the man's head emerges from the water, holding the dark object as he prepares to stand."
+    },
+    {
+        "second": 8,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SjDoteutBW0/output_frames/sec_8_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[2-8] The camera then moves to the upper body of the man, his hands grasping a gray object underwater. Suddenly, the man's head emerges from the water, holding the dark object as he prepares to stand."
+    },
+    {
+        "second": 9,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SjDoteutBW0/output_frames/sec_9_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[8-15] In slow motion, the man in the hat stands up and lifts the dark object out of the water with his hands, causing a large splash of white water."
+    },
+    {
+        "second": 10,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SjDoteutBW0/output_frames/sec_10_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[8-15] In slow motion, the man in the hat stands up and lifts the dark object out of the water with his hands, causing a large splash of white water."
+    },
+    {
+        "second": 11,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SjDoteutBW0/output_frames/sec_11_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[8-15] In slow motion, the man in the hat stands up and lifts the dark object out of the water with his hands, causing a large splash of white water."
+    },
+    {
+        "second": 12,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SjDoteutBW0/output_frames/sec_12_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[8-15] In slow motion, the man in the hat stands up and lifts the dark object out of the water with his hands, causing a large splash of white water."
+    },
+    {
+        "second": 13,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SjDoteutBW0/output_frames/sec_13_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[8-15] In slow motion, the man in the hat stands up and lifts the dark object out of the water with his hands, causing a large splash of white water."
+    },
+    {
+        "second": 14,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SjDoteutBW0/output_frames/sec_14_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[8-15] In slow motion, the man in the hat stands up and lifts the dark object out of the water with his hands, causing a large splash of white water."
+    },
+    {
+        "second": 15,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SjDoteutBW0/output_frames/sec_15_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[8-15] In slow motion, the man in the hat stands up and lifts the dark object out of the water with his hands, causing a large splash of white water."
+    },
+    {
+        "second": 16,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SjDoteutBW0/output_frames/sec_16_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[15-21] As the man stands firmly in place, the camera pans left, revealing that the dark object caught by the man in the hat is a giant alligator snapping turtle. The man holds the turtle tightly as it struggles with its mouth open, revealing sharp teeth. The man then takes two steps forward with the turtle, showcasing its head in front of the camera. The camera then moves back, showing the man in the hat holding the turtle and talking towards the camera with his mouth open. The turtle continues to struggle with its mouth open."
+    },
+    {
+        "second": 17,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SjDoteutBW0/output_frames/sec_17_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[15-21] As the man stands firmly in place, the camera pans left, revealing that the dark object caught by the man in the hat is a giant alligator snapping turtle. The man holds the turtle tightly as it struggles with its mouth open, revealing sharp teeth. The man then takes two steps forward with the turtle, showcasing its head in front of the camera. The camera then moves back, showing the man in the hat holding the turtle and talking towards the camera with his mouth open. The turtle continues to struggle with its mouth open."
+    },
+    {
+        "second": 18,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SjDoteutBW0/output_frames/sec_18_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[15-21] As the man stands firmly in place, the camera pans left, revealing that the dark object caught by the man in the hat is a giant alligator snapping turtle. The man holds the turtle tightly as it struggles with its mouth open, revealing sharp teeth. The man then takes two steps forward with the turtle, showcasing its head in front of the camera. The camera then moves back, showing the man in the hat holding the turtle and talking towards the camera with his mouth open. The turtle continues to struggle with its mouth open."
+    },
+    {
+        "second": 19,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SjDoteutBW0/output_frames/sec_19_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[15-21] As the man stands firmly in place, the camera pans left, revealing that the dark object caught by the man in the hat is a giant alligator snapping turtle. The man holds the turtle tightly as it struggles with its mouth open, revealing sharp teeth. The man then takes two steps forward with the turtle, showcasing its head in front of the camera. The camera then moves back, showing the man in the hat holding the turtle and talking towards the camera with his mouth open. The turtle continues to struggle with its mouth open."
+    },
+    {
+        "second": 20,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SjDoteutBW0/output_frames/sec_20_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[15-21] As the man stands firmly in place, the camera pans left, revealing that the dark object caught by the man in the hat is a giant alligator snapping turtle. The man holds the turtle tightly as it struggles with its mouth open, revealing sharp teeth. The man then takes two steps forward with the turtle, showcasing its head in front of the camera. The camera then moves back, showing the man in the hat holding the turtle and talking towards the camera with his mouth open. The turtle continues to struggle with its mouth open."
+    },
+    {
+        "second": 21,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SjDoteutBW0/output_frames/sec_21_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[15-21] As the man stands firmly in place, the camera pans left, revealing that the dark object caught by the man in the hat is a giant alligator snapping turtle. The man holds the turtle tightly as it struggles with its mouth open, revealing sharp teeth. The man then takes two steps forward with the turtle, showcasing its head in front of the camera. The camera then moves back, showing the man in the hat holding the turtle and talking towards the camera with his mouth open. The turtle continues to struggle with its mouth open."
+    }
+]

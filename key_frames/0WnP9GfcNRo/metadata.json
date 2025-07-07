@@ -1,0 +1,387 @@
+[
+    {
+        "second": 0,
+        "frame_index": 59,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0WnP9GfcNRo/output_frames/sec_0_idx_59.jpg",
+        "fps": 60,
+        "explanation": "[0-0] A person wearing a yellow shirt holds a lipstick in their hand, suspending it over a white bucket filled with chocolate sauce. The table beneath the white bucket is green."
+    },
+    {
+        "second": 1,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0WnP9GfcNRo/output_frames/sec_1_idx_2.jpg",
+        "fps": 60,
+        "explanation": "[0-4] Subsequently, the person presses the lipstick into the chocolate sauce, then lifts their hand, now covered in chocolate sauce."
+    },
+    {
+        "second": 2,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0WnP9GfcNRo/output_frames/sec_2_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[0-4] Subsequently, the person presses the lipstick into the chocolate sauce, then lifts their hand, now covered in chocolate sauce."
+    },
+    {
+        "second": 3,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0WnP9GfcNRo/output_frames/sec_3_idx_7.jpg",
+        "fps": 60,
+        "explanation": "[0-4] Subsequently, the person presses the lipstick into the chocolate sauce, then lifts their hand, now covered in chocolate sauce."
+    },
+    {
+        "second": 4,
+        "frame_index": 41,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0WnP9GfcNRo/output_frames/sec_4_idx_41.jpg",
+        "fps": 60,
+        "explanation": "[0-4] Subsequently, the person presses the lipstick into the chocolate sauce, then lifts their hand, now covered in chocolate sauce."
+    },
+    {
+        "second": 5,
+        "frame_index": 57,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0WnP9GfcNRo/output_frames/sec_5_idx_57.jpg",
+        "fps": 60,
+        "explanation": "[4-7] Immediately following, the shot changes to a woman with blonde hair facing the camera, showing her chocolate-covered hand. Behind the woman, there's a shelf with many items on it. She then picks up the white bucket with her other hand and gets up."
+    },
+    {
+        "second": 6,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0WnP9GfcNRo/output_frames/sec_6_idx_5.jpg",
+        "fps": 60,
+        "explanation": "[4-7] Immediately following, the shot changes to a woman with blonde hair facing the camera, showing her chocolate-covered hand. Behind the woman, there's a shelf with many items on it. She then picks up the white bucket with her other hand and gets up."
+    },
+    {
+        "second": 7,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0WnP9GfcNRo/output_frames/sec_7_idx_26.jpg",
+        "fps": 60,
+        "explanation": "[4-7] Immediately following, the shot changes to a woman with blonde hair facing the camera, showing her chocolate-covered hand. Behind the woman, there's a shelf with many items on it. She then picks up the white bucket with her other hand and gets up."
+    },
+    {
+        "second": 8,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0WnP9GfcNRo/output_frames/sec_8_idx_19.jpg",
+        "fps": 60,
+        "explanation": "[7-15] The blonde woman then arrives at a door with a water dispenser. A security guard with blue hair and a black uniform stops her, shaking their head and pointing twice at a \"no lipstick\" sign on the door. The woman looks at the bucket in her hand and shakes her head. The security guard aims a device at the woman and scans her twice; the device lights up red."
+    },
+    {
+        "second": 9,
+        "frame_index": 58,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0WnP9GfcNRo/output_frames/sec_9_idx_58.jpg",
+        "fps": 60,
+        "explanation": "[7-15] The blonde woman then arrives at a door with a water dispenser. A security guard with blue hair and a black uniform stops her, shaking their head and pointing twice at a \"no lipstick\" sign on the door. The woman looks at the bucket in her hand and shakes her head. The security guard aims a device at the woman and scans her twice; the device lights up red."
+    },
+    {
+        "second": 10,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0WnP9GfcNRo/output_frames/sec_10_idx_6.jpg",
+        "fps": 60,
+        "explanation": "[7-15] The blonde woman then arrives at a door with a water dispenser. A security guard with blue hair and a black uniform stops her, shaking their head and pointing twice at a \"no lipstick\" sign on the door. The woman looks at the bucket in her hand and shakes her head. The security guard aims a device at the woman and scans her twice; the device lights up red."
+    },
+    {
+        "second": 11,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0WnP9GfcNRo/output_frames/sec_11_idx_7.jpg",
+        "fps": 60,
+        "explanation": "[7-15] The blonde woman then arrives at a door with a water dispenser. A security guard with blue hair and a black uniform stops her, shaking their head and pointing twice at a \"no lipstick\" sign on the door. The woman looks at the bucket in her hand and shakes her head. The security guard aims a device at the woman and scans her twice; the device lights up red."
+    },
+    {
+        "second": 12,
+        "frame_index": 51,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0WnP9GfcNRo/output_frames/sec_12_idx_51.jpg",
+        "fps": 60,
+        "explanation": "[7-15] The blonde woman then arrives at a door with a water dispenser. A security guard with blue hair and a black uniform stops her, shaking their head and pointing twice at a \"no lipstick\" sign on the door. The woman looks at the bucket in her hand and shakes her head. The security guard aims a device at the woman and scans her twice; the device lights up red."
+    },
+    {
+        "second": 13,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0WnP9GfcNRo/output_frames/sec_13_idx_18.jpg",
+        "fps": 60,
+        "explanation": "[7-15] The blonde woman then arrives at a door with a water dispenser. A security guard with blue hair and a black uniform stops her, shaking their head and pointing twice at a \"no lipstick\" sign on the door. The woman looks at the bucket in her hand and shakes her head. The security guard aims a device at the woman and scans her twice; the device lights up red."
+    },
+    {
+        "second": 14,
+        "frame_index": 58,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0WnP9GfcNRo/output_frames/sec_14_idx_58.jpg",
+        "fps": 60,
+        "explanation": "[7-15] The blonde woman then arrives at a door with a water dispenser. A security guard with blue hair and a black uniform stops her, shaking their head and pointing twice at a \"no lipstick\" sign on the door. The woman looks at the bucket in her hand and shakes her head. The security guard aims a device at the woman and scans her twice; the device lights up red."
+    },
+    {
+        "second": 15,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0WnP9GfcNRo/output_frames/sec_15_idx_13.jpg",
+        "fps": 60,
+        "explanation": "[7-15] The blonde woman then arrives at a door with a water dispenser. A security guard with blue hair and a black uniform stops her, shaking their head and pointing twice at a \"no lipstick\" sign on the door. The woman looks at the bucket in her hand and shakes her head. The security guard aims a device at the woman and scans her twice; the device lights up red."
+    },
+    {
+        "second": 16,
+        "frame_index": 44,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0WnP9GfcNRo/output_frames/sec_16_idx_44.jpg",
+        "fps": 60,
+        "explanation": "[15-25] Following this, the security guard pouts, looks at the white bucket in the woman's hand, shakes their head, then takes the bucket and sets it on the table. Reaching into the bucket, they pull out a lipstick and shake their head to the left."
+    },
+    {
+        "second": 17,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0WnP9GfcNRo/output_frames/sec_17_idx_21.jpg",
+        "fps": 60,
+        "explanation": "[15-25] Following this, the security guard pouts, looks at the white bucket in the woman's hand, shakes their head, then takes the bucket and sets it on the table. Reaching into the bucket, they pull out a lipstick and shake their head to the left."
+    },
+    {
+        "second": 18,
+        "frame_index": 33,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0WnP9GfcNRo/output_frames/sec_18_idx_33.jpg",
+        "fps": 60,
+        "explanation": "[15-25] Following this, the security guard pouts, looks at the white bucket in the woman's hand, shakes their head, then takes the bucket and sets it on the table. Reaching into the bucket, they pull out a lipstick and shake their head to the left."
+    },
+    {
+        "second": 19,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0WnP9GfcNRo/output_frames/sec_19_idx_5.jpg",
+        "fps": 60,
+        "explanation": "[15-25] Following this, the security guard pouts, looks at the white bucket in the woman's hand, shakes their head, then takes the bucket and sets it on the table. Reaching into the bucket, they pull out a lipstick and shake their head to the left."
+    },
+    {
+        "second": 20,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0WnP9GfcNRo/output_frames/sec_20_idx_2.jpg",
+        "fps": 60,
+        "explanation": "[15-25] Following this, the security guard pouts, looks at the white bucket in the woman's hand, shakes their head, then takes the bucket and sets it on the table. Reaching into the bucket, they pull out a lipstick and shake their head to the left."
+    },
+    {
+        "second": 21,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0WnP9GfcNRo/output_frames/sec_21_idx_18.jpg",
+        "fps": 60,
+        "explanation": "[15-25] Following this, the security guard pouts, looks at the white bucket in the woman's hand, shakes their head, then takes the bucket and sets it on the table. Reaching into the bucket, they pull out a lipstick and shake their head to the left."
+    },
+    {
+        "second": 22,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0WnP9GfcNRo/output_frames/sec_22_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[15-25] Following this, the security guard pouts, looks at the white bucket in the woman's hand, shakes their head, then takes the bucket and sets it on the table. Reaching into the bucket, they pull out a lipstick and shake their head to the left."
+    },
+    {
+        "second": 23,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0WnP9GfcNRo/output_frames/sec_23_idx_27.jpg",
+        "fps": 60,
+        "explanation": "[15-25] Following this, the security guard pouts, looks at the white bucket in the woman's hand, shakes their head, then takes the bucket and sets it on the table. Reaching into the bucket, they pull out a lipstick and shake their head to the left."
+    },
+    {
+        "second": 24,
+        "frame_index": 53,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0WnP9GfcNRo/output_frames/sec_24_idx_53.jpg",
+        "fps": 60,
+        "explanation": "[15-25] Following this, the security guard pouts, looks at the white bucket in the woman's hand, shakes their head, then takes the bucket and sets it on the table. Reaching into the bucket, they pull out a lipstick and shake their head to the left."
+    },
+    {
+        "second": 25,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0WnP9GfcNRo/output_frames/sec_25_idx_8.jpg",
+        "fps": 60,
+        "explanation": "[15-25] Following this, the security guard pouts, looks at the white bucket in the woman's hand, shakes their head, then takes the bucket and sets it on the table. Reaching into the bucket, they pull out a lipstick and shake their head to the left."
+    },
+    {
+        "second": 26,
+        "frame_index": 45,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0WnP9GfcNRo/output_frames/sec_26_idx_45.jpg",
+        "fps": 60,
+        "explanation": "[25-34] Next, the security guard disposes of the lipstick. The woman covers her face with both hands, her expression surprised. After discarding the lipstick, the security guard gestures for the woman to proceed. The woman walks towards the door with a wronged expression."
+    },
+    {
+        "second": 27,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0WnP9GfcNRo/output_frames/sec_27_idx_6.jpg",
+        "fps": 60,
+        "explanation": "[25-34] Next, the security guard disposes of the lipstick. The woman covers her face with both hands, her expression surprised. After discarding the lipstick, the security guard gestures for the woman to proceed. The woman walks towards the door with a wronged expression."
+    },
+    {
+        "second": 28,
+        "frame_index": 31,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0WnP9GfcNRo/output_frames/sec_28_idx_31.jpg",
+        "fps": 60,
+        "explanation": "[25-34] Next, the security guard disposes of the lipstick. The woman covers her face with both hands, her expression surprised. After discarding the lipstick, the security guard gestures for the woman to proceed. The woman walks towards the door with a wronged expression."
+    },
+    {
+        "second": 29,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0WnP9GfcNRo/output_frames/sec_29_idx_27.jpg",
+        "fps": 60,
+        "explanation": "[25-34] Next, the security guard disposes of the lipstick. The woman covers her face with both hands, her expression surprised. After discarding the lipstick, the security guard gestures for the woman to proceed. The woman walks towards the door with a wronged expression."
+    },
+    {
+        "second": 30,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0WnP9GfcNRo/output_frames/sec_30_idx_2.jpg",
+        "fps": 60,
+        "explanation": "[25-34] Next, the security guard disposes of the lipstick. The woman covers her face with both hands, her expression surprised. After discarding the lipstick, the security guard gestures for the woman to proceed. The woman walks towards the door with a wronged expression."
+    },
+    {
+        "second": 31,
+        "frame_index": 41,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0WnP9GfcNRo/output_frames/sec_31_idx_41.jpg",
+        "fps": 60,
+        "explanation": "[25-34] Next, the security guard disposes of the lipstick. The woman covers her face with both hands, her expression surprised. After discarding the lipstick, the security guard gestures for the woman to proceed. The woman walks towards the door with a wronged expression."
+    },
+    {
+        "second": 32,
+        "frame_index": 54,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0WnP9GfcNRo/output_frames/sec_32_idx_54.jpg",
+        "fps": 60,
+        "explanation": "[25-34] Next, the security guard disposes of the lipstick. The woman covers her face with both hands, her expression surprised. After discarding the lipstick, the security guard gestures for the woman to proceed. The woman walks towards the door with a wronged expression."
+    },
+    {
+        "second": 33,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0WnP9GfcNRo/output_frames/sec_33_idx_25.jpg",
+        "fps": 60,
+        "explanation": "[25-34] Next, the security guard disposes of the lipstick. The woman covers her face with both hands, her expression surprised. After discarding the lipstick, the security guard gestures for the woman to proceed. The woman walks towards the door with a wronged expression."
+    },
+    {
+        "second": 34,
+        "frame_index": 39,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0WnP9GfcNRo/output_frames/sec_34_idx_39.jpg",
+        "fps": 60,
+        "explanation": "[25-34] Next, the security guard disposes of the lipstick. The woman covers her face with both hands, her expression surprised. After discarding the lipstick, the security guard gestures for the woman to proceed. The woman walks towards the door with a wronged expression."
+    },
+    {
+        "second": 35,
+        "frame_index": 45,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0WnP9GfcNRo/output_frames/sec_35_idx_45.jpg",
+        "fps": 60,
+        "explanation": "[34-42] The woman then arrives at a room with a blackboard and sits down. She smiles at the camera and pulls out a chocolate bar wrapper from her pocket. Tearing open the wrapper, another lipstick is revealed inside."
+    },
+    {
+        "second": 36,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0WnP9GfcNRo/output_frames/sec_36_idx_1.jpg",
+        "fps": 60,
+        "explanation": "[34-42] The woman then arrives at a room with a blackboard and sits down. She smiles at the camera and pulls out a chocolate bar wrapper from her pocket. Tearing open the wrapper, another lipstick is revealed inside."
+    },
+    {
+        "second": 37,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0WnP9GfcNRo/output_frames/sec_37_idx_11.jpg",
+        "fps": 60,
+        "explanation": "[34-42] The woman then arrives at a room with a blackboard and sits down. She smiles at the camera and pulls out a chocolate bar wrapper from her pocket. Tearing open the wrapper, another lipstick is revealed inside."
+    },
+    {
+        "second": 38,
+        "frame_index": 54,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0WnP9GfcNRo/output_frames/sec_38_idx_54.jpg",
+        "fps": 60,
+        "explanation": "[34-42] The woman then arrives at a room with a blackboard and sits down. She smiles at the camera and pulls out a chocolate bar wrapper from her pocket. Tearing open the wrapper, another lipstick is revealed inside."
+    },
+    {
+        "second": 39,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0WnP9GfcNRo/output_frames/sec_39_idx_6.jpg",
+        "fps": 60,
+        "explanation": "[34-42] The woman then arrives at a room with a blackboard and sits down. She smiles at the camera and pulls out a chocolate bar wrapper from her pocket. Tearing open the wrapper, another lipstick is revealed inside."
+    },
+    {
+        "second": 40,
+        "frame_index": 31,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0WnP9GfcNRo/output_frames/sec_40_idx_31.jpg",
+        "fps": 60,
+        "explanation": "[34-42] The woman then arrives at a room with a blackboard and sits down. She smiles at the camera and pulls out a chocolate bar wrapper from her pocket. Tearing open the wrapper, another lipstick is revealed inside."
+    },
+    {
+        "second": 41,
+        "frame_index": 56,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0WnP9GfcNRo/output_frames/sec_41_idx_56.jpg",
+        "fps": 60,
+        "explanation": "[34-42] The woman then arrives at a room with a blackboard and sits down. She smiles at the camera and pulls out a chocolate bar wrapper from her pocket. Tearing open the wrapper, another lipstick is revealed inside."
+    },
+    {
+        "second": 42,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0WnP9GfcNRo/output_frames/sec_42_idx_3.jpg",
+        "fps": 60,
+        "explanation": "[34-42] The woman then arrives at a room with a blackboard and sits down. She smiles at the camera and pulls out a chocolate bar wrapper from her pocket. Tearing open the wrapper, another lipstick is revealed inside."
+    },
+    {
+        "second": 43,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0WnP9GfcNRo/output_frames/sec_43_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[42-49] The woman takes out the lipstick, smiles twice at the camera, and begins applying it to her lips."
+    },
+    {
+        "second": 44,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0WnP9GfcNRo/output_frames/sec_44_idx_5.jpg",
+        "fps": 60,
+        "explanation": "[42-49] The woman takes out the lipstick, smiles twice at the camera, and begins applying it to her lips."
+    },
+    {
+        "second": 45,
+        "frame_index": 52,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0WnP9GfcNRo/output_frames/sec_45_idx_52.jpg",
+        "fps": 60,
+        "explanation": "[42-49] The woman takes out the lipstick, smiles twice at the camera, and begins applying it to her lips."
+    },
+    {
+        "second": 46,
+        "frame_index": 47,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0WnP9GfcNRo/output_frames/sec_46_idx_47.jpg",
+        "fps": 60,
+        "explanation": "[42-49] The woman takes out the lipstick, smiles twice at the camera, and begins applying it to her lips."
+    },
+    {
+        "second": 47,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0WnP9GfcNRo/output_frames/sec_47_idx_2.jpg",
+        "fps": 60,
+        "explanation": "[42-49] The woman takes out the lipstick, smiles twice at the camera, and begins applying it to her lips."
+    },
+    {
+        "second": 48,
+        "frame_index": 59,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0WnP9GfcNRo/output_frames/sec_48_idx_59.jpg",
+        "fps": 60,
+        "explanation": "[42-49] The woman takes out the lipstick, smiles twice at the camera, and begins applying it to her lips."
+    },
+    {
+        "second": 49,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0WnP9GfcNRo/output_frames/sec_49_idx_3.jpg",
+        "fps": 60,
+        "explanation": "[42-49] The woman takes out the lipstick, smiles twice at the camera, and begins applying it to her lips."
+    },
+    {
+        "second": 50,
+        "frame_index": 53,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0WnP9GfcNRo/output_frames/sec_50_idx_53.jpg",
+        "fps": 60,
+        "explanation": "[49-54] Finally, after finishing the application, she smacks her lips, sticks her tongue out to the left, and wears a smug expression."
+    },
+    {
+        "second": 51,
+        "frame_index": 51,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0WnP9GfcNRo/output_frames/sec_51_idx_51.jpg",
+        "fps": 60,
+        "explanation": "[49-54] Finally, after finishing the application, she smacks her lips, sticks her tongue out to the left, and wears a smug expression."
+    },
+    {
+        "second": 52,
+        "frame_index": 33,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0WnP9GfcNRo/output_frames/sec_52_idx_33.jpg",
+        "fps": 60,
+        "explanation": "[49-54] Finally, after finishing the application, she smacks her lips, sticks her tongue out to the left, and wears a smug expression."
+    },
+    {
+        "second": 53,
+        "frame_index": 33,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0WnP9GfcNRo/output_frames/sec_53_idx_33.jpg",
+        "fps": 60,
+        "explanation": "[49-54] Finally, after finishing the application, she smacks her lips, sticks her tongue out to the left, and wears a smug expression."
+    },
+    {
+        "second": 54,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0WnP9GfcNRo/output_frames/sec_54_idx_18.jpg",
+        "fps": 60,
+        "explanation": "[49-54] Finally, after finishing the application, she smacks her lips, sticks her tongue out to the left, and wears a smug expression."
+    }
+]

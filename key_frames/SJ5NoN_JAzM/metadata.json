@@ -1,0 +1,268 @@
+[
+    {
+        "second": 0,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SJ5NoN_JAzM/output_frames/sec_0_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[0-0] On a road, there is a long pedestrian crossing, with green land on both sides."
+    },
+    {
+        "second": 1,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SJ5NoN_JAzM/output_frames/sec_1_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-7] Next, a flashing traffic light appears from the left, and then a running traffic light appears in the distance of the crosswalk. As the traffic light on the crosswalk keeps approaching the camera, the traffic light on the left shrinks into the distance. Then, a flashing traffic light also appears on the right side and shrinks into the distance. You can also see a traffic light running towards the camera on the green land on the right side of the picture."
+    },
+    {
+        "second": 2,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SJ5NoN_JAzM/output_frames/sec_2_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[0-7] Next, a flashing traffic light appears from the left, and then a running traffic light appears in the distance of the crosswalk. As the traffic light on the crosswalk keeps approaching the camera, the traffic light on the left shrinks into the distance. Then, a flashing traffic light also appears on the right side and shrinks into the distance. You can also see a traffic light running towards the camera on the green land on the right side of the picture."
+    },
+    {
+        "second": 3,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SJ5NoN_JAzM/output_frames/sec_3_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[0-7] Next, a flashing traffic light appears from the left, and then a running traffic light appears in the distance of the crosswalk. As the traffic light on the crosswalk keeps approaching the camera, the traffic light on the left shrinks into the distance. Then, a flashing traffic light also appears on the right side and shrinks into the distance. You can also see a traffic light running towards the camera on the green land on the right side of the picture."
+    },
+    {
+        "second": 4,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SJ5NoN_JAzM/output_frames/sec_4_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-7] Next, a flashing traffic light appears from the left, and then a running traffic light appears in the distance of the crosswalk. As the traffic light on the crosswalk keeps approaching the camera, the traffic light on the left shrinks into the distance. Then, a flashing traffic light also appears on the right side and shrinks into the distance. You can also see a traffic light running towards the camera on the green land on the right side of the picture."
+    },
+    {
+        "second": 5,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SJ5NoN_JAzM/output_frames/sec_5_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[0-7] Next, a flashing traffic light appears from the left, and then a running traffic light appears in the distance of the crosswalk. As the traffic light on the crosswalk keeps approaching the camera, the traffic light on the left shrinks into the distance. Then, a flashing traffic light also appears on the right side and shrinks into the distance. You can also see a traffic light running towards the camera on the green land on the right side of the picture."
+    },
+    {
+        "second": 6,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SJ5NoN_JAzM/output_frames/sec_6_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[0-7] Next, a flashing traffic light appears from the left, and then a running traffic light appears in the distance of the crosswalk. As the traffic light on the crosswalk keeps approaching the camera, the traffic light on the left shrinks into the distance. Then, a flashing traffic light also appears on the right side and shrinks into the distance. You can also see a traffic light running towards the camera on the green land on the right side of the picture."
+    },
+    {
+        "second": 7,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SJ5NoN_JAzM/output_frames/sec_7_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[0-7] Next, a flashing traffic light appears from the left, and then a running traffic light appears in the distance of the crosswalk. As the traffic light on the crosswalk keeps approaching the camera, the traffic light on the left shrinks into the distance. Then, a flashing traffic light also appears on the right side and shrinks into the distance. You can also see a traffic light running towards the camera on the green land on the right side of the picture."
+    },
+    {
+        "second": 8,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SJ5NoN_JAzM/output_frames/sec_8_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[7-14] Immediately afterwards, the traffic light on the right keeps running forward, and when it reaches the first traffic light, it pushes the first traffic light out of the picture from the left."
+    },
+    {
+        "second": 9,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SJ5NoN_JAzM/output_frames/sec_9_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[7-14] Immediately afterwards, the traffic light on the right keeps running forward, and when it reaches the first traffic light, it pushes the first traffic light out of the picture from the left."
+    },
+    {
+        "second": 10,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SJ5NoN_JAzM/output_frames/sec_10_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[7-14] Immediately afterwards, the traffic light on the right keeps running forward, and when it reaches the first traffic light, it pushes the first traffic light out of the picture from the left."
+    },
+    {
+        "second": 11,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SJ5NoN_JAzM/output_frames/sec_11_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[7-14] Immediately afterwards, the traffic light on the right keeps running forward, and when it reaches the first traffic light, it pushes the first traffic light out of the picture from the left."
+    },
+    {
+        "second": 12,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SJ5NoN_JAzM/output_frames/sec_12_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[7-14] Immediately afterwards, the traffic light on the right keeps running forward, and when it reaches the first traffic light, it pushes the first traffic light out of the picture from the left."
+    },
+    {
+        "second": 13,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SJ5NoN_JAzM/output_frames/sec_13_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[7-14] Immediately afterwards, the traffic light on the right keeps running forward, and when it reaches the first traffic light, it pushes the first traffic light out of the picture from the left."
+    },
+    {
+        "second": 14,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SJ5NoN_JAzM/output_frames/sec_14_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[7-14] Immediately afterwards, the traffic light on the right keeps running forward, and when it reaches the first traffic light, it pushes the first traffic light out of the picture from the left."
+    },
+    {
+        "second": 15,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SJ5NoN_JAzM/output_frames/sec_15_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[14-24] Then the second traffic light keeps running forward, and many skulls with flashing lights appear in the distance. They have green, yellow, and red hair on their heads. They run faster and faster, come behind the second traffic light, and knock the traffic light out of the picture."
+    },
+    {
+        "second": 16,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SJ5NoN_JAzM/output_frames/sec_16_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[14-24] Then the second traffic light keeps running forward, and many skulls with flashing lights appear in the distance. They have green, yellow, and red hair on their heads. They run faster and faster, come behind the second traffic light, and knock the traffic light out of the picture."
+    },
+    {
+        "second": 17,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SJ5NoN_JAzM/output_frames/sec_17_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[14-24] Then the second traffic light keeps running forward, and many skulls with flashing lights appear in the distance. They have green, yellow, and red hair on their heads. They run faster and faster, come behind the second traffic light, and knock the traffic light out of the picture."
+    },
+    {
+        "second": 18,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SJ5NoN_JAzM/output_frames/sec_18_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[14-24] Then the second traffic light keeps running forward, and many skulls with flashing lights appear in the distance. They have green, yellow, and red hair on their heads. They run faster and faster, come behind the second traffic light, and knock the traffic light out of the picture."
+    },
+    {
+        "second": 19,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SJ5NoN_JAzM/output_frames/sec_19_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[14-24] Then the second traffic light keeps running forward, and many skulls with flashing lights appear in the distance. They have green, yellow, and red hair on their heads. They run faster and faster, come behind the second traffic light, and knock the traffic light out of the picture."
+    },
+    {
+        "second": 20,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SJ5NoN_JAzM/output_frames/sec_20_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[14-24] Then the second traffic light keeps running forward, and many skulls with flashing lights appear in the distance. They have green, yellow, and red hair on their heads. They run faster and faster, come behind the second traffic light, and knock the traffic light out of the picture."
+    },
+    {
+        "second": 21,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SJ5NoN_JAzM/output_frames/sec_21_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[14-24] Then the second traffic light keeps running forward, and many skulls with flashing lights appear in the distance. They have green, yellow, and red hair on their heads. They run faster and faster, come behind the second traffic light, and knock the traffic light out of the picture."
+    },
+    {
+        "second": 22,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SJ5NoN_JAzM/output_frames/sec_22_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[14-24] Then the second traffic light keeps running forward, and many skulls with flashing lights appear in the distance. They have green, yellow, and red hair on their heads. They run faster and faster, come behind the second traffic light, and knock the traffic light out of the picture."
+    },
+    {
+        "second": 23,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SJ5NoN_JAzM/output_frames/sec_23_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[14-24] Then the second traffic light keeps running forward, and many skulls with flashing lights appear in the distance. They have green, yellow, and red hair on their heads. They run faster and faster, come behind the second traffic light, and knock the traffic light out of the picture."
+    },
+    {
+        "second": 24,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SJ5NoN_JAzM/output_frames/sec_24_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[14-24] Then the second traffic light keeps running forward, and many skulls with flashing lights appear in the distance. They have green, yellow, and red hair on their heads. They run faster and faster, come behind the second traffic light, and knock the traffic light out of the picture."
+    },
+    {
+        "second": 25,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SJ5NoN_JAzM/output_frames/sec_25_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[24-33] Then, two traffic lights with wings appear behind these skulls. One traffic light comes behind some skulls on the left and knocks them away. Then another traffic light comes behind some skulls on the right and knocks them away. Only one skull with red hair is still running on the road in the middle of the picture."
+    },
+    {
+        "second": 26,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SJ5NoN_JAzM/output_frames/sec_26_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[24-33] Then, two traffic lights with wings appear behind these skulls. One traffic light comes behind some skulls on the left and knocks them away. Then another traffic light comes behind some skulls on the right and knocks them away. Only one skull with red hair is still running on the road in the middle of the picture."
+    },
+    {
+        "second": 27,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SJ5NoN_JAzM/output_frames/sec_27_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[24-33] Then, two traffic lights with wings appear behind these skulls. One traffic light comes behind some skulls on the left and knocks them away. Then another traffic light comes behind some skulls on the right and knocks them away. Only one skull with red hair is still running on the road in the middle of the picture."
+    },
+    {
+        "second": 28,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SJ5NoN_JAzM/output_frames/sec_28_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[24-33] Then, two traffic lights with wings appear behind these skulls. One traffic light comes behind some skulls on the left and knocks them away. Then another traffic light comes behind some skulls on the right and knocks them away. Only one skull with red hair is still running on the road in the middle of the picture."
+    },
+    {
+        "second": 29,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SJ5NoN_JAzM/output_frames/sec_29_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[24-33] Then, two traffic lights with wings appear behind these skulls. One traffic light comes behind some skulls on the left and knocks them away. Then another traffic light comes behind some skulls on the right and knocks them away. Only one skull with red hair is still running on the road in the middle of the picture."
+    },
+    {
+        "second": 30,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SJ5NoN_JAzM/output_frames/sec_30_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[24-33] Then, two traffic lights with wings appear behind these skulls. One traffic light comes behind some skulls on the left and knocks them away. Then another traffic light comes behind some skulls on the right and knocks them away. Only one skull with red hair is still running on the road in the middle of the picture."
+    },
+    {
+        "second": 31,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SJ5NoN_JAzM/output_frames/sec_31_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[24-33] Then, two traffic lights with wings appear behind these skulls. One traffic light comes behind some skulls on the left and knocks them away. Then another traffic light comes behind some skulls on the right and knocks them away. Only one skull with red hair is still running on the road in the middle of the picture."
+    },
+    {
+        "second": 32,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SJ5NoN_JAzM/output_frames/sec_32_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[24-33] Then, two traffic lights with wings appear behind these skulls. One traffic light comes behind some skulls on the left and knocks them away. Then another traffic light comes behind some skulls on the right and knocks them away. Only one skull with red hair is still running on the road in the middle of the picture."
+    },
+    {
+        "second": 33,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SJ5NoN_JAzM/output_frames/sec_33_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[24-33] Then, two traffic lights with wings appear behind these skulls. One traffic light comes behind some skulls on the left and knocks them away. Then another traffic light comes behind some skulls on the right and knocks them away. Only one skull with red hair is still running on the road in the middle of the picture."
+    },
+    {
+        "second": 34,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SJ5NoN_JAzM/output_frames/sec_34_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[33-38] Finally, a large stone suddenly flies out from the left and knocks the last skull away. Finally, there is only the crosswalk in the picture."
+    },
+    {
+        "second": 35,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SJ5NoN_JAzM/output_frames/sec_35_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[33-38] Finally, a large stone suddenly flies out from the left and knocks the last skull away. Finally, there is only the crosswalk in the picture."
+    },
+    {
+        "second": 36,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SJ5NoN_JAzM/output_frames/sec_36_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[33-38] Finally, a large stone suddenly flies out from the left and knocks the last skull away. Finally, there is only the crosswalk in the picture."
+    },
+    {
+        "second": 37,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SJ5NoN_JAzM/output_frames/sec_37_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[33-38] Finally, a large stone suddenly flies out from the left and knocks the last skull away. Finally, there is only the crosswalk in the picture."
+    }
+]

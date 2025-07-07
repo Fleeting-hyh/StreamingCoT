@@ -1,0 +1,44 @@
+[
+    {
+        "second": 0,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/I1TkileblSk/output_frames/sec_0_idx_4.jpg",
+        "fps": 25,
+        "explanation": "[0-0] A young boy wearing a red T-shirt, yellow pants, a yellow hat, and red glasses is standing on the left side of a doorway with his legs bent, feet off the ground, and both hands raised above his head. In the middle stands a woman wearing a yellow sweatshirt, colorful tights, and a red hat, also with her legs bent and hands raised above her head, smiling cheerfully with her mouth open. On the right stands a person in a green bodysuit, raising their right hand with both feet off the ground. The walls of the room are white, the floor is wooden, and colorful decorations are placed beside them."
+    },
+    {
+        "second": 1,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/I1TkileblSk/output_frames/sec_1_idx_18.jpg",
+        "fps": 25,
+        "explanation": "[0-2] Then the door opens and another woman walks out wearing the same outfit as the woman in yellow. She raises her hands and sways from side to side as she walks forward. Behind her walks out a little boy and the person in green, both dressed the same as at the beginning of the video."
+    },
+    {
+        "second": 2,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/I1TkileblSk/output_frames/sec_2_idx_9.jpg",
+        "fps": 25,
+        "explanation": "[0-2] Then the door opens and another woman walks out wearing the same outfit as the woman in yellow. She raises her hands and sways from side to side as she walks forward. Behind her walks out a little boy and the person in green, both dressed the same as at the beginning of the video."
+    },
+    {
+        "second": 3,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/I1TkileblSk/output_frames/sec_3_idx_0.jpg",
+        "fps": 25,
+        "explanation": "[2-5] Immediately afterwards, the three of them stand in the room in the same positions as at the beginning of the video, then jump up and strike the same pose as at the start."
+    },
+    {
+        "second": 4,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/I1TkileblSk/output_frames/sec_4_idx_20.jpg",
+        "fps": 25,
+        "explanation": "[2-5] Immediately afterwards, the three of them stand in the room in the same positions as at the beginning of the video, then jump up and strike the same pose as at the start."
+    },
+    {
+        "second": 5,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/I1TkileblSk/output_frames/sec_5_idx_0.jpg",
+        "fps": 25,
+        "explanation": "[2-5] Immediately afterwards, the three of them stand in the room in the same positions as at the beginning of the video, then jump up and strike the same pose as at the start."
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "second": 0,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/OBmDNlEuQVI/output_frames/sec_0_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[0-0] In the scene, a man in a suit is leaning, with his right foot on the ground next to a white hat. His left foot is lifted off the ground. He is holding a red umbrella with his right hand and a stack of documents with his left hand. Behind him is a building with the sign \"MAIN STREET CAFE.\" A small boy is sitting on a white chair under the window."
+    },
+    {
+        "second": 1,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/OBmDNlEuQVI/output_frames/sec_1_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[0-5] People are walking back and forth on the street, with some turning to look at the man. A young woman in a white top and green shorts enters from the left, stops next to the man, bends down to put something into the white hat, glances at the man, and then walks out of the frame to the right."
+    },
+    {
+        "second": 2,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/OBmDNlEuQVI/output_frames/sec_2_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-5] People are walking back and forth on the street, with some turning to look at the man. A young woman in a white top and green shorts enters from the left, stops next to the man, bends down to put something into the white hat, glances at the man, and then walks out of the frame to the right."
+    },
+    {
+        "second": 3,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/OBmDNlEuQVI/output_frames/sec_3_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[0-5] People are walking back and forth on the street, with some turning to look at the man. A young woman in a white top and green shorts enters from the left, stops next to the man, bends down to put something into the white hat, glances at the man, and then walks out of the frame to the right."
+    },
+    {
+        "second": 4,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/OBmDNlEuQVI/output_frames/sec_4_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[0-5] People are walking back and forth on the street, with some turning to look at the man. A young woman in a white top and green shorts enters from the left, stops next to the man, bends down to put something into the white hat, glances at the man, and then walks out of the frame to the right."
+    },
+    {
+        "second": 5,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/OBmDNlEuQVI/output_frames/sec_5_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[0-5] People are walking back and forth on the street, with some turning to look at the man. A young woman in a white top and green shorts enters from the left, stops next to the man, bends down to put something into the white hat, glances at the man, and then walks out of the frame to the right."
+    },
+    {
+        "second": 6,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/OBmDNlEuQVI/output_frames/sec_6_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[5-8] The man immediately puts his left foot down, stands upright, switches the umbrella to his left hand, and bends down to pick up the hat with his right hand. Behind him, a rectangular object is standing on the ground."
+    },
+    {
+        "second": 7,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/OBmDNlEuQVI/output_frames/sec_7_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[5-8] The man immediately puts his left foot down, stands upright, switches the umbrella to his left hand, and bends down to pick up the hat with his right hand. Behind him, a rectangular object is standing on the ground."
+    },
+    {
+        "second": 8,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/OBmDNlEuQVI/output_frames/sec_8_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[5-8] The man immediately puts his left foot down, stands upright, switches the umbrella to his left hand, and bends down to pick up the hat with his right hand. Behind him, a rectangular object is standing on the ground."
+    },
+    {
+        "second": 9,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/OBmDNlEuQVI/output_frames/sec_9_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[8-10] Finally, the man switches the hat to his left hand, turns to pick up the rectangular object, looks back with a smile, turns again, and leaves while looking down."
+    },
+    {
+        "second": 10,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/OBmDNlEuQVI/output_frames/sec_10_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[8-10] Finally, the man switches the hat to his left hand, turns to pick up the rectangular object, looks back with a smile, turns again, and leaves while looking down."
+    }
+]

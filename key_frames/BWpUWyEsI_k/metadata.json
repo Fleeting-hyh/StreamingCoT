@@ -1,0 +1,72 @@
+[
+    {
+        "second": 0,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/BWpUWyEsI_k/output_frames/sec_0_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[0-0] In an indoor setting, a black platform is set up on the right side of the gray floor. On the right side of the platform, there is a wall erected with black panels. A man is standing on the platform, wearing a Spiderman mask and suit, along with a pair of socks with yellow dots. Several yellow pillars protrude from the wall in front of him."
+    },
+    {
+        "second": 1,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/BWpUWyEsI_k/output_frames/sec_1_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The man walks forward, then reaches out his right hand to grab a yellow protrusion. Afterward, the man turns to face the wall and extends his left hand to grab another protrusion. Subsequently, he slowly moves to the left. The man uses his right hand to grasp the protrusion held by his left hand, then grabs another protrusion on the left wall with his left hand. As the man's left hand grasps the protrusion, a yellow pillar pops out, without hitting him."
+    },
+    {
+        "second": 2,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/BWpUWyEsI_k/output_frames/sec_2_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The man walks forward, then reaches out his right hand to grab a yellow protrusion. Afterward, the man turns to face the wall and extends his left hand to grab another protrusion. Subsequently, he slowly moves to the left. The man uses his right hand to grasp the protrusion held by his left hand, then grabs another protrusion on the left wall with his left hand. As the man's left hand grasps the protrusion, a yellow pillar pops out, without hitting him."
+    },
+    {
+        "second": 3,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/BWpUWyEsI_k/output_frames/sec_3_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The man walks forward, then reaches out his right hand to grab a yellow protrusion. Afterward, the man turns to face the wall and extends his left hand to grab another protrusion. Subsequently, he slowly moves to the left. The man uses his right hand to grasp the protrusion held by his left hand, then grabs another protrusion on the left wall with his left hand. As the man's left hand grasps the protrusion, a yellow pillar pops out, without hitting him."
+    },
+    {
+        "second": 4,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/BWpUWyEsI_k/output_frames/sec_4_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The man walks forward, then reaches out his right hand to grab a yellow protrusion. Afterward, the man turns to face the wall and extends his left hand to grab another protrusion. Subsequently, he slowly moves to the left. The man uses his right hand to grasp the protrusion held by his left hand, then grabs another protrusion on the left wall with his left hand. As the man's left hand grasps the protrusion, a yellow pillar pops out, without hitting him."
+    },
+    {
+        "second": 5,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/BWpUWyEsI_k/output_frames/sec_5_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[4-9] The man then moves a step to the left and extends his left hand to grab the protrusion above and to the left. The man grabs the protrusion with his left hand, after which a yellow pillar pops out, not hitting the man. Immediately after, the yellow pillar pops out again, knocking the man off his feet. Finally, the man falls backward, smashing into the gray trampoline, creating a dent before the trampoline bounces him back up."
+    },
+    {
+        "second": 6,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/BWpUWyEsI_k/output_frames/sec_6_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[4-9] The man then moves a step to the left and extends his left hand to grab the protrusion above and to the left. The man grabs the protrusion with his left hand, after which a yellow pillar pops out, not hitting the man. Immediately after, the yellow pillar pops out again, knocking the man off his feet. Finally, the man falls backward, smashing into the gray trampoline, creating a dent before the trampoline bounces him back up."
+    },
+    {
+        "second": 7,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/BWpUWyEsI_k/output_frames/sec_7_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[4-9] The man then moves a step to the left and extends his left hand to grab the protrusion above and to the left. The man grabs the protrusion with his left hand, after which a yellow pillar pops out, not hitting the man. Immediately after, the yellow pillar pops out again, knocking the man off his feet. Finally, the man falls backward, smashing into the gray trampoline, creating a dent before the trampoline bounces him back up."
+    },
+    {
+        "second": 8,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/BWpUWyEsI_k/output_frames/sec_8_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[4-9] The man then moves a step to the left and extends his left hand to grab the protrusion above and to the left. The man grabs the protrusion with his left hand, after which a yellow pillar pops out, not hitting the man. Immediately after, the yellow pillar pops out again, knocking the man off his feet. Finally, the man falls backward, smashing into the gray trampoline, creating a dent before the trampoline bounces him back up."
+    },
+    {
+        "second": 9,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/BWpUWyEsI_k/output_frames/sec_9_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[4-9] The man then moves a step to the left and extends his left hand to grab the protrusion above and to the left. The man grabs the protrusion with his left hand, after which a yellow pillar pops out, not hitting the man. Immediately after, the yellow pillar pops out again, knocking the man off his feet. Finally, the man falls backward, smashing into the gray trampoline, creating a dent before the trampoline bounces him back up."
+    }
+]

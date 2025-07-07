@@ -1,0 +1,65 @@
+[
+    {
+        "second": 0,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/KoDFil-x5Ws/output_frames/sec_0_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A young man with short brown hair sits on a black sofa, wearing black headphones and holding a black and white game controller, engrossed in playing games. He's wearing a red T-shirt, his expression exaggerated with wide eyes and an open mouth. Behind him, a grayish-white curtain hangs on the wall. The text \"POV: That One Mf that Makes up his own Lyfics\" appears at the top of the screen."
+    },
+    {
+        "second": 1,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/KoDFil-x5Ws/output_frames/sec_1_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Next, the man suddenly stops playing the game, holds the headphones with his left hand, listens to the music attentively, his mouth slightly open."
+    },
+    {
+        "second": 2,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/KoDFil-x5Ws/output_frames/sec_2_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Next, the man suddenly stops playing the game, holds the headphones with his left hand, listens to the music attentively, his mouth slightly open."
+    },
+    {
+        "second": 3,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/KoDFil-x5Ws/output_frames/sec_3_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[2-6] Then, the scene switches to the man wearing a blue T-shirt and sunglasses, continuing to immerse himself in the music. His expression becomes richer, sometimes opening his mouth wide, sometimes closing his eyes and indulging, as if he is at a concert."
+    },
+    {
+        "second": 4,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/KoDFil-x5Ws/output_frames/sec_4_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[2-6] Then, the scene switches to the man wearing a blue T-shirt and sunglasses, continuing to immerse himself in the music. His expression becomes richer, sometimes opening his mouth wide, sometimes closing his eyes and indulging, as if he is at a concert."
+    },
+    {
+        "second": 5,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/KoDFil-x5Ws/output_frames/sec_5_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[2-6] Then, the scene switches to the man wearing a blue T-shirt and sunglasses, continuing to immerse himself in the music. His expression becomes richer, sometimes opening his mouth wide, sometimes closing his eyes and indulging, as if he is at a concert."
+    },
+    {
+        "second": 6,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/KoDFil-x5Ws/output_frames/sec_6_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[2-6] Then, the scene switches to the man wearing a blue T-shirt and sunglasses, continuing to immerse himself in the music. His expression becomes richer, sometimes opening his mouth wide, sometimes closing his eyes and indulging, as if he is at a concert."
+    },
+    {
+        "second": 7,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/KoDFil-x5Ws/output_frames/sec_7_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[6-8] Then, the picture switches to the man wearing a red T-shirt, continuing to swing with the music, sometimes sticking out his tongue, sometimes frowning, completely immersed in his own music world."
+    },
+    {
+        "second": 8,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/KoDFil-x5Ws/output_frames/sec_8_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[6-8] Then, the picture switches to the man wearing a red T-shirt, continuing to swing with the music, sometimes sticking out his tongue, sometimes frowning, completely immersed in his own music world."
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "second": 0,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TEnxGvCmXbA/output_frames/sec_0_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[0-0] In an indoor setting, a red-haired girl and a green-haired person appear in the frame. On the left is a red-haired girl wearing a red top and black skirt, covering her mouth with her right hand, looking down. The green-haired person is wearing camouflage clothing and a military green beret, looking sideways at the red-haired girl. The background is a light-colored wall and a black door."
+    },
+    {
+        "second": 1,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TEnxGvCmXbA/output_frames/sec_1_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[0-2] First, the green-haired person takes out a green knife from the right side and points it at the red-haired girl. He widens his eyes, opens his mouth, revealing sharp teeth. The subtitle \"Fake knife with a yellow exclamation mark\" appears on the upper right. The red-haired girl stares to the right with wide eyes and moves her body. The scene switches, the subtitles disappear. A purple-haired girl wearing a white sweater and a white wool hat looks to the left. She turns her head to the front and looks up and down. There are some cabinets in the background."
+    },
+    {
+        "second": 2,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TEnxGvCmXbA/output_frames/sec_2_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[0-2] First, the green-haired person takes out a green knife from the right side and points it at the red-haired girl. He widens his eyes, opens his mouth, revealing sharp teeth. The subtitle \"Fake knife with a yellow exclamation mark\" appears on the upper right. The red-haired girl stares to the right with wide eyes and moves her body. The scene switches, the subtitles disappear. A purple-haired girl wearing a white sweater and a white wool hat looks to the left. She turns her head to the front and looks up and down. There are some cabinets in the background."
+    },
+    {
+        "second": 3,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TEnxGvCmXbA/output_frames/sec_3_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[2-4] Then the scene switches again, this time to a blue-haired girl wearing a pirate hat and a red and white striped T-shirt. She wears a black eye patch on her right eye and holds a prop hook in both hands. She lowers her hands and looks forward."
+    },
+    {
+        "second": 4,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TEnxGvCmXbA/output_frames/sec_4_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[2-4] Then the scene switches again, this time to a blue-haired girl wearing a pirate hat and a red and white striped T-shirt. She wears a black eye patch on her right eye and holds a prop hook in both hands. She lowers her hands and looks forward."
+    },
+    {
+        "second": 5,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TEnxGvCmXbA/output_frames/sec_5_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[4-8] Finally, the screen cuts back to the red-haired girl and the green-haired person. The red-haired girl raises her hands to cover her face. The green-haired person puts the knife behind his back with his left hand and pats the red-haired girl's head with his right hand, laughing. The red-haired girl lowers her hands to her chin, frowning at the green-haired person."
+    },
+    {
+        "second": 6,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TEnxGvCmXbA/output_frames/sec_6_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[4-8] Finally, the screen cuts back to the red-haired girl and the green-haired person. The red-haired girl raises her hands to cover her face. The green-haired person puts the knife behind his back with his left hand and pats the red-haired girl's head with his right hand, laughing. The red-haired girl lowers her hands to her chin, frowning at the green-haired person."
+    },
+    {
+        "second": 7,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TEnxGvCmXbA/output_frames/sec_7_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[4-8] Finally, the screen cuts back to the red-haired girl and the green-haired person. The red-haired girl raises her hands to cover her face. The green-haired person puts the knife behind his back with his left hand and pats the red-haired girl's head with his right hand, laughing. The red-haired girl lowers her hands to her chin, frowning at the green-haired person."
+    },
+    {
+        "second": 8,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TEnxGvCmXbA/output_frames/sec_8_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[4-8] Finally, the screen cuts back to the red-haired girl and the green-haired person. The red-haired girl raises her hands to cover her face. The green-haired person puts the knife behind his back with his left hand and pats the red-haired girl's head with his right hand, laughing. The red-haired girl lowers her hands to her chin, frowning at the green-haired person."
+    }
+]

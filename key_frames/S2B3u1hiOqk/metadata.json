@@ -1,0 +1,51 @@
+[
+    {
+        "second": 0,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S2B3u1hiOqk/output_frames/sec_0_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A pink and yellow moth is on a leaf held by a hand, with a background of many green leaves. The yellow subtitle \"doodle by LeopARTnik\" is on the right side of the screen."
+    },
+    {
+        "second": 1,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S2B3u1hiOqk/output_frames/sec_1_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[0-6] The moth picks up a twig on the leaf and plays with it like a nunchaku. The picture slowly zooms in, and the yellow subtitle \"doodle by LeopARTnik\" on the right side of the screen moves to the left. The picture continues to zoom in, the moth puts the twig on the leaf, and the yellow subtitle \"doodle by LeopARTnik\" returns to the left side."
+    },
+    {
+        "second": 2,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S2B3u1hiOqk/output_frames/sec_2_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[0-6] The moth picks up a twig on the leaf and plays with it like a nunchaku. The picture slowly zooms in, and the yellow subtitle \"doodle by LeopARTnik\" on the right side of the screen moves to the left. The picture continues to zoom in, the moth puts the twig on the leaf, and the yellow subtitle \"doodle by LeopARTnik\" returns to the left side."
+    },
+    {
+        "second": 3,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S2B3u1hiOqk/output_frames/sec_3_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[0-6] The moth picks up a twig on the leaf and plays with it like a nunchaku. The picture slowly zooms in, and the yellow subtitle \"doodle by LeopARTnik\" on the right side of the screen moves to the left. The picture continues to zoom in, the moth puts the twig on the leaf, and the yellow subtitle \"doodle by LeopARTnik\" returns to the left side."
+    },
+    {
+        "second": 4,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S2B3u1hiOqk/output_frames/sec_4_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[0-6] The moth picks up a twig on the leaf and plays with it like a nunchaku. The picture slowly zooms in, and the yellow subtitle \"doodle by LeopARTnik\" on the right side of the screen moves to the left. The picture continues to zoom in, the moth puts the twig on the leaf, and the yellow subtitle \"doodle by LeopARTnik\" returns to the left side."
+    },
+    {
+        "second": 5,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S2B3u1hiOqk/output_frames/sec_5_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[0-6] The moth picks up a twig on the leaf and plays with it like a nunchaku. The picture slowly zooms in, and the yellow subtitle \"doodle by LeopARTnik\" on the right side of the screen moves to the left. The picture continues to zoom in, the moth puts the twig on the leaf, and the yellow subtitle \"doodle by LeopARTnik\" returns to the left side."
+    },
+    {
+        "second": 6,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S2B3u1hiOqk/output_frames/sec_6_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[0-6] The moth picks up a twig on the leaf and plays with it like a nunchaku. The picture slowly zooms in, and the yellow subtitle \"doodle by LeopARTnik\" on the right side of the screen moves to the left. The picture continues to zoom in, the moth puts the twig on the leaf, and the yellow subtitle \"doodle by LeopARTnik\" returns to the left side."
+    }
+]

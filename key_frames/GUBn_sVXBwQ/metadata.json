@@ -1,0 +1,331 @@
+[
+    {
+        "second": 0,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GUBn_sVXBwQ/output_frames/sec_0_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A man in a gray shirt, wearing an eye mask, sits at a white table with a brown placemat on it. His hands are on a white blender placed on the placemat. Behind him, a woman in a red and black shirt smiles, holding a banana in her left hand and a loofah in her right. There is a white staircase in the background. Above the image, there is a white frame with six icons: loofah, banana, milk, grape juice, chocolate, and onion."
+    },
+    {
+        "second": 1,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GUBn_sVXBwQ/output_frames/sec_1_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The woman in the red and black shirt shakes the loofah and banana up and down. The man chooses the banana in her left hand. The woman then places the loofah on the white table and peels the banana, putting it into the white blender."
+    },
+    {
+        "second": 2,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GUBn_sVXBwQ/output_frames/sec_2_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The woman in the red and black shirt shakes the loofah and banana up and down. The man chooses the banana in her left hand. The woman then places the loofah on the white table and peels the banana, putting it into the white blender."
+    },
+    {
+        "second": 3,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GUBn_sVXBwQ/output_frames/sec_3_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The woman in the red and black shirt shakes the loofah and banana up and down. The man chooses the banana in her left hand. The woman then places the loofah on the white table and peels the banana, putting it into the white blender."
+    },
+    {
+        "second": 4,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GUBn_sVXBwQ/output_frames/sec_4_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The woman in the red and black shirt shakes the loofah and banana up and down. The man chooses the banana in her left hand. The woman then places the loofah on the white table and peels the banana, putting it into the white blender."
+    },
+    {
+        "second": 5,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GUBn_sVXBwQ/output_frames/sec_5_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[4-8] Next, the woman holds a blue-packaged juice in her left hand and a white-packaged milk in her right hand. The man points to the milk with his right index finger. The woman unscrews the milk carton and pours the milk into the blender."
+    },
+    {
+        "second": 6,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GUBn_sVXBwQ/output_frames/sec_6_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[4-8] Next, the woman holds a blue-packaged juice in her left hand and a white-packaged milk in her right hand. The man points to the milk with his right index finger. The woman unscrews the milk carton and pours the milk into the blender."
+    },
+    {
+        "second": 7,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GUBn_sVXBwQ/output_frames/sec_7_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[4-8] Next, the woman holds a blue-packaged juice in her left hand and a white-packaged milk in her right hand. The man points to the milk with his right index finger. The woman unscrews the milk carton and pours the milk into the blender."
+    },
+    {
+        "second": 8,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GUBn_sVXBwQ/output_frames/sec_8_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[4-8] Next, the woman holds a blue-packaged juice in her left hand and a white-packaged milk in her right hand. The man points to the milk with his right index finger. The woman unscrews the milk carton and pours the milk into the blender."
+    },
+    {
+        "second": 9,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GUBn_sVXBwQ/output_frames/sec_9_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[8-13] The woman then holds a chocolate bar in her left hand and an onion in her right, shaking them up and down. The man points at the onion with his right index finger. The woman breaks the chocolate and puts it into the blender."
+    },
+    {
+        "second": 10,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GUBn_sVXBwQ/output_frames/sec_10_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[8-13] The woman then holds a chocolate bar in her left hand and an onion in her right, shaking them up and down. The man points at the onion with his right index finger. The woman breaks the chocolate and puts it into the blender."
+    },
+    {
+        "second": 11,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GUBn_sVXBwQ/output_frames/sec_11_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[8-13] The woman then holds a chocolate bar in her left hand and an onion in her right, shaking them up and down. The man points at the onion with his right index finger. The woman breaks the chocolate and puts it into the blender."
+    },
+    {
+        "second": 12,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GUBn_sVXBwQ/output_frames/sec_12_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[8-13] The woman then holds a chocolate bar in her left hand and an onion in her right, shaking them up and down. The man points at the onion with his right index finger. The woman breaks the chocolate and puts it into the blender."
+    },
+    {
+        "second": 13,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GUBn_sVXBwQ/output_frames/sec_13_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[8-13] The woman then holds a chocolate bar in her left hand and an onion in her right, shaking them up and down. The man points at the onion with his right index finger. The woman breaks the chocolate and puts it into the blender."
+    },
+    {
+        "second": 14,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GUBn_sVXBwQ/output_frames/sec_14_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[13-21] The woman then places the blender onto the base and blends the ingredients. An empty glass and a purple straw appear on the white table. The woman places the blender with the blended drink back onto the brown placemat."
+    },
+    {
+        "second": 15,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GUBn_sVXBwQ/output_frames/sec_15_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[13-21] The woman then places the blender onto the base and blends the ingredients. An empty glass and a purple straw appear on the white table. The woman places the blender with the blended drink back onto the brown placemat."
+    },
+    {
+        "second": 16,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GUBn_sVXBwQ/output_frames/sec_16_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[13-21] The woman then places the blender onto the base and blends the ingredients. An empty glass and a purple straw appear on the white table. The woman places the blender with the blended drink back onto the brown placemat."
+    },
+    {
+        "second": 17,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GUBn_sVXBwQ/output_frames/sec_17_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[13-21] The woman then places the blender onto the base and blends the ingredients. An empty glass and a purple straw appear on the white table. The woman places the blender with the blended drink back onto the brown placemat."
+    },
+    {
+        "second": 18,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GUBn_sVXBwQ/output_frames/sec_18_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[13-21] The woman then places the blender onto the base and blends the ingredients. An empty glass and a purple straw appear on the white table. The woman places the blender with the blended drink back onto the brown placemat."
+    },
+    {
+        "second": 19,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GUBn_sVXBwQ/output_frames/sec_19_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[13-21] The woman then places the blender onto the base and blends the ingredients. An empty glass and a purple straw appear on the white table. The woman places the blender with the blended drink back onto the brown placemat."
+    },
+    {
+        "second": 20,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GUBn_sVXBwQ/output_frames/sec_20_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[13-21] The woman then places the blender onto the base and blends the ingredients. An empty glass and a purple straw appear on the white table. The woman places the blender with the blended drink back onto the brown placemat."
+    },
+    {
+        "second": 21,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GUBn_sVXBwQ/output_frames/sec_21_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[13-21] The woman then places the blender onto the base and blends the ingredients. An empty glass and a purple straw appear on the white table. The woman places the blender with the blended drink back onto the brown placemat."
+    },
+    {
+        "second": 22,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GUBn_sVXBwQ/output_frames/sec_22_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[21-24] The woman opens the lid of the blender and smells the contents."
+    },
+    {
+        "second": 23,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GUBn_sVXBwQ/output_frames/sec_23_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[21-24] The woman opens the lid of the blender and smells the contents."
+    },
+    {
+        "second": 24,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GUBn_sVXBwQ/output_frames/sec_24_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[21-24] The woman opens the lid of the blender and smells the contents."
+    },
+    {
+        "second": 25,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GUBn_sVXBwQ/output_frames/sec_25_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[24-28] The woman pours the blended drink from the blender into the empty glass on the table."
+    },
+    {
+        "second": 26,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GUBn_sVXBwQ/output_frames/sec_26_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[24-28] The woman pours the blended drink from the blender into the empty glass on the table."
+    },
+    {
+        "second": 27,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GUBn_sVXBwQ/output_frames/sec_27_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[24-28] The woman pours the blended drink from the blender into the empty glass on the table."
+    },
+    {
+        "second": 28,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GUBn_sVXBwQ/output_frames/sec_28_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[24-28] The woman pours the blended drink from the blender into the empty glass on the table."
+    },
+    {
+        "second": 29,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GUBn_sVXBwQ/output_frames/sec_29_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[28-33] The woman takes a red can of whipped cream from the left and sprays it onto the drink in the glass. Some of the cream lands on the glass itself. The woman smiles mischievously at the camera."
+    },
+    {
+        "second": 30,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GUBn_sVXBwQ/output_frames/sec_30_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[28-33] The woman takes a red can of whipped cream from the left and sprays it onto the drink in the glass. Some of the cream lands on the glass itself. The woman smiles mischievously at the camera."
+    },
+    {
+        "second": 31,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GUBn_sVXBwQ/output_frames/sec_31_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[28-33] The woman takes a red can of whipped cream from the left and sprays it onto the drink in the glass. Some of the cream lands on the glass itself. The woman smiles mischievously at the camera."
+    },
+    {
+        "second": 32,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GUBn_sVXBwQ/output_frames/sec_32_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[28-33] The woman takes a red can of whipped cream from the left and sprays it onto the drink in the glass. Some of the cream lands on the glass itself. The woman smiles mischievously at the camera."
+    },
+    {
+        "second": 33,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GUBn_sVXBwQ/output_frames/sec_33_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[28-33] The woman takes a red can of whipped cream from the left and sprays it onto the drink in the glass. Some of the cream lands on the glass itself. The woman smiles mischievously at the camera."
+    },
+    {
+        "second": 34,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GUBn_sVXBwQ/output_frames/sec_34_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[33-38] The woman takes a few candies from the left and places them on top of the whipped cream. She then puts the purple straw into the drink. She wipes the whipped cream that landed on the glass with her finger and eats it."
+    },
+    {
+        "second": 35,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GUBn_sVXBwQ/output_frames/sec_35_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[33-38] The woman takes a few candies from the left and places them on top of the whipped cream. She then puts the purple straw into the drink. She wipes the whipped cream that landed on the glass with her finger and eats it."
+    },
+    {
+        "second": 36,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GUBn_sVXBwQ/output_frames/sec_36_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[33-38] The woman takes a few candies from the left and places them on top of the whipped cream. She then puts the purple straw into the drink. She wipes the whipped cream that landed on the glass with her finger and eats it."
+    },
+    {
+        "second": 37,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GUBn_sVXBwQ/output_frames/sec_37_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[33-38] The woman takes a few candies from the left and places them on top of the whipped cream. She then puts the purple straw into the drink. She wipes the whipped cream that landed on the glass with her finger and eats it."
+    },
+    {
+        "second": 38,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GUBn_sVXBwQ/output_frames/sec_38_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[33-38] The woman takes a few candies from the left and places them on top of the whipped cream. She then puts the purple straw into the drink. She wipes the whipped cream that landed on the glass with her finger and eats it."
+    },
+    {
+        "second": 39,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GUBn_sVXBwQ/output_frames/sec_39_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[38-46] The man in the gray shirt removes his eye mask. He looks at the drink, then takes a sip with the straw. He smiles at the camera. The woman rests her head against his."
+    },
+    {
+        "second": 40,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GUBn_sVXBwQ/output_frames/sec_40_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[38-46] The man in the gray shirt removes his eye mask. He looks at the drink, then takes a sip with the straw. He smiles at the camera. The woman rests her head against his."
+    },
+    {
+        "second": 41,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GUBn_sVXBwQ/output_frames/sec_41_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[38-46] The man in the gray shirt removes his eye mask. He looks at the drink, then takes a sip with the straw. He smiles at the camera. The woman rests her head against his."
+    },
+    {
+        "second": 42,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GUBn_sVXBwQ/output_frames/sec_42_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[38-46] The man in the gray shirt removes his eye mask. He looks at the drink, then takes a sip with the straw. He smiles at the camera. The woman rests her head against his."
+    },
+    {
+        "second": 43,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GUBn_sVXBwQ/output_frames/sec_43_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[38-46] The man in the gray shirt removes his eye mask. He looks at the drink, then takes a sip with the straw. He smiles at the camera. The woman rests her head against his."
+    },
+    {
+        "second": 44,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GUBn_sVXBwQ/output_frames/sec_44_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[38-46] The man in the gray shirt removes his eye mask. He looks at the drink, then takes a sip with the straw. He smiles at the camera. The woman rests her head against his."
+    },
+    {
+        "second": 45,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GUBn_sVXBwQ/output_frames/sec_45_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[38-46] The man in the gray shirt removes his eye mask. He looks at the drink, then takes a sip with the straw. He smiles at the camera. The woman rests her head against his."
+    },
+    {
+        "second": 46,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GUBn_sVXBwQ/output_frames/sec_46_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[38-46] The man in the gray shirt removes his eye mask. He looks at the drink, then takes a sip with the straw. He smiles at the camera. The woman rests her head against his."
+    }
+]

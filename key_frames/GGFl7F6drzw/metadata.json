@@ -1,0 +1,72 @@
+[
+    {
+        "second": 0,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GGFl7F6drzw/output_frames/sec_0_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-0] Against a teal background, there are white subtitles that read \"1+1=\", with the lower right corner in orange."
+    },
+    {
+        "second": 1,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GGFl7F6drzw/output_frames/sec_1_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The camera moves backward, revealing a man in an orange and black top standing in front of a blackboard. He holds a piece of chalk in his left hand, scratches his head with his right hand while looking forward. The words \"R E D I S O N\" are written on his shirt in black letters. The scene then switches to a man wearing a black baseball cap and a gray sweatshirt. He looks to the left, talking with his left hand over his mouth, then looks forward and extends two fingers with his left hand."
+    },
+    {
+        "second": 2,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GGFl7F6drzw/output_frames/sec_2_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The camera moves backward, revealing a man in an orange and black top standing in front of a blackboard. He holds a piece of chalk in his left hand, scratches his head with his right hand while looking forward. The words \"R E D I S O N\" are written on his shirt in black letters. The scene then switches to a man wearing a black baseball cap and a gray sweatshirt. He looks to the left, talking with his left hand over his mouth, then looks forward and extends two fingers with his left hand."
+    },
+    {
+        "second": 3,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GGFl7F6drzw/output_frames/sec_3_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The camera moves backward, revealing a man in an orange and black top standing in front of a blackboard. He holds a piece of chalk in his left hand, scratches his head with his right hand while looking forward. The words \"R E D I S O N\" are written on his shirt in black letters. The scene then switches to a man wearing a black baseball cap and a gray sweatshirt. He looks to the left, talking with his left hand over his mouth, then looks forward and extends two fingers with his left hand."
+    },
+    {
+        "second": 4,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GGFl7F6drzw/output_frames/sec_4_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The camera moves backward, revealing a man in an orange and black top standing in front of a blackboard. He holds a piece of chalk in his left hand, scratches his head with his right hand while looking forward. The words \"R E D I S O N\" are written on his shirt in black letters. The scene then switches to a man wearing a black baseball cap and a gray sweatshirt. He looks to the left, talking with his left hand over his mouth, then looks forward and extends two fingers with his left hand."
+    },
+    {
+        "second": 5,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GGFl7F6drzw/output_frames/sec_5_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[4-7] Next, the scene cuts back to the man in the black and orange outfit, rolling his eyes and extending his left hand holding the chalk upward. The scene then focuses on the man in gray, who tilts his head to the left and squints, then moves his head forward and opens his eyes wide."
+    },
+    {
+        "second": 6,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GGFl7F6drzw/output_frames/sec_6_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[4-7] Next, the scene cuts back to the man in the black and orange outfit, rolling his eyes and extending his left hand holding the chalk upward. The scene then focuses on the man in gray, who tilts his head to the left and squints, then moves his head forward and opens his eyes wide."
+    },
+    {
+        "second": 7,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GGFl7F6drzw/output_frames/sec_7_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[4-7] Next, the scene cuts back to the man in the black and orange outfit, rolling his eyes and extending his left hand holding the chalk upward. The scene then focuses on the man in gray, who tilts his head to the left and squints, then moves his head forward and opens his eyes wide."
+    },
+    {
+        "second": 8,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GGFl7F6drzw/output_frames/sec_8_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[7-9] Subsequently, the scene switches back to the man in the black and orange outfit standing in front of the blackboard, looking forward. On the blackboard is a stick figure drawing of a boy. The man in the black and orange outfit uses the chalk to draw downwards on the blackboard, making the stick figure drawing more complete."
+    },
+    {
+        "second": 9,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GGFl7F6drzw/output_frames/sec_9_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[7-9] Subsequently, the scene switches back to the man in the black and orange outfit standing in front of the blackboard, looking forward. On the blackboard is a stick figure drawing of a boy. The man in the black and orange outfit uses the chalk to draw downwards on the blackboard, making the stick figure drawing more complete."
+    }
+]

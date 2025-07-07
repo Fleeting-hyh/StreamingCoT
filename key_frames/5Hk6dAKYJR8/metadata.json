@@ -1,0 +1,100 @@
+[
+    {
+        "second": 0,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5Hk6dAKYJR8/output_frames/sec_0_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A hand holds a blue plate with a slice of strawberry tiramisu cake on it. The cake has a piece of silverware on it. On the white table below, there is another gray plate with a slice of strawberry tiramisu cake and a silver spoon. There is half a strawberry on the spoon. Next to it are two glasses of yellow drinks. There are some sundries in the back."
+    },
+    {
+        "second": 1,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5Hk6dAKYJR8/output_frames/sec_1_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Then the spoon scoops up the strawberry tiramisu cake, mixing the cream and cocoa powder. The picture turns, a person in a white coat is sitting by the table, with a gray plate in front of him, on which is the cake. A hand pushes the blue plate from left to right."
+    },
+    {
+        "second": 2,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5Hk6dAKYJR8/output_frames/sec_2_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Then the spoon scoops up the strawberry tiramisu cake, mixing the cream and cocoa powder. The picture turns, a person in a white coat is sitting by the table, with a gray plate in front of him, on which is the cake. A hand pushes the blue plate from left to right."
+    },
+    {
+        "second": 3,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5Hk6dAKYJR8/output_frames/sec_3_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[2-6] Then the hand turns the blue plate, picks up the cake in the plate and shakes it slightly, then puts a strawberry on top of the cake."
+    },
+    {
+        "second": 4,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5Hk6dAKYJR8/output_frames/sec_4_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[2-6] Then the hand turns the blue plate, picks up the cake in the plate and shakes it slightly, then puts a strawberry on top of the cake."
+    },
+    {
+        "second": 5,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5Hk6dAKYJR8/output_frames/sec_5_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[2-6] Then the hand turns the blue plate, picks up the cake in the plate and shakes it slightly, then puts a strawberry on top of the cake."
+    },
+    {
+        "second": 6,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5Hk6dAKYJR8/output_frames/sec_6_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[2-6] Then the hand turns the blue plate, picks up the cake in the plate and shakes it slightly, then puts a strawberry on top of the cake."
+    },
+    {
+        "second": 7,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5Hk6dAKYJR8/output_frames/sec_7_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[6-13] Finally, the picture turns, a hand is holding a blue plate, scooping the tiramisu cake with a spoon."
+    },
+    {
+        "second": 8,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5Hk6dAKYJR8/output_frames/sec_8_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[6-13] Finally, the picture turns, a hand is holding a blue plate, scooping the tiramisu cake with a spoon."
+    },
+    {
+        "second": 9,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5Hk6dAKYJR8/output_frames/sec_9_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[6-13] Finally, the picture turns, a hand is holding a blue plate, scooping the tiramisu cake with a spoon."
+    },
+    {
+        "second": 10,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5Hk6dAKYJR8/output_frames/sec_10_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[6-13] Finally, the picture turns, a hand is holding a blue plate, scooping the tiramisu cake with a spoon."
+    },
+    {
+        "second": 11,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5Hk6dAKYJR8/output_frames/sec_11_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[6-13] Finally, the picture turns, a hand is holding a blue plate, scooping the tiramisu cake with a spoon."
+    },
+    {
+        "second": 12,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5Hk6dAKYJR8/output_frames/sec_12_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[6-13] Finally, the picture turns, a hand is holding a blue plate, scooping the tiramisu cake with a spoon."
+    },
+    {
+        "second": 13,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5Hk6dAKYJR8/output_frames/sec_13_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[6-13] Finally, the picture turns, a hand is holding a blue plate, scooping the tiramisu cake with a spoon."
+    }
+]

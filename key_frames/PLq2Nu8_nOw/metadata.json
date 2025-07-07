@@ -1,0 +1,149 @@
+[
+    {
+        "second": 0,
+        "frame_index": 50,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PLq2Nu8_nOw/output_frames/sec_0_idx_50.jpg",
+        "fps": 60,
+        "explanation": "[0-0] A man in gray clothing pushes a white cart; opposite him is a red brick wall."
+    },
+    {
+        "second": 1,
+        "frame_index": 40,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PLq2Nu8_nOw/output_frames/sec_1_idx_40.jpg",
+        "fps": 60,
+        "explanation": "[0-4] Next, the man pushes the cart into the wall, followed by another person in the same clothing pushing a white cart into the wall. Then, a man in a blue shirt and black pants appears, pushing a white bicycle toward the brick wall on the right. Behind the man, a black utility pole and tree branches extending over the wall can be seen. The man smiles at the camera, extends a finger, then turns his head to look at the brick wall and walks forward. However, the previous scene of entering the wall doesn't happen; instead, the man bumps into the wall, touches his chin, and falls backward. Subsequently, a photo of the man pushing the cart and smiling at the camera appears, and this time he successfully enters the brick wall."
+    },
+    {
+        "second": 2,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PLq2Nu8_nOw/output_frames/sec_2_idx_5.jpg",
+        "fps": 60,
+        "explanation": "[0-4] Next, the man pushes the cart into the wall, followed by another person in the same clothing pushing a white cart into the wall. Then, a man in a blue shirt and black pants appears, pushing a white bicycle toward the brick wall on the right. Behind the man, a black utility pole and tree branches extending over the wall can be seen. The man smiles at the camera, extends a finger, then turns his head to look at the brick wall and walks forward. However, the previous scene of entering the wall doesn't happen; instead, the man bumps into the wall, touches his chin, and falls backward. Subsequently, a photo of the man pushing the cart and smiling at the camera appears, and this time he successfully enters the brick wall."
+    },
+    {
+        "second": 3,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PLq2Nu8_nOw/output_frames/sec_3_idx_11.jpg",
+        "fps": 60,
+        "explanation": "[0-4] Next, the man pushes the cart into the wall, followed by another person in the same clothing pushing a white cart into the wall. Then, a man in a blue shirt and black pants appears, pushing a white bicycle toward the brick wall on the right. Behind the man, a black utility pole and tree branches extending over the wall can be seen. The man smiles at the camera, extends a finger, then turns his head to look at the brick wall and walks forward. However, the previous scene of entering the wall doesn't happen; instead, the man bumps into the wall, touches his chin, and falls backward. Subsequently, a photo of the man pushing the cart and smiling at the camera appears, and this time he successfully enters the brick wall."
+    },
+    {
+        "second": 4,
+        "frame_index": 59,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PLq2Nu8_nOw/output_frames/sec_4_idx_59.jpg",
+        "fps": 60,
+        "explanation": "[0-4] Next, the man pushes the cart into the wall, followed by another person in the same clothing pushing a white cart into the wall. Then, a man in a blue shirt and black pants appears, pushing a white bicycle toward the brick wall on the right. Behind the man, a black utility pole and tree branches extending over the wall can be seen. The man smiles at the camera, extends a finger, then turns his head to look at the brick wall and walks forward. However, the previous scene of entering the wall doesn't happen; instead, the man bumps into the wall, touches his chin, and falls backward. Subsequently, a photo of the man pushing the cart and smiling at the camera appears, and this time he successfully enters the brick wall."
+    },
+    {
+        "second": 5,
+        "frame_index": 30,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PLq2Nu8_nOw/output_frames/sec_5_idx_30.jpg",
+        "fps": 60,
+        "explanation": "[4-11] The scene then shifts to inside a subway car. A man in black approaches a metal pipe in the middle, bends down, falls backward, grabs the pipe with one hand, and pulls himself up to the top of the pipe. Behind him, another person dressed in black watches him. The man in the blue shirt reappears, this time smiling, extending a finger toward the camera, then turning and walking toward the white utility pole on the left. Behind the pole, a white wall with many parked white cars can be seen. The man arrives at the pole and imitates the man in black from the previous scene. He grabs the pole with one hand and falls backward, but he fails to fall to the ground. Then, a photo of the man falling appears next to the pole. As the photo transforms, the man manages to climb onto the pole."
+    },
+    {
+        "second": 6,
+        "frame_index": 57,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PLq2Nu8_nOw/output_frames/sec_6_idx_57.jpg",
+        "fps": 60,
+        "explanation": "[4-11] The scene then shifts to inside a subway car. A man in black approaches a metal pipe in the middle, bends down, falls backward, grabs the pipe with one hand, and pulls himself up to the top of the pipe. Behind him, another person dressed in black watches him. The man in the blue shirt reappears, this time smiling, extending a finger toward the camera, then turning and walking toward the white utility pole on the left. Behind the pole, a white wall with many parked white cars can be seen. The man arrives at the pole and imitates the man in black from the previous scene. He grabs the pole with one hand and falls backward, but he fails to fall to the ground. Then, a photo of the man falling appears next to the pole. As the photo transforms, the man manages to climb onto the pole."
+    },
+    {
+        "second": 7,
+        "frame_index": 47,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PLq2Nu8_nOw/output_frames/sec_7_idx_47.jpg",
+        "fps": 60,
+        "explanation": "[4-11] The scene then shifts to inside a subway car. A man in black approaches a metal pipe in the middle, bends down, falls backward, grabs the pipe with one hand, and pulls himself up to the top of the pipe. Behind him, another person dressed in black watches him. The man in the blue shirt reappears, this time smiling, extending a finger toward the camera, then turning and walking toward the white utility pole on the left. Behind the pole, a white wall with many parked white cars can be seen. The man arrives at the pole and imitates the man in black from the previous scene. He grabs the pole with one hand and falls backward, but he fails to fall to the ground. Then, a photo of the man falling appears next to the pole. As the photo transforms, the man manages to climb onto the pole."
+    },
+    {
+        "second": 8,
+        "frame_index": 34,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PLq2Nu8_nOw/output_frames/sec_8_idx_34.jpg",
+        "fps": 60,
+        "explanation": "[4-11] The scene then shifts to inside a subway car. A man in black approaches a metal pipe in the middle, bends down, falls backward, grabs the pipe with one hand, and pulls himself up to the top of the pipe. Behind him, another person dressed in black watches him. The man in the blue shirt reappears, this time smiling, extending a finger toward the camera, then turning and walking toward the white utility pole on the left. Behind the pole, a white wall with many parked white cars can be seen. The man arrives at the pole and imitates the man in black from the previous scene. He grabs the pole with one hand and falls backward, but he fails to fall to the ground. Then, a photo of the man falling appears next to the pole. As the photo transforms, the man manages to climb onto the pole."
+    },
+    {
+        "second": 9,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PLq2Nu8_nOw/output_frames/sec_9_idx_1.jpg",
+        "fps": 60,
+        "explanation": "[4-11] The scene then shifts to inside a subway car. A man in black approaches a metal pipe in the middle, bends down, falls backward, grabs the pipe with one hand, and pulls himself up to the top of the pipe. Behind him, another person dressed in black watches him. The man in the blue shirt reappears, this time smiling, extending a finger toward the camera, then turning and walking toward the white utility pole on the left. Behind the pole, a white wall with many parked white cars can be seen. The man arrives at the pole and imitates the man in black from the previous scene. He grabs the pole with one hand and falls backward, but he fails to fall to the ground. Then, a photo of the man falling appears next to the pole. As the photo transforms, the man manages to climb onto the pole."
+    },
+    {
+        "second": 10,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PLq2Nu8_nOw/output_frames/sec_10_idx_2.jpg",
+        "fps": 60,
+        "explanation": "[4-11] The scene then shifts to inside a subway car. A man in black approaches a metal pipe in the middle, bends down, falls backward, grabs the pipe with one hand, and pulls himself up to the top of the pipe. Behind him, another person dressed in black watches him. The man in the blue shirt reappears, this time smiling, extending a finger toward the camera, then turning and walking toward the white utility pole on the left. Behind the pole, a white wall with many parked white cars can be seen. The man arrives at the pole and imitates the man in black from the previous scene. He grabs the pole with one hand and falls backward, but he fails to fall to the ground. Then, a photo of the man falling appears next to the pole. As the photo transforms, the man manages to climb onto the pole."
+    },
+    {
+        "second": 11,
+        "frame_index": 53,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PLq2Nu8_nOw/output_frames/sec_11_idx_53.jpg",
+        "fps": 60,
+        "explanation": "[4-11] The scene then shifts to inside a subway car. A man in black approaches a metal pipe in the middle, bends down, falls backward, grabs the pipe with one hand, and pulls himself up to the top of the pipe. Behind him, another person dressed in black watches him. The man in the blue shirt reappears, this time smiling, extending a finger toward the camera, then turning and walking toward the white utility pole on the left. Behind the pole, a white wall with many parked white cars can be seen. The man arrives at the pole and imitates the man in black from the previous scene. He grabs the pole with one hand and falls backward, but he fails to fall to the ground. Then, a photo of the man falling appears next to the pole. As the photo transforms, the man manages to climb onto the pole."
+    },
+    {
+        "second": 12,
+        "frame_index": 39,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PLq2Nu8_nOw/output_frames/sec_12_idx_39.jpg",
+        "fps": 60,
+        "explanation": "[11-20] The scene transitions to an elephant lying on a grassy field. A man in a gray hoodie and white pants runs toward the elephant. As the man steps on the elephant's trunk, the elephant raises its head, lifting the man into the air. The man spins once and lands on the elephant's back. The man in the blue shirt appears again, this time standing in an amusement park. To his right are a slide and a rabbit riding toy. The man smiles, extends a finger toward the camera, and turns to run toward the slide. As he reaches the top and jumps, the slide suddenly raises its slope, tossing the man into the air. The man spins in the air and then appears from the rabbit toy, making a landing motion. Finally, the man sits firmly on the rabbit toy, smiling and extending his finger toward the camera."
+    },
+    {
+        "second": 13,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PLq2Nu8_nOw/output_frames/sec_13_idx_27.jpg",
+        "fps": 60,
+        "explanation": "[11-20] The scene transitions to an elephant lying on a grassy field. A man in a gray hoodie and white pants runs toward the elephant. As the man steps on the elephant's trunk, the elephant raises its head, lifting the man into the air. The man spins once and lands on the elephant's back. The man in the blue shirt appears again, this time standing in an amusement park. To his right are a slide and a rabbit riding toy. The man smiles, extends a finger toward the camera, and turns to run toward the slide. As he reaches the top and jumps, the slide suddenly raises its slope, tossing the man into the air. The man spins in the air and then appears from the rabbit toy, making a landing motion. Finally, the man sits firmly on the rabbit toy, smiling and extending his finger toward the camera."
+    },
+    {
+        "second": 14,
+        "frame_index": 34,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PLq2Nu8_nOw/output_frames/sec_14_idx_34.jpg",
+        "fps": 60,
+        "explanation": "[11-20] The scene transitions to an elephant lying on a grassy field. A man in a gray hoodie and white pants runs toward the elephant. As the man steps on the elephant's trunk, the elephant raises its head, lifting the man into the air. The man spins once and lands on the elephant's back. The man in the blue shirt appears again, this time standing in an amusement park. To his right are a slide and a rabbit riding toy. The man smiles, extends a finger toward the camera, and turns to run toward the slide. As he reaches the top and jumps, the slide suddenly raises its slope, tossing the man into the air. The man spins in the air and then appears from the rabbit toy, making a landing motion. Finally, the man sits firmly on the rabbit toy, smiling and extending his finger toward the camera."
+    },
+    {
+        "second": 15,
+        "frame_index": 39,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PLq2Nu8_nOw/output_frames/sec_15_idx_39.jpg",
+        "fps": 60,
+        "explanation": "[11-20] The scene transitions to an elephant lying on a grassy field. A man in a gray hoodie and white pants runs toward the elephant. As the man steps on the elephant's trunk, the elephant raises its head, lifting the man into the air. The man spins once and lands on the elephant's back. The man in the blue shirt appears again, this time standing in an amusement park. To his right are a slide and a rabbit riding toy. The man smiles, extends a finger toward the camera, and turns to run toward the slide. As he reaches the top and jumps, the slide suddenly raises its slope, tossing the man into the air. The man spins in the air and then appears from the rabbit toy, making a landing motion. Finally, the man sits firmly on the rabbit toy, smiling and extending his finger toward the camera."
+    },
+    {
+        "second": 16,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PLq2Nu8_nOw/output_frames/sec_16_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[11-20] The scene transitions to an elephant lying on a grassy field. A man in a gray hoodie and white pants runs toward the elephant. As the man steps on the elephant's trunk, the elephant raises its head, lifting the man into the air. The man spins once and lands on the elephant's back. The man in the blue shirt appears again, this time standing in an amusement park. To his right are a slide and a rabbit riding toy. The man smiles, extends a finger toward the camera, and turns to run toward the slide. As he reaches the top and jumps, the slide suddenly raises its slope, tossing the man into the air. The man spins in the air and then appears from the rabbit toy, making a landing motion. Finally, the man sits firmly on the rabbit toy, smiling and extending his finger toward the camera."
+    },
+    {
+        "second": 17,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PLq2Nu8_nOw/output_frames/sec_17_idx_11.jpg",
+        "fps": 60,
+        "explanation": "[11-20] The scene transitions to an elephant lying on a grassy field. A man in a gray hoodie and white pants runs toward the elephant. As the man steps on the elephant's trunk, the elephant raises its head, lifting the man into the air. The man spins once and lands on the elephant's back. The man in the blue shirt appears again, this time standing in an amusement park. To his right are a slide and a rabbit riding toy. The man smiles, extends a finger toward the camera, and turns to run toward the slide. As he reaches the top and jumps, the slide suddenly raises its slope, tossing the man into the air. The man spins in the air and then appears from the rabbit toy, making a landing motion. Finally, the man sits firmly on the rabbit toy, smiling and extending his finger toward the camera."
+    },
+    {
+        "second": 18,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PLq2Nu8_nOw/output_frames/sec_18_idx_19.jpg",
+        "fps": 60,
+        "explanation": "[11-20] The scene transitions to an elephant lying on a grassy field. A man in a gray hoodie and white pants runs toward the elephant. As the man steps on the elephant's trunk, the elephant raises its head, lifting the man into the air. The man spins once and lands on the elephant's back. The man in the blue shirt appears again, this time standing in an amusement park. To his right are a slide and a rabbit riding toy. The man smiles, extends a finger toward the camera, and turns to run toward the slide. As he reaches the top and jumps, the slide suddenly raises its slope, tossing the man into the air. The man spins in the air and then appears from the rabbit toy, making a landing motion. Finally, the man sits firmly on the rabbit toy, smiling and extending his finger toward the camera."
+    },
+    {
+        "second": 19,
+        "frame_index": 34,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PLq2Nu8_nOw/output_frames/sec_19_idx_34.jpg",
+        "fps": 60,
+        "explanation": "[11-20] The scene transitions to an elephant lying on a grassy field. A man in a gray hoodie and white pants runs toward the elephant. As the man steps on the elephant's trunk, the elephant raises its head, lifting the man into the air. The man spins once and lands on the elephant's back. The man in the blue shirt appears again, this time standing in an amusement park. To his right are a slide and a rabbit riding toy. The man smiles, extends a finger toward the camera, and turns to run toward the slide. As he reaches the top and jumps, the slide suddenly raises its slope, tossing the man into the air. The man spins in the air and then appears from the rabbit toy, making a landing motion. Finally, the man sits firmly on the rabbit toy, smiling and extending his finger toward the camera."
+    },
+    {
+        "second": 20,
+        "frame_index": 42,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PLq2Nu8_nOw/output_frames/sec_20_idx_42.jpg",
+        "fps": 60,
+        "explanation": "[11-20] The scene transitions to an elephant lying on a grassy field. A man in a gray hoodie and white pants runs toward the elephant. As the man steps on the elephant's trunk, the elephant raises its head, lifting the man into the air. The man spins once and lands on the elephant's back. The man in the blue shirt appears again, this time standing in an amusement park. To his right are a slide and a rabbit riding toy. The man smiles, extends a finger toward the camera, and turns to run toward the slide. As he reaches the top and jumps, the slide suddenly raises its slope, tossing the man into the air. The man spins in the air and then appears from the rabbit toy, making a landing motion. Finally, the man sits firmly on the rabbit toy, smiling and extending his finger toward the camera."
+    }
+]

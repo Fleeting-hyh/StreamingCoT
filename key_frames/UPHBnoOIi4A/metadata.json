@@ -1,0 +1,65 @@
+[
+    {
+        "second": 1,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UPHBnoOIi4A/output_frames/sec_1_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[0-2] It is a split screen. In the upper half of the screen, a black cow is tied to a long rope and stands on a green meadow. The rope is tied to a pole. On the right side is a gray lamp post and trees, and on the right is a person wearing a red and white jumpsuit. On the left are some buildings and green trees. In the lower half of the screen is a man wearing headphones. There is a black microphone in front of him and a gray curtain behind him."
+    },
+    {
+        "second": 2,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UPHBnoOIi4A/output_frames/sec_2_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-2] It is a split screen. In the upper half of the screen, a black cow is tied to a long rope and stands on a green meadow. The rope is tied to a pole. On the right side is a gray lamp post and trees, and on the right is a person wearing a red and white jumpsuit. On the left are some buildings and green trees. In the lower half of the screen is a man wearing headphones. There is a black microphone in front of him and a gray curtain behind him."
+    },
+    {
+        "second": 3,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UPHBnoOIi4A/output_frames/sec_3_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[2-4] Then in the upper half of the screen, the person in the red and white jumpsuit walks to the left, touching his belly with both hands. A black arrow appears and disappears above the screen. The black cow stands on the grass and shakes nervously. The man in the lower half of the screen squints."
+    },
+    {
+        "second": 4,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UPHBnoOIi4A/output_frames/sec_4_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[2-4] Then in the upper half of the screen, the person in the red and white jumpsuit walks to the left, touching his belly with both hands. A black arrow appears and disappears above the screen. The black cow stands on the grass and shakes nervously. The man in the lower half of the screen squints."
+    },
+    {
+        "second": 5,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UPHBnoOIi4A/output_frames/sec_5_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[4-9] Immediately afterwards, the person wearing the red and white jumpsuit opens his hands to both sides and jumps up. The black cow backs away nervously. Then the person in the red and white jumpsuit continues to jump. The black cow is frightened and runs to the left with the rope. In the lower half of the screen, the man laughs happily and shakes his right hand."
+    },
+    {
+        "second": 6,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UPHBnoOIi4A/output_frames/sec_6_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[4-9] Immediately afterwards, the person wearing the red and white jumpsuit opens his hands to both sides and jumps up. The black cow backs away nervously. Then the person in the red and white jumpsuit continues to jump. The black cow is frightened and runs to the left with the rope. In the lower half of the screen, the man laughs happily and shakes his right hand."
+    },
+    {
+        "second": 7,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UPHBnoOIi4A/output_frames/sec_7_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[4-9] Immediately afterwards, the person wearing the red and white jumpsuit opens his hands to both sides and jumps up. The black cow backs away nervously. Then the person in the red and white jumpsuit continues to jump. The black cow is frightened and runs to the left with the rope. In the lower half of the screen, the man laughs happily and shakes his right hand."
+    },
+    {
+        "second": 8,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UPHBnoOIi4A/output_frames/sec_8_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[4-9] Immediately afterwards, the person wearing the red and white jumpsuit opens his hands to both sides and jumps up. The black cow backs away nervously. Then the person in the red and white jumpsuit continues to jump. The black cow is frightened and runs to the left with the rope. In the lower half of the screen, the man laughs happily and shakes his right hand."
+    },
+    {
+        "second": 9,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UPHBnoOIi4A/output_frames/sec_9_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[4-9] Immediately afterwards, the person wearing the red and white jumpsuit opens his hands to both sides and jumps up. The black cow backs away nervously. Then the person in the red and white jumpsuit continues to jump. The black cow is frightened and runs to the left with the rope. In the lower half of the screen, the man laughs happily and shakes his right hand."
+    }
+]

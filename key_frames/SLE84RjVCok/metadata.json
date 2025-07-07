@@ -1,0 +1,184 @@
+[
+    {
+        "second": 0,
+        "frame_index": 57,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SLE84RjVCok/output_frames/sec_0_idx_57.jpg",
+        "fps": 60,
+        "explanation": "[0-0] The screen is divided into three parts. The upper and lower parts are black screens. In the middle part, there is a tank driving simulator in a room. The simulator is connected to a display screen, which shows the tank firing. There is a black table in the room with a large launcher in the middle. The camera is facing the display. There are many wires and cables scattered on top, connecting various devices, and a hand is holding a steering wheel in front of the table."
+    },
+    {
+        "second": 1,
+        "frame_index": 38,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SLE84RjVCok/output_frames/sec_1_idx_38.jpg",
+        "fps": 60,
+        "explanation": "[0-3] In the middle part of the screen, the driver of the tank simulator is operating the device, and the tank on the screen moves with his operation. Then the picture moves to the left, and you can see other people standing in the room. The white words \"TANK IN FANTASY\" appear at the top of the screen."
+    },
+    {
+        "second": 2,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SLE84RjVCok/output_frames/sec_2_idx_10.jpg",
+        "fps": 60,
+        "explanation": "[0-3] In the middle part of the screen, the driver of the tank simulator is operating the device, and the tank on the screen moves with his operation. Then the picture moves to the left, and you can see other people standing in the room. The white words \"TANK IN FANTASY\" appear at the top of the screen."
+    },
+    {
+        "second": 3,
+        "frame_index": 36,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SLE84RjVCok/output_frames/sec_3_idx_36.jpg",
+        "fps": 60,
+        "explanation": "[0-3] In the middle part of the screen, the driver of the tank simulator is operating the device, and the tank on the screen moves with his operation. Then the picture moves to the left, and you can see other people standing in the room. The white words \"TANK IN FANTASY\" appear at the top of the screen."
+    },
+    {
+        "second": 4,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SLE84RjVCok/output_frames/sec_4_idx_22.jpg",
+        "fps": 60,
+        "explanation": "[3-6] Immediately afterwards, a man in black is simulating firing a tank. He smashes the green bottle in his hand to the front, simulating the effect of the tank firing shells. Then the screen cuts back to the tank simulator, the driver is operating the device, and the picture on the screen also changes with his operation, simulating the tank firing."
+    },
+    {
+        "second": 5,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SLE84RjVCok/output_frames/sec_5_idx_6.jpg",
+        "fps": 60,
+        "explanation": "[3-6] Immediately afterwards, a man in black is simulating firing a tank. He smashes the green bottle in his hand to the front, simulating the effect of the tank firing shells. Then the screen cuts back to the tank simulator, the driver is operating the device, and the picture on the screen also changes with his operation, simulating the tank firing."
+    },
+    {
+        "second": 6,
+        "frame_index": 56,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SLE84RjVCok/output_frames/sec_6_idx_56.jpg",
+        "fps": 60,
+        "explanation": "[3-6] Immediately afterwards, a man in black is simulating firing a tank. He smashes the green bottle in his hand to the front, simulating the effect of the tank firing shells. Then the screen cuts back to the tank simulator, the driver is operating the device, and the picture on the screen also changes with his operation, simulating the tank firing."
+    },
+    {
+        "second": 7,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SLE84RjVCok/output_frames/sec_7_idx_3.jpg",
+        "fps": 60,
+        "explanation": "[6-11] Then the screen switches to another place in the room, where a simulated artillery shell is placed. The left side is a green wall, and some other items are also placed in the room. Then a pair of hands came to the front of the shelf, took out a pink bottle from the shelf, and then stuffed it into the launching device on the black table."
+    },
+    {
+        "second": 8,
+        "frame_index": 40,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SLE84RjVCok/output_frames/sec_8_idx_40.jpg",
+        "fps": 60,
+        "explanation": "[6-11] Then the screen switches to another place in the room, where a simulated artillery shell is placed. The left side is a green wall, and some other items are also placed in the room. Then a pair of hands came to the front of the shelf, took out a pink bottle from the shelf, and then stuffed it into the launching device on the black table."
+    },
+    {
+        "second": 9,
+        "frame_index": 50,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SLE84RjVCok/output_frames/sec_9_idx_50.jpg",
+        "fps": 60,
+        "explanation": "[6-11] Then the screen switches to another place in the room, where a simulated artillery shell is placed. The left side is a green wall, and some other items are also placed in the room. Then a pair of hands came to the front of the shelf, took out a pink bottle from the shelf, and then stuffed it into the launching device on the black table."
+    },
+    {
+        "second": 10,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SLE84RjVCok/output_frames/sec_10_idx_16.jpg",
+        "fps": 60,
+        "explanation": "[6-11] Then the screen switches to another place in the room, where a simulated artillery shell is placed. The left side is a green wall, and some other items are also placed in the room. Then a pair of hands came to the front of the shelf, took out a pink bottle from the shelf, and then stuffed it into the launching device on the black table."
+    },
+    {
+        "second": 11,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SLE84RjVCok/output_frames/sec_11_idx_19.jpg",
+        "fps": 60,
+        "explanation": "[6-11] Then the screen switches to another place in the room, where a simulated artillery shell is placed. The left side is a green wall, and some other items are also placed in the room. Then a pair of hands came to the front of the shelf, took out a pink bottle from the shelf, and then stuffed it into the launching device on the black table."
+    },
+    {
+        "second": 12,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SLE84RjVCok/output_frames/sec_12_idx_15.jpg",
+        "fps": 60,
+        "explanation": "[11-15] Then the right hand quickly shakes a black joystick device on the left side of the launching device, and then sees fire and light radiating on the screen."
+    },
+    {
+        "second": 13,
+        "frame_index": 59,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SLE84RjVCok/output_frames/sec_13_idx_59.jpg",
+        "fps": 60,
+        "explanation": "[11-15] Then the right hand quickly shakes a black joystick device on the left side of the launching device, and then sees fire and light radiating on the screen."
+    },
+    {
+        "second": 14,
+        "frame_index": 57,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SLE84RjVCok/output_frames/sec_14_idx_57.jpg",
+        "fps": 60,
+        "explanation": "[11-15] Then the right hand quickly shakes a black joystick device on the left side of the launching device, and then sees fire and light radiating on the screen."
+    },
+    {
+        "second": 15,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SLE84RjVCok/output_frames/sec_15_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[11-15] Then the right hand quickly shakes a black joystick device on the left side of the launching device, and then sees fire and light radiating on the screen."
+    },
+    {
+        "second": 16,
+        "frame_index": 57,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SLE84RjVCok/output_frames/sec_16_idx_57.jpg",
+        "fps": 60,
+        "explanation": "[15-25] Then the screen switches to a large mechanical device, a soldier on the left holds a shell and puts it into a circular device on the machine. Then the right hand lifts the closing lid on the mechanical device, but the lid fails to close. The words \"come on...\" appear in black on a white background at the top of the screen. After several attempts, the lid is finally closed. Finally, the picture switches to the outside of the tank. The tank is driving in the desert, raising dust, and then fires a shell forward, the firelight soaring into the sky."
+    },
+    {
+        "second": 17,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SLE84RjVCok/output_frames/sec_17_idx_16.jpg",
+        "fps": 60,
+        "explanation": "[15-25] Then the screen switches to a large mechanical device, a soldier on the left holds a shell and puts it into a circular device on the machine. Then the right hand lifts the closing lid on the mechanical device, but the lid fails to close. The words \"come on...\" appear in black on a white background at the top of the screen. After several attempts, the lid is finally closed. Finally, the picture switches to the outside of the tank. The tank is driving in the desert, raising dust, and then fires a shell forward, the firelight soaring into the sky."
+    },
+    {
+        "second": 18,
+        "frame_index": 35,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SLE84RjVCok/output_frames/sec_18_idx_35.jpg",
+        "fps": 60,
+        "explanation": "[15-25] Then the screen switches to a large mechanical device, a soldier on the left holds a shell and puts it into a circular device on the machine. Then the right hand lifts the closing lid on the mechanical device, but the lid fails to close. The words \"come on...\" appear in black on a white background at the top of the screen. After several attempts, the lid is finally closed. Finally, the picture switches to the outside of the tank. The tank is driving in the desert, raising dust, and then fires a shell forward, the firelight soaring into the sky."
+    },
+    {
+        "second": 19,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SLE84RjVCok/output_frames/sec_19_idx_21.jpg",
+        "fps": 60,
+        "explanation": "[15-25] Then the screen switches to a large mechanical device, a soldier on the left holds a shell and puts it into a circular device on the machine. Then the right hand lifts the closing lid on the mechanical device, but the lid fails to close. The words \"come on...\" appear in black on a white background at the top of the screen. After several attempts, the lid is finally closed. Finally, the picture switches to the outside of the tank. The tank is driving in the desert, raising dust, and then fires a shell forward, the firelight soaring into the sky."
+    },
+    {
+        "second": 20,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SLE84RjVCok/output_frames/sec_20_idx_17.jpg",
+        "fps": 60,
+        "explanation": "[15-25] Then the screen switches to a large mechanical device, a soldier on the left holds a shell and puts it into a circular device on the machine. Then the right hand lifts the closing lid on the mechanical device, but the lid fails to close. The words \"come on...\" appear in black on a white background at the top of the screen. After several attempts, the lid is finally closed. Finally, the picture switches to the outside of the tank. The tank is driving in the desert, raising dust, and then fires a shell forward, the firelight soaring into the sky."
+    },
+    {
+        "second": 21,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SLE84RjVCok/output_frames/sec_21_idx_14.jpg",
+        "fps": 60,
+        "explanation": "[15-25] Then the screen switches to a large mechanical device, a soldier on the left holds a shell and puts it into a circular device on the machine. Then the right hand lifts the closing lid on the mechanical device, but the lid fails to close. The words \"come on...\" appear in black on a white background at the top of the screen. After several attempts, the lid is finally closed. Finally, the picture switches to the outside of the tank. The tank is driving in the desert, raising dust, and then fires a shell forward, the firelight soaring into the sky."
+    },
+    {
+        "second": 22,
+        "frame_index": 58,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SLE84RjVCok/output_frames/sec_22_idx_58.jpg",
+        "fps": 60,
+        "explanation": "[15-25] Then the screen switches to a large mechanical device, a soldier on the left holds a shell and puts it into a circular device on the machine. Then the right hand lifts the closing lid on the mechanical device, but the lid fails to close. The words \"come on...\" appear in black on a white background at the top of the screen. After several attempts, the lid is finally closed. Finally, the picture switches to the outside of the tank. The tank is driving in the desert, raising dust, and then fires a shell forward, the firelight soaring into the sky."
+    },
+    {
+        "second": 23,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SLE84RjVCok/output_frames/sec_23_idx_7.jpg",
+        "fps": 60,
+        "explanation": "[15-25] Then the screen switches to a large mechanical device, a soldier on the left holds a shell and puts it into a circular device on the machine. Then the right hand lifts the closing lid on the mechanical device, but the lid fails to close. The words \"come on...\" appear in black on a white background at the top of the screen. After several attempts, the lid is finally closed. Finally, the picture switches to the outside of the tank. The tank is driving in the desert, raising dust, and then fires a shell forward, the firelight soaring into the sky."
+    },
+    {
+        "second": 24,
+        "frame_index": 55,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SLE84RjVCok/output_frames/sec_24_idx_55.jpg",
+        "fps": 60,
+        "explanation": "[15-25] Then the screen switches to a large mechanical device, a soldier on the left holds a shell and puts it into a circular device on the machine. Then the right hand lifts the closing lid on the mechanical device, but the lid fails to close. The words \"come on...\" appear in black on a white background at the top of the screen. After several attempts, the lid is finally closed. Finally, the picture switches to the outside of the tank. The tank is driving in the desert, raising dust, and then fires a shell forward, the firelight soaring into the sky."
+    },
+    {
+        "second": 25,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SLE84RjVCok/output_frames/sec_25_idx_19.jpg",
+        "fps": 60,
+        "explanation": "[15-25] Then the screen switches to a large mechanical device, a soldier on the left holds a shell and puts it into a circular device on the machine. Then the right hand lifts the closing lid on the mechanical device, but the lid fails to close. The words \"come on...\" appear in black on a white background at the top of the screen. After several attempts, the lid is finally closed. Finally, the picture switches to the outside of the tank. The tank is driving in the desert, raising dust, and then fires a shell forward, the firelight soaring into the sky."
+    }
+]

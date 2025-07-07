@@ -1,0 +1,170 @@
+[
+    {
+        "second": 0,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/KwxBk6ZUY3A/output_frames/sec_0_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A person dressed in a Spider-Man costume runs down a hallway, with several doors on the side and parallel bars on the right."
+    },
+    {
+        "second": 1,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/KwxBk6ZUY3A/output_frames/sec_1_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-7] The person in the Spider-Man costume then runs forward a few steps, grabs the bars with both hands, jumps up, walks forward on the bars, steps on two boxes with both hands still gripping the bars, and jumps down. They then lie on a skateboard and slide forward, ending up lying on a blue mat."
+    },
+    {
+        "second": 2,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/KwxBk6ZUY3A/output_frames/sec_2_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-7] The person in the Spider-Man costume then runs forward a few steps, grabs the bars with both hands, jumps up, walks forward on the bars, steps on two boxes with both hands still gripping the bars, and jumps down. They then lie on a skateboard and slide forward, ending up lying on a blue mat."
+    },
+    {
+        "second": 3,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/KwxBk6ZUY3A/output_frames/sec_3_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[0-7] The person in the Spider-Man costume then runs forward a few steps, grabs the bars with both hands, jumps up, walks forward on the bars, steps on two boxes with both hands still gripping the bars, and jumps down. They then lie on a skateboard and slide forward, ending up lying on a blue mat."
+    },
+    {
+        "second": 4,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/KwxBk6ZUY3A/output_frames/sec_4_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[0-7] The person in the Spider-Man costume then runs forward a few steps, grabs the bars with both hands, jumps up, walks forward on the bars, steps on two boxes with both hands still gripping the bars, and jumps down. They then lie on a skateboard and slide forward, ending up lying on a blue mat."
+    },
+    {
+        "second": 5,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/KwxBk6ZUY3A/output_frames/sec_5_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[0-7] The person in the Spider-Man costume then runs forward a few steps, grabs the bars with both hands, jumps up, walks forward on the bars, steps on two boxes with both hands still gripping the bars, and jumps down. They then lie on a skateboard and slide forward, ending up lying on a blue mat."
+    },
+    {
+        "second": 6,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/KwxBk6ZUY3A/output_frames/sec_6_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[0-7] The person in the Spider-Man costume then runs forward a few steps, grabs the bars with both hands, jumps up, walks forward on the bars, steps on two boxes with both hands still gripping the bars, and jumps down. They then lie on a skateboard and slide forward, ending up lying on a blue mat."
+    },
+    {
+        "second": 7,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/KwxBk6ZUY3A/output_frames/sec_7_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[0-7] The person in the Spider-Man costume then runs forward a few steps, grabs the bars with both hands, jumps up, walks forward on the bars, steps on two boxes with both hands still gripping the bars, and jumps down. They then lie on a skateboard and slide forward, ending up lying on a blue mat."
+    },
+    {
+        "second": 8,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/KwxBk6ZUY3A/output_frames/sec_8_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[7-13] The person in the Spider-Man costume jumps forward on the blue mat, jumps onto a rectangular box, walks a few steps forward before jumping off. They then step over two boxes, jump onto another rectangular box, and subsequently jump onto a trampoline. Their body flips in the air before landing on the blue mat, and then they step onto two blue pieces of paper with both feet."
+    },
+    {
+        "second": 9,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/KwxBk6ZUY3A/output_frames/sec_9_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[7-13] The person in the Spider-Man costume jumps forward on the blue mat, jumps onto a rectangular box, walks a few steps forward before jumping off. They then step over two boxes, jump onto another rectangular box, and subsequently jump onto a trampoline. Their body flips in the air before landing on the blue mat, and then they step onto two blue pieces of paper with both feet."
+    },
+    {
+        "second": 10,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/KwxBk6ZUY3A/output_frames/sec_10_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[7-13] The person in the Spider-Man costume jumps forward on the blue mat, jumps onto a rectangular box, walks a few steps forward before jumping off. They then step over two boxes, jump onto another rectangular box, and subsequently jump onto a trampoline. Their body flips in the air before landing on the blue mat, and then they step onto two blue pieces of paper with both feet."
+    },
+    {
+        "second": 11,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/KwxBk6ZUY3A/output_frames/sec_11_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[7-13] The person in the Spider-Man costume jumps forward on the blue mat, jumps onto a rectangular box, walks a few steps forward before jumping off. They then step over two boxes, jump onto another rectangular box, and subsequently jump onto a trampoline. Their body flips in the air before landing on the blue mat, and then they step onto two blue pieces of paper with both feet."
+    },
+    {
+        "second": 12,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/KwxBk6ZUY3A/output_frames/sec_12_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[7-13] The person in the Spider-Man costume jumps forward on the blue mat, jumps onto a rectangular box, walks a few steps forward before jumping off. They then step over two boxes, jump onto another rectangular box, and subsequently jump onto a trampoline. Their body flips in the air before landing on the blue mat, and then they step onto two blue pieces of paper with both feet."
+    },
+    {
+        "second": 13,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/KwxBk6ZUY3A/output_frames/sec_13_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[7-13] The person in the Spider-Man costume jumps forward on the blue mat, jumps onto a rectangular box, walks a few steps forward before jumping off. They then step over two boxes, jump onto another rectangular box, and subsequently jump onto a trampoline. Their body flips in the air before landing on the blue mat, and then they step onto two blue pieces of paper with both feet."
+    },
+    {
+        "second": 14,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/KwxBk6ZUY3A/output_frames/sec_14_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[13-23] The person in the Spider-Man costume then slides forward on the two pieces of paper, climbs up a wooden frame, rolls down onto a blue mat, and finally steps on a skateboard and jumps out the door."
+    },
+    {
+        "second": 15,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/KwxBk6ZUY3A/output_frames/sec_15_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[13-23] The person in the Spider-Man costume then slides forward on the two pieces of paper, climbs up a wooden frame, rolls down onto a blue mat, and finally steps on a skateboard and jumps out the door."
+    },
+    {
+        "second": 16,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/KwxBk6ZUY3A/output_frames/sec_16_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[13-23] The person in the Spider-Man costume then slides forward on the two pieces of paper, climbs up a wooden frame, rolls down onto a blue mat, and finally steps on a skateboard and jumps out the door."
+    },
+    {
+        "second": 17,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/KwxBk6ZUY3A/output_frames/sec_17_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[13-23] The person in the Spider-Man costume then slides forward on the two pieces of paper, climbs up a wooden frame, rolls down onto a blue mat, and finally steps on a skateboard and jumps out the door."
+    },
+    {
+        "second": 18,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/KwxBk6ZUY3A/output_frames/sec_18_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[13-23] The person in the Spider-Man costume then slides forward on the two pieces of paper, climbs up a wooden frame, rolls down onto a blue mat, and finally steps on a skateboard and jumps out the door."
+    },
+    {
+        "second": 19,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/KwxBk6ZUY3A/output_frames/sec_19_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[13-23] The person in the Spider-Man costume then slides forward on the two pieces of paper, climbs up a wooden frame, rolls down onto a blue mat, and finally steps on a skateboard and jumps out the door."
+    },
+    {
+        "second": 20,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/KwxBk6ZUY3A/output_frames/sec_20_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[13-23] The person in the Spider-Man costume then slides forward on the two pieces of paper, climbs up a wooden frame, rolls down onto a blue mat, and finally steps on a skateboard and jumps out the door."
+    },
+    {
+        "second": 21,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/KwxBk6ZUY3A/output_frames/sec_21_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[13-23] The person in the Spider-Man costume then slides forward on the two pieces of paper, climbs up a wooden frame, rolls down onto a blue mat, and finally steps on a skateboard and jumps out the door."
+    },
+    {
+        "second": 22,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/KwxBk6ZUY3A/output_frames/sec_22_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[13-23] The person in the Spider-Man costume then slides forward on the two pieces of paper, climbs up a wooden frame, rolls down onto a blue mat, and finally steps on a skateboard and jumps out the door."
+    },
+    {
+        "second": 23,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/KwxBk6ZUY3A/output_frames/sec_23_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[13-23] The person in the Spider-Man costume then slides forward on the two pieces of paper, climbs up a wooden frame, rolls down onto a blue mat, and finally steps on a skateboard and jumps out the door."
+    }
+]

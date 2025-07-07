@@ -1,0 +1,65 @@
+[
+    {
+        "second": 0,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UecFh7SL728/output_frames/sec_0_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A man, wearing a red and black suit with a white shirt and a blue tie, is standing in a locker room. The walls are gray, and there are wooden lockers."
+    },
+    {
+        "second": 1,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UecFh7SL728/output_frames/sec_1_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Then, the man smiles, gradually revealing his teeth, and points forward with his index finger."
+    },
+    {
+        "second": 2,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UecFh7SL728/output_frames/sec_2_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Then, the man smiles, gradually revealing his teeth, and points forward with his index finger."
+    },
+    {
+        "second": 3,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UecFh7SL728/output_frames/sec_3_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Then, the man smiles, gradually revealing his teeth, and points forward with his index finger."
+    },
+    {
+        "second": 4,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UecFh7SL728/output_frames/sec_4_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[3-8] Afterward, the scene switches to the man continuing to point forward with a smile. Now, he is wearing a white football shirt and pulls on it to show it off to everyone. Then, he gets up and leaves."
+    },
+    {
+        "second": 5,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UecFh7SL728/output_frames/sec_5_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[3-8] Afterward, the scene switches to the man continuing to point forward with a smile. Now, he is wearing a white football shirt and pulls on it to show it off to everyone. Then, he gets up and leaves."
+    },
+    {
+        "second": 6,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UecFh7SL728/output_frames/sec_6_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[3-8] Afterward, the scene switches to the man continuing to point forward with a smile. Now, he is wearing a white football shirt and pulls on it to show it off to everyone. Then, he gets up and leaves."
+    },
+    {
+        "second": 7,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UecFh7SL728/output_frames/sec_7_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[3-8] Afterward, the scene switches to the man continuing to point forward with a smile. Now, he is wearing a white football shirt and pulls on it to show it off to everyone. Then, he gets up and leaves."
+    },
+    {
+        "second": 8,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UecFh7SL728/output_frames/sec_8_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[3-8] Afterward, the scene switches to the man continuing to point forward with a smile. Now, he is wearing a white football shirt and pulls on it to show it off to everyone. Then, he gets up and leaves."
+    }
+]

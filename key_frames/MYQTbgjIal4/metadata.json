@@ -1,0 +1,37 @@
+[
+    {
+        "second": 0,
+        "frame_index": 54,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MYQTbgjIal4/output_frames/sec_0_idx_54.jpg",
+        "fps": 60,
+        "explanation": "[0-0] A woman in a white bikini is standing facing left on the edge of a white diving board, her body leaning slightly forward, her hands on her knees. To the left are off-white houses, a car parked in front of them, and green trees. The sky is cloudy. The pool water is green, forming a small whirlpool."
+    },
+    {
+        "second": 1,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MYQTbgjIal4/output_frames/sec_1_idx_25.jpg",
+        "fps": 60,
+        "explanation": "[0-2] The woman then takes a few steps forward on the diving board, extends her arms to the left, and jumps towards the pool. She then swings her right arm to the right, straightens her left leg to the right, bends her right leg forward, and extends her left hand to the left, catching a doll in a white dress flying in from the left side of the frame."
+    },
+    {
+        "second": 2,
+        "frame_index": 48,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MYQTbgjIal4/output_frames/sec_2_idx_48.jpg",
+        "fps": 60,
+        "explanation": "[0-2] The woman then takes a few steps forward on the diving board, extends her arms to the left, and jumps towards the pool. She then swings her right arm to the right, straightens her left leg to the right, bends her right leg forward, and extends her left hand to the left, catching a doll in a white dress flying in from the left side of the frame."
+    },
+    {
+        "second": 3,
+        "frame_index": 53,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MYQTbgjIal4/output_frames/sec_3_idx_53.jpg",
+        "fps": 60,
+        "explanation": "[2-5] The woman then falls into the water with the doll in a white dress in her left hand, splashing a large amount of water. A large whirlpool appears in the middle of the pool."
+    },
+    {
+        "second": 4,
+        "frame_index": 46,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MYQTbgjIal4/output_frames/sec_4_idx_46.jpg",
+        "fps": 60,
+        "explanation": "[2-5] The woman then falls into the water with the doll in a white dress in her left hand, splashing a large amount of water. A large whirlpool appears in the middle of the pool."
+    }
+]

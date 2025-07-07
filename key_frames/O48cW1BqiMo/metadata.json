@@ -1,0 +1,121 @@
+[
+    {
+        "second": 0,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/O48cW1BqiMo/output_frames/sec_0_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[0-0] The frame shows a pair of hands holding a metal plate with a 3D-printed red skull upper body model on it. Below the metal plate is a wooden desktop. On the upper right corner of the table, there is a sign that says \"KADY\" in red and green, with \"3D PRINTING\" in white underneath. All the letters have a three-dimensional effect."
+    },
+    {
+        "second": 1,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/O48cW1BqiMo/output_frames/sec_1_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[0-2] As the hands in the frame move the metal plate, the camera cuts to a different angle, showing the lower body of a 3D-printed red skull model on the metal plate."
+    },
+    {
+        "second": 2,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/O48cW1BqiMo/output_frames/sec_2_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-2] As the hands in the frame move the metal plate, the camera cuts to a different angle, showing the lower body of a 3D-printed red skull model on the metal plate."
+    },
+    {
+        "second": 3,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/O48cW1BqiMo/output_frames/sec_3_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[2-5] The camera cuts again, and the left hand is now holding the upper body of the 3D-printed red skull model, while the right hand grabs the hand of the upper body. On the yellow desktop below, there is the lower body of the 3D-printed red skull model. The camera then cuts again, showing the hands picking up and fiddling with the lower body of the 3D-printed red skull model, while the upper body is placed on the desktop."
+    },
+    {
+        "second": 4,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/O48cW1BqiMo/output_frames/sec_4_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[2-5] The camera cuts again, and the left hand is now holding the upper body of the 3D-printed red skull model, while the right hand grabs the hand of the upper body. On the yellow desktop below, there is the lower body of the 3D-printed red skull model. The camera then cuts again, showing the hands picking up and fiddling with the lower body of the 3D-printed red skull model, while the upper body is placed on the desktop."
+    },
+    {
+        "second": 5,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/O48cW1BqiMo/output_frames/sec_5_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[2-5] The camera cuts again, and the left hand is now holding the upper body of the 3D-printed red skull model, while the right hand grabs the hand of the upper body. On the yellow desktop below, there is the lower body of the 3D-printed red skull model. The camera then cuts again, showing the hands picking up and fiddling with the lower body of the 3D-printed red skull model, while the upper body is placed on the desktop."
+    },
+    {
+        "second": 6,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/O48cW1BqiMo/output_frames/sec_6_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[5-7] The scene then switches to the left hand grabbing the lower body of the 3D-printed red skull model and the right hand applying glue to the pelvic bone of the model with glue. The camera then cuts to both hands assembling the upper and lower body parts of the 3D-printed skull model."
+    },
+    {
+        "second": 7,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/O48cW1BqiMo/output_frames/sec_7_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[5-7] The scene then switches to the left hand grabbing the lower body of the 3D-printed red skull model and the right hand applying glue to the pelvic bone of the model with glue. The camera then cuts to both hands assembling the upper and lower body parts of the 3D-printed skull model."
+    },
+    {
+        "second": 8,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/O48cW1BqiMo/output_frames/sec_8_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[7-11] The camera cuts again, and the hands in the frame pick up the complete 3D-printed red skull model and turn it around to show the front. The left hand then pinches the head of the 3D-printed red skull model, while the right hand grabs its right hand and swings it up and down."
+    },
+    {
+        "second": 9,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/O48cW1BqiMo/output_frames/sec_9_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[7-11] The camera cuts again, and the hands in the frame pick up the complete 3D-printed red skull model and turn it around to show the front. The left hand then pinches the head of the 3D-printed red skull model, while the right hand grabs its right hand and swings it up and down."
+    },
+    {
+        "second": 10,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/O48cW1BqiMo/output_frames/sec_10_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[7-11] The camera cuts again, and the hands in the frame pick up the complete 3D-printed red skull model and turn it around to show the front. The left hand then pinches the head of the 3D-printed red skull model, while the right hand grabs its right hand and swings it up and down."
+    },
+    {
+        "second": 11,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/O48cW1BqiMo/output_frames/sec_11_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[7-11] The camera cuts again, and the hands in the frame pick up the complete 3D-printed red skull model and turn it around to show the front. The left hand then pinches the head of the 3D-printed red skull model, while the right hand grabs its right hand and swings it up and down."
+    },
+    {
+        "second": 12,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/O48cW1BqiMo/output_frames/sec_12_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[11-16] Then, the camera cuts to the right hand pinching the head of the 3D-printed red skull model and the left hand fiddling with its right hand. Finally, the camera cuts again, showing the right hand placing the 3D-printed red skull head on the table."
+    },
+    {
+        "second": 13,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/O48cW1BqiMo/output_frames/sec_13_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[11-16] Then, the camera cuts to the right hand pinching the head of the 3D-printed red skull model and the left hand fiddling with its right hand. Finally, the camera cuts again, showing the right hand placing the 3D-printed red skull head on the table."
+    },
+    {
+        "second": 14,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/O48cW1BqiMo/output_frames/sec_14_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[11-16] Then, the camera cuts to the right hand pinching the head of the 3D-printed red skull model and the left hand fiddling with its right hand. Finally, the camera cuts again, showing the right hand placing the 3D-printed red skull head on the table."
+    },
+    {
+        "second": 15,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/O48cW1BqiMo/output_frames/sec_15_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[11-16] Then, the camera cuts to the right hand pinching the head of the 3D-printed red skull model and the left hand fiddling with its right hand. Finally, the camera cuts again, showing the right hand placing the 3D-printed red skull head on the table."
+    },
+    {
+        "second": 16,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/O48cW1BqiMo/output_frames/sec_16_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[11-16] Then, the camera cuts to the right hand pinching the head of the 3D-printed red skull model and the left hand fiddling with its right hand. Finally, the camera cuts again, showing the right hand placing the 3D-printed red skull head on the table."
+    }
+]

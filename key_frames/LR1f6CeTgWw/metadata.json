@@ -1,0 +1,51 @@
+[
+    {
+        "second": 0,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LR1f6CeTgWw/output_frames/sec_0_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A woman with tanned skin and long black hair is standing in a gym, facing left. She is smiling and wearing a black long-sleeved shirt and blue shorts. There is a blue wall beside her, with some fitness equipment faintly visible behind. The wall is decorated with blue lighting."
+    },
+    {
+        "second": 1,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LR1f6CeTgWw/output_frames/sec_1_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Then, the woman walks to the left, passing a blue fitness ball. She glances back, raises her right hand, and tucks her hair behind her ear before looking at the camera."
+    },
+    {
+        "second": 2,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LR1f6CeTgWw/output_frames/sec_2_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Then, the woman walks to the left, passing a blue fitness ball. She glances back, raises her right hand, and tucks her hair behind her ear before looking at the camera."
+    },
+    {
+        "second": 3,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LR1f6CeTgWw/output_frames/sec_3_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[2-6] The woman continues to smile and look at the camera. She lowers her right hand, winks her right eye, and walks to the left."
+    },
+    {
+        "second": 4,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LR1f6CeTgWw/output_frames/sec_4_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[2-6] The woman continues to smile and look at the camera. She lowers her right hand, winks her right eye, and walks to the left."
+    },
+    {
+        "second": 5,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LR1f6CeTgWw/output_frames/sec_5_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[2-6] The woman continues to smile and look at the camera. She lowers her right hand, winks her right eye, and walks to the left."
+    },
+    {
+        "second": 6,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LR1f6CeTgWw/output_frames/sec_6_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[2-6] The woman continues to smile and look at the camera. She lowers her right hand, winks her right eye, and walks to the left."
+    }
+]

@@ -1,0 +1,135 @@
+[
+    {
+        "second": 0,
+        "frame_index": 48,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MJqevJ0hktM/output_frames/sec_0_idx_48.jpg",
+        "fps": 60,
+        "explanation": "[0-0] The scene is set in a pixelated world, where a red rabbit and a green creature stand on green grass. Behind them is a white wall with two arched openings. There are also several small houses in the distance."
+    },
+    {
+        "second": 1,
+        "frame_index": 58,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MJqevJ0hktM/output_frames/sec_1_idx_58.jpg",
+        "fps": 60,
+        "explanation": "[0-3] Then the rabbit and the green creature both turn their heads to look, take a step to the side, stand sideways, and successfully pass through the arched opening in the white wall."
+    },
+    {
+        "second": 2,
+        "frame_index": 53,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MJqevJ0hktM/output_frames/sec_2_idx_53.jpg",
+        "fps": 60,
+        "explanation": "[0-3] Then the rabbit and the green creature both turn their heads to look, take a step to the side, stand sideways, and successfully pass through the arched opening in the white wall."
+    },
+    {
+        "second": 3,
+        "frame_index": 37,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MJqevJ0hktM/output_frames/sec_3_idx_37.jpg",
+        "fps": 60,
+        "explanation": "[0-3] Then the rabbit and the green creature both turn their heads to look, take a step to the side, stand sideways, and successfully pass through the arched opening in the white wall."
+    },
+    {
+        "second": 4,
+        "frame_index": 54,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MJqevJ0hktM/output_frames/sec_4_idx_54.jpg",
+        "fps": 60,
+        "explanation": "[3-6] Immediately following, a red wall moves over, also with two openings. They lean back and successfully pass through the red wall, then lie on the ground."
+    },
+    {
+        "second": 5,
+        "frame_index": 51,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MJqevJ0hktM/output_frames/sec_5_idx_51.jpg",
+        "fps": 60,
+        "explanation": "[3-6] Immediately following, a red wall moves over, also with two openings. They lean back and successfully pass through the red wall, then lie on the ground."
+    },
+    {
+        "second": 6,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MJqevJ0hktM/output_frames/sec_6_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[3-6] Immediately following, a red wall moves over, also with two openings. They lean back and successfully pass through the red wall, then lie on the ground."
+    },
+    {
+        "second": 7,
+        "frame_index": 56,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MJqevJ0hktM/output_frames/sec_7_idx_56.jpg",
+        "fps": 60,
+        "explanation": "[6-8] Then they stand up, the red rabbit lifts the green creature, stands sideways, a pink wall moves in behind them with a large opening, and they successfully pass through the opening."
+    },
+    {
+        "second": 8,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MJqevJ0hktM/output_frames/sec_8_idx_21.jpg",
+        "fps": 60,
+        "explanation": "[6-8] Then they stand up, the red rabbit lifts the green creature, stands sideways, a pink wall moves in behind them with a large opening, and they successfully pass through the opening."
+    },
+    {
+        "second": 9,
+        "frame_index": 59,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MJqevJ0hktM/output_frames/sec_9_idx_59.jpg",
+        "fps": 60,
+        "explanation": "[8-11] The rabbit then puts down the green creature and they both stand upright. This time it is a white wall with a different shape and opening than the previous walls. They stand sideways on one foot and successfully pass through."
+    },
+    {
+        "second": 10,
+        "frame_index": 57,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MJqevJ0hktM/output_frames/sec_10_idx_57.jpg",
+        "fps": 60,
+        "explanation": "[8-11] The rabbit then puts down the green creature and they both stand upright. This time it is a white wall with a different shape and opening than the previous walls. They stand sideways on one foot and successfully pass through."
+    },
+    {
+        "second": 11,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MJqevJ0hktM/output_frames/sec_11_idx_14.jpg",
+        "fps": 60,
+        "explanation": "[8-11] The rabbit then puts down the green creature and they both stand upright. This time it is a white wall with a different shape and opening than the previous walls. They stand sideways on one foot and successfully pass through."
+    },
+    {
+        "second": 12,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MJqevJ0hktM/output_frames/sec_12_idx_14.jpg",
+        "fps": 60,
+        "explanation": "[11-13] After that, a blue wall appears with two holes in the middle. They face the wall, and when the wall moves over, they jump up and successfully pass through the blue wall."
+    },
+    {
+        "second": 13,
+        "frame_index": 37,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MJqevJ0hktM/output_frames/sec_13_idx_37.jpg",
+        "fps": 60,
+        "explanation": "[11-13] After that, a blue wall appears with two holes in the middle. They face the wall, and when the wall moves over, they jump up and successfully pass through the blue wall."
+    },
+    {
+        "second": 14,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MJqevJ0hktM/output_frames/sec_14_idx_24.jpg",
+        "fps": 60,
+        "explanation": "[13-16] Then an orange wall appears, the rabbit and the green creature stand on one foot with their backs to the wall, and successfully pass through the orange wall."
+    },
+    {
+        "second": 15,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MJqevJ0hktM/output_frames/sec_15_idx_28.jpg",
+        "fps": 60,
+        "explanation": "[13-16] Then an orange wall appears, the rabbit and the green creature stand on one foot with their backs to the wall, and successfully pass through the orange wall."
+    },
+    {
+        "second": 16,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MJqevJ0hktM/output_frames/sec_16_idx_24.jpg",
+        "fps": 60,
+        "explanation": "[13-16] Then an orange wall appears, the rabbit and the green creature stand on one foot with their backs to the wall, and successfully pass through the orange wall."
+    },
+    {
+        "second": 17,
+        "frame_index": 31,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MJqevJ0hktM/output_frames/sec_17_idx_31.jpg",
+        "fps": 60,
+        "explanation": "[16-18] Finally, there is a yellow wall. The rabbit and the green creature raise their hands, but unfortunately they are knocked down by the wall and lie on the ground."
+    },
+    {
+        "second": 18,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MJqevJ0hktM/output_frames/sec_18_idx_14.jpg",
+        "fps": 60,
+        "explanation": "[16-18] Finally, there is a yellow wall. The rabbit and the green creature raise their hands, but unfortunately they are knocked down by the wall and lie on the ground."
+    }
+]

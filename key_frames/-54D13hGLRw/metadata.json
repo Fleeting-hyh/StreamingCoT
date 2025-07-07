@@ -1,0 +1,79 @@
+[
+    {
+        "second": 0,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-54D13hGLRw/output_frames/sec_0_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[0-0] Two people are standing by a swimming pool. A woman in a white bikini is standing on a white diving platform, and a man in a white shirt and blue pants is standing behind her. Behind them is a black railing, and outside the railing are green trees and houses."
+    },
+    {
+        "second": 1,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-54D13hGLRw/output_frames/sec_1_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[0-10] The woman jumps from the diving platform into the pool, then the picture slows down, the woman jumps into the water, and the man follows closely behind. After the man jumps into the water, the picture speed returns to normal."
+    },
+    {
+        "second": 2,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-54D13hGLRw/output_frames/sec_2_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[0-10] The woman jumps from the diving platform into the pool, then the picture slows down, the woman jumps into the water, and the man follows closely behind. After the man jumps into the water, the picture speed returns to normal."
+    },
+    {
+        "second": 3,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-54D13hGLRw/output_frames/sec_3_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[0-10] The woman jumps from the diving platform into the pool, then the picture slows down, the woman jumps into the water, and the man follows closely behind. After the man jumps into the water, the picture speed returns to normal."
+    },
+    {
+        "second": 4,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-54D13hGLRw/output_frames/sec_4_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[0-10] The woman jumps from the diving platform into the pool, then the picture slows down, the woman jumps into the water, and the man follows closely behind. After the man jumps into the water, the picture speed returns to normal."
+    },
+    {
+        "second": 5,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-54D13hGLRw/output_frames/sec_5_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[0-10] The woman jumps from the diving platform into the pool, then the picture slows down, the woman jumps into the water, and the man follows closely behind. After the man jumps into the water, the picture speed returns to normal."
+    },
+    {
+        "second": 6,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-54D13hGLRw/output_frames/sec_6_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[0-10] The woman jumps from the diving platform into the pool, then the picture slows down, the woman jumps into the water, and the man follows closely behind. After the man jumps into the water, the picture speed returns to normal."
+    },
+    {
+        "second": 7,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-54D13hGLRw/output_frames/sec_7_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[0-10] The woman jumps from the diving platform into the pool, then the picture slows down, the woman jumps into the water, and the man follows closely behind. After the man jumps into the water, the picture speed returns to normal."
+    },
+    {
+        "second": 8,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-54D13hGLRw/output_frames/sec_8_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-10] The woman jumps from the diving platform into the pool, then the picture slows down, the woman jumps into the water, and the man follows closely behind. After the man jumps into the water, the picture speed returns to normal."
+    },
+    {
+        "second": 9,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-54D13hGLRw/output_frames/sec_9_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[0-10] The woman jumps from the diving platform into the pool, then the picture slows down, the woman jumps into the water, and the man follows closely behind. After the man jumps into the water, the picture speed returns to normal."
+    },
+    {
+        "second": 10,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-54D13hGLRw/output_frames/sec_10_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[0-10] The woman jumps from the diving platform into the pool, then the picture slows down, the woman jumps into the water, and the man follows closely behind. After the man jumps into the water, the picture speed returns to normal."
+    }
+]

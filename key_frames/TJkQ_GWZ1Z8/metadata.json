@@ -1,0 +1,142 @@
+[
+    {
+        "second": 0,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TJkQ_GWZ1Z8/output_frames/sec_0_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[0-0] The video starts from the driver's perspective of a person driving a red Ferrari, showing the steering wheel, dashboard, and the road ahead. The road is flanked by green grass and trees."
+    },
+    {
+        "second": 1,
+        "frame_index": 55,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TJkQ_GWZ1Z8/output_frames/sec_1_idx_55.jpg",
+        "fps": 60,
+        "explanation": "[0-8] Then, the perspective briefly switches to the passenger seat. The car is accelerating, the driver turns the steering wheel, and the speedometer on the upper screen shows the speed increasing."
+    },
+    {
+        "second": 2,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TJkQ_GWZ1Z8/output_frames/sec_2_idx_2.jpg",
+        "fps": 60,
+        "explanation": "[0-8] Then, the perspective briefly switches to the passenger seat. The car is accelerating, the driver turns the steering wheel, and the speedometer on the upper screen shows the speed increasing."
+    },
+    {
+        "second": 3,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TJkQ_GWZ1Z8/output_frames/sec_3_idx_27.jpg",
+        "fps": 60,
+        "explanation": "[0-8] Then, the perspective briefly switches to the passenger seat. The car is accelerating, the driver turns the steering wheel, and the speedometer on the upper screen shows the speed increasing."
+    },
+    {
+        "second": 4,
+        "frame_index": 35,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TJkQ_GWZ1Z8/output_frames/sec_4_idx_35.jpg",
+        "fps": 60,
+        "explanation": "[0-8] Then, the perspective briefly switches to the passenger seat. The car is accelerating, the driver turns the steering wheel, and the speedometer on the upper screen shows the speed increasing."
+    },
+    {
+        "second": 5,
+        "frame_index": 59,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TJkQ_GWZ1Z8/output_frames/sec_5_idx_59.jpg",
+        "fps": 60,
+        "explanation": "[0-8] Then, the perspective briefly switches to the passenger seat. The car is accelerating, the driver turns the steering wheel, and the speedometer on the upper screen shows the speed increasing."
+    },
+    {
+        "second": 6,
+        "frame_index": 42,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TJkQ_GWZ1Z8/output_frames/sec_6_idx_42.jpg",
+        "fps": 60,
+        "explanation": "[0-8] Then, the perspective briefly switches to the passenger seat. The car is accelerating, the driver turns the steering wheel, and the speedometer on the upper screen shows the speed increasing."
+    },
+    {
+        "second": 7,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TJkQ_GWZ1Z8/output_frames/sec_7_idx_14.jpg",
+        "fps": 60,
+        "explanation": "[0-8] Then, the perspective briefly switches to the passenger seat. The car is accelerating, the driver turns the steering wheel, and the speedometer on the upper screen shows the speed increasing."
+    },
+    {
+        "second": 8,
+        "frame_index": 35,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TJkQ_GWZ1Z8/output_frames/sec_8_idx_35.jpg",
+        "fps": 60,
+        "explanation": "[0-8] Then, the perspective briefly switches to the passenger seat. The car is accelerating, the driver turns the steering wheel, and the speedometer on the upper screen shows the speed increasing."
+    },
+    {
+        "second": 9,
+        "frame_index": 59,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TJkQ_GWZ1Z8/output_frames/sec_9_idx_59.jpg",
+        "fps": 60,
+        "explanation": "[8-10] Subsequently, the speedometer briefly drops. The caption shows the white text \"THAT IS... OUTRAGEOUSLY DELICIOUS!\"."
+    },
+    {
+        "second": 10,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TJkQ_GWZ1Z8/output_frames/sec_10_idx_22.jpg",
+        "fps": 60,
+        "explanation": "[8-10] Subsequently, the speedometer briefly drops. The caption shows the white text \"THAT IS... OUTRAGEOUSLY DELICIOUS!\"."
+    },
+    {
+        "second": 11,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TJkQ_GWZ1Z8/output_frames/sec_11_idx_21.jpg",
+        "fps": 60,
+        "explanation": "[10-14] Then, as the car accelerates, the driver slightly turns the steering wheel, keeping the vehicle in the center of the lane."
+    },
+    {
+        "second": 12,
+        "frame_index": 49,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TJkQ_GWZ1Z8/output_frames/sec_12_idx_49.jpg",
+        "fps": 60,
+        "explanation": "[10-14] Then, as the car accelerates, the driver slightly turns the steering wheel, keeping the vehicle in the center of the lane."
+    },
+    {
+        "second": 13,
+        "frame_index": 31,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TJkQ_GWZ1Z8/output_frames/sec_13_idx_31.jpg",
+        "fps": 60,
+        "explanation": "[10-14] Then, as the car accelerates, the driver slightly turns the steering wheel, keeping the vehicle in the center of the lane."
+    },
+    {
+        "second": 14,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TJkQ_GWZ1Z8/output_frames/sec_14_idx_8.jpg",
+        "fps": 60,
+        "explanation": "[10-14] Then, as the car accelerates, the driver slightly turns the steering wheel, keeping the vehicle in the center of the lane."
+    },
+    {
+        "second": 15,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TJkQ_GWZ1Z8/output_frames/sec_15_idx_12.jpg",
+        "fps": 60,
+        "explanation": "[14-19] Afterward, the driver turns the steering wheel. The speed on the speedometer fluctuates according to the road conditions. The driver expresses his love for the car, with the white caption \"OH MAN I ABSOLUTELY ADORE THIS CAR\"."
+    },
+    {
+        "second": 16,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TJkQ_GWZ1Z8/output_frames/sec_16_idx_10.jpg",
+        "fps": 60,
+        "explanation": "[14-19] Afterward, the driver turns the steering wheel. The speed on the speedometer fluctuates according to the road conditions. The driver expresses his love for the car, with the white caption \"OH MAN I ABSOLUTELY ADORE THIS CAR\"."
+    },
+    {
+        "second": 17,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TJkQ_GWZ1Z8/output_frames/sec_17_idx_15.jpg",
+        "fps": 60,
+        "explanation": "[14-19] Afterward, the driver turns the steering wheel. The speed on the speedometer fluctuates according to the road conditions. The driver expresses his love for the car, with the white caption \"OH MAN I ABSOLUTELY ADORE THIS CAR\"."
+    },
+    {
+        "second": 18,
+        "frame_index": 30,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TJkQ_GWZ1Z8/output_frames/sec_18_idx_30.jpg",
+        "fps": 60,
+        "explanation": "[14-19] Afterward, the driver turns the steering wheel. The speed on the speedometer fluctuates according to the road conditions. The driver expresses his love for the car, with the white caption \"OH MAN I ABSOLUTELY ADORE THIS CAR\"."
+    },
+    {
+        "second": 19,
+        "frame_index": 48,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TJkQ_GWZ1Z8/output_frames/sec_19_idx_48.jpg",
+        "fps": 60,
+        "explanation": "[14-19] Afterward, the driver turns the steering wheel. The speed on the speedometer fluctuates according to the road conditions. The driver expresses his love for the car, with the white caption \"OH MAN I ABSOLUTELY ADORE THIS CAR\"."
+    }
+]

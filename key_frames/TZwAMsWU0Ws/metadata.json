@@ -1,0 +1,58 @@
+[
+    {
+        "second": 0,
+        "frame_index": 43,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TZwAMsWU0Ws/output_frames/sec_0_idx_43.jpg",
+        "fps": 60,
+        "explanation": "[0-0] A group of players in red and blue soccer uniforms are lined up in a row on a grassy field, with grayish-white buildings in the background and grayish-white clouds in the sky. At the top is the black caption: Benji, along with two laughing and crying emojis and a white logo."
+    },
+    {
+        "second": 1,
+        "frame_index": 44,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TZwAMsWU0Ws/output_frames/sec_1_idx_44.jpg",
+        "fps": 60,
+        "explanation": "[0-7] The players start running together to the right, one man sprints and takes a clear lead over the other players, while the other players gradually catch up."
+    },
+    {
+        "second": 2,
+        "frame_index": 51,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TZwAMsWU0Ws/output_frames/sec_2_idx_51.jpg",
+        "fps": 60,
+        "explanation": "[0-7] The players start running together to the right, one man sprints and takes a clear lead over the other players, while the other players gradually catch up."
+    },
+    {
+        "second": 3,
+        "frame_index": 36,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TZwAMsWU0Ws/output_frames/sec_3_idx_36.jpg",
+        "fps": 60,
+        "explanation": "[0-7] The players start running together to the right, one man sprints and takes a clear lead over the other players, while the other players gradually catch up."
+    },
+    {
+        "second": 4,
+        "frame_index": 55,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TZwAMsWU0Ws/output_frames/sec_4_idx_55.jpg",
+        "fps": 60,
+        "explanation": "[0-7] The players start running together to the right, one man sprints and takes a clear lead over the other players, while the other players gradually catch up."
+    },
+    {
+        "second": 5,
+        "frame_index": 46,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TZwAMsWU0Ws/output_frames/sec_5_idx_46.jpg",
+        "fps": 60,
+        "explanation": "[0-7] The players start running together to the right, one man sprints and takes a clear lead over the other players, while the other players gradually catch up."
+    },
+    {
+        "second": 6,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TZwAMsWU0Ws/output_frames/sec_6_idx_15.jpg",
+        "fps": 60,
+        "explanation": "[0-7] The players start running together to the right, one man sprints and takes a clear lead over the other players, while the other players gradually catch up."
+    },
+    {
+        "second": 7,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TZwAMsWU0Ws/output_frames/sec_7_idx_21.jpg",
+        "fps": 60,
+        "explanation": "[0-7] The players start running together to the right, one man sprints and takes a clear lead over the other players, while the other players gradually catch up."
+    }
+]

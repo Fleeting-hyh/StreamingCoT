@@ -1,0 +1,121 @@
+[
+    {
+        "second": 0,
+        "frame_index": 55,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/K-2QvJdp5l0/output_frames/sec_0_idx_55.jpg",
+        "fps": 60,
+        "explanation": "[0-0] On a green meadow, a pair of feet with red nail polish are seen at the top of the frame. Nine colorful objects are placed in front of the feet, arranged in three rows and three columns."
+    },
+    {
+        "second": 1,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/K-2QvJdp5l0/output_frames/sec_1_idx_2.jpg",
+        "fps": 60,
+        "explanation": "[0-7] First, the left foot steps on the yellow object on the far right of the first row, and then a yellow patterned sock is put on the leg and foot. Next, the right foot steps on the pink object in the middle of the second row, and a red cross appears in the picture. Then the right foot steps on the blue object on the far left of the third row, and another red cross appears in the picture. Then the right foot steps on the yellow object in the middle of the third row, and the right foot successfully puts on the yellow patterned sock, matching the left foot."
+    },
+    {
+        "second": 2,
+        "frame_index": 32,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/K-2QvJdp5l0/output_frames/sec_2_idx_32.jpg",
+        "fps": 60,
+        "explanation": "[0-7] First, the left foot steps on the yellow object on the far right of the first row, and then a yellow patterned sock is put on the leg and foot. Next, the right foot steps on the pink object in the middle of the second row, and a red cross appears in the picture. Then the right foot steps on the blue object on the far left of the third row, and another red cross appears in the picture. Then the right foot steps on the yellow object in the middle of the third row, and the right foot successfully puts on the yellow patterned sock, matching the left foot."
+    },
+    {
+        "second": 3,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/K-2QvJdp5l0/output_frames/sec_3_idx_8.jpg",
+        "fps": 60,
+        "explanation": "[0-7] First, the left foot steps on the yellow object on the far right of the first row, and then a yellow patterned sock is put on the leg and foot. Next, the right foot steps on the pink object in the middle of the second row, and a red cross appears in the picture. Then the right foot steps on the blue object on the far left of the third row, and another red cross appears in the picture. Then the right foot steps on the yellow object in the middle of the third row, and the right foot successfully puts on the yellow patterned sock, matching the left foot."
+    },
+    {
+        "second": 4,
+        "frame_index": 55,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/K-2QvJdp5l0/output_frames/sec_4_idx_55.jpg",
+        "fps": 60,
+        "explanation": "[0-7] First, the left foot steps on the yellow object on the far right of the first row, and then a yellow patterned sock is put on the leg and foot. Next, the right foot steps on the pink object in the middle of the second row, and a red cross appears in the picture. Then the right foot steps on the blue object on the far left of the third row, and another red cross appears in the picture. Then the right foot steps on the yellow object in the middle of the third row, and the right foot successfully puts on the yellow patterned sock, matching the left foot."
+    },
+    {
+        "second": 5,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/K-2QvJdp5l0/output_frames/sec_5_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[0-7] First, the left foot steps on the yellow object on the far right of the first row, and then a yellow patterned sock is put on the leg and foot. Next, the right foot steps on the pink object in the middle of the second row, and a red cross appears in the picture. Then the right foot steps on the blue object on the far left of the third row, and another red cross appears in the picture. Then the right foot steps on the yellow object in the middle of the third row, and the right foot successfully puts on the yellow patterned sock, matching the left foot."
+    },
+    {
+        "second": 6,
+        "frame_index": 47,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/K-2QvJdp5l0/output_frames/sec_6_idx_47.jpg",
+        "fps": 60,
+        "explanation": "[0-7] First, the left foot steps on the yellow object on the far right of the first row, and then a yellow patterned sock is put on the leg and foot. Next, the right foot steps on the pink object in the middle of the second row, and a red cross appears in the picture. Then the right foot steps on the blue object on the far left of the third row, and another red cross appears in the picture. Then the right foot steps on the yellow object in the middle of the third row, and the right foot successfully puts on the yellow patterned sock, matching the left foot."
+    },
+    {
+        "second": 7,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/K-2QvJdp5l0/output_frames/sec_7_idx_3.jpg",
+        "fps": 60,
+        "explanation": "[0-7] First, the left foot steps on the yellow object on the far right of the first row, and then a yellow patterned sock is put on the leg and foot. Next, the right foot steps on the pink object in the middle of the second row, and a red cross appears in the picture. Then the right foot steps on the blue object on the far left of the third row, and another red cross appears in the picture. Then the right foot steps on the yellow object in the middle of the third row, and the right foot successfully puts on the yellow patterned sock, matching the left foot."
+    },
+    {
+        "second": 8,
+        "frame_index": 43,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/K-2QvJdp5l0/output_frames/sec_8_idx_43.jpg",
+        "fps": 60,
+        "explanation": "[7-12] Then the camera moves down to reveal a pair of purple hole shoes filled with some white foam. The left foot wearing the yellow socks then steps into the right purple hole shoe, squeezing out a lot of white foam."
+    },
+    {
+        "second": 9,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/K-2QvJdp5l0/output_frames/sec_9_idx_25.jpg",
+        "fps": 60,
+        "explanation": "[7-12] Then the camera moves down to reveal a pair of purple hole shoes filled with some white foam. The left foot wearing the yellow socks then steps into the right purple hole shoe, squeezing out a lot of white foam."
+    },
+    {
+        "second": 10,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/K-2QvJdp5l0/output_frames/sec_10_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[7-12] Then the camera moves down to reveal a pair of purple hole shoes filled with some white foam. The left foot wearing the yellow socks then steps into the right purple hole shoe, squeezing out a lot of white foam."
+    },
+    {
+        "second": 11,
+        "frame_index": 37,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/K-2QvJdp5l0/output_frames/sec_11_idx_37.jpg",
+        "fps": 60,
+        "explanation": "[7-12] Then the camera moves down to reveal a pair of purple hole shoes filled with some white foam. The left foot wearing the yellow socks then steps into the right purple hole shoe, squeezing out a lot of white foam."
+    },
+    {
+        "second": 12,
+        "frame_index": 47,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/K-2QvJdp5l0/output_frames/sec_12_idx_47.jpg",
+        "fps": 60,
+        "explanation": "[7-12] Then the camera moves down to reveal a pair of purple hole shoes filled with some white foam. The left foot wearing the yellow socks then steps into the right purple hole shoe, squeezing out a lot of white foam."
+    },
+    {
+        "second": 13,
+        "frame_index": 32,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/K-2QvJdp5l0/output_frames/sec_13_idx_32.jpg",
+        "fps": 60,
+        "explanation": "[12-16] Then the camera zooms in, and the right foot wearing the yellow socks steps into the left purple hole shoe, squeezing out a lot of white foam. The camera zooms out, both purple hole shoes squeeze out a lot of white foam, both feet lift slightly, and the picture freezes."
+    },
+    {
+        "second": 14,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/K-2QvJdp5l0/output_frames/sec_14_idx_11.jpg",
+        "fps": 60,
+        "explanation": "[12-16] Then the camera zooms in, and the right foot wearing the yellow socks steps into the left purple hole shoe, squeezing out a lot of white foam. The camera zooms out, both purple hole shoes squeeze out a lot of white foam, both feet lift slightly, and the picture freezes."
+    },
+    {
+        "second": 15,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/K-2QvJdp5l0/output_frames/sec_15_idx_6.jpg",
+        "fps": 60,
+        "explanation": "[12-16] Then the camera zooms in, and the right foot wearing the yellow socks steps into the left purple hole shoe, squeezing out a lot of white foam. The camera zooms out, both purple hole shoes squeeze out a lot of white foam, both feet lift slightly, and the picture freezes."
+    },
+    {
+        "second": 16,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/K-2QvJdp5l0/output_frames/sec_16_idx_1.jpg",
+        "fps": 60,
+        "explanation": "[12-16] Then the camera zooms in, and the right foot wearing the yellow socks steps into the left purple hole shoe, squeezing out a lot of white foam. The camera zooms out, both purple hole shoes squeeze out a lot of white foam, both feet lift slightly, and the picture freezes."
+    }
+]

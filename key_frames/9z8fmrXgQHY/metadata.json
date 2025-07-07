@@ -1,0 +1,65 @@
+[
+    {
+        "second": 0,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9z8fmrXgQHY/output_frames/sec_0_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A man with a long gray beard, a silver chain with a cross pendant, a red sweater, and white shorts is walking down the street, holding a tennis racket. The background is a building with yellow exterior walls, green vegetation inside, paved with gray stone roads, and a black metal fence outside."
+    },
+    {
+        "second": 1,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9z8fmrXgQHY/output_frames/sec_1_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Then the man, barefoot, walks on the sidewalk, opens the door of a gray Lamborghini parked on the side of the road, sits in, and closes the door. There are dry trees and many cars parked on both sides of the road."
+    },
+    {
+        "second": 2,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9z8fmrXgQHY/output_frames/sec_2_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Then the man, barefoot, walks on the sidewalk, opens the door of a gray Lamborghini parked on the side of the road, sits in, and closes the door. There are dry trees and many cars parked on both sides of the road."
+    },
+    {
+        "second": 3,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9z8fmrXgQHY/output_frames/sec_3_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Then the man, barefoot, walks on the sidewalk, opens the door of a gray Lamborghini parked on the side of the road, sits in, and closes the door. There are dry trees and many cars parked on both sides of the road."
+    },
+    {
+        "second": 4,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9z8fmrXgQHY/output_frames/sec_4_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Then the man, barefoot, walks on the sidewalk, opens the door of a gray Lamborghini parked on the side of the road, sits in, and closes the door. There are dry trees and many cars parked on both sides of the road."
+    },
+    {
+        "second": 5,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9z8fmrXgQHY/output_frames/sec_5_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Then the man, barefoot, walks on the sidewalk, opens the door of a gray Lamborghini parked on the side of the road, sits in, and closes the door. There are dry trees and many cars parked on both sides of the road."
+    },
+    {
+        "second": 6,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9z8fmrXgQHY/output_frames/sec_6_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[5-8] Finally, the man drives the car away and makes a gesture outward. As the car drives, you can see the Eiffel Tower by the road, trees and pedestrians on the roadside."
+    },
+    {
+        "second": 7,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9z8fmrXgQHY/output_frames/sec_7_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[5-8] Finally, the man drives the car away and makes a gesture outward. As the car drives, you can see the Eiffel Tower by the road, trees and pedestrians on the roadside."
+    },
+    {
+        "second": 8,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9z8fmrXgQHY/output_frames/sec_8_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[5-8] Finally, the man drives the car away and makes a gesture outward. As the car drives, you can see the Eiffel Tower by the road, trees and pedestrians on the roadside."
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "second": 0,
+        "frame_index": 51,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/NkUMtmSodxI/output_frames/sec_0_idx_51.jpg",
+        "fps": 60,
+        "explanation": "[0-0] Against a white background, a man wearing a white shirt with a white towel wrapped around his head, opens his mouth wide and closes his eyes tightly."
+    },
+    {
+        "second": 1,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/NkUMtmSodxI/output_frames/sec_1_idx_17.jpg",
+        "fps": 60,
+        "explanation": "[0-2] He holds a potato chip in one hand, brings it to his open mouth, and looks down with his eyes wide open."
+    },
+    {
+        "second": 2,
+        "frame_index": 35,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/NkUMtmSodxI/output_frames/sec_2_idx_35.jpg",
+        "fps": 60,
+        "explanation": "[0-2] He holds a potato chip in one hand, brings it to his open mouth, and looks down with his eyes wide open."
+    },
+    {
+        "second": 3,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/NkUMtmSodxI/output_frames/sec_3_idx_7.jpg",
+        "fps": 60,
+        "explanation": "[2-6] Next, the scene switches to a man in a blue shirt and a headband with a dinosaur print, lying on a rattan chair. He holds a potato chip in his hand, opens his mouth, and has a small teddy bear beside his head. As he chews a few times, his body suddenly lifts upward. He opens his mouth wide, smiles, and lies back down. He continues to chew with his mouth again."
+    },
+    {
+        "second": 4,
+        "frame_index": 50,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/NkUMtmSodxI/output_frames/sec_4_idx_50.jpg",
+        "fps": 60,
+        "explanation": "[2-6] Next, the scene switches to a man in a blue shirt and a headband with a dinosaur print, lying on a rattan chair. He holds a potato chip in his hand, opens his mouth, and has a small teddy bear beside his head. As he chews a few times, his body suddenly lifts upward. He opens his mouth wide, smiles, and lies back down. He continues to chew with his mouth again."
+    },
+    {
+        "second": 5,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/NkUMtmSodxI/output_frames/sec_5_idx_6.jpg",
+        "fps": 60,
+        "explanation": "[2-6] Next, the scene switches to a man in a blue shirt and a headband with a dinosaur print, lying on a rattan chair. He holds a potato chip in his hand, opens his mouth, and has a small teddy bear beside his head. As he chews a few times, his body suddenly lifts upward. He opens his mouth wide, smiles, and lies back down. He continues to chew with his mouth again."
+    },
+    {
+        "second": 6,
+        "frame_index": 50,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/NkUMtmSodxI/output_frames/sec_6_idx_50.jpg",
+        "fps": 60,
+        "explanation": "[2-6] Next, the scene switches to a man in a blue shirt and a headband with a dinosaur print, lying on a rattan chair. He holds a potato chip in his hand, opens his mouth, and has a small teddy bear beside his head. As he chews a few times, his body suddenly lifts upward. He opens his mouth wide, smiles, and lies back down. He continues to chew with his mouth again."
+    },
+    {
+        "second": 7,
+        "frame_index": 44,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/NkUMtmSodxI/output_frames/sec_7_idx_44.jpg",
+        "fps": 60,
+        "explanation": "[6-10] Finally, the scene switches back to the man with the white towel. He closes his eyes, purses his lips, then opens his mouth, and shrugs his shoulders."
+    },
+    {
+        "second": 8,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/NkUMtmSodxI/output_frames/sec_8_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[6-10] Finally, the scene switches back to the man with the white towel. He closes his eyes, purses his lips, then opens his mouth, and shrugs his shoulders."
+    },
+    {
+        "second": 9,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/NkUMtmSodxI/output_frames/sec_9_idx_16.jpg",
+        "fps": 60,
+        "explanation": "[6-10] Finally, the scene switches back to the man with the white towel. He closes his eyes, purses his lips, then opens his mouth, and shrugs his shoulders."
+    },
+    {
+        "second": 10,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/NkUMtmSodxI/output_frames/sec_10_idx_21.jpg",
+        "fps": 60,
+        "explanation": "[6-10] Finally, the scene switches back to the man with the white towel. He closes his eyes, purses his lips, then opens his mouth, and shrugs his shoulders."
+    }
+]

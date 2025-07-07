@@ -1,0 +1,135 @@
+[
+    {
+        "second": 0,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EclKpyq8Nck/output_frames/sec_0_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[0-0] On a yellow table, two hands are holding a red candy."
+    },
+    {
+        "second": 1,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EclKpyq8Nck/output_frames/sec_1_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Then, the hands peel off the plastic wrapper of the candy, take out the red candy inside, cut it in half with a knife, then peel off a blue candy, cut the blue candy in half as well, and then cut a green and red candy in half."
+    },
+    {
+        "second": 2,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EclKpyq8Nck/output_frames/sec_2_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Then, the hands peel off the plastic wrapper of the candy, take out the red candy inside, cut it in half with a knife, then peel off a blue candy, cut the blue candy in half as well, and then cut a green and red candy in half."
+    },
+    {
+        "second": 3,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EclKpyq8Nck/output_frames/sec_3_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[2-5] Next, they pick up a lighter, burn the red candy a little, and stick the red and blue candies together. Then they burn the green candy a little and stick it to the red and blue candies."
+    },
+    {
+        "second": 4,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EclKpyq8Nck/output_frames/sec_4_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[2-5] Next, they pick up a lighter, burn the red candy a little, and stick the red and blue candies together. Then they burn the green candy a little and stick it to the red and blue candies."
+    },
+    {
+        "second": 5,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EclKpyq8Nck/output_frames/sec_5_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[2-5] Next, they pick up a lighter, burn the red candy a little, and stick the red and blue candies together. Then they burn the green candy a little and stick it to the red and blue candies."
+    },
+    {
+        "second": 6,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EclKpyq8Nck/output_frames/sec_6_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[5-10] Then, they put the three candies of different colors on a metal baking tray, open the oven, put the tray in, and close the oven."
+    },
+    {
+        "second": 7,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EclKpyq8Nck/output_frames/sec_7_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[5-10] Then, they put the three candies of different colors on a metal baking tray, open the oven, put the tray in, and close the oven."
+    },
+    {
+        "second": 8,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EclKpyq8Nck/output_frames/sec_8_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[5-10] Then, they put the three candies of different colors on a metal baking tray, open the oven, put the tray in, and close the oven."
+    },
+    {
+        "second": 9,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EclKpyq8Nck/output_frames/sec_9_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[5-10] Then, they put the three candies of different colors on a metal baking tray, open the oven, put the tray in, and close the oven."
+    },
+    {
+        "second": 10,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EclKpyq8Nck/output_frames/sec_10_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[5-10] Then, they put the three candies of different colors on a metal baking tray, open the oven, put the tray in, and close the oven."
+    },
+    {
+        "second": 11,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EclKpyq8Nck/output_frames/sec_11_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[10-13] Then, the candy expands and gets bigger in the oven. Then, the candy is taken out of the oven, placed on a yellow table, and cut open with a knife."
+    },
+    {
+        "second": 12,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EclKpyq8Nck/output_frames/sec_12_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[10-13] Then, the candy expands and gets bigger in the oven. Then, the candy is taken out of the oven, placed on a yellow table, and cut open with a knife."
+    },
+    {
+        "second": 13,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EclKpyq8Nck/output_frames/sec_13_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[10-13] Then, the candy expands and gets bigger in the oven. Then, the candy is taken out of the oven, placed on a yellow table, and cut open with a knife."
+    },
+    {
+        "second": 14,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EclKpyq8Nck/output_frames/sec_14_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[13-19] Next, a hand holds the candy and shows it to the camera. Then the camera turns, and a man in blue clothes puts the candy in his hand into his mouth, then puts another candy in his mouth and eats it. Immediately after tasting the candy, the man nods his head in approval."
+    },
+    {
+        "second": 15,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EclKpyq8Nck/output_frames/sec_15_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[13-19] Next, a hand holds the candy and shows it to the camera. Then the camera turns, and a man in blue clothes puts the candy in his hand into his mouth, then puts another candy in his mouth and eats it. Immediately after tasting the candy, the man nods his head in approval."
+    },
+    {
+        "second": 16,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EclKpyq8Nck/output_frames/sec_16_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[13-19] Next, a hand holds the candy and shows it to the camera. Then the camera turns, and a man in blue clothes puts the candy in his hand into his mouth, then puts another candy in his mouth and eats it. Immediately after tasting the candy, the man nods his head in approval."
+    },
+    {
+        "second": 17,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EclKpyq8Nck/output_frames/sec_17_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[13-19] Next, a hand holds the candy and shows it to the camera. Then the camera turns, and a man in blue clothes puts the candy in his hand into his mouth, then puts another candy in his mouth and eats it. Immediately after tasting the candy, the man nods his head in approval."
+    },
+    {
+        "second": 18,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EclKpyq8Nck/output_frames/sec_18_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[13-19] Next, a hand holds the candy and shows it to the camera. Then the camera turns, and a man in blue clothes puts the candy in his hand into his mouth, then puts another candy in his mouth and eats it. Immediately after tasting the candy, the man nods his head in approval."
+    }
+]

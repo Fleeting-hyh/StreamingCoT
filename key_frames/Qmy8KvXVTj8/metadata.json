@@ -1,0 +1,128 @@
+[
+    {
+        "second": 0,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Qmy8KvXVTj8/output_frames/sec_0_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A man in a red hoodie is standing in front of a door, his hands clasped together, looking up and to the right. Above him is a green square with \"$100\" written on it. There are also two black subtitles, the one on the left says \"Break your leg -$100,\" and the one on the right says \"Kiss James Charles -$1.\""
+    },
+    {
+        "second": 1,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Qmy8KvXVTj8/output_frames/sec_1_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[0-9] The man in red rubs his hands together, looking up and to the left and right. Then the scene switches to a man in grey clothes, talking and looking to the left, with a subtitle above him that reads \"Which one did you pick?\". It immediately cuts back to the man in red looking to the right and talking, with the green square above his head now showing \"$5\" and a subtitle below that reads \"I had pick James Charles.\""
+    },
+    {
+        "second": 2,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Qmy8KvXVTj8/output_frames/sec_2_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[0-9] The man in red rubs his hands together, looking up and to the left and right. Then the scene switches to a man in grey clothes, talking and looking to the left, with a subtitle above him that reads \"Which one did you pick?\". It immediately cuts back to the man in red looking to the right and talking, with the green square above his head now showing \"$5\" and a subtitle below that reads \"I had pick James Charles.\""
+    },
+    {
+        "second": 3,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Qmy8KvXVTj8/output_frames/sec_3_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-9] The man in red rubs his hands together, looking up and to the left and right. Then the scene switches to a man in grey clothes, talking and looking to the left, with a subtitle above him that reads \"Which one did you pick?\". It immediately cuts back to the man in red looking to the right and talking, with the green square above his head now showing \"$5\" and a subtitle below that reads \"I had pick James Charles.\""
+    },
+    {
+        "second": 4,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Qmy8KvXVTj8/output_frames/sec_4_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[0-9] The man in red rubs his hands together, looking up and to the left and right. Then the scene switches to a man in grey clothes, talking and looking to the left, with a subtitle above him that reads \"Which one did you pick?\". It immediately cuts back to the man in red looking to the right and talking, with the green square above his head now showing \"$5\" and a subtitle below that reads \"I had pick James Charles.\""
+    },
+    {
+        "second": 5,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Qmy8KvXVTj8/output_frames/sec_5_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[0-9] The man in red rubs his hands together, looking up and to the left and right. Then the scene switches to a man in grey clothes, talking and looking to the left, with a subtitle above him that reads \"Which one did you pick?\". It immediately cuts back to the man in red looking to the right and talking, with the green square above his head now showing \"$5\" and a subtitle below that reads \"I had pick James Charles.\""
+    },
+    {
+        "second": 6,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Qmy8KvXVTj8/output_frames/sec_6_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[0-9] The man in red rubs his hands together, looking up and to the left and right. Then the scene switches to a man in grey clothes, talking and looking to the left, with a subtitle above him that reads \"Which one did you pick?\". It immediately cuts back to the man in red looking to the right and talking, with the green square above his head now showing \"$5\" and a subtitle below that reads \"I had pick James Charles.\""
+    },
+    {
+        "second": 7,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Qmy8KvXVTj8/output_frames/sec_7_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[0-9] The man in red rubs his hands together, looking up and to the left and right. Then the scene switches to a man in grey clothes, talking and looking to the left, with a subtitle above him that reads \"Which one did you pick?\". It immediately cuts back to the man in red looking to the right and talking, with the green square above his head now showing \"$5\" and a subtitle below that reads \"I had pick James Charles.\""
+    },
+    {
+        "second": 8,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Qmy8KvXVTj8/output_frames/sec_8_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[0-9] The man in red rubs his hands together, looking up and to the left and right. Then the scene switches to a man in grey clothes, talking and looking to the left, with a subtitle above him that reads \"Which one did you pick?\". It immediately cuts back to the man in red looking to the right and talking, with the green square above his head now showing \"$5\" and a subtitle below that reads \"I had pick James Charles.\""
+    },
+    {
+        "second": 9,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Qmy8KvXVTj8/output_frames/sec_9_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[0-9] The man in red rubs his hands together, looking up and to the left and right. Then the scene switches to a man in grey clothes, talking and looking to the left, with a subtitle above him that reads \"Which one did you pick?\". It immediately cuts back to the man in red looking to the right and talking, with the green square above his head now showing \"$5\" and a subtitle below that reads \"I had pick James Charles.\""
+    },
+    {
+        "second": 10,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Qmy8KvXVTj8/output_frames/sec_10_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[9-17] The scene then switches back to the man in grey, gesturing with his right hand and talking, with the subtitle above him changing to \"So how do you only have $5?\". The man in red then lowers his head and puts his right hand over his mouth, the green square above him still showing \"$5.\" The man in grey then lowers his head and gestures with his hand before widening his eyes, opening his mouth wide, and looking to the left with a shocked expression."
+    },
+    {
+        "second": 11,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Qmy8KvXVTj8/output_frames/sec_11_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[9-17] The scene then switches back to the man in grey, gesturing with his right hand and talking, with the subtitle above him changing to \"So how do you only have $5?\". The man in red then lowers his head and puts his right hand over his mouth, the green square above him still showing \"$5.\" The man in grey then lowers his head and gestures with his hand before widening his eyes, opening his mouth wide, and looking to the left with a shocked expression."
+    },
+    {
+        "second": 12,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Qmy8KvXVTj8/output_frames/sec_12_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[9-17] The scene then switches back to the man in grey, gesturing with his right hand and talking, with the subtitle above him changing to \"So how do you only have $5?\". The man in red then lowers his head and puts his right hand over his mouth, the green square above him still showing \"$5.\" The man in grey then lowers his head and gestures with his hand before widening his eyes, opening his mouth wide, and looking to the left with a shocked expression."
+    },
+    {
+        "second": 13,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Qmy8KvXVTj8/output_frames/sec_13_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[9-17] The scene then switches back to the man in grey, gesturing with his right hand and talking, with the subtitle above him changing to \"So how do you only have $5?\". The man in red then lowers his head and puts his right hand over his mouth, the green square above him still showing \"$5.\" The man in grey then lowers his head and gestures with his hand before widening his eyes, opening his mouth wide, and looking to the left with a shocked expression."
+    },
+    {
+        "second": 14,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Qmy8KvXVTj8/output_frames/sec_14_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[9-17] The scene then switches back to the man in grey, gesturing with his right hand and talking, with the subtitle above him changing to \"So how do you only have $5?\". The man in red then lowers his head and puts his right hand over his mouth, the green square above him still showing \"$5.\" The man in grey then lowers his head and gestures with his hand before widening his eyes, opening his mouth wide, and looking to the left with a shocked expression."
+    },
+    {
+        "second": 15,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Qmy8KvXVTj8/output_frames/sec_15_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[9-17] The scene then switches back to the man in grey, gesturing with his right hand and talking, with the subtitle above him changing to \"So how do you only have $5?\". The man in red then lowers his head and puts his right hand over his mouth, the green square above him still showing \"$5.\" The man in grey then lowers his head and gestures with his hand before widening his eyes, opening his mouth wide, and looking to the left with a shocked expression."
+    },
+    {
+        "second": 16,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Qmy8KvXVTj8/output_frames/sec_16_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[9-17] The scene then switches back to the man in grey, gesturing with his right hand and talking, with the subtitle above him changing to \"So how do you only have $5?\". The man in red then lowers his head and puts his right hand over his mouth, the green square above him still showing \"$5.\" The man in grey then lowers his head and gestures with his hand before widening his eyes, opening his mouth wide, and looking to the left with a shocked expression."
+    },
+    {
+        "second": 17,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Qmy8KvXVTj8/output_frames/sec_17_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[9-17] The scene then switches back to the man in grey, gesturing with his right hand and talking, with the subtitle above him changing to \"So how do you only have $5?\". The man in red then lowers his head and puts his right hand over his mouth, the green square above him still showing \"$5.\" The man in grey then lowers his head and gestures with his hand before widening his eyes, opening his mouth wide, and looking to the left with a shocked expression."
+    }
+]

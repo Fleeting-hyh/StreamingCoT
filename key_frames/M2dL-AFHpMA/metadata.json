@@ -1,0 +1,170 @@
+[
+    {
+        "second": 0,
+        "frame_index": 49,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/M2dL-AFHpMA/output_frames/sec_0_idx_49.jpg",
+        "fps": 60,
+        "explanation": "[0-0] Inside a brown cardboard box are several food items, including a stew, rice, soup, and some desserts. The background shows a gray floor and some yellow safety lines. There is also a large silver pot on the right."
+    },
+    {
+        "second": 1,
+        "frame_index": 51,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/M2dL-AFHpMA/output_frames/sec_1_idx_51.jpg",
+        "fps": 60,
+        "explanation": "[0-3] The camera moves backward, revealing a hand holding the fully packed cardboard box. The scene then switches to a person wearing black gloves putting a bottle of water into the lunch box. Then the person picks up a yogurt and puts it into the lunch box."
+    },
+    {
+        "second": 2,
+        "frame_index": 37,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/M2dL-AFHpMA/output_frames/sec_2_idx_37.jpg",
+        "fps": 60,
+        "explanation": "[0-3] The camera moves backward, revealing a hand holding the fully packed cardboard box. The scene then switches to a person wearing black gloves putting a bottle of water into the lunch box. Then the person picks up a yogurt and puts it into the lunch box."
+    },
+    {
+        "second": 3,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/M2dL-AFHpMA/output_frames/sec_3_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[0-3] The camera moves backward, revealing a hand holding the fully packed cardboard box. The scene then switches to a person wearing black gloves putting a bottle of water into the lunch box. Then the person picks up a yogurt and puts it into the lunch box."
+    },
+    {
+        "second": 4,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/M2dL-AFHpMA/output_frames/sec_4_idx_29.jpg",
+        "fps": 60,
+        "explanation": "[3-5] The scene then shows two hands placing two dates into a transparent plastic box. The plastic box with dates is then placed into the lunch box."
+    },
+    {
+        "second": 5,
+        "frame_index": 57,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/M2dL-AFHpMA/output_frames/sec_5_idx_57.jpg",
+        "fps": 60,
+        "explanation": "[3-5] The scene then shows two hands placing two dates into a transparent plastic box. The plastic box with dates is then placed into the lunch box."
+    },
+    {
+        "second": 6,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/M2dL-AFHpMA/output_frames/sec_6_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[5-7] Next, the right hand picks up a piece of bread and puts it into the lunch box. Then the scene switches to a metal basin filled with brown dates, a spoon scoops up a spoonful of dates."
+    },
+    {
+        "second": 7,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/M2dL-AFHpMA/output_frames/sec_7_idx_25.jpg",
+        "fps": 60,
+        "explanation": "[5-7] Next, the right hand picks up a piece of bread and puts it into the lunch box. Then the scene switches to a metal basin filled with brown dates, a spoon scoops up a spoonful of dates."
+    },
+    {
+        "second": 8,
+        "frame_index": 56,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/M2dL-AFHpMA/output_frames/sec_8_idx_56.jpg",
+        "fps": 60,
+        "explanation": "[7-10] Then two hands pour the dates from the spoon into a white plastic box. And put the box into the lunch box."
+    },
+    {
+        "second": 9,
+        "frame_index": 39,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/M2dL-AFHpMA/output_frames/sec_9_idx_39.jpg",
+        "fps": 60,
+        "explanation": "[7-10] Then two hands pour the dates from the spoon into a white plastic box. And put the box into the lunch box."
+    },
+    {
+        "second": 10,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/M2dL-AFHpMA/output_frames/sec_10_idx_11.jpg",
+        "fps": 60,
+        "explanation": "[7-10] Then two hands pour the dates from the spoon into a white plastic box. And put the box into the lunch box."
+    },
+    {
+        "second": 11,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/M2dL-AFHpMA/output_frames/sec_11_idx_25.jpg",
+        "fps": 60,
+        "explanation": "[10-12] The scene then cuts to a kitchen counter, where a pair of hands are spooning stew into a black plastic container."
+    },
+    {
+        "second": 12,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/M2dL-AFHpMA/output_frames/sec_12_idx_27.jpg",
+        "fps": 60,
+        "explanation": "[10-12] The scene then cuts to a kitchen counter, where a pair of hands are spooning stew into a black plastic container."
+    },
+    {
+        "second": 13,
+        "frame_index": 33,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/M2dL-AFHpMA/output_frames/sec_13_idx_33.jpg",
+        "fps": 60,
+        "explanation": "[12-15] Then the person scoops some soup with a ladle and pours it into the same container. Then a spoonful of rice is added."
+    },
+    {
+        "second": 14,
+        "frame_index": 33,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/M2dL-AFHpMA/output_frames/sec_14_idx_33.jpg",
+        "fps": 60,
+        "explanation": "[12-15] Then the person scoops some soup with a ladle and pours it into the same container. Then a spoonful of rice is added."
+    },
+    {
+        "second": 15,
+        "frame_index": 32,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/M2dL-AFHpMA/output_frames/sec_15_idx_32.jpg",
+        "fps": 60,
+        "explanation": "[12-15] Then the person scoops some soup with a ladle and pours it into the same container. Then a spoonful of rice is added."
+    },
+    {
+        "second": 16,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/M2dL-AFHpMA/output_frames/sec_16_idx_17.jpg",
+        "fps": 60,
+        "explanation": "[15-18] The scene then switches, showing two hands placing the black plastic container on a metal machine, pulling out plastic wrap, and starting to seal the container."
+    },
+    {
+        "second": 17,
+        "frame_index": 49,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/M2dL-AFHpMA/output_frames/sec_17_idx_49.jpg",
+        "fps": 60,
+        "explanation": "[15-18] The scene then switches, showing two hands placing the black plastic container on a metal machine, pulling out plastic wrap, and starting to seal the container."
+    },
+    {
+        "second": 18,
+        "frame_index": 58,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/M2dL-AFHpMA/output_frames/sec_18_idx_58.jpg",
+        "fps": 60,
+        "explanation": "[15-18] The scene then switches, showing two hands placing the black plastic container on a metal machine, pulling out plastic wrap, and starting to seal the container."
+    },
+    {
+        "second": 19,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/M2dL-AFHpMA/output_frames/sec_19_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[18-23] Then two hands put the sealed black container into the brown lunch box. Finally, on a metal countertop, the food-filled lunch box is closed with a lid."
+    },
+    {
+        "second": 20,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/M2dL-AFHpMA/output_frames/sec_20_idx_7.jpg",
+        "fps": 60,
+        "explanation": "[18-23] Then two hands put the sealed black container into the brown lunch box. Finally, on a metal countertop, the food-filled lunch box is closed with a lid."
+    },
+    {
+        "second": 21,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/M2dL-AFHpMA/output_frames/sec_21_idx_7.jpg",
+        "fps": 60,
+        "explanation": "[18-23] Then two hands put the sealed black container into the brown lunch box. Finally, on a metal countertop, the food-filled lunch box is closed with a lid."
+    },
+    {
+        "second": 22,
+        "frame_index": 57,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/M2dL-AFHpMA/output_frames/sec_22_idx_57.jpg",
+        "fps": 60,
+        "explanation": "[18-23] Then two hands put the sealed black container into the brown lunch box. Finally, on a metal countertop, the food-filled lunch box is closed with a lid."
+    },
+    {
+        "second": 23,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/M2dL-AFHpMA/output_frames/sec_23_idx_27.jpg",
+        "fps": 60,
+        "explanation": "[18-23] Then two hands put the sealed black container into the brown lunch box. Finally, on a metal countertop, the food-filled lunch box is closed with a lid."
+    }
+]

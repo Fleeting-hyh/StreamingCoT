@@ -1,0 +1,58 @@
+[
+    {
+        "second": 0,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/G_OmbpY8z9g/output_frames/sec_0_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[0-0] Five girls in Christmas costumes, with black gloves on their arms and black boots on their feet, are standing in the middle of a beautifully decorated hall, with their arms crossed in front of them. The background is a tree with white flowers. They are smiling and looking forward."
+    },
+    {
+        "second": 1,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/G_OmbpY8z9g/output_frames/sec_1_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Then the two girls on the right lift their right legs together, then put them down, followed by the girl in the middle lifting her right leg and then putting it down, and then the two girls on the left lifting their right legs together and then putting them down."
+    },
+    {
+        "second": 2,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/G_OmbpY8z9g/output_frames/sec_2_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Then the two girls on the right lift their right legs together, then put them down, followed by the girl in the middle lifting her right leg and then putting it down, and then the two girls on the left lifting their right legs together and then putting them down."
+    },
+    {
+        "second": 3,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/G_OmbpY8z9g/output_frames/sec_3_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[2-5] Then the two girls on the right lean their upper bodies to the right, and then the girls' upper bodies from right to left lean to the right in turn."
+    },
+    {
+        "second": 4,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/G_OmbpY8z9g/output_frames/sec_4_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[2-5] Then the two girls on the right lean their upper bodies to the right, and then the girls' upper bodies from right to left lean to the right in turn."
+    },
+    {
+        "second": 5,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/G_OmbpY8z9g/output_frames/sec_5_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[2-5] Then the two girls on the right lean their upper bodies to the right, and then the girls' upper bodies from right to left lean to the right in turn."
+    },
+    {
+        "second": 6,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/G_OmbpY8z9g/output_frames/sec_6_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[5-7] Then they all lean forward slightly, then start nodding, moving from right to left with continuous nodding, and then they all straighten up, facing forward with happy smiles on their faces."
+    },
+    {
+        "second": 7,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/G_OmbpY8z9g/output_frames/sec_7_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[5-7] Then they all lean forward slightly, then start nodding, moving from right to left with continuous nodding, and then they all straighten up, facing forward with happy smiles on their faces."
+    }
+]

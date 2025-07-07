@@ -1,0 +1,65 @@
+[
+    {
+        "second": 0,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HeaQV7yYG9w/output_frames/sec_0_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[0-0] On a sunny beach, a woman in a camouflage bikini is standing on the sand. In the background, some people are playing in the sea, there are beach umbrellas on the sand, and some houses in the distance."
+    },
+    {
+        "second": 1,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HeaQV7yYG9w/output_frames/sec_1_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Then the woman in the camouflage bikini is walking towards a couple. There are people coming and going on the beach, and some people swimming in the sea in the distance."
+    },
+    {
+        "second": 2,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HeaQV7yYG9w/output_frames/sec_2_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Then the woman in the camouflage bikini is walking towards a couple. There are people coming and going on the beach, and some people swimming in the sea in the distance."
+    },
+    {
+        "second": 3,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HeaQV7yYG9w/output_frames/sec_3_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Then the woman in the camouflage bikini is walking towards a couple. There are people coming and going on the beach, and some people swimming in the sea in the distance."
+    },
+    {
+        "second": 4,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HeaQV7yYG9w/output_frames/sec_4_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Then the woman in the camouflage bikini is walking towards a couple. There are people coming and going on the beach, and some people swimming in the sea in the distance."
+    },
+    {
+        "second": 5,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HeaQV7yYG9w/output_frames/sec_5_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[4-8] Finally, the scene switches to a woman in a bikini leading a child playing in the sea, a big wave is approaching them."
+    },
+    {
+        "second": 6,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HeaQV7yYG9w/output_frames/sec_6_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[4-8] Finally, the scene switches to a woman in a bikini leading a child playing in the sea, a big wave is approaching them."
+    },
+    {
+        "second": 7,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HeaQV7yYG9w/output_frames/sec_7_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[4-8] Finally, the scene switches to a woman in a bikini leading a child playing in the sea, a big wave is approaching them."
+    },
+    {
+        "second": 8,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HeaQV7yYG9w/output_frames/sec_8_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[4-8] Finally, the scene switches to a woman in a bikini leading a child playing in the sea, a big wave is approaching them."
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "second": 0,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Rk0xL-NSHZ0/output_frames/sec_0_idx_8.jpg",
+        "fps": 60,
+        "explanation": "[0-0] A little boy, wearing a navy blue top and blue jeans, strikes a running pose inside a snack shop. The background features white walls, beige tile flooring, snack-filled shelves, and a black monitor on the back wall."
+    },
+    {
+        "second": 1,
+        "frame_index": 58,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Rk0xL-NSHZ0/output_frames/sec_1_idx_58.jpg",
+        "fps": 60,
+        "explanation": "[0-5] Then, the boy runs out of the snack shop and hides around the corner of the hallway, where a man in black clothes can be seen chasing him out of the shop."
+    },
+    {
+        "second": 2,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Rk0xL-NSHZ0/output_frames/sec_2_idx_17.jpg",
+        "fps": 60,
+        "explanation": "[0-5] Then, the boy runs out of the snack shop and hides around the corner of the hallway, where a man in black clothes can be seen chasing him out of the shop."
+    },
+    {
+        "second": 3,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Rk0xL-NSHZ0/output_frames/sec_3_idx_7.jpg",
+        "fps": 60,
+        "explanation": "[0-5] Then, the boy runs out of the snack shop and hides around the corner of the hallway, where a man in black clothes can be seen chasing him out of the shop."
+    },
+    {
+        "second": 4,
+        "frame_index": 59,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Rk0xL-NSHZ0/output_frames/sec_4_idx_59.jpg",
+        "fps": 60,
+        "explanation": "[0-5] Then, the boy runs out of the snack shop and hides around the corner of the hallway, where a man in black clothes can be seen chasing him out of the shop."
+    },
+    {
+        "second": 5,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Rk0xL-NSHZ0/output_frames/sec_5_idx_14.jpg",
+        "fps": 60,
+        "explanation": "[0-5] Then, the boy runs out of the snack shop and hides around the corner of the hallway, where a man in black clothes can be seen chasing him out of the shop."
+    },
+    {
+        "second": 6,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Rk0xL-NSHZ0/output_frames/sec_6_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[5-9] Finally, the camera zooms in, focusing on the boy's smiling face."
+    },
+    {
+        "second": 7,
+        "frame_index": 47,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Rk0xL-NSHZ0/output_frames/sec_7_idx_47.jpg",
+        "fps": 60,
+        "explanation": "[5-9] Finally, the camera zooms in, focusing on the boy's smiling face."
+    },
+    {
+        "second": 8,
+        "frame_index": 35,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Rk0xL-NSHZ0/output_frames/sec_8_idx_35.jpg",
+        "fps": 60,
+        "explanation": "[5-9] Finally, the camera zooms in, focusing on the boy's smiling face."
+    },
+    {
+        "second": 9,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Rk0xL-NSHZ0/output_frames/sec_9_idx_20.jpg",
+        "fps": 60,
+        "explanation": "[5-9] Finally, the camera zooms in, focusing on the boy's smiling face."
+    }
+]

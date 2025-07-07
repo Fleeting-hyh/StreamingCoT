@@ -1,0 +1,79 @@
+[
+    {
+        "second": 0,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/23ja5baHM00/output_frames/sec_0_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[0-0] The video starts with a translucent plastic mold."
+    },
+    {
+        "second": 1,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/23ja5baHM00/output_frames/sec_1_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Next, a cup of red liquid is poured into the mold. The scene changes to a red tray with six molds, each filled with two-thirds full of red liquid. Then, a hand uses a flat wooden stick to vertically insert it into the middle of the six molds one by one."
+    },
+    {
+        "second": 2,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/23ja5baHM00/output_frames/sec_2_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Next, a cup of red liquid is poured into the mold. The scene changes to a red tray with six molds, each filled with two-thirds full of red liquid. Then, a hand uses a flat wooden stick to vertically insert it into the middle of the six molds one by one."
+    },
+    {
+        "second": 3,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/23ja5baHM00/output_frames/sec_3_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Next, a cup of red liquid is poured into the mold. The scene changes to a red tray with six molds, each filled with two-thirds full of red liquid. Then, a hand uses a flat wooden stick to vertically insert it into the middle of the six molds one by one."
+    },
+    {
+        "second": 4,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/23ja5baHM00/output_frames/sec_4_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[3-7] Immediately after, a layer of milky white liquid is poured onto the top of the red liquid. The camera zooms in on a close-up of a mold, green liquid is poured into the mold, the scene cuts back, and green liquid is poured into each mold. Then, the white subtitle \"FREEZE\" appears in the middle of the screen, and then a hand takes the mold away."
+    },
+    {
+        "second": 5,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/23ja5baHM00/output_frames/sec_5_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[3-7] Immediately after, a layer of milky white liquid is poured onto the top of the red liquid. The camera zooms in on a close-up of a mold, green liquid is poured into the mold, the scene cuts back, and green liquid is poured into each mold. Then, the white subtitle \"FREEZE\" appears in the middle of the screen, and then a hand takes the mold away."
+    },
+    {
+        "second": 6,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/23ja5baHM00/output_frames/sec_6_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[3-7] Immediately after, a layer of milky white liquid is poured onto the top of the red liquid. The camera zooms in on a close-up of a mold, green liquid is poured into the mold, the scene cuts back, and green liquid is poured into each mold. Then, the white subtitle \"FREEZE\" appears in the middle of the screen, and then a hand takes the mold away."
+    },
+    {
+        "second": 7,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/23ja5baHM00/output_frames/sec_7_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[3-7] Immediately after, a layer of milky white liquid is poured onto the top of the red liquid. The camera zooms in on a close-up of a mold, green liquid is poured into the mold, the scene cuts back, and green liquid is poured into each mold. Then, the white subtitle \"FREEZE\" appears in the middle of the screen, and then a hand takes the mold away."
+    },
+    {
+        "second": 8,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/23ja5baHM00/output_frames/sec_8_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[7-10] Finally, four watermelon popsicles are placed in a white round plate, arranged in a cross shape. Then the picture rotates and switches. A pair of hands put the white plate with popsicles on the blue table and pick up a popsicle. The camera zooms in, and the popsicle that has been bitten is put back on top of other popsicles in the plate."
+    },
+    {
+        "second": 9,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/23ja5baHM00/output_frames/sec_9_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[7-10] Finally, four watermelon popsicles are placed in a white round plate, arranged in a cross shape. Then the picture rotates and switches. A pair of hands put the white plate with popsicles on the blue table and pick up a popsicle. The camera zooms in, and the popsicle that has been bitten is put back on top of other popsicles in the plate."
+    },
+    {
+        "second": 10,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/23ja5baHM00/output_frames/sec_10_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[7-10] Finally, four watermelon popsicles are placed in a white round plate, arranged in a cross shape. Then the picture rotates and switches. A pair of hands put the white plate with popsicles on the blue table and pick up a popsicle. The camera zooms in, and the popsicle that has been bitten is put back on top of other popsicles in the plate."
+    }
+]

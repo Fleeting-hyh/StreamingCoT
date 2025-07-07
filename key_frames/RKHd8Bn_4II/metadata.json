@@ -1,0 +1,268 @@
+[
+    {
+        "second": 0,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RKHd8Bn_4II/output_frames/sec_0_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A man wearing a burgundy T-shirt and jeans is walking in the living room. The living room is furnished with a gray carpet, picture frames on the white walls, beige pillows piled on the same color sofa, and a table lamp on a brown wooden table."
+    },
+    {
+        "second": 1,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RKHd8Bn_4II/output_frames/sec_1_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[0-5] The man takes a few steps forward, suddenly stops, turns back and quickly lies down next to the sofa, then lifts the top of the sofa, crawls underneath and disappears from the picture."
+    },
+    {
+        "second": 2,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RKHd8Bn_4II/output_frames/sec_2_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[0-5] The man takes a few steps forward, suddenly stops, turns back and quickly lies down next to the sofa, then lifts the top of the sofa, crawls underneath and disappears from the picture."
+    },
+    {
+        "second": 3,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RKHd8Bn_4II/output_frames/sec_3_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[0-5] The man takes a few steps forward, suddenly stops, turns back and quickly lies down next to the sofa, then lifts the top of the sofa, crawls underneath and disappears from the picture."
+    },
+    {
+        "second": 4,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RKHd8Bn_4II/output_frames/sec_4_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-5] The man takes a few steps forward, suddenly stops, turns back and quickly lies down next to the sofa, then lifts the top of the sofa, crawls underneath and disappears from the picture."
+    },
+    {
+        "second": 5,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RKHd8Bn_4II/output_frames/sec_5_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[0-5] The man takes a few steps forward, suddenly stops, turns back and quickly lies down next to the sofa, then lifts the top of the sofa, crawls underneath and disappears from the picture."
+    },
+    {
+        "second": 6,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RKHd8Bn_4II/output_frames/sec_6_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[5-11] The scene switches to another room with various farming tools and a bicycle hanging on the wall. The man walks forward, suddenly looks to the right, then runs back quickly, opens the blue lid of a gray trash can by the wall, jumps in. Then he closes the lid and disappears from the picture."
+    },
+    {
+        "second": 7,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RKHd8Bn_4II/output_frames/sec_7_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[5-11] The scene switches to another room with various farming tools and a bicycle hanging on the wall. The man walks forward, suddenly looks to the right, then runs back quickly, opens the blue lid of a gray trash can by the wall, jumps in. Then he closes the lid and disappears from the picture."
+    },
+    {
+        "second": 8,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RKHd8Bn_4II/output_frames/sec_8_idx_24.jpg",
+        "fps": 30,
+        "explanation": "[5-11] The scene switches to another room with various farming tools and a bicycle hanging on the wall. The man walks forward, suddenly looks to the right, then runs back quickly, opens the blue lid of a gray trash can by the wall, jumps in. Then he closes the lid and disappears from the picture."
+    },
+    {
+        "second": 9,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RKHd8Bn_4II/output_frames/sec_9_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[5-11] The scene switches to another room with various farming tools and a bicycle hanging on the wall. The man walks forward, suddenly looks to the right, then runs back quickly, opens the blue lid of a gray trash can by the wall, jumps in. Then he closes the lid and disappears from the picture."
+    },
+    {
+        "second": 10,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RKHd8Bn_4II/output_frames/sec_10_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[5-11] The scene switches to another room with various farming tools and a bicycle hanging on the wall. The man walks forward, suddenly looks to the right, then runs back quickly, opens the blue lid of a gray trash can by the wall, jumps in. Then he closes the lid and disappears from the picture."
+    },
+    {
+        "second": 11,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RKHd8Bn_4II/output_frames/sec_11_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[5-11] The scene switches to another room with various farming tools and a bicycle hanging on the wall. The man walks forward, suddenly looks to the right, then runs back quickly, opens the blue lid of a gray trash can by the wall, jumps in. Then he closes the lid and disappears from the picture."
+    },
+    {
+        "second": 12,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RKHd8Bn_4II/output_frames/sec_12_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[11-17] The scene then switches again, the man walks into a kitchen with brown wooden floors, white islands and cabinets, and a gray refrigerator standing next to the cabinet. The man suddenly stops, turns his head and looks back, then falls on a white cushion on the floor, he pulls the cushion to roll, wrapping himself in it."
+    },
+    {
+        "second": 13,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RKHd8Bn_4II/output_frames/sec_13_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[11-17] The scene then switches again, the man walks into a kitchen with brown wooden floors, white islands and cabinets, and a gray refrigerator standing next to the cabinet. The man suddenly stops, turns his head and looks back, then falls on a white cushion on the floor, he pulls the cushion to roll, wrapping himself in it."
+    },
+    {
+        "second": 14,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RKHd8Bn_4II/output_frames/sec_14_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[11-17] The scene then switches again, the man walks into a kitchen with brown wooden floors, white islands and cabinets, and a gray refrigerator standing next to the cabinet. The man suddenly stops, turns his head and looks back, then falls on a white cushion on the floor, he pulls the cushion to roll, wrapping himself in it."
+    },
+    {
+        "second": 15,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RKHd8Bn_4II/output_frames/sec_15_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[11-17] The scene then switches again, the man walks into a kitchen with brown wooden floors, white islands and cabinets, and a gray refrigerator standing next to the cabinet. The man suddenly stops, turns his head and looks back, then falls on a white cushion on the floor, he pulls the cushion to roll, wrapping himself in it."
+    },
+    {
+        "second": 16,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RKHd8Bn_4II/output_frames/sec_16_idx_24.jpg",
+        "fps": 30,
+        "explanation": "[11-17] The scene then switches again, the man walks into a kitchen with brown wooden floors, white islands and cabinets, and a gray refrigerator standing next to the cabinet. The man suddenly stops, turns his head and looks back, then falls on a white cushion on the floor, he pulls the cushion to roll, wrapping himself in it."
+    },
+    {
+        "second": 17,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RKHd8Bn_4II/output_frames/sec_17_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[11-17] The scene then switches again, the man walks into a kitchen with brown wooden floors, white islands and cabinets, and a gray refrigerator standing next to the cabinet. The man suddenly stops, turns his head and looks back, then falls on a white cushion on the floor, he pulls the cushion to roll, wrapping himself in it."
+    },
+    {
+        "second": 18,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RKHd8Bn_4II/output_frames/sec_18_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[17-22] The scene switches to a bedroom, the floor is also covered with gray carpet, the walls are decorated with glass windows and white curtains. The man walks while throwing the blanket in his hand on the white quilt on the bed. Suddenly, the man stops in horror and runs back, he lifts the quilt, gets under it, and disappears from the picture."
+    },
+    {
+        "second": 19,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RKHd8Bn_4II/output_frames/sec_19_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[17-22] The scene switches to a bedroom, the floor is also covered with gray carpet, the walls are decorated with glass windows and white curtains. The man walks while throwing the blanket in his hand on the white quilt on the bed. Suddenly, the man stops in horror and runs back, he lifts the quilt, gets under it, and disappears from the picture."
+    },
+    {
+        "second": 20,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RKHd8Bn_4II/output_frames/sec_20_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[17-22] The scene switches to a bedroom, the floor is also covered with gray carpet, the walls are decorated with glass windows and white curtains. The man walks while throwing the blanket in his hand on the white quilt on the bed. Suddenly, the man stops in horror and runs back, he lifts the quilt, gets under it, and disappears from the picture."
+    },
+    {
+        "second": 21,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RKHd8Bn_4II/output_frames/sec_21_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[17-22] The scene switches to a bedroom, the floor is also covered with gray carpet, the walls are decorated with glass windows and white curtains. The man walks while throwing the blanket in his hand on the white quilt on the bed. Suddenly, the man stops in horror and runs back, he lifts the quilt, gets under it, and disappears from the picture."
+    },
+    {
+        "second": 22,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RKHd8Bn_4II/output_frames/sec_22_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[17-22] The scene switches to a bedroom, the floor is also covered with gray carpet, the walls are decorated with glass windows and white curtains. The man walks while throwing the blanket in his hand on the white quilt on the bed. Suddenly, the man stops in horror and runs back, he lifts the quilt, gets under it, and disappears from the picture."
+    },
+    {
+        "second": 23,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RKHd8Bn_4II/output_frames/sec_23_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[22-26] The scene cuts back to the other side of the living room, where a TV is placed on a white cabinet and a dark gray sofa is placed next to the TV. The man walks into the living room from the right, suddenly stops and looks around in panic, then runs to the sofa, jumps, and hides perfectly behind the sofa."
+    },
+    {
+        "second": 24,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RKHd8Bn_4II/output_frames/sec_24_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[22-26] The scene cuts back to the other side of the living room, where a TV is placed on a white cabinet and a dark gray sofa is placed next to the TV. The man walks into the living room from the right, suddenly stops and looks around in panic, then runs to the sofa, jumps, and hides perfectly behind the sofa."
+    },
+    {
+        "second": 25,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RKHd8Bn_4II/output_frames/sec_25_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[22-26] The scene cuts back to the other side of the living room, where a TV is placed on a white cabinet and a dark gray sofa is placed next to the TV. The man walks into the living room from the right, suddenly stops and looks around in panic, then runs to the sofa, jumps, and hides perfectly behind the sofa."
+    },
+    {
+        "second": 26,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RKHd8Bn_4II/output_frames/sec_26_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[22-26] The scene cuts back to the other side of the living room, where a TV is placed on a white cabinet and a dark gray sofa is placed next to the TV. The man walks into the living room from the right, suddenly stops and looks around in panic, then runs to the sofa, jumps, and hides perfectly behind the sofa."
+    },
+    {
+        "second": 27,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RKHd8Bn_4II/output_frames/sec_27_idx_24.jpg",
+        "fps": 30,
+        "explanation": "[26-31] The scene switches to another bedroom with a small bed covered with yellow-gray patterned quilt and two large pillows placed on the gray carpet against the bed. The man shakes the dark gray blanket on the bed and walks forward. Suddenly he stops, turns around, grabs the two large pillows and jumps onto the bed, hiding himself with the pillows, and disappears from the picture."
+    },
+    {
+        "second": 28,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RKHd8Bn_4II/output_frames/sec_28_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[26-31] The scene switches to another bedroom with a small bed covered with yellow-gray patterned quilt and two large pillows placed on the gray carpet against the bed. The man shakes the dark gray blanket on the bed and walks forward. Suddenly he stops, turns around, grabs the two large pillows and jumps onto the bed, hiding himself with the pillows, and disappears from the picture."
+    },
+    {
+        "second": 29,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RKHd8Bn_4II/output_frames/sec_29_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[26-31] The scene switches to another bedroom with a small bed covered with yellow-gray patterned quilt and two large pillows placed on the gray carpet against the bed. The man shakes the dark gray blanket on the bed and walks forward. Suddenly he stops, turns around, grabs the two large pillows and jumps onto the bed, hiding himself with the pillows, and disappears from the picture."
+    },
+    {
+        "second": 30,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RKHd8Bn_4II/output_frames/sec_30_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[26-31] The scene switches to another bedroom with a small bed covered with yellow-gray patterned quilt and two large pillows placed on the gray carpet against the bed. The man shakes the dark gray blanket on the bed and walks forward. Suddenly he stops, turns around, grabs the two large pillows and jumps onto the bed, hiding himself with the pillows, and disappears from the picture."
+    },
+    {
+        "second": 31,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RKHd8Bn_4II/output_frames/sec_31_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[26-31] The scene switches to another bedroom with a small bed covered with yellow-gray patterned quilt and two large pillows placed on the gray carpet against the bed. The man shakes the dark gray blanket on the bed and walks forward. Suddenly he stops, turns around, grabs the two large pillows and jumps onto the bed, hiding himself with the pillows, and disappears from the picture."
+    },
+    {
+        "second": 32,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RKHd8Bn_4II/output_frames/sec_32_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[31-37] Then, the man walks into the room from a white door, next to the door is a dressing table with a round mirror and a pot of green plants. The man suddenly stops in a panic, looks to the right, then quickly runs to the door, picks up a black dress from the corner of the wall. He quickly puts on the dress and squats in the corner."
+    },
+    {
+        "second": 33,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RKHd8Bn_4II/output_frames/sec_33_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[31-37] Then, the man walks into the room from a white door, next to the door is a dressing table with a round mirror and a pot of green plants. The man suddenly stops in a panic, looks to the right, then quickly runs to the door, picks up a black dress from the corner of the wall. He quickly puts on the dress and squats in the corner."
+    },
+    {
+        "second": 34,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RKHd8Bn_4II/output_frames/sec_34_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[31-37] Then, the man walks into the room from a white door, next to the door is a dressing table with a round mirror and a pot of green plants. The man suddenly stops in a panic, looks to the right, then quickly runs to the door, picks up a black dress from the corner of the wall. He quickly puts on the dress and squats in the corner."
+    },
+    {
+        "second": 35,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RKHd8Bn_4II/output_frames/sec_35_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[31-37] Then, the man walks into the room from a white door, next to the door is a dressing table with a round mirror and a pot of green plants. The man suddenly stops in a panic, looks to the right, then quickly runs to the door, picks up a black dress from the corner of the wall. He quickly puts on the dress and squats in the corner."
+    },
+    {
+        "second": 36,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RKHd8Bn_4II/output_frames/sec_36_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[31-37] Then, the man walks into the room from a white door, next to the door is a dressing table with a round mirror and a pot of green plants. The man suddenly stops in a panic, looks to the right, then quickly runs to the door, picks up a black dress from the corner of the wall. He quickly puts on the dress and squats in the corner."
+    },
+    {
+        "second": 37,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RKHd8Bn_4II/output_frames/sec_37_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[31-37] Then, the man walks into the room from a white door, next to the door is a dressing table with a round mirror and a pot of green plants. The man suddenly stops in a panic, looks to the right, then quickly runs to the door, picks up a black dress from the corner of the wall. He quickly puts on the dress and squats in the corner."
+    }
+]

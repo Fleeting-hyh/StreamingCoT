@@ -1,0 +1,51 @@
+[
+    {
+        "second": 0,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0JF6GeRjVlc/output_frames/sec_0_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[0-0] It is a split screen, the upper and lower parts are the same, but the lower part is in gray. A woman wearing a black coat, jeans, and glasses is facing right, half-squatting on a green grassland. The English subtitle \"doodle by LeopARTnik\" appears on the left of the upper part, and the white subtitle \"@uiltopia\" appears in the upper right corner of the lower part."
+    },
+    {
+        "second": 1,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0JF6GeRjVlc/output_frames/sec_1_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[0-2] First, the woman in the black coat raises both hands to the right, her left hand wearing a glove, and her right hand extends a finger and keeps tapping on the left hand."
+    },
+    {
+        "second": 2,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0JF6GeRjVlc/output_frames/sec_2_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[0-2] First, the woman in the black coat raises both hands to the right, her left hand wearing a glove, and her right hand extends a finger and keeps tapping on the left hand."
+    },
+    {
+        "second": 3,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0JF6GeRjVlc/output_frames/sec_3_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[2-7] Finally, in the upper part, an owl wearing a blue cloak and a blue hat walks from right to left and out of the screen. The subtitles in the upper part move from left to right. In the lower part, a naked owl walks from right to left and out of the screen. The woman in the black coat turns her head following the owl's movement, looks down to the left, then turns her head to the front, smiles, and opens her hands."
+    },
+    {
+        "second": 4,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0JF6GeRjVlc/output_frames/sec_4_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[2-7] Finally, in the upper part, an owl wearing a blue cloak and a blue hat walks from right to left and out of the screen. The subtitles in the upper part move from left to right. In the lower part, a naked owl walks from right to left and out of the screen. The woman in the black coat turns her head following the owl's movement, looks down to the left, then turns her head to the front, smiles, and opens her hands."
+    },
+    {
+        "second": 5,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0JF6GeRjVlc/output_frames/sec_5_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[2-7] Finally, in the upper part, an owl wearing a blue cloak and a blue hat walks from right to left and out of the screen. The subtitles in the upper part move from left to right. In the lower part, a naked owl walks from right to left and out of the screen. The woman in the black coat turns her head following the owl's movement, looks down to the left, then turns her head to the front, smiles, and opens her hands."
+    },
+    {
+        "second": 6,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0JF6GeRjVlc/output_frames/sec_6_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[2-7] Finally, in the upper part, an owl wearing a blue cloak and a blue hat walks from right to left and out of the screen. The subtitles in the upper part move from left to right. In the lower part, a naked owl walks from right to left and out of the screen. The woman in the black coat turns her head following the owl's movement, looks down to the left, then turns her head to the front, smiles, and opens her hands."
+    }
+]

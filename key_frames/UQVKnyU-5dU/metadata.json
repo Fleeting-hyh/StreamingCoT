@@ -1,0 +1,65 @@
+[
+    {
+        "second": 0,
+        "frame_index": 57,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UQVKnyU-5dU/output_frames/sec_0_idx_57.jpg",
+        "fps": 60,
+        "explanation": "[0-0] The scene is in a kitchen, a man in an orange polo shirt is holding a piece of chocolate, looking at the chocolate and smiling, his upper lip covered with chocolate sauce."
+    },
+    {
+        "second": 1,
+        "frame_index": 43,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UQVKnyU-5dU/output_frames/sec_1_idx_43.jpg",
+        "fps": 60,
+        "explanation": "[0-2] Then the man closes his eyes and takes a bite of the chocolate. A hand holding a tissue appears and starts wiping the chocolate sauce from his mouth. The man looks to the side in surprise."
+    },
+    {
+        "second": 2,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UQVKnyU-5dU/output_frames/sec_2_idx_7.jpg",
+        "fps": 60,
+        "explanation": "[0-2] Then the man closes his eyes and takes a bite of the chocolate. A hand holding a tissue appears and starts wiping the chocolate sauce from his mouth. The man looks to the side in surprise."
+    },
+    {
+        "second": 3,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UQVKnyU-5dU/output_frames/sec_3_idx_4.jpg",
+        "fps": 60,
+        "explanation": "[2-4] Then the camera moves to the left, showing a woman in a fluorescent green top, also holding a piece of chocolate, her mouth also covered in chocolate sauce. The woman takes a bite of the chocolate, and a hand holding a tissue appears from the left side of the screen, wiping the chocolate sauce off her mouth. The woman turns her head to the side."
+    },
+    {
+        "second": 4,
+        "frame_index": 40,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UQVKnyU-5dU/output_frames/sec_4_idx_40.jpg",
+        "fps": 60,
+        "explanation": "[2-4] Then the camera moves to the left, showing a woman in a fluorescent green top, also holding a piece of chocolate, her mouth also covered in chocolate sauce. The woman takes a bite of the chocolate, and a hand holding a tissue appears from the left side of the screen, wiping the chocolate sauce off her mouth. The woman turns her head to the side."
+    },
+    {
+        "second": 5,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UQVKnyU-5dU/output_frames/sec_5_idx_11.jpg",
+        "fps": 60,
+        "explanation": "[4-8] Finally, a little boy in a turquoise T-shirt and orange shorts appears on the screen. His face is covered in chocolate sauce and he is holding a piece of chocolate. The boy then twists his body and laughs happily."
+    },
+    {
+        "second": 6,
+        "frame_index": 50,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UQVKnyU-5dU/output_frames/sec_6_idx_50.jpg",
+        "fps": 60,
+        "explanation": "[4-8] Finally, a little boy in a turquoise T-shirt and orange shorts appears on the screen. His face is covered in chocolate sauce and he is holding a piece of chocolate. The boy then twists his body and laughs happily."
+    },
+    {
+        "second": 7,
+        "frame_index": 57,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UQVKnyU-5dU/output_frames/sec_7_idx_57.jpg",
+        "fps": 60,
+        "explanation": "[4-8] Finally, a little boy in a turquoise T-shirt and orange shorts appears on the screen. His face is covered in chocolate sauce and he is holding a piece of chocolate. The boy then twists his body and laughs happily."
+    },
+    {
+        "second": 8,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UQVKnyU-5dU/output_frames/sec_8_idx_1.jpg",
+        "fps": 60,
+        "explanation": "[4-8] Finally, a little boy in a turquoise T-shirt and orange shorts appears on the screen. His face is covered in chocolate sauce and he is holding a piece of chocolate. The boy then twists his body and laughs happily."
+    }
+]

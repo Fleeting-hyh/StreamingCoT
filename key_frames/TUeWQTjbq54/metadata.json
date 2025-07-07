@@ -1,0 +1,58 @@
+[
+    {
+        "second": 0,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TUeWQTjbq54/output_frames/sec_0_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[0-0] The camera focuses on a large black frying pan on a gray-white table."
+    },
+    {
+        "second": 1,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TUeWQTjbq54/output_frames/sec_1_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Then a hand appears at the bottom of the screen, placing a rabbit-shaped mold into the black frying pan. A hand on the left side of the screen then uses a piping bag to squeeze chocolate batter into the rabbit mold. After filling the mold, the hand begins to squeeze plain batter around the rabbit shape until it forms a circle within the pan."
+    },
+    {
+        "second": 2,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TUeWQTjbq54/output_frames/sec_2_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Then a hand appears at the bottom of the screen, placing a rabbit-shaped mold into the black frying pan. A hand on the left side of the screen then uses a piping bag to squeeze chocolate batter into the rabbit mold. After filling the mold, the hand begins to squeeze plain batter around the rabbit shape until it forms a circle within the pan."
+    },
+    {
+        "second": 3,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TUeWQTjbq54/output_frames/sec_3_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[2-5] The batter in the pan slowly spreads outwards. A hand reaches in from the right side of the screen and carefully removes the rabbit mold, revealing a clear rabbit shape in the batter. The scene then cuts to the batter in the pan, now cooked into a pancake. The pancake is lifted from the pan with a utensil."
+    },
+    {
+        "second": 4,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TUeWQTjbq54/output_frames/sec_4_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[2-5] The batter in the pan slowly spreads outwards. A hand reaches in from the right side of the screen and carefully removes the rabbit mold, revealing a clear rabbit shape in the batter. The scene then cuts to the batter in the pan, now cooked into a pancake. The pancake is lifted from the pan with a utensil."
+    },
+    {
+        "second": 5,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TUeWQTjbq54/output_frames/sec_5_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[2-5] The batter in the pan slowly spreads outwards. A hand reaches in from the right side of the screen and carefully removes the rabbit mold, revealing a clear rabbit shape in the batter. The scene then cuts to the batter in the pan, now cooked into a pancake. The pancake is lifted from the pan with a utensil."
+    },
+    {
+        "second": 6,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TUeWQTjbq54/output_frames/sec_6_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[5-7] The scene cuts again to a long, gray utensil holding a cooked pancake over the black frying pan. The utensil then slides between the pancake and the pan, separating them. The scene cuts one last time to a metal plate with two cooked pancakes, each with a rabbit design. Beside the plate is a bowl of chocolate sauce. On the gray-white table is a wooden bowl filled with cocoa powder."
+    },
+    {
+        "second": 7,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TUeWQTjbq54/output_frames/sec_7_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[5-7] The scene cuts again to a long, gray utensil holding a cooked pancake over the black frying pan. The utensil then slides between the pancake and the pan, separating them. The scene cuts one last time to a metal plate with two cooked pancakes, each with a rabbit design. Beside the plate is a bowl of chocolate sauce. On the gray-white table is a wooden bowl filled with cocoa powder."
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "second": 0,
+        "frame_index": 42,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/L6WLTQJcMWg/output_frames/sec_0_idx_42.jpg",
+        "fps": 60,
+        "explanation": "[0-0] Inside a basketball court, a black-haired man wearing a red shirt and gray pants is dribbling a basketball."
+    },
+    {
+        "second": 1,
+        "frame_index": 59,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/L6WLTQJcMWg/output_frames/sec_1_idx_59.jpg",
+        "fps": 60,
+        "explanation": "[0-7] The man in red dribbles towards the hoop, then jumps up to shoot. However, the ball doesn't go in and instead hits the head of another black-haired man wearing a green shirt and black pants, who just walked into the court. The ball bounces off the head of the man in green and goes into the basket. The man in green continues walking forward."
+    },
+    {
+        "second": 2,
+        "frame_index": 38,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/L6WLTQJcMWg/output_frames/sec_2_idx_38.jpg",
+        "fps": 60,
+        "explanation": "[0-7] The man in red dribbles towards the hoop, then jumps up to shoot. However, the ball doesn't go in and instead hits the head of another black-haired man wearing a green shirt and black pants, who just walked into the court. The ball bounces off the head of the man in green and goes into the basket. The man in green continues walking forward."
+    },
+    {
+        "second": 3,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/L6WLTQJcMWg/output_frames/sec_3_idx_29.jpg",
+        "fps": 60,
+        "explanation": "[0-7] The man in red dribbles towards the hoop, then jumps up to shoot. However, the ball doesn't go in and instead hits the head of another black-haired man wearing a green shirt and black pants, who just walked into the court. The ball bounces off the head of the man in green and goes into the basket. The man in green continues walking forward."
+    },
+    {
+        "second": 4,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/L6WLTQJcMWg/output_frames/sec_4_idx_3.jpg",
+        "fps": 60,
+        "explanation": "[0-7] The man in red dribbles towards the hoop, then jumps up to shoot. However, the ball doesn't go in and instead hits the head of another black-haired man wearing a green shirt and black pants, who just walked into the court. The ball bounces off the head of the man in green and goes into the basket. The man in green continues walking forward."
+    },
+    {
+        "second": 5,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/L6WLTQJcMWg/output_frames/sec_5_idx_12.jpg",
+        "fps": 60,
+        "explanation": "[0-7] The man in red dribbles towards the hoop, then jumps up to shoot. However, the ball doesn't go in and instead hits the head of another black-haired man wearing a green shirt and black pants, who just walked into the court. The ball bounces off the head of the man in green and goes into the basket. The man in green continues walking forward."
+    },
+    {
+        "second": 6,
+        "frame_index": 47,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/L6WLTQJcMWg/output_frames/sec_6_idx_47.jpg",
+        "fps": 60,
+        "explanation": "[0-7] The man in red dribbles towards the hoop, then jumps up to shoot. However, the ball doesn't go in and instead hits the head of another black-haired man wearing a green shirt and black pants, who just walked into the court. The ball bounces off the head of the man in green and goes into the basket. The man in green continues walking forward."
+    },
+    {
+        "second": 7,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/L6WLTQJcMWg/output_frames/sec_7_idx_29.jpg",
+        "fps": 60,
+        "explanation": "[0-7] The man in red dribbles towards the hoop, then jumps up to shoot. However, the ball doesn't go in and instead hits the head of another black-haired man wearing a green shirt and black pants, who just walked into the court. The ball bounces off the head of the man in green and goes into the basket. The man in green continues walking forward."
+    },
+    {
+        "second": 8,
+        "frame_index": 30,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/L6WLTQJcMWg/output_frames/sec_8_idx_30.jpg",
+        "fps": 60,
+        "explanation": "[7-12] The man in green greets the man in red as he continues walking forward."
+    },
+    {
+        "second": 9,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/L6WLTQJcMWg/output_frames/sec_9_idx_22.jpg",
+        "fps": 60,
+        "explanation": "[7-12] The man in green greets the man in red as he continues walking forward."
+    },
+    {
+        "second": 10,
+        "frame_index": 55,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/L6WLTQJcMWg/output_frames/sec_10_idx_55.jpg",
+        "fps": 60,
+        "explanation": "[7-12] The man in green greets the man in red as he continues walking forward."
+    },
+    {
+        "second": 11,
+        "frame_index": 32,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/L6WLTQJcMWg/output_frames/sec_11_idx_32.jpg",
+        "fps": 60,
+        "explanation": "[7-12] The man in green greets the man in red as he continues walking forward."
+    }
+]

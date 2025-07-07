@@ -1,0 +1,51 @@
+[
+    {
+        "second": 0,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0fNHksyNWTk/output_frames/sec_0_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A man in a black top and a black beanie sits on the stone-paved rooftop of a tall building. To his left is another man wearing a black top and a black bucket hat. Below the building is a road with several parked cars and a black lamppost. In the upper right corner of the frame, a man in a black vest and orange shorts holds a snack, his face full of shock."
+    },
+    {
+        "second": 1,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0fNHksyNWTk/output_frames/sec_1_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[0-6] Immediately, the man in the black beanie jumps from the rooftop onto the black lamppost on the road. The man in the orange shorts in the upper right corner straightens up in shock. The man in the black beanie then slides down the lamppost onto the road and walks to the right."
+    },
+    {
+        "second": 2,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0fNHksyNWTk/output_frames/sec_2_idx_24.jpg",
+        "fps": 30,
+        "explanation": "[0-6] Immediately, the man in the black beanie jumps from the rooftop onto the black lamppost on the road. The man in the orange shorts in the upper right corner straightens up in shock. The man in the black beanie then slides down the lamppost onto the road and walks to the right."
+    },
+    {
+        "second": 3,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0fNHksyNWTk/output_frames/sec_3_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[0-6] Immediately, the man in the black beanie jumps from the rooftop onto the black lamppost on the road. The man in the orange shorts in the upper right corner straightens up in shock. The man in the black beanie then slides down the lamppost onto the road and walks to the right."
+    },
+    {
+        "second": 4,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0fNHksyNWTk/output_frames/sec_4_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[0-6] Immediately, the man in the black beanie jumps from the rooftop onto the black lamppost on the road. The man in the orange shorts in the upper right corner straightens up in shock. The man in the black beanie then slides down the lamppost onto the road and walks to the right."
+    },
+    {
+        "second": 5,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0fNHksyNWTk/output_frames/sec_5_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[0-6] Immediately, the man in the black beanie jumps from the rooftop onto the black lamppost on the road. The man in the orange shorts in the upper right corner straightens up in shock. The man in the black beanie then slides down the lamppost onto the road and walks to the right."
+    },
+    {
+        "second": 6,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0fNHksyNWTk/output_frames/sec_6_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-6] Immediately, the man in the black beanie jumps from the rooftop onto the black lamppost on the road. The man in the orange shorts in the upper right corner straightens up in shock. The man in the black beanie then slides down the lamppost onto the road and walks to the right."
+    }
+]

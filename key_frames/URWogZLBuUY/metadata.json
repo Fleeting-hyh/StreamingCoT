@@ -1,0 +1,44 @@
+[
+    {
+        "second": 0,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/URWogZLBuUY/output_frames/sec_0_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A girl is sitting in a large white container filled with colorful ocean balls, smiling and looking ahead. Someone's left hand is holding some ocean balls, reaching forward."
+    },
+    {
+        "second": 1,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/URWogZLBuUY/output_frames/sec_1_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Then, the left hand throws the ocean balls towards the girl's face, hitting her face. The smile on her face gradually disappears, and she looks a little unhappy."
+    },
+    {
+        "second": 2,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/URWogZLBuUY/output_frames/sec_2_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Then, the left hand throws the ocean balls towards the girl's face, hitting her face. The smile on her face gradually disappears, and she looks a little unhappy."
+    },
+    {
+        "second": 3,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/URWogZLBuUY/output_frames/sec_3_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Then, the left hand throws the ocean balls towards the girl's face, hitting her face. The smile on her face gradually disappears, and she looks a little unhappy."
+    },
+    {
+        "second": 4,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/URWogZLBuUY/output_frames/sec_4_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Then, the left hand throws the ocean balls towards the girl's face, hitting her face. The smile on her face gradually disappears, and she looks a little unhappy."
+    },
+    {
+        "second": 5,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/URWogZLBuUY/output_frames/sec_5_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Then, the left hand throws the ocean balls towards the girl's face, hitting her face. The smile on her face gradually disappears, and she looks a little unhappy."
+    }
+]

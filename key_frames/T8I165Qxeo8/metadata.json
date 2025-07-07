@@ -1,0 +1,205 @@
+[
+    {
+        "second": 0,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/T8I165Qxeo8/output_frames/sec_0_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A man in a dark blue T-shirt and brown shorts is running on a road. There are green grass and green vegetation on the roadside. The white subtitle \"0\" is displayed at the top of the screen."
+    },
+    {
+        "second": 1,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/T8I165Qxeo8/output_frames/sec_1_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[0-6] The man swings his arms and runs forward quickly. Then the subtitles on the screen change to \"20,000\", and the man runs forward quickly with a bag of banknotes in each hand. Subsequently, the text on the screen continues to jump to \"30,000\", and the man runs forward quickly with two bags of banknotes in each hand."
+    },
+    {
+        "second": 2,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/T8I165Qxeo8/output_frames/sec_2_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[0-6] The man swings his arms and runs forward quickly. Then the subtitles on the screen change to \"20,000\", and the man runs forward quickly with a bag of banknotes in each hand. Subsequently, the text on the screen continues to jump to \"30,000\", and the man runs forward quickly with two bags of banknotes in each hand."
+    },
+    {
+        "second": 3,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/T8I165Qxeo8/output_frames/sec_3_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[0-6] The man swings his arms and runs forward quickly. Then the subtitles on the screen change to \"20,000\", and the man runs forward quickly with a bag of banknotes in each hand. Subsequently, the text on the screen continues to jump to \"30,000\", and the man runs forward quickly with two bags of banknotes in each hand."
+    },
+    {
+        "second": 4,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/T8I165Qxeo8/output_frames/sec_4_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-6] The man swings his arms and runs forward quickly. Then the subtitles on the screen change to \"20,000\", and the man runs forward quickly with a bag of banknotes in each hand. Subsequently, the text on the screen continues to jump to \"30,000\", and the man runs forward quickly with two bags of banknotes in each hand."
+    },
+    {
+        "second": 5,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/T8I165Qxeo8/output_frames/sec_5_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[0-6] The man swings his arms and runs forward quickly. Then the subtitles on the screen change to \"20,000\", and the man runs forward quickly with a bag of banknotes in each hand. Subsequently, the text on the screen continues to jump to \"30,000\", and the man runs forward quickly with two bags of banknotes in each hand."
+    },
+    {
+        "second": 6,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/T8I165Qxeo8/output_frames/sec_6_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-6] The man swings his arms and runs forward quickly. Then the subtitles on the screen change to \"20,000\", and the man runs forward quickly with a bag of banknotes in each hand. Subsequently, the text on the screen continues to jump to \"30,000\", and the man runs forward quickly with two bags of banknotes in each hand."
+    },
+    {
+        "second": 7,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/T8I165Qxeo8/output_frames/sec_7_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[6-11] Next, the subtitles on the screen jump to \"40,000.\" At this time, in addition to the four bags of banknotes in his hands, the man also carries a backpack on his back. His speed slows down, but he is still struggling to run forward. The subtitles on the screen jump to \"50,000\", and another backpack full of money appears in front of the man. The text on the screen changes to \"60,000\", the money on his body increases accordingly, and he continues to run forward with a heavy load. At this time, a person in white clothes walks out of the woods behind him."
+    },
+    {
+        "second": 8,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/T8I165Qxeo8/output_frames/sec_8_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[6-11] Next, the subtitles on the screen jump to \"40,000.\" At this time, in addition to the four bags of banknotes in his hands, the man also carries a backpack on his back. His speed slows down, but he is still struggling to run forward. The subtitles on the screen jump to \"50,000\", and another backpack full of money appears in front of the man. The text on the screen changes to \"60,000\", the money on his body increases accordingly, and he continues to run forward with a heavy load. At this time, a person in white clothes walks out of the woods behind him."
+    },
+    {
+        "second": 9,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/T8I165Qxeo8/output_frames/sec_9_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[6-11] Next, the subtitles on the screen jump to \"40,000.\" At this time, in addition to the four bags of banknotes in his hands, the man also carries a backpack on his back. His speed slows down, but he is still struggling to run forward. The subtitles on the screen jump to \"50,000\", and another backpack full of money appears in front of the man. The text on the screen changes to \"60,000\", the money on his body increases accordingly, and he continues to run forward with a heavy load. At this time, a person in white clothes walks out of the woods behind him."
+    },
+    {
+        "second": 10,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/T8I165Qxeo8/output_frames/sec_10_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[6-11] Next, the subtitles on the screen jump to \"40,000.\" At this time, in addition to the four bags of banknotes in his hands, the man also carries a backpack on his back. His speed slows down, but he is still struggling to run forward. The subtitles on the screen jump to \"50,000\", and another backpack full of money appears in front of the man. The text on the screen changes to \"60,000\", the money on his body increases accordingly, and he continues to run forward with a heavy load. At this time, a person in white clothes walks out of the woods behind him."
+    },
+    {
+        "second": 11,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/T8I165Qxeo8/output_frames/sec_11_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[6-11] Next, the subtitles on the screen jump to \"40,000.\" At this time, in addition to the four bags of banknotes in his hands, the man also carries a backpack on his back. His speed slows down, but he is still struggling to run forward. The subtitles on the screen jump to \"50,000\", and another backpack full of money appears in front of the man. The text on the screen changes to \"60,000\", the money on his body increases accordingly, and he continues to run forward with a heavy load. At this time, a person in white clothes walks out of the woods behind him."
+    },
+    {
+        "second": 12,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/T8I165Qxeo8/output_frames/sec_12_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[11-19] The subtitles at the top of the screen continue to jump and increase, \"70,000\", \"80,000\", \"90,000\", and the money on the man increases accordingly. At this time, he is carrying two bags of money in each hand, two backpacks full of money hanging in front of him, and a large bag full of money behind him. He continues to walk forward with heavy steps."
+    },
+    {
+        "second": 13,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/T8I165Qxeo8/output_frames/sec_13_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[11-19] The subtitles at the top of the screen continue to jump and increase, \"70,000\", \"80,000\", \"90,000\", and the money on the man increases accordingly. At this time, he is carrying two bags of money in each hand, two backpacks full of money hanging in front of him, and a large bag full of money behind him. He continues to walk forward with heavy steps."
+    },
+    {
+        "second": 14,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/T8I165Qxeo8/output_frames/sec_14_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[11-19] The subtitles at the top of the screen continue to jump and increase, \"70,000\", \"80,000\", \"90,000\", and the money on the man increases accordingly. At this time, he is carrying two bags of money in each hand, two backpacks full of money hanging in front of him, and a large bag full of money behind him. He continues to walk forward with heavy steps."
+    },
+    {
+        "second": 15,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/T8I165Qxeo8/output_frames/sec_15_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[11-19] The subtitles at the top of the screen continue to jump and increase, \"70,000\", \"80,000\", \"90,000\", and the money on the man increases accordingly. At this time, he is carrying two bags of money in each hand, two backpacks full of money hanging in front of him, and a large bag full of money behind him. He continues to walk forward with heavy steps."
+    },
+    {
+        "second": 16,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/T8I165Qxeo8/output_frames/sec_16_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[11-19] The subtitles at the top of the screen continue to jump and increase, \"70,000\", \"80,000\", \"90,000\", and the money on the man increases accordingly. At this time, he is carrying two bags of money in each hand, two backpacks full of money hanging in front of him, and a large bag full of money behind him. He continues to walk forward with heavy steps."
+    },
+    {
+        "second": 17,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/T8I165Qxeo8/output_frames/sec_17_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[11-19] The subtitles at the top of the screen continue to jump and increase, \"70,000\", \"80,000\", \"90,000\", and the money on the man increases accordingly. At this time, he is carrying two bags of money in each hand, two backpacks full of money hanging in front of him, and a large bag full of money behind him. He continues to walk forward with heavy steps."
+    },
+    {
+        "second": 18,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/T8I165Qxeo8/output_frames/sec_18_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[11-19] The subtitles at the top of the screen continue to jump and increase, \"70,000\", \"80,000\", \"90,000\", and the money on the man increases accordingly. At this time, he is carrying two bags of money in each hand, two backpacks full of money hanging in front of him, and a large bag full of money behind him. He continues to walk forward with heavy steps."
+    },
+    {
+        "second": 19,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/T8I165Qxeo8/output_frames/sec_19_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[11-19] The subtitles at the top of the screen continue to jump and increase, \"70,000\", \"80,000\", \"90,000\", and the money on the man increases accordingly. At this time, he is carrying two bags of money in each hand, two backpacks full of money hanging in front of him, and a large bag full of money behind him. He continues to walk forward with heavy steps."
+    },
+    {
+        "second": 20,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/T8I165Qxeo8/output_frames/sec_20_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[19-28] The subtitles on the screen then changed to \"100,000\" and \"110,000\". The backpack full of money in front of the man has passed over his head, and he continues to move forward slowly. When the subtitles on the screen changed to \"120,000\", the man was finally unable to carry the weight, dropped the money bags in his hands and collapsed on the ground. The large money bag behind him pressed heavily on him."
+    },
+    {
+        "second": 21,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/T8I165Qxeo8/output_frames/sec_21_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[19-28] The subtitles on the screen then changed to \"100,000\" and \"110,000\". The backpack full of money in front of the man has passed over his head, and he continues to move forward slowly. When the subtitles on the screen changed to \"120,000\", the man was finally unable to carry the weight, dropped the money bags in his hands and collapsed on the ground. The large money bag behind him pressed heavily on him."
+    },
+    {
+        "second": 22,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/T8I165Qxeo8/output_frames/sec_22_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[19-28] The subtitles on the screen then changed to \"100,000\" and \"110,000\". The backpack full of money in front of the man has passed over his head, and he continues to move forward slowly. When the subtitles on the screen changed to \"120,000\", the man was finally unable to carry the weight, dropped the money bags in his hands and collapsed on the ground. The large money bag behind him pressed heavily on him."
+    },
+    {
+        "second": 23,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/T8I165Qxeo8/output_frames/sec_23_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[19-28] The subtitles on the screen then changed to \"100,000\" and \"110,000\". The backpack full of money in front of the man has passed over his head, and he continues to move forward slowly. When the subtitles on the screen changed to \"120,000\", the man was finally unable to carry the weight, dropped the money bags in his hands and collapsed on the ground. The large money bag behind him pressed heavily on him."
+    },
+    {
+        "second": 24,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/T8I165Qxeo8/output_frames/sec_24_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[19-28] The subtitles on the screen then changed to \"100,000\" and \"110,000\". The backpack full of money in front of the man has passed over his head, and he continues to move forward slowly. When the subtitles on the screen changed to \"120,000\", the man was finally unable to carry the weight, dropped the money bags in his hands and collapsed on the ground. The large money bag behind him pressed heavily on him."
+    },
+    {
+        "second": 25,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/T8I165Qxeo8/output_frames/sec_25_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[19-28] The subtitles on the screen then changed to \"100,000\" and \"110,000\". The backpack full of money in front of the man has passed over his head, and he continues to move forward slowly. When the subtitles on the screen changed to \"120,000\", the man was finally unable to carry the weight, dropped the money bags in his hands and collapsed on the ground. The large money bag behind him pressed heavily on him."
+    },
+    {
+        "second": 26,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/T8I165Qxeo8/output_frames/sec_26_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[19-28] The subtitles on the screen then changed to \"100,000\" and \"110,000\". The backpack full of money in front of the man has passed over his head, and he continues to move forward slowly. When the subtitles on the screen changed to \"120,000\", the man was finally unable to carry the weight, dropped the money bags in his hands and collapsed on the ground. The large money bag behind him pressed heavily on him."
+    },
+    {
+        "second": 27,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/T8I165Qxeo8/output_frames/sec_27_idx_24.jpg",
+        "fps": 30,
+        "explanation": "[19-28] The subtitles on the screen then changed to \"100,000\" and \"110,000\". The backpack full of money in front of the man has passed over his head, and he continues to move forward slowly. When the subtitles on the screen changed to \"120,000\", the man was finally unable to carry the weight, dropped the money bags in his hands and collapsed on the ground. The large money bag behind him pressed heavily on him."
+    },
+    {
+        "second": 28,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/T8I165Qxeo8/output_frames/sec_28_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[19-28] The subtitles on the screen then changed to \"100,000\" and \"110,000\". The backpack full of money in front of the man has passed over his head, and he continues to move forward slowly. When the subtitles on the screen changed to \"120,000\", the man was finally unable to carry the weight, dropped the money bags in his hands and collapsed on the ground. The large money bag behind him pressed heavily on him."
+    }
+]

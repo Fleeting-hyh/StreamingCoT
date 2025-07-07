@@ -1,0 +1,128 @@
+[
+    {
+        "second": 0,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/A5dez7NY5Ng/output_frames/sec_0_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[0-0] Two cartoon characters are standing face to face on grey tiles. On the left is a golden clock man, Titan, and on the right is a golden fish. Behind them is a row of grey windows. Both characters have a cartoon bubble above their heads with the number \"5\" written inside."
+    },
+    {
+        "second": 1,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/A5dez7NY5Ng/output_frames/sec_1_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Next, the fish's body gradually grows larger, and the number on its head changes to \"10\". Then, the clock man gradually grows larger, and the number on his head changes to \"15\"."
+    },
+    {
+        "second": 2,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/A5dez7NY5Ng/output_frames/sec_2_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Next, the fish's body gradually grows larger, and the number on its head changes to \"10\". Then, the clock man gradually grows larger, and the number on his head changes to \"15\"."
+    },
+    {
+        "second": 3,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/A5dez7NY5Ng/output_frames/sec_3_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Next, the fish's body gradually grows larger, and the number on its head changes to \"10\". Then, the clock man gradually grows larger, and the number on his head changes to \"15\"."
+    },
+    {
+        "second": 4,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/A5dez7NY5Ng/output_frames/sec_4_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[3-7] Immediately afterwards, the fish's body grows larger again, and the number changes to \"20\". The clock man's size surpasses the fish's, and the number changes to \"25\"."
+    },
+    {
+        "second": 5,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/A5dez7NY5Ng/output_frames/sec_5_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[3-7] Immediately afterwards, the fish's body grows larger again, and the number changes to \"20\". The clock man's size surpasses the fish's, and the number changes to \"25\"."
+    },
+    {
+        "second": 6,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/A5dez7NY5Ng/output_frames/sec_6_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[3-7] Immediately afterwards, the fish's body grows larger again, and the number changes to \"20\". The clock man's size surpasses the fish's, and the number changes to \"25\"."
+    },
+    {
+        "second": 7,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/A5dez7NY5Ng/output_frames/sec_7_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[3-7] Immediately afterwards, the fish's body grows larger again, and the number changes to \"20\". The clock man's size surpasses the fish's, and the number changes to \"25\"."
+    },
+    {
+        "second": 8,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/A5dez7NY5Ng/output_frames/sec_8_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[7-10] Then the fish's body grows larger, and the number changes to \"35\". The clock man character takes a few steps back."
+    },
+    {
+        "second": 9,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/A5dez7NY5Ng/output_frames/sec_9_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[7-10] Then the fish's body grows larger, and the number changes to \"35\". The clock man character takes a few steps back."
+    },
+    {
+        "second": 10,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/A5dez7NY5Ng/output_frames/sec_10_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[7-10] Then the fish's body grows larger, and the number changes to \"35\". The clock man character takes a few steps back."
+    },
+    {
+        "second": 11,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/A5dez7NY5Ng/output_frames/sec_11_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[10-14] Subsequently, a blue banner appears in the screen with the words \"=Help Titan clock Man\" written on it. Above the banner are like and comment symbols. A red number \"3\" appears under the banner, then changes to \"2\", and then to \"1\"."
+    },
+    {
+        "second": 12,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/A5dez7NY5Ng/output_frames/sec_12_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[10-14] Subsequently, a blue banner appears in the screen with the words \"=Help Titan clock Man\" written on it. Above the banner are like and comment symbols. A red number \"3\" appears under the banner, then changes to \"2\", and then to \"1\"."
+    },
+    {
+        "second": 13,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/A5dez7NY5Ng/output_frames/sec_13_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[10-14] Subsequently, a blue banner appears in the screen with the words \"=Help Titan clock Man\" written on it. Above the banner are like and comment symbols. A red number \"3\" appears under the banner, then changes to \"2\", and then to \"1\"."
+    },
+    {
+        "second": 14,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/A5dez7NY5Ng/output_frames/sec_14_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[10-14] Subsequently, a blue banner appears in the screen with the words \"=Help Titan clock Man\" written on it. Above the banner are like and comment symbols. A red number \"3\" appears under the banner, then changes to \"2\", and then to \"1\"."
+    },
+    {
+        "second": 15,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/A5dez7NY5Ng/output_frames/sec_15_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[14-17] Finally, the banner disappears. The clock man is enormous, exceeding the height of the grey building next to him. The number on his head changes to \"6974\"."
+    },
+    {
+        "second": 16,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/A5dez7NY5Ng/output_frames/sec_16_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[14-17] Finally, the banner disappears. The clock man is enormous, exceeding the height of the grey building next to him. The number on his head changes to \"6974\"."
+    },
+    {
+        "second": 17,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/A5dez7NY5Ng/output_frames/sec_17_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[14-17] Finally, the banner disappears. The clock man is enormous, exceeding the height of the grey building next to him. The number on his head changes to \"6974\"."
+    }
+]

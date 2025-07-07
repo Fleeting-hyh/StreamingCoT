@@ -1,0 +1,51 @@
+[
+    {
+        "second": 0,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7nUcpjEmQZM/output_frames/sec_0_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A young man in a black suit with a red tie and a young woman in a white shirt are standing in a blue room, a red heart icon above their heads. The man is smiling with his eyes closed, the woman is smiling at the camera. There is a chandelier with several white spheres in the room."
+    },
+    {
+        "second": 1,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7nUcpjEmQZM/output_frames/sec_1_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Then the man uses his right hand and the woman uses her left hand to make a heart shape with their hands together. They smile and twist their bodies, looking at each other and the camera from time to time."
+    },
+    {
+        "second": 2,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7nUcpjEmQZM/output_frames/sec_2_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Then the man uses his right hand and the woman uses her left hand to make a heart shape with their hands together. They smile and twist their bodies, looking at each other and the camera from time to time."
+    },
+    {
+        "second": 3,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7nUcpjEmQZM/output_frames/sec_3_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Then the man uses his right hand and the woman uses her left hand to make a heart shape with their hands together. They smile and twist their bodies, looking at each other and the camera from time to time."
+    },
+    {
+        "second": 4,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7nUcpjEmQZM/output_frames/sec_4_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Then the man uses his right hand and the woman uses her left hand to make a heart shape with their hands together. They smile and twist their bodies, looking at each other and the camera from time to time."
+    },
+    {
+        "second": 5,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7nUcpjEmQZM/output_frames/sec_5_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[4-6] Then the heart shape of their hands slowly separates, and their smiles disappear. Then the man looks at the camera with a fierce look on his face, and the woman looks at the camera with a serious look on her face, her lips closed. The man's right hand and the woman's left hand separate, each maintaining a grasping gesture. At this point, the blue room turns into a red room. The red heart icon above their heads turns into a broken heart icon."
+    },
+    {
+        "second": 6,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7nUcpjEmQZM/output_frames/sec_6_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[4-6] Then the heart shape of their hands slowly separates, and their smiles disappear. Then the man looks at the camera with a fierce look on his face, and the woman looks at the camera with a serious look on her face, her lips closed. The man's right hand and the woman's left hand separate, each maintaining a grasping gesture. At this point, the blue room turns into a red room. The red heart icon above their heads turns into a broken heart icon."
+    }
+]

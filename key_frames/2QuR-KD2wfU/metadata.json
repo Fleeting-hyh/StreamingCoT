@@ -1,0 +1,58 @@
+[
+    {
+        "second": 0,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2QuR-KD2wfU/output_frames/sec_0_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A man in a blue shirt is standing in a yard, looking to the right. In front of him is a blue iron gate, and above the yard is a metal frame. A brown calf is standing outside the blue iron gate, with a red circle symbol around it. A corner of a blue object can be seen in the distance."
+    },
+    {
+        "second": 1,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2QuR-KD2wfU/output_frames/sec_1_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[0-2] The calf then runs to the iron gate, jumps up on the gate with its front legs, and flips over the gate into the yard."
+    },
+    {
+        "second": 2,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2QuR-KD2wfU/output_frames/sec_2_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[0-2] The calf then runs to the iron gate, jumps up on the gate with its front legs, and flips over the gate into the yard."
+    },
+    {
+        "second": 3,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2QuR-KD2wfU/output_frames/sec_3_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[2-7] The man in blue is startled and retreats to the left, while the calf loses its balance due to inertia and falls backwards. The man then runs forward and climbs onto a metal frame, while the calf runs to the right. The man then turns his head to the right, looking in the direction the calf left. A yellow face emoji appears at the top of the screen."
+    },
+    {
+        "second": 4,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2QuR-KD2wfU/output_frames/sec_4_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[2-7] The man in blue is startled and retreats to the left, while the calf loses its balance due to inertia and falls backwards. The man then runs forward and climbs onto a metal frame, while the calf runs to the right. The man then turns his head to the right, looking in the direction the calf left. A yellow face emoji appears at the top of the screen."
+    },
+    {
+        "second": 5,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2QuR-KD2wfU/output_frames/sec_5_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[2-7] The man in blue is startled and retreats to the left, while the calf loses its balance due to inertia and falls backwards. The man then runs forward and climbs onto a metal frame, while the calf runs to the right. The man then turns his head to the right, looking in the direction the calf left. A yellow face emoji appears at the top of the screen."
+    },
+    {
+        "second": 6,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2QuR-KD2wfU/output_frames/sec_6_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[2-7] The man in blue is startled and retreats to the left, while the calf loses its balance due to inertia and falls backwards. The man then runs forward and climbs onto a metal frame, while the calf runs to the right. The man then turns his head to the right, looking in the direction the calf left. A yellow face emoji appears at the top of the screen."
+    },
+    {
+        "second": 7,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2QuR-KD2wfU/output_frames/sec_7_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[2-7] The man in blue is startled and retreats to the left, while the calf loses its balance due to inertia and falls backwards. The man then runs forward and climbs onto a metal frame, while the calf runs to the right. The man then turns his head to the right, looking in the direction the calf left. A yellow face emoji appears at the top of the screen."
+    }
+]

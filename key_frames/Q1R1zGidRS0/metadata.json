@@ -1,0 +1,72 @@
+[
+    {
+        "second": 0,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Q1R1zGidRS0/output_frames/sec_0_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[0-0] In an outdoor setting, a man holding two cups of milk tea is looking to the right of the camera. He is wearing a white coat, a red shirt, and black pants. He has dyed green hair and a very fair complexion. The background features greenery, streetlights, and buildings."
+    },
+    {
+        "second": 1,
+        "frame_index": 34,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Q1R1zGidRS0/output_frames/sec_1_idx_34.jpg",
+        "fps": 60,
+        "explanation": "[0-6] The green-haired man runs to a woman dressed in a white dress with white wings and headpiece and hands her one of the milk tea cups. As the two are about to drink, a woman in a black dress with black wings and gold accessories approaches the camera. She snatches the milk tea from the man's hand and tries to make him drink it. The man dodges back, and the woman in white takes the milk tea back."
+    },
+    {
+        "second": 2,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Q1R1zGidRS0/output_frames/sec_2_idx_24.jpg",
+        "fps": 60,
+        "explanation": "[0-6] The green-haired man runs to a woman dressed in a white dress with white wings and headpiece and hands her one of the milk tea cups. As the two are about to drink, a woman in a black dress with black wings and gold accessories approaches the camera. She snatches the milk tea from the man's hand and tries to make him drink it. The man dodges back, and the woman in white takes the milk tea back."
+    },
+    {
+        "second": 3,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Q1R1zGidRS0/output_frames/sec_3_idx_1.jpg",
+        "fps": 60,
+        "explanation": "[0-6] The green-haired man runs to a woman dressed in a white dress with white wings and headpiece and hands her one of the milk tea cups. As the two are about to drink, a woman in a black dress with black wings and gold accessories approaches the camera. She snatches the milk tea from the man's hand and tries to make him drink it. The man dodges back, and the woman in white takes the milk tea back."
+    },
+    {
+        "second": 4,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Q1R1zGidRS0/output_frames/sec_4_idx_5.jpg",
+        "fps": 60,
+        "explanation": "[0-6] The green-haired man runs to a woman dressed in a white dress with white wings and headpiece and hands her one of the milk tea cups. As the two are about to drink, a woman in a black dress with black wings and gold accessories approaches the camera. She snatches the milk tea from the man's hand and tries to make him drink it. The man dodges back, and the woman in white takes the milk tea back."
+    },
+    {
+        "second": 5,
+        "frame_index": 55,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Q1R1zGidRS0/output_frames/sec_5_idx_55.jpg",
+        "fps": 60,
+        "explanation": "[0-6] The green-haired man runs to a woman dressed in a white dress with white wings and headpiece and hands her one of the milk tea cups. As the two are about to drink, a woman in a black dress with black wings and gold accessories approaches the camera. She snatches the milk tea from the man's hand and tries to make him drink it. The man dodges back, and the woman in white takes the milk tea back."
+    },
+    {
+        "second": 6,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Q1R1zGidRS0/output_frames/sec_6_idx_18.jpg",
+        "fps": 60,
+        "explanation": "[0-6] The green-haired man runs to a woman dressed in a white dress with white wings and headpiece and hands her one of the milk tea cups. As the two are about to drink, a woman in a black dress with black wings and gold accessories approaches the camera. She snatches the milk tea from the man's hand and tries to make him drink it. The man dodges back, and the woman in white takes the milk tea back."
+    },
+    {
+        "second": 7,
+        "frame_index": 54,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Q1R1zGidRS0/output_frames/sec_7_idx_54.jpg",
+        "fps": 60,
+        "explanation": "[6-9] The scene cuts to the woman in white throwing the milk tea on the ground, spilling it. The woman in black looks at the milk tea on the ground in surprise. The scene changes to the woman in white feeding the man milk tea from her own cup, which he drinks. The man and the woman in white then look to the right of the camera."
+    },
+    {
+        "second": 8,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Q1R1zGidRS0/output_frames/sec_8_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[6-9] The scene cuts to the woman in white throwing the milk tea on the ground, spilling it. The woman in black looks at the milk tea on the ground in surprise. The scene changes to the woman in white feeding the man milk tea from her own cup, which he drinks. The man and the woman in white then look to the right of the camera."
+    },
+    {
+        "second": 9,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Q1R1zGidRS0/output_frames/sec_9_idx_9.jpg",
+        "fps": 60,
+        "explanation": "[6-9] The scene cuts to the woman in white throwing the milk tea on the ground, spilling it. The woman in black looks at the milk tea on the ground in surprise. The scene changes to the woman in white feeding the man milk tea from her own cup, which he drinks. The man and the woman in white then look to the right of the camera."
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "second": 0,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/O383WdAWqco/output_frames/sec_0_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A woman in a white dress is pushing a baby stroller down the street. The stroller has a cute cartoon design and is green and yellow. A baby is sitting inside the stroller, looking relaxed. Behind the woman, a man in black clothing is holding a yellow strap. In the background, there are parked motorcycles and electric scooters, as well as buildings lining the street."
+    },
+    {
+        "second": 1,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/O383WdAWqco/output_frames/sec_1_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[0-2] The man runs towards the woman and uses the strap to strangle her. The woman punches the man in the chest."
+    },
+    {
+        "second": 2,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/O383WdAWqco/output_frames/sec_2_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[0-2] The man runs towards the woman and uses the strap to strangle her. The woman punches the man in the chest."
+    },
+    {
+        "second": 3,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/O383WdAWqco/output_frames/sec_3_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[2-5] The scene switches to two hands holding a metal ring, demonstrating how to wear it. Various items are on the table. One hand puts on the metal ring and crushes a soda can, then continues to demonstrate the ring."
+    },
+    {
+        "second": 4,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/O383WdAWqco/output_frames/sec_4_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[2-5] The scene switches to two hands holding a metal ring, demonstrating how to wear it. Various items are on the table. One hand puts on the metal ring and crushes a soda can, then continues to demonstrate the ring."
+    },
+    {
+        "second": 5,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/O383WdAWqco/output_frames/sec_5_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[2-5] The scene switches to two hands holding a metal ring, demonstrating how to wear it. Various items are on the table. One hand puts on the metal ring and crushes a soda can, then continues to demonstrate the ring."
+    },
+    {
+        "second": 6,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/O383WdAWqco/output_frames/sec_6_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[5-7] The scene switches back to the woman. A man is pointing a stick at her. The woman steps forward and punches the man in the stomach, causing him to bend over and clutch his stomach."
+    },
+    {
+        "second": 7,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/O383WdAWqco/output_frames/sec_7_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[5-7] The scene switches back to the woman. A man is pointing a stick at her. The woman steps forward and punches the man in the stomach, causing him to bend over and clutch his stomach."
+    }
+]

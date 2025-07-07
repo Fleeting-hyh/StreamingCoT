@@ -1,0 +1,135 @@
+[
+    {
+        "second": 0,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Cs6FJ1LGHr8/output_frames/sec_0_idx_12.jpg",
+        "fps": 60,
+        "explanation": "[0-0] In a room filled with musical instruments, two men wearing headphones are sitting among the instruments and looking at a laptop in the lower right corner simultaneously. On the left is a man wearing a red top and blue shorts, and on the right is a man wearing a black top and jeans. Above them is a window playing a cartoon."
+    },
+    {
+        "second": 1,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Cs6FJ1LGHr8/output_frames/sec_1_idx_6.jpg",
+        "fps": 60,
+        "explanation": "[0-3] As the character in the cartoon picks up a bowling ball, the man in black quickly strikes the glockenspiel in front of him with a mallet in his hand."
+    },
+    {
+        "second": 2,
+        "frame_index": 51,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Cs6FJ1LGHr8/output_frames/sec_2_idx_51.jpg",
+        "fps": 60,
+        "explanation": "[0-3] As the character in the cartoon picks up a bowling ball, the man in black quickly strikes the glockenspiel in front of him with a mallet in his hand."
+    },
+    {
+        "second": 3,
+        "frame_index": 52,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Cs6FJ1LGHr8/output_frames/sec_3_idx_52.jpg",
+        "fps": 60,
+        "explanation": "[0-3] As the character in the cartoon picks up a bowling ball, the man in black quickly strikes the glockenspiel in front of him with a mallet in his hand."
+    },
+    {
+        "second": 4,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Cs6FJ1LGHr8/output_frames/sec_4_idx_2.jpg",
+        "fps": 60,
+        "explanation": "[3-6] Then, the character in the cartoon throws the bowling ball forward. The man in black stops striking the glockenspiel, and the man in red strikes the drumhead in front of him with the mallet in his hand."
+    },
+    {
+        "second": 5,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Cs6FJ1LGHr8/output_frames/sec_5_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[3-6] Then, the character in the cartoon throws the bowling ball forward. The man in black stops striking the glockenspiel, and the man in red strikes the drumhead in front of him with the mallet in his hand."
+    },
+    {
+        "second": 6,
+        "frame_index": 32,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Cs6FJ1LGHr8/output_frames/sec_6_idx_32.jpg",
+        "fps": 60,
+        "explanation": "[3-6] Then, the character in the cartoon throws the bowling ball forward. The man in black stops striking the glockenspiel, and the man in red strikes the drumhead in front of him with the mallet in his hand."
+    },
+    {
+        "second": 7,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Cs6FJ1LGHr8/output_frames/sec_7_idx_4.jpg",
+        "fps": 60,
+        "explanation": "[6-8] Next, the cartoon changes again, showing the bowling ball hitting the pins. The man in red stops striking the drum in front of him, and the man in black quickly rubs the cymbal in the lower right corner with a drumstick. Then, the man in red picks up the blue flute in his left hand and blows it gently."
+    },
+    {
+        "second": 8,
+        "frame_index": 49,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Cs6FJ1LGHr8/output_frames/sec_8_idx_49.jpg",
+        "fps": 60,
+        "explanation": "[6-8] Next, the cartoon changes again, showing the bowling ball hitting the pins. The man in red stops striking the drum in front of him, and the man in black quickly rubs the cymbal in the lower right corner with a drumstick. Then, the man in red picks up the blue flute in his left hand and blows it gently."
+    },
+    {
+        "second": 9,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Cs6FJ1LGHr8/output_frames/sec_9_idx_29.jpg",
+        "fps": 60,
+        "explanation": "[8-13] At this point, three monkeys sitting on a tree stump come down in the cartoon. They use their tails to hook the pins on the ground. The man in red stops playing the flute and quickly taps the drum in front of the man in black with the drumstick in his right hand. The man in black also quickly strikes the drum in front of him a few times. At this moment, the three monkeys in the cartoon, hooking the pins on the ground, rise back up with the tree stump. The man in red blows the flute in his hand again, and the man in black also picks up the red flute in front of him and blows it."
+    },
+    {
+        "second": 10,
+        "frame_index": 50,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Cs6FJ1LGHr8/output_frames/sec_10_idx_50.jpg",
+        "fps": 60,
+        "explanation": "[8-13] At this point, three monkeys sitting on a tree stump come down in the cartoon. They use their tails to hook the pins on the ground. The man in red stops playing the flute and quickly taps the drum in front of the man in black with the drumstick in his right hand. The man in black also quickly strikes the drum in front of him a few times. At this moment, the three monkeys in the cartoon, hooking the pins on the ground, rise back up with the tree stump. The man in red blows the flute in his hand again, and the man in black also picks up the red flute in front of him and blows it."
+    },
+    {
+        "second": 11,
+        "frame_index": 42,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Cs6FJ1LGHr8/output_frames/sec_11_idx_42.jpg",
+        "fps": 60,
+        "explanation": "[8-13] At this point, three monkeys sitting on a tree stump come down in the cartoon. They use their tails to hook the pins on the ground. The man in red stops playing the flute and quickly taps the drum in front of the man in black with the drumstick in his right hand. The man in black also quickly strikes the drum in front of him a few times. At this moment, the three monkeys in the cartoon, hooking the pins on the ground, rise back up with the tree stump. The man in red blows the flute in his hand again, and the man in black also picks up the red flute in front of him and blows it."
+    },
+    {
+        "second": 12,
+        "frame_index": 46,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Cs6FJ1LGHr8/output_frames/sec_12_idx_46.jpg",
+        "fps": 60,
+        "explanation": "[8-13] At this point, three monkeys sitting on a tree stump come down in the cartoon. They use their tails to hook the pins on the ground. The man in red stops playing the flute and quickly taps the drum in front of the man in black with the drumstick in his right hand. The man in black also quickly strikes the drum in front of him a few times. At this moment, the three monkeys in the cartoon, hooking the pins on the ground, rise back up with the tree stump. The man in red blows the flute in his hand again, and the man in black also picks up the red flute in front of him and blows it."
+    },
+    {
+        "second": 13,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Cs6FJ1LGHr8/output_frames/sec_13_idx_5.jpg",
+        "fps": 60,
+        "explanation": "[8-13] At this point, three monkeys sitting on a tree stump come down in the cartoon. They use their tails to hook the pins on the ground. The man in red stops playing the flute and quickly taps the drum in front of the man in black with the drumstick in his right hand. The man in black also quickly strikes the drum in front of him a few times. At this moment, the three monkeys in the cartoon, hooking the pins on the ground, rise back up with the tree stump. The man in red blows the flute in his hand again, and the man in black also picks up the red flute in front of him and blows it."
+    },
+    {
+        "second": 14,
+        "frame_index": 39,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Cs6FJ1LGHr8/output_frames/sec_14_idx_39.jpg",
+        "fps": 60,
+        "explanation": "[13-18] Then, the cartoon switches to a blonde character sitting on a chair. The man in red stops playing the flute and laughs as he watches the dubbing finish. The man in black looks at the man in red, and after a glance at each other, they spread their hands and let the instruments in their hands fall on the drums in front of them. Finally, as the cartoon ends and the dubbing task is completed, the man in black takes off his headphones and looks at the man in red who is about to take off his headphones."
+    },
+    {
+        "second": 15,
+        "frame_index": 55,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Cs6FJ1LGHr8/output_frames/sec_15_idx_55.jpg",
+        "fps": 60,
+        "explanation": "[13-18] Then, the cartoon switches to a blonde character sitting on a chair. The man in red stops playing the flute and laughs as he watches the dubbing finish. The man in black looks at the man in red, and after a glance at each other, they spread their hands and let the instruments in their hands fall on the drums in front of them. Finally, as the cartoon ends and the dubbing task is completed, the man in black takes off his headphones and looks at the man in red who is about to take off his headphones."
+    },
+    {
+        "second": 16,
+        "frame_index": 46,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Cs6FJ1LGHr8/output_frames/sec_16_idx_46.jpg",
+        "fps": 60,
+        "explanation": "[13-18] Then, the cartoon switches to a blonde character sitting on a chair. The man in red stops playing the flute and laughs as he watches the dubbing finish. The man in black looks at the man in red, and after a glance at each other, they spread their hands and let the instruments in their hands fall on the drums in front of them. Finally, as the cartoon ends and the dubbing task is completed, the man in black takes off his headphones and looks at the man in red who is about to take off his headphones."
+    },
+    {
+        "second": 17,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Cs6FJ1LGHr8/output_frames/sec_17_idx_19.jpg",
+        "fps": 60,
+        "explanation": "[13-18] Then, the cartoon switches to a blonde character sitting on a chair. The man in red stops playing the flute and laughs as he watches the dubbing finish. The man in black looks at the man in red, and after a glance at each other, they spread their hands and let the instruments in their hands fall on the drums in front of them. Finally, as the cartoon ends and the dubbing task is completed, the man in black takes off his headphones and looks at the man in red who is about to take off his headphones."
+    },
+    {
+        "second": 18,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Cs6FJ1LGHr8/output_frames/sec_18_idx_3.jpg",
+        "fps": 60,
+        "explanation": "[13-18] Then, the cartoon switches to a blonde character sitting on a chair. The man in red stops playing the flute and laughs as he watches the dubbing finish. The man in black looks at the man in red, and after a glance at each other, they spread their hands and let the instruments in their hands fall on the drums in front of them. Finally, as the cartoon ends and the dubbing task is completed, the man in black takes off his headphones and looks at the man in red who is about to take off his headphones."
+    }
+]

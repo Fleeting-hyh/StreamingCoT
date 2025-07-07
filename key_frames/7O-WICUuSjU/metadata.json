@@ -1,0 +1,72 @@
+[
+    {
+        "second": 0,
+        "frame_index": 32,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7O-WICUuSjU/output_frames/sec_0_idx_32.jpg",
+        "fps": 60,
+        "explanation": "[0-0] In a room with beige flooring and white walls, a person wearing a \"Money Heist\" mask, a red jumpsuit, and yellow shoes sits on a white toilet, holding a toilet plunger. In the surrounding glass-enclosed bathroom, a person wearing a blue heart-shaped headcover, a blue vest, white printed shorts, and yellow shoes stands with their back turned, bending over. A pink doll hangs on the left side of the bathroom. White decorations are pasted on the glass to the right of the bathroom door."
+    },
+    {
+        "second": 1,
+        "frame_index": 46,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7O-WICUuSjU/output_frames/sec_1_idx_46.jpg",
+        "fps": 60,
+        "explanation": "[0-2] Then, the person wearing the \"Money Heist\" mask stands up, extends their right hand in a \"hush\" gesture, and waves the toilet plunger, forcefully knocking on the bathroom's glass door. Meanwhile, the person wearing the blue heart-shaped headcover twists their body and waves their arms, showering happily."
+    },
+    {
+        "second": 2,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7O-WICUuSjU/output_frames/sec_2_idx_16.jpg",
+        "fps": 60,
+        "explanation": "[0-2] Then, the person wearing the \"Money Heist\" mask stands up, extends their right hand in a \"hush\" gesture, and waves the toilet plunger, forcefully knocking on the bathroom's glass door. Meanwhile, the person wearing the blue heart-shaped headcover twists their body and waves their arms, showering happily."
+    },
+    {
+        "second": 3,
+        "frame_index": 35,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7O-WICUuSjU/output_frames/sec_3_idx_35.jpg",
+        "fps": 60,
+        "explanation": "[2-4] Subsequently, the person wearing the \"Money Heist\" mask sits back on the toilet. The person wearing the blue heart-shaped headcover turns left, pushes open the bathroom door, and faces forward, revealing the front of the heart-shaped headcover with its open-mouthed shark design."
+    },
+    {
+        "second": 4,
+        "frame_index": 47,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7O-WICUuSjU/output_frames/sec_4_idx_47.jpg",
+        "fps": 60,
+        "explanation": "[2-4] Subsequently, the person wearing the \"Money Heist\" mask sits back on the toilet. The person wearing the blue heart-shaped headcover turns left, pushes open the bathroom door, and faces forward, revealing the front of the heart-shaped headcover with its open-mouthed shark design."
+    },
+    {
+        "second": 5,
+        "frame_index": 34,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7O-WICUuSjU/output_frames/sec_5_idx_34.jpg",
+        "fps": 60,
+        "explanation": "[4-7] Afterward, the person wearing the heart-shaped headcover turns right, then leans forward and twists their body rapidly. Numerous poop emojis begin to appear on the bathroom floor."
+    },
+    {
+        "second": 6,
+        "frame_index": 36,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7O-WICUuSjU/output_frames/sec_6_idx_36.jpg",
+        "fps": 60,
+        "explanation": "[4-7] Afterward, the person wearing the heart-shaped headcover turns right, then leans forward and twists their body rapidly. Numerous poop emojis begin to appear on the bathroom floor."
+    },
+    {
+        "second": 7,
+        "frame_index": 45,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7O-WICUuSjU/output_frames/sec_7_idx_45.jpg",
+        "fps": 60,
+        "explanation": "[4-7] Afterward, the person wearing the heart-shaped headcover turns right, then leans forward and twists their body rapidly. Numerous poop emojis begin to appear on the bathroom floor."
+    },
+    {
+        "second": 8,
+        "frame_index": 42,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7O-WICUuSjU/output_frames/sec_8_idx_42.jpg",
+        "fps": 60,
+        "explanation": "[7-9] Then, the person wearing the heart-shaped headcover turns left, closes the bathroom door, turns right again, and stands with their back turned. The person wearing the \"Money Heist\" mask remains seated on the toilet."
+    },
+    {
+        "second": 9,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7O-WICUuSjU/output_frames/sec_9_idx_2.jpg",
+        "fps": 60,
+        "explanation": "[7-9] Then, the person wearing the heart-shaped headcover turns left, closes the bathroom door, turns right again, and stands with their back turned. The person wearing the \"Money Heist\" mask remains seated on the toilet."
+    }
+]

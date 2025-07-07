@@ -1,0 +1,86 @@
+[
+    {
+        "second": 0,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HtcEb72aw_M/output_frames/sec_0_idx_7.jpg",
+        "fps": 60,
+        "explanation": "[0-0] On a street, there's a pink donut with colorful sprinkles on the ground. A white car is on the left and a cartoon character wearing a pink shirt and black pants is above. Four cartoon heads of different sizes are also above, all wearing glasses, with purple hair and smiling with open mouths. There are trees and buildings along the street and on both sides."
+    },
+    {
+        "second": 1,
+        "frame_index": 58,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HtcEb72aw_M/output_frames/sec_1_idx_58.jpg",
+        "fps": 60,
+        "explanation": "[0-3] First, the pink-shirted cartoon character falls from above onto the donut, squashing it. The character moves its arms and body while the cartoon heads above sway left and right. The scene changes to the donut placed on the yellow line in the middle of the road. The pink-shirted character falls onto it again. Both the character and the donut are slightly bigger. The donut is squashed and the character moves its arms and body as the cartoon heads sway above. There are green trees on both sides of the road and a green car parked on the upper left."
+    },
+    {
+        "second": 2,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HtcEb72aw_M/output_frames/sec_2_idx_20.jpg",
+        "fps": 60,
+        "explanation": "[0-3] First, the pink-shirted cartoon character falls from above onto the donut, squashing it. The character moves its arms and body while the cartoon heads above sway left and right. The scene changes to the donut placed on the yellow line in the middle of the road. The pink-shirted character falls onto it again. Both the character and the donut are slightly bigger. The donut is squashed and the character moves its arms and body as the cartoon heads sway above. There are green trees on both sides of the road and a green car parked on the upper left."
+    },
+    {
+        "second": 3,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HtcEb72aw_M/output_frames/sec_3_idx_1.jpg",
+        "fps": 60,
+        "explanation": "[0-3] First, the pink-shirted cartoon character falls from above onto the donut, squashing it. The character moves its arms and body while the cartoon heads above sway left and right. The scene changes to the donut placed on the yellow line in the middle of the road. The pink-shirted character falls onto it again. Both the character and the donut are slightly bigger. The donut is squashed and the character moves its arms and body as the cartoon heads sway above. There are green trees on both sides of the road and a green car parked on the upper left."
+    },
+    {
+        "second": 4,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HtcEb72aw_M/output_frames/sec_4_idx_2.jpg",
+        "fps": 60,
+        "explanation": "[3-6] Then the scene changes again. The pink-shirted character falls from above onto the donut. Both the character and the donut grow larger. The donut is squashed as the character moves its arms and body while the cartoon heads sway. A yellow car is parked on the lower left. There are green trees and buildings on both sides of the road."
+    },
+    {
+        "second": 5,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HtcEb72aw_M/output_frames/sec_5_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[3-6] Then the scene changes again. The pink-shirted character falls from above onto the donut. Both the character and the donut grow larger. The donut is squashed as the character moves its arms and body while the cartoon heads sway. A yellow car is parked on the lower left. There are green trees and buildings on both sides of the road."
+    },
+    {
+        "second": 6,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HtcEb72aw_M/output_frames/sec_6_idx_8.jpg",
+        "fps": 60,
+        "explanation": "[3-6] Then the scene changes again. The pink-shirted character falls from above onto the donut. Both the character and the donut grow larger. The donut is squashed as the character moves its arms and body while the cartoon heads sway. A yellow car is parked on the lower left. There are green trees and buildings on both sides of the road."
+    },
+    {
+        "second": 7,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HtcEb72aw_M/output_frames/sec_7_idx_15.jpg",
+        "fps": 60,
+        "explanation": "[6-11] Finally, the scene changes to a giant donut placed between the road and buildings, surrounded by greenery, houses and several cars. A giant pink-shirted cartoon character falls from above onto the donut, squashing it. The camera zooms out to reveal the woods above. The pink cartoon character's movements slow down as it moves its arms and body, and the cartoon heads above sway left and right."
+    },
+    {
+        "second": 8,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HtcEb72aw_M/output_frames/sec_8_idx_27.jpg",
+        "fps": 60,
+        "explanation": "[6-11] Finally, the scene changes to a giant donut placed between the road and buildings, surrounded by greenery, houses and several cars. A giant pink-shirted cartoon character falls from above onto the donut, squashing it. The camera zooms out to reveal the woods above. The pink cartoon character's movements slow down as it moves its arms and body, and the cartoon heads above sway left and right."
+    },
+    {
+        "second": 9,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HtcEb72aw_M/output_frames/sec_9_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[6-11] Finally, the scene changes to a giant donut placed between the road and buildings, surrounded by greenery, houses and several cars. A giant pink-shirted cartoon character falls from above onto the donut, squashing it. The camera zooms out to reveal the woods above. The pink cartoon character's movements slow down as it moves its arms and body, and the cartoon heads above sway left and right."
+    },
+    {
+        "second": 10,
+        "frame_index": 31,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HtcEb72aw_M/output_frames/sec_10_idx_31.jpg",
+        "fps": 60,
+        "explanation": "[6-11] Finally, the scene changes to a giant donut placed between the road and buildings, surrounded by greenery, houses and several cars. A giant pink-shirted cartoon character falls from above onto the donut, squashing it. The camera zooms out to reveal the woods above. The pink cartoon character's movements slow down as it moves its arms and body, and the cartoon heads above sway left and right."
+    },
+    {
+        "second": 11,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HtcEb72aw_M/output_frames/sec_11_idx_4.jpg",
+        "fps": 60,
+        "explanation": "[6-11] Finally, the scene changes to a giant donut placed between the road and buildings, surrounded by greenery, houses and several cars. A giant pink-shirted cartoon character falls from above onto the donut, squashing it. The camera zooms out to reveal the woods above. The pink cartoon character's movements slow down as it moves its arms and body, and the cartoon heads above sway left and right."
+    }
+]

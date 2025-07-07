@@ -1,0 +1,44 @@
+[
+    {
+        "second": 0,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TyZQVi82ilw/output_frames/sec_0_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A man holding a blue paraglider with orange patterns is on a sand dune. He is wearing a white shirt and black pants with a black hat, and there are other people behind him watching him. There are green trees in the distance."
+    },
+    {
+        "second": 1,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TyZQVi82ilw/output_frames/sec_1_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Then the man successfully takes off and lands safely. There is another man in a white shirt and black pants passing by with a green paraglider with orange patterns."
+    },
+    {
+        "second": 2,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TyZQVi82ilw/output_frames/sec_2_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Then the man successfully takes off and lands safely. There is another man in a white shirt and black pants passing by with a green paraglider with orange patterns."
+    },
+    {
+        "second": 3,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TyZQVi82ilw/output_frames/sec_3_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Then the man successfully takes off and lands safely. There is another man in a white shirt and black pants passing by with a green paraglider with orange patterns."
+    },
+    {
+        "second": 4,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TyZQVi82ilw/output_frames/sec_4_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Then the man successfully takes off and lands safely. There is another man in a white shirt and black pants passing by with a green paraglider with orange patterns."
+    },
+    {
+        "second": 5,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TyZQVi82ilw/output_frames/sec_5_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Then the man successfully takes off and lands safely. There is another man in a white shirt and black pants passing by with a green paraglider with orange patterns."
+    }
+]

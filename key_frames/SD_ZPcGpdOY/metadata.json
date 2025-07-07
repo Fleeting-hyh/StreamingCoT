@@ -1,0 +1,142 @@
+[
+    {
+        "second": 0,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SD_ZPcGpdOY/output_frames/sec_0_idx_3.jpg",
+        "fps": 25,
+        "explanation": "[0-0] On a football field, a player in a red jersey is dribbling with the ball, followed closely by a player in a white jersey."
+    },
+    {
+        "second": 1,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SD_ZPcGpdOY/output_frames/sec_1_idx_23.jpg",
+        "fps": 25,
+        "explanation": "[0-2] The player in the red jersey jumps high and passes the ball with his left foot in mid-air."
+    },
+    {
+        "second": 2,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SD_ZPcGpdOY/output_frames/sec_2_idx_0.jpg",
+        "fps": 25,
+        "explanation": "[0-2] The player in the red jersey jumps high and passes the ball with his left foot in mid-air."
+    },
+    {
+        "second": 3,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SD_ZPcGpdOY/output_frames/sec_3_idx_12.jpg",
+        "fps": 25,
+        "explanation": "[2-5] Then the scene switches to another game, a player in a black jersey is dribbling, and a goalkeeper in a green jersey attempts to intercept."
+    },
+    {
+        "second": 4,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SD_ZPcGpdOY/output_frames/sec_4_idx_8.jpg",
+        "fps": 25,
+        "explanation": "[2-5] Then the scene switches to another game, a player in a black jersey is dribbling, and a goalkeeper in a green jersey attempts to intercept."
+    },
+    {
+        "second": 5,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SD_ZPcGpdOY/output_frames/sec_5_idx_2.jpg",
+        "fps": 25,
+        "explanation": "[2-5] Then the scene switches to another game, a player in a black jersey is dribbling, and a goalkeeper in a green jersey attempts to intercept."
+    },
+    {
+        "second": 6,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SD_ZPcGpdOY/output_frames/sec_6_idx_21.jpg",
+        "fps": 25,
+        "explanation": "[5-12] Subsequently, the scene switches to another game again, a player in a red jersey jumps high in front of the goal, attempting to shoot the ball."
+    },
+    {
+        "second": 7,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SD_ZPcGpdOY/output_frames/sec_7_idx_23.jpg",
+        "fps": 25,
+        "explanation": "[5-12] Subsequently, the scene switches to another game again, a player in a red jersey jumps high in front of the goal, attempting to shoot the ball."
+    },
+    {
+        "second": 8,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SD_ZPcGpdOY/output_frames/sec_8_idx_3.jpg",
+        "fps": 25,
+        "explanation": "[5-12] Subsequently, the scene switches to another game again, a player in a red jersey jumps high in front of the goal, attempting to shoot the ball."
+    },
+    {
+        "second": 9,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SD_ZPcGpdOY/output_frames/sec_9_idx_3.jpg",
+        "fps": 25,
+        "explanation": "[5-12] Subsequently, the scene switches to another game again, a player in a red jersey jumps high in front of the goal, attempting to shoot the ball."
+    },
+    {
+        "second": 10,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SD_ZPcGpdOY/output_frames/sec_10_idx_19.jpg",
+        "fps": 25,
+        "explanation": "[5-12] Subsequently, the scene switches to another game again, a player in a red jersey jumps high in front of the goal, attempting to shoot the ball."
+    },
+    {
+        "second": 11,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SD_ZPcGpdOY/output_frames/sec_11_idx_3.jpg",
+        "fps": 25,
+        "explanation": "[5-12] Subsequently, the scene switches to another game again, a player in a red jersey jumps high in front of the goal, attempting to shoot the ball."
+    },
+    {
+        "second": 12,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SD_ZPcGpdOY/output_frames/sec_12_idx_9.jpg",
+        "fps": 25,
+        "explanation": "[5-12] Subsequently, the scene switches to another game again, a player in a red jersey jumps high in front of the goal, attempting to shoot the ball."
+    },
+    {
+        "second": 13,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SD_ZPcGpdOY/output_frames/sec_13_idx_21.jpg",
+        "fps": 25,
+        "explanation": "[12-19] Immediately, the player in the red jersey jumps high again and lobs the ball with his right foot. Then the scene switches to another game, a player in a black jersey is dribbling and lobs the ball to another player in a black jersey. The receiving player jumps high and stops the ball with his right foot."
+    },
+    {
+        "second": 14,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SD_ZPcGpdOY/output_frames/sec_14_idx_5.jpg",
+        "fps": 25,
+        "explanation": "[12-19] Immediately, the player in the red jersey jumps high again and lobs the ball with his right foot. Then the scene switches to another game, a player in a black jersey is dribbling and lobs the ball to another player in a black jersey. The receiving player jumps high and stops the ball with his right foot."
+    },
+    {
+        "second": 15,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SD_ZPcGpdOY/output_frames/sec_15_idx_17.jpg",
+        "fps": 25,
+        "explanation": "[12-19] Immediately, the player in the red jersey jumps high again and lobs the ball with his right foot. Then the scene switches to another game, a player in a black jersey is dribbling and lobs the ball to another player in a black jersey. The receiving player jumps high and stops the ball with his right foot."
+    },
+    {
+        "second": 16,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SD_ZPcGpdOY/output_frames/sec_16_idx_2.jpg",
+        "fps": 25,
+        "explanation": "[12-19] Immediately, the player in the red jersey jumps high again and lobs the ball with his right foot. Then the scene switches to another game, a player in a black jersey is dribbling and lobs the ball to another player in a black jersey. The receiving player jumps high and stops the ball with his right foot."
+    },
+    {
+        "second": 17,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SD_ZPcGpdOY/output_frames/sec_17_idx_22.jpg",
+        "fps": 25,
+        "explanation": "[12-19] Immediately, the player in the red jersey jumps high again and lobs the ball with his right foot. Then the scene switches to another game, a player in a black jersey is dribbling and lobs the ball to another player in a black jersey. The receiving player jumps high and stops the ball with his right foot."
+    },
+    {
+        "second": 18,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SD_ZPcGpdOY/output_frames/sec_18_idx_1.jpg",
+        "fps": 25,
+        "explanation": "[12-19] Immediately, the player in the red jersey jumps high again and lobs the ball with his right foot. Then the scene switches to another game, a player in a black jersey is dribbling and lobs the ball to another player in a black jersey. The receiving player jumps high and stops the ball with his right foot."
+    },
+    {
+        "second": 19,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SD_ZPcGpdOY/output_frames/sec_19_idx_6.jpg",
+        "fps": 25,
+        "explanation": "[12-19] Immediately, the player in the red jersey jumps high again and lobs the ball with his right foot. Then the scene switches to another game, a player in a black jersey is dribbling and lobs the ball to another player in a black jersey. The receiving player jumps high and stops the ball with his right foot."
+    }
+]

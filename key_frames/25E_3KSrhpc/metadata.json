@@ -1,0 +1,44 @@
+[
+    {
+        "second": 0,
+        "frame_index": 45,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/25E_3KSrhpc/output_frames/sec_0_idx_45.jpg",
+        "fps": 60,
+        "explanation": "[0-0] A woman in a yellow shirt sits in a black chair, her mouth open in pain. She is holding a baby in a green shirt and red pants who is staring wide-eyed. Behind the woman in the yellow shirt, a boy in a black shirt bites her right shoulder, and a girl in a red shirt bites her left shoulder. There are two trees with green leaves in the background."
+    },
+    {
+        "second": 1,
+        "frame_index": 53,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/25E_3KSrhpc/output_frames/sec_1_idx_53.jpg",
+        "fps": 60,
+        "explanation": "[0-5] The woman in the yellow shirt continues to have a pained expression. The scene then cuts to the girl in the red shirt biting the woman's shoulder, and the boy in the black shirt biting the other shoulder. The scene then cuts back to the woman in the yellow shirt holding the wide-eyed baby, who is looking at her, while the boy in black and girl in red bite her shoulders. The woman in the yellow shirt has a pained expression on her face."
+    },
+    {
+        "second": 2,
+        "frame_index": 49,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/25E_3KSrhpc/output_frames/sec_2_idx_49.jpg",
+        "fps": 60,
+        "explanation": "[0-5] The woman in the yellow shirt continues to have a pained expression. The scene then cuts to the girl in the red shirt biting the woman's shoulder, and the boy in the black shirt biting the other shoulder. The scene then cuts back to the woman in the yellow shirt holding the wide-eyed baby, who is looking at her, while the boy in black and girl in red bite her shoulders. The woman in the yellow shirt has a pained expression on her face."
+    },
+    {
+        "second": 3,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/25E_3KSrhpc/output_frames/sec_3_idx_8.jpg",
+        "fps": 60,
+        "explanation": "[0-5] The woman in the yellow shirt continues to have a pained expression. The scene then cuts to the girl in the red shirt biting the woman's shoulder, and the boy in the black shirt biting the other shoulder. The scene then cuts back to the woman in the yellow shirt holding the wide-eyed baby, who is looking at her, while the boy in black and girl in red bite her shoulders. The woman in the yellow shirt has a pained expression on her face."
+    },
+    {
+        "second": 4,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/25E_3KSrhpc/output_frames/sec_4_idx_7.jpg",
+        "fps": 60,
+        "explanation": "[0-5] The woman in the yellow shirt continues to have a pained expression. The scene then cuts to the girl in the red shirt biting the woman's shoulder, and the boy in the black shirt biting the other shoulder. The scene then cuts back to the woman in the yellow shirt holding the wide-eyed baby, who is looking at her, while the boy in black and girl in red bite her shoulders. The woman in the yellow shirt has a pained expression on her face."
+    },
+    {
+        "second": 5,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/25E_3KSrhpc/output_frames/sec_5_idx_10.jpg",
+        "fps": 60,
+        "explanation": "[0-5] The woman in the yellow shirt continues to have a pained expression. The scene then cuts to the girl in the red shirt biting the woman's shoulder, and the boy in the black shirt biting the other shoulder. The scene then cuts back to the woman in the yellow shirt holding the wide-eyed baby, who is looking at her, while the boy in black and girl in red bite her shoulders. The woman in the yellow shirt has a pained expression on her face."
+    }
+]

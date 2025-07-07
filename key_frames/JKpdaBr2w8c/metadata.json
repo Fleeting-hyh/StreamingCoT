@@ -1,0 +1,177 @@
+[
+    {
+        "second": 0,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JKpdaBr2w8c/output_frames/sec_0_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A cat in a colorful striped shirt sits by a stove, holding a spatula in a pot. Below, many hamburger buns are placed on a plate. A part of a car can be seen in the background. In the lower right corner, there is a close-up of a cat's face with its eyes wide open and mouth agape."
+    },
+    {
+        "second": 1,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JKpdaBr2w8c/output_frames/sec_1_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[0-2] The scene cuts to a lady sitting in the driver's seat of a gray car, holding a giant sausage. Pictures of sausage, jelly, ice cream, and puffed food appear above. The car window rises, trapping half of the sausage. The scene switches to a cat in a colorful striped shirt sitting on the cement ground. The subtitle \"Stop!\" appears, and the cat walks away."
+    },
+    {
+        "second": 2,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JKpdaBr2w8c/output_frames/sec_2_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[0-2] The scene cuts to a lady sitting in the driver's seat of a gray car, holding a giant sausage. Pictures of sausage, jelly, ice cream, and puffed food appear above. The car window rises, trapping half of the sausage. The scene switches to a cat in a colorful striped shirt sitting on the cement ground. The subtitle \"Stop!\" appears, and the cat walks away."
+    },
+    {
+        "second": 3,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JKpdaBr2w8c/output_frames/sec_3_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[2-4] Then the scene returns to the car, with the sausage still sticking out of the window. However, there's a green check mark on the sausage picture. Then the half sausage falls, and the scene shifts to the cat in the colorful striped shirt catching the falling sausage with a pot."
+    },
+    {
+        "second": 4,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JKpdaBr2w8c/output_frames/sec_4_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[2-4] Then the scene returns to the car, with the sausage still sticking out of the window. However, there's a green check mark on the sausage picture. Then the half sausage falls, and the scene shifts to the cat in the colorful striped shirt catching the falling sausage with a pot."
+    },
+    {
+        "second": 5,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JKpdaBr2w8c/output_frames/sec_5_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[4-8] The camera zooms in on the cat in the colorful striped shirt, who has a delighted expression. The subtitle shows \"Nice!\" The scene changes to the front of the pot, now containing three ham slices being fried in hot oil. A cat's paw holds a spatula, flipping the ham slices that have been fried to golden brown."
+    },
+    {
+        "second": 6,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JKpdaBr2w8c/output_frames/sec_6_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[4-8] The camera zooms in on the cat in the colorful striped shirt, who has a delighted expression. The subtitle shows \"Nice!\" The scene changes to the front of the pot, now containing three ham slices being fried in hot oil. A cat's paw holds a spatula, flipping the ham slices that have been fried to golden brown."
+    },
+    {
+        "second": 7,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JKpdaBr2w8c/output_frames/sec_7_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[4-8] The camera zooms in on the cat in the colorful striped shirt, who has a delighted expression. The subtitle shows \"Nice!\" The scene changes to the front of the pot, now containing three ham slices being fried in hot oil. A cat's paw holds a spatula, flipping the ham slices that have been fried to golden brown."
+    },
+    {
+        "second": 8,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JKpdaBr2w8c/output_frames/sec_8_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[4-8] The camera zooms in on the cat in the colorful striped shirt, who has a delighted expression. The subtitle shows \"Nice!\" The scene changes to the front of the pot, now containing three ham slices being fried in hot oil. A cat's paw holds a spatula, flipping the ham slices that have been fried to golden brown."
+    },
+    {
+        "second": 9,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JKpdaBr2w8c/output_frames/sec_9_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[8-10] The cat's paw then uses the spatula to place a fried ham slice onto a hamburger bun, which already has lettuce and tomato on it."
+    },
+    {
+        "second": 10,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JKpdaBr2w8c/output_frames/sec_10_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[8-10] The cat's paw then uses the spatula to place a fried ham slice onto a hamburger bun, which already has lettuce and tomato on it."
+    },
+    {
+        "second": 11,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JKpdaBr2w8c/output_frames/sec_11_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[10-13] Subsequently, two cat paws place the hamburger bun on top of the ham, completing the burger. The scene focuses on the finished burger. The camera zooms out to show many finished burgers neatly arranged in white takeaway boxes. The cat in the colorful striped shirt smiles at the front, holding a spatula."
+    },
+    {
+        "second": 12,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JKpdaBr2w8c/output_frames/sec_12_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[10-13] Subsequently, two cat paws place the hamburger bun on top of the ham, completing the burger. The scene focuses on the finished burger. The camera zooms out to show many finished burgers neatly arranged in white takeaway boxes. The cat in the colorful striped shirt smiles at the front, holding a spatula."
+    },
+    {
+        "second": 13,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JKpdaBr2w8c/output_frames/sec_13_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[10-13] Subsequently, two cat paws place the hamburger bun on top of the ham, completing the burger. The scene focuses on the finished burger. The camera zooms out to show many finished burgers neatly arranged in white takeaway boxes. The cat in the colorful striped shirt smiles at the front, holding a spatula."
+    },
+    {
+        "second": 14,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JKpdaBr2w8c/output_frames/sec_14_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[13-15] Then, a cat's paw places two burgers on top of a yellow toy car. The scene switches to the perspective of the toy car as it drives forward."
+    },
+    {
+        "second": 15,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JKpdaBr2w8c/output_frames/sec_15_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[13-15] Then, a cat's paw places two burgers on top of a yellow toy car. The scene switches to the perspective of the toy car as it drives forward."
+    },
+    {
+        "second": 16,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JKpdaBr2w8c/output_frames/sec_16_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[15-18] Next, a person in gray pants appears in the scene, standing in front of the car and taking a burger. The white subtitle \"Thank you\" is shown."
+    },
+    {
+        "second": 17,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JKpdaBr2w8c/output_frames/sec_17_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[15-18] Next, a person in gray pants appears in the scene, standing in front of the car and taking a burger. The white subtitle \"Thank you\" is shown."
+    },
+    {
+        "second": 18,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JKpdaBr2w8c/output_frames/sec_18_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[15-18] Next, a person in gray pants appears in the scene, standing in front of the car and taking a burger. The white subtitle \"Thank you\" is shown."
+    },
+    {
+        "second": 19,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JKpdaBr2w8c/output_frames/sec_19_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[18-20] Afterward, the scene shifts to a place with houses, where a person in dark jeans takes a burger. The subtitle shows, \"That's so sweet.\""
+    },
+    {
+        "second": 20,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JKpdaBr2w8c/output_frames/sec_20_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[18-20] Afterward, the scene shifts to a place with houses, where a person in dark jeans takes a burger. The subtitle shows, \"That's so sweet.\""
+    },
+    {
+        "second": 21,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JKpdaBr2w8c/output_frames/sec_21_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[20-24] Finally, the scene arrives at a place with greenery, where a person in light-colored jeans squats down to pick up a burger. The white subtitle \"You're too kind\" appears. Then a cat in an orange sweater appears in the lower right corner of the screen, with the subtitle \"Don't waste food.\" The cat gives a thumbs up."
+    },
+    {
+        "second": 22,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JKpdaBr2w8c/output_frames/sec_22_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[20-24] Finally, the scene arrives at a place with greenery, where a person in light-colored jeans squats down to pick up a burger. The white subtitle \"You're too kind\" appears. Then a cat in an orange sweater appears in the lower right corner of the screen, with the subtitle \"Don't waste food.\" The cat gives a thumbs up."
+    },
+    {
+        "second": 23,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JKpdaBr2w8c/output_frames/sec_23_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[20-24] Finally, the scene arrives at a place with greenery, where a person in light-colored jeans squats down to pick up a burger. The white subtitle \"You're too kind\" appears. Then a cat in an orange sweater appears in the lower right corner of the screen, with the subtitle \"Don't waste food.\" The cat gives a thumbs up."
+    },
+    {
+        "second": 24,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JKpdaBr2w8c/output_frames/sec_24_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[20-24] Finally, the scene arrives at a place with greenery, where a person in light-colored jeans squats down to pick up a burger. The white subtitle \"You're too kind\" appears. Then a cat in an orange sweater appears in the lower right corner of the screen, with the subtitle \"Don't waste food.\" The cat gives a thumbs up."
+    }
+]

@@ -1,0 +1,107 @@
+[
+    {
+        "second": 0,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/B9e76_skaxQ/output_frames/sec_0_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[0-0] The scene is outdoors, a woman in ethnic clothing is standing on a high platform, below is a fully armed man. The man is holding a rifle, and there are several large containers beside him."
+    },
+    {
+        "second": 1,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/B9e76_skaxQ/output_frames/sec_1_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Then the man runs forward, and the woman stretches out a hand and shouts."
+    },
+    {
+        "second": 2,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/B9e76_skaxQ/output_frames/sec_2_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Then the man runs forward, and the woman stretches out a hand and shouts."
+    },
+    {
+        "second": 3,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/B9e76_skaxQ/output_frames/sec_3_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[2-5] Then it switches to the man, who is wearing a helmet, a tactical vest, carrying a backpack, and holding a rifle, moving cautiously in the field. The scene returns to the woman, who comes down from the high platform and starts running into the field."
+    },
+    {
+        "second": 4,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/B9e76_skaxQ/output_frames/sec_4_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[2-5] Then it switches to the man, who is wearing a helmet, a tactical vest, carrying a backpack, and holding a rifle, moving cautiously in the field. The scene returns to the woman, who comes down from the high platform and starts running into the field."
+    },
+    {
+        "second": 5,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/B9e76_skaxQ/output_frames/sec_5_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[2-5] Then it switches to the man, who is wearing a helmet, a tactical vest, carrying a backpack, and holding a rifle, moving cautiously in the field. The scene returns to the woman, who comes down from the high platform and starts running into the field."
+    },
+    {
+        "second": 6,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/B9e76_skaxQ/output_frames/sec_6_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[5-7] Subsequently, the scene changes, the man hides behind a container and squats down, the woman runs out from the right side of the screen and comes behind the man."
+    },
+    {
+        "second": 7,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/B9e76_skaxQ/output_frames/sec_7_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[5-7] Subsequently, the scene changes, the man hides behind a container and squats down, the woman runs out from the right side of the screen and comes behind the man."
+    },
+    {
+        "second": 8,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/B9e76_skaxQ/output_frames/sec_8_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[7-11] Then the woman picks up the frying pan from the man's waist, a little angry, and hits the man on the head with the frying pan."
+    },
+    {
+        "second": 9,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/B9e76_skaxQ/output_frames/sec_9_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[7-11] Then the woman picks up the frying pan from the man's waist, a little angry, and hits the man on the head with the frying pan."
+    },
+    {
+        "second": 10,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/B9e76_skaxQ/output_frames/sec_10_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[7-11] Then the woman picks up the frying pan from the man's waist, a little angry, and hits the man on the head with the frying pan."
+    },
+    {
+        "second": 11,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/B9e76_skaxQ/output_frames/sec_11_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[7-11] Then the woman picks up the frying pan from the man's waist, a little angry, and hits the man on the head with the frying pan."
+    },
+    {
+        "second": 12,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/B9e76_skaxQ/output_frames/sec_12_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[11-15] Finally, the woman hits the man on the head hard with the frying pan. The man covers his head with one hand and falls beside the container. Then the woman walks away angrily with the frying pan."
+    },
+    {
+        "second": 13,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/B9e76_skaxQ/output_frames/sec_13_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[11-15] Finally, the woman hits the man on the head hard with the frying pan. The man covers his head with one hand and falls beside the container. Then the woman walks away angrily with the frying pan."
+    },
+    {
+        "second": 14,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/B9e76_skaxQ/output_frames/sec_14_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[11-15] Finally, the woman hits the man on the head hard with the frying pan. The man covers his head with one hand and falls beside the container. Then the woman walks away angrily with the frying pan."
+    }
+]

@@ -1,0 +1,128 @@
+[
+    {
+        "second": 0,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-_HYsld4Krg/output_frames/sec_0_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A man in a green vest sits at a table, sticking out his tongue. In front of him are two boxes of Oreo cookies. The Oreos on the left are pink, while the ones on the right are blue. On the blue-green wall is a wooden door with a piece of paper that reads \"TOILET\" and a downward arrow."
+    },
+    {
+        "second": 1,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-_HYsld4Krg/output_frames/sec_1_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[0-3] The man in the green vest rubs his hands together, then picks up the Oreo cookie box on the left and pours it into his hand. However, he pours out a pile of Skittles. He puts the cookie box on the table and looks at the colorful candies on the table. The man has a puzzled expression and shakes his head."
+    },
+    {
+        "second": 2,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-_HYsld4Krg/output_frames/sec_2_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[0-3] The man in the green vest rubs his hands together, then picks up the Oreo cookie box on the left and pours it into his hand. However, he pours out a pile of Skittles. He puts the cookie box on the table and looks at the colorful candies on the table. The man has a puzzled expression and shakes his head."
+    },
+    {
+        "second": 3,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-_HYsld4Krg/output_frames/sec_3_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[0-3] The man in the green vest rubs his hands together, then picks up the Oreo cookie box on the left and pours it into his hand. However, he pours out a pile of Skittles. He puts the cookie box on the table and looks at the colorful candies on the table. The man has a puzzled expression and shakes his head."
+    },
+    {
+        "second": 4,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-_HYsld4Krg/output_frames/sec_4_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[3-5] Then the man picks up the Oreo cookie box on the right with both hands and looks inside with a surprised expression. The camera moves to the inside of the cookie box, showing only one cookie inside."
+    },
+    {
+        "second": 5,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-_HYsld4Krg/output_frames/sec_5_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[3-5] Then the man picks up the Oreo cookie box on the right with both hands and looks inside with a surprised expression. The camera moves to the inside of the cookie box, showing only one cookie inside."
+    },
+    {
+        "second": 6,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-_HYsld4Krg/output_frames/sec_6_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[5-7] Afterward, the man happily holds the Oreo cookie box and pours it into his hand, shaking the box violently, but nothing comes out."
+    },
+    {
+        "second": 7,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-_HYsld4Krg/output_frames/sec_7_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[5-7] Afterward, the man happily holds the Oreo cookie box and pours it into his hand, shaking the box violently, but nothing comes out."
+    },
+    {
+        "second": 8,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-_HYsld4Krg/output_frames/sec_8_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[7-9] Then the man stops shaking, turns the cookie box upside down, and continues shaking. The picture shows the Oreo cookie swaying from side to side inside the box."
+    },
+    {
+        "second": 9,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-_HYsld4Krg/output_frames/sec_9_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[7-9] Then the man stops shaking, turns the cookie box upside down, and continues shaking. The picture shows the Oreo cookie swaying from side to side inside the box."
+    },
+    {
+        "second": 10,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-_HYsld4Krg/output_frames/sec_10_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[9-11] Then you see the man slapping the biscuit box with one hand. He lifts the biscuit box with one hand and shakes it with the other."
+    },
+    {
+        "second": 11,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-_HYsld4Krg/output_frames/sec_11_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[9-11] Then you see the man slapping the biscuit box with one hand. He lifts the biscuit box with one hand and shakes it with the other."
+    },
+    {
+        "second": 12,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-_HYsld4Krg/output_frames/sec_12_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[11-15] Then the scene changes, the man takes a pair of pliers and shows them in front of the camera. He uses the pliers to reach into the biscuit box and clamps the Oreo biscuit. He successfully takes the Oreo biscuit out of the biscuit box with the pliers and shows it to the camera."
+    },
+    {
+        "second": 13,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-_HYsld4Krg/output_frames/sec_13_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[11-15] Then the scene changes, the man takes a pair of pliers and shows them in front of the camera. He uses the pliers to reach into the biscuit box and clamps the Oreo biscuit. He successfully takes the Oreo biscuit out of the biscuit box with the pliers and shows it to the camera."
+    },
+    {
+        "second": 14,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-_HYsld4Krg/output_frames/sec_14_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[11-15] Then the scene changes, the man takes a pair of pliers and shows them in front of the camera. He uses the pliers to reach into the biscuit box and clamps the Oreo biscuit. He successfully takes the Oreo biscuit out of the biscuit box with the pliers and shows it to the camera."
+    },
+    {
+        "second": 15,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-_HYsld4Krg/output_frames/sec_15_idx_24.jpg",
+        "fps": 30,
+        "explanation": "[11-15] Then the scene changes, the man takes a pair of pliers and shows them in front of the camera. He uses the pliers to reach into the biscuit box and clamps the Oreo biscuit. He successfully takes the Oreo biscuit out of the biscuit box with the pliers and shows it to the camera."
+    },
+    {
+        "second": 16,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-_HYsld4Krg/output_frames/sec_16_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[15-17] Finally, the man stuffs the Oreo into his mouth, nods his head, eats the cookie, and reveals a satisfied expression."
+    },
+    {
+        "second": 17,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-_HYsld4Krg/output_frames/sec_17_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[15-17] Finally, the man stuffs the Oreo into his mouth, nods his head, eats the cookie, and reveals a satisfied expression."
+    }
+]

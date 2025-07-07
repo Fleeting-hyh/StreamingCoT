@@ -1,0 +1,191 @@
+[
+    {
+        "second": 0,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/M0wUz0jPS84/output_frames/sec_0_idx_3.jpg",
+        "fps": 24,
+        "explanation": "[0-0] A man is lying on a gray carpet looking at the floor, wearing a white shirt. Next to him is a brown table with a black object on it. Beside the table is a white door, behind which hangs a row of swords. There is a white caption in the picture: \"When Mom Says you didn't clean the house good enough:\"."
+    },
+    {
+        "second": 1,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/M0wUz0jPS84/output_frames/sec_1_idx_16.jpg",
+        "fps": 24,
+        "explanation": "[0-3] Then the man disappears to the right, and the screen switches to the living room. The man in gray pants quickly backs up."
+    },
+    {
+        "second": 2,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/M0wUz0jPS84/output_frames/sec_2_idx_4.jpg",
+        "fps": 24,
+        "explanation": "[0-3] Then the man disappears to the right, and the screen switches to the living room. The man in gray pants quickly backs up."
+    },
+    {
+        "second": 3,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/M0wUz0jPS84/output_frames/sec_3_idx_8.jpg",
+        "fps": 24,
+        "explanation": "[0-3] Then the man disappears to the right, and the screen switches to the living room. The man in gray pants quickly backs up."
+    },
+    {
+        "second": 4,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/M0wUz0jPS84/output_frames/sec_4_idx_2.jpg",
+        "fps": 24,
+        "explanation": "[3-5] Immediately, the screen switches to a room with a wall full of swords. The man, holding a black umbrella in his right hand, walks backward, leaving a trail of building blocks on the floor with the umbrella. Then the man quickly retreats again."
+    },
+    {
+        "second": 5,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/M0wUz0jPS84/output_frames/sec_5_idx_17.jpg",
+        "fps": 24,
+        "explanation": "[3-5] Immediately, the screen switches to a room with a wall full of swords. The man, holding a black umbrella in his right hand, walks backward, leaving a trail of building blocks on the floor with the umbrella. Then the man quickly retreats again."
+    },
+    {
+        "second": 6,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/M0wUz0jPS84/output_frames/sec_6_idx_22.jpg",
+        "fps": 24,
+        "explanation": "[5-8] Then the screen switches to the kitchen. The man in black on the right is holding a white plastic bucket and wearing transparent glasses. The man in white on the left is holding a green hair dryer. The debris in the bucket falls onto the gray table, and then the two quickly back up."
+    },
+    {
+        "second": 7,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/M0wUz0jPS84/output_frames/sec_7_idx_0.jpg",
+        "fps": 24,
+        "explanation": "[5-8] Then the screen switches to the kitchen. The man in black on the right is holding a white plastic bucket and wearing transparent glasses. The man in white on the left is holding a green hair dryer. The debris in the bucket falls onto the gray table, and then the two quickly back up."
+    },
+    {
+        "second": 8,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/M0wUz0jPS84/output_frames/sec_8_idx_0.jpg",
+        "fps": 24,
+        "explanation": "[5-8] Then the screen switches to the kitchen. The man in black on the right is holding a white plastic bucket and wearing transparent glasses. The man in white on the left is holding a green hair dryer. The debris in the bucket falls onto the gray table, and then the two quickly back up."
+    },
+    {
+        "second": 9,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/M0wUz0jPS84/output_frames/sec_9_idx_17.jpg",
+        "fps": 24,
+        "explanation": "[8-11] The screen then switches to a room with a fireplace. There are several swords on the fireplace. The man in white runs to the fireplace, takes a sword from the fireplace rack, puts the sword down, and quickly backs up."
+    },
+    {
+        "second": 10,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/M0wUz0jPS84/output_frames/sec_10_idx_23.jpg",
+        "fps": 24,
+        "explanation": "[8-11] The screen then switches to a room with a fireplace. There are several swords on the fireplace. The man in white runs to the fireplace, takes a sword from the fireplace rack, puts the sword down, and quickly backs up."
+    },
+    {
+        "second": 11,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/M0wUz0jPS84/output_frames/sec_11_idx_7.jpg",
+        "fps": 24,
+        "explanation": "[8-11] The screen then switches to a room with a fireplace. There are several swords on the fireplace. The man in white runs to the fireplace, takes a sword from the fireplace rack, puts the sword down, and quickly backs up."
+    },
+    {
+        "second": 12,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/M0wUz0jPS84/output_frames/sec_12_idx_19.jpg",
+        "fps": 24,
+        "explanation": "[11-14] Then the picture switches to a green trash can. The man in white walks backward, holding a white pillow from the trash can."
+    },
+    {
+        "second": 13,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/M0wUz0jPS84/output_frames/sec_13_idx_22.jpg",
+        "fps": 24,
+        "explanation": "[11-14] Then the picture switches to a green trash can. The man in white walks backward, holding a white pillow from the trash can."
+    },
+    {
+        "second": 14,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/M0wUz0jPS84/output_frames/sec_14_idx_17.jpg",
+        "fps": 24,
+        "explanation": "[11-14] Then the picture switches to a green trash can. The man in white walks backward, holding a white pillow from the trash can."
+    },
+    {
+        "second": 15,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/M0wUz0jPS84/output_frames/sec_15_idx_7.jpg",
+        "fps": 24,
+        "explanation": "[14-17] Then the screen switches to the kitchen. The man in white stands by a table with a sink, a black trash can on the floor. The man takes the debris out of the trash can and puts it on the table."
+    },
+    {
+        "second": 16,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/M0wUz0jPS84/output_frames/sec_16_idx_2.jpg",
+        "fps": 24,
+        "explanation": "[14-17] Then the screen switches to the kitchen. The man in white stands by a table with a sink, a black trash can on the floor. The man takes the debris out of the trash can and puts it on the table."
+    },
+    {
+        "second": 17,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/M0wUz0jPS84/output_frames/sec_17_idx_22.jpg",
+        "fps": 24,
+        "explanation": "[14-17] Then the screen switches to the kitchen. The man in white stands by a table with a sink, a black trash can on the floor. The man takes the debris out of the trash can and puts it on the table."
+    },
+    {
+        "second": 18,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/M0wUz0jPS84/output_frames/sec_18_idx_13.jpg",
+        "fps": 24,
+        "explanation": "[17-20] The screen then switches to a bedroom with a bed in it. A man in a black hat lies under the bed, and two other men grab his arms. The man under the bed is holding a white pillow, while the other two men lift the mattress."
+    },
+    {
+        "second": 19,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/M0wUz0jPS84/output_frames/sec_19_idx_1.jpg",
+        "fps": 24,
+        "explanation": "[17-20] The screen then switches to a bedroom with a bed in it. A man in a black hat lies under the bed, and two other men grab his arms. The man under the bed is holding a white pillow, while the other two men lift the mattress."
+    },
+    {
+        "second": 20,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/M0wUz0jPS84/output_frames/sec_20_idx_13.jpg",
+        "fps": 24,
+        "explanation": "[17-20] The screen then switches to a bedroom with a bed in it. A man in a black hat lies under the bed, and two other men grab his arms. The man under the bed is holding a white pillow, while the other two men lift the mattress."
+    },
+    {
+        "second": 21,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/M0wUz0jPS84/output_frames/sec_21_idx_21.jpg",
+        "fps": 24,
+        "explanation": "[20-23] Then the picture switches to the kitchen, a man in white stands by the table, picks up a burning frying pan, and puts the pan on the gas stove."
+    },
+    {
+        "second": 22,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/M0wUz0jPS84/output_frames/sec_22_idx_5.jpg",
+        "fps": 24,
+        "explanation": "[20-23] Then the picture switches to the kitchen, a man in white stands by the table, picks up a burning frying pan, and puts the pan on the gas stove."
+    },
+    {
+        "second": 23,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/M0wUz0jPS84/output_frames/sec_23_idx_16.jpg",
+        "fps": 24,
+        "explanation": "[20-23] Then the picture switches to the kitchen, a man in white stands by the table, picks up a burning frying pan, and puts the pan on the gas stove."
+    },
+    {
+        "second": 24,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/M0wUz0jPS84/output_frames/sec_24_idx_18.jpg",
+        "fps": 24,
+        "explanation": "[23-26] Finally, the picture switches to a room with a gray chair and a wall full of swords beside it. The man in white appears from the left, a black knife falls into his hand, and he sits on the chair."
+    },
+    {
+        "second": 25,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/M0wUz0jPS84/output_frames/sec_25_idx_1.jpg",
+        "fps": 24,
+        "explanation": "[23-26] Finally, the picture switches to a room with a gray chair and a wall full of swords beside it. The man in white appears from the left, a black knife falls into his hand, and he sits on the chair."
+    },
+    {
+        "second": 26,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/M0wUz0jPS84/output_frames/sec_26_idx_0.jpg",
+        "fps": 24,
+        "explanation": "[23-26] Finally, the picture switches to a room with a gray chair and a wall full of swords beside it. The man in white appears from the left, a black knife falls into his hand, and he sits on the chair."
+    }
+]

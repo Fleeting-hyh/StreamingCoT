@@ -1,0 +1,205 @@
+[
+    {
+        "second": 0,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PKENjeZDeik/output_frames/sec_0_idx_8.jpg",
+        "fps": 25,
+        "explanation": "[0-0] A cross-shaped plush toy is placed next to a trash can, the top of the toy is dirty, and next to the toy is half a loaf of bread and a red jar."
+    },
+    {
+        "second": 1,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PKENjeZDeik/output_frames/sec_1_idx_13.jpg",
+        "fps": 25,
+        "explanation": "[0-10] A hand picks up the plush toy. Then the scene switches to the hand holding the plush toy, ready to put it into a transparent cup. The bottom of the cup is filled with water, and the top is filled with white foam. Then the hand puts the plush toy into the cup. Then the scene zooms out, and you can see that this is a blender. Then you see the right hand holding the lid over the blender. Then the scene zooms in, a hand turns the button at the bottom of the blender, the blender starts to run at high speed, the blender cup is filled with white foam, then the hand turns off the button, opens the lid, and takes out the plush toy."
+    },
+    {
+        "second": 2,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PKENjeZDeik/output_frames/sec_2_idx_20.jpg",
+        "fps": 25,
+        "explanation": "[0-10] A hand picks up the plush toy. Then the scene switches to the hand holding the plush toy, ready to put it into a transparent cup. The bottom of the cup is filled with water, and the top is filled with white foam. Then the hand puts the plush toy into the cup. Then the scene zooms out, and you can see that this is a blender. Then you see the right hand holding the lid over the blender. Then the scene zooms in, a hand turns the button at the bottom of the blender, the blender starts to run at high speed, the blender cup is filled with white foam, then the hand turns off the button, opens the lid, and takes out the plush toy."
+    },
+    {
+        "second": 3,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PKENjeZDeik/output_frames/sec_3_idx_14.jpg",
+        "fps": 25,
+        "explanation": "[0-10] A hand picks up the plush toy. Then the scene switches to the hand holding the plush toy, ready to put it into a transparent cup. The bottom of the cup is filled with water, and the top is filled with white foam. Then the hand puts the plush toy into the cup. Then the scene zooms out, and you can see that this is a blender. Then you see the right hand holding the lid over the blender. Then the scene zooms in, a hand turns the button at the bottom of the blender, the blender starts to run at high speed, the blender cup is filled with white foam, then the hand turns off the button, opens the lid, and takes out the plush toy."
+    },
+    {
+        "second": 4,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PKENjeZDeik/output_frames/sec_4_idx_22.jpg",
+        "fps": 25,
+        "explanation": "[0-10] A hand picks up the plush toy. Then the scene switches to the hand holding the plush toy, ready to put it into a transparent cup. The bottom of the cup is filled with water, and the top is filled with white foam. Then the hand puts the plush toy into the cup. Then the scene zooms out, and you can see that this is a blender. Then you see the right hand holding the lid over the blender. Then the scene zooms in, a hand turns the button at the bottom of the blender, the blender starts to run at high speed, the blender cup is filled with white foam, then the hand turns off the button, opens the lid, and takes out the plush toy."
+    },
+    {
+        "second": 5,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PKENjeZDeik/output_frames/sec_5_idx_6.jpg",
+        "fps": 25,
+        "explanation": "[0-10] A hand picks up the plush toy. Then the scene switches to the hand holding the plush toy, ready to put it into a transparent cup. The bottom of the cup is filled with water, and the top is filled with white foam. Then the hand puts the plush toy into the cup. Then the scene zooms out, and you can see that this is a blender. Then you see the right hand holding the lid over the blender. Then the scene zooms in, a hand turns the button at the bottom of the blender, the blender starts to run at high speed, the blender cup is filled with white foam, then the hand turns off the button, opens the lid, and takes out the plush toy."
+    },
+    {
+        "second": 6,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PKENjeZDeik/output_frames/sec_6_idx_18.jpg",
+        "fps": 25,
+        "explanation": "[0-10] A hand picks up the plush toy. Then the scene switches to the hand holding the plush toy, ready to put it into a transparent cup. The bottom of the cup is filled with water, and the top is filled with white foam. Then the hand puts the plush toy into the cup. Then the scene zooms out, and you can see that this is a blender. Then you see the right hand holding the lid over the blender. Then the scene zooms in, a hand turns the button at the bottom of the blender, the blender starts to run at high speed, the blender cup is filled with white foam, then the hand turns off the button, opens the lid, and takes out the plush toy."
+    },
+    {
+        "second": 7,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PKENjeZDeik/output_frames/sec_7_idx_1.jpg",
+        "fps": 25,
+        "explanation": "[0-10] A hand picks up the plush toy. Then the scene switches to the hand holding the plush toy, ready to put it into a transparent cup. The bottom of the cup is filled with water, and the top is filled with white foam. Then the hand puts the plush toy into the cup. Then the scene zooms out, and you can see that this is a blender. Then you see the right hand holding the lid over the blender. Then the scene zooms in, a hand turns the button at the bottom of the blender, the blender starts to run at high speed, the blender cup is filled with white foam, then the hand turns off the button, opens the lid, and takes out the plush toy."
+    },
+    {
+        "second": 8,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PKENjeZDeik/output_frames/sec_8_idx_23.jpg",
+        "fps": 25,
+        "explanation": "[0-10] A hand picks up the plush toy. Then the scene switches to the hand holding the plush toy, ready to put it into a transparent cup. The bottom of the cup is filled with water, and the top is filled with white foam. Then the hand puts the plush toy into the cup. Then the scene zooms out, and you can see that this is a blender. Then you see the right hand holding the lid over the blender. Then the scene zooms in, a hand turns the button at the bottom of the blender, the blender starts to run at high speed, the blender cup is filled with white foam, then the hand turns off the button, opens the lid, and takes out the plush toy."
+    },
+    {
+        "second": 9,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PKENjeZDeik/output_frames/sec_9_idx_16.jpg",
+        "fps": 25,
+        "explanation": "[0-10] A hand picks up the plush toy. Then the scene switches to the hand holding the plush toy, ready to put it into a transparent cup. The bottom of the cup is filled with water, and the top is filled with white foam. Then the hand puts the plush toy into the cup. Then the scene zooms out, and you can see that this is a blender. Then you see the right hand holding the lid over the blender. Then the scene zooms in, a hand turns the button at the bottom of the blender, the blender starts to run at high speed, the blender cup is filled with white foam, then the hand turns off the button, opens the lid, and takes out the plush toy."
+    },
+    {
+        "second": 10,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PKENjeZDeik/output_frames/sec_10_idx_3.jpg",
+        "fps": 25,
+        "explanation": "[0-10] A hand picks up the plush toy. Then the scene switches to the hand holding the plush toy, ready to put it into a transparent cup. The bottom of the cup is filled with water, and the top is filled with white foam. Then the hand puts the plush toy into the cup. Then the scene zooms out, and you can see that this is a blender. Then you see the right hand holding the lid over the blender. Then the scene zooms in, a hand turns the button at the bottom of the blender, the blender starts to run at high speed, the blender cup is filled with white foam, then the hand turns off the button, opens the lid, and takes out the plush toy."
+    },
+    {
+        "second": 11,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PKENjeZDeik/output_frames/sec_11_idx_24.jpg",
+        "fps": 25,
+        "explanation": "[10-16] Then the picture switches to the plush toy. You can see that the plush toy has become as white as new. Then the hands open the plush toy, revealing a cross made of marshmallows. The hands take out the cross, then the scene zooms in on the cross. The hand puts two eyes and a mouth on the cross."
+    },
+    {
+        "second": 12,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PKENjeZDeik/output_frames/sec_12_idx_7.jpg",
+        "fps": 25,
+        "explanation": "[10-16] Then the picture switches to the plush toy. You can see that the plush toy has become as white as new. Then the hands open the plush toy, revealing a cross made of marshmallows. The hands take out the cross, then the scene zooms in on the cross. The hand puts two eyes and a mouth on the cross."
+    },
+    {
+        "second": 13,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PKENjeZDeik/output_frames/sec_13_idx_16.jpg",
+        "fps": 25,
+        "explanation": "[10-16] Then the picture switches to the plush toy. You can see that the plush toy has become as white as new. Then the hands open the plush toy, revealing a cross made of marshmallows. The hands take out the cross, then the scene zooms in on the cross. The hand puts two eyes and a mouth on the cross."
+    },
+    {
+        "second": 14,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PKENjeZDeik/output_frames/sec_14_idx_11.jpg",
+        "fps": 25,
+        "explanation": "[10-16] Then the picture switches to the plush toy. You can see that the plush toy has become as white as new. Then the hands open the plush toy, revealing a cross made of marshmallows. The hands take out the cross, then the scene zooms in on the cross. The hand puts two eyes and a mouth on the cross."
+    },
+    {
+        "second": 15,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PKENjeZDeik/output_frames/sec_15_idx_2.jpg",
+        "fps": 25,
+        "explanation": "[10-16] Then the picture switches to the plush toy. You can see that the plush toy has become as white as new. Then the hands open the plush toy, revealing a cross made of marshmallows. The hands take out the cross, then the scene zooms in on the cross. The hand puts two eyes and a mouth on the cross."
+    },
+    {
+        "second": 16,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PKENjeZDeik/output_frames/sec_16_idx_22.jpg",
+        "fps": 25,
+        "explanation": "[10-16] Then the picture switches to the plush toy. You can see that the plush toy has become as white as new. Then the hands open the plush toy, revealing a cross made of marshmallows. The hands take out the cross, then the scene zooms in on the cross. The hand puts two eyes and a mouth on the cross."
+    },
+    {
+        "second": 17,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PKENjeZDeik/output_frames/sec_17_idx_5.jpg",
+        "fps": 25,
+        "explanation": "[16-20] A banana with white teeth at the bottom, a hand holding a pair of orange eyes pressed on the banana. Then the screen switches, two carrots stand together, showing a human-shaped arrangement, two carrots are glued together with stickers in the middle, a hand holding an eye on the top of the carrot. Then the picture switches, a red pepper with a pair of eyes on it. Then the picture switches, a woman behind the red pepper, fingers pressed on the pepper's eyes, eyes wide, surprised expression, then she grinned happily, revealing teeth with braces, then she turned her head to the left, looking at the banana with teeth next to her."
+    },
+    {
+        "second": 18,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PKENjeZDeik/output_frames/sec_18_idx_24.jpg",
+        "fps": 25,
+        "explanation": "[16-20] A banana with white teeth at the bottom, a hand holding a pair of orange eyes pressed on the banana. Then the screen switches, two carrots stand together, showing a human-shaped arrangement, two carrots are glued together with stickers in the middle, a hand holding an eye on the top of the carrot. Then the picture switches, a red pepper with a pair of eyes on it. Then the picture switches, a woman behind the red pepper, fingers pressed on the pepper's eyes, eyes wide, surprised expression, then she grinned happily, revealing teeth with braces, then she turned her head to the left, looking at the banana with teeth next to her."
+    },
+    {
+        "second": 19,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PKENjeZDeik/output_frames/sec_19_idx_22.jpg",
+        "fps": 25,
+        "explanation": "[16-20] A banana with white teeth at the bottom, a hand holding a pair of orange eyes pressed on the banana. Then the screen switches, two carrots stand together, showing a human-shaped arrangement, two carrots are glued together with stickers in the middle, a hand holding an eye on the top of the carrot. Then the picture switches, a red pepper with a pair of eyes on it. Then the picture switches, a woman behind the red pepper, fingers pressed on the pepper's eyes, eyes wide, surprised expression, then she grinned happily, revealing teeth with braces, then she turned her head to the left, looking at the banana with teeth next to her."
+    },
+    {
+        "second": 20,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PKENjeZDeik/output_frames/sec_20_idx_8.jpg",
+        "fps": 25,
+        "explanation": "[16-20] A banana with white teeth at the bottom, a hand holding a pair of orange eyes pressed on the banana. Then the screen switches, two carrots stand together, showing a human-shaped arrangement, two carrots are glued together with stickers in the middle, a hand holding an eye on the top of the carrot. Then the picture switches, a red pepper with a pair of eyes on it. Then the picture switches, a woman behind the red pepper, fingers pressed on the pepper's eyes, eyes wide, surprised expression, then she grinned happily, revealing teeth with braces, then she turned her head to the left, looking at the banana with teeth next to her."
+    },
+    {
+        "second": 21,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PKENjeZDeik/output_frames/sec_21_idx_22.jpg",
+        "fps": 25,
+        "explanation": "[20-28] Then she continued to move to the left, saw the carrot standing beside the banana, the woman had a happy smile on her face, as the woman moved, the picture has been following the movement, and then the woman moved to the standing cross, opened her mouth and took a bite of the marshmallow on the cross, put it in her mouth and chewed."
+    },
+    {
+        "second": 22,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PKENjeZDeik/output_frames/sec_22_idx_21.jpg",
+        "fps": 25,
+        "explanation": "[20-28] Then she continued to move to the left, saw the carrot standing beside the banana, the woman had a happy smile on her face, as the woman moved, the picture has been following the movement, and then the woman moved to the standing cross, opened her mouth and took a bite of the marshmallow on the cross, put it in her mouth and chewed."
+    },
+    {
+        "second": 23,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PKENjeZDeik/output_frames/sec_23_idx_0.jpg",
+        "fps": 25,
+        "explanation": "[20-28] Then she continued to move to the left, saw the carrot standing beside the banana, the woman had a happy smile on her face, as the woman moved, the picture has been following the movement, and then the woman moved to the standing cross, opened her mouth and took a bite of the marshmallow on the cross, put it in her mouth and chewed."
+    },
+    {
+        "second": 24,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PKENjeZDeik/output_frames/sec_24_idx_4.jpg",
+        "fps": 25,
+        "explanation": "[20-28] Then she continued to move to the left, saw the carrot standing beside the banana, the woman had a happy smile on her face, as the woman moved, the picture has been following the movement, and then the woman moved to the standing cross, opened her mouth and took a bite of the marshmallow on the cross, put it in her mouth and chewed."
+    },
+    {
+        "second": 25,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PKENjeZDeik/output_frames/sec_25_idx_1.jpg",
+        "fps": 25,
+        "explanation": "[20-28] Then she continued to move to the left, saw the carrot standing beside the banana, the woman had a happy smile on her face, as the woman moved, the picture has been following the movement, and then the woman moved to the standing cross, opened her mouth and took a bite of the marshmallow on the cross, put it in her mouth and chewed."
+    },
+    {
+        "second": 26,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PKENjeZDeik/output_frames/sec_26_idx_17.jpg",
+        "fps": 25,
+        "explanation": "[20-28] Then she continued to move to the left, saw the carrot standing beside the banana, the woman had a happy smile on her face, as the woman moved, the picture has been following the movement, and then the woman moved to the standing cross, opened her mouth and took a bite of the marshmallow on the cross, put it in her mouth and chewed."
+    },
+    {
+        "second": 27,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PKENjeZDeik/output_frames/sec_27_idx_4.jpg",
+        "fps": 25,
+        "explanation": "[20-28] Then she continued to move to the left, saw the carrot standing beside the banana, the woman had a happy smile on her face, as the woman moved, the picture has been following the movement, and then the woman moved to the standing cross, opened her mouth and took a bite of the marshmallow on the cross, put it in her mouth and chewed."
+    },
+    {
+        "second": 28,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PKENjeZDeik/output_frames/sec_28_idx_5.jpg",
+        "fps": 25,
+        "explanation": "[20-28] Then she continued to move to the left, saw the carrot standing beside the banana, the woman had a happy smile on her face, as the woman moved, the picture has been following the movement, and then the woman moved to the standing cross, opened her mouth and took a bite of the marshmallow on the cross, put it in her mouth and chewed."
+    }
+]

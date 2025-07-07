@@ -1,0 +1,30 @@
+[
+    {
+        "second": 0,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S8aox2H_D5Q/output_frames/sec_0_idx_19.jpg",
+        "fps": 60,
+        "explanation": "[0-0] At the entrance of a house, a little girl wearing a Chewbacca mask, a yellow T-shirt, and purple pants, is hiding beside the door. A woman in a black and white floral dress and red pants walks out of the house, holding some colorful toys. There is a hanging lamp above the little girl's head."
+    },
+    {
+        "second": 1,
+        "frame_index": 44,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S8aox2H_D5Q/output_frames/sec_1_idx_44.jpg",
+        "fps": 60,
+        "explanation": "[0-3] Then the woman in the black and white floral dress and red pants walks from the house to the doorway. Standing on the threshold, she sees the little girl wearing the Chewbacca mask next to her. The little girl yells, startling the woman, who drops the toys in her hand and starts to back away into the house. The little girl laughs happily, looking at the toys scattered on the ground."
+    },
+    {
+        "second": 2,
+        "frame_index": 33,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S8aox2H_D5Q/output_frames/sec_2_idx_33.jpg",
+        "fps": 60,
+        "explanation": "[0-3] Then the woman in the black and white floral dress and red pants walks from the house to the doorway. Standing on the threshold, she sees the little girl wearing the Chewbacca mask next to her. The little girl yells, startling the woman, who drops the toys in her hand and starts to back away into the house. The little girl laughs happily, looking at the toys scattered on the ground."
+    },
+    {
+        "second": 3,
+        "frame_index": 31,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S8aox2H_D5Q/output_frames/sec_3_idx_31.jpg",
+        "fps": 60,
+        "explanation": "[0-3] Then the woman in the black and white floral dress and red pants walks from the house to the doorway. Standing on the threshold, she sees the little girl wearing the Chewbacca mask next to her. The little girl yells, startling the woman, who drops the toys in her hand and starts to back away into the house. The little girl laughs happily, looking at the toys scattered on the ground."
+    }
+]

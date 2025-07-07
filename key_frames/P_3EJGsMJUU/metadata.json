@@ -1,0 +1,79 @@
+[
+    {
+        "second": 0,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P_3EJGsMJUU/output_frames/sec_0_idx_14.jpg",
+        "fps": 25,
+        "explanation": "[0-0] A leopard cub and its much larger mother. They are surrounded by tall grasses and sparse trees in a dry bush environment."
+    },
+    {
+        "second": 1,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P_3EJGsMJUU/output_frames/sec_1_idx_0.jpg",
+        "fps": 25,
+        "explanation": "[0-10] The leopard cub stops and stands in the middle of the path as the mother continues walking, before running ahead and disappearing into the grass to the right."
+    },
+    {
+        "second": 2,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P_3EJGsMJUU/output_frames/sec_2_idx_8.jpg",
+        "fps": 25,
+        "explanation": "[0-10] The leopard cub stops and stands in the middle of the path as the mother continues walking, before running ahead and disappearing into the grass to the right."
+    },
+    {
+        "second": 3,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P_3EJGsMJUU/output_frames/sec_3_idx_14.jpg",
+        "fps": 25,
+        "explanation": "[0-10] The leopard cub stops and stands in the middle of the path as the mother continues walking, before running ahead and disappearing into the grass to the right."
+    },
+    {
+        "second": 4,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P_3EJGsMJUU/output_frames/sec_4_idx_10.jpg",
+        "fps": 25,
+        "explanation": "[0-10] The leopard cub stops and stands in the middle of the path as the mother continues walking, before running ahead and disappearing into the grass to the right."
+    },
+    {
+        "second": 5,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P_3EJGsMJUU/output_frames/sec_5_idx_19.jpg",
+        "fps": 25,
+        "explanation": "[0-10] The leopard cub stops and stands in the middle of the path as the mother continues walking, before running ahead and disappearing into the grass to the right."
+    },
+    {
+        "second": 6,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P_3EJGsMJUU/output_frames/sec_6_idx_23.jpg",
+        "fps": 25,
+        "explanation": "[0-10] The leopard cub stops and stands in the middle of the path as the mother continues walking, before running ahead and disappearing into the grass to the right."
+    },
+    {
+        "second": 7,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P_3EJGsMJUU/output_frames/sec_7_idx_24.jpg",
+        "fps": 25,
+        "explanation": "[0-10] The leopard cub stops and stands in the middle of the path as the mother continues walking, before running ahead and disappearing into the grass to the right."
+    },
+    {
+        "second": 8,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P_3EJGsMJUU/output_frames/sec_8_idx_6.jpg",
+        "fps": 25,
+        "explanation": "[0-10] The leopard cub stops and stands in the middle of the path as the mother continues walking, before running ahead and disappearing into the grass to the right."
+    },
+    {
+        "second": 9,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P_3EJGsMJUU/output_frames/sec_9_idx_15.jpg",
+        "fps": 25,
+        "explanation": "[0-10] The leopard cub stops and stands in the middle of the path as the mother continues walking, before running ahead and disappearing into the grass to the right."
+    },
+    {
+        "second": 10,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P_3EJGsMJUU/output_frames/sec_10_idx_11.jpg",
+        "fps": 25,
+        "explanation": "[0-10] The leopard cub stops and stands in the middle of the path as the mother continues walking, before running ahead and disappearing into the grass to the right."
+    }
+]

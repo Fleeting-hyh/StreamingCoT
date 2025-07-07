@@ -1,0 +1,79 @@
+[
+    {
+        "second": 0,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JXtocFdMMPU/output_frames/sec_0_idx_13.jpg",
+        "fps": 24,
+        "explanation": "[0-0] A road with a white line is visible, flanked by grass, bushes, and a few trees. A monster on the road turns its head to look to the left. On the right side, there is a white bullet comment: \"Shortest Blockbusters\"."
+    },
+    {
+        "second": 1,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JXtocFdMMPU/output_frames/sec_1_idx_22.jpg",
+        "fps": 24,
+        "explanation": "[0-2] The monster is slowly moving forward, looking left and right for something. The camera moves to the left, and the monster's figure is obscured by a tree trunk."
+    },
+    {
+        "second": 2,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JXtocFdMMPU/output_frames/sec_2_idx_3.jpg",
+        "fps": 24,
+        "explanation": "[0-2] The monster is slowly moving forward, looking left and right for something. The camera moves to the left, and the monster's figure is obscured by a tree trunk."
+    },
+    {
+        "second": 3,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JXtocFdMMPU/output_frames/sec_3_idx_19.jpg",
+        "fps": 24,
+        "explanation": "[2-7] Subsequently, the camera moves to the right. The monster's figure reappears in view, still searching left and right. The camera moves to the left again, hiding the monster behind a tree trunk."
+    },
+    {
+        "second": 4,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JXtocFdMMPU/output_frames/sec_4_idx_1.jpg",
+        "fps": 24,
+        "explanation": "[2-7] Subsequently, the camera moves to the right. The monster's figure reappears in view, still searching left and right. The camera moves to the left again, hiding the monster behind a tree trunk."
+    },
+    {
+        "second": 5,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JXtocFdMMPU/output_frames/sec_5_idx_12.jpg",
+        "fps": 24,
+        "explanation": "[2-7] Subsequently, the camera moves to the right. The monster's figure reappears in view, still searching left and right. The camera moves to the left again, hiding the monster behind a tree trunk."
+    },
+    {
+        "second": 6,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JXtocFdMMPU/output_frames/sec_6_idx_22.jpg",
+        "fps": 24,
+        "explanation": "[2-7] Subsequently, the camera moves to the right. The monster's figure reappears in view, still searching left and right. The camera moves to the left again, hiding the monster behind a tree trunk."
+    },
+    {
+        "second": 7,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JXtocFdMMPU/output_frames/sec_7_idx_2.jpg",
+        "fps": 24,
+        "explanation": "[2-7] Subsequently, the camera moves to the right. The monster's figure reappears in view, still searching left and right. The camera moves to the left again, hiding the monster behind a tree trunk."
+    },
+    {
+        "second": 8,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JXtocFdMMPU/output_frames/sec_8_idx_14.jpg",
+        "fps": 24,
+        "explanation": "[7-10] Then, the camera moves to the right. The monster reappears and swiftly runs forward. Following a camera shake, the screen turns black."
+    },
+    {
+        "second": 9,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JXtocFdMMPU/output_frames/sec_9_idx_7.jpg",
+        "fps": 24,
+        "explanation": "[7-10] Then, the camera moves to the right. The monster reappears and swiftly runs forward. Following a camera shake, the screen turns black."
+    },
+    {
+        "second": 10,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JXtocFdMMPU/output_frames/sec_10_idx_0.jpg",
+        "fps": 24,
+        "explanation": "[7-10] Then, the camera moves to the right. The monster reappears and swiftly runs forward. Following a camera shake, the screen turns black."
+    }
+]

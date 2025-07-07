@@ -1,0 +1,58 @@
+[
+    {
+        "second": 0,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3cPO3ZZ_gNU/output_frames/sec_0_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[0-0] In front of a green lawn, there are three bottles of cola: a transparent Sprite, a black Pepsi, and a yellow Fanta."
+    },
+    {
+        "second": 1,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3cPO3ZZ_gNU/output_frames/sec_1_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Then a hand puts a string of white candy into the transparent Sprite, and many bubbles appear in the Sprite."
+    },
+    {
+        "second": 2,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3cPO3ZZ_gNU/output_frames/sec_2_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Then a hand puts a string of white candy into the transparent Sprite, and many bubbles appear in the Sprite."
+    },
+    {
+        "second": 3,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3cPO3ZZ_gNU/output_frames/sec_3_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[2-5] Next, a hand puts a string of white candy into the black Pepsi, and many bubbles appear in the Pepsi. Then a hand throws a string of white candy from above the yellow Fanta to the ground."
+    },
+    {
+        "second": 4,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3cPO3ZZ_gNU/output_frames/sec_4_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[2-5] Next, a hand puts a string of white candy into the black Pepsi, and many bubbles appear in the Pepsi. Then a hand throws a string of white candy from above the yellow Fanta to the ground."
+    },
+    {
+        "second": 5,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3cPO3ZZ_gNU/output_frames/sec_5_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[2-5] Next, a hand puts a string of white candy into the black Pepsi, and many bubbles appear in the Pepsi. Then a hand throws a string of white candy from above the yellow Fanta to the ground."
+    },
+    {
+        "second": 6,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3cPO3ZZ_gNU/output_frames/sec_6_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[5-7] Then a hand puts a string of white candy into the yellow Fanta."
+    },
+    {
+        "second": 7,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3cPO3ZZ_gNU/output_frames/sec_7_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[5-7] Then a hand puts a string of white candy into the yellow Fanta."
+    }
+]

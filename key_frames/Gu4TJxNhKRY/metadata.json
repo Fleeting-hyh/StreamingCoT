@@ -1,0 +1,37 @@
+[
+    {
+        "second": 0,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Gu4TJxNhKRY/output_frames/sec_0_idx_24.jpg",
+        "fps": 30,
+        "explanation": "[0-0] Four people in Teletubbies costumes are huddled together on green grass, with a child's face replacing the head of the red Teletubby costume."
+    },
+    {
+        "second": 1,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Gu4TJxNhKRY/output_frames/sec_1_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The frame is still, with the surrounding Teletubbies maintaining the same posture. The child begins to open their mouth to sing."
+    },
+    {
+        "second": 2,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Gu4TJxNhKRY/output_frames/sec_2_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The frame is still, with the surrounding Teletubbies maintaining the same posture. The child begins to open their mouth to sing."
+    },
+    {
+        "second": 3,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Gu4TJxNhKRY/output_frames/sec_3_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The frame is still, with the surrounding Teletubbies maintaining the same posture. The child begins to open their mouth to sing."
+    },
+    {
+        "second": 4,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Gu4TJxNhKRY/output_frames/sec_4_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The frame is still, with the surrounding Teletubbies maintaining the same posture. The child begins to open their mouth to sing."
+    }
+]

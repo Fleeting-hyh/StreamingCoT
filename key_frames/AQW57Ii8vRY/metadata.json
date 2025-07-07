@@ -1,0 +1,86 @@
+[
+    {
+        "second": 0,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AQW57Ii8vRY/output_frames/sec_0_idx_24.jpg",
+        "fps": 30,
+        "explanation": "[0-0] The screen is divided into three parts. The upper part has a yellow background with a green frame. The lower part has a blue screen with the corner of a blue object in the background. In the middle part, a small blue robot stands in a room full of toys and tools. The walls of the room are yellow, decorated with some pictures. The room has some furniture, including a green cabinet, a yellow chest of drawers, and a small red car."
+    },
+    {
+        "second": 1,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AQW57Ii8vRY/output_frames/sec_1_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[0-3] In the middle part, the small blue robot walks forward in the room, and as it moves, the surrounding scenery moves backward. Soon, the small blue robot arrives next to a red sofa in the living room. A small green robot wearing a nurse's cap enters the room from the left and walks towards a small green frog lying on the red sofa. The frog appears to be sick."
+    },
+    {
+        "second": 2,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AQW57Ii8vRY/output_frames/sec_2_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[0-3] In the middle part, the small blue robot walks forward in the room, and as it moves, the surrounding scenery moves backward. Soon, the small blue robot arrives next to a red sofa in the living room. A small green robot wearing a nurse's cap enters the room from the left and walks towards a small green frog lying on the red sofa. The frog appears to be sick."
+    },
+    {
+        "second": 3,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AQW57Ii8vRY/output_frames/sec_3_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[0-3] In the middle part, the small blue robot walks forward in the room, and as it moves, the surrounding scenery moves backward. Soon, the small blue robot arrives next to a red sofa in the living room. A small green robot wearing a nurse's cap enters the room from the left and walks towards a small green frog lying on the red sofa. The frog appears to be sick."
+    },
+    {
+        "second": 4,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AQW57Ii8vRY/output_frames/sec_4_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[3-11] Immediately, the nurse robot puts a transparent thermometer into the frog's mouth. The thermometer quickly turns red, and then the nurse robot takes it out and looks at it."
+    },
+    {
+        "second": 5,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AQW57Ii8vRY/output_frames/sec_5_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[3-11] Immediately, the nurse robot puts a transparent thermometer into the frog's mouth. The thermometer quickly turns red, and then the nurse robot takes it out and looks at it."
+    },
+    {
+        "second": 6,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AQW57Ii8vRY/output_frames/sec_6_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[3-11] Immediately, the nurse robot puts a transparent thermometer into the frog's mouth. The thermometer quickly turns red, and then the nurse robot takes it out and looks at it."
+    },
+    {
+        "second": 7,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AQW57Ii8vRY/output_frames/sec_7_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[3-11] Immediately, the nurse robot puts a transparent thermometer into the frog's mouth. The thermometer quickly turns red, and then the nurse robot takes it out and looks at it."
+    },
+    {
+        "second": 8,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AQW57Ii8vRY/output_frames/sec_8_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[3-11] Immediately, the nurse robot puts a transparent thermometer into the frog's mouth. The thermometer quickly turns red, and then the nurse robot takes it out and looks at it."
+    },
+    {
+        "second": 9,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AQW57Ii8vRY/output_frames/sec_9_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[3-11] Immediately, the nurse robot puts a transparent thermometer into the frog's mouth. The thermometer quickly turns red, and then the nurse robot takes it out and looks at it."
+    },
+    {
+        "second": 10,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AQW57Ii8vRY/output_frames/sec_10_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[3-11] Immediately, the nurse robot puts a transparent thermometer into the frog's mouth. The thermometer quickly turns red, and then the nurse robot takes it out and looks at it."
+    },
+    {
+        "second": 11,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AQW57Ii8vRY/output_frames/sec_11_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[3-11] Immediately, the nurse robot puts a transparent thermometer into the frog's mouth. The thermometer quickly turns red, and then the nurse robot takes it out and looks at it."
+    }
+]

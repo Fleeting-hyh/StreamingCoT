@@ -1,0 +1,72 @@
+[
+    {
+        "second": 0,
+        "frame_index": 54,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/O3d3s_qfxro/output_frames/sec_0_idx_54.jpg",
+        "fps": 60,
+        "explanation": "[0-0] A character in a blue bodysuit stands on a wooden bridge, holding an assault rifle. Facing them is a character in brown clothes. In the distance, there are mountains, trees, and rivers. White subtitles on the screen display \"Auto Fire Setting\" and a yellow emoticon."
+    },
+    {
+        "second": 1,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/O3d3s_qfxro/output_frames/sec_1_idx_28.jpg",
+        "fps": 60,
+        "explanation": "[0-4] The character in blue opens fire, the camera pans left and right. The character in brown moves behind a wooden board, and the player aims at a distant mountaintop and shoots."
+    },
+    {
+        "second": 2,
+        "frame_index": 51,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/O3d3s_qfxro/output_frames/sec_2_idx_51.jpg",
+        "fps": 60,
+        "explanation": "[0-4] The character in blue opens fire, the camera pans left and right. The character in brown moves behind a wooden board, and the player aims at a distant mountaintop and shoots."
+    },
+    {
+        "second": 3,
+        "frame_index": 38,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/O3d3s_qfxro/output_frames/sec_3_idx_38.jpg",
+        "fps": 60,
+        "explanation": "[0-4] The character in blue opens fire, the camera pans left and right. The character in brown moves behind a wooden board, and the player aims at a distant mountaintop and shoots."
+    },
+    {
+        "second": 4,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/O3d3s_qfxro/output_frames/sec_4_idx_5.jpg",
+        "fps": 60,
+        "explanation": "[0-4] The character in blue opens fire, the camera pans left and right. The character in brown moves behind a wooden board, and the player aims at a distant mountaintop and shoots."
+    },
+    {
+        "second": 5,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/O3d3s_qfxro/output_frames/sec_5_idx_1.jpg",
+        "fps": 60,
+        "explanation": "[4-6] The scene immediately switches to an area surrounded by green trees and grass. The character aims at the grass and shoots, and the word \"ELIMINATED\" appears."
+    },
+    {
+        "second": 6,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/O3d3s_qfxro/output_frames/sec_6_idx_1.jpg",
+        "fps": 60,
+        "explanation": "[4-6] The scene immediately switches to an area surrounded by green trees and grass. The character aims at the grass and shoots, and the word \"ELIMINATED\" appears."
+    },
+    {
+        "second": 7,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/O3d3s_qfxro/output_frames/sec_7_idx_17.jpg",
+        "fps": 60,
+        "explanation": "[6-9] Finally, the screen switches to a menu, with the white subtitle \"CYRO OPTIONS\" displayed. The mouse switches the option from \"OFF\" to \"ON.\""
+    },
+    {
+        "second": 8,
+        "frame_index": 44,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/O3d3s_qfxro/output_frames/sec_8_idx_44.jpg",
+        "fps": 60,
+        "explanation": "[6-9] Finally, the screen switches to a menu, with the white subtitle \"CYRO OPTIONS\" displayed. The mouse switches the option from \"OFF\" to \"ON.\""
+    },
+    {
+        "second": 9,
+        "frame_index": 31,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/O3d3s_qfxro/output_frames/sec_9_idx_31.jpg",
+        "fps": 60,
+        "explanation": "[6-9] Finally, the screen switches to a menu, with the white subtitle \"CYRO OPTIONS\" displayed. The mouse switches the option from \"OFF\" to \"ON.\""
+    }
+]

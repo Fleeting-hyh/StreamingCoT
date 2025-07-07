@@ -1,0 +1,79 @@
+[
+    {
+        "second": 0,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PeqD6RmWku8/output_frames/sec_0_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A man wearing an orange shirt and blue jeans is kneeling on the floor, holding a blue plastic basin filled with water and sliced cucumbers. A woman in a floral shirt and a black skirt is sitting on a green sofa, looking down at her phone. The room has wooden flooring, with a potted plant and a flower stand beside them."
+    },
+    {
+        "second": 1,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PeqD6RmWku8/output_frames/sec_1_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[0-3] The man then tries to put the woman's feet into the basin, but the woman takes the basin and pours the water on the floor. The man cowers on the floor, covering his face in fear, while the woman hits him with the basin, spilling brown liquid and cucumber slices on the floor. Then, a pair of pink boots is placed on the floor."
+    },
+    {
+        "second": 2,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PeqD6RmWku8/output_frames/sec_2_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[0-3] The man then tries to put the woman's feet into the basin, but the woman takes the basin and pours the water on the floor. The man cowers on the floor, covering his face in fear, while the woman hits him with the basin, spilling brown liquid and cucumber slices on the floor. Then, a pair of pink boots is placed on the floor."
+    },
+    {
+        "second": 3,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PeqD6RmWku8/output_frames/sec_3_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-3] The man then tries to put the woman's feet into the basin, but the woman takes the basin and pours the water on the floor. The man cowers on the floor, covering his face in fear, while the woman hits him with the basin, spilling brown liquid and cucumber slices on the floor. Then, a pair of pink boots is placed on the floor."
+    },
+    {
+        "second": 4,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PeqD6RmWku8/output_frames/sec_4_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[3-10] Subsequently, someone pours a bottle of brown liquid into the boots, adding some seasonings. Then, a pair of feet step into the boots, and a hand sweeps the garbage on the floor into a dustpan with a broom."
+    },
+    {
+        "second": 5,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PeqD6RmWku8/output_frames/sec_5_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[3-10] Subsequently, someone pours a bottle of brown liquid into the boots, adding some seasonings. Then, a pair of feet step into the boots, and a hand sweeps the garbage on the floor into a dustpan with a broom."
+    },
+    {
+        "second": 6,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PeqD6RmWku8/output_frames/sec_6_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[3-10] Subsequently, someone pours a bottle of brown liquid into the boots, adding some seasonings. Then, a pair of feet step into the boots, and a hand sweeps the garbage on the floor into a dustpan with a broom."
+    },
+    {
+        "second": 7,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PeqD6RmWku8/output_frames/sec_7_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[3-10] Subsequently, someone pours a bottle of brown liquid into the boots, adding some seasonings. Then, a pair of feet step into the boots, and a hand sweeps the garbage on the floor into a dustpan with a broom."
+    },
+    {
+        "second": 8,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PeqD6RmWku8/output_frames/sec_8_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[3-10] Subsequently, someone pours a bottle of brown liquid into the boots, adding some seasonings. Then, a pair of feet step into the boots, and a hand sweeps the garbage on the floor into a dustpan with a broom."
+    },
+    {
+        "second": 9,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PeqD6RmWku8/output_frames/sec_9_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[3-10] Subsequently, someone pours a bottle of brown liquid into the boots, adding some seasonings. Then, a pair of feet step into the boots, and a hand sweeps the garbage on the floor into a dustpan with a broom."
+    },
+    {
+        "second": 10,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PeqD6RmWku8/output_frames/sec_10_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[3-10] Subsequently, someone pours a bottle of brown liquid into the boots, adding some seasonings. Then, a pair of feet step into the boots, and a hand sweeps the garbage on the floor into a dustpan with a broom."
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "second": 0,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/U_MlSmkxc1U/output_frames/sec_0_idx_13.jpg",
+        "fps": 60,
+        "explanation": "[0-0] A white duck is standing on a black and white patterned sofa, with a hand holding a sticker with gold coins drawn on it. On the shelf behind are speakers and sundries."
+    },
+    {
+        "second": 1,
+        "frame_index": 59,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/U_MlSmkxc1U/output_frames/sec_1_idx_59.jpg",
+        "fps": 60,
+        "explanation": "[0-5] Then the hand sticks the sticker on the duck, and the duck begins to shake its body."
+    },
+    {
+        "second": 2,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/U_MlSmkxc1U/output_frames/sec_2_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[0-5] Then the hand sticks the sticker on the duck, and the duck begins to shake its body."
+    },
+    {
+        "second": 3,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/U_MlSmkxc1U/output_frames/sec_3_idx_11.jpg",
+        "fps": 60,
+        "explanation": "[0-5] Then the hand sticks the sticker on the duck, and the duck begins to shake its body."
+    },
+    {
+        "second": 4,
+        "frame_index": 57,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/U_MlSmkxc1U/output_frames/sec_4_idx_57.jpg",
+        "fps": 60,
+        "explanation": "[0-5] Then the hand sticks the sticker on the duck, and the duck begins to shake its body."
+    },
+    {
+        "second": 5,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/U_MlSmkxc1U/output_frames/sec_5_idx_25.jpg",
+        "fps": 60,
+        "explanation": "[0-5] Then the hand sticks the sticker on the duck, and the duck begins to shake its body."
+    },
+    {
+        "second": 6,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/U_MlSmkxc1U/output_frames/sec_6_idx_7.jpg",
+        "fps": 60,
+        "explanation": "[5-9] Finally, the duck shakes its head, then stands on the sofa and gazes forward, without any other movement."
+    },
+    {
+        "second": 7,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/U_MlSmkxc1U/output_frames/sec_7_idx_3.jpg",
+        "fps": 60,
+        "explanation": "[5-9] Finally, the duck shakes its head, then stands on the sofa and gazes forward, without any other movement."
+    },
+    {
+        "second": 8,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/U_MlSmkxc1U/output_frames/sec_8_idx_2.jpg",
+        "fps": 60,
+        "explanation": "[5-9] Finally, the duck shakes its head, then stands on the sofa and gazes forward, without any other movement."
+    },
+    {
+        "second": 9,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/U_MlSmkxc1U/output_frames/sec_9_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[5-9] Finally, the duck shakes its head, then stands on the sofa and gazes forward, without any other movement."
+    }
+]

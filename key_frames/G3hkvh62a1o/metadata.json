@@ -1,0 +1,65 @@
+[
+    {
+        "second": 0,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/G3hkvh62a1o/output_frames/sec_0_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A girl wearing a yellow shirt stands in a brightly decorated room, holding a phone. She looks directly at the camera. The phone screen displays a blue-purple image with German text and a phone icon at the top. The background wall is covered with various colorful cards or papers and decorations such as dried flower bouquets and picture frames."
+    },
+    {
+        "second": 1,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/G3hkvh62a1o/output_frames/sec_1_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-5] The girl remains in the room, holding the phone. The images on the phone screen change as she swipes, showing different apps and pictures."
+    },
+    {
+        "second": 2,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/G3hkvh62a1o/output_frames/sec_2_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[0-5] The girl remains in the room, holding the phone. The images on the phone screen change as she swipes, showing different apps and pictures."
+    },
+    {
+        "second": 3,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/G3hkvh62a1o/output_frames/sec_3_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[0-5] The girl remains in the room, holding the phone. The images on the phone screen change as she swipes, showing different apps and pictures."
+    },
+    {
+        "second": 4,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/G3hkvh62a1o/output_frames/sec_4_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[0-5] The girl remains in the room, holding the phone. The images on the phone screen change as she swipes, showing different apps and pictures."
+    },
+    {
+        "second": 5,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/G3hkvh62a1o/output_frames/sec_5_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[0-5] The girl remains in the room, holding the phone. The images on the phone screen change as she swipes, showing different apps and pictures."
+    },
+    {
+        "second": 6,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/G3hkvh62a1o/output_frames/sec_6_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[5-7] The scene switches to a dark room where a man in a short-sleeved shirt sits in the center. He is surrounded by blue dots, which scatter as he waves his arms. White subtitles appear above."
+    },
+    {
+        "second": 7,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/G3hkvh62a1o/output_frames/sec_7_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[5-7] The scene switches to a dark room where a man in a short-sleeved shirt sits in the center. He is surrounded by blue dots, which scatter as he waves his arms. White subtitles appear above."
+    },
+    {
+        "second": 8,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/G3hkvh62a1o/output_frames/sec_8_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[7-9] The man continues to manipulate the surrounding blue holographic images in the dark room."
+    }
+]

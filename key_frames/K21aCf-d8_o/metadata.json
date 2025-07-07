@@ -1,0 +1,44 @@
+[
+    {
+        "second": 0,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/K21aCf-d8_o/output_frames/sec_0_idx_7.jpg",
+        "fps": 25,
+        "explanation": "[0-0] A man stands on a desolate mountaintop. He has a white beard, wears a black shirt and black pants, and a black hat. He has two guns holstered at his waist. The screen displays black subtitles: \"RDR3 Sound Check 3.\""
+    },
+    {
+        "second": 1,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/K21aCf-d8_o/output_frames/sec_1_idx_20.jpg",
+        "fps": 25,
+        "explanation": "[0-2] The man draws his right-hand gun, raises it, and pulls the trigger. The gun emits fire and smoke. His left hand is placed in front of him, pressing on the gun. He then looks to the right while his left hand continues to press on the gun."
+    },
+    {
+        "second": 2,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/K21aCf-d8_o/output_frames/sec_2_idx_10.jpg",
+        "fps": 25,
+        "explanation": "[0-2] The man draws his right-hand gun, raises it, and pulls the trigger. The gun emits fire and smoke. His left hand is placed in front of him, pressing on the gun. He then looks to the right while his left hand continues to press on the gun."
+    },
+    {
+        "second": 3,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/K21aCf-d8_o/output_frames/sec_3_idx_2.jpg",
+        "fps": 25,
+        "explanation": "[2-6] After the gunshot, the man continues to hold the gun up with his right hand, places his left hand on his right arm, and gazes into the distance."
+    },
+    {
+        "second": 4,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/K21aCf-d8_o/output_frames/sec_4_idx_20.jpg",
+        "fps": 25,
+        "explanation": "[2-6] After the gunshot, the man continues to hold the gun up with his right hand, places his left hand on his right arm, and gazes into the distance."
+    },
+    {
+        "second": 5,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/K21aCf-d8_o/output_frames/sec_5_idx_20.jpg",
+        "fps": 25,
+        "explanation": "[2-6] After the gunshot, the man continues to hold the gun up with his right hand, places his left hand on his right arm, and gazes into the distance."
+    }
+]

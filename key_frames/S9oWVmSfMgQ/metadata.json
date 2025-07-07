@@ -1,0 +1,282 @@
+[
+    {
+        "second": 0,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S9oWVmSfMgQ/output_frames/sec_0_idx_3.jpg",
+        "fps": 60,
+        "explanation": "[0-0] A green toy tractor is parked on the sand, with a gear connected to its rear. There is a pile of gears next to it, and white smoke is coming out of the tractor's chimney. Green vegetation can be seen in the distance. There is a green tractor in the upper left corner of the screen."
+    },
+    {
+        "second": 1,
+        "frame_index": 56,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S9oWVmSfMgQ/output_frames/sec_1_idx_56.jpg",
+        "fps": 60,
+        "explanation": "[0-2] Next, the tractor starts moving forward, pulling a gear."
+    },
+    {
+        "second": 2,
+        "frame_index": 38,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S9oWVmSfMgQ/output_frames/sec_2_idx_38.jpg",
+        "fps": 60,
+        "explanation": "[0-2] Next, the tractor starts moving forward, pulling a gear."
+    },
+    {
+        "second": 3,
+        "frame_index": 48,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S9oWVmSfMgQ/output_frames/sec_3_idx_48.jpg",
+        "fps": 60,
+        "explanation": "[2-11] Immediately afterward, a hand appears in the frame from the right side, rearranging the gears on the ground, placing the largest gear underneath behind the tractor. It continues to place the gears one by one behind the tractor, leaving one gear remaining as the tractor continues moving forward."
+    },
+    {
+        "second": 4,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S9oWVmSfMgQ/output_frames/sec_4_idx_28.jpg",
+        "fps": 60,
+        "explanation": "[2-11] Immediately afterward, a hand appears in the frame from the right side, rearranging the gears on the ground, placing the largest gear underneath behind the tractor. It continues to place the gears one by one behind the tractor, leaving one gear remaining as the tractor continues moving forward."
+    },
+    {
+        "second": 5,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S9oWVmSfMgQ/output_frames/sec_5_idx_23.jpg",
+        "fps": 60,
+        "explanation": "[2-11] Immediately afterward, a hand appears in the frame from the right side, rearranging the gears on the ground, placing the largest gear underneath behind the tractor. It continues to place the gears one by one behind the tractor, leaving one gear remaining as the tractor continues moving forward."
+    },
+    {
+        "second": 6,
+        "frame_index": 57,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S9oWVmSfMgQ/output_frames/sec_6_idx_57.jpg",
+        "fps": 60,
+        "explanation": "[2-11] Immediately afterward, a hand appears in the frame from the right side, rearranging the gears on the ground, placing the largest gear underneath behind the tractor. It continues to place the gears one by one behind the tractor, leaving one gear remaining as the tractor continues moving forward."
+    },
+    {
+        "second": 7,
+        "frame_index": 55,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S9oWVmSfMgQ/output_frames/sec_7_idx_55.jpg",
+        "fps": 60,
+        "explanation": "[2-11] Immediately afterward, a hand appears in the frame from the right side, rearranging the gears on the ground, placing the largest gear underneath behind the tractor. It continues to place the gears one by one behind the tractor, leaving one gear remaining as the tractor continues moving forward."
+    },
+    {
+        "second": 8,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S9oWVmSfMgQ/output_frames/sec_8_idx_16.jpg",
+        "fps": 60,
+        "explanation": "[2-11] Immediately afterward, a hand appears in the frame from the right side, rearranging the gears on the ground, placing the largest gear underneath behind the tractor. It continues to place the gears one by one behind the tractor, leaving one gear remaining as the tractor continues moving forward."
+    },
+    {
+        "second": 9,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S9oWVmSfMgQ/output_frames/sec_9_idx_6.jpg",
+        "fps": 60,
+        "explanation": "[2-11] Immediately afterward, a hand appears in the frame from the right side, rearranging the gears on the ground, placing the largest gear underneath behind the tractor. It continues to place the gears one by one behind the tractor, leaving one gear remaining as the tractor continues moving forward."
+    },
+    {
+        "second": 10,
+        "frame_index": 50,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S9oWVmSfMgQ/output_frames/sec_10_idx_50.jpg",
+        "fps": 60,
+        "explanation": "[2-11] Immediately afterward, a hand appears in the frame from the right side, rearranging the gears on the ground, placing the largest gear underneath behind the tractor. It continues to place the gears one by one behind the tractor, leaving one gear remaining as the tractor continues moving forward."
+    },
+    {
+        "second": 11,
+        "frame_index": 57,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S9oWVmSfMgQ/output_frames/sec_11_idx_57.jpg",
+        "fps": 60,
+        "explanation": "[2-11] Immediately afterward, a hand appears in the frame from the right side, rearranging the gears on the ground, placing the largest gear underneath behind the tractor. It continues to place the gears one by one behind the tractor, leaving one gear remaining as the tractor continues moving forward."
+    },
+    {
+        "second": 12,
+        "frame_index": 41,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S9oWVmSfMgQ/output_frames/sec_12_idx_41.jpg",
+        "fps": 60,
+        "explanation": "[11-21] At this moment, the hand places another gear on the tractor. The tractor's front wheels lift off the ground as it continues to move forward."
+    },
+    {
+        "second": 13,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S9oWVmSfMgQ/output_frames/sec_13_idx_16.jpg",
+        "fps": 60,
+        "explanation": "[11-21] At this moment, the hand places another gear on the tractor. The tractor's front wheels lift off the ground as it continues to move forward."
+    },
+    {
+        "second": 14,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S9oWVmSfMgQ/output_frames/sec_14_idx_3.jpg",
+        "fps": 60,
+        "explanation": "[11-21] At this moment, the hand places another gear on the tractor. The tractor's front wheels lift off the ground as it continues to move forward."
+    },
+    {
+        "second": 15,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S9oWVmSfMgQ/output_frames/sec_15_idx_18.jpg",
+        "fps": 60,
+        "explanation": "[11-21] At this moment, the hand places another gear on the tractor. The tractor's front wheels lift off the ground as it continues to move forward."
+    },
+    {
+        "second": 16,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S9oWVmSfMgQ/output_frames/sec_16_idx_5.jpg",
+        "fps": 60,
+        "explanation": "[11-21] At this moment, the hand places another gear on the tractor. The tractor's front wheels lift off the ground as it continues to move forward."
+    },
+    {
+        "second": 17,
+        "frame_index": 32,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S9oWVmSfMgQ/output_frames/sec_17_idx_32.jpg",
+        "fps": 60,
+        "explanation": "[11-21] At this moment, the hand places another gear on the tractor. The tractor's front wheels lift off the ground as it continues to move forward."
+    },
+    {
+        "second": 18,
+        "frame_index": 54,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S9oWVmSfMgQ/output_frames/sec_18_idx_54.jpg",
+        "fps": 60,
+        "explanation": "[11-21] At this moment, the hand places another gear on the tractor. The tractor's front wheels lift off the ground as it continues to move forward."
+    },
+    {
+        "second": 19,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S9oWVmSfMgQ/output_frames/sec_19_idx_7.jpg",
+        "fps": 60,
+        "explanation": "[11-21] At this moment, the hand places another gear on the tractor. The tractor's front wheels lift off the ground as it continues to move forward."
+    },
+    {
+        "second": 20,
+        "frame_index": 30,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S9oWVmSfMgQ/output_frames/sec_20_idx_30.jpg",
+        "fps": 60,
+        "explanation": "[11-21] At this moment, the hand places another gear on the tractor. The tractor's front wheels lift off the ground as it continues to move forward."
+    },
+    {
+        "second": 21,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S9oWVmSfMgQ/output_frames/sec_21_idx_11.jpg",
+        "fps": 60,
+        "explanation": "[11-21] At this moment, the hand places another gear on the tractor. The tractor's front wheels lift off the ground as it continues to move forward."
+    },
+    {
+        "second": 22,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S9oWVmSfMgQ/output_frames/sec_22_idx_10.jpg",
+        "fps": 60,
+        "explanation": "[21-30] Subsequently, the tractor stops, and the hand places another gear on it. The front wheels lift off the ground, rendering the tractor immobile as its rear wheels spin."
+    },
+    {
+        "second": 23,
+        "frame_index": 54,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S9oWVmSfMgQ/output_frames/sec_23_idx_54.jpg",
+        "fps": 60,
+        "explanation": "[21-30] Subsequently, the tractor stops, and the hand places another gear on it. The front wheels lift off the ground, rendering the tractor immobile as its rear wheels spin."
+    },
+    {
+        "second": 24,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S9oWVmSfMgQ/output_frames/sec_24_idx_5.jpg",
+        "fps": 60,
+        "explanation": "[21-30] Subsequently, the tractor stops, and the hand places another gear on it. The front wheels lift off the ground, rendering the tractor immobile as its rear wheels spin."
+    },
+    {
+        "second": 25,
+        "frame_index": 33,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S9oWVmSfMgQ/output_frames/sec_25_idx_33.jpg",
+        "fps": 60,
+        "explanation": "[21-30] Subsequently, the tractor stops, and the hand places another gear on it. The front wheels lift off the ground, rendering the tractor immobile as its rear wheels spin."
+    },
+    {
+        "second": 26,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S9oWVmSfMgQ/output_frames/sec_26_idx_23.jpg",
+        "fps": 60,
+        "explanation": "[21-30] Subsequently, the tractor stops, and the hand places another gear on it. The front wheels lift off the ground, rendering the tractor immobile as its rear wheels spin."
+    },
+    {
+        "second": 27,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S9oWVmSfMgQ/output_frames/sec_27_idx_24.jpg",
+        "fps": 60,
+        "explanation": "[21-30] Subsequently, the tractor stops, and the hand places another gear on it. The front wheels lift off the ground, rendering the tractor immobile as its rear wheels spin."
+    },
+    {
+        "second": 28,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S9oWVmSfMgQ/output_frames/sec_28_idx_27.jpg",
+        "fps": 60,
+        "explanation": "[21-30] Subsequently, the tractor stops, and the hand places another gear on it. The front wheels lift off the ground, rendering the tractor immobile as its rear wheels spin."
+    },
+    {
+        "second": 29,
+        "frame_index": 53,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S9oWVmSfMgQ/output_frames/sec_29_idx_53.jpg",
+        "fps": 60,
+        "explanation": "[21-30] Subsequently, the tractor stops, and the hand places another gear on it. The front wheels lift off the ground, rendering the tractor immobile as its rear wheels spin."
+    },
+    {
+        "second": 30,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S9oWVmSfMgQ/output_frames/sec_30_idx_10.jpg",
+        "fps": 60,
+        "explanation": "[21-30] Subsequently, the tractor stops, and the hand places another gear on it. The front wheels lift off the ground, rendering the tractor immobile as its rear wheels spin."
+    },
+    {
+        "second": 31,
+        "frame_index": 51,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S9oWVmSfMgQ/output_frames/sec_31_idx_51.jpg",
+        "fps": 60,
+        "explanation": "[30-36] Then, the tractor stops moving, and a hand appears from the left side of the frame, inspecting the rear wheels of the tractor."
+    },
+    {
+        "second": 32,
+        "frame_index": 58,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S9oWVmSfMgQ/output_frames/sec_32_idx_58.jpg",
+        "fps": 60,
+        "explanation": "[30-36] Then, the tractor stops moving, and a hand appears from the left side of the frame, inspecting the rear wheels of the tractor."
+    },
+    {
+        "second": 33,
+        "frame_index": 47,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S9oWVmSfMgQ/output_frames/sec_33_idx_47.jpg",
+        "fps": 60,
+        "explanation": "[30-36] Then, the tractor stops moving, and a hand appears from the left side of the frame, inspecting the rear wheels of the tractor."
+    },
+    {
+        "second": 34,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S9oWVmSfMgQ/output_frames/sec_34_idx_16.jpg",
+        "fps": 60,
+        "explanation": "[30-36] Then, the tractor stops moving, and a hand appears from the left side of the frame, inspecting the rear wheels of the tractor."
+    },
+    {
+        "second": 35,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S9oWVmSfMgQ/output_frames/sec_35_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[30-36] Then, the tractor stops moving, and a hand appears from the left side of the frame, inspecting the rear wheels of the tractor."
+    },
+    {
+        "second": 36,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S9oWVmSfMgQ/output_frames/sec_36_idx_6.jpg",
+        "fps": 60,
+        "explanation": "[30-36] Then, the tractor stops moving, and a hand appears from the left side of the frame, inspecting the rear wheels of the tractor."
+    },
+    {
+        "second": 37,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S9oWVmSfMgQ/output_frames/sec_37_idx_25.jpg",
+        "fps": 60,
+        "explanation": "[36-39] Finally, a man with short black hair and a beard, wearing a white shirt and black trousers, appears in the frame. He is squatting next to the tractor, inspecting it."
+    },
+    {
+        "second": 38,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S9oWVmSfMgQ/output_frames/sec_38_idx_17.jpg",
+        "fps": 60,
+        "explanation": "[36-39] Finally, a man with short black hair and a beard, wearing a white shirt and black trousers, appears in the frame. He is squatting next to the tractor, inspecting it."
+    },
+    {
+        "second": 39,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S9oWVmSfMgQ/output_frames/sec_39_idx_4.jpg",
+        "fps": 60,
+        "explanation": "[36-39] Finally, a man with short black hair and a beard, wearing a white shirt and black trousers, appears in the frame. He is squatting next to the tractor, inspecting it."
+    }
+]

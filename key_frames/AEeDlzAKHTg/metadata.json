@@ -1,0 +1,79 @@
+[
+    {
+        "second": 0,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AEeDlzAKHTg/output_frames/sec_0_idx_15.jpg",
+        "fps": 60,
+        "explanation": "[0-0] One hand holds a strawberry and the other hand holds a craft knife with the blade placed on the strawberry. The black subtitles on the screen show \"Reply to Giorno Giowanna's comment\" and \"How many attempts?\"."
+    },
+    {
+        "second": 1,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AEeDlzAKHTg/output_frames/sec_1_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[0-2] Next, a hand picks out strawberry seeds from the strawberry with a craft knife and puts them into a red box with \"TNT\" written on it. There is a strawberry beside the box, and several purple car models behind it."
+    },
+    {
+        "second": 2,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AEeDlzAKHTg/output_frames/sec_2_idx_1.jpg",
+        "fps": 60,
+        "explanation": "[0-2] Next, a hand picks out strawberry seeds from the strawberry with a craft knife and puts them into a red box with \"TNT\" written on it. There is a strawberry beside the box, and several purple car models behind it."
+    },
+    {
+        "second": 3,
+        "frame_index": 51,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AEeDlzAKHTg/output_frames/sec_3_idx_51.jpg",
+        "fps": 60,
+        "explanation": "[2-6] Immediately, a purple car model approaches the red box from the right and speeds past it."
+    },
+    {
+        "second": 4,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AEeDlzAKHTg/output_frames/sec_4_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[2-6] Immediately, a purple car model approaches the red box from the right and speeds past it."
+    },
+    {
+        "second": 5,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AEeDlzAKHTg/output_frames/sec_5_idx_8.jpg",
+        "fps": 60,
+        "explanation": "[2-6] Immediately, a purple car model approaches the red box from the right and speeds past it."
+    },
+    {
+        "second": 6,
+        "frame_index": 35,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AEeDlzAKHTg/output_frames/sec_6_idx_35.jpg",
+        "fps": 60,
+        "explanation": "[2-6] Immediately, a purple car model approaches the red box from the right and speeds past it."
+    },
+    {
+        "second": 7,
+        "frame_index": 58,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AEeDlzAKHTg/output_frames/sec_7_idx_58.jpg",
+        "fps": 60,
+        "explanation": "[6-10] Then another purple car model speeds past the box, followed by a third purple car."
+    },
+    {
+        "second": 8,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AEeDlzAKHTg/output_frames/sec_8_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[6-10] Then another purple car model speeds past the box, followed by a third purple car."
+    },
+    {
+        "second": 9,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AEeDlzAKHTg/output_frames/sec_9_idx_16.jpg",
+        "fps": 60,
+        "explanation": "[6-10] Then another purple car model speeds past the box, followed by a third purple car."
+    },
+    {
+        "second": 10,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AEeDlzAKHTg/output_frames/sec_10_idx_21.jpg",
+        "fps": 60,
+        "explanation": "[6-10] Then another purple car model speeds past the box, followed by a third purple car."
+    }
+]

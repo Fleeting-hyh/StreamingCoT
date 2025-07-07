@@ -1,0 +1,44 @@
+[
+    {
+        "second": 0,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EQ6RFZlKhSc/output_frames/sec_0_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A person wearing gloves is using a tool to tie branches to a metal wire."
+    },
+    {
+        "second": 1,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EQ6RFZlKhSc/output_frames/sec_1_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[0-2] The person then uses the tool to tightly wrap the wire around the branches, keeping them together."
+    },
+    {
+        "second": 2,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EQ6RFZlKhSc/output_frames/sec_2_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[0-2] The person then uses the tool to tightly wrap the wire around the branches, keeping them together."
+    },
+    {
+        "second": 3,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EQ6RFZlKhSc/output_frames/sec_3_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[2-5] The shot then shifts between close-up and distant views as the person, wearing a black top, continues using the tool to secure the branches with the wire. Once a branch is secure, the person releases the tool, leaving the wire perfectly wrapped."
+    },
+    {
+        "second": 4,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EQ6RFZlKhSc/output_frames/sec_4_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[2-5] The shot then shifts between close-up and distant views as the person, wearing a black top, continues using the tool to secure the branches with the wire. Once a branch is secure, the person releases the tool, leaving the wire perfectly wrapped."
+    },
+    {
+        "second": 5,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EQ6RFZlKhSc/output_frames/sec_5_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[2-5] The shot then shifts between close-up and distant views as the person, wearing a black top, continues using the tool to secure the branches with the wire. Once a branch is secure, the person releases the tool, leaving the wire perfectly wrapped."
+    }
+]

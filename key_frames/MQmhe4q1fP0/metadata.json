@@ -1,0 +1,86 @@
+[
+    {
+        "second": 0,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MQmhe4q1fP0/output_frames/sec_0_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[0-0] Inside a football stadium, a group of football players stand on the grassy field. A football flies through the air. There are yellow fences surrounding the field. Behind them are the stands, filled with spectators. Below the image, there is a caption with white background and black text: \"Blink and you will miss the move by Neuer.\" An emoji of eyes is displayed below the text."
+    },
+    {
+        "second": 1,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MQmhe4q1fP0/output_frames/sec_1_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[0-5] The football continues to fly in the air. A player in a white jersey heads the ball and then falls to the ground. He immediately performs a backward roll to stand up. The football bounces off the ground and flies again. A player in black long sleeves runs quickly after the ball. At this moment, a player wearing a black short-sleeved shirt and shorts runs in from the right and heads the ball. The football lands in front of the goalkeeper in green, who catches it. The player in black short sleeves runs to the right and celebrates with the player in black long sleeves by giving him a high five. The goalkeeper in green dribbles the ball behind him and runs forward. The caption \"Blink and you will miss the move by Neuer.\" disappears, and a new caption with white background and black text, \"Wait for it...\", appears below the image. Players on the field are all running."
+    },
+    {
+        "second": 2,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MQmhe4q1fP0/output_frames/sec_2_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-5] The football continues to fly in the air. A player in a white jersey heads the ball and then falls to the ground. He immediately performs a backward roll to stand up. The football bounces off the ground and flies again. A player in black long sleeves runs quickly after the ball. At this moment, a player wearing a black short-sleeved shirt and shorts runs in from the right and heads the ball. The football lands in front of the goalkeeper in green, who catches it. The player in black short sleeves runs to the right and celebrates with the player in black long sleeves by giving him a high five. The goalkeeper in green dribbles the ball behind him and runs forward. The caption \"Blink and you will miss the move by Neuer.\" disappears, and a new caption with white background and black text, \"Wait for it...\", appears below the image. Players on the field are all running."
+    },
+    {
+        "second": 3,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MQmhe4q1fP0/output_frames/sec_3_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[0-5] The football continues to fly in the air. A player in a white jersey heads the ball and then falls to the ground. He immediately performs a backward roll to stand up. The football bounces off the ground and flies again. A player in black long sleeves runs quickly after the ball. At this moment, a player wearing a black short-sleeved shirt and shorts runs in from the right and heads the ball. The football lands in front of the goalkeeper in green, who catches it. The player in black short sleeves runs to the right and celebrates with the player in black long sleeves by giving him a high five. The goalkeeper in green dribbles the ball behind him and runs forward. The caption \"Blink and you will miss the move by Neuer.\" disappears, and a new caption with white background and black text, \"Wait for it...\", appears below the image. Players on the field are all running."
+    },
+    {
+        "second": 4,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MQmhe4q1fP0/output_frames/sec_4_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[0-5] The football continues to fly in the air. A player in a white jersey heads the ball and then falls to the ground. He immediately performs a backward roll to stand up. The football bounces off the ground and flies again. A player in black long sleeves runs quickly after the ball. At this moment, a player wearing a black short-sleeved shirt and shorts runs in from the right and heads the ball. The football lands in front of the goalkeeper in green, who catches it. The player in black short sleeves runs to the right and celebrates with the player in black long sleeves by giving him a high five. The goalkeeper in green dribbles the ball behind him and runs forward. The caption \"Blink and you will miss the move by Neuer.\" disappears, and a new caption with white background and black text, \"Wait for it...\", appears below the image. Players on the field are all running."
+    },
+    {
+        "second": 5,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MQmhe4q1fP0/output_frames/sec_5_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[0-5] The football continues to fly in the air. A player in a white jersey heads the ball and then falls to the ground. He immediately performs a backward roll to stand up. The football bounces off the ground and flies again. A player in black long sleeves runs quickly after the ball. At this moment, a player wearing a black short-sleeved shirt and shorts runs in from the right and heads the ball. The football lands in front of the goalkeeper in green, who catches it. The player in black short sleeves runs to the right and celebrates with the player in black long sleeves by giving him a high five. The goalkeeper in green dribbles the ball behind him and runs forward. The caption \"Blink and you will miss the move by Neuer.\" disappears, and a new caption with white background and black text, \"Wait for it...\", appears below the image. Players on the field are all running."
+    },
+    {
+        "second": 6,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MQmhe4q1fP0/output_frames/sec_6_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[5-11] Subsequently, the \"Wait for it...\" caption disappears, and the camera zooms in on the goalkeeper. The goalkeeper bounces the ball once on the ground, then lifts it with both hands, turns his body, and throws the ball to the left. Then, a caption with white background and black text, \"The cheeky no-look\", appears in the image, with a smug emoji below it. A player wearing a black long-sleeved shirt and black shorts steps on the ball with his foot. Other players are running on the field."
+    },
+    {
+        "second": 7,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MQmhe4q1fP0/output_frames/sec_7_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[5-11] Subsequently, the \"Wait for it...\" caption disappears, and the camera zooms in on the goalkeeper. The goalkeeper bounces the ball once on the ground, then lifts it with both hands, turns his body, and throws the ball to the left. Then, a caption with white background and black text, \"The cheeky no-look\", appears in the image, with a smug emoji below it. A player wearing a black long-sleeved shirt and black shorts steps on the ball with his foot. Other players are running on the field."
+    },
+    {
+        "second": 8,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MQmhe4q1fP0/output_frames/sec_8_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[5-11] Subsequently, the \"Wait for it...\" caption disappears, and the camera zooms in on the goalkeeper. The goalkeeper bounces the ball once on the ground, then lifts it with both hands, turns his body, and throws the ball to the left. Then, a caption with white background and black text, \"The cheeky no-look\", appears in the image, with a smug emoji below it. A player wearing a black long-sleeved shirt and black shorts steps on the ball with his foot. Other players are running on the field."
+    },
+    {
+        "second": 9,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MQmhe4q1fP0/output_frames/sec_9_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[5-11] Subsequently, the \"Wait for it...\" caption disappears, and the camera zooms in on the goalkeeper. The goalkeeper bounces the ball once on the ground, then lifts it with both hands, turns his body, and throws the ball to the left. Then, a caption with white background and black text, \"The cheeky no-look\", appears in the image, with a smug emoji below it. A player wearing a black long-sleeved shirt and black shorts steps on the ball with his foot. Other players are running on the field."
+    },
+    {
+        "second": 10,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MQmhe4q1fP0/output_frames/sec_10_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[5-11] Subsequently, the \"Wait for it...\" caption disappears, and the camera zooms in on the goalkeeper. The goalkeeper bounces the ball once on the ground, then lifts it with both hands, turns his body, and throws the ball to the left. Then, a caption with white background and black text, \"The cheeky no-look\", appears in the image, with a smug emoji below it. A player wearing a black long-sleeved shirt and black shorts steps on the ball with his foot. Other players are running on the field."
+    },
+    {
+        "second": 11,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MQmhe4q1fP0/output_frames/sec_11_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[5-11] Subsequently, the \"Wait for it...\" caption disappears, and the camera zooms in on the goalkeeper. The goalkeeper bounces the ball once on the ground, then lifts it with both hands, turns his body, and throws the ball to the left. Then, a caption with white background and black text, \"The cheeky no-look\", appears in the image, with a smug emoji below it. A player wearing a black long-sleeved shirt and black shorts steps on the ball with his foot. Other players are running on the field."
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "second": 0,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-6CmhKgIXh0/output_frames/sec_0_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A young woman stands in a room, wearing a grey top and tight pink pants. Her hands are on her waist, she is smiling and looking forward. There is a small wooden table behind her with a bottle of blue hand sanitizer and some other items on it. On the back wall hangs a mirror, below the image are the white words \"sharwan gujar\"."
+    },
+    {
+        "second": 1,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-6CmhKgIXh0/output_frames/sec_1_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Then the woman takes off her grey top, revealing a purple sports bra."
+    },
+    {
+        "second": 2,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-6CmhKgIXh0/output_frames/sec_2_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Then the woman takes off her grey top, revealing a purple sports bra."
+    },
+    {
+        "second": 3,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-6CmhKgIXh0/output_frames/sec_3_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[2-6] Immediately following, the scene switches to a gym, where the woman is kneeling on her left knee, surrounded by many red fitness equipment. Then the woman bends down and does a set of push-ups. As the woman moves, a strand of her long hair falls on the back of her right hand."
+    },
+    {
+        "second": 4,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-6CmhKgIXh0/output_frames/sec_4_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[2-6] Immediately following, the scene switches to a gym, where the woman is kneeling on her left knee, surrounded by many red fitness equipment. Then the woman bends down and does a set of push-ups. As the woman moves, a strand of her long hair falls on the back of her right hand."
+    },
+    {
+        "second": 5,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-6CmhKgIXh0/output_frames/sec_5_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[2-6] Immediately following, the scene switches to a gym, where the woman is kneeling on her left knee, surrounded by many red fitness equipment. Then the woman bends down and does a set of push-ups. As the woman moves, a strand of her long hair falls on the back of her right hand."
+    }
+]

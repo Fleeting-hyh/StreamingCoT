@@ -1,0 +1,58 @@
+[
+    {
+        "second": 0,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3lmWfJiIlP0/output_frames/sec_0_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[0-0] It is a split screen. In the upper half of the screen, a man in a white T-shirt is pointing downwards with both hands in surprise, his eyes wide open and his mouth in an \"O\" shape. Behind him, on the right, is a beige wall with a white curtain hanging above it, and on the left is a refrigerator. In the lower half of the screen, a man in a gray shirt and blue jeans is facing forward, sitting on a swing. Behind him is a brown striped wall with a black object placed underneath."
+    },
+    {
+        "second": 1,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3lmWfJiIlP0/output_frames/sec_1_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Then the man in the white T-shirt in the upper part of the screen opens his mouth and talks while shaking his hands, his eyes constantly moving. The man in the gray shirt in the lower part of the screen is swinging on the swing."
+    },
+    {
+        "second": 2,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3lmWfJiIlP0/output_frames/sec_2_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Then the man in the white T-shirt in the upper part of the screen opens his mouth and talks while shaking his hands, his eyes constantly moving. The man in the gray shirt in the lower part of the screen is swinging on the swing."
+    },
+    {
+        "second": 3,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3lmWfJiIlP0/output_frames/sec_3_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Then the man in the white T-shirt in the upper part of the screen opens his mouth and talks while shaking his hands, his eyes constantly moving. The man in the gray shirt in the lower part of the screen is swinging on the swing."
+    },
+    {
+        "second": 4,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3lmWfJiIlP0/output_frames/sec_4_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Then the man in the white T-shirt in the upper part of the screen opens his mouth and talks while shaking his hands, his eyes constantly moving. The man in the gray shirt in the lower part of the screen is swinging on the swing."
+    },
+    {
+        "second": 5,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3lmWfJiIlP0/output_frames/sec_5_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[4-7] Immediately afterwards, the man in the white T-shirt in the upper part of the screen looks to the right and reaches out with his right hand to grab a white cup. At the same time, the rope on the left side of the swing in the lower part of the screen disappears, and the man in the gray shirt falls to the green ground. The man in the white T-shirt in the upper part of the screen opens his eyes wide in surprise."
+    },
+    {
+        "second": 6,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3lmWfJiIlP0/output_frames/sec_6_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[4-7] Immediately afterwards, the man in the white T-shirt in the upper part of the screen looks to the right and reaches out with his right hand to grab a white cup. At the same time, the rope on the left side of the swing in the lower part of the screen disappears, and the man in the gray shirt falls to the green ground. The man in the white T-shirt in the upper part of the screen opens his eyes wide in surprise."
+    },
+    {
+        "second": 7,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3lmWfJiIlP0/output_frames/sec_7_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[4-7] Immediately afterwards, the man in the white T-shirt in the upper part of the screen looks to the right and reaches out with his right hand to grab a white cup. At the same time, the rope on the left side of the swing in the lower part of the screen disappears, and the man in the gray shirt falls to the green ground. The man in the white T-shirt in the upper part of the screen opens his eyes wide in surprise."
+    }
+]

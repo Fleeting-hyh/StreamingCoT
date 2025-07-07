@@ -1,0 +1,72 @@
+[
+    {
+        "second": 0,
+        "frame_index": 50,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DpkNHMuo0nk/output_frames/sec_0_idx_50.jpg",
+        "fps": 60,
+        "explanation": "[0-0] On a colorful door, there is an exit sign with a right arrow and the word \"EXIT\"."
+    },
+    {
+        "second": 1,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DpkNHMuo0nk/output_frames/sec_1_idx_4.jpg",
+        "fps": 60,
+        "explanation": "[0-4] Subsequently, a hand pushes the door wide open, revealing a clown standing outside and a pink rabbit in the distance leaning against a tree, hanging a T-shaped object from the tree with a rope. The clown then waves at the camera, and another hand closes the door."
+    },
+    {
+        "second": 2,
+        "frame_index": 49,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DpkNHMuo0nk/output_frames/sec_2_idx_49.jpg",
+        "fps": 60,
+        "explanation": "[0-4] Subsequently, a hand pushes the door wide open, revealing a clown standing outside and a pink rabbit in the distance leaning against a tree, hanging a T-shaped object from the tree with a rope. The clown then waves at the camera, and another hand closes the door."
+    },
+    {
+        "second": 3,
+        "frame_index": 40,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DpkNHMuo0nk/output_frames/sec_3_idx_40.jpg",
+        "fps": 60,
+        "explanation": "[0-4] Subsequently, a hand pushes the door wide open, revealing a clown standing outside and a pink rabbit in the distance leaning against a tree, hanging a T-shaped object from the tree with a rope. The clown then waves at the camera, and another hand closes the door."
+    },
+    {
+        "second": 4,
+        "frame_index": 50,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DpkNHMuo0nk/output_frames/sec_4_idx_50.jpg",
+        "fps": 60,
+        "explanation": "[0-4] Subsequently, a hand pushes the door wide open, revealing a clown standing outside and a pink rabbit in the distance leaning against a tree, hanging a T-shaped object from the tree with a rope. The clown then waves at the camera, and another hand closes the door."
+    },
+    {
+        "second": 5,
+        "frame_index": 51,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DpkNHMuo0nk/output_frames/sec_5_idx_51.jpg",
+        "fps": 60,
+        "explanation": "[4-9] Immediately after, someone knocks on the door. A hand opens the door once again to find the pink rabbit hanging upside down in front of the door, tied by the rope. The clown, holding his belly with one hand, points at the rabbit with the other, seemingly laughing at it."
+    },
+    {
+        "second": 6,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DpkNHMuo0nk/output_frames/sec_6_idx_6.jpg",
+        "fps": 60,
+        "explanation": "[4-9] Immediately after, someone knocks on the door. A hand opens the door once again to find the pink rabbit hanging upside down in front of the door, tied by the rope. The clown, holding his belly with one hand, points at the rabbit with the other, seemingly laughing at it."
+    },
+    {
+        "second": 7,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DpkNHMuo0nk/output_frames/sec_7_idx_18.jpg",
+        "fps": 60,
+        "explanation": "[4-9] Immediately after, someone knocks on the door. A hand opens the door once again to find the pink rabbit hanging upside down in front of the door, tied by the rope. The clown, holding his belly with one hand, points at the rabbit with the other, seemingly laughing at it."
+    },
+    {
+        "second": 8,
+        "frame_index": 58,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DpkNHMuo0nk/output_frames/sec_8_idx_58.jpg",
+        "fps": 60,
+        "explanation": "[4-9] Immediately after, someone knocks on the door. A hand opens the door once again to find the pink rabbit hanging upside down in front of the door, tied by the rope. The clown, holding his belly with one hand, points at the rabbit with the other, seemingly laughing at it."
+    },
+    {
+        "second": 9,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DpkNHMuo0nk/output_frames/sec_9_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[4-9] Immediately after, someone knocks on the door. A hand opens the door once again to find the pink rabbit hanging upside down in front of the door, tied by the rope. The clown, holding his belly with one hand, points at the rabbit with the other, seemingly laughing at it."
+    }
+]

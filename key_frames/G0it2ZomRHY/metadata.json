@@ -1,0 +1,37 @@
+[
+    {
+        "second": 0,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/G0it2ZomRHY/output_frames/sec_0_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A beige rectangular box is placed on a gray conveyor belt. The box has two protruding eyes and a large mouth with two rows of sharp teeth. Above the box is a brown tube. On the side of the conveyor belt, there is the text \"@thelovelyhorrorshow\". The background is black."
+    },
+    {
+        "second": 1,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/G0it2ZomRHY/output_frames/sec_1_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Next, the eyes of the rectangular box rotate, while orange paste flows from the brown tube above into the mouth of the rectangular box. Then, the rectangular box gradually turns orange, and the teeth interlock and close the mouth."
+    },
+    {
+        "second": 2,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/G0it2ZomRHY/output_frames/sec_2_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Next, the eyes of the rectangular box rotate, while orange paste flows from the brown tube above into the mouth of the rectangular box. Then, the rectangular box gradually turns orange, and the teeth interlock and close the mouth."
+    },
+    {
+        "second": 3,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/G0it2ZomRHY/output_frames/sec_3_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[2-5] Immediately afterwards, the conveyor belt starts to move, the orange box moves to the right, then falls into a large gray box on the right, and returns to its original appearance."
+    },
+    {
+        "second": 4,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/G0it2ZomRHY/output_frames/sec_4_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[2-5] Immediately afterwards, the conveyor belt starts to move, the orange box moves to the right, then falls into a large gray box on the right, and returns to its original appearance."
+    }
+]

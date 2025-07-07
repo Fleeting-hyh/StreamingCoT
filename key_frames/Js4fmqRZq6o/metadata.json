@@ -1,0 +1,79 @@
+[
+    {
+        "second": 0,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Js4fmqRZq6o/output_frames/sec_0_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A man wearing a red safety helmet and a fluorescent green vest is holding a jar of eyeball-shaped candies. The man is about to take a candy from the jar. The background is blue-gray and white."
+    },
+    {
+        "second": 1,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Js4fmqRZq6o/output_frames/sec_1_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[0-8] Then, the man is about to put an eyeball candy into his mouth, but a man in a green vest points forward with his index finger, then points to his own mouth with both index fingers. The man in the helmet eats the eyeball candy he took out, lifts the jar, and pours all the candies into his mouth."
+    },
+    {
+        "second": 2,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Js4fmqRZq6o/output_frames/sec_2_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[0-8] Then, the man is about to put an eyeball candy into his mouth, but a man in a green vest points forward with his index finger, then points to his own mouth with both index fingers. The man in the helmet eats the eyeball candy he took out, lifts the jar, and pours all the candies into his mouth."
+    },
+    {
+        "second": 3,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Js4fmqRZq6o/output_frames/sec_3_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[0-8] Then, the man is about to put an eyeball candy into his mouth, but a man in a green vest points forward with his index finger, then points to his own mouth with both index fingers. The man in the helmet eats the eyeball candy he took out, lifts the jar, and pours all the candies into his mouth."
+    },
+    {
+        "second": 4,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Js4fmqRZq6o/output_frames/sec_4_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-8] Then, the man is about to put an eyeball candy into his mouth, but a man in a green vest points forward with his index finger, then points to his own mouth with both index fingers. The man in the helmet eats the eyeball candy he took out, lifts the jar, and pours all the candies into his mouth."
+    },
+    {
+        "second": 5,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Js4fmqRZq6o/output_frames/sec_5_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[0-8] Then, the man is about to put an eyeball candy into his mouth, but a man in a green vest points forward with his index finger, then points to his own mouth with both index fingers. The man in the helmet eats the eyeball candy he took out, lifts the jar, and pours all the candies into his mouth."
+    },
+    {
+        "second": 6,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Js4fmqRZq6o/output_frames/sec_6_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[0-8] Then, the man is about to put an eyeball candy into his mouth, but a man in a green vest points forward with his index finger, then points to his own mouth with both index fingers. The man in the helmet eats the eyeball candy he took out, lifts the jar, and pours all the candies into his mouth."
+    },
+    {
+        "second": 7,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Js4fmqRZq6o/output_frames/sec_7_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[0-8] Then, the man is about to put an eyeball candy into his mouth, but a man in a green vest points forward with his index finger, then points to his own mouth with both index fingers. The man in the helmet eats the eyeball candy he took out, lifts the jar, and pours all the candies into his mouth."
+    },
+    {
+        "second": 8,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Js4fmqRZq6o/output_frames/sec_8_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[0-8] Then, the man is about to put an eyeball candy into his mouth, but a man in a green vest points forward with his index finger, then points to his own mouth with both index fingers. The man in the helmet eats the eyeball candy he took out, lifts the jar, and pours all the candies into his mouth."
+    },
+    {
+        "second": 9,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Js4fmqRZq6o/output_frames/sec_9_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[8-10] Next, the man in the helmet hands the empty jar to the man in the green vest. The man in the green vest looks down at the jar and shakes his body."
+    },
+    {
+        "second": 10,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Js4fmqRZq6o/output_frames/sec_10_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[8-10] Next, the man in the helmet hands the empty jar to the man in the green vest. The man in the green vest looks down at the jar and shakes his body."
+    }
+]

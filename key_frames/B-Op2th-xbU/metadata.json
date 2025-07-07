@@ -1,0 +1,135 @@
+[
+    {
+        "second": 0,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/B-Op2th-xbU/output_frames/sec_0_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A small yellow dog wearing green clothes is lying lazily on the wooden floor of a room. Next to it, a man in a blue shirt is sitting at a table, cutting meat. The table is white, behind the dog is a green plant, next to it is a computer desk, a white chair, a black computer, and some items on the table. The walls are white."
+    },
+    {
+        "second": 1,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/B-Op2th-xbU/output_frames/sec_1_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[0-9] The man cuts off a small piece of meat and drops it on the floor. The dog looks at the meat, and a caption pops up: \"Meat?\". The dog immediately gets up and walks towards the meat, the caption changes to \"Good stuff...\", halfway through, the dog sits down, the caption changes to \"Be careful... Don't make any big moves.\" The dog slowly lies down, the caption changes to \"Quietly\". It glances at the camera, \"Don't say a word.\" Then it puts its paw on the meat, \"Hide it first.\""
+    },
+    {
+        "second": 2,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/B-Op2th-xbU/output_frames/sec_2_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[0-9] The man cuts off a small piece of meat and drops it on the floor. The dog looks at the meat, and a caption pops up: \"Meat?\". The dog immediately gets up and walks towards the meat, the caption changes to \"Good stuff...\", halfway through, the dog sits down, the caption changes to \"Be careful... Don't make any big moves.\" The dog slowly lies down, the caption changes to \"Quietly\". It glances at the camera, \"Don't say a word.\" Then it puts its paw on the meat, \"Hide it first.\""
+    },
+    {
+        "second": 3,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/B-Op2th-xbU/output_frames/sec_3_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[0-9] The man cuts off a small piece of meat and drops it on the floor. The dog looks at the meat, and a caption pops up: \"Meat?\". The dog immediately gets up and walks towards the meat, the caption changes to \"Good stuff...\", halfway through, the dog sits down, the caption changes to \"Be careful... Don't make any big moves.\" The dog slowly lies down, the caption changes to \"Quietly\". It glances at the camera, \"Don't say a word.\" Then it puts its paw on the meat, \"Hide it first.\""
+    },
+    {
+        "second": 4,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/B-Op2th-xbU/output_frames/sec_4_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[0-9] The man cuts off a small piece of meat and drops it on the floor. The dog looks at the meat, and a caption pops up: \"Meat?\". The dog immediately gets up and walks towards the meat, the caption changes to \"Good stuff...\", halfway through, the dog sits down, the caption changes to \"Be careful... Don't make any big moves.\" The dog slowly lies down, the caption changes to \"Quietly\". It glances at the camera, \"Don't say a word.\" Then it puts its paw on the meat, \"Hide it first.\""
+    },
+    {
+        "second": 5,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/B-Op2th-xbU/output_frames/sec_5_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[0-9] The man cuts off a small piece of meat and drops it on the floor. The dog looks at the meat, and a caption pops up: \"Meat?\". The dog immediately gets up and walks towards the meat, the caption changes to \"Good stuff...\", halfway through, the dog sits down, the caption changes to \"Be careful... Don't make any big moves.\" The dog slowly lies down, the caption changes to \"Quietly\". It glances at the camera, \"Don't say a word.\" Then it puts its paw on the meat, \"Hide it first.\""
+    },
+    {
+        "second": 6,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/B-Op2th-xbU/output_frames/sec_6_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-9] The man cuts off a small piece of meat and drops it on the floor. The dog looks at the meat, and a caption pops up: \"Meat?\". The dog immediately gets up and walks towards the meat, the caption changes to \"Good stuff...\", halfway through, the dog sits down, the caption changes to \"Be careful... Don't make any big moves.\" The dog slowly lies down, the caption changes to \"Quietly\". It glances at the camera, \"Don't say a word.\" Then it puts its paw on the meat, \"Hide it first.\""
+    },
+    {
+        "second": 7,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/B-Op2th-xbU/output_frames/sec_7_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-9] The man cuts off a small piece of meat and drops it on the floor. The dog looks at the meat, and a caption pops up: \"Meat?\". The dog immediately gets up and walks towards the meat, the caption changes to \"Good stuff...\", halfway through, the dog sits down, the caption changes to \"Be careful... Don't make any big moves.\" The dog slowly lies down, the caption changes to \"Quietly\". It glances at the camera, \"Don't say a word.\" Then it puts its paw on the meat, \"Hide it first.\""
+    },
+    {
+        "second": 8,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/B-Op2th-xbU/output_frames/sec_8_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[0-9] The man cuts off a small piece of meat and drops it on the floor. The dog looks at the meat, and a caption pops up: \"Meat?\". The dog immediately gets up and walks towards the meat, the caption changes to \"Good stuff...\", halfway through, the dog sits down, the caption changes to \"Be careful... Don't make any big moves.\" The dog slowly lies down, the caption changes to \"Quietly\". It glances at the camera, \"Don't say a word.\" Then it puts its paw on the meat, \"Hide it first.\""
+    },
+    {
+        "second": 9,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/B-Op2th-xbU/output_frames/sec_9_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-9] The man cuts off a small piece of meat and drops it on the floor. The dog looks at the meat, and a caption pops up: \"Meat?\". The dog immediately gets up and walks towards the meat, the caption changes to \"Good stuff...\", halfway through, the dog sits down, the caption changes to \"Be careful... Don't make any big moves.\" The dog slowly lies down, the caption changes to \"Quietly\". It glances at the camera, \"Don't say a word.\" Then it puts its paw on the meat, \"Hide it first.\""
+    },
+    {
+        "second": 10,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/B-Op2th-xbU/output_frames/sec_10_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[9-19] Then the dog raises its head and looks in the man's direction, a caption pops up: \"Look back\". The man gets up and walks behind the dog. At the same time, the dog gets up and turns around to watch the man, looks back, and the caption appears \"Make sure the meat is still there...\" After the man enters the room, the dog quickly turns around to \"Eat\". Suddenly, a small white dog appears from the left side and runs straight towards the meat, the letter \"???\" appears. The dog lowers its head, fails to eat, walks towards the camera, and the caption \"Awkward\" appears."
+    },
+    {
+        "second": 11,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/B-Op2th-xbU/output_frames/sec_11_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[9-19] Then the dog raises its head and looks in the man's direction, a caption pops up: \"Look back\". The man gets up and walks behind the dog. At the same time, the dog gets up and turns around to watch the man, looks back, and the caption appears \"Make sure the meat is still there...\" After the man enters the room, the dog quickly turns around to \"Eat\". Suddenly, a small white dog appears from the left side and runs straight towards the meat, the letter \"???\" appears. The dog lowers its head, fails to eat, walks towards the camera, and the caption \"Awkward\" appears."
+    },
+    {
+        "second": 12,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/B-Op2th-xbU/output_frames/sec_12_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[9-19] Then the dog raises its head and looks in the man's direction, a caption pops up: \"Look back\". The man gets up and walks behind the dog. At the same time, the dog gets up and turns around to watch the man, looks back, and the caption appears \"Make sure the meat is still there...\" After the man enters the room, the dog quickly turns around to \"Eat\". Suddenly, a small white dog appears from the left side and runs straight towards the meat, the letter \"???\" appears. The dog lowers its head, fails to eat, walks towards the camera, and the caption \"Awkward\" appears."
+    },
+    {
+        "second": 13,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/B-Op2th-xbU/output_frames/sec_13_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[9-19] Then the dog raises its head and looks in the man's direction, a caption pops up: \"Look back\". The man gets up and walks behind the dog. At the same time, the dog gets up and turns around to watch the man, looks back, and the caption appears \"Make sure the meat is still there...\" After the man enters the room, the dog quickly turns around to \"Eat\". Suddenly, a small white dog appears from the left side and runs straight towards the meat, the letter \"???\" appears. The dog lowers its head, fails to eat, walks towards the camera, and the caption \"Awkward\" appears."
+    },
+    {
+        "second": 14,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/B-Op2th-xbU/output_frames/sec_14_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[9-19] Then the dog raises its head and looks in the man's direction, a caption pops up: \"Look back\". The man gets up and walks behind the dog. At the same time, the dog gets up and turns around to watch the man, looks back, and the caption appears \"Make sure the meat is still there...\" After the man enters the room, the dog quickly turns around to \"Eat\". Suddenly, a small white dog appears from the left side and runs straight towards the meat, the letter \"???\" appears. The dog lowers its head, fails to eat, walks towards the camera, and the caption \"Awkward\" appears."
+    },
+    {
+        "second": 15,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/B-Op2th-xbU/output_frames/sec_15_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[9-19] Then the dog raises its head and looks in the man's direction, a caption pops up: \"Look back\". The man gets up and walks behind the dog. At the same time, the dog gets up and turns around to watch the man, looks back, and the caption appears \"Make sure the meat is still there...\" After the man enters the room, the dog quickly turns around to \"Eat\". Suddenly, a small white dog appears from the left side and runs straight towards the meat, the letter \"???\" appears. The dog lowers its head, fails to eat, walks towards the camera, and the caption \"Awkward\" appears."
+    },
+    {
+        "second": 16,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/B-Op2th-xbU/output_frames/sec_16_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[9-19] Then the dog raises its head and looks in the man's direction, a caption pops up: \"Look back\". The man gets up and walks behind the dog. At the same time, the dog gets up and turns around to watch the man, looks back, and the caption appears \"Make sure the meat is still there...\" After the man enters the room, the dog quickly turns around to \"Eat\". Suddenly, a small white dog appears from the left side and runs straight towards the meat, the letter \"???\" appears. The dog lowers its head, fails to eat, walks towards the camera, and the caption \"Awkward\" appears."
+    },
+    {
+        "second": 17,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/B-Op2th-xbU/output_frames/sec_17_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[9-19] Then the dog raises its head and looks in the man's direction, a caption pops up: \"Look back\". The man gets up and walks behind the dog. At the same time, the dog gets up and turns around to watch the man, looks back, and the caption appears \"Make sure the meat is still there...\" After the man enters the room, the dog quickly turns around to \"Eat\". Suddenly, a small white dog appears from the left side and runs straight towards the meat, the letter \"???\" appears. The dog lowers its head, fails to eat, walks towards the camera, and the caption \"Awkward\" appears."
+    },
+    {
+        "second": 18,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/B-Op2th-xbU/output_frames/sec_18_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[9-19] Then the dog raises its head and looks in the man's direction, a caption pops up: \"Look back\". The man gets up and walks behind the dog. At the same time, the dog gets up and turns around to watch the man, looks back, and the caption appears \"Make sure the meat is still there...\" After the man enters the room, the dog quickly turns around to \"Eat\". Suddenly, a small white dog appears from the left side and runs straight towards the meat, the letter \"???\" appears. The dog lowers its head, fails to eat, walks towards the camera, and the caption \"Awkward\" appears."
+    }
+]

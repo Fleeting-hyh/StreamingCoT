@@ -1,0 +1,114 @@
+[
+    {
+        "second": 0,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6nSehhuhKCI/output_frames/sec_0_idx_2.jpg",
+        "fps": 25,
+        "explanation": "[0-0] In a dimly lit scene, light shines from the left side of the frame, illuminating a black rectangle on the ground. On the right side of the frame is the white rear of a car with a yellow line underneath. Behind the car is a white wall with black doors and windows."
+    },
+    {
+        "second": 1,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6nSehhuhKCI/output_frames/sec_1_idx_5.jpg",
+        "fps": 25,
+        "explanation": "[0-3] The camera follows the car as it moves from right to left, then freezes at the moment the right side of the car collides with a yellow pillar. The right side of the car deforms, the door caving inward, and the airbags deploy inside. The windshield shatters, and the impact pushes the car to the right, with white parts sliding out from under the car. Finally, five stars appear at the top of the frame."
+    },
+    {
+        "second": 2,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6nSehhuhKCI/output_frames/sec_2_idx_1.jpg",
+        "fps": 25,
+        "explanation": "[0-3] The camera follows the car as it moves from right to left, then freezes at the moment the right side of the car collides with a yellow pillar. The right side of the car deforms, the door caving inward, and the airbags deploy inside. The windshield shatters, and the impact pushes the car to the right, with white parts sliding out from under the car. Finally, five stars appear at the top of the frame."
+    },
+    {
+        "second": 3,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6nSehhuhKCI/output_frames/sec_3_idx_22.jpg",
+        "fps": 25,
+        "explanation": "[0-3] The camera follows the car as it moves from right to left, then freezes at the moment the right side of the car collides with a yellow pillar. The right side of the car deforms, the door caving inward, and the airbags deploy inside. The windshield shatters, and the impact pushes the car to the right, with white parts sliding out from under the car. Finally, five stars appear at the top of the frame."
+    },
+    {
+        "second": 4,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6nSehhuhKCI/output_frames/sec_4_idx_11.jpg",
+        "fps": 25,
+        "explanation": "[3-6] The scene changes to a white car parked in the frame. Suddenly, a blue flatbed truck with black tires crashes into the white car from the right. The car door instantly caves in, the airbags deploy inside, and the rear of the car is knocked off-center by the impact. The car shakes twice before coming to a stop."
+    },
+    {
+        "second": 5,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6nSehhuhKCI/output_frames/sec_5_idx_14.jpg",
+        "fps": 25,
+        "explanation": "[3-6] The scene changes to a white car parked in the frame. Suddenly, a blue flatbed truck with black tires crashes into the white car from the right. The car door instantly caves in, the airbags deploy inside, and the rear of the car is knocked off-center by the impact. The car shakes twice before coming to a stop."
+    },
+    {
+        "second": 6,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6nSehhuhKCI/output_frames/sec_6_idx_4.jpg",
+        "fps": 25,
+        "explanation": "[3-6] The scene changes to a white car parked in the frame. Suddenly, a blue flatbed truck with black tires crashes into the white car from the right. The car door instantly caves in, the airbags deploy inside, and the rear of the car is knocked off-center by the impact. The car shakes twice before coming to a stop."
+    },
+    {
+        "second": 7,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6nSehhuhKCI/output_frames/sec_7_idx_22.jpg",
+        "fps": 25,
+        "explanation": "[6-12] The scene changes again. A white car speeds out of a tunnel with rectangular lights, above which two people are observing on a platform, one sitting in front of an instrument. The car then collides head-on with a blue flatbed truck coming from the left. The front of the car collapses severely, and all airbags deploy upon impact. The car bounces twice before coming to a stop. Parts are scattered everywhere, and the car's turn signal starts flashing."
+    },
+    {
+        "second": 8,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6nSehhuhKCI/output_frames/sec_8_idx_15.jpg",
+        "fps": 25,
+        "explanation": "[6-12] The scene changes again. A white car speeds out of a tunnel with rectangular lights, above which two people are observing on a platform, one sitting in front of an instrument. The car then collides head-on with a blue flatbed truck coming from the left. The front of the car collapses severely, and all airbags deploy upon impact. The car bounces twice before coming to a stop. Parts are scattered everywhere, and the car's turn signal starts flashing."
+    },
+    {
+        "second": 9,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6nSehhuhKCI/output_frames/sec_9_idx_7.jpg",
+        "fps": 25,
+        "explanation": "[6-12] The scene changes again. A white car speeds out of a tunnel with rectangular lights, above which two people are observing on a platform, one sitting in front of an instrument. The car then collides head-on with a blue flatbed truck coming from the left. The front of the car collapses severely, and all airbags deploy upon impact. The car bounces twice before coming to a stop. Parts are scattered everywhere, and the car's turn signal starts flashing."
+    },
+    {
+        "second": 10,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6nSehhuhKCI/output_frames/sec_10_idx_14.jpg",
+        "fps": 25,
+        "explanation": "[6-12] The scene changes again. A white car speeds out of a tunnel with rectangular lights, above which two people are observing on a platform, one sitting in front of an instrument. The car then collides head-on with a blue flatbed truck coming from the left. The front of the car collapses severely, and all airbags deploy upon impact. The car bounces twice before coming to a stop. Parts are scattered everywhere, and the car's turn signal starts flashing."
+    },
+    {
+        "second": 11,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6nSehhuhKCI/output_frames/sec_11_idx_1.jpg",
+        "fps": 25,
+        "explanation": "[6-12] The scene changes again. A white car speeds out of a tunnel with rectangular lights, above which two people are observing on a platform, one sitting in front of an instrument. The car then collides head-on with a blue flatbed truck coming from the left. The front of the car collapses severely, and all airbags deploy upon impact. The car bounces twice before coming to a stop. Parts are scattered everywhere, and the car's turn signal starts flashing."
+    },
+    {
+        "second": 12,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6nSehhuhKCI/output_frames/sec_12_idx_16.jpg",
+        "fps": 25,
+        "explanation": "[6-12] The scene changes again. A white car speeds out of a tunnel with rectangular lights, above which two people are observing on a platform, one sitting in front of an instrument. The car then collides head-on with a blue flatbed truck coming from the left. The front of the car collapses severely, and all airbags deploy upon impact. The car bounces twice before coming to a stop. Parts are scattered everywhere, and the car's turn signal starts flashing."
+    },
+    {
+        "second": 13,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6nSehhuhKCI/output_frames/sec_13_idx_0.jpg",
+        "fps": 25,
+        "explanation": "[12-15] The scene changes once more. A black rope pulls a white car toward a wall. At the moment of impact, the car's engine is lifted up, and the entire front of the car is severely deformed. The car rolls backward a short distance before stopping. Parts are scattered on the ground in front of the car."
+    },
+    {
+        "second": 14,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6nSehhuhKCI/output_frames/sec_14_idx_1.jpg",
+        "fps": 25,
+        "explanation": "[12-15] The scene changes once more. A black rope pulls a white car toward a wall. At the moment of impact, the car's engine is lifted up, and the entire front of the car is severely deformed. The car rolls backward a short distance before stopping. Parts are scattered on the ground in front of the car."
+    },
+    {
+        "second": 15,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6nSehhuhKCI/output_frames/sec_15_idx_2.jpg",
+        "fps": 25,
+        "explanation": "[12-15] The scene changes once more. A black rope pulls a white car toward a wall. At the moment of impact, the car's engine is lifted up, and the entire front of the car is severely deformed. The car rolls backward a short distance before stopping. Parts are scattered on the ground in front of the car."
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "second": 0,
+        "frame_index": 30,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9Cg2qpvnl4M/output_frames/sec_0_idx_30.jpg",
+        "fps": 60,
+        "explanation": "[0-0] A brown snake is in a pair of white shoes placed on a blue shoe rack, with a red and white paper on the right side of the white shoes."
+    },
+    {
+        "second": 1,
+        "frame_index": 52,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9Cg2qpvnl4M/output_frames/sec_1_idx_52.jpg",
+        "fps": 60,
+        "explanation": "[0-5] Then the brown snake slowly crawls into the white shoes."
+    },
+    {
+        "second": 2,
+        "frame_index": 56,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9Cg2qpvnl4M/output_frames/sec_2_idx_56.jpg",
+        "fps": 60,
+        "explanation": "[0-5] Then the brown snake slowly crawls into the white shoes."
+    },
+    {
+        "second": 3,
+        "frame_index": 42,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9Cg2qpvnl4M/output_frames/sec_3_idx_42.jpg",
+        "fps": 60,
+        "explanation": "[0-5] Then the brown snake slowly crawls into the white shoes."
+    },
+    {
+        "second": 4,
+        "frame_index": 33,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9Cg2qpvnl4M/output_frames/sec_4_idx_33.jpg",
+        "fps": 60,
+        "explanation": "[0-5] Then the brown snake slowly crawls into the white shoes."
+    },
+    {
+        "second": 5,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9Cg2qpvnl4M/output_frames/sec_5_idx_25.jpg",
+        "fps": 60,
+        "explanation": "[0-5] Then the brown snake slowly crawls into the white shoes."
+    },
+    {
+        "second": 6,
+        "frame_index": 37,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9Cg2qpvnl4M/output_frames/sec_6_idx_37.jpg",
+        "fps": 60,
+        "explanation": "[5-9] Immediately afterward, the red and white paper on the right side is removed, and the brown snake continues to coil up in the white shoes."
+    },
+    {
+        "second": 7,
+        "frame_index": 51,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9Cg2qpvnl4M/output_frames/sec_7_idx_51.jpg",
+        "fps": 60,
+        "explanation": "[5-9] Immediately afterward, the red and white paper on the right side is removed, and the brown snake continues to coil up in the white shoes."
+    },
+    {
+        "second": 8,
+        "frame_index": 30,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9Cg2qpvnl4M/output_frames/sec_8_idx_30.jpg",
+        "fps": 60,
+        "explanation": "[5-9] Immediately afterward, the red and white paper on the right side is removed, and the brown snake continues to coil up in the white shoes."
+    }
+]

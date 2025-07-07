@@ -1,0 +1,72 @@
+[
+    {
+        "second": 0,
+        "frame_index": 47,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/STzUtbXePcg/output_frames/sec_0_idx_47.jpg",
+        "fps": 60,
+        "explanation": "[0-0] In a gym, on a black carpet lies a blue yoga mat. A woman, wearing a gray top and white pants, is lying face down on the mat. There is an orange foam roller under her arms. In front of her is a blue ball, and to her right are two more balls and an orange rack holding several balls and a pink foam roller."
+    },
+    {
+        "second": 1,
+        "frame_index": 31,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/STzUtbXePcg/output_frames/sec_1_idx_31.jpg",
+        "fps": 60,
+        "explanation": "[0-2] A hand enters the frame from the right, its index finger extended and drawing a circle."
+    },
+    {
+        "second": 2,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/STzUtbXePcg/output_frames/sec_2_idx_18.jpg",
+        "fps": 60,
+        "explanation": "[0-2] A hand enters the frame from the right, its index finger extended and drawing a circle."
+    },
+    {
+        "second": 3,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/STzUtbXePcg/output_frames/sec_3_idx_4.jpg",
+        "fps": 60,
+        "explanation": "[2-6] Subsequently, the camera zooms in as the finger continues drawing circles while moving to the left."
+    },
+    {
+        "second": 4,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/STzUtbXePcg/output_frames/sec_4_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[2-6] Subsequently, the camera zooms in as the finger continues drawing circles while moving to the left."
+    },
+    {
+        "second": 5,
+        "frame_index": 57,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/STzUtbXePcg/output_frames/sec_5_idx_57.jpg",
+        "fps": 60,
+        "explanation": "[2-6] Subsequently, the camera zooms in as the finger continues drawing circles while moving to the left."
+    },
+    {
+        "second": 6,
+        "frame_index": 57,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/STzUtbXePcg/output_frames/sec_6_idx_57.jpg",
+        "fps": 60,
+        "explanation": "[2-6] Subsequently, the camera zooms in as the finger continues drawing circles while moving to the left."
+    },
+    {
+        "second": 7,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/STzUtbXePcg/output_frames/sec_7_idx_15.jpg",
+        "fps": 60,
+        "explanation": "[6-9] Then, the finger stops drawing circles and moves to the side of the woman's face. The woman turns her head to look at the finger. Afterward, the finger touches the woman's nose, causing her to widen her eyes and look at the finger. The finger taps the woman's nose and leaves the frame from the bottom right corner. The woman smiles and looks to her lower left."
+    },
+    {
+        "second": 8,
+        "frame_index": 48,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/STzUtbXePcg/output_frames/sec_8_idx_48.jpg",
+        "fps": 60,
+        "explanation": "[6-9] Then, the finger stops drawing circles and moves to the side of the woman's face. The woman turns her head to look at the finger. Afterward, the finger touches the woman's nose, causing her to widen her eyes and look at the finger. The finger taps the woman's nose and leaves the frame from the bottom right corner. The woman smiles and looks to her lower left."
+    },
+    {
+        "second": 9,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/STzUtbXePcg/output_frames/sec_9_idx_4.jpg",
+        "fps": 60,
+        "explanation": "[6-9] Then, the finger stops drawing circles and moves to the side of the woman's face. The woman turns her head to look at the finger. Afterward, the finger touches the woman's nose, causing her to widen her eyes and look at the finger. The finger taps the woman's nose and leaves the frame from the bottom right corner. The woman smiles and looks to her lower left."
+    }
+]

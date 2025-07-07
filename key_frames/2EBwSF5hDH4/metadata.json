@@ -1,0 +1,100 @@
+[
+    {
+        "second": 0,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2EBwSF5hDH4/output_frames/sec_0_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A man wearing a mask is standing in front of a large indoor LED screen displaying icons of apps like Google, LED settings, YouTube, TikTok, and a program called NovalCT. The man, wearing a gray short-sleeved T-shirt, is touching the area of the screen displaying the LED settings interface."
+    },
+    {
+        "second": 1,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2EBwSF5hDH4/output_frames/sec_1_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[0-5] The masked man begins to adjust the frame of the LED screen with both hands, attempting to align it. After discovering that two LED display panels are installed backward, the man removes an LED module from the upper right corner of the screen, revealing the circuit board and wiring on the back of the module."
+    },
+    {
+        "second": 2,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2EBwSF5hDH4/output_frames/sec_2_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-5] The masked man begins to adjust the frame of the LED screen with both hands, attempting to align it. After discovering that two LED display panels are installed backward, the man removes an LED module from the upper right corner of the screen, revealing the circuit board and wiring on the back of the module."
+    },
+    {
+        "second": 3,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2EBwSF5hDH4/output_frames/sec_3_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[0-5] The masked man begins to adjust the frame of the LED screen with both hands, attempting to align it. After discovering that two LED display panels are installed backward, the man removes an LED module from the upper right corner of the screen, revealing the circuit board and wiring on the back of the module."
+    },
+    {
+        "second": 4,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2EBwSF5hDH4/output_frames/sec_4_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[0-5] The masked man begins to adjust the frame of the LED screen with both hands, attempting to align it. After discovering that two LED display panels are installed backward, the man removes an LED module from the upper right corner of the screen, revealing the circuit board and wiring on the back of the module."
+    },
+    {
+        "second": 5,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2EBwSF5hDH4/output_frames/sec_5_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[0-5] The masked man begins to adjust the frame of the LED screen with both hands, attempting to align it. After discovering that two LED display panels are installed backward, the man removes an LED module from the upper right corner of the screen, revealing the circuit board and wiring on the back of the module."
+    },
+    {
+        "second": 6,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2EBwSF5hDH4/output_frames/sec_6_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[5-13] The man reinstalls the removed LED module back onto the display screen, carefully adjusting its position to align with the other modules. He then continues to adjust the modules of the LED screen, removes another reversed LED module from the bottom of the screen, and reinstalls it on the right side of the screen."
+    },
+    {
+        "second": 7,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2EBwSF5hDH4/output_frames/sec_7_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[5-13] The man reinstalls the removed LED module back onto the display screen, carefully adjusting its position to align with the other modules. He then continues to adjust the modules of the LED screen, removes another reversed LED module from the bottom of the screen, and reinstalls it on the right side of the screen."
+    },
+    {
+        "second": 8,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2EBwSF5hDH4/output_frames/sec_8_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[5-13] The man reinstalls the removed LED module back onto the display screen, carefully adjusting its position to align with the other modules. He then continues to adjust the modules of the LED screen, removes another reversed LED module from the bottom of the screen, and reinstalls it on the right side of the screen."
+    },
+    {
+        "second": 9,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2EBwSF5hDH4/output_frames/sec_9_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[5-13] The man reinstalls the removed LED module back onto the display screen, carefully adjusting its position to align with the other modules. He then continues to adjust the modules of the LED screen, removes another reversed LED module from the bottom of the screen, and reinstalls it on the right side of the screen."
+    },
+    {
+        "second": 10,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2EBwSF5hDH4/output_frames/sec_10_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[5-13] The man reinstalls the removed LED module back onto the display screen, carefully adjusting its position to align with the other modules. He then continues to adjust the modules of the LED screen, removes another reversed LED module from the bottom of the screen, and reinstalls it on the right side of the screen."
+    },
+    {
+        "second": 11,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2EBwSF5hDH4/output_frames/sec_11_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[5-13] The man reinstalls the removed LED module back onto the display screen, carefully adjusting its position to align with the other modules. He then continues to adjust the modules of the LED screen, removes another reversed LED module from the bottom of the screen, and reinstalls it on the right side of the screen."
+    },
+    {
+        "second": 12,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2EBwSF5hDH4/output_frames/sec_12_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[5-13] The man reinstalls the removed LED module back onto the display screen, carefully adjusting its position to align with the other modules. He then continues to adjust the modules of the LED screen, removes another reversed LED module from the bottom of the screen, and reinstalls it on the right side of the screen."
+    },
+    {
+        "second": 13,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2EBwSF5hDH4/output_frames/sec_13_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[5-13] The man reinstalls the removed LED module back onto the display screen, carefully adjusting its position to align with the other modules. He then continues to adjust the modules of the LED screen, removes another reversed LED module from the bottom of the screen, and reinstalls it on the right side of the screen."
+    }
+]

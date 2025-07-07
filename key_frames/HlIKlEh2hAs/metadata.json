@@ -1,0 +1,93 @@
+[
+    {
+        "second": 0,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HlIKlEh2hAs/output_frames/sec_0_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A man is standing on the street, smiling. He is wearing a dark jacket and carrying a backpack. There is also a white English caption and the year 2019 in the middle of the screen."
+    },
+    {
+        "second": 1,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HlIKlEh2hAs/output_frames/sec_1_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Next, a hand appears on the left side of the screen, and the man steps back, waving both hands, smiling and pinching his nose. The year changes to 2021."
+    },
+    {
+        "second": 2,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HlIKlEh2hAs/output_frames/sec_2_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Next, a hand appears on the left side of the screen, and the man steps back, waving both hands, smiling and pinching his nose. The year changes to 2021."
+    },
+    {
+        "second": 3,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HlIKlEh2hAs/output_frames/sec_3_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Next, a hand appears on the left side of the screen, and the man steps back, waving both hands, smiling and pinching his nose. The year changes to 2021."
+    },
+    {
+        "second": 4,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HlIKlEh2hAs/output_frames/sec_4_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Next, a hand appears on the left side of the screen, and the man steps back, waving both hands, smiling and pinching his nose. The year changes to 2021."
+    },
+    {
+        "second": 5,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HlIKlEh2hAs/output_frames/sec_5_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Next, a hand appears on the left side of the screen, and the man steps back, waving both hands, smiling and pinching his nose. The year changes to 2021."
+    },
+    {
+        "second": 6,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HlIKlEh2hAs/output_frames/sec_6_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[5-7] Then the scene switches, a man is standing in front of a room, facing the audience sitting at the table. He is wearing a white shirt, dark pants, and holding a microphone in his hand."
+    },
+    {
+        "second": 7,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HlIKlEh2hAs/output_frames/sec_7_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[5-7] Then the scene switches, a man is standing in front of a room, facing the audience sitting at the table. He is wearing a white shirt, dark pants, and holding a microphone in his hand."
+    },
+    {
+        "second": 8,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HlIKlEh2hAs/output_frames/sec_8_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[7-9] Subsequently, the scene switches again, the man is now standing on a stage in a lecture hall, holding a coffee cup, and speaking to the audience."
+    },
+    {
+        "second": 9,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HlIKlEh2hAs/output_frames/sec_9_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[7-9] Subsequently, the scene switches again, the man is now standing on a stage in a lecture hall, holding a coffee cup, and speaking to the audience."
+    },
+    {
+        "second": 10,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HlIKlEh2hAs/output_frames/sec_10_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[9-12] Afterwards, the scene changes again, and the man is holding a microphone and standing in a crowd. Finally, the man is sitting cross-legged on a black object, using gestures to emphasize his point."
+    },
+    {
+        "second": 11,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HlIKlEh2hAs/output_frames/sec_11_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[9-12] Afterwards, the scene changes again, and the man is holding a microphone and standing in a crowd. Finally, the man is sitting cross-legged on a black object, using gestures to emphasize his point."
+    },
+    {
+        "second": 12,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HlIKlEh2hAs/output_frames/sec_12_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[9-12] Afterwards, the scene changes again, and the man is holding a microphone and standing in a crowd. Finally, the man is sitting cross-legged on a black object, using gestures to emphasize his point."
+    }
+]

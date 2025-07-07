@@ -1,0 +1,177 @@
+[
+    {
+        "second": 0,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UbXUQq9Jy1Y/output_frames/sec_0_idx_25.jpg",
+        "fps": 60,
+        "explanation": "[0-0] A cartoon character wearing a yellow shirt and yellow pants is standing on a blue platform. The platform is located in front of a device with gray, white, and green colors. The ground is green, and there is a gray wall in the background."
+    },
+    {
+        "second": 1,
+        "frame_index": 46,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UbXUQq9Jy1Y/output_frames/sec_1_idx_46.jpg",
+        "fps": 60,
+        "explanation": "[0-7] Then, the yellow character moves backward and is flattened by the rotating gray device. Another cartoon character appears on the blue platform with brown hair, blue eyes, a red coat, black pants, and pink shoes. The character in red gradually approaches the gray device, running towards the front of it. It then lifts a green character, a female character in red holding dumbbells, and another green character holding a cake, and continues to run forward."
+    },
+    {
+        "second": 2,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UbXUQq9Jy1Y/output_frames/sec_2_idx_18.jpg",
+        "fps": 60,
+        "explanation": "[0-7] Then, the yellow character moves backward and is flattened by the rotating gray device. Another cartoon character appears on the blue platform with brown hair, blue eyes, a red coat, black pants, and pink shoes. The character in red gradually approaches the gray device, running towards the front of it. It then lifts a green character, a female character in red holding dumbbells, and another green character holding a cake, and continues to run forward."
+    },
+    {
+        "second": 3,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UbXUQq9Jy1Y/output_frames/sec_3_idx_9.jpg",
+        "fps": 60,
+        "explanation": "[0-7] Then, the yellow character moves backward and is flattened by the rotating gray device. Another cartoon character appears on the blue platform with brown hair, blue eyes, a red coat, black pants, and pink shoes. The character in red gradually approaches the gray device, running towards the front of it. It then lifts a green character, a female character in red holding dumbbells, and another green character holding a cake, and continues to run forward."
+    },
+    {
+        "second": 4,
+        "frame_index": 33,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UbXUQq9Jy1Y/output_frames/sec_4_idx_33.jpg",
+        "fps": 60,
+        "explanation": "[0-7] Then, the yellow character moves backward and is flattened by the rotating gray device. Another cartoon character appears on the blue platform with brown hair, blue eyes, a red coat, black pants, and pink shoes. The character in red gradually approaches the gray device, running towards the front of it. It then lifts a green character, a female character in red holding dumbbells, and another green character holding a cake, and continues to run forward."
+    },
+    {
+        "second": 5,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UbXUQq9Jy1Y/output_frames/sec_5_idx_10.jpg",
+        "fps": 60,
+        "explanation": "[0-7] Then, the yellow character moves backward and is flattened by the rotating gray device. Another cartoon character appears on the blue platform with brown hair, blue eyes, a red coat, black pants, and pink shoes. The character in red gradually approaches the gray device, running towards the front of it. It then lifts a green character, a female character in red holding dumbbells, and another green character holding a cake, and continues to run forward."
+    },
+    {
+        "second": 6,
+        "frame_index": 46,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UbXUQq9Jy1Y/output_frames/sec_6_idx_46.jpg",
+        "fps": 60,
+        "explanation": "[0-7] Then, the yellow character moves backward and is flattened by the rotating gray device. Another cartoon character appears on the blue platform with brown hair, blue eyes, a red coat, black pants, and pink shoes. The character in red gradually approaches the gray device, running towards the front of it. It then lifts a green character, a female character in red holding dumbbells, and another green character holding a cake, and continues to run forward."
+    },
+    {
+        "second": 7,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UbXUQq9Jy1Y/output_frames/sec_7_idx_4.jpg",
+        "fps": 60,
+        "explanation": "[0-7] Then, the yellow character moves backward and is flattened by the rotating gray device. Another cartoon character appears on the blue platform with brown hair, blue eyes, a red coat, black pants, and pink shoes. The character in red gradually approaches the gray device, running towards the front of it. It then lifts a green character, a female character in red holding dumbbells, and another green character holding a cake, and continues to run forward."
+    },
+    {
+        "second": 8,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UbXUQq9Jy1Y/output_frames/sec_8_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[7-17] Immediately afterward, the scene changes, and the cake is pressed into the rotating gray device. The scene switches again, and the character in red runs forward with the other three characters, then jumps onto the gray platform."
+    },
+    {
+        "second": 9,
+        "frame_index": 31,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UbXUQq9Jy1Y/output_frames/sec_9_idx_31.jpg",
+        "fps": 60,
+        "explanation": "[7-17] Immediately afterward, the scene changes, and the cake is pressed into the rotating gray device. The scene switches again, and the character in red runs forward with the other three characters, then jumps onto the gray platform."
+    },
+    {
+        "second": 10,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UbXUQq9Jy1Y/output_frames/sec_10_idx_7.jpg",
+        "fps": 60,
+        "explanation": "[7-17] Immediately afterward, the scene changes, and the cake is pressed into the rotating gray device. The scene switches again, and the character in red runs forward with the other three characters, then jumps onto the gray platform."
+    },
+    {
+        "second": 11,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UbXUQq9Jy1Y/output_frames/sec_11_idx_15.jpg",
+        "fps": 60,
+        "explanation": "[7-17] Immediately afterward, the scene changes, and the cake is pressed into the rotating gray device. The scene switches again, and the character in red runs forward with the other three characters, then jumps onto the gray platform."
+    },
+    {
+        "second": 12,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UbXUQq9Jy1Y/output_frames/sec_12_idx_15.jpg",
+        "fps": 60,
+        "explanation": "[7-17] Immediately afterward, the scene changes, and the cake is pressed into the rotating gray device. The scene switches again, and the character in red runs forward with the other three characters, then jumps onto the gray platform."
+    },
+    {
+        "second": 13,
+        "frame_index": 50,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UbXUQq9Jy1Y/output_frames/sec_13_idx_50.jpg",
+        "fps": 60,
+        "explanation": "[7-17] Immediately afterward, the scene changes, and the cake is pressed into the rotating gray device. The scene switches again, and the character in red runs forward with the other three characters, then jumps onto the gray platform."
+    },
+    {
+        "second": 14,
+        "frame_index": 59,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UbXUQq9Jy1Y/output_frames/sec_14_idx_59.jpg",
+        "fps": 60,
+        "explanation": "[7-17] Immediately afterward, the scene changes, and the cake is pressed into the rotating gray device. The scene switches again, and the character in red runs forward with the other three characters, then jumps onto the gray platform."
+    },
+    {
+        "second": 15,
+        "frame_index": 47,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UbXUQq9Jy1Y/output_frames/sec_15_idx_47.jpg",
+        "fps": 60,
+        "explanation": "[7-17] Immediately afterward, the scene changes, and the cake is pressed into the rotating gray device. The scene switches again, and the character in red runs forward with the other three characters, then jumps onto the gray platform."
+    },
+    {
+        "second": 16,
+        "frame_index": 34,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UbXUQq9Jy1Y/output_frames/sec_16_idx_34.jpg",
+        "fps": 60,
+        "explanation": "[7-17] Immediately afterward, the scene changes, and the cake is pressed into the rotating gray device. The scene switches again, and the character in red runs forward with the other three characters, then jumps onto the gray platform."
+    },
+    {
+        "second": 17,
+        "frame_index": 56,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UbXUQq9Jy1Y/output_frames/sec_17_idx_56.jpg",
+        "fps": 60,
+        "explanation": "[7-17] Immediately afterward, the scene changes, and the cake is pressed into the rotating gray device. The scene switches again, and the character in red runs forward with the other three characters, then jumps onto the gray platform."
+    },
+    {
+        "second": 18,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UbXUQq9Jy1Y/output_frames/sec_18_idx_3.jpg",
+        "fps": 60,
+        "explanation": "[17-24] Subsequently, the scene changes again. The character in red throws a red explosive onto the blue platform, which then transports the explosive to the side of the rotating gray device. The explosive detonates, damaging the device. Finally, the scene switches to the four characters, with the character in red walking to the side."
+    },
+    {
+        "second": 19,
+        "frame_index": 56,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UbXUQq9Jy1Y/output_frames/sec_19_idx_56.jpg",
+        "fps": 60,
+        "explanation": "[17-24] Subsequently, the scene changes again. The character in red throws a red explosive onto the blue platform, which then transports the explosive to the side of the rotating gray device. The explosive detonates, damaging the device. Finally, the scene switches to the four characters, with the character in red walking to the side."
+    },
+    {
+        "second": 20,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UbXUQq9Jy1Y/output_frames/sec_20_idx_8.jpg",
+        "fps": 60,
+        "explanation": "[17-24] Subsequently, the scene changes again. The character in red throws a red explosive onto the blue platform, which then transports the explosive to the side of the rotating gray device. The explosive detonates, damaging the device. Finally, the scene switches to the four characters, with the character in red walking to the side."
+    },
+    {
+        "second": 21,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UbXUQq9Jy1Y/output_frames/sec_21_idx_2.jpg",
+        "fps": 60,
+        "explanation": "[17-24] Subsequently, the scene changes again. The character in red throws a red explosive onto the blue platform, which then transports the explosive to the side of the rotating gray device. The explosive detonates, damaging the device. Finally, the scene switches to the four characters, with the character in red walking to the side."
+    },
+    {
+        "second": 22,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UbXUQq9Jy1Y/output_frames/sec_22_idx_4.jpg",
+        "fps": 60,
+        "explanation": "[17-24] Subsequently, the scene changes again. The character in red throws a red explosive onto the blue platform, which then transports the explosive to the side of the rotating gray device. The explosive detonates, damaging the device. Finally, the scene switches to the four characters, with the character in red walking to the side."
+    },
+    {
+        "second": 23,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UbXUQq9Jy1Y/output_frames/sec_23_idx_27.jpg",
+        "fps": 60,
+        "explanation": "[17-24] Subsequently, the scene changes again. The character in red throws a red explosive onto the blue platform, which then transports the explosive to the side of the rotating gray device. The explosive detonates, damaging the device. Finally, the scene switches to the four characters, with the character in red walking to the side."
+    },
+    {
+        "second": 24,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UbXUQq9Jy1Y/output_frames/sec_24_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[17-24] Subsequently, the scene changes again. The character in red throws a red explosive onto the blue platform, which then transports the explosive to the side of the rotating gray device. The explosive detonates, damaging the device. Finally, the scene switches to the four characters, with the character in red walking to the side."
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "second": 0,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DVW-B6qCsSE/output_frames/sec_0_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A steering wheel is in the foreground with a pair of hands resting on it. A needle with white thread and some already sewn stitches are visible on the black steering wheel cover. The background is blurry."
+    },
+    {
+        "second": 1,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DVW-B6qCsSE/output_frames/sec_1_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[0-7] Then, the hands skillfully thread the needle through pre-punched holes. After a few stitches, the person pulls the thread taut to ensure a tight seam. They then continue repeating the same process, sewing the cover onto the steering wheel."
+    },
+    {
+        "second": 2,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DVW-B6qCsSE/output_frames/sec_2_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-7] Then, the hands skillfully thread the needle through pre-punched holes. After a few stitches, the person pulls the thread taut to ensure a tight seam. They then continue repeating the same process, sewing the cover onto the steering wheel."
+    },
+    {
+        "second": 3,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DVW-B6qCsSE/output_frames/sec_3_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[0-7] Then, the hands skillfully thread the needle through pre-punched holes. After a few stitches, the person pulls the thread taut to ensure a tight seam. They then continue repeating the same process, sewing the cover onto the steering wheel."
+    },
+    {
+        "second": 4,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DVW-B6qCsSE/output_frames/sec_4_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[0-7] Then, the hands skillfully thread the needle through pre-punched holes. After a few stitches, the person pulls the thread taut to ensure a tight seam. They then continue repeating the same process, sewing the cover onto the steering wheel."
+    },
+    {
+        "second": 5,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DVW-B6qCsSE/output_frames/sec_5_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[0-7] Then, the hands skillfully thread the needle through pre-punched holes. After a few stitches, the person pulls the thread taut to ensure a tight seam. They then continue repeating the same process, sewing the cover onto the steering wheel."
+    },
+    {
+        "second": 6,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DVW-B6qCsSE/output_frames/sec_6_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-7] Then, the hands skillfully thread the needle through pre-punched holes. After a few stitches, the person pulls the thread taut to ensure a tight seam. They then continue repeating the same process, sewing the cover onto the steering wheel."
+    },
+    {
+        "second": 7,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DVW-B6qCsSE/output_frames/sec_7_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[0-7] Then, the hands skillfully thread the needle through pre-punched holes. After a few stitches, the person pulls the thread taut to ensure a tight seam. They then continue repeating the same process, sewing the cover onto the steering wheel."
+    }
+]

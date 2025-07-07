@@ -1,0 +1,51 @@
+[
+    {
+        "second": 0,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IEp42Y_pT1A/output_frames/sec_0_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[0-0] In a cement courtyard, a young boy in a striped shirt is riding on the back of a strong brown pit bull. The boy is holding tightly onto the dog. Beside a white tiled wall stands a wooden structure. A green wall can be seen in the background. The watermark \"@REIDOSPITBULLS\" is at the bottom of the screen."
+    },
+    {
+        "second": 1,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IEp42Y_pT1A/output_frames/sec_1_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-3] The boy climbs onto the dog's back and then slides down. An adult man in a black shirt bends over and supports the boy with his hand, ensuring he lands safely. The dog remains patient and gentle, looking straight ahead."
+    },
+    {
+        "second": 2,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IEp42Y_pT1A/output_frames/sec_2_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[0-3] The boy climbs onto the dog's back and then slides down. An adult man in a black shirt bends over and supports the boy with his hand, ensuring he lands safely. The dog remains patient and gentle, looking straight ahead."
+    },
+    {
+        "second": 3,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IEp42Y_pT1A/output_frames/sec_3_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[0-3] The boy climbs onto the dog's back and then slides down. An adult man in a black shirt bends over and supports the boy with his hand, ensuring he lands safely. The dog remains patient and gentle, looking straight ahead."
+    },
+    {
+        "second": 4,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IEp42Y_pT1A/output_frames/sec_4_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[3-6] Finally, a hand flashes across the screen. After getting off the dog's back, the boy stands up. The dog opens its mouth, tongue out. The man squats down beside them."
+    },
+    {
+        "second": 5,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IEp42Y_pT1A/output_frames/sec_5_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[3-6] Finally, a hand flashes across the screen. After getting off the dog's back, the boy stands up. The dog opens its mouth, tongue out. The man squats down beside them."
+    },
+    {
+        "second": 6,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IEp42Y_pT1A/output_frames/sec_6_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[3-6] Finally, a hand flashes across the screen. After getting off the dog's back, the boy stands up. The dog opens its mouth, tongue out. The man squats down beside them."
+    }
+]

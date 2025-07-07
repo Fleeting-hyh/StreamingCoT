@@ -1,0 +1,240 @@
+[
+    {
+        "second": 0,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-k7RdshfGHc/output_frames/sec_0_idx_26.jpg",
+        "fps": 60,
+        "explanation": "[0-0] A man wearing a Spider-Man T-shirt, black pants, and a black hat is sitting cross-legged on the sand, holding a Spider-Man toy in his right hand and a Batman toy in his left hand. Behind him is a gray building."
+    },
+    {
+        "second": 1,
+        "frame_index": 56,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-k7RdshfGHc/output_frames/sec_1_idx_56.jpg",
+        "fps": 60,
+        "explanation": "[0-2] The man raises the Spider-Man toy and attacks the Batman toy with a stone. The scene switches to a construction site where a man in a Batman costume is facing away from the camera, with a row of balloons hanging in front of him. Spider-Man is on the left side of the screen, holding a stone in his right hand, and throws it forward, popping a pink balloon."
+    },
+    {
+        "second": 2,
+        "frame_index": 31,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-k7RdshfGHc/output_frames/sec_2_idx_31.jpg",
+        "fps": 60,
+        "explanation": "[0-2] The man raises the Spider-Man toy and attacks the Batman toy with a stone. The scene switches to a construction site where a man in a Batman costume is facing away from the camera, with a row of balloons hanging in front of him. Spider-Man is on the left side of the screen, holding a stone in his right hand, and throws it forward, popping a pink balloon."
+    },
+    {
+        "second": 3,
+        "frame_index": 54,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-k7RdshfGHc/output_frames/sec_3_idx_54.jpg",
+        "fps": 60,
+        "explanation": "[2-6] Spider-Man enters from the right side of the screen, pops all the balloons with white tools in both hands, then runs towards the building. Batman throws stones at Spider-Man and chases after him."
+    },
+    {
+        "second": 4,
+        "frame_index": 55,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-k7RdshfGHc/output_frames/sec_4_idx_55.jpg",
+        "fps": 60,
+        "explanation": "[2-6] Spider-Man enters from the right side of the screen, pops all the balloons with white tools in both hands, then runs towards the building. Batman throws stones at Spider-Man and chases after him."
+    },
+    {
+        "second": 5,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-k7RdshfGHc/output_frames/sec_5_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[2-6] Spider-Man enters from the right side of the screen, pops all the balloons with white tools in both hands, then runs towards the building. Batman throws stones at Spider-Man and chases after him."
+    },
+    {
+        "second": 6,
+        "frame_index": 33,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-k7RdshfGHc/output_frames/sec_6_idx_33.jpg",
+        "fps": 60,
+        "explanation": "[2-6] Spider-Man enters from the right side of the screen, pops all the balloons with white tools in both hands, then runs towards the building. Batman throws stones at Spider-Man and chases after him."
+    },
+    {
+        "second": 7,
+        "frame_index": 44,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-k7RdshfGHc/output_frames/sec_7_idx_44.jpg",
+        "fps": 60,
+        "explanation": "[6-8] The scene cuts back to the previous shot of the man sitting on the ground, holding the Spider-Man toy and placing it on the ground."
+    },
+    {
+        "second": 8,
+        "frame_index": 42,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-k7RdshfGHc/output_frames/sec_8_idx_42.jpg",
+        "fps": 60,
+        "explanation": "[6-8] The scene cuts back to the previous shot of the man sitting on the ground, holding the Spider-Man toy and placing it on the ground."
+    },
+    {
+        "second": 9,
+        "frame_index": 54,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-k7RdshfGHc/output_frames/sec_9_idx_54.jpg",
+        "fps": 60,
+        "explanation": "[8-11] The scene then switches to a gravel pit where Spider-Man is planted upside down in a sand pile with his head buried. Spider-Man's head struggles out of the sand."
+    },
+    {
+        "second": 10,
+        "frame_index": 32,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-k7RdshfGHc/output_frames/sec_10_idx_32.jpg",
+        "fps": 60,
+        "explanation": "[8-11] The scene then switches to a gravel pit where Spider-Man is planted upside down in a sand pile with his head buried. Spider-Man's head struggles out of the sand."
+    },
+    {
+        "second": 11,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-k7RdshfGHc/output_frames/sec_11_idx_1.jpg",
+        "fps": 60,
+        "explanation": "[8-11] The scene then switches to a gravel pit where Spider-Man is planted upside down in a sand pile with his head buried. Spider-Man's head struggles out of the sand."
+    },
+    {
+        "second": 12,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-k7RdshfGHc/output_frames/sec_12_idx_2.jpg",
+        "fps": 60,
+        "explanation": "[11-14] The scene cuts back to the man sitting on the ground, holding the Spider-Man and Batman toys, making them fight each other. The scene then switches to Spider-Man crawling up the exterior wall of a building, with Batman standing next to him and slapping Spider-Man's butt."
+    },
+    {
+        "second": 13,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-k7RdshfGHc/output_frames/sec_13_idx_27.jpg",
+        "fps": 60,
+        "explanation": "[11-14] The scene cuts back to the man sitting on the ground, holding the Spider-Man and Batman toys, making them fight each other. The scene then switches to Spider-Man crawling up the exterior wall of a building, with Batman standing next to him and slapping Spider-Man's butt."
+    },
+    {
+        "second": 14,
+        "frame_index": 33,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-k7RdshfGHc/output_frames/sec_14_idx_33.jpg",
+        "fps": 60,
+        "explanation": "[11-14] The scene cuts back to the man sitting on the ground, holding the Spider-Man and Batman toys, making them fight each other. The scene then switches to Spider-Man crawling up the exterior wall of a building, with Batman standing next to him and slapping Spider-Man's butt."
+    },
+    {
+        "second": 15,
+        "frame_index": 59,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-k7RdshfGHc/output_frames/sec_15_idx_59.jpg",
+        "fps": 60,
+        "explanation": "[14-20] The scene cuts back to the man sitting on the ground, holding the Spider-Man toy and attacking the Batman toy. The scene changes to Spider-Man standing on the edge of a building's roof, grabbing a pole and dancing on it. Suddenly, he is struck by lightning and falls from the roof."
+    },
+    {
+        "second": 16,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-k7RdshfGHc/output_frames/sec_16_idx_1.jpg",
+        "fps": 60,
+        "explanation": "[14-20] The scene cuts back to the man sitting on the ground, holding the Spider-Man toy and attacking the Batman toy. The scene changes to Spider-Man standing on the edge of a building's roof, grabbing a pole and dancing on it. Suddenly, he is struck by lightning and falls from the roof."
+    },
+    {
+        "second": 17,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-k7RdshfGHc/output_frames/sec_17_idx_29.jpg",
+        "fps": 60,
+        "explanation": "[14-20] The scene cuts back to the man sitting on the ground, holding the Spider-Man toy and attacking the Batman toy. The scene changes to Spider-Man standing on the edge of a building's roof, grabbing a pole and dancing on it. Suddenly, he is struck by lightning and falls from the roof."
+    },
+    {
+        "second": 18,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-k7RdshfGHc/output_frames/sec_18_idx_8.jpg",
+        "fps": 60,
+        "explanation": "[14-20] The scene cuts back to the man sitting on the ground, holding the Spider-Man toy and attacking the Batman toy. The scene changes to Spider-Man standing on the edge of a building's roof, grabbing a pole and dancing on it. Suddenly, he is struck by lightning and falls from the roof."
+    },
+    {
+        "second": 19,
+        "frame_index": 58,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-k7RdshfGHc/output_frames/sec_19_idx_58.jpg",
+        "fps": 60,
+        "explanation": "[14-20] The scene cuts back to the man sitting on the ground, holding the Spider-Man toy and attacking the Batman toy. The scene changes to Spider-Man standing on the edge of a building's roof, grabbing a pole and dancing on it. Suddenly, he is struck by lightning and falls from the roof."
+    },
+    {
+        "second": 20,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-k7RdshfGHc/output_frames/sec_20_idx_1.jpg",
+        "fps": 60,
+        "explanation": "[14-20] The scene cuts back to the man sitting on the ground, holding the Spider-Man toy and attacking the Batman toy. The scene changes to Spider-Man standing on the edge of a building's roof, grabbing a pole and dancing on it. Suddenly, he is struck by lightning and falls from the roof."
+    },
+    {
+        "second": 21,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-k7RdshfGHc/output_frames/sec_21_idx_13.jpg",
+        "fps": 60,
+        "explanation": "[20-26] The scene cuts back to the man sitting on the ground, holding the Spider-Man and Batman toys and making them dance on the ground. The scene switches to Spider-Man driving a convertible tricycle. He is driving down a city street with high-rise buildings, parked cars, and green trees lining the road. He dances in the car and reaches out his left hand to touch the roof."
+    },
+    {
+        "second": 22,
+        "frame_index": 45,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-k7RdshfGHc/output_frames/sec_22_idx_45.jpg",
+        "fps": 60,
+        "explanation": "[20-26] The scene cuts back to the man sitting on the ground, holding the Spider-Man and Batman toys and making them dance on the ground. The scene switches to Spider-Man driving a convertible tricycle. He is driving down a city street with high-rise buildings, parked cars, and green trees lining the road. He dances in the car and reaches out his left hand to touch the roof."
+    },
+    {
+        "second": 23,
+        "frame_index": 54,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-k7RdshfGHc/output_frames/sec_23_idx_54.jpg",
+        "fps": 60,
+        "explanation": "[20-26] The scene cuts back to the man sitting on the ground, holding the Spider-Man and Batman toys and making them dance on the ground. The scene switches to Spider-Man driving a convertible tricycle. He is driving down a city street with high-rise buildings, parked cars, and green trees lining the road. He dances in the car and reaches out his left hand to touch the roof."
+    },
+    {
+        "second": 24,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-k7RdshfGHc/output_frames/sec_24_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[20-26] The scene cuts back to the man sitting on the ground, holding the Spider-Man and Batman toys and making them dance on the ground. The scene switches to Spider-Man driving a convertible tricycle. He is driving down a city street with high-rise buildings, parked cars, and green trees lining the road. He dances in the car and reaches out his left hand to touch the roof."
+    },
+    {
+        "second": 25,
+        "frame_index": 32,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-k7RdshfGHc/output_frames/sec_25_idx_32.jpg",
+        "fps": 60,
+        "explanation": "[20-26] The scene cuts back to the man sitting on the ground, holding the Spider-Man and Batman toys and making them dance on the ground. The scene switches to Spider-Man driving a convertible tricycle. He is driving down a city street with high-rise buildings, parked cars, and green trees lining the road. He dances in the car and reaches out his left hand to touch the roof."
+    },
+    {
+        "second": 26,
+        "frame_index": 51,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-k7RdshfGHc/output_frames/sec_26_idx_51.jpg",
+        "fps": 60,
+        "explanation": "[20-26] The scene cuts back to the man sitting on the ground, holding the Spider-Man and Batman toys and making them dance on the ground. The scene switches to Spider-Man driving a convertible tricycle. He is driving down a city street with high-rise buildings, parked cars, and green trees lining the road. He dances in the car and reaches out his left hand to touch the roof."
+    },
+    {
+        "second": 27,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-k7RdshfGHc/output_frames/sec_27_idx_2.jpg",
+        "fps": 60,
+        "explanation": "[26-30] At this moment, two boys walk past the tricycle that Spider-Man is driving. One of the boys, wearing a T-shirt and blue jeans, is hit by Spider-Man and falls to the ground. The other boy, wearing a shirt and beige pants, crouches beside him. Spider-Man gets out of the tricycle."
+    },
+    {
+        "second": 28,
+        "frame_index": 54,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-k7RdshfGHc/output_frames/sec_28_idx_54.jpg",
+        "fps": 60,
+        "explanation": "[26-30] At this moment, two boys walk past the tricycle that Spider-Man is driving. One of the boys, wearing a T-shirt and blue jeans, is hit by Spider-Man and falls to the ground. The other boy, wearing a shirt and beige pants, crouches beside him. Spider-Man gets out of the tricycle."
+    },
+    {
+        "second": 29,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-k7RdshfGHc/output_frames/sec_29_idx_1.jpg",
+        "fps": 60,
+        "explanation": "[26-30] At this moment, two boys walk past the tricycle that Spider-Man is driving. One of the boys, wearing a T-shirt and blue jeans, is hit by Spider-Man and falls to the ground. The other boy, wearing a shirt and beige pants, crouches beside him. Spider-Man gets out of the tricycle."
+    },
+    {
+        "second": 30,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-k7RdshfGHc/output_frames/sec_30_idx_3.jpg",
+        "fps": 60,
+        "explanation": "[26-30] At this moment, two boys walk past the tricycle that Spider-Man is driving. One of the boys, wearing a T-shirt and blue jeans, is hit by Spider-Man and falls to the ground. The other boy, wearing a shirt and beige pants, crouches beside him. Spider-Man gets out of the tricycle."
+    },
+    {
+        "second": 31,
+        "frame_index": 56,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-k7RdshfGHc/output_frames/sec_31_idx_56.jpg",
+        "fps": 60,
+        "explanation": "[30-33] The scene cuts back to the man sitting on the ground, holding the Spider-Man and Batman toys and throwing them away. Finally, the scene switches to Spider-Man sitting on the ground, leaning against the wall and sleeping. A blue curtain hangs on the wall to his right. A lit firework explodes next to him, startling Spider-Man awake."
+    },
+    {
+        "second": 32,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-k7RdshfGHc/output_frames/sec_32_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[30-33] The scene cuts back to the man sitting on the ground, holding the Spider-Man and Batman toys and throwing them away. Finally, the scene switches to Spider-Man sitting on the ground, leaning against the wall and sleeping. A blue curtain hangs on the wall to his right. A lit firework explodes next to him, startling Spider-Man awake."
+    },
+    {
+        "second": 33,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-k7RdshfGHc/output_frames/sec_33_idx_14.jpg",
+        "fps": 60,
+        "explanation": "[30-33] The scene cuts back to the man sitting on the ground, holding the Spider-Man and Batman toys and throwing them away. Finally, the scene switches to Spider-Man sitting on the ground, leaning against the wall and sleeping. A blue curtain hangs on the wall to his right. A lit firework explodes next to him, startling Spider-Man awake."
+    }
+]

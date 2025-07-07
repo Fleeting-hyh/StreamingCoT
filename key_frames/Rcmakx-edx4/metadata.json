@@ -1,0 +1,65 @@
+[
+    {
+        "second": 0,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Rcmakx-edx4/output_frames/sec_0_idx_9.jpg",
+        "fps": 60,
+        "explanation": "[0-0] A man with a long, grayish-white beard wearing a white sweater is standing in front of a red sports car. He is holding a cigar and a black mobile phone in his hand. To his right stand two men, one wearing a blue top and blue shorts, the other in a white top and black pants. To his left stands a man wearing a white shirt and beige pants. The street surface is gray, and the background is a green building."
+    },
+    {
+        "second": 1,
+        "frame_index": 30,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Rcmakx-edx4/output_frames/sec_1_idx_30.jpg",
+        "fps": 60,
+        "explanation": "[0-4] The man begins to turn to the left, his gaze moving away from the camera. He continues turning left, putting the cigar in his mouth. He is now facing away from the camera, with a hill and palm trees visible in the background. There are many passersby on the street, and many vehicles are parked on the roadside. The man walks towards a silver vintage car."
+    },
+    {
+        "second": 2,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Rcmakx-edx4/output_frames/sec_2_idx_8.jpg",
+        "fps": 60,
+        "explanation": "[0-4] The man begins to turn to the left, his gaze moving away from the camera. He continues turning left, putting the cigar in his mouth. He is now facing away from the camera, with a hill and palm trees visible in the background. There are many passersby on the street, and many vehicles are parked on the roadside. The man walks towards a silver vintage car."
+    },
+    {
+        "second": 3,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Rcmakx-edx4/output_frames/sec_3_idx_14.jpg",
+        "fps": 60,
+        "explanation": "[0-4] The man begins to turn to the left, his gaze moving away from the camera. He continues turning left, putting the cigar in his mouth. He is now facing away from the camera, with a hill and palm trees visible in the background. There are many passersby on the street, and many vehicles are parked on the roadside. The man walks towards a silver vintage car."
+    },
+    {
+        "second": 4,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Rcmakx-edx4/output_frames/sec_4_idx_5.jpg",
+        "fps": 60,
+        "explanation": "[0-4] The man begins to turn to the left, his gaze moving away from the camera. He continues turning left, putting the cigar in his mouth. He is now facing away from the camera, with a hill and palm trees visible in the background. There are many passersby on the street, and many vehicles are parked on the roadside. The man walks towards a silver vintage car."
+    },
+    {
+        "second": 5,
+        "frame_index": 51,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Rcmakx-edx4/output_frames/sec_5_idx_51.jpg",
+        "fps": 60,
+        "explanation": "[4-8] The man gets into the silver vintage car. Many passersby are watching behind him, and there are also many palm trees. In the distance is a tall building. The man sits in the driver's seat of the vintage car with a cigar in his mouth."
+    },
+    {
+        "second": 6,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Rcmakx-edx4/output_frames/sec_6_idx_18.jpg",
+        "fps": 60,
+        "explanation": "[4-8] The man gets into the silver vintage car. Many passersby are watching behind him, and there are also many palm trees. In the distance is a tall building. The man sits in the driver's seat of the vintage car with a cigar in his mouth."
+    },
+    {
+        "second": 7,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Rcmakx-edx4/output_frames/sec_7_idx_12.jpg",
+        "fps": 60,
+        "explanation": "[4-8] The man gets into the silver vintage car. Many passersby are watching behind him, and there are also many palm trees. In the distance is a tall building. The man sits in the driver's seat of the vintage car with a cigar in his mouth."
+    },
+    {
+        "second": 8,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Rcmakx-edx4/output_frames/sec_8_idx_18.jpg",
+        "fps": 60,
+        "explanation": "[4-8] The man gets into the silver vintage car. Many passersby are watching behind him, and there are also many palm trees. In the distance is a tall building. The man sits in the driver's seat of the vintage car with a cigar in his mouth."
+    }
+]

@@ -1,0 +1,114 @@
+[
+    {
+        "second": 0,
+        "frame_index": 59,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Je9zfiqTmtc/output_frames/sec_0_idx_59.jpg",
+        "fps": 60,
+        "explanation": "[0-0] The video is a split screen. The upper half shows a young man in an orange hoodie sitting in front of a computer, wearing black headphones and looking forward. Behind him is a white wall with a row of cartoon decorations. There is a red microphone in front of the man, a speaker next to him with a gray toy on top. The lower half of the screen shows a game perspective: a blue car parked at the dock, facing the sea. The port and some buildings can be seen on the sea."
+    },
+    {
+        "second": 1,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Je9zfiqTmtc/output_frames/sec_1_idx_20.jpg",
+        "fps": 60,
+        "explanation": "[0-2] Then, the blue car in the lower half of the screen drives towards the sea, its body tilting almost falling into the sea. There is a yacht parked on the sea, constantly changing colors. The man in the orange shirt in the upper half of the screen keeps looking forward."
+    },
+    {
+        "second": 2,
+        "frame_index": 40,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Je9zfiqTmtc/output_frames/sec_2_idx_40.jpg",
+        "fps": 60,
+        "explanation": "[0-2] Then, the blue car in the lower half of the screen drives towards the sea, its body tilting almost falling into the sea. There is a yacht parked on the sea, constantly changing colors. The man in the orange shirt in the upper half of the screen keeps looking forward."
+    },
+    {
+        "second": 3,
+        "frame_index": 52,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Je9zfiqTmtc/output_frames/sec_3_idx_52.jpg",
+        "fps": 60,
+        "explanation": "[2-9] Immediately, the blue car moves backward, and a red car appears below. The blue car passes the red car, comes to its rear, and then drives towards the sea. The red car leaps upward."
+    },
+    {
+        "second": 4,
+        "frame_index": 44,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Je9zfiqTmtc/output_frames/sec_4_idx_44.jpg",
+        "fps": 60,
+        "explanation": "[2-9] Immediately, the blue car moves backward, and a red car appears below. The blue car passes the red car, comes to its rear, and then drives towards the sea. The red car leaps upward."
+    },
+    {
+        "second": 5,
+        "frame_index": 58,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Je9zfiqTmtc/output_frames/sec_5_idx_58.jpg",
+        "fps": 60,
+        "explanation": "[2-9] Immediately, the blue car moves backward, and a red car appears below. The blue car passes the red car, comes to its rear, and then drives towards the sea. The red car leaps upward."
+    },
+    {
+        "second": 6,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Je9zfiqTmtc/output_frames/sec_6_idx_5.jpg",
+        "fps": 60,
+        "explanation": "[2-9] Immediately, the blue car moves backward, and a red car appears below. The blue car passes the red car, comes to its rear, and then drives towards the sea. The red car leaps upward."
+    },
+    {
+        "second": 7,
+        "frame_index": 43,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Je9zfiqTmtc/output_frames/sec_7_idx_43.jpg",
+        "fps": 60,
+        "explanation": "[2-9] Immediately, the blue car moves backward, and a red car appears below. The blue car passes the red car, comes to its rear, and then drives towards the sea. The red car leaps upward."
+    },
+    {
+        "second": 8,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Je9zfiqTmtc/output_frames/sec_8_idx_3.jpg",
+        "fps": 60,
+        "explanation": "[2-9] Immediately, the blue car moves backward, and a red car appears below. The blue car passes the red car, comes to its rear, and then drives towards the sea. The red car leaps upward."
+    },
+    {
+        "second": 9,
+        "frame_index": 58,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Je9zfiqTmtc/output_frames/sec_9_idx_58.jpg",
+        "fps": 60,
+        "explanation": "[2-9] Immediately, the blue car moves backward, and a red car appears below. The blue car passes the red car, comes to its rear, and then drives towards the sea. The red car leaps upward."
+    },
+    {
+        "second": 10,
+        "frame_index": 40,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Je9zfiqTmtc/output_frames/sec_10_idx_40.jpg",
+        "fps": 60,
+        "explanation": "[9-15] Finally, the blue car drives towards the sea and falls onto the yacht. The red car behind it drives towards the sea at the same time. Then several white face emoji appear on the screen. In the upper half of the screen, the head of the man in the orange shirt also turns into white and green face emojis."
+    },
+    {
+        "second": 11,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Je9zfiqTmtc/output_frames/sec_11_idx_2.jpg",
+        "fps": 60,
+        "explanation": "[9-15] Finally, the blue car drives towards the sea and falls onto the yacht. The red car behind it drives towards the sea at the same time. Then several white face emoji appear on the screen. In the upper half of the screen, the head of the man in the orange shirt also turns into white and green face emojis."
+    },
+    {
+        "second": 12,
+        "frame_index": 57,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Je9zfiqTmtc/output_frames/sec_12_idx_57.jpg",
+        "fps": 60,
+        "explanation": "[9-15] Finally, the blue car drives towards the sea and falls onto the yacht. The red car behind it drives towards the sea at the same time. Then several white face emoji appear on the screen. In the upper half of the screen, the head of the man in the orange shirt also turns into white and green face emojis."
+    },
+    {
+        "second": 13,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Je9zfiqTmtc/output_frames/sec_13_idx_4.jpg",
+        "fps": 60,
+        "explanation": "[9-15] Finally, the blue car drives towards the sea and falls onto the yacht. The red car behind it drives towards the sea at the same time. Then several white face emoji appear on the screen. In the upper half of the screen, the head of the man in the orange shirt also turns into white and green face emojis."
+    },
+    {
+        "second": 14,
+        "frame_index": 46,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Je9zfiqTmtc/output_frames/sec_14_idx_46.jpg",
+        "fps": 60,
+        "explanation": "[9-15] Finally, the blue car drives towards the sea and falls onto the yacht. The red car behind it drives towards the sea at the same time. Then several white face emoji appear on the screen. In the upper half of the screen, the head of the man in the orange shirt also turns into white and green face emojis."
+    },
+    {
+        "second": 15,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Je9zfiqTmtc/output_frames/sec_15_idx_2.jpg",
+        "fps": 60,
+        "explanation": "[9-15] Finally, the blue car drives towards the sea and falls onto the yacht. The red car behind it drives towards the sea at the same time. Then several white face emoji appear on the screen. In the upper half of the screen, the head of the man in the orange shirt also turns into white and green face emojis."
+    }
+]

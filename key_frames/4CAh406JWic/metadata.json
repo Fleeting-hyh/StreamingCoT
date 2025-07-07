@@ -1,0 +1,198 @@
+[
+    {
+        "second": 0,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4CAh406JWic/output_frames/sec_0_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A family of five is in a living room with white walls and white flooring with black and brown lines. On the left is a man wearing a blue hoodie, and behind him is an alpaca toy. To the left of the man in the blue hoodie is a woman wearing a frog headband and a red hoodie. To the left of the woman with the frog headband is another woman wearing a pink hoodie. To the left of the woman in the pink hoodie is a man wearing a black hoodie. They are standing behind a large cardboard box, each with a clip on their nose. A yellow string is tied to each clip, and the other end of the string hangs over the cardboard box. There are also some untied yellow strings on the cardboard box. Inside the box squats a boy wearing a red sweatshirt, with yellow strings dangling in front of him. Above is a white caption: \"Professional action, do not imitate.\""
+    },
+    {
+        "second": 1,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4CAh406JWic/output_frames/sec_1_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-7] The boy starts pulling the strings. After pulling an untied string, the boy pulls off the yellow string attached to the clip of the man in the black hoodie. The man covers his nose and walks out to the right."
+    },
+    {
+        "second": 2,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4CAh406JWic/output_frames/sec_2_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[0-7] The boy starts pulling the strings. After pulling an untied string, the boy pulls off the yellow string attached to the clip of the man in the black hoodie. The man covers his nose and walks out to the right."
+    },
+    {
+        "second": 3,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4CAh406JWic/output_frames/sec_3_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-7] The boy starts pulling the strings. After pulling an untied string, the boy pulls off the yellow string attached to the clip of the man in the black hoodie. The man covers his nose and walks out to the right."
+    },
+    {
+        "second": 4,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4CAh406JWic/output_frames/sec_4_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[0-7] The boy starts pulling the strings. After pulling an untied string, the boy pulls off the yellow string attached to the clip of the man in the black hoodie. The man covers his nose and walks out to the right."
+    },
+    {
+        "second": 5,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4CAh406JWic/output_frames/sec_5_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[0-7] The boy starts pulling the strings. After pulling an untied string, the boy pulls off the yellow string attached to the clip of the man in the black hoodie. The man covers his nose and walks out to the right."
+    },
+    {
+        "second": 6,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4CAh406JWic/output_frames/sec_6_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[0-7] The boy starts pulling the strings. After pulling an untied string, the boy pulls off the yellow string attached to the clip of the man in the black hoodie. The man covers his nose and walks out to the right."
+    },
+    {
+        "second": 7,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4CAh406JWic/output_frames/sec_7_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[0-7] The boy starts pulling the strings. After pulling an untied string, the boy pulls off the yellow string attached to the clip of the man in the black hoodie. The man covers his nose and walks out to the right."
+    },
+    {
+        "second": 8,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4CAh406JWic/output_frames/sec_8_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[7-16] Then, after pulling two untied strings, the boy pulls the yellow string attached to the clip of the man in the blue hoodie. The man covers his nose and walks out to the left."
+    },
+    {
+        "second": 9,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4CAh406JWic/output_frames/sec_9_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[7-16] Then, after pulling two untied strings, the boy pulls the yellow string attached to the clip of the man in the blue hoodie. The man covers his nose and walks out to the left."
+    },
+    {
+        "second": 10,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4CAh406JWic/output_frames/sec_10_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[7-16] Then, after pulling two untied strings, the boy pulls the yellow string attached to the clip of the man in the blue hoodie. The man covers his nose and walks out to the left."
+    },
+    {
+        "second": 11,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4CAh406JWic/output_frames/sec_11_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[7-16] Then, after pulling two untied strings, the boy pulls the yellow string attached to the clip of the man in the blue hoodie. The man covers his nose and walks out to the left."
+    },
+    {
+        "second": 12,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4CAh406JWic/output_frames/sec_12_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[7-16] Then, after pulling two untied strings, the boy pulls the yellow string attached to the clip of the man in the blue hoodie. The man covers his nose and walks out to the left."
+    },
+    {
+        "second": 13,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4CAh406JWic/output_frames/sec_13_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[7-16] Then, after pulling two untied strings, the boy pulls the yellow string attached to the clip of the man in the blue hoodie. The man covers his nose and walks out to the left."
+    },
+    {
+        "second": 14,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4CAh406JWic/output_frames/sec_14_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[7-16] Then, after pulling two untied strings, the boy pulls the yellow string attached to the clip of the man in the blue hoodie. The man covers his nose and walks out to the left."
+    },
+    {
+        "second": 15,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4CAh406JWic/output_frames/sec_15_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[7-16] Then, after pulling two untied strings, the boy pulls the yellow string attached to the clip of the man in the blue hoodie. The man covers his nose and walks out to the left."
+    },
+    {
+        "second": 16,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4CAh406JWic/output_frames/sec_16_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[7-16] Then, after pulling two untied strings, the boy pulls the yellow string attached to the clip of the man in the blue hoodie. The man covers his nose and walks out to the left."
+    },
+    {
+        "second": 17,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4CAh406JWic/output_frames/sec_17_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[16-23] Subsequently, after pulling two untied strings, the boy pulls the yellow string attached to the clip of the woman in the red hoodie. The woman covers her nose and walks out to the left."
+    },
+    {
+        "second": 18,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4CAh406JWic/output_frames/sec_18_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[16-23] Subsequently, after pulling two untied strings, the boy pulls the yellow string attached to the clip of the woman in the red hoodie. The woman covers her nose and walks out to the left."
+    },
+    {
+        "second": 19,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4CAh406JWic/output_frames/sec_19_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[16-23] Subsequently, after pulling two untied strings, the boy pulls the yellow string attached to the clip of the woman in the red hoodie. The woman covers her nose and walks out to the left."
+    },
+    {
+        "second": 20,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4CAh406JWic/output_frames/sec_20_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[16-23] Subsequently, after pulling two untied strings, the boy pulls the yellow string attached to the clip of the woman in the red hoodie. The woman covers her nose and walks out to the left."
+    },
+    {
+        "second": 21,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4CAh406JWic/output_frames/sec_21_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[16-23] Subsequently, after pulling two untied strings, the boy pulls the yellow string attached to the clip of the woman in the red hoodie. The woman covers her nose and walks out to the left."
+    },
+    {
+        "second": 22,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4CAh406JWic/output_frames/sec_22_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[16-23] Subsequently, after pulling two untied strings, the boy pulls the yellow string attached to the clip of the woman in the red hoodie. The woman covers her nose and walks out to the left."
+    },
+    {
+        "second": 23,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4CAh406JWic/output_frames/sec_23_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[16-23] Subsequently, after pulling two untied strings, the boy pulls the yellow string attached to the clip of the woman in the red hoodie. The woman covers her nose and walks out to the left."
+    },
+    {
+        "second": 24,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4CAh406JWic/output_frames/sec_24_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[23-27] Finally, the camera zooms in on a pair of hands holding a durian and handing it to the woman in the pink hoodie. The woman happily takes the durian and dances around with it. The boy squatting in the box claps his hands happily."
+    },
+    {
+        "second": 25,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4CAh406JWic/output_frames/sec_25_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[23-27] Finally, the camera zooms in on a pair of hands holding a durian and handing it to the woman in the pink hoodie. The woman happily takes the durian and dances around with it. The boy squatting in the box claps his hands happily."
+    },
+    {
+        "second": 26,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4CAh406JWic/output_frames/sec_26_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[23-27] Finally, the camera zooms in on a pair of hands holding a durian and handing it to the woman in the pink hoodie. The woman happily takes the durian and dances around with it. The boy squatting in the box claps his hands happily."
+    },
+    {
+        "second": 27,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4CAh406JWic/output_frames/sec_27_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[23-27] Finally, the camera zooms in on a pair of hands holding a durian and handing it to the woman in the pink hoodie. The woman happily takes the durian and dances around with it. The boy squatting in the box claps his hands happily."
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "second": 0,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MfSKm9YuV5U/output_frames/sec_0_idx_26.jpg",
+        "fps": 60,
+        "explanation": "[0-0] A pink pig is confined in a narrow metal enclosure, surrounded by metal structures."
+    },
+    {
+        "second": 1,
+        "frame_index": 58,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MfSKm9YuV5U/output_frames/sec_1_idx_58.jpg",
+        "fps": 60,
+        "explanation": "[0-4] As the metal moves, the pig gets closer, and through the gap on the right, a person in black clothing can be seen operating the machine."
+    },
+    {
+        "second": 2,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MfSKm9YuV5U/output_frames/sec_2_idx_15.jpg",
+        "fps": 60,
+        "explanation": "[0-4] As the metal moves, the pig gets closer, and through the gap on the right, a person in black clothing can be seen operating the machine."
+    },
+    {
+        "second": 3,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MfSKm9YuV5U/output_frames/sec_3_idx_26.jpg",
+        "fps": 60,
+        "explanation": "[0-4] As the metal moves, the pig gets closer, and through the gap on the right, a person in black clothing can be seen operating the machine."
+    },
+    {
+        "second": 4,
+        "frame_index": 38,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MfSKm9YuV5U/output_frames/sec_4_idx_38.jpg",
+        "fps": 60,
+        "explanation": "[0-4] As the metal moves, the pig gets closer, and through the gap on the right, a person in black clothing can be seen operating the machine."
+    },
+    {
+        "second": 5,
+        "frame_index": 59,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MfSKm9YuV5U/output_frames/sec_5_idx_59.jpg",
+        "fps": 60,
+        "explanation": "[4-9] Finally, the pig stops, and the camera zooms in, showing the pig's face almost touching the cold metal bars, with its ears twitching slightly."
+    },
+    {
+        "second": 6,
+        "frame_index": 59,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MfSKm9YuV5U/output_frames/sec_6_idx_59.jpg",
+        "fps": 60,
+        "explanation": "[4-9] Finally, the pig stops, and the camera zooms in, showing the pig's face almost touching the cold metal bars, with its ears twitching slightly."
+    },
+    {
+        "second": 7,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MfSKm9YuV5U/output_frames/sec_7_idx_11.jpg",
+        "fps": 60,
+        "explanation": "[4-9] Finally, the pig stops, and the camera zooms in, showing the pig's face almost touching the cold metal bars, with its ears twitching slightly."
+    },
+    {
+        "second": 8,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MfSKm9YuV5U/output_frames/sec_8_idx_6.jpg",
+        "fps": 60,
+        "explanation": "[4-9] Finally, the pig stops, and the camera zooms in, showing the pig's face almost touching the cold metal bars, with its ears twitching slightly."
+    },
+    {
+        "second": 9,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MfSKm9YuV5U/output_frames/sec_9_idx_6.jpg",
+        "fps": 60,
+        "explanation": "[4-9] Finally, the pig stops, and the camera zooms in, showing the pig's face almost touching the cold metal bars, with its ears twitching slightly."
+    }
+]

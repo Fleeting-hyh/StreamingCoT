@@ -1,0 +1,121 @@
+[
+    {
+        "second": 0,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7AShyzT4myU/output_frames/sec_0_idx_20.jpg",
+        "fps": 60,
+        "explanation": "[0-0] On an outdoor soccer field, a player in a black jersey and a player in a purple jersey are standing in front of the goal, facing forward. There is a number \"2\" in the middle."
+    },
+    {
+        "second": 1,
+        "frame_index": 57,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7AShyzT4myU/output_frames/sec_1_idx_57.jpg",
+        "fps": 60,
+        "explanation": "[0-8] As the number in the middle counts down \"2, 1, GO!\", the two players in front of the goal start running forward. The player in the black jersey has a red arrow pointing upwards to a half-length shot of the player above his head. On the grass to their right, several people are watching them. In the lower left corner, a stopwatch shows the speed of the two players. The yellow light of the stopwatch flashes twice, indicating that the player in the purple jersey is ahead of the player in the black jersey."
+    },
+    {
+        "second": 2,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7AShyzT4myU/output_frames/sec_2_idx_21.jpg",
+        "fps": 60,
+        "explanation": "[0-8] As the number in the middle counts down \"2, 1, GO!\", the two players in front of the goal start running forward. The player in the black jersey has a red arrow pointing upwards to a half-length shot of the player above his head. On the grass to their right, several people are watching them. In the lower left corner, a stopwatch shows the speed of the two players. The yellow light of the stopwatch flashes twice, indicating that the player in the purple jersey is ahead of the player in the black jersey."
+    },
+    {
+        "second": 3,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7AShyzT4myU/output_frames/sec_3_idx_12.jpg",
+        "fps": 60,
+        "explanation": "[0-8] As the number in the middle counts down \"2, 1, GO!\", the two players in front of the goal start running forward. The player in the black jersey has a red arrow pointing upwards to a half-length shot of the player above his head. On the grass to their right, several people are watching them. In the lower left corner, a stopwatch shows the speed of the two players. The yellow light of the stopwatch flashes twice, indicating that the player in the purple jersey is ahead of the player in the black jersey."
+    },
+    {
+        "second": 4,
+        "frame_index": 47,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7AShyzT4myU/output_frames/sec_4_idx_47.jpg",
+        "fps": 60,
+        "explanation": "[0-8] As the number in the middle counts down \"2, 1, GO!\", the two players in front of the goal start running forward. The player in the black jersey has a red arrow pointing upwards to a half-length shot of the player above his head. On the grass to their right, several people are watching them. In the lower left corner, a stopwatch shows the speed of the two players. The yellow light of the stopwatch flashes twice, indicating that the player in the purple jersey is ahead of the player in the black jersey."
+    },
+    {
+        "second": 5,
+        "frame_index": 51,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7AShyzT4myU/output_frames/sec_5_idx_51.jpg",
+        "fps": 60,
+        "explanation": "[0-8] As the number in the middle counts down \"2, 1, GO!\", the two players in front of the goal start running forward. The player in the black jersey has a red arrow pointing upwards to a half-length shot of the player above his head. On the grass to their right, several people are watching them. In the lower left corner, a stopwatch shows the speed of the two players. The yellow light of the stopwatch flashes twice, indicating that the player in the purple jersey is ahead of the player in the black jersey."
+    },
+    {
+        "second": 6,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7AShyzT4myU/output_frames/sec_6_idx_9.jpg",
+        "fps": 60,
+        "explanation": "[0-8] As the number in the middle counts down \"2, 1, GO!\", the two players in front of the goal start running forward. The player in the black jersey has a red arrow pointing upwards to a half-length shot of the player above his head. On the grass to their right, several people are watching them. In the lower left corner, a stopwatch shows the speed of the two players. The yellow light of the stopwatch flashes twice, indicating that the player in the purple jersey is ahead of the player in the black jersey."
+    },
+    {
+        "second": 7,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7AShyzT4myU/output_frames/sec_7_idx_8.jpg",
+        "fps": 60,
+        "explanation": "[0-8] As the number in the middle counts down \"2, 1, GO!\", the two players in front of the goal start running forward. The player in the black jersey has a red arrow pointing upwards to a half-length shot of the player above his head. On the grass to their right, several people are watching them. In the lower left corner, a stopwatch shows the speed of the two players. The yellow light of the stopwatch flashes twice, indicating that the player in the purple jersey is ahead of the player in the black jersey."
+    },
+    {
+        "second": 8,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7AShyzT4myU/output_frames/sec_8_idx_3.jpg",
+        "fps": 60,
+        "explanation": "[0-8] As the number in the middle counts down \"2, 1, GO!\", the two players in front of the goal start running forward. The player in the black jersey has a red arrow pointing upwards to a half-length shot of the player above his head. On the grass to their right, several people are watching them. In the lower left corner, a stopwatch shows the speed of the two players. The yellow light of the stopwatch flashes twice, indicating that the player in the purple jersey is ahead of the player in the black jersey."
+    },
+    {
+        "second": 9,
+        "frame_index": 48,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7AShyzT4myU/output_frames/sec_9_idx_48.jpg",
+        "fps": 60,
+        "explanation": "[8-16] Then, the player in the purple jersey dribbles the ball forward. On his left, a player in a black jersey and a player in a white jersey are watching him. As he continues forward, there is a player in a red jersey in front of him. The player in the red jersey has a red arrow pointing upwards to a half-length shot of the player above his head. The player in the red jersey sticks out his right foot, trying to block the ball that the player in the purple jersey is dribbling, but he fails. The player in the purple jersey goes past the foot of the player in the red jersey, chases the soccer ball, and runs out of the right side. The brightness of the picture dims, and a red caption \"wasted\" appears in the middle."
+    },
+    {
+        "second": 10,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7AShyzT4myU/output_frames/sec_10_idx_4.jpg",
+        "fps": 60,
+        "explanation": "[8-16] Then, the player in the purple jersey dribbles the ball forward. On his left, a player in a black jersey and a player in a white jersey are watching him. As he continues forward, there is a player in a red jersey in front of him. The player in the red jersey has a red arrow pointing upwards to a half-length shot of the player above his head. The player in the red jersey sticks out his right foot, trying to block the ball that the player in the purple jersey is dribbling, but he fails. The player in the purple jersey goes past the foot of the player in the red jersey, chases the soccer ball, and runs out of the right side. The brightness of the picture dims, and a red caption \"wasted\" appears in the middle."
+    },
+    {
+        "second": 11,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7AShyzT4myU/output_frames/sec_11_idx_21.jpg",
+        "fps": 60,
+        "explanation": "[8-16] Then, the player in the purple jersey dribbles the ball forward. On his left, a player in a black jersey and a player in a white jersey are watching him. As he continues forward, there is a player in a red jersey in front of him. The player in the red jersey has a red arrow pointing upwards to a half-length shot of the player above his head. The player in the red jersey sticks out his right foot, trying to block the ball that the player in the purple jersey is dribbling, but he fails. The player in the purple jersey goes past the foot of the player in the red jersey, chases the soccer ball, and runs out of the right side. The brightness of the picture dims, and a red caption \"wasted\" appears in the middle."
+    },
+    {
+        "second": 12,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7AShyzT4myU/output_frames/sec_12_idx_21.jpg",
+        "fps": 60,
+        "explanation": "[8-16] Then, the player in the purple jersey dribbles the ball forward. On his left, a player in a black jersey and a player in a white jersey are watching him. As he continues forward, there is a player in a red jersey in front of him. The player in the red jersey has a red arrow pointing upwards to a half-length shot of the player above his head. The player in the red jersey sticks out his right foot, trying to block the ball that the player in the purple jersey is dribbling, but he fails. The player in the purple jersey goes past the foot of the player in the red jersey, chases the soccer ball, and runs out of the right side. The brightness of the picture dims, and a red caption \"wasted\" appears in the middle."
+    },
+    {
+        "second": 13,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7AShyzT4myU/output_frames/sec_13_idx_2.jpg",
+        "fps": 60,
+        "explanation": "[8-16] Then, the player in the purple jersey dribbles the ball forward. On his left, a player in a black jersey and a player in a white jersey are watching him. As he continues forward, there is a player in a red jersey in front of him. The player in the red jersey has a red arrow pointing upwards to a half-length shot of the player above his head. The player in the red jersey sticks out his right foot, trying to block the ball that the player in the purple jersey is dribbling, but he fails. The player in the purple jersey goes past the foot of the player in the red jersey, chases the soccer ball, and runs out of the right side. The brightness of the picture dims, and a red caption \"wasted\" appears in the middle."
+    },
+    {
+        "second": 14,
+        "frame_index": 50,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7AShyzT4myU/output_frames/sec_14_idx_50.jpg",
+        "fps": 60,
+        "explanation": "[8-16] Then, the player in the purple jersey dribbles the ball forward. On his left, a player in a black jersey and a player in a white jersey are watching him. As he continues forward, there is a player in a red jersey in front of him. The player in the red jersey has a red arrow pointing upwards to a half-length shot of the player above his head. The player in the red jersey sticks out his right foot, trying to block the ball that the player in the purple jersey is dribbling, but he fails. The player in the purple jersey goes past the foot of the player in the red jersey, chases the soccer ball, and runs out of the right side. The brightness of the picture dims, and a red caption \"wasted\" appears in the middle."
+    },
+    {
+        "second": 15,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7AShyzT4myU/output_frames/sec_15_idx_2.jpg",
+        "fps": 60,
+        "explanation": "[8-16] Then, the player in the purple jersey dribbles the ball forward. On his left, a player in a black jersey and a player in a white jersey are watching him. As he continues forward, there is a player in a red jersey in front of him. The player in the red jersey has a red arrow pointing upwards to a half-length shot of the player above his head. The player in the red jersey sticks out his right foot, trying to block the ball that the player in the purple jersey is dribbling, but he fails. The player in the purple jersey goes past the foot of the player in the red jersey, chases the soccer ball, and runs out of the right side. The brightness of the picture dims, and a red caption \"wasted\" appears in the middle."
+    },
+    {
+        "second": 16,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7AShyzT4myU/output_frames/sec_16_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[8-16] Then, the player in the purple jersey dribbles the ball forward. On his left, a player in a black jersey and a player in a white jersey are watching him. As he continues forward, there is a player in a red jersey in front of him. The player in the red jersey has a red arrow pointing upwards to a half-length shot of the player above his head. The player in the red jersey sticks out his right foot, trying to block the ball that the player in the purple jersey is dribbling, but he fails. The player in the purple jersey goes past the foot of the player in the red jersey, chases the soccer ball, and runs out of the right side. The brightness of the picture dims, and a red caption \"wasted\" appears in the middle."
+    }
+]

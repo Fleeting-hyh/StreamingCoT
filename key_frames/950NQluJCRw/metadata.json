@@ -1,0 +1,114 @@
+[
+    {
+        "second": 0,
+        "frame_index": 45,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/950NQluJCRw/output_frames/sec_0_idx_45.jpg",
+        "fps": 60,
+        "explanation": "[0-0] At a street intersection, the traffic light facing the roadside is red. A motorcycle is waiting at the red light. On the cross street, two motorcycles and two cars are driving. In the distance, there is a beige wall, behind which are several trees and a beige building."
+    },
+    {
+        "second": 1,
+        "frame_index": 57,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/950NQluJCRw/output_frames/sec_1_idx_57.jpg",
+        "fps": 60,
+        "explanation": "[0-3] A red motorcycle drives up to the intersection and stops. The rider of the red motorcycle is wearing a red and black helmet, a black T-shirt, and blue jeans. On the cross street, some motorcycles and cars pass through the intersection behind."
+    },
+    {
+        "second": 2,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/950NQluJCRw/output_frames/sec_2_idx_9.jpg",
+        "fps": 60,
+        "explanation": "[0-3] A red motorcycle drives up to the intersection and stops. The rider of the red motorcycle is wearing a red and black helmet, a black T-shirt, and blue jeans. On the cross street, some motorcycles and cars pass through the intersection behind."
+    },
+    {
+        "second": 3,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/950NQluJCRw/output_frames/sec_3_idx_4.jpg",
+        "fps": 60,
+        "explanation": "[0-3] A red motorcycle drives up to the intersection and stops. The rider of the red motorcycle is wearing a red and black helmet, a black T-shirt, and blue jeans. On the cross street, some motorcycles and cars pass through the intersection behind."
+    },
+    {
+        "second": 4,
+        "frame_index": 56,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/950NQluJCRw/output_frames/sec_4_idx_56.jpg",
+        "fps": 60,
+        "explanation": "[3-9] Two black motorcycles enter the frame. One stops at the intersection; the rider is wearing a white shirt and black pants. The other slowly approaches the red motorcycle and stops behind it. The rider is wearing a three-color shirt, light gray pants, and white shoes. There is a person in the back seat wearing a black and gray helmet, a striped shirt, and light blue jeans. After a while, the rider of the red motorcycle looks back at the black motorcycle behind him."
+    },
+    {
+        "second": 5,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/950NQluJCRw/output_frames/sec_5_idx_13.jpg",
+        "fps": 60,
+        "explanation": "[3-9] Two black motorcycles enter the frame. One stops at the intersection; the rider is wearing a white shirt and black pants. The other slowly approaches the red motorcycle and stops behind it. The rider is wearing a three-color shirt, light gray pants, and white shoes. There is a person in the back seat wearing a black and gray helmet, a striped shirt, and light blue jeans. After a while, the rider of the red motorcycle looks back at the black motorcycle behind him."
+    },
+    {
+        "second": 6,
+        "frame_index": 55,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/950NQluJCRw/output_frames/sec_6_idx_55.jpg",
+        "fps": 60,
+        "explanation": "[3-9] Two black motorcycles enter the frame. One stops at the intersection; the rider is wearing a white shirt and black pants. The other slowly approaches the red motorcycle and stops behind it. The rider is wearing a three-color shirt, light gray pants, and white shoes. There is a person in the back seat wearing a black and gray helmet, a striped shirt, and light blue jeans. After a while, the rider of the red motorcycle looks back at the black motorcycle behind him."
+    },
+    {
+        "second": 7,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/950NQluJCRw/output_frames/sec_7_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[3-9] Two black motorcycles enter the frame. One stops at the intersection; the rider is wearing a white shirt and black pants. The other slowly approaches the red motorcycle and stops behind it. The rider is wearing a three-color shirt, light gray pants, and white shoes. There is a person in the back seat wearing a black and gray helmet, a striped shirt, and light blue jeans. After a while, the rider of the red motorcycle looks back at the black motorcycle behind him."
+    },
+    {
+        "second": 8,
+        "frame_index": 57,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/950NQluJCRw/output_frames/sec_8_idx_57.jpg",
+        "fps": 60,
+        "explanation": "[3-9] Two black motorcycles enter the frame. One stops at the intersection; the rider is wearing a white shirt and black pants. The other slowly approaches the red motorcycle and stops behind it. The rider is wearing a three-color shirt, light gray pants, and white shoes. There is a person in the back seat wearing a black and gray helmet, a striped shirt, and light blue jeans. After a while, the rider of the red motorcycle looks back at the black motorcycle behind him."
+    },
+    {
+        "second": 9,
+        "frame_index": 49,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/950NQluJCRw/output_frames/sec_9_idx_49.jpg",
+        "fps": 60,
+        "explanation": "[3-9] Two black motorcycles enter the frame. One stops at the intersection; the rider is wearing a white shirt and black pants. The other slowly approaches the red motorcycle and stops behind it. The rider is wearing a three-color shirt, light gray pants, and white shoes. There is a person in the back seat wearing a black and gray helmet, a striped shirt, and light blue jeans. After a while, the rider of the red motorcycle looks back at the black motorcycle behind him."
+    },
+    {
+        "second": 10,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/950NQluJCRw/output_frames/sec_10_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[9-15] A motorcycle coming from the right side of the frame stops at the intersection. The rider is wearing a white helmet, a gray jacket, and blue jeans. At this time, the rider of the red motorcycle gets off, bends down, and uses his right hand to perform some operation on the side of the motorcycle. Then, he picks up a red panel from the back of the motorcycle, holds the panel in his left hand, points to his motorcycle with his right hand, and nods. The two people on the black motorcycle are also gesturing with their hands. Then the red motorcycle rider turns around and points into the distance."
+    },
+    {
+        "second": 11,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/950NQluJCRw/output_frames/sec_11_idx_20.jpg",
+        "fps": 60,
+        "explanation": "[9-15] A motorcycle coming from the right side of the frame stops at the intersection. The rider is wearing a white helmet, a gray jacket, and blue jeans. At this time, the rider of the red motorcycle gets off, bends down, and uses his right hand to perform some operation on the side of the motorcycle. Then, he picks up a red panel from the back of the motorcycle, holds the panel in his left hand, points to his motorcycle with his right hand, and nods. The two people on the black motorcycle are also gesturing with their hands. Then the red motorcycle rider turns around and points into the distance."
+    },
+    {
+        "second": 12,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/950NQluJCRw/output_frames/sec_12_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[9-15] A motorcycle coming from the right side of the frame stops at the intersection. The rider is wearing a white helmet, a gray jacket, and blue jeans. At this time, the rider of the red motorcycle gets off, bends down, and uses his right hand to perform some operation on the side of the motorcycle. Then, he picks up a red panel from the back of the motorcycle, holds the panel in his left hand, points to his motorcycle with his right hand, and nods. The two people on the black motorcycle are also gesturing with their hands. Then the red motorcycle rider turns around and points into the distance."
+    },
+    {
+        "second": 13,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/950NQluJCRw/output_frames/sec_13_idx_28.jpg",
+        "fps": 60,
+        "explanation": "[9-15] A motorcycle coming from the right side of the frame stops at the intersection. The rider is wearing a white helmet, a gray jacket, and blue jeans. At this time, the rider of the red motorcycle gets off, bends down, and uses his right hand to perform some operation on the side of the motorcycle. Then, he picks up a red panel from the back of the motorcycle, holds the panel in his left hand, points to his motorcycle with his right hand, and nods. The two people on the black motorcycle are also gesturing with their hands. Then the red motorcycle rider turns around and points into the distance."
+    },
+    {
+        "second": 14,
+        "frame_index": 41,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/950NQluJCRw/output_frames/sec_14_idx_41.jpg",
+        "fps": 60,
+        "explanation": "[9-15] A motorcycle coming from the right side of the frame stops at the intersection. The rider is wearing a white helmet, a gray jacket, and blue jeans. At this time, the rider of the red motorcycle gets off, bends down, and uses his right hand to perform some operation on the side of the motorcycle. Then, he picks up a red panel from the back of the motorcycle, holds the panel in his left hand, points to his motorcycle with his right hand, and nods. The two people on the black motorcycle are also gesturing with their hands. Then the red motorcycle rider turns around and points into the distance."
+    },
+    {
+        "second": 15,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/950NQluJCRw/output_frames/sec_15_idx_17.jpg",
+        "fps": 60,
+        "explanation": "[9-15] A motorcycle coming from the right side of the frame stops at the intersection. The rider is wearing a white helmet, a gray jacket, and blue jeans. At this time, the rider of the red motorcycle gets off, bends down, and uses his right hand to perform some operation on the side of the motorcycle. Then, he picks up a red panel from the back of the motorcycle, holds the panel in his left hand, points to his motorcycle with his right hand, and nods. The two people on the black motorcycle are also gesturing with their hands. Then the red motorcycle rider turns around and points into the distance."
+    }
+]

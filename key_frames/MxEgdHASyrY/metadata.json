@@ -1,0 +1,51 @@
+[
+    {
+        "second": 0,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MxEgdHASyrY/output_frames/sec_0_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[0-0] Inside a room, the floor is wooden, with alternating dark and light brown colors. On the left side, there is a wooden cabinet with multiple drawers. On the right side, there is a red leather armchair with some clutter and tools beside it. A white door is visible in the background. There is some dust on the wooden floor, a scattered white feather, and the white text \"@seducktive\" in the middle of the screen."
+    },
+    {
+        "second": 1,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MxEgdHASyrY/output_frames/sec_1_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Then, a white duck wearing small red boots runs from the lower right corner of the screen onto the floor of the room and continues to run forward, its rear end wiggling as it runs. The white duck then runs out of the frame, leaving only the empty room in the shot."
+    },
+    {
+        "second": 2,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MxEgdHASyrY/output_frames/sec_2_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Then, a white duck wearing small red boots runs from the lower right corner of the screen onto the floor of the room and continues to run forward, its rear end wiggling as it runs. The white duck then runs out of the frame, leaving only the empty room in the shot."
+    },
+    {
+        "second": 3,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MxEgdHASyrY/output_frames/sec_3_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Then, a white duck wearing small red boots runs from the lower right corner of the screen onto the floor of the room and continues to run forward, its rear end wiggling as it runs. The white duck then runs out of the frame, leaving only the empty room in the shot."
+    },
+    {
+        "second": 4,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MxEgdHASyrY/output_frames/sec_4_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[3-6] Immediately after, a white duck runs cheerfully out of the room and then runs to the right side of the screen. The white duck then runs out of the frame, leaving only the empty room in the shot."
+    },
+    {
+        "second": 5,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MxEgdHASyrY/output_frames/sec_5_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[3-6] Immediately after, a white duck runs cheerfully out of the room and then runs to the right side of the screen. The white duck then runs out of the frame, leaving only the empty room in the shot."
+    },
+    {
+        "second": 6,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MxEgdHASyrY/output_frames/sec_6_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[3-6] Immediately after, a white duck runs cheerfully out of the room and then runs to the right side of the screen. The white duck then runs out of the frame, leaving only the empty room in the shot."
+    }
+]

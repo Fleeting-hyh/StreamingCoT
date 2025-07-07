@@ -1,0 +1,86 @@
+[
+    {
+        "second": 0,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S3tsCFlmxfY/output_frames/sec_0_idx_15.jpg",
+        "fps": 60,
+        "explanation": "[0-0] A man stands in a room, wearing a red top and black-grey pants, with a cardboard box on his head that reads \"ATM Withdrawal Chicken\". He also holds a cardboard cutout resembling a simplified ATM, with a numeric keypad drawn on it. The background features beige walls and a white door."
+    },
+    {
+        "second": 1,
+        "frame_index": 59,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S3tsCFlmxfY/output_frames/sec_1_idx_59.jpg",
+        "fps": 60,
+        "explanation": "[0-4] Then, a woman opens the door, wearing a white short-sleeved shirt and floral pants, smiling and walking towards the man. She places a card into the slot on the cardboard ATM. The man's expression changes from drowsy to wide-eyed."
+    },
+    {
+        "second": 2,
+        "frame_index": 59,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S3tsCFlmxfY/output_frames/sec_2_idx_59.jpg",
+        "fps": 60,
+        "explanation": "[0-4] Then, a woman opens the door, wearing a white short-sleeved shirt and floral pants, smiling and walking towards the man. She places a card into the slot on the cardboard ATM. The man's expression changes from drowsy to wide-eyed."
+    },
+    {
+        "second": 3,
+        "frame_index": 54,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S3tsCFlmxfY/output_frames/sec_3_idx_54.jpg",
+        "fps": 60,
+        "explanation": "[0-4] Then, a woman opens the door, wearing a white short-sleeved shirt and floral pants, smiling and walking towards the man. She places a card into the slot on the cardboard ATM. The man's expression changes from drowsy to wide-eyed."
+    },
+    {
+        "second": 4,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S3tsCFlmxfY/output_frames/sec_4_idx_26.jpg",
+        "fps": 60,
+        "explanation": "[0-4] Then, a woman opens the door, wearing a white short-sleeved shirt and floral pants, smiling and walking towards the man. She places a card into the slot on the cardboard ATM. The man's expression changes from drowsy to wide-eyed."
+    },
+    {
+        "second": 5,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S3tsCFlmxfY/output_frames/sec_5_idx_2.jpg",
+        "fps": 60,
+        "explanation": "[4-7] Next, the woman pretends to enter a password on the cardboard. The man tilts his head, cooperating with her actions."
+    },
+    {
+        "second": 6,
+        "frame_index": 58,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S3tsCFlmxfY/output_frames/sec_6_idx_58.jpg",
+        "fps": 60,
+        "explanation": "[4-7] Next, the woman pretends to enter a password on the cardboard. The man tilts his head, cooperating with her actions."
+    },
+    {
+        "second": 7,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S3tsCFlmxfY/output_frames/sec_7_idx_2.jpg",
+        "fps": 60,
+        "explanation": "[4-7] Next, the woman pretends to enter a password on the cardboard. The man tilts his head, cooperating with her actions."
+    },
+    {
+        "second": 8,
+        "frame_index": 52,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S3tsCFlmxfY/output_frames/sec_8_idx_52.jpg",
+        "fps": 60,
+        "explanation": "[7-11] Subsequently, the woman kisses the man, and he smiles, throwing out some 100 RMB bills from the opening below."
+    },
+    {
+        "second": 9,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S3tsCFlmxfY/output_frames/sec_9_idx_16.jpg",
+        "fps": 60,
+        "explanation": "[7-11] Subsequently, the woman kisses the man, and he smiles, throwing out some 100 RMB bills from the opening below."
+    },
+    {
+        "second": 10,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S3tsCFlmxfY/output_frames/sec_10_idx_5.jpg",
+        "fps": 60,
+        "explanation": "[7-11] Subsequently, the woman kisses the man, and he smiles, throwing out some 100 RMB bills from the opening below."
+    },
+    {
+        "second": 11,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S3tsCFlmxfY/output_frames/sec_11_idx_17.jpg",
+        "fps": 60,
+        "explanation": "[7-11] Subsequently, the woman kisses the man, and he smiles, throwing out some 100 RMB bills from the opening below."
+    }
+]

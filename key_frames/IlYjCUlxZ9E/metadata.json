@@ -1,0 +1,51 @@
+[
+    {
+        "second": 0,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IlYjCUlxZ9E/output_frames/sec_0_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-0] On a lake, there is a single-plank bridge. A woman in red, holding a child in white, is standing on the bridge. On the left side, a crowd is watching. A duck is flying midway above the water under the bridge."
+    },
+    {
+        "second": 1,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IlYjCUlxZ9E/output_frames/sec_1_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-3] First, the duck in midair drops into the lake. A group of crocodiles emerges from the water and swims towards the duck. The woman in red, holding the child in white, slowly moves forward on the single-plank bridge."
+    },
+    {
+        "second": 2,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IlYjCUlxZ9E/output_frames/sec_2_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[0-3] First, the duck in midair drops into the lake. A group of crocodiles emerges from the water and swims towards the duck. The woman in red, holding the child in white, slowly moves forward on the single-plank bridge."
+    },
+    {
+        "second": 3,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IlYjCUlxZ9E/output_frames/sec_3_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[0-3] First, the duck in midair drops into the lake. A group of crocodiles emerges from the water and swims towards the duck. The woman in red, holding the child in white, slowly moves forward on the single-plank bridge."
+    },
+    {
+        "second": 4,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IlYjCUlxZ9E/output_frames/sec_4_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[3-7] Finally, the group of crocodiles thrashes about under the bridge. On the bridge, the woman in red, holding the child in white, turns her head to look down. The crowd on the left also looks towards the lake. The picture freezes."
+    },
+    {
+        "second": 5,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IlYjCUlxZ9E/output_frames/sec_5_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[3-7] Finally, the group of crocodiles thrashes about under the bridge. On the bridge, the woman in red, holding the child in white, turns her head to look down. The crowd on the left also looks towards the lake. The picture freezes."
+    },
+    {
+        "second": 6,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IlYjCUlxZ9E/output_frames/sec_6_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[3-7] Finally, the group of crocodiles thrashes about under the bridge. On the bridge, the woman in red, holding the child in white, turns her head to look down. The crowd on the left also looks towards the lake. The picture freezes."
+    }
+]

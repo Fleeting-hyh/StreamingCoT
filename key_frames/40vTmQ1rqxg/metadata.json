@@ -1,0 +1,100 @@
+[
+    {
+        "second": 0,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/40vTmQ1rqxg/output_frames/sec_0_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A little girl in a yellow and white dress is standing in front of a small tree full of green leaves. Her hair is tied up with white hair clips, and she is wearing a silver necklace. A blue sky and buildings can be seen in the background. Above her head are four cartoon images: a windmill, a hamburger, juice, and a baby bottle, from left to right."
+    },
+    {
+        "second": 1,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/40vTmQ1rqxg/output_frames/sec_1_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[0-2] The video begins with a hand holding a colorful windmill candy in front of the girl's face. The little girl opens her mouth and takes a few bites but doesn't bite it off. A red X appears below the windmill icon above her head."
+    },
+    {
+        "second": 2,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/40vTmQ1rqxg/output_frames/sec_2_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-2] The video begins with a hand holding a colorful windmill candy in front of the girl's face. The little girl opens her mouth and takes a few bites but doesn't bite it off. A red X appears below the windmill icon above her head."
+    },
+    {
+        "second": 3,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/40vTmQ1rqxg/output_frames/sec_3_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[2-7] Then, the hand holds a hamburger lollipop in front of the girl's face. The little girl opens her mouth, takes a bite, and takes two more bites but doesn't bite off the rest. The little girl shyly covers her mouth and smiles. A green check mark appears below the hamburger icon above her head."
+    },
+    {
+        "second": 4,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/40vTmQ1rqxg/output_frames/sec_4_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[2-7] Then, the hand holds a hamburger lollipop in front of the girl's face. The little girl opens her mouth, takes a bite, and takes two more bites but doesn't bite off the rest. The little girl shyly covers her mouth and smiles. A green check mark appears below the hamburger icon above her head."
+    },
+    {
+        "second": 5,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/40vTmQ1rqxg/output_frames/sec_5_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[2-7] Then, the hand holds a hamburger lollipop in front of the girl's face. The little girl opens her mouth, takes a bite, and takes two more bites but doesn't bite off the rest. The little girl shyly covers her mouth and smiles. A green check mark appears below the hamburger icon above her head."
+    },
+    {
+        "second": 6,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/40vTmQ1rqxg/output_frames/sec_6_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[2-7] Then, the hand holds a hamburger lollipop in front of the girl's face. The little girl opens her mouth, takes a bite, and takes two more bites but doesn't bite off the rest. The little girl shyly covers her mouth and smiles. A green check mark appears below the hamburger icon above her head."
+    },
+    {
+        "second": 7,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/40vTmQ1rqxg/output_frames/sec_7_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[2-7] Then, the hand holds a hamburger lollipop in front of the girl's face. The little girl opens her mouth, takes a bite, and takes two more bites but doesn't bite off the rest. The little girl shyly covers her mouth and smiles. A green check mark appears below the hamburger icon above her head."
+    },
+    {
+        "second": 8,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/40vTmQ1rqxg/output_frames/sec_8_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[7-10] Subsequently, the hand brings a juice-shaped candy to the little girl's face. The little girl takes a few bites and is able to bite it off. A green check mark appears below the juice icon above her head."
+    },
+    {
+        "second": 9,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/40vTmQ1rqxg/output_frames/sec_9_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[7-10] Subsequently, the hand brings a juice-shaped candy to the little girl's face. The little girl takes a few bites and is able to bite it off. A green check mark appears below the juice icon above her head."
+    },
+    {
+        "second": 10,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/40vTmQ1rqxg/output_frames/sec_10_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[7-10] Subsequently, the hand brings a juice-shaped candy to the little girl's face. The little girl takes a few bites and is able to bite it off. A green check mark appears below the juice icon above her head."
+    },
+    {
+        "second": 11,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/40vTmQ1rqxg/output_frames/sec_11_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[10-13] Finally, the hand brings a baby bottle candy to the girl's face. The little girl takes a few bites but can't bite it off. A red X appears below the baby bottle icon above her head."
+    },
+    {
+        "second": 12,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/40vTmQ1rqxg/output_frames/sec_12_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[10-13] Finally, the hand brings a baby bottle candy to the girl's face. The little girl takes a few bites but can't bite it off. A red X appears below the baby bottle icon above her head."
+    },
+    {
+        "second": 13,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/40vTmQ1rqxg/output_frames/sec_13_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[10-13] Finally, the hand brings a baby bottle candy to the girl's face. The little girl takes a few bites but can't bite it off. A red X appears below the baby bottle icon above her head."
+    }
+]

@@ -1,0 +1,415 @@
+[
+    {
+        "second": 0,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RmIMR8Tb8xo/output_frames/sec_0_idx_12.jpg",
+        "fps": 60,
+        "explanation": "[0-0] In a factory, a group of workers in white uniforms and blue masks are wearing white gloves and holding dried seaweed sheets."
+    },
+    {
+        "second": 1,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RmIMR8Tb8xo/output_frames/sec_1_idx_3.jpg",
+        "fps": 60,
+        "explanation": "[0-7] The camera zooms in as workers use tweezers to pick up impurities from the seaweed. The workers are wearing blue masks and white hats, their expressions serious. They place the picked impurities into a metal basin."
+    },
+    {
+        "second": 2,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RmIMR8Tb8xo/output_frames/sec_2_idx_17.jpg",
+        "fps": 60,
+        "explanation": "[0-7] The camera zooms in as workers use tweezers to pick up impurities from the seaweed. The workers are wearing blue masks and white hats, their expressions serious. They place the picked impurities into a metal basin."
+    },
+    {
+        "second": 3,
+        "frame_index": 46,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RmIMR8Tb8xo/output_frames/sec_3_idx_46.jpg",
+        "fps": 60,
+        "explanation": "[0-7] The camera zooms in as workers use tweezers to pick up impurities from the seaweed. The workers are wearing blue masks and white hats, their expressions serious. They place the picked impurities into a metal basin."
+    },
+    {
+        "second": 4,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RmIMR8Tb8xo/output_frames/sec_4_idx_24.jpg",
+        "fps": 60,
+        "explanation": "[0-7] The camera zooms in as workers use tweezers to pick up impurities from the seaweed. The workers are wearing blue masks and white hats, their expressions serious. They place the picked impurities into a metal basin."
+    },
+    {
+        "second": 5,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RmIMR8Tb8xo/output_frames/sec_5_idx_7.jpg",
+        "fps": 60,
+        "explanation": "[0-7] The camera zooms in as workers use tweezers to pick up impurities from the seaweed. The workers are wearing blue masks and white hats, their expressions serious. They place the picked impurities into a metal basin."
+    },
+    {
+        "second": 6,
+        "frame_index": 43,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RmIMR8Tb8xo/output_frames/sec_6_idx_43.jpg",
+        "fps": 60,
+        "explanation": "[0-7] The camera zooms in as workers use tweezers to pick up impurities from the seaweed. The workers are wearing blue masks and white hats, their expressions serious. They place the picked impurities into a metal basin."
+    },
+    {
+        "second": 7,
+        "frame_index": 59,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RmIMR8Tb8xo/output_frames/sec_7_idx_59.jpg",
+        "fps": 60,
+        "explanation": "[0-7] The camera zooms in as workers use tweezers to pick up impurities from the seaweed. The workers are wearing blue masks and white hats, their expressions serious. They place the picked impurities into a metal basin."
+    },
+    {
+        "second": 8,
+        "frame_index": 42,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RmIMR8Tb8xo/output_frames/sec_8_idx_42.jpg",
+        "fps": 60,
+        "explanation": "[7-10] Then, a pair of hands wearing disposable gloves places a square piece of seaweed into a machine and closes the lid."
+    },
+    {
+        "second": 9,
+        "frame_index": 36,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RmIMR8Tb8xo/output_frames/sec_9_idx_36.jpg",
+        "fps": 60,
+        "explanation": "[7-10] Then, a pair of hands wearing disposable gloves places a square piece of seaweed into a machine and closes the lid."
+    },
+    {
+        "second": 10,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RmIMR8Tb8xo/output_frames/sec_10_idx_5.jpg",
+        "fps": 60,
+        "explanation": "[7-10] Then, a pair of hands wearing disposable gloves places a square piece of seaweed into a machine and closes the lid."
+    },
+    {
+        "second": 11,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RmIMR8Tb8xo/output_frames/sec_11_idx_1.jpg",
+        "fps": 60,
+        "explanation": "[10-18] Subsequently, a hand moves the machine containing the square seaweed back and forth. Then, a hand opens the lid and takes out the seaweed sheet, now cut in half, placing it in a blue box."
+    },
+    {
+        "second": 12,
+        "frame_index": 40,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RmIMR8Tb8xo/output_frames/sec_12_idx_40.jpg",
+        "fps": 60,
+        "explanation": "[10-18] Subsequently, a hand moves the machine containing the square seaweed back and forth. Then, a hand opens the lid and takes out the seaweed sheet, now cut in half, placing it in a blue box."
+    },
+    {
+        "second": 13,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RmIMR8Tb8xo/output_frames/sec_13_idx_1.jpg",
+        "fps": 60,
+        "explanation": "[10-18] Subsequently, a hand moves the machine containing the square seaweed back and forth. Then, a hand opens the lid and takes out the seaweed sheet, now cut in half, placing it in a blue box."
+    },
+    {
+        "second": 14,
+        "frame_index": 49,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RmIMR8Tb8xo/output_frames/sec_14_idx_49.jpg",
+        "fps": 60,
+        "explanation": "[10-18] Subsequently, a hand moves the machine containing the square seaweed back and forth. Then, a hand opens the lid and takes out the seaweed sheet, now cut in half, placing it in a blue box."
+    },
+    {
+        "second": 15,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RmIMR8Tb8xo/output_frames/sec_15_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[10-18] Subsequently, a hand moves the machine containing the square seaweed back and forth. Then, a hand opens the lid and takes out the seaweed sheet, now cut in half, placing it in a blue box."
+    },
+    {
+        "second": 16,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RmIMR8Tb8xo/output_frames/sec_16_idx_5.jpg",
+        "fps": 60,
+        "explanation": "[10-18] Subsequently, a hand moves the machine containing the square seaweed back and forth. Then, a hand opens the lid and takes out the seaweed sheet, now cut in half, placing it in a blue box."
+    },
+    {
+        "second": 17,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RmIMR8Tb8xo/output_frames/sec_17_idx_16.jpg",
+        "fps": 60,
+        "explanation": "[10-18] Subsequently, a hand moves the machine containing the square seaweed back and forth. Then, a hand opens the lid and takes out the seaweed sheet, now cut in half, placing it in a blue box."
+    },
+    {
+        "second": 18,
+        "frame_index": 46,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RmIMR8Tb8xo/output_frames/sec_18_idx_46.jpg",
+        "fps": 60,
+        "explanation": "[10-18] Subsequently, a hand moves the machine containing the square seaweed back and forth. Then, a hand opens the lid and takes out the seaweed sheet, now cut in half, placing it in a blue box."
+    },
+    {
+        "second": 19,
+        "frame_index": 57,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RmIMR8Tb8xo/output_frames/sec_19_idx_57.jpg",
+        "fps": 60,
+        "explanation": "[18-22] Afterwards, a worker places the seaweed sheet on a red roller machine. A spraying device above sprays water onto the seaweed sheet. Then, a square metal box sprinkles white powder onto the water-sprayed seaweed sheet."
+    },
+    {
+        "second": 20,
+        "frame_index": 56,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RmIMR8Tb8xo/output_frames/sec_20_idx_56.jpg",
+        "fps": 60,
+        "explanation": "[18-22] Afterwards, a worker places the seaweed sheet on a red roller machine. A spraying device above sprays water onto the seaweed sheet. Then, a square metal box sprinkles white powder onto the water-sprayed seaweed sheet."
+    },
+    {
+        "second": 21,
+        "frame_index": 35,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RmIMR8Tb8xo/output_frames/sec_21_idx_35.jpg",
+        "fps": 60,
+        "explanation": "[18-22] Afterwards, a worker places the seaweed sheet on a red roller machine. A spraying device above sprays water onto the seaweed sheet. Then, a square metal box sprinkles white powder onto the water-sprayed seaweed sheet."
+    },
+    {
+        "second": 22,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RmIMR8Tb8xo/output_frames/sec_22_idx_1.jpg",
+        "fps": 60,
+        "explanation": "[18-22] Afterwards, a worker places the seaweed sheet on a red roller machine. A spraying device above sprays water onto the seaweed sheet. Then, a square metal box sprinkles white powder onto the water-sprayed seaweed sheet."
+    },
+    {
+        "second": 23,
+        "frame_index": 31,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RmIMR8Tb8xo/output_frames/sec_23_idx_31.jpg",
+        "fps": 60,
+        "explanation": "[22-27] Immediately, the seaweed sheet is transported by a conveyor belt into a metal container."
+    },
+    {
+        "second": 24,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RmIMR8Tb8xo/output_frames/sec_24_idx_21.jpg",
+        "fps": 60,
+        "explanation": "[22-27] Immediately, the seaweed sheet is transported by a conveyor belt into a metal container."
+    },
+    {
+        "second": 25,
+        "frame_index": 52,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RmIMR8Tb8xo/output_frames/sec_25_idx_52.jpg",
+        "fps": 60,
+        "explanation": "[22-27] Immediately, the seaweed sheet is transported by a conveyor belt into a metal container."
+    },
+    {
+        "second": 26,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RmIMR8Tb8xo/output_frames/sec_26_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[22-27] Immediately, the seaweed sheet is transported by a conveyor belt into a metal container."
+    },
+    {
+        "second": 27,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RmIMR8Tb8xo/output_frames/sec_27_idx_7.jpg",
+        "fps": 60,
+        "explanation": "[22-27] Immediately, the seaweed sheet is transported by a conveyor belt into a metal container."
+    },
+    {
+        "second": 28,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RmIMR8Tb8xo/output_frames/sec_28_idx_7.jpg",
+        "fps": 60,
+        "explanation": "[27-36] Next, a worker places a seaweed sheet on a metal plate coated with yellow liquid. The machine automatically covers it. Then, the worker uses tweezers to take out the seaweed sheet and places it on the table."
+    },
+    {
+        "second": 29,
+        "frame_index": 54,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RmIMR8Tb8xo/output_frames/sec_29_idx_54.jpg",
+        "fps": 60,
+        "explanation": "[27-36] Next, a worker places a seaweed sheet on a metal plate coated with yellow liquid. The machine automatically covers it. Then, the worker uses tweezers to take out the seaweed sheet and places it on the table."
+    },
+    {
+        "second": 30,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RmIMR8Tb8xo/output_frames/sec_30_idx_10.jpg",
+        "fps": 60,
+        "explanation": "[27-36] Next, a worker places a seaweed sheet on a metal plate coated with yellow liquid. The machine automatically covers it. Then, the worker uses tweezers to take out the seaweed sheet and places it on the table."
+    },
+    {
+        "second": 31,
+        "frame_index": 49,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RmIMR8Tb8xo/output_frames/sec_31_idx_49.jpg",
+        "fps": 60,
+        "explanation": "[27-36] Next, a worker places a seaweed sheet on a metal plate coated with yellow liquid. The machine automatically covers it. Then, the worker uses tweezers to take out the seaweed sheet and places it on the table."
+    },
+    {
+        "second": 32,
+        "frame_index": 50,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RmIMR8Tb8xo/output_frames/sec_32_idx_50.jpg",
+        "fps": 60,
+        "explanation": "[27-36] Next, a worker places a seaweed sheet on a metal plate coated with yellow liquid. The machine automatically covers it. Then, the worker uses tweezers to take out the seaweed sheet and places it on the table."
+    },
+    {
+        "second": 33,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RmIMR8Tb8xo/output_frames/sec_33_idx_15.jpg",
+        "fps": 60,
+        "explanation": "[27-36] Next, a worker places a seaweed sheet on a metal plate coated with yellow liquid. The machine automatically covers it. Then, the worker uses tweezers to take out the seaweed sheet and places it on the table."
+    },
+    {
+        "second": 34,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RmIMR8Tb8xo/output_frames/sec_34_idx_6.jpg",
+        "fps": 60,
+        "explanation": "[27-36] Next, a worker places a seaweed sheet on a metal plate coated with yellow liquid. The machine automatically covers it. Then, the worker uses tweezers to take out the seaweed sheet and places it on the table."
+    },
+    {
+        "second": 35,
+        "frame_index": 32,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RmIMR8Tb8xo/output_frames/sec_35_idx_32.jpg",
+        "fps": 60,
+        "explanation": "[27-36] Next, a worker places a seaweed sheet on a metal plate coated with yellow liquid. The machine automatically covers it. Then, the worker uses tweezers to take out the seaweed sheet and places it on the table."
+    },
+    {
+        "second": 36,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RmIMR8Tb8xo/output_frames/sec_36_idx_28.jpg",
+        "fps": 60,
+        "explanation": "[27-36] Next, a worker places a seaweed sheet on a metal plate coated with yellow liquid. The machine automatically covers it. Then, the worker uses tweezers to take out the seaweed sheet and places it on the table."
+    },
+    {
+        "second": 37,
+        "frame_index": 57,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RmIMR8Tb8xo/output_frames/sec_37_idx_57.jpg",
+        "fps": 60,
+        "explanation": "[36-40] Following that, the worker uses a metal rod to roll the seaweed sheet, forming it into a cylindrical shape. The seaweed rolls are then neatly stacked."
+    },
+    {
+        "second": 38,
+        "frame_index": 32,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RmIMR8Tb8xo/output_frames/sec_38_idx_32.jpg",
+        "fps": 60,
+        "explanation": "[36-40] Following that, the worker uses a metal rod to roll the seaweed sheet, forming it into a cylindrical shape. The seaweed rolls are then neatly stacked."
+    },
+    {
+        "second": 39,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RmIMR8Tb8xo/output_frames/sec_39_idx_1.jpg",
+        "fps": 60,
+        "explanation": "[36-40] Following that, the worker uses a metal rod to roll the seaweed sheet, forming it into a cylindrical shape. The seaweed rolls are then neatly stacked."
+    },
+    {
+        "second": 40,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RmIMR8Tb8xo/output_frames/sec_40_idx_24.jpg",
+        "fps": 60,
+        "explanation": "[36-40] Following that, the worker uses a metal rod to roll the seaweed sheet, forming it into a cylindrical shape. The seaweed rolls are then neatly stacked."
+    },
+    {
+        "second": 41,
+        "frame_index": 58,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RmIMR8Tb8xo/output_frames/sec_41_idx_58.jpg",
+        "fps": 60,
+        "explanation": "[40-49] Subsequently, the worker places the seaweed rolls into metal trays, and the trays move along the conveyor belt."
+    },
+    {
+        "second": 42,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RmIMR8Tb8xo/output_frames/sec_42_idx_4.jpg",
+        "fps": 60,
+        "explanation": "[40-49] Subsequently, the worker places the seaweed rolls into metal trays, and the trays move along the conveyor belt."
+    },
+    {
+        "second": 43,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RmIMR8Tb8xo/output_frames/sec_43_idx_10.jpg",
+        "fps": 60,
+        "explanation": "[40-49] Subsequently, the worker places the seaweed rolls into metal trays, and the trays move along the conveyor belt."
+    },
+    {
+        "second": 44,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RmIMR8Tb8xo/output_frames/sec_44_idx_20.jpg",
+        "fps": 60,
+        "explanation": "[40-49] Subsequently, the worker places the seaweed rolls into metal trays, and the trays move along the conveyor belt."
+    },
+    {
+        "second": 45,
+        "frame_index": 57,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RmIMR8Tb8xo/output_frames/sec_45_idx_57.jpg",
+        "fps": 60,
+        "explanation": "[40-49] Subsequently, the worker places the seaweed rolls into metal trays, and the trays move along the conveyor belt."
+    },
+    {
+        "second": 46,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RmIMR8Tb8xo/output_frames/sec_46_idx_12.jpg",
+        "fps": 60,
+        "explanation": "[40-49] Subsequently, the worker places the seaweed rolls into metal trays, and the trays move along the conveyor belt."
+    },
+    {
+        "second": 47,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RmIMR8Tb8xo/output_frames/sec_47_idx_4.jpg",
+        "fps": 60,
+        "explanation": "[40-49] Subsequently, the worker places the seaweed rolls into metal trays, and the trays move along the conveyor belt."
+    },
+    {
+        "second": 48,
+        "frame_index": 45,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RmIMR8Tb8xo/output_frames/sec_48_idx_45.jpg",
+        "fps": 60,
+        "explanation": "[40-49] Subsequently, the worker places the seaweed rolls into metal trays, and the trays move along the conveyor belt."
+    },
+    {
+        "second": 49,
+        "frame_index": 30,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RmIMR8Tb8xo/output_frames/sec_49_idx_30.jpg",
+        "fps": 60,
+        "explanation": "[40-49] Subsequently, the worker places the seaweed rolls into metal trays, and the trays move along the conveyor belt."
+    },
+    {
+        "second": 50,
+        "frame_index": 58,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RmIMR8Tb8xo/output_frames/sec_50_idx_58.jpg",
+        "fps": 60,
+        "explanation": "[49-58] Afterwards, the seaweed rolls are packaged by a machine. Then, they are transported to blue boxes via a conveyor belt. Finally, a pair of hands tears open a package, taking out a seaweed roll and breaking it apart above a plate."
+    },
+    {
+        "second": 51,
+        "frame_index": 54,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RmIMR8Tb8xo/output_frames/sec_51_idx_54.jpg",
+        "fps": 60,
+        "explanation": "[49-58] Afterwards, the seaweed rolls are packaged by a machine. Then, they are transported to blue boxes via a conveyor belt. Finally, a pair of hands tears open a package, taking out a seaweed roll and breaking it apart above a plate."
+    },
+    {
+        "second": 52,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RmIMR8Tb8xo/output_frames/sec_52_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[49-58] Afterwards, the seaweed rolls are packaged by a machine. Then, they are transported to blue boxes via a conveyor belt. Finally, a pair of hands tears open a package, taking out a seaweed roll and breaking it apart above a plate."
+    },
+    {
+        "second": 53,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RmIMR8Tb8xo/output_frames/sec_53_idx_9.jpg",
+        "fps": 60,
+        "explanation": "[49-58] Afterwards, the seaweed rolls are packaged by a machine. Then, they are transported to blue boxes via a conveyor belt. Finally, a pair of hands tears open a package, taking out a seaweed roll and breaking it apart above a plate."
+    },
+    {
+        "second": 54,
+        "frame_index": 38,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RmIMR8Tb8xo/output_frames/sec_54_idx_38.jpg",
+        "fps": 60,
+        "explanation": "[49-58] Afterwards, the seaweed rolls are packaged by a machine. Then, they are transported to blue boxes via a conveyor belt. Finally, a pair of hands tears open a package, taking out a seaweed roll and breaking it apart above a plate."
+    },
+    {
+        "second": 55,
+        "frame_index": 30,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RmIMR8Tb8xo/output_frames/sec_55_idx_30.jpg",
+        "fps": 60,
+        "explanation": "[49-58] Afterwards, the seaweed rolls are packaged by a machine. Then, they are transported to blue boxes via a conveyor belt. Finally, a pair of hands tears open a package, taking out a seaweed roll and breaking it apart above a plate."
+    },
+    {
+        "second": 56,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RmIMR8Tb8xo/output_frames/sec_56_idx_18.jpg",
+        "fps": 60,
+        "explanation": "[49-58] Afterwards, the seaweed rolls are packaged by a machine. Then, they are transported to blue boxes via a conveyor belt. Finally, a pair of hands tears open a package, taking out a seaweed roll and breaking it apart above a plate."
+    },
+    {
+        "second": 57,
+        "frame_index": 36,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RmIMR8Tb8xo/output_frames/sec_57_idx_36.jpg",
+        "fps": 60,
+        "explanation": "[49-58] Afterwards, the seaweed rolls are packaged by a machine. Then, they are transported to blue boxes via a conveyor belt. Finally, a pair of hands tears open a package, taking out a seaweed roll and breaking it apart above a plate."
+    },
+    {
+        "second": 58,
+        "frame_index": 30,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RmIMR8Tb8xo/output_frames/sec_58_idx_30.jpg",
+        "fps": 60,
+        "explanation": "[49-58] Afterwards, the seaweed rolls are packaged by a machine. Then, they are transported to blue boxes via a conveyor belt. Finally, a pair of hands tears open a package, taking out a seaweed roll and breaking it apart above a plate."
+    }
+]

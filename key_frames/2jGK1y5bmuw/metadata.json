@@ -1,0 +1,65 @@
+[
+    {
+        "second": 0,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2jGK1y5bmuw/output_frames/sec_0_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[0-0] On a white countertop, there is a white bowl with brown edges, containing two stacked pieces of butter. The background is white, with a partially visible yellow object in the upper left corner."
+    },
+    {
+        "second": 1,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2jGK1y5bmuw/output_frames/sec_1_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Next, a pair of yellow, duck-shaped tongs appears from the left, a pair of hands open the tongs, clip them onto the butter in the bowl, and squeeze."
+    },
+    {
+        "second": 2,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2jGK1y5bmuw/output_frames/sec_2_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Next, a pair of yellow, duck-shaped tongs appears from the left, a pair of hands open the tongs, clip them onto the butter in the bowl, and squeeze."
+    },
+    {
+        "second": 3,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2jGK1y5bmuw/output_frames/sec_3_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Next, a pair of yellow, duck-shaped tongs appears from the left, a pair of hands open the tongs, clip them onto the butter in the bowl, and squeeze."
+    },
+    {
+        "second": 4,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2jGK1y5bmuw/output_frames/sec_4_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[3-5] Immediately afterward, the scene changes to a slide-shaped baked sweet potato on a brown countertop. The duck-shaped butter tongs are placed on the upper left of the baked sweet potato. Then, the tongs release, leaving a yellow butter duck on the upper left of the baked sweet potato."
+    },
+    {
+        "second": 5,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2jGK1y5bmuw/output_frames/sec_5_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[3-5] Immediately afterward, the scene changes to a slide-shaped baked sweet potato on a brown countertop. The duck-shaped butter tongs are placed on the upper left of the baked sweet potato. Then, the tongs release, leaving a yellow butter duck on the upper left of the baked sweet potato."
+    },
+    {
+        "second": 6,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2jGK1y5bmuw/output_frames/sec_6_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[5-7] Then the yellow butter duck slides down to the right and stops on the brown countertop, where there is another yellow butter duck."
+    },
+    {
+        "second": 7,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2jGK1y5bmuw/output_frames/sec_7_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[5-7] Then the yellow butter duck slides down to the right and stops on the brown countertop, where there is another yellow butter duck."
+    },
+    {
+        "second": 8,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2jGK1y5bmuw/output_frames/sec_8_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[7-9] Afterwards, the scene cuts to the front of the baked sweet potato. A yellow butter duck slides down the baked sweet potato and lands on the brown countertop."
+    }
+]

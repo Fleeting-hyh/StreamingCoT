@@ -1,0 +1,58 @@
+[
+    {
+        "second": 0,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MHx2TkZm-B0/output_frames/sec_0_idx_14.jpg",
+        "fps": 24,
+        "explanation": "[0-0] A left hand making a fist is in the upper part of the image, with a white soccer ball featuring colorful patterns below. The ball has a red, yellow, and blue logo with the letters \"F,\" \"C,\" \"B,\" and some other letters."
+    },
+    {
+        "second": 1,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MHx2TkZm-B0/output_frames/sec_1_idx_4.jpg",
+        "fps": 24,
+        "explanation": "[0-2] The fist then shakes and turns left, revealing yellow fingernails. Immediately after, the index finger extends to the right, with the word \"LAMINE\" written on it in black. Following that, the middle finger extends to the right, displaying the word \"YAMAL\" in black."
+    },
+    {
+        "second": 2,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MHx2TkZm-B0/output_frames/sec_2_idx_12.jpg",
+        "fps": 24,
+        "explanation": "[0-2] The fist then shakes and turns left, revealing yellow fingernails. Immediately after, the index finger extends to the right, with the word \"LAMINE\" written on it in black. Following that, the middle finger extends to the right, displaying the word \"YAMAL\" in black."
+    },
+    {
+        "second": 3,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MHx2TkZm-B0/output_frames/sec_3_idx_9.jpg",
+        "fps": 24,
+        "explanation": "[2-4] Next, the ring finger extends to the right, showing the word \"N\u00daMERO\" in black, followed by the little finger, which has the number \"19\" written on it in black."
+    },
+    {
+        "second": 4,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MHx2TkZm-B0/output_frames/sec_4_idx_23.jpg",
+        "fps": 24,
+        "explanation": "[2-4] Next, the ring finger extends to the right, showing the word \"N\u00daMERO\" in black, followed by the little finger, which has the number \"19\" written on it in black."
+    },
+    {
+        "second": 5,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MHx2TkZm-B0/output_frames/sec_5_idx_4.jpg",
+        "fps": 24,
+        "explanation": "[4-7] Afterward, the left hand shakes, and a mobile phone appears in it. The phone screen displays a picture of player Yamal in his jersey, smiling and giving a thumbs-up with his left hand."
+    },
+    {
+        "second": 6,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MHx2TkZm-B0/output_frames/sec_6_idx_18.jpg",
+        "fps": 24,
+        "explanation": "[4-7] Afterward, the left hand shakes, and a mobile phone appears in it. The phone screen displays a picture of player Yamal in his jersey, smiling and giving a thumbs-up with his left hand."
+    },
+    {
+        "second": 7,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MHx2TkZm-B0/output_frames/sec_7_idx_10.jpg",
+        "fps": 24,
+        "explanation": "[4-7] Afterward, the left hand shakes, and a mobile phone appears in it. The phone screen displays a picture of player Yamal in his jersey, smiling and giving a thumbs-up with his left hand."
+    }
+]

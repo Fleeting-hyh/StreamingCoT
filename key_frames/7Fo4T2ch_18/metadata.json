@@ -1,0 +1,51 @@
+[
+    {
+        "second": 0,
+        "frame_index": 36,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7Fo4T2ch_18/output_frames/sec_0_idx_36.jpg",
+        "fps": 60,
+        "explanation": "[0-0] A man with long hair and a beard is sitting in a convertible, wearing a beige sweater. The background shows a river and houses."
+    },
+    {
+        "second": 1,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7Fo4T2ch_18/output_frames/sec_1_idx_5.jpg",
+        "fps": 60,
+        "explanation": "[0-3] The camera moves, and the man is now below the car, helping a woman in a beige dress to get out. The man and the woman are holding hands."
+    },
+    {
+        "second": 2,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7Fo4T2ch_18/output_frames/sec_2_idx_4.jpg",
+        "fps": 60,
+        "explanation": "[0-3] The camera moves, and the man is now below the car, helping a woman in a beige dress to get out. The man and the woman are holding hands."
+    },
+    {
+        "second": 3,
+        "frame_index": 45,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7Fo4T2ch_18/output_frames/sec_3_idx_45.jpg",
+        "fps": 60,
+        "explanation": "[0-3] The camera moves, and the man is now below the car, helping a woman in a beige dress to get out. The man and the woman are holding hands."
+    },
+    {
+        "second": 4,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7Fo4T2ch_18/output_frames/sec_4_idx_18.jpg",
+        "fps": 60,
+        "explanation": "[3-5] Then, the scene changes to the man with long hair and beard shaking hands and hugging a man in a floral shirt, with a man in a black shirt on the left. There is a boat in the river. The scene shifts to the man with long hair and beard and the man in the floral shirt with their arms around each other's shoulders. The man with long hair and beard is holding the hand of the woman in the beige dress as they walk towards a yacht."
+    },
+    {
+        "second": 5,
+        "frame_index": 47,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7Fo4T2ch_18/output_frames/sec_5_idx_47.jpg",
+        "fps": 60,
+        "explanation": "[3-5] Then, the scene changes to the man with long hair and beard shaking hands and hugging a man in a floral shirt, with a man in a black shirt on the left. There is a boat in the river. The scene shifts to the man with long hair and beard and the man in the floral shirt with their arms around each other's shoulders. The man with long hair and beard is holding the hand of the woman in the beige dress as they walk towards a yacht."
+    },
+    {
+        "second": 6,
+        "frame_index": 54,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7Fo4T2ch_18/output_frames/sec_6_idx_54.jpg",
+        "fps": 60,
+        "explanation": "[5-7] Next, the scene focuses on the face of the man with long hair and beard as he looks ahead. Finally, it shows the back view of him and the woman in the beige dress, as well as the back view of the man in the black shirt."
+    }
+]

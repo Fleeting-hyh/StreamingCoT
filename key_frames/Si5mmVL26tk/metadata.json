@@ -1,0 +1,142 @@
+[
+    {
+        "second": 0,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Si5mmVL26tk/output_frames/sec_0_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-0] On a table covered with a purple sheet, there is a black and white checkered shirt and a pair of blue jeans. The shirt is spread out on top of the jeans, its sleeves naturally unfolded. On the right side stands a person wearing a white top, with both hands placed on the clothes."
+    },
+    {
+        "second": 1,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Si5mmVL26tk/output_frames/sec_1_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[0-8] The two hands first fold the left side of the checkered shirt to the middle, laying the sleeve flat on top. Then, they fold the right side to the middle, also laying the sleeve flat on top. Next, they fold the shirt from bottom to top, and then fold it again. The shirt is then flipped over with the collar facing up and placed to the left of the jeans."
+    },
+    {
+        "second": 2,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Si5mmVL26tk/output_frames/sec_2_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[0-8] The two hands first fold the left side of the checkered shirt to the middle, laying the sleeve flat on top. Then, they fold the right side to the middle, also laying the sleeve flat on top. Next, they fold the shirt from bottom to top, and then fold it again. The shirt is then flipped over with the collar facing up and placed to the left of the jeans."
+    },
+    {
+        "second": 3,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Si5mmVL26tk/output_frames/sec_3_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[0-8] The two hands first fold the left side of the checkered shirt to the middle, laying the sleeve flat on top. Then, they fold the right side to the middle, also laying the sleeve flat on top. Next, they fold the shirt from bottom to top, and then fold it again. The shirt is then flipped over with the collar facing up and placed to the left of the jeans."
+    },
+    {
+        "second": 4,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Si5mmVL26tk/output_frames/sec_4_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-8] The two hands first fold the left side of the checkered shirt to the middle, laying the sleeve flat on top. Then, they fold the right side to the middle, also laying the sleeve flat on top. Next, they fold the shirt from bottom to top, and then fold it again. The shirt is then flipped over with the collar facing up and placed to the left of the jeans."
+    },
+    {
+        "second": 5,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Si5mmVL26tk/output_frames/sec_5_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[0-8] The two hands first fold the left side of the checkered shirt to the middle, laying the sleeve flat on top. Then, they fold the right side to the middle, also laying the sleeve flat on top. Next, they fold the shirt from bottom to top, and then fold it again. The shirt is then flipped over with the collar facing up and placed to the left of the jeans."
+    },
+    {
+        "second": 6,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Si5mmVL26tk/output_frames/sec_6_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[0-8] The two hands first fold the left side of the checkered shirt to the middle, laying the sleeve flat on top. Then, they fold the right side to the middle, also laying the sleeve flat on top. Next, they fold the shirt from bottom to top, and then fold it again. The shirt is then flipped over with the collar facing up and placed to the left of the jeans."
+    },
+    {
+        "second": 7,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Si5mmVL26tk/output_frames/sec_7_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[0-8] The two hands first fold the left side of the checkered shirt to the middle, laying the sleeve flat on top. Then, they fold the right side to the middle, also laying the sleeve flat on top. Next, they fold the shirt from bottom to top, and then fold it again. The shirt is then flipped over with the collar facing up and placed to the left of the jeans."
+    },
+    {
+        "second": 8,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Si5mmVL26tk/output_frames/sec_8_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[0-8] The two hands first fold the left side of the checkered shirt to the middle, laying the sleeve flat on top. Then, they fold the right side to the middle, also laying the sleeve flat on top. Next, they fold the shirt from bottom to top, and then fold it again. The shirt is then flipped over with the collar facing up and placed to the left of the jeans."
+    },
+    {
+        "second": 9,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Si5mmVL26tk/output_frames/sec_9_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[8-11] Then, both hands fold the jeans once from top to bottom, fold the upper pant leg to the left, and place the folded checkered shirt at the fold of the pant leg."
+    },
+    {
+        "second": 10,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Si5mmVL26tk/output_frames/sec_10_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[8-11] Then, both hands fold the jeans once from top to bottom, fold the upper pant leg to the left, and place the folded checkered shirt at the fold of the pant leg."
+    },
+    {
+        "second": 11,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Si5mmVL26tk/output_frames/sec_11_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[8-11] Then, both hands fold the jeans once from top to bottom, fold the upper pant leg to the left, and place the folded checkered shirt at the fold of the pant leg."
+    },
+    {
+        "second": 12,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Si5mmVL26tk/output_frames/sec_12_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[11-19] Afterwards, fold the jeans from top to bottom again, fold the other pant leg upward, wrap the pant leg folded to the left around the entire pants, tuck the excess part into the pants. Turn the pants over with both hands and place the folded pants diagonally on the table."
+    },
+    {
+        "second": 13,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Si5mmVL26tk/output_frames/sec_13_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[11-19] Afterwards, fold the jeans from top to bottom again, fold the other pant leg upward, wrap the pant leg folded to the left around the entire pants, tuck the excess part into the pants. Turn the pants over with both hands and place the folded pants diagonally on the table."
+    },
+    {
+        "second": 14,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Si5mmVL26tk/output_frames/sec_14_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[11-19] Afterwards, fold the jeans from top to bottom again, fold the other pant leg upward, wrap the pant leg folded to the left around the entire pants, tuck the excess part into the pants. Turn the pants over with both hands and place the folded pants diagonally on the table."
+    },
+    {
+        "second": 15,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Si5mmVL26tk/output_frames/sec_15_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[11-19] Afterwards, fold the jeans from top to bottom again, fold the other pant leg upward, wrap the pant leg folded to the left around the entire pants, tuck the excess part into the pants. Turn the pants over with both hands and place the folded pants diagonally on the table."
+    },
+    {
+        "second": 16,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Si5mmVL26tk/output_frames/sec_16_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[11-19] Afterwards, fold the jeans from top to bottom again, fold the other pant leg upward, wrap the pant leg folded to the left around the entire pants, tuck the excess part into the pants. Turn the pants over with both hands and place the folded pants diagonally on the table."
+    },
+    {
+        "second": 17,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Si5mmVL26tk/output_frames/sec_17_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[11-19] Afterwards, fold the jeans from top to bottom again, fold the other pant leg upward, wrap the pant leg folded to the left around the entire pants, tuck the excess part into the pants. Turn the pants over with both hands and place the folded pants diagonally on the table."
+    },
+    {
+        "second": 18,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Si5mmVL26tk/output_frames/sec_18_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[11-19] Afterwards, fold the jeans from top to bottom again, fold the other pant leg upward, wrap the pant leg folded to the left around the entire pants, tuck the excess part into the pants. Turn the pants over with both hands and place the folded pants diagonally on the table."
+    },
+    {
+        "second": 19,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Si5mmVL26tk/output_frames/sec_19_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[11-19] Afterwards, fold the jeans from top to bottom again, fold the other pant leg upward, wrap the pant leg folded to the left around the entire pants, tuck the excess part into the pants. Turn the pants over with both hands and place the folded pants diagonally on the table."
+    }
+]

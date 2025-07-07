@@ -1,0 +1,65 @@
+[
+    {
+        "second": 0,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/I7zpHlUStHQ/output_frames/sec_0_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[0-0] On a desolate road at night, the horizon is filled with red fire clouds. A huge black figure looms over the road. The silhouettes of some trees can be seen in the background, and the white text \"@Shortest Blockbusters\" is at the bottom of the screen."
+    },
+    {
+        "second": 1,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/I7zpHlUStHQ/output_frames/sec_1_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Then we see that the huge figure is a pair of legs, and then a big foot steps out. Subsequently, a giant human shadow is seen striding past, with red fire clouds visible in the distance."
+    },
+    {
+        "second": 2,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/I7zpHlUStHQ/output_frames/sec_2_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Then we see that the huge figure is a pair of legs, and then a big foot steps out. Subsequently, a giant human shadow is seen striding past, with red fire clouds visible in the distance."
+    },
+    {
+        "second": 3,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/I7zpHlUStHQ/output_frames/sec_3_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Then we see that the huge figure is a pair of legs, and then a big foot steps out. Subsequently, a giant human shadow is seen striding past, with red fire clouds visible in the distance."
+    },
+    {
+        "second": 4,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/I7zpHlUStHQ/output_frames/sec_4_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Then we see that the huge figure is a pair of legs, and then a big foot steps out. Subsequently, a giant human shadow is seen striding past, with red fire clouds visible in the distance."
+    },
+    {
+        "second": 5,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/I7zpHlUStHQ/output_frames/sec_5_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Then we see that the huge figure is a pair of legs, and then a big foot steps out. Subsequently, a giant human shadow is seen striding past, with red fire clouds visible in the distance."
+    },
+    {
+        "second": 6,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/I7zpHlUStHQ/output_frames/sec_6_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[5-8] Immediately, the camera moves to the right, and a person's face appears at the bottom of the screen. She faces forward, her mouth wide open, her eyes wide with terror. Then the person screams, and the camera zooms in on her terrified face."
+    },
+    {
+        "second": 7,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/I7zpHlUStHQ/output_frames/sec_7_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[5-8] Immediately, the camera moves to the right, and a person's face appears at the bottom of the screen. She faces forward, her mouth wide open, her eyes wide with terror. Then the person screams, and the camera zooms in on her terrified face."
+    },
+    {
+        "second": 8,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/I7zpHlUStHQ/output_frames/sec_8_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[5-8] Immediately, the camera moves to the right, and a person's face appears at the bottom of the screen. She faces forward, her mouth wide open, her eyes wide with terror. Then the person screams, and the camera zooms in on her terrified face."
+    }
+]

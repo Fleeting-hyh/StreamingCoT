@@ -1,0 +1,44 @@
+[
+    {
+        "second": 0,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/ChA-afD5vmo/output_frames/sec_0_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A man is holding a white yogurt candy wrapper with the word \"Gracias\" on it. The subtitles show \"#1 :16,354,860 Views\" in black font."
+    },
+    {
+        "second": 1,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/ChA-afD5vmo/output_frames/sec_1_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[0-5] The man then opens his mouth, revealing his teeth, puts the wrapper in his mouth, and then the scene switches to the man's mouth containing a piece of chocolate, chewing with relish. Finally, the picture freezes on the man holding the white yogurt candy wrapper with the word \"Gracias\" on it."
+    },
+    {
+        "second": 2,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/ChA-afD5vmo/output_frames/sec_2_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[0-5] The man then opens his mouth, revealing his teeth, puts the wrapper in his mouth, and then the scene switches to the man's mouth containing a piece of chocolate, chewing with relish. Finally, the picture freezes on the man holding the white yogurt candy wrapper with the word \"Gracias\" on it."
+    },
+    {
+        "second": 3,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/ChA-afD5vmo/output_frames/sec_3_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[0-5] The man then opens his mouth, revealing his teeth, puts the wrapper in his mouth, and then the scene switches to the man's mouth containing a piece of chocolate, chewing with relish. Finally, the picture freezes on the man holding the white yogurt candy wrapper with the word \"Gracias\" on it."
+    },
+    {
+        "second": 4,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/ChA-afD5vmo/output_frames/sec_4_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[0-5] The man then opens his mouth, revealing his teeth, puts the wrapper in his mouth, and then the scene switches to the man's mouth containing a piece of chocolate, chewing with relish. Finally, the picture freezes on the man holding the white yogurt candy wrapper with the word \"Gracias\" on it."
+    },
+    {
+        "second": 5,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/ChA-afD5vmo/output_frames/sec_5_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[0-5] The man then opens his mouth, revealing his teeth, puts the wrapper in his mouth, and then the scene switches to the man's mouth containing a piece of chocolate, chewing with relish. Finally, the picture freezes on the man holding the white yogurt candy wrapper with the word \"Gracias\" on it."
+    }
+]

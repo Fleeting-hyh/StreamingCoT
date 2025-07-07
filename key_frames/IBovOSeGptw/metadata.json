@@ -1,0 +1,100 @@
+[
+    {
+        "second": 0,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IBovOSeGptw/output_frames/sec_0_idx_15.jpg",
+        "fps": 60,
+        "explanation": "[0-0] On a green football field, there are four players. Player number 4 is wearing a blue jersey and white shorts with blue stripes, and blue socks. Player number 24 is wearing a blue jersey and white shorts with blue stripes, and blue socks. Player number 9 is wearing a red jersey and red socks. The goalkeeper is wearing a green top, black shorts, and black socks. Behind the goalkeeper is the goal, and beside the goal is a red advertising board with the words \"S MAGENTA SPORT\" written on it. Below is the caption \"Lewy's incredible Rabona assist\"."
+    },
+    {
+        "second": 1,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IBovOSeGptw/output_frames/sec_1_idx_10.jpg",
+        "fps": 60,
+        "explanation": "[0-2] The blue number 4 player runs towards the red number 9 player, extending his foot to block the shot. The goalkeeper moves forward, and then the red number 9 player jumps and runs forward, turning around to chase the ball."
+    },
+    {
+        "second": 2,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IBovOSeGptw/output_frames/sec_2_idx_3.jpg",
+        "fps": 60,
+        "explanation": "[0-2] The blue number 4 player runs towards the red number 9 player, extending his foot to block the shot. The goalkeeper moves forward, and then the red number 9 player jumps and runs forward, turning around to chase the ball."
+    },
+    {
+        "second": 3,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IBovOSeGptw/output_frames/sec_3_idx_2.jpg",
+        "fps": 60,
+        "explanation": "[2-6] Immediately, the camera zooms in, the speed slows down, and the red number 9 player kicks the ball. Then the speed returns to normal, and the camera follows the trajectory of the ball."
+    },
+    {
+        "second": 4,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IBovOSeGptw/output_frames/sec_4_idx_8.jpg",
+        "fps": 60,
+        "explanation": "[2-6] Immediately, the camera zooms in, the speed slows down, and the red number 9 player kicks the ball. Then the speed returns to normal, and the camera follows the trajectory of the ball."
+    },
+    {
+        "second": 5,
+        "frame_index": 51,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IBovOSeGptw/output_frames/sec_5_idx_51.jpg",
+        "fps": 60,
+        "explanation": "[2-6] Immediately, the camera zooms in, the speed slows down, and the red number 9 player kicks the ball. Then the speed returns to normal, and the camera follows the trajectory of the ball."
+    },
+    {
+        "second": 6,
+        "frame_index": 32,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IBovOSeGptw/output_frames/sec_6_idx_32.jpg",
+        "fps": 60,
+        "explanation": "[2-6] Immediately, the camera zooms in, the speed slows down, and the red number 9 player kicks the ball. Then the speed returns to normal, and the camera follows the trajectory of the ball."
+    },
+    {
+        "second": 7,
+        "frame_index": 57,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IBovOSeGptw/output_frames/sec_7_idx_57.jpg",
+        "fps": 60,
+        "explanation": "[6-13] Then the screen switches to the front of the red number 9 player, and the caption \"That touch\" appears on the right. The red number 9 player passes the ball to his teammate, the red number 25 player, who receives the ball and shoots. On the way, the blue players try to block but fail. The goalkeeper misses the ball, and the ball is kicked into the goal. The caption \"Muller scores the goal\" appears above."
+    },
+    {
+        "second": 8,
+        "frame_index": 47,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IBovOSeGptw/output_frames/sec_8_idx_47.jpg",
+        "fps": 60,
+        "explanation": "[6-13] Then the screen switches to the front of the red number 9 player, and the caption \"That touch\" appears on the right. The red number 9 player passes the ball to his teammate, the red number 25 player, who receives the ball and shoots. On the way, the blue players try to block but fail. The goalkeeper misses the ball, and the ball is kicked into the goal. The caption \"Muller scores the goal\" appears above."
+    },
+    {
+        "second": 9,
+        "frame_index": 41,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IBovOSeGptw/output_frames/sec_9_idx_41.jpg",
+        "fps": 60,
+        "explanation": "[6-13] Then the screen switches to the front of the red number 9 player, and the caption \"That touch\" appears on the right. The red number 9 player passes the ball to his teammate, the red number 25 player, who receives the ball and shoots. On the way, the blue players try to block but fail. The goalkeeper misses the ball, and the ball is kicked into the goal. The caption \"Muller scores the goal\" appears above."
+    },
+    {
+        "second": 10,
+        "frame_index": 54,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IBovOSeGptw/output_frames/sec_10_idx_54.jpg",
+        "fps": 60,
+        "explanation": "[6-13] Then the screen switches to the front of the red number 9 player, and the caption \"That touch\" appears on the right. The red number 9 player passes the ball to his teammate, the red number 25 player, who receives the ball and shoots. On the way, the blue players try to block but fail. The goalkeeper misses the ball, and the ball is kicked into the goal. The caption \"Muller scores the goal\" appears above."
+    },
+    {
+        "second": 11,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IBovOSeGptw/output_frames/sec_11_idx_23.jpg",
+        "fps": 60,
+        "explanation": "[6-13] Then the screen switches to the front of the red number 9 player, and the caption \"That touch\" appears on the right. The red number 9 player passes the ball to his teammate, the red number 25 player, who receives the ball and shoots. On the way, the blue players try to block but fail. The goalkeeper misses the ball, and the ball is kicked into the goal. The caption \"Muller scores the goal\" appears above."
+    },
+    {
+        "second": 12,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IBovOSeGptw/output_frames/sec_12_idx_23.jpg",
+        "fps": 60,
+        "explanation": "[6-13] Then the screen switches to the front of the red number 9 player, and the caption \"That touch\" appears on the right. The red number 9 player passes the ball to his teammate, the red number 25 player, who receives the ball and shoots. On the way, the blue players try to block but fail. The goalkeeper misses the ball, and the ball is kicked into the goal. The caption \"Muller scores the goal\" appears above."
+    },
+    {
+        "second": 13,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IBovOSeGptw/output_frames/sec_13_idx_4.jpg",
+        "fps": 60,
+        "explanation": "[6-13] Then the screen switches to the front of the red number 9 player, and the caption \"That touch\" appears on the right. The red number 9 player passes the ball to his teammate, the red number 25 player, who receives the ball and shoots. On the way, the blue players try to block but fail. The goalkeeper misses the ball, and the ball is kicked into the goal. The caption \"Muller scores the goal\" appears above."
+    }
+]

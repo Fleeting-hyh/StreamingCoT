@@ -1,0 +1,107 @@
+[
+    {
+        "second": 0,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/38P6DT9KCgQ/output_frames/sec_0_idx_24.jpg",
+        "fps": 30,
+        "explanation": "[0-0] Under a blue sky, two men are standing on a lawn, with many trees and white chairs behind them. One man, wearing a pink shirt and black pants, stands in front, while the other, in a green jacket and blue pants, bends over behind him, holding a large gray ball. Both have their legs apart. In the upper left corner of the screen, a pink sticker reads \"Alexag\", and in the upper right corner, a green sticker reads \"Powerup\". Below both stickers, from left to right, are a large soccer ball, a smaller soccer ball, an even smaller tennis ball, and a tiny soccer ball."
+    },
+    {
+        "second": 1,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/38P6DT9KCgQ/output_frames/sec_1_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The man in the green jacket then rolls the large gray ball towards the man in the pink shirt. The ball rolls between the pink-shirted man's legs, who closes his legs but fails to trap it. A red cross appears on the largest soccer ball sticker below the pink sticker. The two men then switch positions. The man in pink kneels and rolls the large gray ball towards the man in the green jacket, who successfully traps it between his legs. A green check mark appears on the largest soccer ball below the green sticker."
+    },
+    {
+        "second": 2,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/38P6DT9KCgQ/output_frames/sec_2_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The man in the green jacket then rolls the large gray ball towards the man in the pink shirt. The ball rolls between the pink-shirted man's legs, who closes his legs but fails to trap it. A red cross appears on the largest soccer ball sticker below the pink sticker. The two men then switch positions. The man in pink kneels and rolls the large gray ball towards the man in the green jacket, who successfully traps it between his legs. A green check mark appears on the largest soccer ball below the green sticker."
+    },
+    {
+        "second": 3,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/38P6DT9KCgQ/output_frames/sec_3_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The man in the green jacket then rolls the large gray ball towards the man in the pink shirt. The ball rolls between the pink-shirted man's legs, who closes his legs but fails to trap it. A red cross appears on the largest soccer ball sticker below the pink sticker. The two men then switch positions. The man in pink kneels and rolls the large gray ball towards the man in the green jacket, who successfully traps it between his legs. A green check mark appears on the largest soccer ball below the green sticker."
+    },
+    {
+        "second": 4,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/38P6DT9KCgQ/output_frames/sec_4_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The man in the green jacket then rolls the large gray ball towards the man in the pink shirt. The ball rolls between the pink-shirted man's legs, who closes his legs but fails to trap it. A red cross appears on the largest soccer ball sticker below the pink sticker. The two men then switch positions. The man in pink kneels and rolls the large gray ball towards the man in the green jacket, who successfully traps it between his legs. A green check mark appears on the largest soccer ball below the green sticker."
+    },
+    {
+        "second": 5,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/38P6DT9KCgQ/output_frames/sec_5_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[4-7] They switch positions again. The man in the green jacket kneels on one knee and rolls a soccer ball towards the man in the pink shirt, who successfully traps it with his legs. A green check mark appears on the smaller soccer ball below the pink sticker. The two switch positions again. The man in pink rolls a soccer ball towards the man in the green jacket, who successfully traps it with his legs. A green check mark appears on the smaller soccer ball below the green sticker."
+    },
+    {
+        "second": 6,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/38P6DT9KCgQ/output_frames/sec_6_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[4-7] They switch positions again. The man in the green jacket kneels on one knee and rolls a soccer ball towards the man in the pink shirt, who successfully traps it with his legs. A green check mark appears on the smaller soccer ball below the pink sticker. The two switch positions again. The man in pink rolls a soccer ball towards the man in the green jacket, who successfully traps it with his legs. A green check mark appears on the smaller soccer ball below the green sticker."
+    },
+    {
+        "second": 7,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/38P6DT9KCgQ/output_frames/sec_7_idx_24.jpg",
+        "fps": 30,
+        "explanation": "[4-7] They switch positions again. The man in the green jacket kneels on one knee and rolls a soccer ball towards the man in the pink shirt, who successfully traps it with his legs. A green check mark appears on the smaller soccer ball below the pink sticker. The two switch positions again. The man in pink rolls a soccer ball towards the man in the green jacket, who successfully traps it with his legs. A green check mark appears on the smaller soccer ball below the green sticker."
+    },
+    {
+        "second": 8,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/38P6DT9KCgQ/output_frames/sec_8_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[7-11] They switch positions again. The man in green rolls a tennis ball towards the man in pink, who successfully traps it with his feet. A green check mark appears on the tennis ball below the pink sticker. They switch positions once more. The man in pink rolls the tennis ball towards the man in green, who misses it with his feet, and the ball flies to the right. A red cross appears on the tennis ball below the green sticker."
+    },
+    {
+        "second": 9,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/38P6DT9KCgQ/output_frames/sec_9_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[7-11] They switch positions again. The man in green rolls a tennis ball towards the man in pink, who successfully traps it with his feet. A green check mark appears on the tennis ball below the pink sticker. They switch positions once more. The man in pink rolls the tennis ball towards the man in green, who misses it with his feet, and the ball flies to the right. A red cross appears on the tennis ball below the green sticker."
+    },
+    {
+        "second": 10,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/38P6DT9KCgQ/output_frames/sec_10_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[7-11] They switch positions again. The man in green rolls a tennis ball towards the man in pink, who successfully traps it with his feet. A green check mark appears on the tennis ball below the pink sticker. They switch positions once more. The man in pink rolls the tennis ball towards the man in green, who misses it with his feet, and the ball flies to the right. A red cross appears on the tennis ball below the green sticker."
+    },
+    {
+        "second": 11,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/38P6DT9KCgQ/output_frames/sec_11_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[7-11] They switch positions again. The man in green rolls a tennis ball towards the man in pink, who successfully traps it with his feet. A green check mark appears on the tennis ball below the pink sticker. They switch positions once more. The man in pink rolls the tennis ball towards the man in green, who misses it with his feet, and the ball flies to the right. A red cross appears on the tennis ball below the green sticker."
+    },
+    {
+        "second": 12,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/38P6DT9KCgQ/output_frames/sec_12_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[11-14] They switch positions again. The man in green rolls the small red ball towards the man in pink, who successfully traps it with his feet. A green check mark appears on the smallest soccer ball below the pink sticker. Finally, they switch positions one last time. The man in pink rolls a small red ball towards the man in green, who misses it with his feet, and the ball rolls to the left. A red cross appears on the smallest soccer ball below the green sticker."
+    },
+    {
+        "second": 13,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/38P6DT9KCgQ/output_frames/sec_13_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[11-14] They switch positions again. The man in green rolls the small red ball towards the man in pink, who successfully traps it with his feet. A green check mark appears on the smallest soccer ball below the pink sticker. Finally, they switch positions one last time. The man in pink rolls a small red ball towards the man in green, who misses it with his feet, and the ball rolls to the left. A red cross appears on the smallest soccer ball below the green sticker."
+    },
+    {
+        "second": 14,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/38P6DT9KCgQ/output_frames/sec_14_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[11-14] They switch positions again. The man in green rolls the small red ball towards the man in pink, who successfully traps it with his feet. A green check mark appears on the smallest soccer ball below the pink sticker. Finally, they switch positions one last time. The man in pink rolls a small red ball towards the man in green, who misses it with his feet, and the ball rolls to the left. A red cross appears on the smallest soccer ball below the green sticker."
+    }
+]

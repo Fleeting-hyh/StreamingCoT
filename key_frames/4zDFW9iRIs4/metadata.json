@@ -1,0 +1,100 @@
+[
+    {
+        "second": 0,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4zDFW9iRIs4/output_frames/sec_0_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A blonde woman in a pink dress is standing on two chairs, facing three mirrors."
+    },
+    {
+        "second": 1,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4zDFW9iRIs4/output_frames/sec_1_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-3] The woman steps on the two chairs and begins to do the splits until her body is parallel to the chairs."
+    },
+    {
+        "second": 2,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4zDFW9iRIs4/output_frames/sec_2_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[0-3] The woman steps on the two chairs and begins to do the splits until her body is parallel to the chairs."
+    },
+    {
+        "second": 3,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4zDFW9iRIs4/output_frames/sec_3_idx_24.jpg",
+        "fps": 30,
+        "explanation": "[0-3] The woman steps on the two chairs and begins to do the splits until her body is parallel to the chairs."
+    },
+    {
+        "second": 4,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4zDFW9iRIs4/output_frames/sec_4_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[3-9] The scene switches to a woman in black clothes who comes in with a pair of scissors and trims the ends of the woman in pink's hair, then leaves."
+    },
+    {
+        "second": 5,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4zDFW9iRIs4/output_frames/sec_5_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[3-9] The scene switches to a woman in black clothes who comes in with a pair of scissors and trims the ends of the woman in pink's hair, then leaves."
+    },
+    {
+        "second": 6,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4zDFW9iRIs4/output_frames/sec_6_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[3-9] The scene switches to a woman in black clothes who comes in with a pair of scissors and trims the ends of the woman in pink's hair, then leaves."
+    },
+    {
+        "second": 7,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4zDFW9iRIs4/output_frames/sec_7_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[3-9] The scene switches to a woman in black clothes who comes in with a pair of scissors and trims the ends of the woman in pink's hair, then leaves."
+    },
+    {
+        "second": 8,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4zDFW9iRIs4/output_frames/sec_8_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[3-9] The scene switches to a woman in black clothes who comes in with a pair of scissors and trims the ends of the woman in pink's hair, then leaves."
+    },
+    {
+        "second": 9,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4zDFW9iRIs4/output_frames/sec_9_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[3-9] The scene switches to a woman in black clothes who comes in with a pair of scissors and trims the ends of the woman in pink's hair, then leaves."
+    },
+    {
+        "second": 10,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4zDFW9iRIs4/output_frames/sec_10_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[9-13] Finally, the woman picks up a mirror, applies lipstick, and then looks behind her."
+    },
+    {
+        "second": 11,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4zDFW9iRIs4/output_frames/sec_11_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[9-13] Finally, the woman picks up a mirror, applies lipstick, and then looks behind her."
+    },
+    {
+        "second": 12,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4zDFW9iRIs4/output_frames/sec_12_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[9-13] Finally, the woman picks up a mirror, applies lipstick, and then looks behind her."
+    },
+    {
+        "second": 13,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4zDFW9iRIs4/output_frames/sec_13_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[9-13] Finally, the woman picks up a mirror, applies lipstick, and then looks behind her."
+    }
+]

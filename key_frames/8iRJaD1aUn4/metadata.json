@@ -1,0 +1,72 @@
+[
+    {
+        "second": 0,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8iRJaD1aUn4/output_frames/sec_0_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A person dressed in black is riding a red motorcycle, stopped at the bottom of a dirt cliff. They are surrounded by lush green grass and facing the cliff face. Other motorcycles are parked nearby."
+    },
+    {
+        "second": 1,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8iRJaD1aUn4/output_frames/sec_1_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The person in black starts to accelerate on the motorcycle, charging down a gentle slope before heading towards the cliff face. A group of companions stand on the cliff, watching him."
+    },
+    {
+        "second": 2,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8iRJaD1aUn4/output_frames/sec_2_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The person in black starts to accelerate on the motorcycle, charging down a gentle slope before heading towards the cliff face. A group of companions stand on the cliff, watching him."
+    },
+    {
+        "second": 3,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8iRJaD1aUn4/output_frames/sec_3_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The person in black starts to accelerate on the motorcycle, charging down a gentle slope before heading towards the cliff face. A group of companions stand on the cliff, watching him."
+    },
+    {
+        "second": 4,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8iRJaD1aUn4/output_frames/sec_4_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The person in black starts to accelerate on the motorcycle, charging down a gentle slope before heading towards the cliff face. A group of companions stand on the cliff, watching him."
+    },
+    {
+        "second": 5,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8iRJaD1aUn4/output_frames/sec_5_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[4-9] Upon reaching the edge of the cliff, the person starts riding the motorcycle up the cliff face. Reaching the top, they continue upward, launching into the air and landing safely, leaving a cloud of yellow dust in their wake. The companions on the cliff raise their hands in celebration."
+    },
+    {
+        "second": 6,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8iRJaD1aUn4/output_frames/sec_6_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[4-9] Upon reaching the edge of the cliff, the person starts riding the motorcycle up the cliff face. Reaching the top, they continue upward, launching into the air and landing safely, leaving a cloud of yellow dust in their wake. The companions on the cliff raise their hands in celebration."
+    },
+    {
+        "second": 7,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8iRJaD1aUn4/output_frames/sec_7_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[4-9] Upon reaching the edge of the cliff, the person starts riding the motorcycle up the cliff face. Reaching the top, they continue upward, launching into the air and landing safely, leaving a cloud of yellow dust in their wake. The companions on the cliff raise their hands in celebration."
+    },
+    {
+        "second": 8,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8iRJaD1aUn4/output_frames/sec_8_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[4-9] Upon reaching the edge of the cliff, the person starts riding the motorcycle up the cliff face. Reaching the top, they continue upward, launching into the air and landing safely, leaving a cloud of yellow dust in their wake. The companions on the cliff raise their hands in celebration."
+    },
+    {
+        "second": 9,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8iRJaD1aUn4/output_frames/sec_9_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[4-9] Upon reaching the edge of the cliff, the person starts riding the motorcycle up the cliff face. Reaching the top, they continue upward, launching into the air and landing safely, leaving a cloud of yellow dust in their wake. The companions on the cliff raise their hands in celebration."
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "second": 0,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Ksd7LYdgAfI/output_frames/sec_0_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[0-0] In the picture, a group of players are in an indoor football training ground. They are wearing sportswear, each holding a football, standing on the blue mat, and the person on the far right of the picture is juggling the ball."
+    },
+    {
+        "second": 1,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Ksd7LYdgAfI/output_frames/sec_1_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Then the football is kicked out and hits Mbappe's leg, he takes a few steps back, a group of people next to him are warming up by juggling the ball, Mbappe looks a little impatient."
+    },
+    {
+        "second": 2,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Ksd7LYdgAfI/output_frames/sec_2_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Then the football is kicked out and hits Mbappe's leg, he takes a few steps back, a group of people next to him are warming up by juggling the ball, Mbappe looks a little impatient."
+    },
+    {
+        "second": 3,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Ksd7LYdgAfI/output_frames/sec_3_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Then the football is kicked out and hits Mbappe's leg, he takes a few steps back, a group of people next to him are warming up by juggling the ball, Mbappe looks a little impatient."
+    },
+    {
+        "second": 4,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Ksd7LYdgAfI/output_frames/sec_4_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[3-8] Then Mbappe walks over to pick up the ball, he bends down and picks up the football. Finally the screen goes black."
+    },
+    {
+        "second": 5,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Ksd7LYdgAfI/output_frames/sec_5_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[3-8] Then Mbappe walks over to pick up the ball, he bends down and picks up the football. Finally the screen goes black."
+    },
+    {
+        "second": 6,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Ksd7LYdgAfI/output_frames/sec_6_idx_24.jpg",
+        "fps": 30,
+        "explanation": "[3-8] Then Mbappe walks over to pick up the ball, he bends down and picks up the football. Finally the screen goes black."
+    },
+    {
+        "second": 7,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Ksd7LYdgAfI/output_frames/sec_7_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[3-8] Then Mbappe walks over to pick up the ball, he bends down and picks up the football. Finally the screen goes black."
+    },
+    {
+        "second": 8,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Ksd7LYdgAfI/output_frames/sec_8_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[3-8] Then Mbappe walks over to pick up the ball, he bends down and picks up the football. Finally the screen goes black."
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "second": 0,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/KvEGvnelyVI/output_frames/sec_0_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A small calf has its head and front legs stuck on a steep grassy slope. Another cow is standing beside it, with green grass in the distance."
+    },
+    {
+        "second": 1,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/KvEGvnelyVI/output_frames/sec_1_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Then the calf struggles to walk up a small slope, with a long bone sticking out of its back."
+    },
+    {
+        "second": 2,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/KvEGvnelyVI/output_frames/sec_2_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Then the calf struggles to walk up a small slope, with a long bone sticking out of its back."
+    },
+    {
+        "second": 3,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/KvEGvnelyVI/output_frames/sec_3_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Then the calf struggles to walk up a small slope, with a long bone sticking out of its back."
+    },
+    {
+        "second": 4,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/KvEGvnelyVI/output_frames/sec_4_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Then the calf struggles to walk up a small slope, with a long bone sticking out of its back."
+    },
+    {
+        "second": 5,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/KvEGvnelyVI/output_frames/sec_5_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Then the calf struggles to walk up a small slope, with a long bone sticking out of its back."
+    }
+]

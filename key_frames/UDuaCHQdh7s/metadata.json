@@ -1,0 +1,86 @@
+[
+    {
+        "second": 0,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UDuaCHQdh7s/output_frames/sec_0_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A light blue conveyor belt with a blue border, a blue rectangular machine underneath, and a gradient background of light blue and blue."
+    },
+    {
+        "second": 1,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UDuaCHQdh7s/output_frames/sec_1_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Then, a yellow square cartoon character falls from above onto the light blue conveyor belt with a surprised expression. Holding a pink brain, the yellow square cartoon character eats the brain and turns green."
+    },
+    {
+        "second": 2,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UDuaCHQdh7s/output_frames/sec_2_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Then, a yellow square cartoon character falls from above onto the light blue conveyor belt with a surprised expression. Holding a pink brain, the yellow square cartoon character eats the brain and turns green."
+    },
+    {
+        "second": 3,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UDuaCHQdh7s/output_frames/sec_3_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Then, a yellow square cartoon character falls from above onto the light blue conveyor belt with a surprised expression. Holding a pink brain, the yellow square cartoon character eats the brain and turns green."
+    },
+    {
+        "second": 4,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UDuaCHQdh7s/output_frames/sec_4_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Then, a yellow square cartoon character falls from above onto the light blue conveyor belt with a surprised expression. Holding a pink brain, the yellow square cartoon character eats the brain and turns green."
+    },
+    {
+        "second": 5,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UDuaCHQdh7s/output_frames/sec_5_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[4-6] Subsequently, the green square cartoon character falls into the blue rectangular machine below."
+    },
+    {
+        "second": 6,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UDuaCHQdh7s/output_frames/sec_6_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[4-6] Subsequently, the green square cartoon character falls into the blue rectangular machine below."
+    },
+    {
+        "second": 7,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UDuaCHQdh7s/output_frames/sec_7_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[6-11] Afterwards, a blue bowl filled with yellow flakes appears below the blue machine, and a blue funnel-shaped object pours green sauce into the bowl. The hand holding the blue bowl moves slightly to distribute the green sauce evenly. Finally, the scene switches back to the initial gradient background, the conveyor belt, and the rectangular machine."
+    },
+    {
+        "second": 8,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UDuaCHQdh7s/output_frames/sec_8_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[6-11] Afterwards, a blue bowl filled with yellow flakes appears below the blue machine, and a blue funnel-shaped object pours green sauce into the bowl. The hand holding the blue bowl moves slightly to distribute the green sauce evenly. Finally, the scene switches back to the initial gradient background, the conveyor belt, and the rectangular machine."
+    },
+    {
+        "second": 9,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UDuaCHQdh7s/output_frames/sec_9_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[6-11] Afterwards, a blue bowl filled with yellow flakes appears below the blue machine, and a blue funnel-shaped object pours green sauce into the bowl. The hand holding the blue bowl moves slightly to distribute the green sauce evenly. Finally, the scene switches back to the initial gradient background, the conveyor belt, and the rectangular machine."
+    },
+    {
+        "second": 10,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UDuaCHQdh7s/output_frames/sec_10_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[6-11] Afterwards, a blue bowl filled with yellow flakes appears below the blue machine, and a blue funnel-shaped object pours green sauce into the bowl. The hand holding the blue bowl moves slightly to distribute the green sauce evenly. Finally, the scene switches back to the initial gradient background, the conveyor belt, and the rectangular machine."
+    },
+    {
+        "second": 11,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UDuaCHQdh7s/output_frames/sec_11_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[6-11] Afterwards, a blue bowl filled with yellow flakes appears below the blue machine, and a blue funnel-shaped object pours green sauce into the bowl. The hand holding the blue bowl moves slightly to distribute the green sauce evenly. Finally, the scene switches back to the initial gradient background, the conveyor belt, and the rectangular machine."
+    }
+]

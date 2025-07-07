@@ -1,0 +1,58 @@
+[
+    {
+        "second": 0,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/A3z8r6DptFA/output_frames/sec_0_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[0-0] In a bright commercial kitchen, a bald male chef in a black short-sleeved shirt stands by the sink. There are some kitchen utensils around him and a dark gray trash can. On a red cutting board in the foreground is a green cabbage. The words \"cabbage in the wrong place at the wrong time\" are displayed in white at the top of the video. At the very top of the screen are the letters \"omg\" in black and two large yellow-blue crying emojis."
+    },
+    {
+        "second": 1,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/A3z8r6DptFA/output_frames/sec_1_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Then another male chef in a black short-sleeved shirt approaches the bald chef at the sink, holding a knife with a black handle in his right hand, and pats the bald man's right shoulder with his left hand. He then faces forward and walks forward, suddenly turning around as he passes a cutting board, quickly cuts the cabbage a few times with the knife, and disappears from the picture."
+    },
+    {
+        "second": 2,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/A3z8r6DptFA/output_frames/sec_2_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Then another male chef in a black short-sleeved shirt approaches the bald chef at the sink, holding a knife with a black handle in his right hand, and pats the bald man's right shoulder with his left hand. He then faces forward and walks forward, suddenly turning around as he passes a cutting board, quickly cuts the cabbage a few times with the knife, and disappears from the picture."
+    },
+    {
+        "second": 3,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/A3z8r6DptFA/output_frames/sec_3_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Then another male chef in a black short-sleeved shirt approaches the bald chef at the sink, holding a knife with a black handle in his right hand, and pats the bald man's right shoulder with his left hand. He then faces forward and walks forward, suddenly turning around as he passes a cutting board, quickly cuts the cabbage a few times with the knife, and disappears from the picture."
+    },
+    {
+        "second": 4,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/A3z8r6DptFA/output_frames/sec_4_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Then another male chef in a black short-sleeved shirt approaches the bald chef at the sink, holding a knife with a black handle in his right hand, and pats the bald man's right shoulder with his left hand. He then faces forward and walks forward, suddenly turning around as he passes a cutting board, quickly cuts the cabbage a few times with the knife, and disappears from the picture."
+    },
+    {
+        "second": 5,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/A3z8r6DptFA/output_frames/sec_5_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[4-7] Then the bald male chef slowly turns his head to the right. Finally, the bald male chef smiles."
+    },
+    {
+        "second": 6,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/A3z8r6DptFA/output_frames/sec_6_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[4-7] Then the bald male chef slowly turns his head to the right. Finally, the bald male chef smiles."
+    },
+    {
+        "second": 7,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/A3z8r6DptFA/output_frames/sec_7_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[4-7] Then the bald male chef slowly turns his head to the right. Finally, the bald male chef smiles."
+    }
+]

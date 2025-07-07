@@ -1,0 +1,114 @@
+[
+    {
+        "second": 0,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/KDofVL32eVk/output_frames/sec_0_idx_0.jpg",
+        "fps": 25,
+        "explanation": "[0-0] The video is a cartoon animation. A brown bear wearing a blue jersey and a blue cap is standing on yellow ground, holding a golf club. There is a golf ball on the ground and a green object next to it."
+    },
+    {
+        "second": 1,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/KDofVL32eVk/output_frames/sec_1_idx_12.jpg",
+        "fps": 25,
+        "explanation": "[0-4] Then the golf ball slowly rolls into a sand trap. The frog next to it sees this scene and waves its arms angrily. The bear lowers its head and then looks to the side. The frog is still speaking angrily."
+    },
+    {
+        "second": 2,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/KDofVL32eVk/output_frames/sec_2_idx_7.jpg",
+        "fps": 25,
+        "explanation": "[0-4] Then the golf ball slowly rolls into a sand trap. The frog next to it sees this scene and waves its arms angrily. The bear lowers its head and then looks to the side. The frog is still speaking angrily."
+    },
+    {
+        "second": 3,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/KDofVL32eVk/output_frames/sec_3_idx_14.jpg",
+        "fps": 25,
+        "explanation": "[0-4] Then the golf ball slowly rolls into a sand trap. The frog next to it sees this scene and waves its arms angrily. The bear lowers its head and then looks to the side. The frog is still speaking angrily."
+    },
+    {
+        "second": 4,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/KDofVL32eVk/output_frames/sec_4_idx_16.jpg",
+        "fps": 25,
+        "explanation": "[0-4] Then the golf ball slowly rolls into a sand trap. The frog next to it sees this scene and waves its arms angrily. The bear lowers its head and then looks to the side. The frog is still speaking angrily."
+    },
+    {
+        "second": 5,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/KDofVL32eVk/output_frames/sec_5_idx_5.jpg",
+        "fps": 25,
+        "explanation": "[4-9] Then the scene switches to another scene. A panda wearing a yellow hat and a girl wearing a pink hat and pink clothes are standing on a wooden board in the water. They are hitting the surface of the water with bats, and a white ball is floating on the water, splashing water and startling the fish in the water."
+    },
+    {
+        "second": 6,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/KDofVL32eVk/output_frames/sec_6_idx_5.jpg",
+        "fps": 25,
+        "explanation": "[4-9] Then the scene switches to another scene. A panda wearing a yellow hat and a girl wearing a pink hat and pink clothes are standing on a wooden board in the water. They are hitting the surface of the water with bats, and a white ball is floating on the water, splashing water and startling the fish in the water."
+    },
+    {
+        "second": 7,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/KDofVL32eVk/output_frames/sec_7_idx_17.jpg",
+        "fps": 25,
+        "explanation": "[4-9] Then the scene switches to another scene. A panda wearing a yellow hat and a girl wearing a pink hat and pink clothes are standing on a wooden board in the water. They are hitting the surface of the water with bats, and a white ball is floating on the water, splashing water and startling the fish in the water."
+    },
+    {
+        "second": 8,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/KDofVL32eVk/output_frames/sec_8_idx_22.jpg",
+        "fps": 25,
+        "explanation": "[4-9] Then the scene switches to another scene. A panda wearing a yellow hat and a girl wearing a pink hat and pink clothes are standing on a wooden board in the water. They are hitting the surface of the water with bats, and a white ball is floating on the water, splashing water and startling the fish in the water."
+    },
+    {
+        "second": 9,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/KDofVL32eVk/output_frames/sec_9_idx_0.jpg",
+        "fps": 25,
+        "explanation": "[4-9] Then the scene switches to another scene. A panda wearing a yellow hat and a girl wearing a pink hat and pink clothes are standing on a wooden board in the water. They are hitting the surface of the water with bats, and a white ball is floating on the water, splashing water and startling the fish in the water."
+    },
+    {
+        "second": 10,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/KDofVL32eVk/output_frames/sec_10_idx_5.jpg",
+        "fps": 25,
+        "explanation": "[9-11] Then the scene switches to the grass by the water, where a group of frightened frogs are clinging to the reeds, watching in horror as the fish fly up in front of them. The bear is waving its arms."
+    },
+    {
+        "second": 11,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/KDofVL32eVk/output_frames/sec_11_idx_3.jpg",
+        "fps": 25,
+        "explanation": "[9-11] Then the scene switches to the grass by the water, where a group of frightened frogs are clinging to the reeds, watching in horror as the fish fly up in front of them. The bear is waving its arms."
+    },
+    {
+        "second": 12,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/KDofVL32eVk/output_frames/sec_12_idx_15.jpg",
+        "fps": 25,
+        "explanation": "[11-15] Finally, the panda and the girl in pink look to the side with their bats, and the bear crosses its arms in front of it."
+    },
+    {
+        "second": 13,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/KDofVL32eVk/output_frames/sec_13_idx_1.jpg",
+        "fps": 25,
+        "explanation": "[11-15] Finally, the panda and the girl in pink look to the side with their bats, and the bear crosses its arms in front of it."
+    },
+    {
+        "second": 14,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/KDofVL32eVk/output_frames/sec_14_idx_7.jpg",
+        "fps": 25,
+        "explanation": "[11-15] Finally, the panda and the girl in pink look to the side with their bats, and the bear crosses its arms in front of it."
+    },
+    {
+        "second": 15,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/KDofVL32eVk/output_frames/sec_15_idx_0.jpg",
+        "fps": 25,
+        "explanation": "[11-15] Finally, the panda and the girl in pink look to the side with their bats, and the bear crosses its arms in front of it."
+    }
+]

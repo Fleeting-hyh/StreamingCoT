@@ -1,0 +1,86 @@
+[
+    {
+        "second": 0,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SfrQr4Jj2Tc/output_frames/sec_0_idx_20.jpg",
+        "fps": 25,
+        "explanation": "[0-0] A red, blue, and white cargo ship is docked at the pier. There are white and blue houses on the pier."
+    },
+    {
+        "second": 1,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SfrQr4Jj2Tc/output_frames/sec_1_idx_6.jpg",
+        "fps": 25,
+        "explanation": "[0-4] Then the cargo ship begins to sway to the right as if it is about to topple over into the water."
+    },
+    {
+        "second": 2,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SfrQr4Jj2Tc/output_frames/sec_2_idx_11.jpg",
+        "fps": 25,
+        "explanation": "[0-4] Then the cargo ship begins to sway to the right as if it is about to topple over into the water."
+    },
+    {
+        "second": 3,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SfrQr4Jj2Tc/output_frames/sec_3_idx_11.jpg",
+        "fps": 25,
+        "explanation": "[0-4] Then the cargo ship begins to sway to the right as if it is about to topple over into the water."
+    },
+    {
+        "second": 4,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SfrQr4Jj2Tc/output_frames/sec_4_idx_17.jpg",
+        "fps": 25,
+        "explanation": "[0-4] Then the cargo ship begins to sway to the right as if it is about to topple over into the water."
+    },
+    {
+        "second": 5,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SfrQr4Jj2Tc/output_frames/sec_5_idx_18.jpg",
+        "fps": 25,
+        "explanation": "[4-11] Immediately afterwards, the cargo ship swings to the left and finally slowly docks ashore."
+    },
+    {
+        "second": 6,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SfrQr4Jj2Tc/output_frames/sec_6_idx_22.jpg",
+        "fps": 25,
+        "explanation": "[4-11] Immediately afterwards, the cargo ship swings to the left and finally slowly docks ashore."
+    },
+    {
+        "second": 7,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SfrQr4Jj2Tc/output_frames/sec_7_idx_19.jpg",
+        "fps": 25,
+        "explanation": "[4-11] Immediately afterwards, the cargo ship swings to the left and finally slowly docks ashore."
+    },
+    {
+        "second": 8,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SfrQr4Jj2Tc/output_frames/sec_8_idx_4.jpg",
+        "fps": 25,
+        "explanation": "[4-11] Immediately afterwards, the cargo ship swings to the left and finally slowly docks ashore."
+    },
+    {
+        "second": 9,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SfrQr4Jj2Tc/output_frames/sec_9_idx_20.jpg",
+        "fps": 25,
+        "explanation": "[4-11] Immediately afterwards, the cargo ship swings to the left and finally slowly docks ashore."
+    },
+    {
+        "second": 10,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SfrQr4Jj2Tc/output_frames/sec_10_idx_16.jpg",
+        "fps": 25,
+        "explanation": "[4-11] Immediately afterwards, the cargo ship swings to the left and finally slowly docks ashore."
+    },
+    {
+        "second": 11,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SfrQr4Jj2Tc/output_frames/sec_11_idx_3.jpg",
+        "fps": 25,
+        "explanation": "[4-11] Immediately afterwards, the cargo ship swings to the left and finally slowly docks ashore."
+    }
+]

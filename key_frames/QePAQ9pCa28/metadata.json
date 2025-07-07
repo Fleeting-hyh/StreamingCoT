@@ -1,0 +1,72 @@
+[
+    {
+        "second": 0,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QePAQ9pCa28/output_frames/sec_0_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A fluffy brown puppy sits patiently near a black container filled with dog food. A person wearing a white top holds a digital measuring cup containing a large amount of dog food. Behind the puppy is a beige sofa, the floor is covered with yellow carpet, and there is a pink bowl on the left side of the video. In the upper right corner, a man wearing a black Amir hat is on a video call. He is wearing a gray sleeveless shirt, has a beard, and is sitting in a room."
+    },
+    {
+        "second": 1,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QePAQ9pCa28/output_frames/sec_1_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[0-5] The hand in the video pours some dog food from the measuring cup into the black container. At this point, the measuring cup shows the value of 109. After pouring twice more, the value on the measuring cup keeps changing. Suddenly, the puppy raises its front paw to signal the owner to stop pouring. The person on the video call takes a sip of his drink and looks at this scene in surprise."
+    },
+    {
+        "second": 2,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QePAQ9pCa28/output_frames/sec_2_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[0-5] The hand in the video pours some dog food from the measuring cup into the black container. At this point, the measuring cup shows the value of 109. After pouring twice more, the value on the measuring cup keeps changing. Suddenly, the puppy raises its front paw to signal the owner to stop pouring. The person on the video call takes a sip of his drink and looks at this scene in surprise."
+    },
+    {
+        "second": 3,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QePAQ9pCa28/output_frames/sec_3_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[0-5] The hand in the video pours some dog food from the measuring cup into the black container. At this point, the measuring cup shows the value of 109. After pouring twice more, the value on the measuring cup keeps changing. Suddenly, the puppy raises its front paw to signal the owner to stop pouring. The person on the video call takes a sip of his drink and looks at this scene in surprise."
+    },
+    {
+        "second": 4,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QePAQ9pCa28/output_frames/sec_4_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[0-5] The hand in the video pours some dog food from the measuring cup into the black container. At this point, the measuring cup shows the value of 109. After pouring twice more, the value on the measuring cup keeps changing. Suddenly, the puppy raises its front paw to signal the owner to stop pouring. The person on the video call takes a sip of his drink and looks at this scene in surprise."
+    },
+    {
+        "second": 5,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QePAQ9pCa28/output_frames/sec_5_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[0-5] The hand in the video pours some dog food from the measuring cup into the black container. At this point, the measuring cup shows the value of 109. After pouring twice more, the value on the measuring cup keeps changing. Suddenly, the puppy raises its front paw to signal the owner to stop pouring. The person on the video call takes a sip of his drink and looks at this scene in surprise."
+    },
+    {
+        "second": 6,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QePAQ9pCa28/output_frames/sec_6_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[5-9] After stopping pouring the dog food, the number on the measuring cup changes several times and slowly stabilizes. The final value displayed is 80. The man in the video glances to the side and then smiles at the camera. The puppy also stares at the camera with wide eyes, its paw, which was raised to signal the owner to stop, still suspended in mid-air."
+    },
+    {
+        "second": 7,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QePAQ9pCa28/output_frames/sec_7_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[5-9] After stopping pouring the dog food, the number on the measuring cup changes several times and slowly stabilizes. The final value displayed is 80. The man in the video glances to the side and then smiles at the camera. The puppy also stares at the camera with wide eyes, its paw, which was raised to signal the owner to stop, still suspended in mid-air."
+    },
+    {
+        "second": 8,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QePAQ9pCa28/output_frames/sec_8_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[5-9] After stopping pouring the dog food, the number on the measuring cup changes several times and slowly stabilizes. The final value displayed is 80. The man in the video glances to the side and then smiles at the camera. The puppy also stares at the camera with wide eyes, its paw, which was raised to signal the owner to stop, still suspended in mid-air."
+    },
+    {
+        "second": 9,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QePAQ9pCa28/output_frames/sec_9_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[5-9] After stopping pouring the dog food, the number on the measuring cup changes several times and slowly stabilizes. The final value displayed is 80. The man in the video glances to the side and then smiles at the camera. The puppy also stares at the camera with wide eyes, its paw, which was raised to signal the owner to stop, still suspended in mid-air."
+    }
+]

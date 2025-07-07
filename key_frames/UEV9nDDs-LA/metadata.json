@@ -1,0 +1,415 @@
+[
+    {
+        "second": 0,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UEV9nDDs-LA/output_frames/sec_0_idx_24.jpg",
+        "fps": 30,
+        "explanation": "[0-0] In an indoor setting, a woman wearing a green frog headband sits at a white table wearing a dark blue top and holding a bottle of juice. A person in a red top and blue pants stands beside her. The background features pale yellow walls and a white door with black bars. To the left of the shot is a wall with a white, shiny material, reflecting the shadow of the standing person."
+    },
+    {
+        "second": 1,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UEV9nDDs-LA/output_frames/sec_1_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[0-7] The video begins with the man in red sitting down and placing a wooden plate with two flatbreads on the table. The woman looks at the flatbreads in surprise and claps her hands in admiration. The man puts one flatbread on the plate, and the woman tries to pick up the other one. The man stops her, gesturing \"no,\" and moves the flatbread aside. He then retrieves a white plate and a smaller flatbread, placing them in front of the woman, who seems reluctant. The man takes a bowl of tomato sauce and a spoon from the side."
+    },
+    {
+        "second": 2,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UEV9nDDs-LA/output_frames/sec_2_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-7] The video begins with the man in red sitting down and placing a wooden plate with two flatbreads on the table. The woman looks at the flatbreads in surprise and claps her hands in admiration. The man puts one flatbread on the plate, and the woman tries to pick up the other one. The man stops her, gesturing \"no,\" and moves the flatbread aside. He then retrieves a white plate and a smaller flatbread, placing them in front of the woman, who seems reluctant. The man takes a bowl of tomato sauce and a spoon from the side."
+    },
+    {
+        "second": 3,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UEV9nDDs-LA/output_frames/sec_3_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-7] The video begins with the man in red sitting down and placing a wooden plate with two flatbreads on the table. The woman looks at the flatbreads in surprise and claps her hands in admiration. The man puts one flatbread on the plate, and the woman tries to pick up the other one. The man stops her, gesturing \"no,\" and moves the flatbread aside. He then retrieves a white plate and a smaller flatbread, placing them in front of the woman, who seems reluctant. The man takes a bowl of tomato sauce and a spoon from the side."
+    },
+    {
+        "second": 4,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UEV9nDDs-LA/output_frames/sec_4_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[0-7] The video begins with the man in red sitting down and placing a wooden plate with two flatbreads on the table. The woman looks at the flatbreads in surprise and claps her hands in admiration. The man puts one flatbread on the plate, and the woman tries to pick up the other one. The man stops her, gesturing \"no,\" and moves the flatbread aside. He then retrieves a white plate and a smaller flatbread, placing them in front of the woman, who seems reluctant. The man takes a bowl of tomato sauce and a spoon from the side."
+    },
+    {
+        "second": 5,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UEV9nDDs-LA/output_frames/sec_5_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[0-7] The video begins with the man in red sitting down and placing a wooden plate with two flatbreads on the table. The woman looks at the flatbreads in surprise and claps her hands in admiration. The man puts one flatbread on the plate, and the woman tries to pick up the other one. The man stops her, gesturing \"no,\" and moves the flatbread aside. He then retrieves a white plate and a smaller flatbread, placing them in front of the woman, who seems reluctant. The man takes a bowl of tomato sauce and a spoon from the side."
+    },
+    {
+        "second": 6,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UEV9nDDs-LA/output_frames/sec_6_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-7] The video begins with the man in red sitting down and placing a wooden plate with two flatbreads on the table. The woman looks at the flatbreads in surprise and claps her hands in admiration. The man puts one flatbread on the plate, and the woman tries to pick up the other one. The man stops her, gesturing \"no,\" and moves the flatbread aside. He then retrieves a white plate and a smaller flatbread, placing them in front of the woman, who seems reluctant. The man takes a bowl of tomato sauce and a spoon from the side."
+    },
+    {
+        "second": 7,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UEV9nDDs-LA/output_frames/sec_7_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[0-7] The video begins with the man in red sitting down and placing a wooden plate with two flatbreads on the table. The woman looks at the flatbreads in surprise and claps her hands in admiration. The man puts one flatbread on the plate, and the woman tries to pick up the other one. The man stops her, gesturing \"no,\" and moves the flatbread aside. He then retrieves a white plate and a smaller flatbread, placing them in front of the woman, who seems reluctant. The man takes a bowl of tomato sauce and a spoon from the side."
+    },
+    {
+        "second": 8,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UEV9nDDs-LA/output_frames/sec_8_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[7-10] The camera then cuts to a close-up of the tomato sauce as the man scoops two spoonfuls onto the flatbread, spreading it evenly with the spoon."
+    },
+    {
+        "second": 9,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UEV9nDDs-LA/output_frames/sec_9_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[7-10] The camera then cuts to a close-up of the tomato sauce as the man scoops two spoonfuls onto the flatbread, spreading it evenly with the spoon."
+    },
+    {
+        "second": 10,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UEV9nDDs-LA/output_frames/sec_10_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[7-10] The camera then cuts to a close-up of the tomato sauce as the man scoops two spoonfuls onto the flatbread, spreading it evenly with the spoon."
+    },
+    {
+        "second": 11,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UEV9nDDs-LA/output_frames/sec_11_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[10-15] The shot then cuts back to the pair. The man puts down the bowl, the woman tries to take it but is stopped. The man sets the bowl aside, bringing a smaller bowl of tomato sauce and a spoon for the woman."
+    },
+    {
+        "second": 12,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UEV9nDDs-LA/output_frames/sec_12_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[10-15] The shot then cuts back to the pair. The man puts down the bowl, the woman tries to take it but is stopped. The man sets the bowl aside, bringing a smaller bowl of tomato sauce and a spoon for the woman."
+    },
+    {
+        "second": 13,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UEV9nDDs-LA/output_frames/sec_13_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[10-15] The shot then cuts back to the pair. The man puts down the bowl, the woman tries to take it but is stopped. The man sets the bowl aside, bringing a smaller bowl of tomato sauce and a spoon for the woman."
+    },
+    {
+        "second": 14,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UEV9nDDs-LA/output_frames/sec_14_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[10-15] The shot then cuts back to the pair. The man puts down the bowl, the woman tries to take it but is stopped. The man sets the bowl aside, bringing a smaller bowl of tomato sauce and a spoon for the woman."
+    },
+    {
+        "second": 15,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UEV9nDDs-LA/output_frames/sec_15_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[10-15] The shot then cuts back to the pair. The man puts down the bowl, the woman tries to take it but is stopped. The man sets the bowl aside, bringing a smaller bowl of tomato sauce and a spoon for the woman."
+    },
+    {
+        "second": 16,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UEV9nDDs-LA/output_frames/sec_16_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[15-18] A close-up shot shows the woman picking up the bowl and scooping tomato sauce, also spreading it evenly on her flatbread."
+    },
+    {
+        "second": 17,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UEV9nDDs-LA/output_frames/sec_17_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[15-18] A close-up shot shows the woman picking up the bowl and scooping tomato sauce, also spreading it evenly on her flatbread."
+    },
+    {
+        "second": 18,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UEV9nDDs-LA/output_frames/sec_18_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[15-18] A close-up shot shows the woman picking up the bowl and scooping tomato sauce, also spreading it evenly on her flatbread."
+    },
+    {
+        "second": 19,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UEV9nDDs-LA/output_frames/sec_19_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[18-27] The camera cuts back to the pair. The man picks up a slice of processed cheese and places it on his flatbread. Instead of giving the woman a slice, he brings her a bowl of cheese cubes, which she puts on her flatbread."
+    },
+    {
+        "second": 20,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UEV9nDDs-LA/output_frames/sec_20_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[18-27] The camera cuts back to the pair. The man picks up a slice of processed cheese and places it on his flatbread. Instead of giving the woman a slice, he brings her a bowl of cheese cubes, which she puts on her flatbread."
+    },
+    {
+        "second": 21,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UEV9nDDs-LA/output_frames/sec_21_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[18-27] The camera cuts back to the pair. The man picks up a slice of processed cheese and places it on his flatbread. Instead of giving the woman a slice, he brings her a bowl of cheese cubes, which she puts on her flatbread."
+    },
+    {
+        "second": 22,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UEV9nDDs-LA/output_frames/sec_22_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[18-27] The camera cuts back to the pair. The man picks up a slice of processed cheese and places it on his flatbread. Instead of giving the woman a slice, he brings her a bowl of cheese cubes, which she puts on her flatbread."
+    },
+    {
+        "second": 23,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UEV9nDDs-LA/output_frames/sec_23_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[18-27] The camera cuts back to the pair. The man picks up a slice of processed cheese and places it on his flatbread. Instead of giving the woman a slice, he brings her a bowl of cheese cubes, which she puts on her flatbread."
+    },
+    {
+        "second": 24,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UEV9nDDs-LA/output_frames/sec_24_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[18-27] The camera cuts back to the pair. The man picks up a slice of processed cheese and places it on his flatbread. Instead of giving the woman a slice, he brings her a bowl of cheese cubes, which she puts on her flatbread."
+    },
+    {
+        "second": 25,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UEV9nDDs-LA/output_frames/sec_25_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[18-27] The camera cuts back to the pair. The man picks up a slice of processed cheese and places it on his flatbread. Instead of giving the woman a slice, he brings her a bowl of cheese cubes, which she puts on her flatbread."
+    },
+    {
+        "second": 26,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UEV9nDDs-LA/output_frames/sec_26_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[18-27] The camera cuts back to the pair. The man picks up a slice of processed cheese and places it on his flatbread. Instead of giving the woman a slice, he brings her a bowl of cheese cubes, which she puts on her flatbread."
+    },
+    {
+        "second": 27,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UEV9nDDs-LA/output_frames/sec_27_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[18-27] The camera cuts back to the pair. The man picks up a slice of processed cheese and places it on his flatbread. Instead of giving the woman a slice, he brings her a bowl of cheese cubes, which she puts on her flatbread."
+    },
+    {
+        "second": 28,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UEV9nDDs-LA/output_frames/sec_28_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[27-37] The man then brings in several large tomatoes from off-camera and slices them onto his flatbread. The woman reaches for a tomato, but the man stops her again, giving her a bowl of very small tomatoes. The woman also slices the small tomatoes onto her flatbread."
+    },
+    {
+        "second": 29,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UEV9nDDs-LA/output_frames/sec_29_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[27-37] The man then brings in several large tomatoes from off-camera and slices them onto his flatbread. The woman reaches for a tomato, but the man stops her again, giving her a bowl of very small tomatoes. The woman also slices the small tomatoes onto her flatbread."
+    },
+    {
+        "second": 30,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UEV9nDDs-LA/output_frames/sec_30_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[27-37] The man then brings in several large tomatoes from off-camera and slices them onto his flatbread. The woman reaches for a tomato, but the man stops her again, giving her a bowl of very small tomatoes. The woman also slices the small tomatoes onto her flatbread."
+    },
+    {
+        "second": 31,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UEV9nDDs-LA/output_frames/sec_31_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[27-37] The man then brings in several large tomatoes from off-camera and slices them onto his flatbread. The woman reaches for a tomato, but the man stops her again, giving her a bowl of very small tomatoes. The woman also slices the small tomatoes onto her flatbread."
+    },
+    {
+        "second": 32,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UEV9nDDs-LA/output_frames/sec_32_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[27-37] The man then brings in several large tomatoes from off-camera and slices them onto his flatbread. The woman reaches for a tomato, but the man stops her again, giving her a bowl of very small tomatoes. The woman also slices the small tomatoes onto her flatbread."
+    },
+    {
+        "second": 33,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UEV9nDDs-LA/output_frames/sec_33_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[27-37] The man then brings in several large tomatoes from off-camera and slices them onto his flatbread. The woman reaches for a tomato, but the man stops her again, giving her a bowl of very small tomatoes. The woman also slices the small tomatoes onto her flatbread."
+    },
+    {
+        "second": 34,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UEV9nDDs-LA/output_frames/sec_34_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[27-37] The man then brings in several large tomatoes from off-camera and slices them onto his flatbread. The woman reaches for a tomato, but the man stops her again, giving her a bowl of very small tomatoes. The woman also slices the small tomatoes onto her flatbread."
+    },
+    {
+        "second": 35,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UEV9nDDs-LA/output_frames/sec_35_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[27-37] The man then brings in several large tomatoes from off-camera and slices them onto his flatbread. The woman reaches for a tomato, but the man stops her again, giving her a bowl of very small tomatoes. The woman also slices the small tomatoes onto her flatbread."
+    },
+    {
+        "second": 36,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UEV9nDDs-LA/output_frames/sec_36_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[27-37] The man then brings in several large tomatoes from off-camera and slices them onto his flatbread. The woman reaches for a tomato, but the man stops her again, giving her a bowl of very small tomatoes. The woman also slices the small tomatoes onto her flatbread."
+    },
+    {
+        "second": 37,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UEV9nDDs-LA/output_frames/sec_37_idx_24.jpg",
+        "fps": 30,
+        "explanation": "[27-37] The man then brings in several large tomatoes from off-camera and slices them onto his flatbread. The woman reaches for a tomato, but the man stops her again, giving her a bowl of very small tomatoes. The woman also slices the small tomatoes onto her flatbread."
+    },
+    {
+        "second": 38,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UEV9nDDs-LA/output_frames/sec_38_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[37-47] The man then takes a large sausage and places slices onto his flatbread. Similarly, he prevents the woman from taking any, instead offering her a very thin sausage. The woman also slices the sausage onto her flatbread."
+    },
+    {
+        "second": 39,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UEV9nDDs-LA/output_frames/sec_39_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[37-47] The man then takes a large sausage and places slices onto his flatbread. Similarly, he prevents the woman from taking any, instead offering her a very thin sausage. The woman also slices the sausage onto her flatbread."
+    },
+    {
+        "second": 40,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UEV9nDDs-LA/output_frames/sec_40_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[37-47] The man then takes a large sausage and places slices onto his flatbread. Similarly, he prevents the woman from taking any, instead offering her a very thin sausage. The woman also slices the sausage onto her flatbread."
+    },
+    {
+        "second": 41,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UEV9nDDs-LA/output_frames/sec_41_idx_24.jpg",
+        "fps": 30,
+        "explanation": "[37-47] The man then takes a large sausage and places slices onto his flatbread. Similarly, he prevents the woman from taking any, instead offering her a very thin sausage. The woman also slices the sausage onto her flatbread."
+    },
+    {
+        "second": 42,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UEV9nDDs-LA/output_frames/sec_42_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[37-47] The man then takes a large sausage and places slices onto his flatbread. Similarly, he prevents the woman from taking any, instead offering her a very thin sausage. The woman also slices the sausage onto her flatbread."
+    },
+    {
+        "second": 43,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UEV9nDDs-LA/output_frames/sec_43_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[37-47] The man then takes a large sausage and places slices onto his flatbread. Similarly, he prevents the woman from taking any, instead offering her a very thin sausage. The woman also slices the sausage onto her flatbread."
+    },
+    {
+        "second": 44,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UEV9nDDs-LA/output_frames/sec_44_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[37-47] The man then takes a large sausage and places slices onto his flatbread. Similarly, he prevents the woman from taking any, instead offering her a very thin sausage. The woman also slices the sausage onto her flatbread."
+    },
+    {
+        "second": 45,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UEV9nDDs-LA/output_frames/sec_45_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[37-47] The man then takes a large sausage and places slices onto his flatbread. Similarly, he prevents the woman from taking any, instead offering her a very thin sausage. The woman also slices the sausage onto her flatbread."
+    },
+    {
+        "second": 46,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UEV9nDDs-LA/output_frames/sec_46_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[37-47] The man then takes a large sausage and places slices onto his flatbread. Similarly, he prevents the woman from taking any, instead offering her a very thin sausage. The woman also slices the sausage onto her flatbread."
+    },
+    {
+        "second": 47,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UEV9nDDs-LA/output_frames/sec_47_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[37-47] The man then takes a large sausage and places slices onto his flatbread. Similarly, he prevents the woman from taking any, instead offering her a very thin sausage. The woman also slices the sausage onto her flatbread."
+    },
+    {
+        "second": 48,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UEV9nDDs-LA/output_frames/sec_48_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[47-51] The man and woman pick up their plates with the flatbreads and leave the table, walking to the side."
+    },
+    {
+        "second": 49,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UEV9nDDs-LA/output_frames/sec_49_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[47-51] The man and woman pick up their plates with the flatbreads and leave the table, walking to the side."
+    },
+    {
+        "second": 50,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UEV9nDDs-LA/output_frames/sec_50_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[47-51] The man and woman pick up their plates with the flatbreads and leave the table, walking to the side."
+    },
+    {
+        "second": 51,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UEV9nDDs-LA/output_frames/sec_51_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[47-51] The man and woman pick up their plates with the flatbreads and leave the table, walking to the side."
+    },
+    {
+        "second": 52,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UEV9nDDs-LA/output_frames/sec_52_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[51-58] The scene cuts to the man and woman returning to the table with their plates and sitting down. The camera focuses on each of the now-toasted flatbreads. The woman then picks up a large glass of juice and inserts a straw. The man looks at her, and she picks up a very small glass of juice with a miniature straw for him. The man looks at his juice in disbelief and picks it up, while the woman laughs and picks up her large glass."
+    },
+    {
+        "second": 53,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UEV9nDDs-LA/output_frames/sec_53_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[51-58] The scene cuts to the man and woman returning to the table with their plates and sitting down. The camera focuses on each of the now-toasted flatbreads. The woman then picks up a large glass of juice and inserts a straw. The man looks at her, and she picks up a very small glass of juice with a miniature straw for him. The man looks at his juice in disbelief and picks it up, while the woman laughs and picks up her large glass."
+    },
+    {
+        "second": 54,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UEV9nDDs-LA/output_frames/sec_54_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[51-58] The scene cuts to the man and woman returning to the table with their plates and sitting down. The camera focuses on each of the now-toasted flatbreads. The woman then picks up a large glass of juice and inserts a straw. The man looks at her, and she picks up a very small glass of juice with a miniature straw for him. The man looks at his juice in disbelief and picks it up, while the woman laughs and picks up her large glass."
+    },
+    {
+        "second": 55,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UEV9nDDs-LA/output_frames/sec_55_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[51-58] The scene cuts to the man and woman returning to the table with their plates and sitting down. The camera focuses on each of the now-toasted flatbreads. The woman then picks up a large glass of juice and inserts a straw. The man looks at her, and she picks up a very small glass of juice with a miniature straw for him. The man looks at his juice in disbelief and picks it up, while the woman laughs and picks up her large glass."
+    },
+    {
+        "second": 56,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UEV9nDDs-LA/output_frames/sec_56_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[51-58] The scene cuts to the man and woman returning to the table with their plates and sitting down. The camera focuses on each of the now-toasted flatbreads. The woman then picks up a large glass of juice and inserts a straw. The man looks at her, and she picks up a very small glass of juice with a miniature straw for him. The man looks at his juice in disbelief and picks it up, while the woman laughs and picks up her large glass."
+    },
+    {
+        "second": 57,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UEV9nDDs-LA/output_frames/sec_57_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[51-58] The scene cuts to the man and woman returning to the table with their plates and sitting down. The camera focuses on each of the now-toasted flatbreads. The woman then picks up a large glass of juice and inserts a straw. The man looks at her, and she picks up a very small glass of juice with a miniature straw for him. The man looks at his juice in disbelief and picks it up, while the woman laughs and picks up her large glass."
+    },
+    {
+        "second": 58,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UEV9nDDs-LA/output_frames/sec_58_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[51-58] The scene cuts to the man and woman returning to the table with their plates and sitting down. The camera focuses on each of the now-toasted flatbreads. The woman then picks up a large glass of juice and inserts a straw. The man looks at her, and she picks up a very small glass of juice with a miniature straw for him. The man looks at his juice in disbelief and picks it up, while the woman laughs and picks up her large glass."
+    }
+]

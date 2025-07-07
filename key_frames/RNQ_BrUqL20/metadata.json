@@ -1,0 +1,79 @@
+[
+    {
+        "second": 0,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RNQ_BrUqL20/output_frames/sec_0_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[0-0] On a sandy beach, a woman in a green bikini squats on the sand, with the white English text \"Bread or Sword?\" below. The background shows waving ocean waves and a blue sky with white clouds."
+    },
+    {
+        "second": 1,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RNQ_BrUqL20/output_frames/sec_1_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Then, a hand appears at the bottom, its index finger pointing to a bulge in the sand. A brown loaf of bread and a sword with a yellow hilt appear above. The hand reaches into the bulge in the sand."
+    },
+    {
+        "second": 2,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RNQ_BrUqL20/output_frames/sec_2_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Then, a hand appears at the bottom, its index finger pointing to a bulge in the sand. A brown loaf of bread and a sword with a yellow hilt appear above. The hand reaches into the bulge in the sand."
+    },
+    {
+        "second": 3,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RNQ_BrUqL20/output_frames/sec_3_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Then, a hand appears at the bottom, its index finger pointing to a bulge in the sand. A brown loaf of bread and a sword with a yellow hilt appear above. The hand reaches into the bulge in the sand."
+    },
+    {
+        "second": 4,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RNQ_BrUqL20/output_frames/sec_4_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Then, a hand appears at the bottom, its index finger pointing to a bulge in the sand. A brown loaf of bread and a sword with a yellow hilt appear above. The hand reaches into the bulge in the sand."
+    },
+    {
+        "second": 5,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RNQ_BrUqL20/output_frames/sec_5_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[4-11] Finally, the hand pulls out a green sword from the sand and throws it toward the woman."
+    },
+    {
+        "second": 6,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RNQ_BrUqL20/output_frames/sec_6_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[4-11] Finally, the hand pulls out a green sword from the sand and throws it toward the woman."
+    },
+    {
+        "second": 7,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RNQ_BrUqL20/output_frames/sec_7_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[4-11] Finally, the hand pulls out a green sword from the sand and throws it toward the woman."
+    },
+    {
+        "second": 8,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RNQ_BrUqL20/output_frames/sec_8_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[4-11] Finally, the hand pulls out a green sword from the sand and throws it toward the woman."
+    },
+    {
+        "second": 9,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RNQ_BrUqL20/output_frames/sec_9_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[4-11] Finally, the hand pulls out a green sword from the sand and throws it toward the woman."
+    },
+    {
+        "second": 10,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RNQ_BrUqL20/output_frames/sec_10_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[4-11] Finally, the hand pulls out a green sword from the sand and throws it toward the woman."
+    }
+]

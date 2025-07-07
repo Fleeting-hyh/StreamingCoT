@@ -1,0 +1,44 @@
+[
+    {
+        "second": 0,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0f7cqDVi0yQ/output_frames/sec_0_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[0-0] The image shows a yellow wooden fence and a cow standing behind it. The fence has two orange metal latches, and the words \"SIMPLE MOTIONS\" are printed in gray on the fence posts. In the upper left corner of the image is a green circle with the words \"SIMPLE MOTIONS\" written in white inside."
+    },
+    {
+        "second": 1,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0f7cqDVi0yQ/output_frames/sec_1_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[0-2] The image then changes, and a yellow wooden fence appears on the right side. The orange metal latch on the left fence then lifts upwards, and the cow behind the fence turns its head to look at the rising latch."
+    },
+    {
+        "second": 2,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0f7cqDVi0yQ/output_frames/sec_2_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-2] The image then changes, and a yellow wooden fence appears on the right side. The orange metal latch on the left fence then lifts upwards, and the cow behind the fence turns its head to look at the rising latch."
+    },
+    {
+        "second": 3,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0f7cqDVi0yQ/output_frames/sec_3_idx_24.jpg",
+        "fps": 30,
+        "explanation": "[2-5] As the orange metal latch on the left fence post is fastened to the right fence post, the cow looks up at the front of the image."
+    },
+    {
+        "second": 4,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0f7cqDVi0yQ/output_frames/sec_4_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[2-5] As the orange metal latch on the left fence post is fastened to the right fence post, the cow looks up at the front of the image."
+    },
+    {
+        "second": 5,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0f7cqDVi0yQ/output_frames/sec_5_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[2-5] As the orange metal latch on the left fence post is fastened to the right fence post, the cow looks up at the front of the image."
+    }
+]

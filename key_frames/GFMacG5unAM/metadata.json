@@ -1,0 +1,79 @@
+[
+    {
+        "second": 0,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GFMacG5unAM/output_frames/sec_0_idx_15.jpg",
+        "fps": 24,
+        "explanation": "[0-0] A person wearing brown pants is standing on a paved road with a small tool on the ground."
+    },
+    {
+        "second": 1,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GFMacG5unAM/output_frames/sec_1_idx_0.jpg",
+        "fps": 24,
+        "explanation": "[0-5] A hand picks up the small tool from the ground and starts poking a trowel with it."
+    },
+    {
+        "second": 2,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GFMacG5unAM/output_frames/sec_2_idx_22.jpg",
+        "fps": 24,
+        "explanation": "[0-5] A hand picks up the small tool from the ground and starts poking a trowel with it."
+    },
+    {
+        "second": 3,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GFMacG5unAM/output_frames/sec_3_idx_0.jpg",
+        "fps": 24,
+        "explanation": "[0-5] A hand picks up the small tool from the ground and starts poking a trowel with it."
+    },
+    {
+        "second": 4,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GFMacG5unAM/output_frames/sec_4_idx_6.jpg",
+        "fps": 24,
+        "explanation": "[0-5] A hand picks up the small tool from the ground and starts poking a trowel with it."
+    },
+    {
+        "second": 5,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GFMacG5unAM/output_frames/sec_5_idx_23.jpg",
+        "fps": 24,
+        "explanation": "[0-5] A hand picks up the small tool from the ground and starts poking a trowel with it."
+    },
+    {
+        "second": 6,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GFMacG5unAM/output_frames/sec_6_idx_22.jpg",
+        "fps": 24,
+        "explanation": "[5-7] Then the hand stops poking the trowel and throws the small tool on the ground. A tool shed is visible in the shot, and a hand is seen flipping a trowel."
+    },
+    {
+        "second": 7,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GFMacG5unAM/output_frames/sec_7_idx_2.jpg",
+        "fps": 24,
+        "explanation": "[5-7] Then the hand stops poking the trowel and throws the small tool on the ground. A tool shed is visible in the shot, and a hand is seen flipping a trowel."
+    },
+    {
+        "second": 8,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GFMacG5unAM/output_frames/sec_8_idx_7.jpg",
+        "fps": 24,
+        "explanation": "[7-10] Then the shot moves to a person standing next to a whiteboard with a red balloon on it. There is a building in the distance, a green trailer and a patch of dead trees on both sides, and a trash can on the left. Finally, the hand raises, and the other hand holding the trowel throws it out, popping the balloon on the whiteboard. The hand gestures something."
+    },
+    {
+        "second": 9,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GFMacG5unAM/output_frames/sec_9_idx_4.jpg",
+        "fps": 24,
+        "explanation": "[7-10] Then the shot moves to a person standing next to a whiteboard with a red balloon on it. There is a building in the distance, a green trailer and a patch of dead trees on both sides, and a trash can on the left. Finally, the hand raises, and the other hand holding the trowel throws it out, popping the balloon on the whiteboard. The hand gestures something."
+    },
+    {
+        "second": 10,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GFMacG5unAM/output_frames/sec_10_idx_9.jpg",
+        "fps": 24,
+        "explanation": "[7-10] Then the shot moves to a person standing next to a whiteboard with a red balloon on it. There is a building in the distance, a green trailer and a patch of dead trees on both sides, and a trash can on the left. Finally, the hand raises, and the other hand holding the trowel throws it out, popping the balloon on the whiteboard. The hand gestures something."
+    }
+]

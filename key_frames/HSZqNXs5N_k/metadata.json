@@ -1,0 +1,170 @@
+[
+    {
+        "second": 0,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HSZqNXs5N_k/output_frames/sec_0_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[0-0] The scene begins with a man in a red shirt standing on the left side of a lawn, covering his groin with both hands. On the right side of the lawn, there is a toilet. Between the man and the toilet is a deep pit with a hand-shaped soil block above it. The shape of the soil block matches the pit, with all fingers except the index finger curled towards the palm, and the index finger pointing down. In the bottom right corner, a hand holds a pen at the top of the screen, with the black text \"Help them\" displayed."
+    },
+    {
+        "second": 1,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HSZqNXs5N_k/output_frames/sec_1_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The pen draws a line on the screen below the knuckle of the soil block's index finger. The fingertip falls into the pit, and a red \"10\" countdown appears to the right of the soil block. Meanwhile, the man on the left starts running to the right. When the countdown reaches \"7,\" the man falls headfirst into the pit, and a red \"X\" appears on the screen, indicating failure."
+    },
+    {
+        "second": 2,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HSZqNXs5N_k/output_frames/sec_2_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The pen draws a line on the screen below the knuckle of the soil block's index finger. The fingertip falls into the pit, and a red \"10\" countdown appears to the right of the soil block. Meanwhile, the man on the left starts running to the right. When the countdown reaches \"7,\" the man falls headfirst into the pit, and a red \"X\" appears on the screen, indicating failure."
+    },
+    {
+        "second": 3,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HSZqNXs5N_k/output_frames/sec_3_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The pen draws a line on the screen below the knuckle of the soil block's index finger. The fingertip falls into the pit, and a red \"10\" countdown appears to the right of the soil block. Meanwhile, the man on the left starts running to the right. When the countdown reaches \"7,\" the man falls headfirst into the pit, and a red \"X\" appears on the screen, indicating failure."
+    },
+    {
+        "second": 4,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HSZqNXs5N_k/output_frames/sec_4_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The pen draws a line on the screen below the knuckle of the soil block's index finger. The fingertip falls into the pit, and a red \"10\" countdown appears to the right of the soil block. Meanwhile, the man on the left starts running to the right. When the countdown reaches \"7,\" the man falls headfirst into the pit, and a red \"X\" appears on the screen, indicating failure."
+    },
+    {
+        "second": 5,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HSZqNXs5N_k/output_frames/sec_5_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[4-9] The scene resets to the initial setup. This time, the pen cuts more of the soil block diagonally upwards. The cut portion falls into the pit, partially filling it. The man on the left runs to the right again, and the red \"10\" countdown starts. When the countdown reaches \"7,\" the man falls into the pit again, and a red \"X\" appears, indicating another failure."
+    },
+    {
+        "second": 6,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HSZqNXs5N_k/output_frames/sec_6_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[4-9] The scene resets to the initial setup. This time, the pen cuts more of the soil block diagonally upwards. The cut portion falls into the pit, partially filling it. The man on the left runs to the right again, and the red \"10\" countdown starts. When the countdown reaches \"7,\" the man falls into the pit again, and a red \"X\" appears, indicating another failure."
+    },
+    {
+        "second": 7,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HSZqNXs5N_k/output_frames/sec_7_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[4-9] The scene resets to the initial setup. This time, the pen cuts more of the soil block diagonally upwards. The cut portion falls into the pit, partially filling it. The man on the left runs to the right again, and the red \"10\" countdown starts. When the countdown reaches \"7,\" the man falls into the pit again, and a red \"X\" appears, indicating another failure."
+    },
+    {
+        "second": 8,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HSZqNXs5N_k/output_frames/sec_8_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[4-9] The scene resets to the initial setup. This time, the pen cuts more of the soil block diagonally upwards. The cut portion falls into the pit, partially filling it. The man on the left runs to the right again, and the red \"10\" countdown starts. When the countdown reaches \"7,\" the man falls into the pit again, and a red \"X\" appears, indicating another failure."
+    },
+    {
+        "second": 9,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HSZqNXs5N_k/output_frames/sec_9_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[4-9] The scene resets to the initial setup. This time, the pen cuts more of the soil block diagonally upwards. The cut portion falls into the pit, partially filling it. The man on the left runs to the right again, and the red \"10\" countdown starts. When the countdown reaches \"7,\" the man falls into the pit again, and a red \"X\" appears, indicating another failure."
+    },
+    {
+        "second": 10,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HSZqNXs5N_k/output_frames/sec_10_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[9-14] The scene resets again. This time, the pen cuts the soil block vertically in half, and the right half with the index finger falls into the pit. The man starts running to the right again, with the countdown starting from \"10.\" When the countdown reaches \"7,\" the man falls into the pit once more, and a red \"X\" appears, indicating failure."
+    },
+    {
+        "second": 11,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HSZqNXs5N_k/output_frames/sec_11_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[9-14] The scene resets again. This time, the pen cuts the soil block vertically in half, and the right half with the index finger falls into the pit. The man starts running to the right again, with the countdown starting from \"10.\" When the countdown reaches \"7,\" the man falls into the pit once more, and a red \"X\" appears, indicating failure."
+    },
+    {
+        "second": 12,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HSZqNXs5N_k/output_frames/sec_12_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[9-14] The scene resets again. This time, the pen cuts the soil block vertically in half, and the right half with the index finger falls into the pit. The man starts running to the right again, with the countdown starting from \"10.\" When the countdown reaches \"7,\" the man falls into the pit once more, and a red \"X\" appears, indicating failure."
+    },
+    {
+        "second": 13,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HSZqNXs5N_k/output_frames/sec_13_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[9-14] The scene resets again. This time, the pen cuts the soil block vertically in half, and the right half with the index finger falls into the pit. The man starts running to the right again, with the countdown starting from \"10.\" When the countdown reaches \"7,\" the man falls into the pit once more, and a red \"X\" appears, indicating failure."
+    },
+    {
+        "second": 14,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HSZqNXs5N_k/output_frames/sec_14_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[9-14] The scene resets again. This time, the pen cuts the soil block vertically in half, and the right half with the index finger falls into the pit. The man starts running to the right again, with the countdown starting from \"10.\" When the countdown reaches \"7,\" the man falls into the pit once more, and a red \"X\" appears, indicating failure."
+    },
+    {
+        "second": 15,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HSZqNXs5N_k/output_frames/sec_15_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[14-23] The scene resets once more. This time, the pen makes two horizontal cuts and one vertical cut on the soil block. The man starts running to the right, and the countdown begins from \"10.\" Five soil blocks fall into the pit. This time, the man successfully crosses the pit using the fallen soil blocks, reaching the toilet when the countdown reaches \"2.\" A green checkmark appears on the screen, indicating success. As the man crosses the pit, a small screen appears in the bottom right corner, initially showing an interface with eight mini-games. As the man reaches the toilet, the small screen changes to a maze game, with a blue line successfully navigating through the maze to the exit. The video ends with the man sitting on the toilet, and a green checkmark appears in the center of the screen."
+    },
+    {
+        "second": 16,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HSZqNXs5N_k/output_frames/sec_16_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[14-23] The scene resets once more. This time, the pen makes two horizontal cuts and one vertical cut on the soil block. The man starts running to the right, and the countdown begins from \"10.\" Five soil blocks fall into the pit. This time, the man successfully crosses the pit using the fallen soil blocks, reaching the toilet when the countdown reaches \"2.\" A green checkmark appears on the screen, indicating success. As the man crosses the pit, a small screen appears in the bottom right corner, initially showing an interface with eight mini-games. As the man reaches the toilet, the small screen changes to a maze game, with a blue line successfully navigating through the maze to the exit. The video ends with the man sitting on the toilet, and a green checkmark appears in the center of the screen."
+    },
+    {
+        "second": 17,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HSZqNXs5N_k/output_frames/sec_17_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[14-23] The scene resets once more. This time, the pen makes two horizontal cuts and one vertical cut on the soil block. The man starts running to the right, and the countdown begins from \"10.\" Five soil blocks fall into the pit. This time, the man successfully crosses the pit using the fallen soil blocks, reaching the toilet when the countdown reaches \"2.\" A green checkmark appears on the screen, indicating success. As the man crosses the pit, a small screen appears in the bottom right corner, initially showing an interface with eight mini-games. As the man reaches the toilet, the small screen changes to a maze game, with a blue line successfully navigating through the maze to the exit. The video ends with the man sitting on the toilet, and a green checkmark appears in the center of the screen."
+    },
+    {
+        "second": 18,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HSZqNXs5N_k/output_frames/sec_18_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[14-23] The scene resets once more. This time, the pen makes two horizontal cuts and one vertical cut on the soil block. The man starts running to the right, and the countdown begins from \"10.\" Five soil blocks fall into the pit. This time, the man successfully crosses the pit using the fallen soil blocks, reaching the toilet when the countdown reaches \"2.\" A green checkmark appears on the screen, indicating success. As the man crosses the pit, a small screen appears in the bottom right corner, initially showing an interface with eight mini-games. As the man reaches the toilet, the small screen changes to a maze game, with a blue line successfully navigating through the maze to the exit. The video ends with the man sitting on the toilet, and a green checkmark appears in the center of the screen."
+    },
+    {
+        "second": 19,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HSZqNXs5N_k/output_frames/sec_19_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[14-23] The scene resets once more. This time, the pen makes two horizontal cuts and one vertical cut on the soil block. The man starts running to the right, and the countdown begins from \"10.\" Five soil blocks fall into the pit. This time, the man successfully crosses the pit using the fallen soil blocks, reaching the toilet when the countdown reaches \"2.\" A green checkmark appears on the screen, indicating success. As the man crosses the pit, a small screen appears in the bottom right corner, initially showing an interface with eight mini-games. As the man reaches the toilet, the small screen changes to a maze game, with a blue line successfully navigating through the maze to the exit. The video ends with the man sitting on the toilet, and a green checkmark appears in the center of the screen."
+    },
+    {
+        "second": 20,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HSZqNXs5N_k/output_frames/sec_20_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[14-23] The scene resets once more. This time, the pen makes two horizontal cuts and one vertical cut on the soil block. The man starts running to the right, and the countdown begins from \"10.\" Five soil blocks fall into the pit. This time, the man successfully crosses the pit using the fallen soil blocks, reaching the toilet when the countdown reaches \"2.\" A green checkmark appears on the screen, indicating success. As the man crosses the pit, a small screen appears in the bottom right corner, initially showing an interface with eight mini-games. As the man reaches the toilet, the small screen changes to a maze game, with a blue line successfully navigating through the maze to the exit. The video ends with the man sitting on the toilet, and a green checkmark appears in the center of the screen."
+    },
+    {
+        "second": 21,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HSZqNXs5N_k/output_frames/sec_21_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[14-23] The scene resets once more. This time, the pen makes two horizontal cuts and one vertical cut on the soil block. The man starts running to the right, and the countdown begins from \"10.\" Five soil blocks fall into the pit. This time, the man successfully crosses the pit using the fallen soil blocks, reaching the toilet when the countdown reaches \"2.\" A green checkmark appears on the screen, indicating success. As the man crosses the pit, a small screen appears in the bottom right corner, initially showing an interface with eight mini-games. As the man reaches the toilet, the small screen changes to a maze game, with a blue line successfully navigating through the maze to the exit. The video ends with the man sitting on the toilet, and a green checkmark appears in the center of the screen."
+    },
+    {
+        "second": 22,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HSZqNXs5N_k/output_frames/sec_22_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[14-23] The scene resets once more. This time, the pen makes two horizontal cuts and one vertical cut on the soil block. The man starts running to the right, and the countdown begins from \"10.\" Five soil blocks fall into the pit. This time, the man successfully crosses the pit using the fallen soil blocks, reaching the toilet when the countdown reaches \"2.\" A green checkmark appears on the screen, indicating success. As the man crosses the pit, a small screen appears in the bottom right corner, initially showing an interface with eight mini-games. As the man reaches the toilet, the small screen changes to a maze game, with a blue line successfully navigating through the maze to the exit. The video ends with the man sitting on the toilet, and a green checkmark appears in the center of the screen."
+    },
+    {
+        "second": 23,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HSZqNXs5N_k/output_frames/sec_23_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[14-23] The scene resets once more. This time, the pen makes two horizontal cuts and one vertical cut on the soil block. The man starts running to the right, and the countdown begins from \"10.\" Five soil blocks fall into the pit. This time, the man successfully crosses the pit using the fallen soil blocks, reaching the toilet when the countdown reaches \"2.\" A green checkmark appears on the screen, indicating success. As the man crosses the pit, a small screen appears in the bottom right corner, initially showing an interface with eight mini-games. As the man reaches the toilet, the small screen changes to a maze game, with a blue line successfully navigating through the maze to the exit. The video ends with the man sitting on the toilet, and a green checkmark appears in the center of the screen."
+    }
+]

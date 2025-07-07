@@ -1,0 +1,72 @@
+[
+    {
+        "second": 0,
+        "frame_index": 34,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/296qGu4EEQU/output_frames/sec_0_idx_34.jpg",
+        "fps": 60,
+        "explanation": "[0-0] A man in black stands on a platform built of wooden planks in the middle of a road. The platform is situated next to a green guardrail, against a backdrop of open grassland and blue sky."
+    },
+    {
+        "second": 1,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/296qGu4EEQU/output_frames/sec_1_idx_6.jpg",
+        "fps": 60,
+        "explanation": "[0-3] A black car approaches from afar. The man spreads his arms and jumps high, somersaulting in the air. The black car, followed by four other speeding cars, crashes into the platform, shattering it into pieces that scatter across the ground. The man falls to the ground."
+    },
+    {
+        "second": 2,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/296qGu4EEQU/output_frames/sec_2_idx_28.jpg",
+        "fps": 60,
+        "explanation": "[0-3] A black car approaches from afar. The man spreads his arms and jumps high, somersaulting in the air. The black car, followed by four other speeding cars, crashes into the platform, shattering it into pieces that scatter across the ground. The man falls to the ground."
+    },
+    {
+        "second": 3,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/296qGu4EEQU/output_frames/sec_3_idx_20.jpg",
+        "fps": 60,
+        "explanation": "[0-3] A black car approaches from afar. The man spreads his arms and jumps high, somersaulting in the air. The black car, followed by four other speeding cars, crashes into the platform, shattering it into pieces that scatter across the ground. The man falls to the ground."
+    },
+    {
+        "second": 4,
+        "frame_index": 50,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/296qGu4EEQU/output_frames/sec_4_idx_50.jpg",
+        "fps": 60,
+        "explanation": "[3-5] The man then gets up, and an orange car speeds towards him, knocking him into the air."
+    },
+    {
+        "second": 5,
+        "frame_index": 40,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/296qGu4EEQU/output_frames/sec_5_idx_40.jpg",
+        "fps": 60,
+        "explanation": "[3-5] The man then gets up, and an orange car speeds towards him, knocking him into the air."
+    },
+    {
+        "second": 6,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/296qGu4EEQU/output_frames/sec_6_idx_18.jpg",
+        "fps": 60,
+        "explanation": "[5-9] Finally, the scene switches to the inside of a car, where a man in grey is driving and smiling, with blood dripping down his window."
+    },
+    {
+        "second": 7,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/296qGu4EEQU/output_frames/sec_7_idx_22.jpg",
+        "fps": 60,
+        "explanation": "[5-9] Finally, the scene switches to the inside of a car, where a man in grey is driving and smiling, with blood dripping down his window."
+    },
+    {
+        "second": 8,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/296qGu4EEQU/output_frames/sec_8_idx_9.jpg",
+        "fps": 60,
+        "explanation": "[5-9] Finally, the scene switches to the inside of a car, where a man in grey is driving and smiling, with blood dripping down his window."
+    },
+    {
+        "second": 9,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/296qGu4EEQU/output_frames/sec_9_idx_28.jpg",
+        "fps": 60,
+        "explanation": "[5-9] Finally, the scene switches to the inside of a car, where a man in grey is driving and smiling, with blood dripping down his window."
+    }
+]

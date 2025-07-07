@@ -1,0 +1,79 @@
+[
+    {
+        "second": 0,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/877bOBxSjTU/output_frames/sec_0_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A young boy stands in front of a goal in his backyard, his hands pointing upwards. The goal features photos of five famous football stars: Lewandowski, Salah, Benzema, Messi, and Mbappe. White subtitles appear at the top of the screen."
+    },
+    {
+        "second": 1,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/877bOBxSjTU/output_frames/sec_1_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[0-6] The boy then swings his arms as the camera pans from right to left, showcasing individual photos of Lewandowski, Salah, Benzema, and Messi."
+    },
+    {
+        "second": 2,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/877bOBxSjTU/output_frames/sec_2_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[0-6] The boy then swings his arms as the camera pans from right to left, showcasing individual photos of Lewandowski, Salah, Benzema, and Messi."
+    },
+    {
+        "second": 3,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/877bOBxSjTU/output_frames/sec_3_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[0-6] The boy then swings his arms as the camera pans from right to left, showcasing individual photos of Lewandowski, Salah, Benzema, and Messi."
+    },
+    {
+        "second": 4,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/877bOBxSjTU/output_frames/sec_4_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[0-6] The boy then swings his arms as the camera pans from right to left, showcasing individual photos of Lewandowski, Salah, Benzema, and Messi."
+    },
+    {
+        "second": 5,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/877bOBxSjTU/output_frames/sec_5_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[0-6] The boy then swings his arms as the camera pans from right to left, showcasing individual photos of Lewandowski, Salah, Benzema, and Messi."
+    },
+    {
+        "second": 6,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/877bOBxSjTU/output_frames/sec_6_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[0-6] The boy then swings his arms as the camera pans from right to left, showcasing individual photos of Lewandowski, Salah, Benzema, and Messi."
+    },
+    {
+        "second": 7,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/877bOBxSjTU/output_frames/sec_7_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[6-10] The boy then starts dribbling the ball and runs towards the goal, kicking the ball at the picture of Messi. He scores a goal and jumps up in celebration."
+    },
+    {
+        "second": 8,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/877bOBxSjTU/output_frames/sec_8_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[6-10] The boy then starts dribbling the ball and runs towards the goal, kicking the ball at the picture of Messi. He scores a goal and jumps up in celebration."
+    },
+    {
+        "second": 9,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/877bOBxSjTU/output_frames/sec_9_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[6-10] The boy then starts dribbling the ball and runs towards the goal, kicking the ball at the picture of Messi. He scores a goal and jumps up in celebration."
+    },
+    {
+        "second": 10,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/877bOBxSjTU/output_frames/sec_10_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[6-10] The boy then starts dribbling the ball and runs towards the goal, kicking the ball at the picture of Messi. He scores a goal and jumps up in celebration."
+    }
+]

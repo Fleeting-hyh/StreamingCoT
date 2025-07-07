@@ -1,0 +1,51 @@
+[
+    {
+        "second": 0,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LLk5nUkPbuc/output_frames/sec_0_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A Teddy dog sits on the bed, looking at the TV screen, which displays a red line. The background shows white walls and curtains, along with a pot of green plants."
+    },
+    {
+        "second": 1,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LLk5nUkPbuc/output_frames/sec_1_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Then, the TV screen displays colorful vertical stripes, and the Teddy dog stares at the screen without blinking."
+    },
+    {
+        "second": 2,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LLk5nUkPbuc/output_frames/sec_2_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Then, the TV screen displays colorful vertical stripes, and the Teddy dog stares at the screen without blinking."
+    },
+    {
+        "second": 3,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LLk5nUkPbuc/output_frames/sec_3_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[2-6] Next, a large red ribbon suddenly blocks the Teddy dog's view. The Teddy dog bares its teeth and faces forward."
+    },
+    {
+        "second": 4,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LLk5nUkPbuc/output_frames/sec_4_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[2-6] Next, a large red ribbon suddenly blocks the Teddy dog's view. The Teddy dog bares its teeth and faces forward."
+    },
+    {
+        "second": 5,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LLk5nUkPbuc/output_frames/sec_5_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[2-6] Next, a large red ribbon suddenly blocks the Teddy dog's view. The Teddy dog bares its teeth and faces forward."
+    },
+    {
+        "second": 6,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LLk5nUkPbuc/output_frames/sec_6_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[2-6] Next, a large red ribbon suddenly blocks the Teddy dog's view. The Teddy dog bares its teeth and faces forward."
+    }
+]

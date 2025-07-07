@@ -1,0 +1,128 @@
+[
+    {
+        "second": 0,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UPggZth3Zkc/output_frames/sec_0_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[0-0] In a bright room, an Alaskan Malamute lies on the floor, and a young woman in a white camisole and denim shorts kneels beside it. They each have a row of pink treats laid out on the floor in front of them, with a plate of pink food at the very front. Some black furniture is visible in the background."
+    },
+    {
+        "second": 1,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UPggZth3Zkc/output_frames/sec_1_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Then, the woman starts talking about something, and the dog looks left and right."
+    },
+    {
+        "second": 2,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UPggZth3Zkc/output_frames/sec_2_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Then, the woman starts talking about something, and the dog looks left and right."
+    },
+    {
+        "second": 3,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UPggZth3Zkc/output_frames/sec_3_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Then, the woman starts talking about something, and the dog looks left and right."
+    },
+    {
+        "second": 4,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UPggZth3Zkc/output_frames/sec_4_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[3-8] Next, the dog stands up and starts to eat its row of treats while the woman lowers her head and begins eating the snacks on the floor too. The dog finishes its row of snacks first, while the woman continues eating."
+    },
+    {
+        "second": 5,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UPggZth3Zkc/output_frames/sec_5_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[3-8] Next, the dog stands up and starts to eat its row of treats while the woman lowers her head and begins eating the snacks on the floor too. The dog finishes its row of snacks first, while the woman continues eating."
+    },
+    {
+        "second": 6,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UPggZth3Zkc/output_frames/sec_6_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[3-8] Next, the dog stands up and starts to eat its row of treats while the woman lowers her head and begins eating the snacks on the floor too. The dog finishes its row of snacks first, while the woman continues eating."
+    },
+    {
+        "second": 7,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UPggZth3Zkc/output_frames/sec_7_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[3-8] Next, the dog stands up and starts to eat its row of treats while the woman lowers her head and begins eating the snacks on the floor too. The dog finishes its row of snacks first, while the woman continues eating."
+    },
+    {
+        "second": 8,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UPggZth3Zkc/output_frames/sec_8_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[3-8] Next, the dog stands up and starts to eat its row of treats while the woman lowers her head and begins eating the snacks on the floor too. The dog finishes its row of snacks first, while the woman continues eating."
+    },
+    {
+        "second": 9,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UPggZth3Zkc/output_frames/sec_9_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[8-12] Subsequently, the dog eats a few more pink treats from the woman's row as the woman continues eating."
+    },
+    {
+        "second": 10,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UPggZth3Zkc/output_frames/sec_10_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[8-12] Subsequently, the dog eats a few more pink treats from the woman's row as the woman continues eating."
+    },
+    {
+        "second": 11,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UPggZth3Zkc/output_frames/sec_11_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[8-12] Subsequently, the dog eats a few more pink treats from the woman's row as the woman continues eating."
+    },
+    {
+        "second": 12,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UPggZth3Zkc/output_frames/sec_12_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[8-12] Subsequently, the dog eats a few more pink treats from the woman's row as the woman continues eating."
+    },
+    {
+        "second": 13,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UPggZth3Zkc/output_frames/sec_13_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[12-17] Finally, the dog finishes the food on the plate. The woman also finishes her row of food and smiles happily."
+    },
+    {
+        "second": 14,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UPggZth3Zkc/output_frames/sec_14_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[12-17] Finally, the dog finishes the food on the plate. The woman also finishes her row of food and smiles happily."
+    },
+    {
+        "second": 15,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UPggZth3Zkc/output_frames/sec_15_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[12-17] Finally, the dog finishes the food on the plate. The woman also finishes her row of food and smiles happily."
+    },
+    {
+        "second": 16,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UPggZth3Zkc/output_frames/sec_16_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[12-17] Finally, the dog finishes the food on the plate. The woman also finishes her row of food and smiles happily."
+    },
+    {
+        "second": 17,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UPggZth3Zkc/output_frames/sec_17_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[12-17] Finally, the dog finishes the food on the plate. The woman also finishes her row of food and smiles happily."
+    }
+]

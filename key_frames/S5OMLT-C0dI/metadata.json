@@ -1,0 +1,184 @@
+[
+    {
+        "second": 0,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S5OMLT-C0dI/output_frames/sec_0_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A Minion is standing on the sidewalk, smiling, with a street, houses, green vegetation, and grass behind it."
+    },
+    {
+        "second": 1,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S5OMLT-C0dI/output_frames/sec_1_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[0-3] After that, it is still a static shot of the Minion standing."
+    },
+    {
+        "second": 2,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S5OMLT-C0dI/output_frames/sec_2_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-3] After that, it is still a static shot of the Minion standing."
+    },
+    {
+        "second": 3,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S5OMLT-C0dI/output_frames/sec_3_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[0-3] After that, it is still a static shot of the Minion standing."
+    },
+    {
+        "second": 4,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S5OMLT-C0dI/output_frames/sec_4_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[3-10] Then the Minion rides a red tricycle down the road, with lush trees and buildings on both sides."
+    },
+    {
+        "second": 5,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S5OMLT-C0dI/output_frames/sec_5_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[3-10] Then the Minion rides a red tricycle down the road, with lush trees and buildings on both sides."
+    },
+    {
+        "second": 6,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S5OMLT-C0dI/output_frames/sec_6_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[3-10] Then the Minion rides a red tricycle down the road, with lush trees and buildings on both sides."
+    },
+    {
+        "second": 7,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S5OMLT-C0dI/output_frames/sec_7_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[3-10] Then the Minion rides a red tricycle down the road, with lush trees and buildings on both sides."
+    },
+    {
+        "second": 8,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S5OMLT-C0dI/output_frames/sec_8_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[3-10] Then the Minion rides a red tricycle down the road, with lush trees and buildings on both sides."
+    },
+    {
+        "second": 9,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S5OMLT-C0dI/output_frames/sec_9_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[3-10] Then the Minion rides a red tricycle down the road, with lush trees and buildings on both sides."
+    },
+    {
+        "second": 10,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S5OMLT-C0dI/output_frames/sec_10_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[3-10] Then the Minion rides a red tricycle down the road, with lush trees and buildings on both sides."
+    },
+    {
+        "second": 11,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S5OMLT-C0dI/output_frames/sec_11_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[10-14] Then the Minion rides the tricycle into a forest, rushes out of the forest on the tricycle, comes to an open desert area, and continues to move forward quickly."
+    },
+    {
+        "second": 12,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S5OMLT-C0dI/output_frames/sec_12_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[10-14] Then the Minion rides the tricycle into a forest, rushes out of the forest on the tricycle, comes to an open desert area, and continues to move forward quickly."
+    },
+    {
+        "second": 13,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S5OMLT-C0dI/output_frames/sec_13_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[10-14] Then the Minion rides the tricycle into a forest, rushes out of the forest on the tricycle, comes to an open desert area, and continues to move forward quickly."
+    },
+    {
+        "second": 14,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S5OMLT-C0dI/output_frames/sec_14_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[10-14] Then the Minion rides the tricycle into a forest, rushes out of the forest on the tricycle, comes to an open desert area, and continues to move forward quickly."
+    },
+    {
+        "second": 15,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S5OMLT-C0dI/output_frames/sec_15_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[14-21] Then the Minion rides across a river and onto the green grass."
+    },
+    {
+        "second": 16,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S5OMLT-C0dI/output_frames/sec_16_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[14-21] Then the Minion rides across a river and onto the green grass."
+    },
+    {
+        "second": 17,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S5OMLT-C0dI/output_frames/sec_17_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[14-21] Then the Minion rides across a river and onto the green grass."
+    },
+    {
+        "second": 18,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S5OMLT-C0dI/output_frames/sec_18_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[14-21] Then the Minion rides across a river and onto the green grass."
+    },
+    {
+        "second": 19,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S5OMLT-C0dI/output_frames/sec_19_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[14-21] Then the Minion rides across a river and onto the green grass."
+    },
+    {
+        "second": 20,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S5OMLT-C0dI/output_frames/sec_20_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[14-21] Then the Minion rides across a river and onto the green grass."
+    },
+    {
+        "second": 21,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S5OMLT-C0dI/output_frames/sec_21_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[14-21] Then the Minion rides across a river and onto the green grass."
+    },
+    {
+        "second": 22,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S5OMLT-C0dI/output_frames/sec_22_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[21-25] Then the Minion rides the tricycle towards the desert, quickly overtaking a motorcycle ridden by an animated character wearing a white helmet and white rider's clothing. The Minion raises a cloud of dust on the desert while driving the tricycle."
+    },
+    {
+        "second": 23,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S5OMLT-C0dI/output_frames/sec_23_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[21-25] Then the Minion rides the tricycle towards the desert, quickly overtaking a motorcycle ridden by an animated character wearing a white helmet and white rider's clothing. The Minion raises a cloud of dust on the desert while driving the tricycle."
+    },
+    {
+        "second": 24,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S5OMLT-C0dI/output_frames/sec_24_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[21-25] Then the Minion rides the tricycle towards the desert, quickly overtaking a motorcycle ridden by an animated character wearing a white helmet and white rider's clothing. The Minion raises a cloud of dust on the desert while driving the tricycle."
+    },
+    {
+        "second": 25,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S5OMLT-C0dI/output_frames/sec_25_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[21-25] Then the Minion rides the tricycle towards the desert, quickly overtaking a motorcycle ridden by an animated character wearing a white helmet and white rider's clothing. The Minion raises a cloud of dust on the desert while driving the tricycle."
+    }
+]

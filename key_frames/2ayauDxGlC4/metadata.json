@@ -1,0 +1,37 @@
+[
+    {
+        "second": 0,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2ayauDxGlC4/output_frames/sec_0_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[0-0] In a workshop, a craftsman wearing glasses sits beside a pink cylinder with a cigarette in his mouth. He is wearing dark clothes and khaki shoes. Various metal tools and equipment are scattered on the floor."
+    },
+    {
+        "second": 1,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2ayauDxGlC4/output_frames/sec_1_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Next, a large metal funnel-shaped object slowly descends from the top of the screen. When the funnel-shaped object lowers onto the pink cylinder below, the craftsman removes a metal rod from the top of the funnel-shaped object. The weight of the funnel-shaped object falls entirely onto the cylinder, the robotic arm continues to press down, and the cylinder is deformed by the pressure."
+    },
+    {
+        "second": 2,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2ayauDxGlC4/output_frames/sec_2_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Next, a large metal funnel-shaped object slowly descends from the top of the screen. When the funnel-shaped object lowers onto the pink cylinder below, the craftsman removes a metal rod from the top of the funnel-shaped object. The weight of the funnel-shaped object falls entirely onto the cylinder, the robotic arm continues to press down, and the cylinder is deformed by the pressure."
+    },
+    {
+        "second": 3,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2ayauDxGlC4/output_frames/sec_3_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Next, a large metal funnel-shaped object slowly descends from the top of the screen. When the funnel-shaped object lowers onto the pink cylinder below, the craftsman removes a metal rod from the top of the funnel-shaped object. The weight of the funnel-shaped object falls entirely onto the cylinder, the robotic arm continues to press down, and the cylinder is deformed by the pressure."
+    },
+    {
+        "second": 4,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2ayauDxGlC4/output_frames/sec_4_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Next, a large metal funnel-shaped object slowly descends from the top of the screen. When the funnel-shaped object lowers onto the pink cylinder below, the craftsman removes a metal rod from the top of the funnel-shaped object. The weight of the funnel-shaped object falls entirely onto the cylinder, the robotic arm continues to press down, and the cylinder is deformed by the pressure."
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "second": 0,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1IcNg0Bn7v0/output_frames/sec_0_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-0] In a living room with a blue sofa, a yellow square character with brown hair and a mustache sits on the right side of the sofa. A smaller yellow square character sits on the left side of the sofa, they have large eyes and yellow arms and are looking forward. The walls of the room are blue and the floor is brown. There is a shelf on the wall with two books and other objects on it."
+    },
+    {
+        "second": 1,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1IcNg0Bn7v0/output_frames/sec_1_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Next, the yellow square character on the right raises their right hand and pats the head of the yellow square character on the left, blinking. The small yellow square character rolls its eyes and opens its mouth slightly."
+    },
+    {
+        "second": 2,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1IcNg0Bn7v0/output_frames/sec_2_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Next, the yellow square character on the right raises their right hand and pats the head of the yellow square character on the left, blinking. The small yellow square character rolls its eyes and opens its mouth slightly."
+    },
+    {
+        "second": 3,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1IcNg0Bn7v0/output_frames/sec_3_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Next, the yellow square character on the right raises their right hand and pats the head of the yellow square character on the left, blinking. The small yellow square character rolls its eyes and opens its mouth slightly."
+    },
+    {
+        "second": 4,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1IcNg0Bn7v0/output_frames/sec_4_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[3-6] Then the scene switches to a blue background with white radial lines. A yellow square character wearing a gray hat and holding purple shoes is chasing another terrified yellow square character with wide eyes and an open mouth."
+    },
+    {
+        "second": 5,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1IcNg0Bn7v0/output_frames/sec_5_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[3-6] Then the scene switches to a blue background with white radial lines. A yellow square character wearing a gray hat and holding purple shoes is chasing another terrified yellow square character with wide eyes and an open mouth."
+    }
+]

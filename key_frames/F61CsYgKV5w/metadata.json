@@ -1,0 +1,58 @@
+[
+    {
+        "second": 0,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/F61CsYgKV5w/output_frames/sec_0_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[0-0] On a road, there is a white outline of a duck walking. The road is flanked by weeds, a few large trees and a house. There is a sign on the side of the road that says \"Caution: Ducks Crossing.\" The white caption \"@seDUCKtive\" is at the top of the screen."
+    },
+    {
+        "second": 1,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/F61CsYgKV5w/output_frames/sec_1_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Next, a white duck runs out from the bottom of the screen onto the road, its movements aligning with the white outline. The scene switches to the duck running into a crowd of people participating in a marathon. There is a white outline in the middle of the screen, and the duck keeps running until it aligns with the outline."
+    },
+    {
+        "second": 2,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/F61CsYgKV5w/output_frames/sec_2_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Next, a white duck runs out from the bottom of the screen onto the road, its movements aligning with the white outline. The scene switches to the duck running into a crowd of people participating in a marathon. There is a white outline in the middle of the screen, and the duck keeps running until it aligns with the outline."
+    },
+    {
+        "second": 3,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/F61CsYgKV5w/output_frames/sec_3_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Next, a white duck runs out from the bottom of the screen onto the road, its movements aligning with the white outline. The scene switches to the duck running into a crowd of people participating in a marathon. There is a white outline in the middle of the screen, and the duck keeps running until it aligns with the outline."
+    },
+    {
+        "second": 4,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/F61CsYgKV5w/output_frames/sec_4_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[3-7] Subsequently, the scene changes to the duck running forward in a room with wooden floors. There is a white outline in front, and the duck keeps running until it aligns with it. Then the scene changes again. There is a white outline on the ground and a red door behind it. The duck runs out from the right side and aligns with the white outline."
+    },
+    {
+        "second": 5,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/F61CsYgKV5w/output_frames/sec_5_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[3-7] Subsequently, the scene changes to the duck running forward in a room with wooden floors. There is a white outline in front, and the duck keeps running until it aligns with it. Then the scene changes again. There is a white outline on the ground and a red door behind it. The duck runs out from the right side and aligns with the white outline."
+    },
+    {
+        "second": 6,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/F61CsYgKV5w/output_frames/sec_6_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[3-7] Subsequently, the scene changes to the duck running forward in a room with wooden floors. There is a white outline in front, and the duck keeps running until it aligns with it. Then the scene changes again. There is a white outline on the ground and a red door behind it. The duck runs out from the right side and aligns with the white outline."
+    },
+    {
+        "second": 7,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/F61CsYgKV5w/output_frames/sec_7_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[3-7] Subsequently, the scene changes to the duck running forward in a room with wooden floors. There is a white outline in front, and the duck keeps running until it aligns with it. Then the scene changes again. There is a white outline on the ground and a red door behind it. The duck runs out from the right side and aligns with the white outline."
+    }
+]

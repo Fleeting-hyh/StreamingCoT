@@ -1,0 +1,58 @@
+[
+    {
+        "second": 0,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/NXr8NpPLEq4/output_frames/sec_0_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A hand holds an ornament of a ship sailing in transparent resin waves. The background is a fish tank with a black fish, a pink fish, and an orange fish swimming inside. There is blue light illuminating the fish tank."
+    },
+    {
+        "second": 1,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/NXr8NpPLEq4/output_frames/sec_1_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[0-2] The hand shakes the ornament back and forth, causing the small boat inside to sway along with the movement."
+    },
+    {
+        "second": 2,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/NXr8NpPLEq4/output_frames/sec_2_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[0-2] The hand shakes the ornament back and forth, causing the small boat inside to sway along with the movement."
+    },
+    {
+        "second": 3,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/NXr8NpPLEq4/output_frames/sec_3_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[2-8] The scene switches to the same ornament on a car dashboard. The liquid and the boat inside the ornament are shaking as the car moves. Through the windshield, it can be seen that it is raining outside. There is a white car driving on the left side, and there are green trees and some parked cars on both sides of the street."
+    },
+    {
+        "second": 4,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/NXr8NpPLEq4/output_frames/sec_4_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[2-8] The scene switches to the same ornament on a car dashboard. The liquid and the boat inside the ornament are shaking as the car moves. Through the windshield, it can be seen that it is raining outside. There is a white car driving on the left side, and there are green trees and some parked cars on both sides of the street."
+    },
+    {
+        "second": 5,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/NXr8NpPLEq4/output_frames/sec_5_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[2-8] The scene switches to the same ornament on a car dashboard. The liquid and the boat inside the ornament are shaking as the car moves. Through the windshield, it can be seen that it is raining outside. There is a white car driving on the left side, and there are green trees and some parked cars on both sides of the street."
+    },
+    {
+        "second": 6,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/NXr8NpPLEq4/output_frames/sec_6_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[2-8] The scene switches to the same ornament on a car dashboard. The liquid and the boat inside the ornament are shaking as the car moves. Through the windshield, it can be seen that it is raining outside. There is a white car driving on the left side, and there are green trees and some parked cars on both sides of the street."
+    },
+    {
+        "second": 7,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/NXr8NpPLEq4/output_frames/sec_7_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[2-8] The scene switches to the same ornament on a car dashboard. The liquid and the boat inside the ornament are shaking as the car moves. Through the windshield, it can be seen that it is raining outside. There is a white car driving on the left side, and there are green trees and some parked cars on both sides of the street."
+    }
+]

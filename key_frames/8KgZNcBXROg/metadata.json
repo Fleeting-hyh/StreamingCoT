@@ -1,0 +1,114 @@
+[
+    {
+        "second": 0,
+        "frame_index": 56,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8KgZNcBXROg/output_frames/sec_0_idx_56.jpg",
+        "fps": 60,
+        "explanation": "[0-0] A Teddy dog lies in a light-colored round dog bed, sticking out its tongue and looking forward. The dog bed is inside a room with bookshelves full of books in the background."
+    },
+    {
+        "second": 1,
+        "frame_index": 58,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8KgZNcBXROg/output_frames/sec_1_idx_58.jpg",
+        "fps": 60,
+        "explanation": "[0-4] The Teddy dog bares its teeth, a hand holding a brown rectangular cardboard in front of its teeth for comparison. The scene cuts to a white desktop, where a hand draws two short lines on the brown cardboard with a pen, then takes the cardboard away, leaving only the white desktop."
+    },
+    {
+        "second": 2,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8KgZNcBXROg/output_frames/sec_2_idx_23.jpg",
+        "fps": 60,
+        "explanation": "[0-4] The Teddy dog bares its teeth, a hand holding a brown rectangular cardboard in front of its teeth for comparison. The scene cuts to a white desktop, where a hand draws two short lines on the brown cardboard with a pen, then takes the cardboard away, leaving only the white desktop."
+    },
+    {
+        "second": 3,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8KgZNcBXROg/output_frames/sec_3_idx_22.jpg",
+        "fps": 60,
+        "explanation": "[0-4] The Teddy dog bares its teeth, a hand holding a brown rectangular cardboard in front of its teeth for comparison. The scene cuts to a white desktop, where a hand draws two short lines on the brown cardboard with a pen, then takes the cardboard away, leaving only the white desktop."
+    },
+    {
+        "second": 4,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8KgZNcBXROg/output_frames/sec_4_idx_3.jpg",
+        "fps": 60,
+        "explanation": "[0-4] The Teddy dog bares its teeth, a hand holding a brown rectangular cardboard in front of its teeth for comparison. The scene cuts to a white desktop, where a hand draws two short lines on the brown cardboard with a pen, then takes the cardboard away, leaving only the white desktop."
+    },
+    {
+        "second": 5,
+        "frame_index": 59,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8KgZNcBXROg/output_frames/sec_5_idx_59.jpg",
+        "fps": 60,
+        "explanation": "[4-6] The scene then cuts to a hand holding a mobile phone, displaying a photo of the Teddy dog baring its teeth. The lines on the brown cardboard are compared with the teeth marks on the black screen of the phone."
+    },
+    {
+        "second": 6,
+        "frame_index": 31,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8KgZNcBXROg/output_frames/sec_6_idx_31.jpg",
+        "fps": 60,
+        "explanation": "[4-6] The scene then cuts to a hand holding a mobile phone, displaying a photo of the Teddy dog baring its teeth. The lines on the brown cardboard are compared with the teeth marks on the black screen of the phone."
+    },
+    {
+        "second": 7,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8KgZNcBXROg/output_frames/sec_7_idx_5.jpg",
+        "fps": 60,
+        "explanation": "[6-8] Subsequently, the scene shifts to a brown leather item, also with teeth marks, which are compared with the lines on the brown cardboard."
+    },
+    {
+        "second": 8,
+        "frame_index": 37,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8KgZNcBXROg/output_frames/sec_8_idx_37.jpg",
+        "fps": 60,
+        "explanation": "[6-8] Subsequently, the scene shifts to a brown leather item, also with teeth marks, which are compared with the lines on the brown cardboard."
+    },
+    {
+        "second": 9,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8KgZNcBXROg/output_frames/sec_9_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[8-10] It then switches to a wooden floor, where a hand holds a toothpaste tube with teeth marks on it, which are also compared with the lines on the brown cardboard."
+    },
+    {
+        "second": 10,
+        "frame_index": 39,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8KgZNcBXROg/output_frames/sec_10_idx_39.jpg",
+        "fps": 60,
+        "explanation": "[8-10] It then switches to a wooden floor, where a hand holds a toothpaste tube with teeth marks on it, which are also compared with the lines on the brown cardboard."
+    },
+    {
+        "second": 11,
+        "frame_index": 53,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8KgZNcBXROg/output_frames/sec_11_idx_53.jpg",
+        "fps": 60,
+        "explanation": "[10-13] The scene then returns to the Teddy dog, lying in the light-colored round dog bed on a gray sofa, with white curtains on the left, white tiles on the floor, and a yellow cushion in the upper right corner. White subtitles appear on the screen, saying \"SUSPECT,\" followed by a red warning sign emoji."
+    },
+    {
+        "second": 12,
+        "frame_index": 40,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8KgZNcBXROg/output_frames/sec_12_idx_40.jpg",
+        "fps": 60,
+        "explanation": "[10-13] The scene then returns to the Teddy dog, lying in the light-colored round dog bed on a gray sofa, with white curtains on the left, white tiles on the floor, and a yellow cushion in the upper right corner. White subtitles appear on the screen, saying \"SUSPECT,\" followed by a red warning sign emoji."
+    },
+    {
+        "second": 13,
+        "frame_index": 44,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8KgZNcBXROg/output_frames/sec_13_idx_44.jpg",
+        "fps": 60,
+        "explanation": "[10-13] The scene then returns to the Teddy dog, lying in the light-colored round dog bed on a gray sofa, with white curtains on the left, white tiles on the floor, and a yellow cushion in the upper right corner. White subtitles appear on the screen, saying \"SUSPECT,\" followed by a red warning sign emoji."
+    },
+    {
+        "second": 14,
+        "frame_index": 47,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8KgZNcBXROg/output_frames/sec_14_idx_47.jpg",
+        "fps": 60,
+        "explanation": "[13-15] Finally, the camera zooms in on the Teddy dog sticking out its tongue, baring its teeth, and facing right."
+    },
+    {
+        "second": 15,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8KgZNcBXROg/output_frames/sec_15_idx_2.jpg",
+        "fps": 60,
+        "explanation": "[13-15] Finally, the camera zooms in on the Teddy dog sticking out its tongue, baring its teeth, and facing right."
+    }
+]

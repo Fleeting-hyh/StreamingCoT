@@ -1,0 +1,65 @@
+[
+    {
+        "second": 0,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4FaA_L79GPQ/output_frames/sec_0_idx_2.jpg",
+        "fps": 60,
+        "explanation": "[0-0] Inside a car with a black interior, a woman in a black coat is sitting in the driver's seat, holding the steering wheel, her hair draped over her shoulders. Another woman in a gray top is sitting in the passenger seat, and there is a person wearing gray pants sitting in the back seat."
+    },
+    {
+        "second": 1,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4FaA_L79GPQ/output_frames/sec_1_idx_18.jpg",
+        "fps": 60,
+        "explanation": "[0-5] First, the woman in the driver's seat quickly turns the steering wheel to the right with both hands, and then quickly turns it to the left with both hands. The woman in the gray top puts one hand on the roof of the car."
+    },
+    {
+        "second": 2,
+        "frame_index": 59,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4FaA_L79GPQ/output_frames/sec_2_idx_59.jpg",
+        "fps": 60,
+        "explanation": "[0-5] First, the woman in the driver's seat quickly turns the steering wheel to the right with both hands, and then quickly turns it to the left with both hands. The woman in the gray top puts one hand on the roof of the car."
+    },
+    {
+        "second": 3,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4FaA_L79GPQ/output_frames/sec_3_idx_20.jpg",
+        "fps": 60,
+        "explanation": "[0-5] First, the woman in the driver's seat quickly turns the steering wheel to the right with both hands, and then quickly turns it to the left with both hands. The woman in the gray top puts one hand on the roof of the car."
+    },
+    {
+        "second": 4,
+        "frame_index": 47,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4FaA_L79GPQ/output_frames/sec_4_idx_47.jpg",
+        "fps": 60,
+        "explanation": "[0-5] First, the woman in the driver's seat quickly turns the steering wheel to the right with both hands, and then quickly turns it to the left with both hands. The woman in the gray top puts one hand on the roof of the car."
+    },
+    {
+        "second": 5,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4FaA_L79GPQ/output_frames/sec_5_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[0-5] First, the woman in the driver's seat quickly turns the steering wheel to the right with both hands, and then quickly turns it to the left with both hands. The woman in the gray top puts one hand on the roof of the car."
+    },
+    {
+        "second": 6,
+        "frame_index": 59,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4FaA_L79GPQ/output_frames/sec_6_idx_59.jpg",
+        "fps": 60,
+        "explanation": "[5-8] Finally, the scene switches to the outside of the car. A red car is driving on an empty ground. The picture freezes on the rear of the red car in the distance, and a few more cars are driving on the dirt road in the distance."
+    },
+    {
+        "second": 7,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4FaA_L79GPQ/output_frames/sec_7_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[5-8] Finally, the scene switches to the outside of the car. A red car is driving on an empty ground. The picture freezes on the rear of the red car in the distance, and a few more cars are driving on the dirt road in the distance."
+    },
+    {
+        "second": 8,
+        "frame_index": 32,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4FaA_L79GPQ/output_frames/sec_8_idx_32.jpg",
+        "fps": 60,
+        "explanation": "[5-8] Finally, the scene switches to the outside of the car. A red car is driving on an empty ground. The picture freezes on the rear of the red car in the distance, and a few more cars are driving on the dirt road in the distance."
+    }
+]

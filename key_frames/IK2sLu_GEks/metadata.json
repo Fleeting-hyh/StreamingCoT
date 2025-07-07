@@ -1,0 +1,282 @@
+[
+    {
+        "second": 0,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IK2sLu_GEks/output_frames/sec_0_idx_7.jpg",
+        "fps": 60,
+        "explanation": "[0-0] On a blue track, a Minion is stepping on some green blocks with each foot. The track has many green blocks, gold coins, and red blocks. In the distance, there is a rainbow ramp. The current level and the number of gold coins the Minion has are displayed at the top of the screen."
+    },
+    {
+        "second": 1,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IK2sLu_GEks/output_frames/sec_1_idx_4.jpg",
+        "fps": 60,
+        "explanation": "[0-4] The Minion keeps moving its legs to step on all the green blocks on the ground and then comes to the gold coins and closes its legs to collect all the gold coins."
+    },
+    {
+        "second": 2,
+        "frame_index": 37,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IK2sLu_GEks/output_frames/sec_2_idx_37.jpg",
+        "fps": 60,
+        "explanation": "[0-4] The Minion keeps moving its legs to step on all the green blocks on the ground and then comes to the gold coins and closes its legs to collect all the gold coins."
+    },
+    {
+        "second": 3,
+        "frame_index": 59,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IK2sLu_GEks/output_frames/sec_3_idx_59.jpg",
+        "fps": 60,
+        "explanation": "[0-4] The Minion keeps moving its legs to step on all the green blocks on the ground and then comes to the gold coins and closes its legs to collect all the gold coins."
+    },
+    {
+        "second": 4,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IK2sLu_GEks/output_frames/sec_4_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[0-4] The Minion keeps moving its legs to step on all the green blocks on the ground and then comes to the gold coins and closes its legs to collect all the gold coins."
+    },
+    {
+        "second": 5,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IK2sLu_GEks/output_frames/sec_5_idx_5.jpg",
+        "fps": 60,
+        "explanation": "[4-13] The Minion keeps moving forward, its right leg gets longer because it collects more green blocks, the Minion can only stretch its left leg far away to avoid falling off. Two pools with red liquid appear on the track ahead, and the Minion can only bring its legs together and make a prone position on its legs to move forward. The red blocks on the middle road reduce the green blocks under the Minion's feet. Just as the Minion keeps its balance, many green blocks appear on the road again, making the Minion make a more difficult move. Fortunately, the red bricks that appear next prevent the Minion from falling down. The Minion continues to move forward, and a red step appears ahead."
+    },
+    {
+        "second": 6,
+        "frame_index": 59,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IK2sLu_GEks/output_frames/sec_6_idx_59.jpg",
+        "fps": 60,
+        "explanation": "[4-13] The Minion keeps moving forward, its right leg gets longer because it collects more green blocks, the Minion can only stretch its left leg far away to avoid falling off. Two pools with red liquid appear on the track ahead, and the Minion can only bring its legs together and make a prone position on its legs to move forward. The red blocks on the middle road reduce the green blocks under the Minion's feet. Just as the Minion keeps its balance, many green blocks appear on the road again, making the Minion make a more difficult move. Fortunately, the red bricks that appear next prevent the Minion from falling down. The Minion continues to move forward, and a red step appears ahead."
+    },
+    {
+        "second": 7,
+        "frame_index": 37,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IK2sLu_GEks/output_frames/sec_7_idx_37.jpg",
+        "fps": 60,
+        "explanation": "[4-13] The Minion keeps moving forward, its right leg gets longer because it collects more green blocks, the Minion can only stretch its left leg far away to avoid falling off. Two pools with red liquid appear on the track ahead, and the Minion can only bring its legs together and make a prone position on its legs to move forward. The red blocks on the middle road reduce the green blocks under the Minion's feet. Just as the Minion keeps its balance, many green blocks appear on the road again, making the Minion make a more difficult move. Fortunately, the red bricks that appear next prevent the Minion from falling down. The Minion continues to move forward, and a red step appears ahead."
+    },
+    {
+        "second": 8,
+        "frame_index": 38,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IK2sLu_GEks/output_frames/sec_8_idx_38.jpg",
+        "fps": 60,
+        "explanation": "[4-13] The Minion keeps moving forward, its right leg gets longer because it collects more green blocks, the Minion can only stretch its left leg far away to avoid falling off. Two pools with red liquid appear on the track ahead, and the Minion can only bring its legs together and make a prone position on its legs to move forward. The red blocks on the middle road reduce the green blocks under the Minion's feet. Just as the Minion keeps its balance, many green blocks appear on the road again, making the Minion make a more difficult move. Fortunately, the red bricks that appear next prevent the Minion from falling down. The Minion continues to move forward, and a red step appears ahead."
+    },
+    {
+        "second": 9,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IK2sLu_GEks/output_frames/sec_9_idx_25.jpg",
+        "fps": 60,
+        "explanation": "[4-13] The Minion keeps moving forward, its right leg gets longer because it collects more green blocks, the Minion can only stretch its left leg far away to avoid falling off. Two pools with red liquid appear on the track ahead, and the Minion can only bring its legs together and make a prone position on its legs to move forward. The red blocks on the middle road reduce the green blocks under the Minion's feet. Just as the Minion keeps its balance, many green blocks appear on the road again, making the Minion make a more difficult move. Fortunately, the red bricks that appear next prevent the Minion from falling down. The Minion continues to move forward, and a red step appears ahead."
+    },
+    {
+        "second": 10,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IK2sLu_GEks/output_frames/sec_10_idx_12.jpg",
+        "fps": 60,
+        "explanation": "[4-13] The Minion keeps moving forward, its right leg gets longer because it collects more green blocks, the Minion can only stretch its left leg far away to avoid falling off. Two pools with red liquid appear on the track ahead, and the Minion can only bring its legs together and make a prone position on its legs to move forward. The red blocks on the middle road reduce the green blocks under the Minion's feet. Just as the Minion keeps its balance, many green blocks appear on the road again, making the Minion make a more difficult move. Fortunately, the red bricks that appear next prevent the Minion from falling down. The Minion continues to move forward, and a red step appears ahead."
+    },
+    {
+        "second": 11,
+        "frame_index": 59,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IK2sLu_GEks/output_frames/sec_11_idx_59.jpg",
+        "fps": 60,
+        "explanation": "[4-13] The Minion keeps moving forward, its right leg gets longer because it collects more green blocks, the Minion can only stretch its left leg far away to avoid falling off. Two pools with red liquid appear on the track ahead, and the Minion can only bring its legs together and make a prone position on its legs to move forward. The red blocks on the middle road reduce the green blocks under the Minion's feet. Just as the Minion keeps its balance, many green blocks appear on the road again, making the Minion make a more difficult move. Fortunately, the red bricks that appear next prevent the Minion from falling down. The Minion continues to move forward, and a red step appears ahead."
+    },
+    {
+        "second": 12,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IK2sLu_GEks/output_frames/sec_12_idx_1.jpg",
+        "fps": 60,
+        "explanation": "[4-13] The Minion keeps moving forward, its right leg gets longer because it collects more green blocks, the Minion can only stretch its left leg far away to avoid falling off. Two pools with red liquid appear on the track ahead, and the Minion can only bring its legs together and make a prone position on its legs to move forward. The red blocks on the middle road reduce the green blocks under the Minion's feet. Just as the Minion keeps its balance, many green blocks appear on the road again, making the Minion make a more difficult move. Fortunately, the red bricks that appear next prevent the Minion from falling down. The Minion continues to move forward, and a red step appears ahead."
+    },
+    {
+        "second": 13,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IK2sLu_GEks/output_frames/sec_13_idx_5.jpg",
+        "fps": 60,
+        "explanation": "[4-13] The Minion keeps moving forward, its right leg gets longer because it collects more green blocks, the Minion can only stretch its left leg far away to avoid falling off. Two pools with red liquid appear on the track ahead, and the Minion can only bring its legs together and make a prone position on its legs to move forward. The red blocks on the middle road reduce the green blocks under the Minion's feet. Just as the Minion keeps its balance, many green blocks appear on the road again, making the Minion make a more difficult move. Fortunately, the red bricks that appear next prevent the Minion from falling down. The Minion continues to move forward, and a red step appears ahead."
+    },
+    {
+        "second": 14,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IK2sLu_GEks/output_frames/sec_14_idx_11.jpg",
+        "fps": 60,
+        "explanation": "[13-22] There are many green blocks in front of the red steps. The Minion's right foot is raised very high because of the increase of green blocks. Then the Minion goes down from the steps. Behind the steps are two pools filled with red liquid. The Minion can only close its two legs again. The Minion leans on its left leg, its right leg is raised very high and continues to move forward. After passing through, some green blocks appear on the left side of the road, and the Minion collects these blocks, and the blocks under the two legs are finally about the same height."
+    },
+    {
+        "second": 15,
+        "frame_index": 58,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IK2sLu_GEks/output_frames/sec_15_idx_58.jpg",
+        "fps": 60,
+        "explanation": "[13-22] There are many green blocks in front of the red steps. The Minion's right foot is raised very high because of the increase of green blocks. Then the Minion goes down from the steps. Behind the steps are two pools filled with red liquid. The Minion can only close its two legs again. The Minion leans on its left leg, its right leg is raised very high and continues to move forward. After passing through, some green blocks appear on the left side of the road, and the Minion collects these blocks, and the blocks under the two legs are finally about the same height."
+    },
+    {
+        "second": 16,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IK2sLu_GEks/output_frames/sec_16_idx_14.jpg",
+        "fps": 60,
+        "explanation": "[13-22] There are many green blocks in front of the red steps. The Minion's right foot is raised very high because of the increase of green blocks. Then the Minion goes down from the steps. Behind the steps are two pools filled with red liquid. The Minion can only close its two legs again. The Minion leans on its left leg, its right leg is raised very high and continues to move forward. After passing through, some green blocks appear on the left side of the road, and the Minion collects these blocks, and the blocks under the two legs are finally about the same height."
+    },
+    {
+        "second": 17,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IK2sLu_GEks/output_frames/sec_17_idx_28.jpg",
+        "fps": 60,
+        "explanation": "[13-22] There are many green blocks in front of the red steps. The Minion's right foot is raised very high because of the increase of green blocks. Then the Minion goes down from the steps. Behind the steps are two pools filled with red liquid. The Minion can only close its two legs again. The Minion leans on its left leg, its right leg is raised very high and continues to move forward. After passing through, some green blocks appear on the left side of the road, and the Minion collects these blocks, and the blocks under the two legs are finally about the same height."
+    },
+    {
+        "second": 18,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IK2sLu_GEks/output_frames/sec_18_idx_20.jpg",
+        "fps": 60,
+        "explanation": "[13-22] There are many green blocks in front of the red steps. The Minion's right foot is raised very high because of the increase of green blocks. Then the Minion goes down from the steps. Behind the steps are two pools filled with red liquid. The Minion can only close its two legs again. The Minion leans on its left leg, its right leg is raised very high and continues to move forward. After passing through, some green blocks appear on the left side of the road, and the Minion collects these blocks, and the blocks under the two legs are finally about the same height."
+    },
+    {
+        "second": 19,
+        "frame_index": 37,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IK2sLu_GEks/output_frames/sec_19_idx_37.jpg",
+        "fps": 60,
+        "explanation": "[13-22] There are many green blocks in front of the red steps. The Minion's right foot is raised very high because of the increase of green blocks. Then the Minion goes down from the steps. Behind the steps are two pools filled with red liquid. The Minion can only close its two legs again. The Minion leans on its left leg, its right leg is raised very high and continues to move forward. After passing through, some green blocks appear on the left side of the road, and the Minion collects these blocks, and the blocks under the two legs are finally about the same height."
+    },
+    {
+        "second": 20,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IK2sLu_GEks/output_frames/sec_20_idx_6.jpg",
+        "fps": 60,
+        "explanation": "[13-22] There are many green blocks in front of the red steps. The Minion's right foot is raised very high because of the increase of green blocks. Then the Minion goes down from the steps. Behind the steps are two pools filled with red liquid. The Minion can only close its two legs again. The Minion leans on its left leg, its right leg is raised very high and continues to move forward. After passing through, some green blocks appear on the left side of the road, and the Minion collects these blocks, and the blocks under the two legs are finally about the same height."
+    },
+    {
+        "second": 21,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IK2sLu_GEks/output_frames/sec_21_idx_19.jpg",
+        "fps": 60,
+        "explanation": "[13-22] There are many green blocks in front of the red steps. The Minion's right foot is raised very high because of the increase of green blocks. Then the Minion goes down from the steps. Behind the steps are two pools filled with red liquid. The Minion can only close its two legs again. The Minion leans on its left leg, its right leg is raised very high and continues to move forward. After passing through, some green blocks appear on the left side of the road, and the Minion collects these blocks, and the blocks under the two legs are finally about the same height."
+    },
+    {
+        "second": 22,
+        "frame_index": 56,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IK2sLu_GEks/output_frames/sec_22_idx_56.jpg",
+        "fps": 60,
+        "explanation": "[13-22] There are many green blocks in front of the red steps. The Minion's right foot is raised very high because of the increase of green blocks. Then the Minion goes down from the steps. Behind the steps are two pools filled with red liquid. The Minion can only close its two legs again. The Minion leans on its left leg, its right leg is raised very high and continues to move forward. After passing through, some green blocks appear on the left side of the road, and the Minion collects these blocks, and the blocks under the two legs are finally about the same height."
+    },
+    {
+        "second": 23,
+        "frame_index": 39,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IK2sLu_GEks/output_frames/sec_23_idx_39.jpg",
+        "fps": 60,
+        "explanation": "[22-28] Then the Minion smoothly passes through a piece of red bricks, and two gold coins appear on the red bricks in front. The Minion's left foot collects the gold coins and the balance is broken again. The Minion can only continue to keep the posture with one side high and come to the front of the finish line."
+    },
+    {
+        "second": 24,
+        "frame_index": 43,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IK2sLu_GEks/output_frames/sec_24_idx_43.jpg",
+        "fps": 60,
+        "explanation": "[22-28] Then the Minion smoothly passes through a piece of red bricks, and two gold coins appear on the red bricks in front. The Minion's left foot collects the gold coins and the balance is broken again. The Minion can only continue to keep the posture with one side high and come to the front of the finish line."
+    },
+    {
+        "second": 25,
+        "frame_index": 42,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IK2sLu_GEks/output_frames/sec_25_idx_42.jpg",
+        "fps": 60,
+        "explanation": "[22-28] Then the Minion smoothly passes through a piece of red bricks, and two gold coins appear on the red bricks in front. The Minion's left foot collects the gold coins and the balance is broken again. The Minion can only continue to keep the posture with one side high and come to the front of the finish line."
+    },
+    {
+        "second": 26,
+        "frame_index": 31,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IK2sLu_GEks/output_frames/sec_26_idx_31.jpg",
+        "fps": 60,
+        "explanation": "[22-28] Then the Minion smoothly passes through a piece of red bricks, and two gold coins appear on the red bricks in front. The Minion's left foot collects the gold coins and the balance is broken again. The Minion can only continue to keep the posture with one side high and come to the front of the finish line."
+    },
+    {
+        "second": 27,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IK2sLu_GEks/output_frames/sec_27_idx_28.jpg",
+        "fps": 60,
+        "explanation": "[22-28] Then the Minion smoothly passes through a piece of red bricks, and two gold coins appear on the red bricks in front. The Minion's left foot collects the gold coins and the balance is broken again. The Minion can only continue to keep the posture with one side high and come to the front of the finish line."
+    },
+    {
+        "second": 28,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IK2sLu_GEks/output_frames/sec_28_idx_29.jpg",
+        "fps": 60,
+        "explanation": "[22-28] Then the Minion smoothly passes through a piece of red bricks, and two gold coins appear on the red bricks in front. The Minion's left foot collects the gold coins and the balance is broken again. The Minion can only continue to keep the posture with one side high and come to the front of the finish line."
+    },
+    {
+        "second": 29,
+        "frame_index": 32,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IK2sLu_GEks/output_frames/sec_29_idx_32.jpg",
+        "fps": 60,
+        "explanation": "[28-35] The Minion crosses the finish line and enters the rainbow ramp above. Different numbers appear on different colors to represent different multiples. As the Minion passes through these areas, the blocks under its feet decrease."
+    },
+    {
+        "second": 30,
+        "frame_index": 40,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IK2sLu_GEks/output_frames/sec_30_idx_40.jpg",
+        "fps": 60,
+        "explanation": "[28-35] The Minion crosses the finish line and enters the rainbow ramp above. Different numbers appear on different colors to represent different multiples. As the Minion passes through these areas, the blocks under its feet decrease."
+    },
+    {
+        "second": 31,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IK2sLu_GEks/output_frames/sec_31_idx_1.jpg",
+        "fps": 60,
+        "explanation": "[28-35] The Minion crosses the finish line and enters the rainbow ramp above. Different numbers appear on different colors to represent different multiples. As the Minion passes through these areas, the blocks under its feet decrease."
+    },
+    {
+        "second": 32,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IK2sLu_GEks/output_frames/sec_32_idx_2.jpg",
+        "fps": 60,
+        "explanation": "[28-35] The Minion crosses the finish line and enters the rainbow ramp above. Different numbers appear on different colors to represent different multiples. As the Minion passes through these areas, the blocks under its feet decrease."
+    },
+    {
+        "second": 33,
+        "frame_index": 58,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IK2sLu_GEks/output_frames/sec_33_idx_58.jpg",
+        "fps": 60,
+        "explanation": "[28-35] The Minion crosses the finish line and enters the rainbow ramp above. Different numbers appear on different colors to represent different multiples. As the Minion passes through these areas, the blocks under its feet decrease."
+    },
+    {
+        "second": 34,
+        "frame_index": 52,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IK2sLu_GEks/output_frames/sec_34_idx_52.jpg",
+        "fps": 60,
+        "explanation": "[28-35] The Minion crosses the finish line and enters the rainbow ramp above. Different numbers appear on different colors to represent different multiples. As the Minion passes through these areas, the blocks under its feet decrease."
+    },
+    {
+        "second": 35,
+        "frame_index": 49,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IK2sLu_GEks/output_frames/sec_35_idx_49.jpg",
+        "fps": 60,
+        "explanation": "[28-35] The Minion crosses the finish line and enters the rainbow ramp above. Different numbers appear on different colors to represent different multiples. As the Minion passes through these areas, the blocks under its feet decrease."
+    },
+    {
+        "second": 36,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IK2sLu_GEks/output_frames/sec_36_idx_10.jpg",
+        "fps": 60,
+        "explanation": "[35-39] Finally, some gold coins appear in front of the Minion. The Minion swings its legs and keeps collecting the gold coins in front of it. The number of gold coins in the upper right corner also keeps increasing. After the Minion passes through the gold coins, it can't keep its posture and falls from above. The screen shows the Minion passed the level and got 51 gold coins."
+    },
+    {
+        "second": 37,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IK2sLu_GEks/output_frames/sec_37_idx_19.jpg",
+        "fps": 60,
+        "explanation": "[35-39] Finally, some gold coins appear in front of the Minion. The Minion swings its legs and keeps collecting the gold coins in front of it. The number of gold coins in the upper right corner also keeps increasing. After the Minion passes through the gold coins, it can't keep its posture and falls from above. The screen shows the Minion passed the level and got 51 gold coins."
+    },
+    {
+        "second": 38,
+        "frame_index": 42,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IK2sLu_GEks/output_frames/sec_38_idx_42.jpg",
+        "fps": 60,
+        "explanation": "[35-39] Finally, some gold coins appear in front of the Minion. The Minion swings its legs and keeps collecting the gold coins in front of it. The number of gold coins in the upper right corner also keeps increasing. After the Minion passes through the gold coins, it can't keep its posture and falls from above. The screen shows the Minion passed the level and got 51 gold coins."
+    },
+    {
+        "second": 39,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IK2sLu_GEks/output_frames/sec_39_idx_8.jpg",
+        "fps": 60,
+        "explanation": "[35-39] Finally, some gold coins appear in front of the Minion. The Minion swings its legs and keeps collecting the gold coins in front of it. The number of gold coins in the upper right corner also keeps increasing. After the Minion passes through the gold coins, it can't keep its posture and falls from above. The screen shows the Minion passed the level and got 51 gold coins."
+    }
+]

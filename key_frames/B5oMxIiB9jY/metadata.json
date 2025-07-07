@@ -1,0 +1,86 @@
+[
+    {
+        "second": 0,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/B5oMxIiB9jY/output_frames/sec_0_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A man with short black hair, wearing a black top and black pants, and a safety harness is standing on a glass platform at the top of a stadium. The stadium has many seats and a green lawn, with white clouds floating in the sky. A woman with blonde hair, wearing black clothes, is standing next to him."
+    },
+    {
+        "second": 1,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/B5oMxIiB9jY/output_frames/sec_1_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[0-2] The black-haired man then bends down and places a soccer ball on the edge of the glass with both hands. The perspective then switches to the first person, showing the man holding the yellow soccer ball with a blue pattern in his left hand."
+    },
+    {
+        "second": 2,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/B5oMxIiB9jY/output_frames/sec_2_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[0-2] The black-haired man then bends down and places a soccer ball on the edge of the glass with both hands. The perspective then switches to the first person, showing the man holding the yellow soccer ball with a blue pattern in his left hand."
+    },
+    {
+        "second": 3,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/B5oMxIiB9jY/output_frames/sec_3_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[2-8] The man then kicks the soccer ball. The camera follows the falling ball as it bounces once on the ground and successfully enters the net."
+    },
+    {
+        "second": 4,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/B5oMxIiB9jY/output_frames/sec_4_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[2-8] The man then kicks the soccer ball. The camera follows the falling ball as it bounces once on the ground and successfully enters the net."
+    },
+    {
+        "second": 5,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/B5oMxIiB9jY/output_frames/sec_5_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[2-8] The man then kicks the soccer ball. The camera follows the falling ball as it bounces once on the ground and successfully enters the net."
+    },
+    {
+        "second": 6,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/B5oMxIiB9jY/output_frames/sec_6_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[2-8] The man then kicks the soccer ball. The camera follows the falling ball as it bounces once on the ground and successfully enters the net."
+    },
+    {
+        "second": 7,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/B5oMxIiB9jY/output_frames/sec_7_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[2-8] The man then kicks the soccer ball. The camera follows the falling ball as it bounces once on the ground and successfully enters the net."
+    },
+    {
+        "second": 8,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/B5oMxIiB9jY/output_frames/sec_8_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[2-8] The man then kicks the soccer ball. The camera follows the falling ball as it bounces once on the ground and successfully enters the net."
+    },
+    {
+        "second": 9,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/B5oMxIiB9jY/output_frames/sec_9_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[8-11] Immediately, a man wearing a black hat smiles and raises his arms in shouting. He is wearing a black top with white and green letters. Next to him stands a man wearing a blue mask and a beige top. Finally, the man in the black hat puts his arms in front of his chest and makes a fist."
+    },
+    {
+        "second": 10,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/B5oMxIiB9jY/output_frames/sec_10_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[8-11] Immediately, a man wearing a black hat smiles and raises his arms in shouting. He is wearing a black top with white and green letters. Next to him stands a man wearing a blue mask and a beige top. Finally, the man in the black hat puts his arms in front of his chest and makes a fist."
+    },
+    {
+        "second": 11,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/B5oMxIiB9jY/output_frames/sec_11_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[8-11] Immediately, a man wearing a black hat smiles and raises his arms in shouting. He is wearing a black top with white and green letters. Next to him stands a man wearing a blue mask and a beige top. Finally, the man in the black hat puts his arms in front of his chest and makes a fist."
+    }
+]

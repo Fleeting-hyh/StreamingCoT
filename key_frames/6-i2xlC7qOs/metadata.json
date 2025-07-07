@@ -1,0 +1,58 @@
+[
+    {
+        "second": 0,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6-i2xlC7qOs/output_frames/sec_0_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A lion is standing on the edge of a road with a white car on it. There is yellowing grassland beside the road and trees in the distance."
+    },
+    {
+        "second": 1,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6-i2xlC7qOs/output_frames/sec_1_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[0-7] The lion takes a step towards the car, opening its mouth to reveal its teeth. Through the driver's side window, a person can be seen sitting inside. The lion roars at the car, and the person inside looks scared. The lion continues to roar at the car, and the person puts their hands on the steering wheel and turns on the car's headlights."
+    },
+    {
+        "second": 2,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6-i2xlC7qOs/output_frames/sec_2_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[0-7] The lion takes a step towards the car, opening its mouth to reveal its teeth. Through the driver's side window, a person can be seen sitting inside. The lion roars at the car, and the person inside looks scared. The lion continues to roar at the car, and the person puts their hands on the steering wheel and turns on the car's headlights."
+    },
+    {
+        "second": 3,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6-i2xlC7qOs/output_frames/sec_3_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-7] The lion takes a step towards the car, opening its mouth to reveal its teeth. Through the driver's side window, a person can be seen sitting inside. The lion roars at the car, and the person inside looks scared. The lion continues to roar at the car, and the person puts their hands on the steering wheel and turns on the car's headlights."
+    },
+    {
+        "second": 4,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6-i2xlC7qOs/output_frames/sec_4_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[0-7] The lion takes a step towards the car, opening its mouth to reveal its teeth. Through the driver's side window, a person can be seen sitting inside. The lion roars at the car, and the person inside looks scared. The lion continues to roar at the car, and the person puts their hands on the steering wheel and turns on the car's headlights."
+    },
+    {
+        "second": 5,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6-i2xlC7qOs/output_frames/sec_5_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[0-7] The lion takes a step towards the car, opening its mouth to reveal its teeth. Through the driver's side window, a person can be seen sitting inside. The lion roars at the car, and the person inside looks scared. The lion continues to roar at the car, and the person puts their hands on the steering wheel and turns on the car's headlights."
+    },
+    {
+        "second": 6,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6-i2xlC7qOs/output_frames/sec_6_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[0-7] The lion takes a step towards the car, opening its mouth to reveal its teeth. Through the driver's side window, a person can be seen sitting inside. The lion roars at the car, and the person inside looks scared. The lion continues to roar at the car, and the person puts their hands on the steering wheel and turns on the car's headlights."
+    },
+    {
+        "second": 7,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6-i2xlC7qOs/output_frames/sec_7_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[0-7] The lion takes a step towards the car, opening its mouth to reveal its teeth. Through the driver's side window, a person can be seen sitting inside. The lion roars at the car, and the person inside looks scared. The lion continues to roar at the car, and the person puts their hands on the steering wheel and turns on the car's headlights."
+    }
+]

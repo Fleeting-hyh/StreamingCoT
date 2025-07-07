@@ -1,0 +1,65 @@
+[
+    {
+        "second": 0,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IneaCUqPE1M/output_frames/sec_0_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A man in a red hoodie is standing in the center of the stage, holding a microphone in his hand, with purple lights in the background. The white caption \"Hip hop in 2024\" is written at the top of the screen."
+    },
+    {
+        "second": 1,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IneaCUqPE1M/output_frames/sec_1_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Then the man raises one hand, switches the microphone to the other hand, raises the other hand, and dances to the music."
+    },
+    {
+        "second": 2,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IneaCUqPE1M/output_frames/sec_2_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Then the man raises one hand, switches the microphone to the other hand, raises the other hand, and dances to the music."
+    },
+    {
+        "second": 3,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IneaCUqPE1M/output_frames/sec_3_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Then the man raises one hand, switches the microphone to the other hand, raises the other hand, and dances to the music."
+    },
+    {
+        "second": 4,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IneaCUqPE1M/output_frames/sec_4_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Then the man raises one hand, switches the microphone to the other hand, raises the other hand, and dances to the music."
+    },
+    {
+        "second": 5,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IneaCUqPE1M/output_frames/sec_5_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Then the man raises one hand, switches the microphone to the other hand, raises the other hand, and dances to the music."
+    },
+    {
+        "second": 6,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IneaCUqPE1M/output_frames/sec_6_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[5-8] Then the scene switches to a music festival. A young man in a camouflage T-shirt and a hat is standing in the crowd, looking excitedly at his phone and swaying to the music. The words \"Our kids:\" flash across the screen."
+    },
+    {
+        "second": 7,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IneaCUqPE1M/output_frames/sec_7_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[5-8] Then the scene switches to a music festival. A young man in a camouflage T-shirt and a hat is standing in the crowd, looking excitedly at his phone and swaying to the music. The words \"Our kids:\" flash across the screen."
+    },
+    {
+        "second": 8,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IneaCUqPE1M/output_frames/sec_8_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[5-8] Then the scene switches to a music festival. A young man in a camouflage T-shirt and a hat is standing in the crowd, looking excitedly at his phone and swaying to the music. The words \"Our kids:\" flash across the screen."
+    }
+]

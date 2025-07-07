@@ -1,0 +1,44 @@
+[
+    {
+        "second": 0,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/M931zVrKnrM/output_frames/sec_0_idx_4.jpg",
+        "fps": 60,
+        "explanation": "[0-0] A white door with a \"YouTube\" logo on it. There is a small black countertop next to the door. The floor is covered with light-colored tiles, and the walls and ceiling are white. The ceiling has a white protrusion."
+    },
+    {
+        "second": 1,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/M931zVrKnrM/output_frames/sec_1_idx_21.jpg",
+        "fps": 60,
+        "explanation": "[0-2] The door is opened by a person wearing blue clothes and a monster mask, who then pokes their head out and gives a thumbs-up. A person wearing pink clothes enters the frame, rushing towards the door. The person in blue closes the door, and the person in pink jumps up and hits the door."
+    },
+    {
+        "second": 2,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/M931zVrKnrM/output_frames/sec_2_idx_9.jpg",
+        "fps": 60,
+        "explanation": "[0-2] The door is opened by a person wearing blue clothes and a monster mask, who then pokes their head out and gives a thumbs-up. A person wearing pink clothes enters the frame, rushing towards the door. The person in blue closes the door, and the person in pink jumps up and hits the door."
+    },
+    {
+        "second": 3,
+        "frame_index": 54,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/M931zVrKnrM/output_frames/sec_3_idx_54.jpg",
+        "fps": 60,
+        "explanation": "[2-5] Then the person in pink clothes and a monster mask turns sideways, looks forward, and squats with both fists clenched. Accompanied by yellow gas, they stand up and squat again with the same yellow gas. Then they leave the frame, leaving only a white door with a \"YouTube\" logo on it."
+    },
+    {
+        "second": 4,
+        "frame_index": 54,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/M931zVrKnrM/output_frames/sec_4_idx_54.jpg",
+        "fps": 60,
+        "explanation": "[2-5] Then the person in pink clothes and a monster mask turns sideways, looks forward, and squats with both fists clenched. Accompanied by yellow gas, they stand up and squat again with the same yellow gas. Then they leave the frame, leaving only a white door with a \"YouTube\" logo on it."
+    },
+    {
+        "second": 5,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/M931zVrKnrM/output_frames/sec_5_idx_14.jpg",
+        "fps": 60,
+        "explanation": "[2-5] Then the person in pink clothes and a monster mask turns sideways, looks forward, and squats with both fists clenched. Accompanied by yellow gas, they stand up and squat again with the same yellow gas. Then they leave the frame, leaving only a white door with a \"YouTube\" logo on it."
+    }
+]

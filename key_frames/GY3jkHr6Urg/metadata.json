@@ -1,0 +1,58 @@
+[
+    {
+        "second": 0,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GY3jkHr6Urg/output_frames/sec_0_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A man wearing a black T-shirt and blue jeans is standing with his back to the camera on a grey asphalt road. There are some buildings on the left, some vehicles parked in front, and a red sign."
+    },
+    {
+        "second": 1,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GY3jkHr6Urg/output_frames/sec_1_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Then the man puts his hands behind his back, Japanese subtitles appear and disappear on the screen, and he walks to the right and sits behind a man on a motorcycle wearing a grey jacket and a black helmet. The man in the grey jacket is looking at his phone. The man in the black T-shirt reaches his right hand towards the man in grey, then closes the helmet."
+    },
+    {
+        "second": 2,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GY3jkHr6Urg/output_frames/sec_2_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Then the man puts his hands behind his back, Japanese subtitles appear and disappear on the screen, and he walks to the right and sits behind a man on a motorcycle wearing a grey jacket and a black helmet. The man in the grey jacket is looking at his phone. The man in the black T-shirt reaches his right hand towards the man in grey, then closes the helmet."
+    },
+    {
+        "second": 3,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GY3jkHr6Urg/output_frames/sec_3_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[2-7] Immediately afterwards, the man in the grey jacket holds his phone in his left hand, leans back and shakes. Japanese subtitles appear and disappear on the screen again. Then the picture shakes continuously and switches to a picture-in-picture screen. The surroundings are all black, with the man in the grey jacket looking up in the middle."
+    },
+    {
+        "second": 4,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GY3jkHr6Urg/output_frames/sec_4_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[2-7] Immediately afterwards, the man in the grey jacket holds his phone in his left hand, leans back and shakes. Japanese subtitles appear and disappear on the screen again. Then the picture shakes continuously and switches to a picture-in-picture screen. The surroundings are all black, with the man in the grey jacket looking up in the middle."
+    },
+    {
+        "second": 5,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GY3jkHr6Urg/output_frames/sec_5_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[2-7] Immediately afterwards, the man in the grey jacket holds his phone in his left hand, leans back and shakes. Japanese subtitles appear and disappear on the screen again. Then the picture shakes continuously and switches to a picture-in-picture screen. The surroundings are all black, with the man in the grey jacket looking up in the middle."
+    },
+    {
+        "second": 6,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GY3jkHr6Urg/output_frames/sec_6_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[2-7] Immediately afterwards, the man in the grey jacket holds his phone in his left hand, leans back and shakes. Japanese subtitles appear and disappear on the screen again. Then the picture shakes continuously and switches to a picture-in-picture screen. The surroundings are all black, with the man in the grey jacket looking up in the middle."
+    },
+    {
+        "second": 7,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GY3jkHr6Urg/output_frames/sec_7_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[2-7] Immediately afterwards, the man in the grey jacket holds his phone in his left hand, leans back and shakes. Japanese subtitles appear and disappear on the screen again. Then the picture shakes continuously and switches to a picture-in-picture screen. The surroundings are all black, with the man in the grey jacket looking up in the middle."
+    }
+]

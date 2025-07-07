@@ -1,0 +1,65 @@
+[
+    {
+        "second": 0,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/E1I7OdAUFls/output_frames/sec_0_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A young woman with long, flowing dark brown hair, wearing a black top and blue pants, stands in a room. She is facing sideways to the camera. The floor is gray, the walls are white, and there is a white door on the right side. The text \"Hair holds memories\" is superimposed on the upper part of the image."
+    },
+    {
+        "second": 1,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/E1I7OdAUFls/output_frames/sec_1_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The woman shakes her hair and then turns to face the camera."
+    },
+    {
+        "second": 2,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/E1I7OdAUFls/output_frames/sec_2_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The woman shakes her hair and then turns to face the camera."
+    },
+    {
+        "second": 3,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/E1I7OdAUFls/output_frames/sec_3_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The woman shakes her hair and then turns to face the camera."
+    },
+    {
+        "second": 4,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/E1I7OdAUFls/output_frames/sec_4_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The woman shakes her hair and then turns to face the camera."
+    },
+    {
+        "second": 5,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/E1I7OdAUFls/output_frames/sec_5_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[4-8] The scene then cuts to the woman with short hair, holding her cut hair in her hand and smiling with her hand over her mouth."
+    },
+    {
+        "second": 6,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/E1I7OdAUFls/output_frames/sec_6_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[4-8] The scene then cuts to the woman with short hair, holding her cut hair in her hand and smiling with her hand over her mouth."
+    },
+    {
+        "second": 7,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/E1I7OdAUFls/output_frames/sec_7_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[4-8] The scene then cuts to the woman with short hair, holding her cut hair in her hand and smiling with her hand over her mouth."
+    },
+    {
+        "second": 8,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/E1I7OdAUFls/output_frames/sec_8_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[4-8] The scene then cuts to the woman with short hair, holding her cut hair in her hand and smiling with her hand over her mouth."
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "second": 0,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/L1KUA50DZpQ/output_frames/sec_0_idx_7.jpg",
+        "fps": 60,
+        "explanation": "[0-0] In a bright room with yellow wooden flooring, a little girl stands in the center holding a toy trumpet. She is wearing a pink T-shirt and black pants. Behind her are two sofas, and on the wall behind them hangs a painting, with a window and brown curtains to the right of the painting. A girl wearing a clown mask is standing behind her, preparing to scare her."
+    },
+    {
+        "second": 1,
+        "frame_index": 58,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/L1KUA50DZpQ/output_frames/sec_1_idx_58.jpg",
+        "fps": 60,
+        "explanation": "[0-4] The girl in the clown mask slowly approaches the girl with the toy trumpet, reaches out her right hand and pats the girl with the toy trumpet. The girl with the toy trumpet is studying the trumpet and doesn't notice. The girl lifts the trumpet to her mouth, about to blow it."
+    },
+    {
+        "second": 2,
+        "frame_index": 56,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/L1KUA50DZpQ/output_frames/sec_2_idx_56.jpg",
+        "fps": 60,
+        "explanation": "[0-4] The girl in the clown mask slowly approaches the girl with the toy trumpet, reaches out her right hand and pats the girl with the toy trumpet. The girl with the toy trumpet is studying the trumpet and doesn't notice. The girl lifts the trumpet to her mouth, about to blow it."
+    },
+    {
+        "second": 3,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/L1KUA50DZpQ/output_frames/sec_3_idx_25.jpg",
+        "fps": 60,
+        "explanation": "[0-4] The girl in the clown mask slowly approaches the girl with the toy trumpet, reaches out her right hand and pats the girl with the toy trumpet. The girl with the toy trumpet is studying the trumpet and doesn't notice. The girl lifts the trumpet to her mouth, about to blow it."
+    },
+    {
+        "second": 4,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/L1KUA50DZpQ/output_frames/sec_4_idx_18.jpg",
+        "fps": 60,
+        "explanation": "[0-4] The girl in the clown mask slowly approaches the girl with the toy trumpet, reaches out her right hand and pats the girl with the toy trumpet. The girl with the toy trumpet is studying the trumpet and doesn't notice. The girl lifts the trumpet to her mouth, about to blow it."
+    },
+    {
+        "second": 5,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/L1KUA50DZpQ/output_frames/sec_5_idx_2.jpg",
+        "fps": 60,
+        "explanation": "[4-9] Then, the girl wearing the clown mask walks to the right side of the girl holding the toy trumpet and looks at her. The girl with the toy trumpet is startled, drops the trumpet and runs to the left. The girl wearing the clown mask takes off the mask and watches the girl run to the left."
+    },
+    {
+        "second": 6,
+        "frame_index": 32,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/L1KUA50DZpQ/output_frames/sec_6_idx_32.jpg",
+        "fps": 60,
+        "explanation": "[4-9] Then, the girl wearing the clown mask walks to the right side of the girl holding the toy trumpet and looks at her. The girl with the toy trumpet is startled, drops the trumpet and runs to the left. The girl wearing the clown mask takes off the mask and watches the girl run to the left."
+    },
+    {
+        "second": 7,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/L1KUA50DZpQ/output_frames/sec_7_idx_12.jpg",
+        "fps": 60,
+        "explanation": "[4-9] Then, the girl wearing the clown mask walks to the right side of the girl holding the toy trumpet and looks at her. The girl with the toy trumpet is startled, drops the trumpet and runs to the left. The girl wearing the clown mask takes off the mask and watches the girl run to the left."
+    },
+    {
+        "second": 8,
+        "frame_index": 57,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/L1KUA50DZpQ/output_frames/sec_8_idx_57.jpg",
+        "fps": 60,
+        "explanation": "[4-9] Then, the girl wearing the clown mask walks to the right side of the girl holding the toy trumpet and looks at her. The girl with the toy trumpet is startled, drops the trumpet and runs to the left. The girl wearing the clown mask takes off the mask and watches the girl run to the left."
+    },
+    {
+        "second": 9,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/L1KUA50DZpQ/output_frames/sec_9_idx_2.jpg",
+        "fps": 60,
+        "explanation": "[4-9] Then, the girl wearing the clown mask walks to the right side of the girl holding the toy trumpet and looks at her. The girl with the toy trumpet is startled, drops the trumpet and runs to the left. The girl wearing the clown mask takes off the mask and watches the girl run to the left."
+    }
+]

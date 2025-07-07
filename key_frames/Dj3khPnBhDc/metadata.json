@@ -1,0 +1,72 @@
+[
+    {
+        "second": 0,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Dj3khPnBhDc/output_frames/sec_0_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[0-0] The video begins in a room with three beds. Lying face down on the beds are a miniature Spider-Man, a Hulk, and a normal-sized Spider-Man. The room also contains a potted plant, a brown teddy bear, and several framed pictures on the wall."
+    },
+    {
+        "second": 1,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Dj3khPnBhDc/output_frames/sec_1_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Then, two red objects emerge from Spider-Man's buttocks and disappear onto the floor. Following that, three green objects emerge from Hulk's buttocks and vanish onto the floor."
+    },
+    {
+        "second": 2,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Dj3khPnBhDc/output_frames/sec_2_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Then, two red objects emerge from Spider-Man's buttocks and disappear onto the floor. Following that, three green objects emerge from Hulk's buttocks and vanish onto the floor."
+    },
+    {
+        "second": 3,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Dj3khPnBhDc/output_frames/sec_3_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Then, two red objects emerge from Spider-Man's buttocks and disappear onto the floor. Following that, three green objects emerge from Hulk's buttocks and vanish onto the floor."
+    },
+    {
+        "second": 4,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Dj3khPnBhDc/output_frames/sec_4_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Then, two red objects emerge from Spider-Man's buttocks and disappear onto the floor. Following that, three green objects emerge from Hulk's buttocks and vanish onto the floor."
+    },
+    {
+        "second": 5,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Dj3khPnBhDc/output_frames/sec_5_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Then, two red objects emerge from Spider-Man's buttocks and disappear onto the floor. Following that, three green objects emerge from Hulk's buttocks and vanish onto the floor."
+    },
+    {
+        "second": 6,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Dj3khPnBhDc/output_frames/sec_6_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[5-10] Finally, six red objects emerge from miniature Spider-Man's buttocks. Hulk then punches miniature Spider-Man, causing his head to enlarge."
+    },
+    {
+        "second": 7,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Dj3khPnBhDc/output_frames/sec_7_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[5-10] Finally, six red objects emerge from miniature Spider-Man's buttocks. Hulk then punches miniature Spider-Man, causing his head to enlarge."
+    },
+    {
+        "second": 8,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Dj3khPnBhDc/output_frames/sec_8_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[5-10] Finally, six red objects emerge from miniature Spider-Man's buttocks. Hulk then punches miniature Spider-Man, causing his head to enlarge."
+    },
+    {
+        "second": 9,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Dj3khPnBhDc/output_frames/sec_9_idx_24.jpg",
+        "fps": 30,
+        "explanation": "[5-10] Finally, six red objects emerge from miniature Spider-Man's buttocks. Hulk then punches miniature Spider-Man, causing his head to enlarge."
+    }
+]

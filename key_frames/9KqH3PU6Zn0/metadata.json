@@ -1,0 +1,72 @@
+[
+    {
+        "second": 0,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9KqH3PU6Zn0/output_frames/sec_0_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[0-0] A muddy bridge sits atop a very murky river filled with pieces of wood, with lush greenery lining both sides of the river."
+    },
+    {
+        "second": 1,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9KqH3PU6Zn0/output_frames/sec_1_idx_13.jpg",
+        "fps": 60,
+        "explanation": "[0-4] The wood in the river is swept onto the bridge by the current and becomes stuck."
+    },
+    {
+        "second": 2,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9KqH3PU6Zn0/output_frames/sec_2_idx_5.jpg",
+        "fps": 60,
+        "explanation": "[0-4] The wood in the river is swept onto the bridge by the current and becomes stuck."
+    },
+    {
+        "second": 3,
+        "frame_index": 45,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9KqH3PU6Zn0/output_frames/sec_3_idx_45.jpg",
+        "fps": 60,
+        "explanation": "[0-4] The wood in the river is swept onto the bridge by the current and becomes stuck."
+    },
+    {
+        "second": 4,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9KqH3PU6Zn0/output_frames/sec_4_idx_15.jpg",
+        "fps": 60,
+        "explanation": "[0-4] The wood in the river is swept onto the bridge by the current and becomes stuck."
+    },
+    {
+        "second": 5,
+        "frame_index": 58,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9KqH3PU6Zn0/output_frames/sec_5_idx_58.jpg",
+        "fps": 60,
+        "explanation": "[4-9] Following that, the camera pans to the left, revealing more small branches being carried by the river's flow."
+    },
+    {
+        "second": 6,
+        "frame_index": 35,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9KqH3PU6Zn0/output_frames/sec_6_idx_35.jpg",
+        "fps": 60,
+        "explanation": "[4-9] Following that, the camera pans to the left, revealing more small branches being carried by the river's flow."
+    },
+    {
+        "second": 7,
+        "frame_index": 33,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9KqH3PU6Zn0/output_frames/sec_7_idx_33.jpg",
+        "fps": 60,
+        "explanation": "[4-9] Following that, the camera pans to the left, revealing more small branches being carried by the river's flow."
+    },
+    {
+        "second": 8,
+        "frame_index": 38,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9KqH3PU6Zn0/output_frames/sec_8_idx_38.jpg",
+        "fps": 60,
+        "explanation": "[4-9] Following that, the camera pans to the left, revealing more small branches being carried by the river's flow."
+    },
+    {
+        "second": 9,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9KqH3PU6Zn0/output_frames/sec_9_idx_8.jpg",
+        "fps": 60,
+        "explanation": "[4-9] Following that, the camera pans to the left, revealing more small branches being carried by the river's flow."
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "second": 0,
+        "frame_index": 59,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/POwtWFne2lc/output_frames/sec_0_idx_59.jpg",
+        "fps": 60,
+        "explanation": "[0-0] A dark green Ferrari is parked, the background is streets and trees, with black text on top DID IT SCRAPE and a scared emoji."
+    },
+    {
+        "second": 1,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/POwtWFne2lc/output_frames/sec_1_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[0-9] Then the car drives slowly, passing a speed bump on the road, with other vehicles and people in the distance."
+    },
+    {
+        "second": 2,
+        "frame_index": 59,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/POwtWFne2lc/output_frames/sec_2_idx_59.jpg",
+        "fps": 60,
+        "explanation": "[0-9] Then the car drives slowly, passing a speed bump on the road, with other vehicles and people in the distance."
+    },
+    {
+        "second": 3,
+        "frame_index": 44,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/POwtWFne2lc/output_frames/sec_3_idx_44.jpg",
+        "fps": 60,
+        "explanation": "[0-9] Then the car drives slowly, passing a speed bump on the road, with other vehicles and people in the distance."
+    },
+    {
+        "second": 4,
+        "frame_index": 39,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/POwtWFne2lc/output_frames/sec_4_idx_39.jpg",
+        "fps": 60,
+        "explanation": "[0-9] Then the car drives slowly, passing a speed bump on the road, with other vehicles and people in the distance."
+    },
+    {
+        "second": 5,
+        "frame_index": 56,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/POwtWFne2lc/output_frames/sec_5_idx_56.jpg",
+        "fps": 60,
+        "explanation": "[0-9] Then the car drives slowly, passing a speed bump on the road, with other vehicles and people in the distance."
+    },
+    {
+        "second": 6,
+        "frame_index": 55,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/POwtWFne2lc/output_frames/sec_6_idx_55.jpg",
+        "fps": 60,
+        "explanation": "[0-9] Then the car drives slowly, passing a speed bump on the road, with other vehicles and people in the distance."
+    },
+    {
+        "second": 7,
+        "frame_index": 39,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/POwtWFne2lc/output_frames/sec_7_idx_39.jpg",
+        "fps": 60,
+        "explanation": "[0-9] Then the car drives slowly, passing a speed bump on the road, with other vehicles and people in the distance."
+    },
+    {
+        "second": 8,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/POwtWFne2lc/output_frames/sec_8_idx_21.jpg",
+        "fps": 60,
+        "explanation": "[0-9] Then the car drives slowly, passing a speed bump on the road, with other vehicles and people in the distance."
+    },
+    {
+        "second": 9,
+        "frame_index": 36,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/POwtWFne2lc/output_frames/sec_9_idx_36.jpg",
+        "fps": 60,
+        "explanation": "[0-9] Then the car drives slowly, passing a speed bump on the road, with other vehicles and people in the distance."
+    }
+]

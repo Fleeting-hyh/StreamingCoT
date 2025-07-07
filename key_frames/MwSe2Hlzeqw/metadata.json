@@ -1,0 +1,44 @@
+[
+    {
+        "second": 0,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MwSe2Hlzeqw/output_frames/sec_0_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[0-0] Alex, with short orange hair, is standing on the grass with her back to the camera. She is wearing a green top and brown pants. A small black spider rests on her right shoulder. In front of her is a wooden building, and beneath her feet is a patch of grass."
+    },
+    {
+        "second": 1,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MwSe2Hlzeqw/output_frames/sec_1_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Alex then turns to the right and extends her left hand to flick the spider off her shoulder. Immediately afterwards, she turns to the right again with a surprised look on her face and her mouth wide open."
+    },
+    {
+        "second": 2,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MwSe2Hlzeqw/output_frames/sec_2_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Alex then turns to the right and extends her left hand to flick the spider off her shoulder. Immediately afterwards, she turns to the right again with a surprised look on her face and her mouth wide open."
+    },
+    {
+        "second": 3,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MwSe2Hlzeqw/output_frames/sec_3_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[2-6] The camera then cuts to the spider, which is lying on the grass and moving its antennae. She steps on the spider with her foot, and the scene cuts back to Alex. She covers her mouth in shock, crouches slightly, and sways to the right. The scene cuts again to the roof, where a giant spider is lying. It opens its red mouth and flies down."
+    },
+    {
+        "second": 4,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MwSe2Hlzeqw/output_frames/sec_4_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[2-6] The camera then cuts to the spider, which is lying on the grass and moving its antennae. She steps on the spider with her foot, and the scene cuts back to Alex. She covers her mouth in shock, crouches slightly, and sways to the right. The scene cuts again to the roof, where a giant spider is lying. It opens its red mouth and flies down."
+    },
+    {
+        "second": 5,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MwSe2Hlzeqw/output_frames/sec_5_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[2-6] The camera then cuts to the spider, which is lying on the grass and moving its antennae. She steps on the spider with her foot, and the scene cuts back to Alex. She covers her mouth in shock, crouches slightly, and sways to the right. The scene cuts again to the roof, where a giant spider is lying. It opens its red mouth and flies down."
+    }
+]

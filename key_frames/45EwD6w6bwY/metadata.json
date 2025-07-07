@@ -1,0 +1,72 @@
+[
+    {
+        "second": 0,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/45EwD6w6bwY/output_frames/sec_0_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[0-0] On a gray day, a man holding a surfboard stands on the beach, ready to rush into the sea. There are many people on the beach, with scattered trees and umbrellas around. Buildings and hills are visible in the distance."
+    },
+    {
+        "second": 1,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/45EwD6w6bwY/output_frames/sec_1_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Then the man with the surfboard runs forward, ready to start surfing. He throws the surfboard on the wet sand, skillfully jumps on the surfboard, and glides towards the sea."
+    },
+    {
+        "second": 2,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/45EwD6w6bwY/output_frames/sec_2_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Then the man with the surfboard runs forward, ready to start surfing. He throws the surfboard on the wet sand, skillfully jumps on the surfboard, and glides towards the sea."
+    },
+    {
+        "second": 3,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/45EwD6w6bwY/output_frames/sec_3_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Then the man with the surfboard runs forward, ready to start surfing. He throws the surfboard on the wet sand, skillfully jumps on the surfboard, and glides towards the sea."
+    },
+    {
+        "second": 4,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/45EwD6w6bwY/output_frames/sec_4_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[3-9] Then the man slides into the sea, performs a 360-degree aerial rotation stunt with the waves. Immediately after, he is engulfed by the waves, still landing safely. The waves carry him back to the shore, creating white splashes. The surrounding people applaud and cheer for the man."
+    },
+    {
+        "second": 5,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/45EwD6w6bwY/output_frames/sec_5_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[3-9] Then the man slides into the sea, performs a 360-degree aerial rotation stunt with the waves. Immediately after, he is engulfed by the waves, still landing safely. The waves carry him back to the shore, creating white splashes. The surrounding people applaud and cheer for the man."
+    },
+    {
+        "second": 6,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/45EwD6w6bwY/output_frames/sec_6_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[3-9] Then the man slides into the sea, performs a 360-degree aerial rotation stunt with the waves. Immediately after, he is engulfed by the waves, still landing safely. The waves carry him back to the shore, creating white splashes. The surrounding people applaud and cheer for the man."
+    },
+    {
+        "second": 7,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/45EwD6w6bwY/output_frames/sec_7_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[3-9] Then the man slides into the sea, performs a 360-degree aerial rotation stunt with the waves. Immediately after, he is engulfed by the waves, still landing safely. The waves carry him back to the shore, creating white splashes. The surrounding people applaud and cheer for the man."
+    },
+    {
+        "second": 8,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/45EwD6w6bwY/output_frames/sec_8_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[3-9] Then the man slides into the sea, performs a 360-degree aerial rotation stunt with the waves. Immediately after, he is engulfed by the waves, still landing safely. The waves carry him back to the shore, creating white splashes. The surrounding people applaud and cheer for the man."
+    },
+    {
+        "second": 9,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/45EwD6w6bwY/output_frames/sec_9_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[3-9] Then the man slides into the sea, performs a 360-degree aerial rotation stunt with the waves. Immediately after, he is engulfed by the waves, still landing safely. The waves carry him back to the shore, creating white splashes. The surrounding people applaud and cheer for the man."
+    }
+]

@@ -1,0 +1,107 @@
+[
+    {
+        "second": 0,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TkhmxVxSq-U/output_frames/sec_0_idx_4.jpg",
+        "fps": 25,
+        "explanation": "[0-0] Prince Charles, with gray and white hair, and Camilla, with silver hair, are standing together in front of a white building. Prince Charles is wearing a gray suit, and Camilla is wearing a white dress with a pearl necklace, smiling. Behind them are people in black suits."
+    },
+    {
+        "second": 1,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TkhmxVxSq-U/output_frames/sec_1_idx_6.jpg",
+        "fps": 25,
+        "explanation": "[0-3] Prince Charles is wearing a striped tie, and they are walking forward. In a purple frame in the middle of the screen, there are white subtitles: \"Today marks 50 years since Prince Charles and Camilla met!\""
+    },
+    {
+        "second": 2,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TkhmxVxSq-U/output_frames/sec_2_idx_20.jpg",
+        "fps": 25,
+        "explanation": "[0-3] Prince Charles is wearing a striped tie, and they are walking forward. In a purple frame in the middle of the screen, there are white subtitles: \"Today marks 50 years since Prince Charles and Camilla met!\""
+    },
+    {
+        "second": 3,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TkhmxVxSq-U/output_frames/sec_3_idx_24.jpg",
+        "fps": 25,
+        "explanation": "[0-3] Prince Charles is wearing a striped tie, and they are walking forward. In a purple frame in the middle of the screen, there are white subtitles: \"Today marks 50 years since Prince Charles and Camilla met!\""
+    },
+    {
+        "second": 4,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TkhmxVxSq-U/output_frames/sec_4_idx_0.jpg",
+        "fps": 25,
+        "explanation": "[3-11] The scene then switches to a white wall with three horizontal lines. Camilla, in a purple dress, is kissing Prince Charles, who is wearing a black suit and a blue shirt. Next to them is a woman in black. There is a purple frame in the middle of the screen with three lines of white subtitles. Afterward, the picture changes to Camilla, dressed in white and wearing a white hat, arm in arm with Prince Charles, who is wearing a black tuxedo, walking forward. The subtitles remain unchanged. Then the picture switches to a photo of them when they were young. Camilla, in a white wedding dress, is kissing Prince Charles, who is wearing a blue and black outfit. The white subtitles in the purple frame change to \"But, of course, they married other people...\". Then the picture switches to a black and white photo, Camilla, wearing a wedding dress, is holding flowers in her left hand and Prince Charles, in a tuxedo, in her right hand. They are smiling and standing in front of a grayish-white building, with people holding swords on both sides."
+    },
+    {
+        "second": 5,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TkhmxVxSq-U/output_frames/sec_5_idx_24.jpg",
+        "fps": 25,
+        "explanation": "[3-11] The scene then switches to a white wall with three horizontal lines. Camilla, in a purple dress, is kissing Prince Charles, who is wearing a black suit and a blue shirt. Next to them is a woman in black. There is a purple frame in the middle of the screen with three lines of white subtitles. Afterward, the picture changes to Camilla, dressed in white and wearing a white hat, arm in arm with Prince Charles, who is wearing a black tuxedo, walking forward. The subtitles remain unchanged. Then the picture switches to a photo of them when they were young. Camilla, in a white wedding dress, is kissing Prince Charles, who is wearing a blue and black outfit. The white subtitles in the purple frame change to \"But, of course, they married other people...\". Then the picture switches to a black and white photo, Camilla, wearing a wedding dress, is holding flowers in her left hand and Prince Charles, in a tuxedo, in her right hand. They are smiling and standing in front of a grayish-white building, with people holding swords on both sides."
+    },
+    {
+        "second": 6,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TkhmxVxSq-U/output_frames/sec_6_idx_1.jpg",
+        "fps": 25,
+        "explanation": "[3-11] The scene then switches to a white wall with three horizontal lines. Camilla, in a purple dress, is kissing Prince Charles, who is wearing a black suit and a blue shirt. Next to them is a woman in black. There is a purple frame in the middle of the screen with three lines of white subtitles. Afterward, the picture changes to Camilla, dressed in white and wearing a white hat, arm in arm with Prince Charles, who is wearing a black tuxedo, walking forward. The subtitles remain unchanged. Then the picture switches to a photo of them when they were young. Camilla, in a white wedding dress, is kissing Prince Charles, who is wearing a blue and black outfit. The white subtitles in the purple frame change to \"But, of course, they married other people...\". Then the picture switches to a black and white photo, Camilla, wearing a wedding dress, is holding flowers in her left hand and Prince Charles, in a tuxedo, in her right hand. They are smiling and standing in front of a grayish-white building, with people holding swords on both sides."
+    },
+    {
+        "second": 7,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TkhmxVxSq-U/output_frames/sec_7_idx_6.jpg",
+        "fps": 25,
+        "explanation": "[3-11] The scene then switches to a white wall with three horizontal lines. Camilla, in a purple dress, is kissing Prince Charles, who is wearing a black suit and a blue shirt. Next to them is a woman in black. There is a purple frame in the middle of the screen with three lines of white subtitles. Afterward, the picture changes to Camilla, dressed in white and wearing a white hat, arm in arm with Prince Charles, who is wearing a black tuxedo, walking forward. The subtitles remain unchanged. Then the picture switches to a photo of them when they were young. Camilla, in a white wedding dress, is kissing Prince Charles, who is wearing a blue and black outfit. The white subtitles in the purple frame change to \"But, of course, they married other people...\". Then the picture switches to a black and white photo, Camilla, wearing a wedding dress, is holding flowers in her left hand and Prince Charles, in a tuxedo, in her right hand. They are smiling and standing in front of a grayish-white building, with people holding swords on both sides."
+    },
+    {
+        "second": 8,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TkhmxVxSq-U/output_frames/sec_8_idx_0.jpg",
+        "fps": 25,
+        "explanation": "[3-11] The scene then switches to a white wall with three horizontal lines. Camilla, in a purple dress, is kissing Prince Charles, who is wearing a black suit and a blue shirt. Next to them is a woman in black. There is a purple frame in the middle of the screen with three lines of white subtitles. Afterward, the picture changes to Camilla, dressed in white and wearing a white hat, arm in arm with Prince Charles, who is wearing a black tuxedo, walking forward. The subtitles remain unchanged. Then the picture switches to a photo of them when they were young. Camilla, in a white wedding dress, is kissing Prince Charles, who is wearing a blue and black outfit. The white subtitles in the purple frame change to \"But, of course, they married other people...\". Then the picture switches to a black and white photo, Camilla, wearing a wedding dress, is holding flowers in her left hand and Prince Charles, in a tuxedo, in her right hand. They are smiling and standing in front of a grayish-white building, with people holding swords on both sides."
+    },
+    {
+        "second": 9,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TkhmxVxSq-U/output_frames/sec_9_idx_12.jpg",
+        "fps": 25,
+        "explanation": "[3-11] The scene then switches to a white wall with three horizontal lines. Camilla, in a purple dress, is kissing Prince Charles, who is wearing a black suit and a blue shirt. Next to them is a woman in black. There is a purple frame in the middle of the screen with three lines of white subtitles. Afterward, the picture changes to Camilla, dressed in white and wearing a white hat, arm in arm with Prince Charles, who is wearing a black tuxedo, walking forward. The subtitles remain unchanged. Then the picture switches to a photo of them when they were young. Camilla, in a white wedding dress, is kissing Prince Charles, who is wearing a blue and black outfit. The white subtitles in the purple frame change to \"But, of course, they married other people...\". Then the picture switches to a black and white photo, Camilla, wearing a wedding dress, is holding flowers in her left hand and Prince Charles, in a tuxedo, in her right hand. They are smiling and standing in front of a grayish-white building, with people holding swords on both sides."
+    },
+    {
+        "second": 10,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TkhmxVxSq-U/output_frames/sec_10_idx_0.jpg",
+        "fps": 25,
+        "explanation": "[3-11] The scene then switches to a white wall with three horizontal lines. Camilla, in a purple dress, is kissing Prince Charles, who is wearing a black suit and a blue shirt. Next to them is a woman in black. There is a purple frame in the middle of the screen with three lines of white subtitles. Afterward, the picture changes to Camilla, dressed in white and wearing a white hat, arm in arm with Prince Charles, who is wearing a black tuxedo, walking forward. The subtitles remain unchanged. Then the picture switches to a photo of them when they were young. Camilla, in a white wedding dress, is kissing Prince Charles, who is wearing a blue and black outfit. The white subtitles in the purple frame change to \"But, of course, they married other people...\". Then the picture switches to a black and white photo, Camilla, wearing a wedding dress, is holding flowers in her left hand and Prince Charles, in a tuxedo, in her right hand. They are smiling and standing in front of a grayish-white building, with people holding swords on both sides."
+    },
+    {
+        "second": 11,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TkhmxVxSq-U/output_frames/sec_11_idx_18.jpg",
+        "fps": 25,
+        "explanation": "[3-11] The scene then switches to a white wall with three horizontal lines. Camilla, in a purple dress, is kissing Prince Charles, who is wearing a black suit and a blue shirt. Next to them is a woman in black. There is a purple frame in the middle of the screen with three lines of white subtitles. Afterward, the picture changes to Camilla, dressed in white and wearing a white hat, arm in arm with Prince Charles, who is wearing a black tuxedo, walking forward. The subtitles remain unchanged. Then the picture switches to a photo of them when they were young. Camilla, in a white wedding dress, is kissing Prince Charles, who is wearing a blue and black outfit. The white subtitles in the purple frame change to \"But, of course, they married other people...\". Then the picture switches to a black and white photo, Camilla, wearing a wedding dress, is holding flowers in her left hand and Prince Charles, in a tuxedo, in her right hand. They are smiling and standing in front of a grayish-white building, with people holding swords on both sides."
+    },
+    {
+        "second": 12,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TkhmxVxSq-U/output_frames/sec_12_idx_23.jpg",
+        "fps": 25,
+        "explanation": "[11-15] The picture changes again. This time, the picture is blurry. Camilla, with silver hair, is wearing gray clothes and a yellow hat. She is holding yellowish-white flowers in her left hand and Prince Charles, with gray and white hair, in her right hand, who is wearing a tuxedo. Other people can be seen behind them."
+    },
+    {
+        "second": 13,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TkhmxVxSq-U/output_frames/sec_13_idx_13.jpg",
+        "fps": 25,
+        "explanation": "[11-15] The picture changes again. This time, the picture is blurry. Camilla, with silver hair, is wearing gray clothes and a yellow hat. She is holding yellowish-white flowers in her left hand and Prince Charles, with gray and white hair, in her right hand, who is wearing a tuxedo. Other people can be seen behind them."
+    },
+    {
+        "second": 14,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TkhmxVxSq-U/output_frames/sec_14_idx_11.jpg",
+        "fps": 25,
+        "explanation": "[11-15] The picture changes again. This time, the picture is blurry. Camilla, with silver hair, is wearing gray clothes and a yellow hat. She is holding yellowish-white flowers in her left hand and Prince Charles, with gray and white hair, in her right hand, who is wearing a tuxedo. Other people can be seen behind them."
+    }
+]

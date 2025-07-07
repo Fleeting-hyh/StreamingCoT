@@ -1,0 +1,107 @@
+[
+    {
+        "second": 0,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/In6i3lJkYgI/output_frames/sec_0_idx_19.jpg",
+        "fps": 60,
+        "explanation": "[0-0] The video starts with a view from inside a car, through the windshield, you can see a motorcycle driving ahead. The motorcycle is driving in the middle-right lane of a multi-lane road, with green belts and buildings on both sides of the road, and traffic signs in the distance. The weather is overcast."
+    },
+    {
+        "second": 1,
+        "frame_index": 53,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/In6i3lJkYgI/output_frames/sec_1_idx_53.jpg",
+        "fps": 60,
+        "explanation": "[0-7] Then the car continues to drive, and the motorcycle is getting closer."
+    },
+    {
+        "second": 2,
+        "frame_index": 57,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/In6i3lJkYgI/output_frames/sec_2_idx_57.jpg",
+        "fps": 60,
+        "explanation": "[0-7] Then the car continues to drive, and the motorcycle is getting closer."
+    },
+    {
+        "second": 3,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/In6i3lJkYgI/output_frames/sec_3_idx_23.jpg",
+        "fps": 60,
+        "explanation": "[0-7] Then the car continues to drive, and the motorcycle is getting closer."
+    },
+    {
+        "second": 4,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/In6i3lJkYgI/output_frames/sec_4_idx_7.jpg",
+        "fps": 60,
+        "explanation": "[0-7] Then the car continues to drive, and the motorcycle is getting closer."
+    },
+    {
+        "second": 5,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/In6i3lJkYgI/output_frames/sec_5_idx_4.jpg",
+        "fps": 60,
+        "explanation": "[0-7] Then the car continues to drive, and the motorcycle is getting closer."
+    },
+    {
+        "second": 6,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/In6i3lJkYgI/output_frames/sec_6_idx_24.jpg",
+        "fps": 60,
+        "explanation": "[0-7] Then the car continues to drive, and the motorcycle is getting closer."
+    },
+    {
+        "second": 7,
+        "frame_index": 56,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/In6i3lJkYgI/output_frames/sec_7_idx_56.jpg",
+        "fps": 60,
+        "explanation": "[0-7] Then the car continues to drive, and the motorcycle is getting closer."
+    },
+    {
+        "second": 8,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/In6i3lJkYgI/output_frames/sec_8_idx_4.jpg",
+        "fps": 60,
+        "explanation": "[7-14] Next, the camera keeps turning, and finally cuts to the inside of the car, a lady wearing black riding clothes and a helmet is sitting in the passenger seat and pressing a button inside the car."
+    },
+    {
+        "second": 9,
+        "frame_index": 35,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/In6i3lJkYgI/output_frames/sec_9_idx_35.jpg",
+        "fps": 60,
+        "explanation": "[7-14] Next, the camera keeps turning, and finally cuts to the inside of the car, a lady wearing black riding clothes and a helmet is sitting in the passenger seat and pressing a button inside the car."
+    },
+    {
+        "second": 10,
+        "frame_index": 35,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/In6i3lJkYgI/output_frames/sec_10_idx_35.jpg",
+        "fps": 60,
+        "explanation": "[7-14] Next, the camera keeps turning, and finally cuts to the inside of the car, a lady wearing black riding clothes and a helmet is sitting in the passenger seat and pressing a button inside the car."
+    },
+    {
+        "second": 11,
+        "frame_index": 46,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/In6i3lJkYgI/output_frames/sec_11_idx_46.jpg",
+        "fps": 60,
+        "explanation": "[7-14] Next, the camera keeps turning, and finally cuts to the inside of the car, a lady wearing black riding clothes and a helmet is sitting in the passenger seat and pressing a button inside the car."
+    },
+    {
+        "second": 12,
+        "frame_index": 53,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/In6i3lJkYgI/output_frames/sec_12_idx_53.jpg",
+        "fps": 60,
+        "explanation": "[7-14] Next, the camera keeps turning, and finally cuts to the inside of the car, a lady wearing black riding clothes and a helmet is sitting in the passenger seat and pressing a button inside the car."
+    },
+    {
+        "second": 13,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/In6i3lJkYgI/output_frames/sec_13_idx_7.jpg",
+        "fps": 60,
+        "explanation": "[7-14] Next, the camera keeps turning, and finally cuts to the inside of the car, a lady wearing black riding clothes and a helmet is sitting in the passenger seat and pressing a button inside the car."
+    },
+    {
+        "second": 14,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/In6i3lJkYgI/output_frames/sec_14_idx_19.jpg",
+        "fps": 60,
+        "explanation": "[7-14] Next, the camera keeps turning, and finally cuts to the inside of the car, a lady wearing black riding clothes and a helmet is sitting in the passenger seat and pressing a button inside the car."
+    }
+]

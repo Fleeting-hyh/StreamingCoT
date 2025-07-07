@@ -1,0 +1,72 @@
+[
+    {
+        "second": 0,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Btw1y64g6Ig/output_frames/sec_0_idx_23.jpg",
+        "fps": 60,
+        "explanation": "[0-0] A hand wearing a pair of blue balls is shown, with grass and buildings in the near field and a roller coaster in the background against a blue sky with white clouds."
+    },
+    {
+        "second": 1,
+        "frame_index": 31,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Btw1y64g6Ig/output_frames/sec_1_idx_31.jpg",
+        "fps": 60,
+        "explanation": "[0-2] The hand opens and closes a few times in the air, turns towards the camera revealing eyes on the blue balls, then turns back towards the roller coaster."
+    },
+    {
+        "second": 2,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Btw1y64g6Ig/output_frames/sec_2_idx_25.jpg",
+        "fps": 60,
+        "explanation": "[0-2] The hand opens and closes a few times in the air, turns towards the camera revealing eyes on the blue balls, then turns back towards the roller coaster."
+    },
+    {
+        "second": 3,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Btw1y64g6Ig/output_frames/sec_3_idx_13.jpg",
+        "fps": 60,
+        "explanation": "[2-6] The shot then switches to different perspectives of the roller coaster, which is surrounded by trees and buildings on both sides of the track. The hand continues to open and close in front, then turns towards the roller coaster as it goes up and down."
+    },
+    {
+        "second": 4,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Btw1y64g6Ig/output_frames/sec_4_idx_14.jpg",
+        "fps": 60,
+        "explanation": "[2-6] The shot then switches to different perspectives of the roller coaster, which is surrounded by trees and buildings on both sides of the track. The hand continues to open and close in front, then turns towards the roller coaster as it goes up and down."
+    },
+    {
+        "second": 5,
+        "frame_index": 38,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Btw1y64g6Ig/output_frames/sec_5_idx_38.jpg",
+        "fps": 60,
+        "explanation": "[2-6] The shot then switches to different perspectives of the roller coaster, which is surrounded by trees and buildings on both sides of the track. The hand continues to open and close in front, then turns towards the roller coaster as it goes up and down."
+    },
+    {
+        "second": 6,
+        "frame_index": 57,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Btw1y64g6Ig/output_frames/sec_6_idx_57.jpg",
+        "fps": 60,
+        "explanation": "[2-6] The shot then switches to different perspectives of the roller coaster, which is surrounded by trees and buildings on both sides of the track. The hand continues to open and close in front, then turns towards the roller coaster as it goes up and down."
+    },
+    {
+        "second": 7,
+        "frame_index": 41,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Btw1y64g6Ig/output_frames/sec_7_idx_41.jpg",
+        "fps": 60,
+        "explanation": "[6-9] Finally, the roller coaster plunges into the water, creating a huge splash, and the hand moves out of the frame."
+    },
+    {
+        "second": 8,
+        "frame_index": 34,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Btw1y64g6Ig/output_frames/sec_8_idx_34.jpg",
+        "fps": 60,
+        "explanation": "[6-9] Finally, the roller coaster plunges into the water, creating a huge splash, and the hand moves out of the frame."
+    },
+    {
+        "second": 9,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Btw1y64g6Ig/output_frames/sec_9_idx_2.jpg",
+        "fps": 60,
+        "explanation": "[6-9] Finally, the roller coaster plunges into the water, creating a huge splash, and the hand moves out of the frame."
+    }
+]

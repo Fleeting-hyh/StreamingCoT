@@ -1,0 +1,191 @@
+[
+    {
+        "second": 0,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2RGbsORdl20/output_frames/sec_0_idx_1.jpg",
+        "fps": 60,
+        "explanation": "[0-0] On a stage stands a man with black hair, wearing a yellow top and blue pants. He holds a golden trophy in his hand and wears a medal around his neck. To his left is a man in khaki clothes and a white headscarf. A man with black hair in black clothes is supporting the man in yellow. Behind them is a wall covered with sponsors, displaying seven portraits with national flags and a hand above them."
+    },
+    {
+        "second": 1,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2RGbsORdl20/output_frames/sec_1_idx_2.jpg",
+        "fps": 60,
+        "explanation": "[0-3] The man in yellow walks off the stage, and a yellow circle appears on the screen along with the yellow subtitle \"RONALDO JR\" and numerous yellow emojis. After stepping off the stage, he celebrates with his teammates, while the hand above points to the first portrait. Below the portrait is the Portuguese flag, and the number 1 appears beneath it."
+    },
+    {
+        "second": 2,
+        "frame_index": 59,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2RGbsORdl20/output_frames/sec_2_idx_59.jpg",
+        "fps": 60,
+        "explanation": "[0-3] The man in yellow walks off the stage, and a yellow circle appears on the screen along with the yellow subtitle \"RONALDO JR\" and numerous yellow emojis. After stepping off the stage, he celebrates with his teammates, while the hand above points to the first portrait. Below the portrait is the Portuguese flag, and the number 1 appears beneath it."
+    },
+    {
+        "second": 3,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2RGbsORdl20/output_frames/sec_3_idx_1.jpg",
+        "fps": 60,
+        "explanation": "[0-3] The man in yellow walks off the stage, and a yellow circle appears on the screen along with the yellow subtitle \"RONALDO JR\" and numerous yellow emojis. After stepping off the stage, he celebrates with his teammates, while the hand above points to the first portrait. Below the portrait is the Portuguese flag, and the number 1 appears beneath it."
+    },
+    {
+        "second": 4,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2RGbsORdl20/output_frames/sec_4_idx_18.jpg",
+        "fps": 60,
+        "explanation": "[3-5] The scene then switches to a man in blue standing in a gym. He balances on one foot with trophies placed on his head, arms, and leg. A yellow circle and numerous yellow emojis appear on the screen. Below the yellow circle is the yellow subtitle \"WALKER.\" The hand above points to the second portrait, with the British flag underneath. The number 16 appears beneath the flag."
+    },
+    {
+        "second": 5,
+        "frame_index": 41,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2RGbsORdl20/output_frames/sec_5_idx_41.jpg",
+        "fps": 60,
+        "explanation": "[3-5] The scene then switches to a man in blue standing in a gym. He balances on one foot with trophies placed on his head, arms, and leg. A yellow circle and numerous yellow emojis appear on the screen. Below the yellow circle is the yellow subtitle \"WALKER.\" The hand above points to the second portrait, with the British flag underneath. The number 16 appears beneath the flag."
+    },
+    {
+        "second": 6,
+        "frame_index": 30,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2RGbsORdl20/output_frames/sec_6_idx_30.jpg",
+        "fps": 60,
+        "explanation": "[5-8] The scene abruptly changes to a man in red and black furiously flipping a table. A yellow circle and numerous yellow emojis appear on the screen. Below the yellow circle is the yellow subtitle \"ZLATAN.\" The hand above points to the third portrait, with the Swedish flag underneath. The number 32 appears beneath the flag. The scene then transitions to ZLATAN standing on a podium, smiling joyfully."
+    },
+    {
+        "second": 7,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2RGbsORdl20/output_frames/sec_7_idx_12.jpg",
+        "fps": 60,
+        "explanation": "[5-8] The scene abruptly changes to a man in red and black furiously flipping a table. A yellow circle and numerous yellow emojis appear on the screen. Below the yellow circle is the yellow subtitle \"ZLATAN.\" The hand above points to the third portrait, with the Swedish flag underneath. The number 32 appears beneath the flag. The scene then transitions to ZLATAN standing on a podium, smiling joyfully."
+    },
+    {
+        "second": 8,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2RGbsORdl20/output_frames/sec_8_idx_29.jpg",
+        "fps": 60,
+        "explanation": "[5-8] The scene abruptly changes to a man in red and black furiously flipping a table. A yellow circle and numerous yellow emojis appear on the screen. Below the yellow circle is the yellow subtitle \"ZLATAN.\" The hand above points to the third portrait, with the Swedish flag underneath. The number 32 appears beneath the flag. The scene then transitions to ZLATAN standing on a podium, smiling joyfully."
+    },
+    {
+        "second": 9,
+        "frame_index": 59,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2RGbsORdl20/output_frames/sec_9_idx_59.jpg",
+        "fps": 60,
+        "explanation": "[8-11] The scene shifts to a man in white excitedly jumping while holding a trophy with both hands. A yellow circle and numerous yellow emojis appear on the screen. Below the yellow circle is the yellow subtitle \"RONALDO.\" The hand above points to the fourth portrait, with the Portuguese flag underneath. The number 35 appears beneath the flag."
+    },
+    {
+        "second": 10,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2RGbsORdl20/output_frames/sec_10_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[8-11] The scene shifts to a man in white excitedly jumping while holding a trophy with both hands. A yellow circle and numerous yellow emojis appear on the screen. Below the yellow circle is the yellow subtitle \"RONALDO.\" The hand above points to the fourth portrait, with the Portuguese flag underneath. The number 35 appears beneath the flag."
+    },
+    {
+        "second": 11,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2RGbsORdl20/output_frames/sec_11_idx_10.jpg",
+        "fps": 60,
+        "explanation": "[8-11] The scene shifts to a man in white excitedly jumping while holding a trophy with both hands. A yellow circle and numerous yellow emojis appear on the screen. Below the yellow circle is the yellow subtitle \"RONALDO.\" The hand above points to the fourth portrait, with the Portuguese flag underneath. The number 35 appears beneath the flag."
+    },
+    {
+        "second": 12,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2RGbsORdl20/output_frames/sec_12_idx_25.jpg",
+        "fps": 60,
+        "explanation": "[11-15] The scene quickly changes to a man in yellow placing a medal on his head and holding flowers in celebration. A yellow circle and numerous yellow emojis appear on the screen. Below the yellow circle is the yellow subtitle \"DANI ALVES.\" The hand above points to the fifth portrait, with the Brazilian flag underneath. The number 43 appears beneath the flag."
+    },
+    {
+        "second": 13,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2RGbsORdl20/output_frames/sec_13_idx_29.jpg",
+        "fps": 60,
+        "explanation": "[11-15] The scene quickly changes to a man in yellow placing a medal on his head and holding flowers in celebration. A yellow circle and numerous yellow emojis appear on the screen. Below the yellow circle is the yellow subtitle \"DANI ALVES.\" The hand above points to the fifth portrait, with the Brazilian flag underneath. The number 43 appears beneath the flag."
+    },
+    {
+        "second": 14,
+        "frame_index": 31,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2RGbsORdl20/output_frames/sec_14_idx_31.jpg",
+        "fps": 60,
+        "explanation": "[11-15] The scene quickly changes to a man in yellow placing a medal on his head and holding flowers in celebration. A yellow circle and numerous yellow emojis appear on the screen. Below the yellow circle is the yellow subtitle \"DANI ALVES.\" The hand above points to the fifth portrait, with the Brazilian flag underneath. The number 43 appears beneath the flag."
+    },
+    {
+        "second": 15,
+        "frame_index": 56,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2RGbsORdl20/output_frames/sec_15_idx_56.jpg",
+        "fps": 60,
+        "explanation": "[11-15] The scene quickly changes to a man in yellow placing a medal on his head and holding flowers in celebration. A yellow circle and numerous yellow emojis appear on the screen. Below the yellow circle is the yellow subtitle \"DANI ALVES.\" The hand above points to the fifth portrait, with the Brazilian flag underneath. The number 43 appears beneath the flag."
+    },
+    {
+        "second": 16,
+        "frame_index": 30,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2RGbsORdl20/output_frames/sec_16_idx_30.jpg",
+        "fps": 60,
+        "explanation": "[15-21] The scene transitions to a man in blue and white with a black cape holding a trophy and celebrating with his teammates. They joyfully jump while holding the trophy. A yellow circle and numerous yellow emojis appear on the screen. Below the yellow circle is the yellow subtitle \"MESSI.\" The hand above points to the sixth portrait, with the Argentinian flag underneath. The number 44 appears beneath the flag."
+    },
+    {
+        "second": 17,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2RGbsORdl20/output_frames/sec_17_idx_1.jpg",
+        "fps": 60,
+        "explanation": "[15-21] The scene transitions to a man in blue and white with a black cape holding a trophy and celebrating with his teammates. They joyfully jump while holding the trophy. A yellow circle and numerous yellow emojis appear on the screen. Below the yellow circle is the yellow subtitle \"MESSI.\" The hand above points to the sixth portrait, with the Argentinian flag underneath. The number 44 appears beneath the flag."
+    },
+    {
+        "second": 18,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2RGbsORdl20/output_frames/sec_18_idx_26.jpg",
+        "fps": 60,
+        "explanation": "[15-21] The scene transitions to a man in blue and white with a black cape holding a trophy and celebrating with his teammates. They joyfully jump while holding the trophy. A yellow circle and numerous yellow emojis appear on the screen. Below the yellow circle is the yellow subtitle \"MESSI.\" The hand above points to the sixth portrait, with the Argentinian flag underneath. The number 44 appears beneath the flag."
+    },
+    {
+        "second": 19,
+        "frame_index": 47,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2RGbsORdl20/output_frames/sec_19_idx_47.jpg",
+        "fps": 60,
+        "explanation": "[15-21] The scene transitions to a man in blue and white with a black cape holding a trophy and celebrating with his teammates. They joyfully jump while holding the trophy. A yellow circle and numerous yellow emojis appear on the screen. Below the yellow circle is the yellow subtitle \"MESSI.\" The hand above points to the sixth portrait, with the Argentinian flag underneath. The number 44 appears beneath the flag."
+    },
+    {
+        "second": 20,
+        "frame_index": 59,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2RGbsORdl20/output_frames/sec_20_idx_59.jpg",
+        "fps": 60,
+        "explanation": "[15-21] The scene transitions to a man in blue and white with a black cape holding a trophy and celebrating with his teammates. They joyfully jump while holding the trophy. A yellow circle and numerous yellow emojis appear on the screen. Below the yellow circle is the yellow subtitle \"MESSI.\" The hand above points to the sixth portrait, with the Argentinian flag underneath. The number 44 appears beneath the flag."
+    },
+    {
+        "second": 21,
+        "frame_index": 59,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2RGbsORdl20/output_frames/sec_21_idx_59.jpg",
+        "fps": 60,
+        "explanation": "[15-21] The scene transitions to a man in blue and white with a black cape holding a trophy and celebrating with his teammates. They joyfully jump while holding the trophy. A yellow circle and numerous yellow emojis appear on the screen. Below the yellow circle is the yellow subtitle \"MESSI.\" The hand above points to the sixth portrait, with the Argentinian flag underneath. The number 44 appears beneath the flag."
+    },
+    {
+        "second": 22,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2RGbsORdl20/output_frames/sec_22_idx_22.jpg",
+        "fps": 60,
+        "explanation": "[21-26] The scene shifts to a man in white on a field, irritably scratching his head. A yellow circle and numerous yellow emojis appear on the screen. Below the yellow circle is the yellow subtitle \"KANE.\" The hand above points to the seventh portrait, with the British flag underneath. The number 0 appears beneath the flag."
+    },
+    {
+        "second": 23,
+        "frame_index": 59,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2RGbsORdl20/output_frames/sec_23_idx_59.jpg",
+        "fps": 60,
+        "explanation": "[21-26] The scene shifts to a man in white on a field, irritably scratching his head. A yellow circle and numerous yellow emojis appear on the screen. Below the yellow circle is the yellow subtitle \"KANE.\" The hand above points to the seventh portrait, with the British flag underneath. The number 0 appears beneath the flag."
+    },
+    {
+        "second": 24,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2RGbsORdl20/output_frames/sec_24_idx_1.jpg",
+        "fps": 60,
+        "explanation": "[21-26] The scene shifts to a man in white on a field, irritably scratching his head. A yellow circle and numerous yellow emojis appear on the screen. Below the yellow circle is the yellow subtitle \"KANE.\" The hand above points to the seventh portrait, with the British flag underneath. The number 0 appears beneath the flag."
+    },
+    {
+        "second": 25,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2RGbsORdl20/output_frames/sec_25_idx_13.jpg",
+        "fps": 60,
+        "explanation": "[21-26] The scene shifts to a man in white on a field, irritably scratching his head. A yellow circle and numerous yellow emojis appear on the screen. Below the yellow circle is the yellow subtitle \"KANE.\" The hand above points to the seventh portrait, with the British flag underneath. The number 0 appears beneath the flag."
+    },
+    {
+        "second": 26,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2RGbsORdl20/output_frames/sec_26_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[21-26] The scene shifts to a man in white on a field, irritably scratching his head. A yellow circle and numerous yellow emojis appear on the screen. Below the yellow circle is the yellow subtitle \"KANE.\" The hand above points to the seventh portrait, with the British flag underneath. The number 0 appears beneath the flag."
+    }
+]

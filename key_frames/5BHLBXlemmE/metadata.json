@@ -1,0 +1,86 @@
+[
+    {
+        "second": 0,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5BHLBXlemmE/output_frames/sec_0_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A white plastic bucket with a faux brick wall in the background."
+    },
+    {
+        "second": 1,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5BHLBXlemmE/output_frames/sec_1_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Next, a person picks up a gray bottle, aligns the bottle mouth with the opening of the plastic bucket, and starts pouring red liquid into the bucket. The red liquid flows down the bottle mouth and the threaded exterior of the plastic bucket. A red cross appears on the screen, indicating that this is incorrect."
+    },
+    {
+        "second": 2,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5BHLBXlemmE/output_frames/sec_2_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Next, a person picks up a gray bottle, aligns the bottle mouth with the opening of the plastic bucket, and starts pouring red liquid into the bucket. The red liquid flows down the bottle mouth and the threaded exterior of the plastic bucket. A red cross appears on the screen, indicating that this is incorrect."
+    },
+    {
+        "second": 3,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5BHLBXlemmE/output_frames/sec_3_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Next, a person picks up a gray bottle, aligns the bottle mouth with the opening of the plastic bucket, and starts pouring red liquid into the bucket. The red liquid flows down the bottle mouth and the threaded exterior of the plastic bucket. A red cross appears on the screen, indicating that this is incorrect."
+    },
+    {
+        "second": 4,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5BHLBXlemmE/output_frames/sec_4_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[3-11] Subsequently, the scene switches to a clamp and a tube of glue. A hand is holding the glue, preparing to fix it with the clamp. A hacksaw is sawing the glue bottle body, creating a notch in it. The scene switches back to the plastic bucket. The cut glue bottle mouth is inserted into the opening of the plastic bucket, and then the red liquid continues to be poured in. This time it drips accurately into the plastic bucket without flowing down the exterior. A green check mark appears on the screen, indicating that this is correct."
+    },
+    {
+        "second": 5,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5BHLBXlemmE/output_frames/sec_5_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[3-11] Subsequently, the scene switches to a clamp and a tube of glue. A hand is holding the glue, preparing to fix it with the clamp. A hacksaw is sawing the glue bottle body, creating a notch in it. The scene switches back to the plastic bucket. The cut glue bottle mouth is inserted into the opening of the plastic bucket, and then the red liquid continues to be poured in. This time it drips accurately into the plastic bucket without flowing down the exterior. A green check mark appears on the screen, indicating that this is correct."
+    },
+    {
+        "second": 6,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5BHLBXlemmE/output_frames/sec_6_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[3-11] Subsequently, the scene switches to a clamp and a tube of glue. A hand is holding the glue, preparing to fix it with the clamp. A hacksaw is sawing the glue bottle body, creating a notch in it. The scene switches back to the plastic bucket. The cut glue bottle mouth is inserted into the opening of the plastic bucket, and then the red liquid continues to be poured in. This time it drips accurately into the plastic bucket without flowing down the exterior. A green check mark appears on the screen, indicating that this is correct."
+    },
+    {
+        "second": 7,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5BHLBXlemmE/output_frames/sec_7_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[3-11] Subsequently, the scene switches to a clamp and a tube of glue. A hand is holding the glue, preparing to fix it with the clamp. A hacksaw is sawing the glue bottle body, creating a notch in it. The scene switches back to the plastic bucket. The cut glue bottle mouth is inserted into the opening of the plastic bucket, and then the red liquid continues to be poured in. This time it drips accurately into the plastic bucket without flowing down the exterior. A green check mark appears on the screen, indicating that this is correct."
+    },
+    {
+        "second": 8,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5BHLBXlemmE/output_frames/sec_8_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[3-11] Subsequently, the scene switches to a clamp and a tube of glue. A hand is holding the glue, preparing to fix it with the clamp. A hacksaw is sawing the glue bottle body, creating a notch in it. The scene switches back to the plastic bucket. The cut glue bottle mouth is inserted into the opening of the plastic bucket, and then the red liquid continues to be poured in. This time it drips accurately into the plastic bucket without flowing down the exterior. A green check mark appears on the screen, indicating that this is correct."
+    },
+    {
+        "second": 9,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5BHLBXlemmE/output_frames/sec_9_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[3-11] Subsequently, the scene switches to a clamp and a tube of glue. A hand is holding the glue, preparing to fix it with the clamp. A hacksaw is sawing the glue bottle body, creating a notch in it. The scene switches back to the plastic bucket. The cut glue bottle mouth is inserted into the opening of the plastic bucket, and then the red liquid continues to be poured in. This time it drips accurately into the plastic bucket without flowing down the exterior. A green check mark appears on the screen, indicating that this is correct."
+    },
+    {
+        "second": 10,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5BHLBXlemmE/output_frames/sec_10_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[3-11] Subsequently, the scene switches to a clamp and a tube of glue. A hand is holding the glue, preparing to fix it with the clamp. A hacksaw is sawing the glue bottle body, creating a notch in it. The scene switches back to the plastic bucket. The cut glue bottle mouth is inserted into the opening of the plastic bucket, and then the red liquid continues to be poured in. This time it drips accurately into the plastic bucket without flowing down the exterior. A green check mark appears on the screen, indicating that this is correct."
+    },
+    {
+        "second": 11,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5BHLBXlemmE/output_frames/sec_11_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[3-11] Subsequently, the scene switches to a clamp and a tube of glue. A hand is holding the glue, preparing to fix it with the clamp. A hacksaw is sawing the glue bottle body, creating a notch in it. The scene switches back to the plastic bucket. The cut glue bottle mouth is inserted into the opening of the plastic bucket, and then the red liquid continues to be poured in. This time it drips accurately into the plastic bucket without flowing down the exterior. A green check mark appears on the screen, indicating that this is correct."
+    }
+]

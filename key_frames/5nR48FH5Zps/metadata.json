@@ -1,0 +1,44 @@
+[
+    {
+        "second": 0,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5nR48FH5Zps/output_frames/sec_0_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A cat sits lazily, looking at the leg of a person standing next to it."
+    },
+    {
+        "second": 1,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5nR48FH5Zps/output_frames/sec_1_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[0-2] The cat's eyes widen, and the text \"@NutshellAnimations\" appears above its head."
+    },
+    {
+        "second": 2,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5nR48FH5Zps/output_frames/sec_2_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[0-2] The cat's eyes widen, and the text \"@NutshellAnimations\" appears above its head."
+    },
+    {
+        "second": 3,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5nR48FH5Zps/output_frames/sec_3_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[2-5] Then the cat suddenly opens its mouth wide and screams. The camera then zooms out to show the upper body of a person wearing a tie. A hand holding a mouse appears in the frame. The cat backs away, looking at the mouse, and closes its mouth. Finally, the scene changes, and the cat is standing up. The mouse lies on the ground. The cat smiles happily, raises its paw, and sits on the mouse with its back to the camera."
+    },
+    {
+        "second": 4,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5nR48FH5Zps/output_frames/sec_4_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[2-5] Then the cat suddenly opens its mouth wide and screams. The camera then zooms out to show the upper body of a person wearing a tie. A hand holding a mouse appears in the frame. The cat backs away, looking at the mouse, and closes its mouth. Finally, the scene changes, and the cat is standing up. The mouse lies on the ground. The cat smiles happily, raises its paw, and sits on the mouse with its back to the camera."
+    },
+    {
+        "second": 5,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5nR48FH5Zps/output_frames/sec_5_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[2-5] Then the cat suddenly opens its mouth wide and screams. The camera then zooms out to show the upper body of a person wearing a tie. A hand holding a mouse appears in the frame. The cat backs away, looking at the mouse, and closes its mouth. Finally, the scene changes, and the cat is standing up. The mouse lies on the ground. The cat smiles happily, raises its paw, and sits on the mouse with its back to the camera."
+    }
+]

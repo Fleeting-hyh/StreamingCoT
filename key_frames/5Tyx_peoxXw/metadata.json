@@ -1,0 +1,65 @@
+[
+    {
+        "second": 0,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5Tyx_peoxXw/output_frames/sec_0_idx_26.jpg",
+        "fps": 60,
+        "explanation": "[0-0] A woman wearing a blue shirt, black waterproof pants, a face mask, and blue gloves is standing on a muddy tidal flat. She is holding a metal pipe with a valve and is inserting it into the mud. A plastic bottle is hanging from her waist."
+    },
+    {
+        "second": 1,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5Tyx_peoxXw/output_frames/sec_1_idx_22.jpg",
+        "fps": 60,
+        "explanation": "[0-2] The woman continues to insert the metal pipe into the mud, constantly pressing the valve on the pipe with her hand. Muddy water gushes out of the pipe's mouth, splashing up."
+    },
+    {
+        "second": 2,
+        "frame_index": 31,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5Tyx_peoxXw/output_frames/sec_2_idx_31.jpg",
+        "fps": 60,
+        "explanation": "[0-2] The woman continues to insert the metal pipe into the mud, constantly pressing the valve on the pipe with her hand. Muddy water gushes out of the pipe's mouth, splashing up."
+    },
+    {
+        "second": 3,
+        "frame_index": 50,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5Tyx_peoxXw/output_frames/sec_3_idx_50.jpg",
+        "fps": 60,
+        "explanation": "[2-5] Then she stops pressing the metal pipe and bends down to check the surroundings of the pipe. She feels for something in the turbid muddy water with her gloved hand. She grabs a small animal from the muddy water, which seems to be a mantis shrimp. She rinses the mantis shrimp in her hand and then holds it up to the camera."
+    },
+    {
+        "second": 4,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5Tyx_peoxXw/output_frames/sec_4_idx_7.jpg",
+        "fps": 60,
+        "explanation": "[2-5] Then she stops pressing the metal pipe and bends down to check the surroundings of the pipe. She feels for something in the turbid muddy water with her gloved hand. She grabs a small animal from the muddy water, which seems to be a mantis shrimp. She rinses the mantis shrimp in her hand and then holds it up to the camera."
+    },
+    {
+        "second": 5,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5Tyx_peoxXw/output_frames/sec_5_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[2-5] Then she stops pressing the metal pipe and bends down to check the surroundings of the pipe. She feels for something in the turbid muddy water with her gloved hand. She grabs a small animal from the muddy water, which seems to be a mantis shrimp. She rinses the mantis shrimp in her hand and then holds it up to the camera."
+    },
+    {
+        "second": 6,
+        "frame_index": 48,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5Tyx_peoxXw/output_frames/sec_6_idx_48.jpg",
+        "fps": 60,
+        "explanation": "[5-8] Finally, the woman puts the mantis shrimp in the plastic bottle on her waist. A bridge over the sea can be seen in the distance, with vehicles driving on it."
+    },
+    {
+        "second": 7,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5Tyx_peoxXw/output_frames/sec_7_idx_14.jpg",
+        "fps": 60,
+        "explanation": "[5-8] Finally, the woman puts the mantis shrimp in the plastic bottle on her waist. A bridge over the sea can be seen in the distance, with vehicles driving on it."
+    },
+    {
+        "second": 8,
+        "frame_index": 32,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5Tyx_peoxXw/output_frames/sec_8_idx_32.jpg",
+        "fps": 60,
+        "explanation": "[5-8] Finally, the woman puts the mantis shrimp in the plastic bottle on her waist. A bridge over the sea can be seen in the distance, with vehicles driving on it."
+    }
+]

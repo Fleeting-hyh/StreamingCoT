@@ -1,0 +1,65 @@
+[
+    {
+        "second": 0,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/47eqDF1NguQ/output_frames/sec_0_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[0-0] At the doorway of a room, a black-haired man with tattoos on his right shoulder and arm, wearing blue shorts, is looking into the room. His body is partially hidden behind the door frame, only his side profile is visible. Inside the room, there is a dark brown table and a chair, and a wall lamp on the wall."
+    },
+    {
+        "second": 1,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/47eqDF1NguQ/output_frames/sec_1_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[0-2] First, the black-haired man beckons with his hand, and a woman in a blue shirt walks out barefoot from the left, holding a white towel in her hand."
+    },
+    {
+        "second": 2,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/47eqDF1NguQ/output_frames/sec_2_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[0-2] First, the black-haired man beckons with his hand, and a woman in a blue shirt walks out barefoot from the left, holding a white towel in her hand."
+    },
+    {
+        "second": 3,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/47eqDF1NguQ/output_frames/sec_3_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[2-6] Then the woman in blue reaches out to hand the white towel to the black-haired man. The man grabs her hand holding the towel and pulls it. Then he grabs both of her arms and pulls her to the left. The woman in blue resists by pushing against the door frame, but falls to the ground."
+    },
+    {
+        "second": 4,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/47eqDF1NguQ/output_frames/sec_4_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[2-6] Then the woman in blue reaches out to hand the white towel to the black-haired man. The man grabs her hand holding the towel and pulls it. Then he grabs both of her arms and pulls her to the left. The woman in blue resists by pushing against the door frame, but falls to the ground."
+    },
+    {
+        "second": 5,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/47eqDF1NguQ/output_frames/sec_5_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[2-6] Then the woman in blue reaches out to hand the white towel to the black-haired man. The man grabs her hand holding the towel and pulls it. Then he grabs both of her arms and pulls her to the left. The woman in blue resists by pushing against the door frame, but falls to the ground."
+    },
+    {
+        "second": 6,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/47eqDF1NguQ/output_frames/sec_6_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[2-6] Then the woman in blue reaches out to hand the white towel to the black-haired man. The man grabs her hand holding the towel and pulls it. Then he grabs both of her arms and pulls her to the left. The woman in blue resists by pushing against the door frame, but falls to the ground."
+    },
+    {
+        "second": 7,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/47eqDF1NguQ/output_frames/sec_7_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[6-8] Finally, the black-haired man grabs the woman's hand with his right hand and her ankle with his left hand, dragging her into the room. The frame freezes on the empty doorway."
+    },
+    {
+        "second": 8,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/47eqDF1NguQ/output_frames/sec_8_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[6-8] Finally, the black-haired man grabs the woman's hand with his right hand and her ankle with his left hand, dragging her into the room. The frame freezes on the empty doorway."
+    }
+]

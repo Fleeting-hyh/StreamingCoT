@@ -1,0 +1,65 @@
+[
+    {
+        "second": 0,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EdUzA8C-A4c/output_frames/sec_0_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[0-0] Outside a house built on a hillside, a man wearing a blue and white checkered shirt, gray pants, and a hat, and another man wearing a gray hoodie and khaki pants with sunglasses are sawing down a tall tree with chainsaws. There are many trees on the hillside."
+    },
+    {
+        "second": 1,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EdUzA8C-A4c/output_frames/sec_1_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[0-6] Then the two men step back, and the tree they sawed down falls down the hillside."
+    },
+    {
+        "second": 2,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EdUzA8C-A4c/output_frames/sec_2_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[0-6] Then the two men step back, and the tree they sawed down falls down the hillside."
+    },
+    {
+        "second": 3,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EdUzA8C-A4c/output_frames/sec_3_idx_24.jpg",
+        "fps": 30,
+        "explanation": "[0-6] Then the two men step back, and the tree they sawed down falls down the hillside."
+    },
+    {
+        "second": 4,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EdUzA8C-A4c/output_frames/sec_4_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[0-6] Then the two men step back, and the tree they sawed down falls down the hillside."
+    },
+    {
+        "second": 5,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EdUzA8C-A4c/output_frames/sec_5_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[0-6] Then the two men step back, and the tree they sawed down falls down the hillside."
+    },
+    {
+        "second": 6,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EdUzA8C-A4c/output_frames/sec_6_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[0-6] Then the two men step back, and the tree they sawed down falls down the hillside."
+    },
+    {
+        "second": 7,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EdUzA8C-A4c/output_frames/sec_7_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[6-8] Finally, the man in the hat looks back at the man in the gray hoodie."
+    },
+    {
+        "second": 8,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EdUzA8C-A4c/output_frames/sec_8_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[6-8] Finally, the man in the hat looks back at the man in the gray hoodie."
+    }
+]

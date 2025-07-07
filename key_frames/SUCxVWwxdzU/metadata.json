@@ -1,0 +1,135 @@
+[
+    {
+        "second": 0,
+        "frame_index": 33,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SUCxVWwxdzU/output_frames/sec_0_idx_33.jpg",
+        "fps": 60,
+        "explanation": "[0-0] In a brightly lit room, a blue dinosaur is looking at the camera. The background shows a living room with a white sofa and a TV mounted on the wall."
+    },
+    {
+        "second": 1,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SUCxVWwxdzU/output_frames/sec_1_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[0-2] The dinosaur opens its mouth and waves its body in the living room. Then a small dog appears, squatting on the floor. The dog looks up at the dinosaur, then seems to understand something and turns to walk into the room."
+    },
+    {
+        "second": 2,
+        "frame_index": 59,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SUCxVWwxdzU/output_frames/sec_2_idx_59.jpg",
+        "fps": 60,
+        "explanation": "[0-2] The dinosaur opens its mouth and waves its body in the living room. Then a small dog appears, squatting on the floor. The dog looks up at the dinosaur, then seems to understand something and turns to walk into the room."
+    },
+    {
+        "second": 3,
+        "frame_index": 59,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SUCxVWwxdzU/output_frames/sec_3_idx_59.jpg",
+        "fps": 60,
+        "explanation": "[2-7] The dog runs to a table with a glass bowl of corn kernels, raises its front legs and puts them on the table. Then the camera focuses on the glass bowl filled with corn kernels. A plastic spoon scoops up a spoonful of corn and puts it into a black bowl. Then the dog puts the bowl into the microwave."
+    },
+    {
+        "second": 4,
+        "frame_index": 40,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SUCxVWwxdzU/output_frames/sec_4_idx_40.jpg",
+        "fps": 60,
+        "explanation": "[2-7] The dog runs to a table with a glass bowl of corn kernels, raises its front legs and puts them on the table. Then the camera focuses on the glass bowl filled with corn kernels. A plastic spoon scoops up a spoonful of corn and puts it into a black bowl. Then the dog puts the bowl into the microwave."
+    },
+    {
+        "second": 5,
+        "frame_index": 58,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SUCxVWwxdzU/output_frames/sec_5_idx_58.jpg",
+        "fps": 60,
+        "explanation": "[2-7] The dog runs to a table with a glass bowl of corn kernels, raises its front legs and puts them on the table. Then the camera focuses on the glass bowl filled with corn kernels. A plastic spoon scoops up a spoonful of corn and puts it into a black bowl. Then the dog puts the bowl into the microwave."
+    },
+    {
+        "second": 6,
+        "frame_index": 56,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SUCxVWwxdzU/output_frames/sec_6_idx_56.jpg",
+        "fps": 60,
+        "explanation": "[2-7] The dog runs to a table with a glass bowl of corn kernels, raises its front legs and puts them on the table. Then the camera focuses on the glass bowl filled with corn kernels. A plastic spoon scoops up a spoonful of corn and puts it into a black bowl. Then the dog puts the bowl into the microwave."
+    },
+    {
+        "second": 7,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SUCxVWwxdzU/output_frames/sec_7_idx_6.jpg",
+        "fps": 60,
+        "explanation": "[2-7] The dog runs to a table with a glass bowl of corn kernels, raises its front legs and puts them on the table. Then the camera focuses on the glass bowl filled with corn kernels. A plastic spoon scoops up a spoonful of corn and puts it into a black bowl. Then the dog puts the bowl into the microwave."
+    },
+    {
+        "second": 8,
+        "frame_index": 38,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SUCxVWwxdzU/output_frames/sec_8_idx_38.jpg",
+        "fps": 60,
+        "explanation": "[7-11] The scene switches to the living room, where we see the dinosaur watching TV and shaking its body happily. The scene then returns to the front of the microwave, where the dog stares at the microwave countdown timer until it ends. The dog opens the microwave, revealing the black bowl full of popcorn. The dog reaches out and takes the bowl out of the microwave."
+    },
+    {
+        "second": 9,
+        "frame_index": 30,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SUCxVWwxdzU/output_frames/sec_9_idx_30.jpg",
+        "fps": 60,
+        "explanation": "[7-11] The scene switches to the living room, where we see the dinosaur watching TV and shaking its body happily. The scene then returns to the front of the microwave, where the dog stares at the microwave countdown timer until it ends. The dog opens the microwave, revealing the black bowl full of popcorn. The dog reaches out and takes the bowl out of the microwave."
+    },
+    {
+        "second": 10,
+        "frame_index": 34,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SUCxVWwxdzU/output_frames/sec_10_idx_34.jpg",
+        "fps": 60,
+        "explanation": "[7-11] The scene switches to the living room, where we see the dinosaur watching TV and shaking its body happily. The scene then returns to the front of the microwave, where the dog stares at the microwave countdown timer until it ends. The dog opens the microwave, revealing the black bowl full of popcorn. The dog reaches out and takes the bowl out of the microwave."
+    },
+    {
+        "second": 11,
+        "frame_index": 58,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SUCxVWwxdzU/output_frames/sec_11_idx_58.jpg",
+        "fps": 60,
+        "explanation": "[7-11] The scene switches to the living room, where we see the dinosaur watching TV and shaking its body happily. The scene then returns to the front of the microwave, where the dog stares at the microwave countdown timer until it ends. The dog opens the microwave, revealing the black bowl full of popcorn. The dog reaches out and takes the bowl out of the microwave."
+    },
+    {
+        "second": 12,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SUCxVWwxdzU/output_frames/sec_12_idx_12.jpg",
+        "fps": 60,
+        "explanation": "[11-18] Then the scene returns to the living room, where the dog is back. The dinosaur is watching a dinosaur movie on TV. Finally, the dinosaur opens its mouth happily, and the dog sits on the sofa eating popcorn from the bowl."
+    },
+    {
+        "second": 13,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SUCxVWwxdzU/output_frames/sec_13_idx_12.jpg",
+        "fps": 60,
+        "explanation": "[11-18] Then the scene returns to the living room, where the dog is back. The dinosaur is watching a dinosaur movie on TV. Finally, the dinosaur opens its mouth happily, and the dog sits on the sofa eating popcorn from the bowl."
+    },
+    {
+        "second": 14,
+        "frame_index": 34,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SUCxVWwxdzU/output_frames/sec_14_idx_34.jpg",
+        "fps": 60,
+        "explanation": "[11-18] Then the scene returns to the living room, where the dog is back. The dinosaur is watching a dinosaur movie on TV. Finally, the dinosaur opens its mouth happily, and the dog sits on the sofa eating popcorn from the bowl."
+    },
+    {
+        "second": 15,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SUCxVWwxdzU/output_frames/sec_15_idx_15.jpg",
+        "fps": 60,
+        "explanation": "[11-18] Then the scene returns to the living room, where the dog is back. The dinosaur is watching a dinosaur movie on TV. Finally, the dinosaur opens its mouth happily, and the dog sits on the sofa eating popcorn from the bowl."
+    },
+    {
+        "second": 16,
+        "frame_index": 34,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SUCxVWwxdzU/output_frames/sec_16_idx_34.jpg",
+        "fps": 60,
+        "explanation": "[11-18] Then the scene returns to the living room, where the dog is back. The dinosaur is watching a dinosaur movie on TV. Finally, the dinosaur opens its mouth happily, and the dog sits on the sofa eating popcorn from the bowl."
+    },
+    {
+        "second": 17,
+        "frame_index": 47,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SUCxVWwxdzU/output_frames/sec_17_idx_47.jpg",
+        "fps": 60,
+        "explanation": "[11-18] Then the scene returns to the living room, where the dog is back. The dinosaur is watching a dinosaur movie on TV. Finally, the dinosaur opens its mouth happily, and the dog sits on the sofa eating popcorn from the bowl."
+    },
+    {
+        "second": 18,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SUCxVWwxdzU/output_frames/sec_18_idx_6.jpg",
+        "fps": 60,
+        "explanation": "[11-18] Then the scene returns to the living room, where the dog is back. The dinosaur is watching a dinosaur movie on TV. Finally, the dinosaur opens its mouth happily, and the dog sits on the sofa eating popcorn from the bowl."
+    }
+]

@@ -1,0 +1,317 @@
+[
+    {
+        "second": 0,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3vNHpdWMXHo/output_frames/sec_0_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[0-0] In a house, there are several open doors. A black shoe rack is placed on the wooden floor at the doorway, with black coat hooks above it. Through the small glass on the door, you can see the plants outside."
+    },
+    {
+        "second": 1,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3vNHpdWMXHo/output_frames/sec_1_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Then, a man jumps in from the doorway and stands on the shoe rack in the hallway. Then, he steps on the doorknobs of the two doors and rotates himself onto a dark gray sofa."
+    },
+    {
+        "second": 2,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3vNHpdWMXHo/output_frames/sec_2_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Then, a man jumps in from the doorway and stands on the shoe rack in the hallway. Then, he steps on the doorknobs of the two doors and rotates himself onto a dark gray sofa."
+    },
+    {
+        "second": 3,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3vNHpdWMXHo/output_frames/sec_3_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Then, a man jumps in from the doorway and stands on the shoe rack in the hallway. Then, he steps on the doorknobs of the two doors and rotates himself onto a dark gray sofa."
+    },
+    {
+        "second": 4,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3vNHpdWMXHo/output_frames/sec_4_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Then, a man jumps in from the doorway and stands on the shoe rack in the hallway. Then, he steps on the doorknobs of the two doors and rotates himself onto a dark gray sofa."
+    },
+    {
+        "second": 5,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3vNHpdWMXHo/output_frames/sec_5_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Then, a man jumps in from the doorway and stands on the shoe rack in the hallway. Then, he steps on the doorknobs of the two doors and rotates himself onto a dark gray sofa."
+    },
+    {
+        "second": 6,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3vNHpdWMXHo/output_frames/sec_6_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[5-9] Subsequently, the man jumps from the sofa onto a door, then grabs the door frame with both hands, steps on a trash can, and arrives at the window. Afterward, he jumps onto the kitchen counter."
+    },
+    {
+        "second": 7,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3vNHpdWMXHo/output_frames/sec_7_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[5-9] Subsequently, the man jumps from the sofa onto a door, then grabs the door frame with both hands, steps on a trash can, and arrives at the window. Afterward, he jumps onto the kitchen counter."
+    },
+    {
+        "second": 8,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3vNHpdWMXHo/output_frames/sec_8_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[5-9] Subsequently, the man jumps from the sofa onto a door, then grabs the door frame with both hands, steps on a trash can, and arrives at the window. Afterward, he jumps onto the kitchen counter."
+    },
+    {
+        "second": 9,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3vNHpdWMXHo/output_frames/sec_9_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[5-9] Subsequently, the man jumps from the sofa onto a door, then grabs the door frame with both hands, steps on a trash can, and arrives at the window. Afterward, he jumps onto the kitchen counter."
+    },
+    {
+        "second": 10,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3vNHpdWMXHo/output_frames/sec_10_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[9-14] Next, the man jumps from the kitchen counter to the side of the cabinet, then opens the white cabinet, takes out a white object and holds it in his mouth, and jumps onto the refrigerator. He then jumps onto the sofa, does a somersault to the front of the computer monitor."
+    },
+    {
+        "second": 11,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3vNHpdWMXHo/output_frames/sec_11_idx_24.jpg",
+        "fps": 30,
+        "explanation": "[9-14] Next, the man jumps from the kitchen counter to the side of the cabinet, then opens the white cabinet, takes out a white object and holds it in his mouth, and jumps onto the refrigerator. He then jumps onto the sofa, does a somersault to the front of the computer monitor."
+    },
+    {
+        "second": 12,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3vNHpdWMXHo/output_frames/sec_12_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[9-14] Next, the man jumps from the kitchen counter to the side of the cabinet, then opens the white cabinet, takes out a white object and holds it in his mouth, and jumps onto the refrigerator. He then jumps onto the sofa, does a somersault to the front of the computer monitor."
+    },
+    {
+        "second": 13,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3vNHpdWMXHo/output_frames/sec_13_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[9-14] Next, the man jumps from the kitchen counter to the side of the cabinet, then opens the white cabinet, takes out a white object and holds it in his mouth, and jumps onto the refrigerator. He then jumps onto the sofa, does a somersault to the front of the computer monitor."
+    },
+    {
+        "second": 14,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3vNHpdWMXHo/output_frames/sec_14_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[9-14] Next, the man jumps from the kitchen counter to the side of the cabinet, then opens the white cabinet, takes out a white object and holds it in his mouth, and jumps onto the refrigerator. He then jumps onto the sofa, does a somersault to the front of the computer monitor."
+    },
+    {
+        "second": 15,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3vNHpdWMXHo/output_frames/sec_15_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[14-19] He then jumps onto the sofa, does a somersault to the front of the computer monitor, picks up the gamepad and starts playing games."
+    },
+    {
+        "second": 16,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3vNHpdWMXHo/output_frames/sec_16_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[14-19] He then jumps onto the sofa, does a somersault to the front of the computer monitor, picks up the gamepad and starts playing games."
+    },
+    {
+        "second": 17,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3vNHpdWMXHo/output_frames/sec_17_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[14-19] He then jumps onto the sofa, does a somersault to the front of the computer monitor, picks up the gamepad and starts playing games."
+    },
+    {
+        "second": 18,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3vNHpdWMXHo/output_frames/sec_18_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[14-19] He then jumps onto the sofa, does a somersault to the front of the computer monitor, picks up the gamepad and starts playing games."
+    },
+    {
+        "second": 19,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3vNHpdWMXHo/output_frames/sec_19_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[14-19] He then jumps onto the sofa, does a somersault to the front of the computer monitor, picks up the gamepad and starts playing games."
+    },
+    {
+        "second": 20,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3vNHpdWMXHo/output_frames/sec_20_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[19-27] Then the scene switches to the man jumping onto the refrigerator, holding onto the refrigerator with both hands, then grabbing the wall and stepping on the baseboard on the wall, and finally stepping on the door lock and entering a room."
+    },
+    {
+        "second": 21,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3vNHpdWMXHo/output_frames/sec_21_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[19-27] Then the scene switches to the man jumping onto the refrigerator, holding onto the refrigerator with both hands, then grabbing the wall and stepping on the baseboard on the wall, and finally stepping on the door lock and entering a room."
+    },
+    {
+        "second": 22,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3vNHpdWMXHo/output_frames/sec_22_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[19-27] Then the scene switches to the man jumping onto the refrigerator, holding onto the refrigerator with both hands, then grabbing the wall and stepping on the baseboard on the wall, and finally stepping on the door lock and entering a room."
+    },
+    {
+        "second": 23,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3vNHpdWMXHo/output_frames/sec_23_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[19-27] Then the scene switches to the man jumping onto the refrigerator, holding onto the refrigerator with both hands, then grabbing the wall and stepping on the baseboard on the wall, and finally stepping on the door lock and entering a room."
+    },
+    {
+        "second": 24,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3vNHpdWMXHo/output_frames/sec_24_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[19-27] Then the scene switches to the man jumping onto the refrigerator, holding onto the refrigerator with both hands, then grabbing the wall and stepping on the baseboard on the wall, and finally stepping on the door lock and entering a room."
+    },
+    {
+        "second": 25,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3vNHpdWMXHo/output_frames/sec_25_idx_24.jpg",
+        "fps": 30,
+        "explanation": "[19-27] Then the scene switches to the man jumping onto the refrigerator, holding onto the refrigerator with both hands, then grabbing the wall and stepping on the baseboard on the wall, and finally stepping on the door lock and entering a room."
+    },
+    {
+        "second": 26,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3vNHpdWMXHo/output_frames/sec_26_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[19-27] Then the scene switches to the man jumping onto the refrigerator, holding onto the refrigerator with both hands, then grabbing the wall and stepping on the baseboard on the wall, and finally stepping on the door lock and entering a room."
+    },
+    {
+        "second": 27,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3vNHpdWMXHo/output_frames/sec_27_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[19-27] Then the scene switches to the man jumping onto the refrigerator, holding onto the refrigerator with both hands, then grabbing the wall and stepping on the baseboard on the wall, and finally stepping on the door lock and entering a room."
+    },
+    {
+        "second": 28,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3vNHpdWMXHo/output_frames/sec_28_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[27-31] Then the picture switches to the man stepping on a white platform, then jumping from the white platform to the bathtub, then laying a dark gray carpet on the ground, and then drawing the colorful curtain."
+    },
+    {
+        "second": 29,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3vNHpdWMXHo/output_frames/sec_29_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[27-31] Then the picture switches to the man stepping on a white platform, then jumping from the white platform to the bathtub, then laying a dark gray carpet on the ground, and then drawing the colorful curtain."
+    },
+    {
+        "second": 30,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3vNHpdWMXHo/output_frames/sec_30_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[27-31] Then the picture switches to the man stepping on a white platform, then jumping from the white platform to the bathtub, then laying a dark gray carpet on the ground, and then drawing the colorful curtain."
+    },
+    {
+        "second": 31,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3vNHpdWMXHo/output_frames/sec_31_idx_24.jpg",
+        "fps": 30,
+        "explanation": "[27-31] Then the picture switches to the man stepping on a white platform, then jumping from the white platform to the bathtub, then laying a dark gray carpet on the ground, and then drawing the colorful curtain."
+    },
+    {
+        "second": 32,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3vNHpdWMXHo/output_frames/sec_32_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[31-37] Then the scene switches to the man with one foot on the cabinet and the other on the white wall, brushing his teeth at the sink with a towel on his head. He then comes out with both hands on the door, then steps on the black shoe rack, and then enters another room with both hands on the door."
+    },
+    {
+        "second": 33,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3vNHpdWMXHo/output_frames/sec_33_idx_24.jpg",
+        "fps": 30,
+        "explanation": "[31-37] Then the scene switches to the man with one foot on the cabinet and the other on the white wall, brushing his teeth at the sink with a towel on his head. He then comes out with both hands on the door, then steps on the black shoe rack, and then enters another room with both hands on the door."
+    },
+    {
+        "second": 34,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3vNHpdWMXHo/output_frames/sec_34_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[31-37] Then the scene switches to the man with one foot on the cabinet and the other on the white wall, brushing his teeth at the sink with a towel on his head. He then comes out with both hands on the door, then steps on the black shoe rack, and then enters another room with both hands on the door."
+    },
+    {
+        "second": 35,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3vNHpdWMXHo/output_frames/sec_35_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[31-37] Then the scene switches to the man with one foot on the cabinet and the other on the white wall, brushing his teeth at the sink with a towel on his head. He then comes out with both hands on the door, then steps on the black shoe rack, and then enters another room with both hands on the door."
+    },
+    {
+        "second": 36,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3vNHpdWMXHo/output_frames/sec_36_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[31-37] Then the scene switches to the man with one foot on the cabinet and the other on the white wall, brushing his teeth at the sink with a towel on his head. He then comes out with both hands on the door, then steps on the black shoe rack, and then enters another room with both hands on the door."
+    },
+    {
+        "second": 37,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3vNHpdWMXHo/output_frames/sec_37_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[31-37] Then the scene switches to the man with one foot on the cabinet and the other on the white wall, brushing his teeth at the sink with a towel on his head. He then comes out with both hands on the door, then steps on the black shoe rack, and then enters another room with both hands on the door."
+    },
+    {
+        "second": 38,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3vNHpdWMXHo/output_frames/sec_38_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[37-44] Finally, the man comes to the bed with both hands on the door, then turns around holding the wooden bar by the bed, hangs the towel on the wooden bar, then turns off the light with his foot and lies on the bed, then turns off the light with his hand and closes the door with his foot. Then the screen goes black."
+    },
+    {
+        "second": 39,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3vNHpdWMXHo/output_frames/sec_39_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[37-44] Finally, the man comes to the bed with both hands on the door, then turns around holding the wooden bar by the bed, hangs the towel on the wooden bar, then turns off the light with his foot and lies on the bed, then turns off the light with his hand and closes the door with his foot. Then the screen goes black."
+    },
+    {
+        "second": 40,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3vNHpdWMXHo/output_frames/sec_40_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[37-44] Finally, the man comes to the bed with both hands on the door, then turns around holding the wooden bar by the bed, hangs the towel on the wooden bar, then turns off the light with his foot and lies on the bed, then turns off the light with his hand and closes the door with his foot. Then the screen goes black."
+    },
+    {
+        "second": 41,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3vNHpdWMXHo/output_frames/sec_41_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[37-44] Finally, the man comes to the bed with both hands on the door, then turns around holding the wooden bar by the bed, hangs the towel on the wooden bar, then turns off the light with his foot and lies on the bed, then turns off the light with his hand and closes the door with his foot. Then the screen goes black."
+    },
+    {
+        "second": 42,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3vNHpdWMXHo/output_frames/sec_42_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[37-44] Finally, the man comes to the bed with both hands on the door, then turns around holding the wooden bar by the bed, hangs the towel on the wooden bar, then turns off the light with his foot and lies on the bed, then turns off the light with his hand and closes the door with his foot. Then the screen goes black."
+    },
+    {
+        "second": 43,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3vNHpdWMXHo/output_frames/sec_43_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[37-44] Finally, the man comes to the bed with both hands on the door, then turns around holding the wooden bar by the bed, hangs the towel on the wooden bar, then turns off the light with his foot and lies on the bed, then turns off the light with his hand and closes the door with his foot. Then the screen goes black."
+    },
+    {
+        "second": 44,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3vNHpdWMXHo/output_frames/sec_44_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[37-44] Finally, the man comes to the bed with both hands on the door, then turns around holding the wooden bar by the bed, hangs the towel on the wooden bar, then turns off the light with his foot and lies on the bed, then turns off the light with his hand and closes the door with his foot. Then the screen goes black."
+    }
+]

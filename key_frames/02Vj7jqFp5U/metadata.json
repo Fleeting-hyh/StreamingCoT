@@ -1,0 +1,72 @@
+[
+    {
+        "second": 0,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/02Vj7jqFp5U/output_frames/sec_0_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[0-0] In a courtyard, a woman in a long blue dress is lighting a small firework. Next to her, not far away, stands another woman in a long red and gold dress. In the background is a house with white tiles, and next to a coconut tree is a gray chair with a lit candle on it."
+    },
+    {
+        "second": 1,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/02Vj7jqFp5U/output_frames/sec_1_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Then the woman in the blue dress takes the small firework and approaches the lit candle. The woman in the red and gold dress, not far away, covers her ears with her hands. Then a coconut falls from the coconut tree, and the small firework happens to be lit. The woman in the blue dress, startled by the falling coconut, picks up the lit firework and runs towards the woman in the red and gold dress. Then the woman in the red and gold dress points at the firework in her hand, and the woman in the blue dress throws the firework away."
+    },
+    {
+        "second": 2,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/02Vj7jqFp5U/output_frames/sec_2_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Then the woman in the blue dress takes the small firework and approaches the lit candle. The woman in the red and gold dress, not far away, covers her ears with her hands. Then a coconut falls from the coconut tree, and the small firework happens to be lit. The woman in the blue dress, startled by the falling coconut, picks up the lit firework and runs towards the woman in the red and gold dress. Then the woman in the red and gold dress points at the firework in her hand, and the woman in the blue dress throws the firework away."
+    },
+    {
+        "second": 3,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/02Vj7jqFp5U/output_frames/sec_3_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Then the woman in the blue dress takes the small firework and approaches the lit candle. The woman in the red and gold dress, not far away, covers her ears with her hands. Then a coconut falls from the coconut tree, and the small firework happens to be lit. The woman in the blue dress, startled by the falling coconut, picks up the lit firework and runs towards the woman in the red and gold dress. Then the woman in the red and gold dress points at the firework in her hand, and the woman in the blue dress throws the firework away."
+    },
+    {
+        "second": 4,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/02Vj7jqFp5U/output_frames/sec_4_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Then the woman in the blue dress takes the small firework and approaches the lit candle. The woman in the red and gold dress, not far away, covers her ears with her hands. Then a coconut falls from the coconut tree, and the small firework happens to be lit. The woman in the blue dress, startled by the falling coconut, picks up the lit firework and runs towards the woman in the red and gold dress. Then the woman in the red and gold dress points at the firework in her hand, and the woman in the blue dress throws the firework away."
+    },
+    {
+        "second": 5,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/02Vj7jqFp5U/output_frames/sec_5_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[4-9] Then the two quickly run back, and finally the firework explodes on the ground."
+    },
+    {
+        "second": 6,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/02Vj7jqFp5U/output_frames/sec_6_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[4-9] Then the two quickly run back, and finally the firework explodes on the ground."
+    },
+    {
+        "second": 7,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/02Vj7jqFp5U/output_frames/sec_7_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[4-9] Then the two quickly run back, and finally the firework explodes on the ground."
+    },
+    {
+        "second": 8,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/02Vj7jqFp5U/output_frames/sec_8_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[4-9] Then the two quickly run back, and finally the firework explodes on the ground."
+    },
+    {
+        "second": 9,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/02Vj7jqFp5U/output_frames/sec_9_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[4-9] Then the two quickly run back, and finally the firework explodes on the ground."
+    }
+]

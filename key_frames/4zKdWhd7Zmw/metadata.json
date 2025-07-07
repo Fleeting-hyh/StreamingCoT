@@ -1,0 +1,79 @@
+[
+    {
+        "second": 0,
+        "frame_index": 51,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4zKdWhd7Zmw/output_frames/sec_0_idx_51.jpg",
+        "fps": 60,
+        "explanation": "[0-0] A person wearing a black shirt, helmet, and green gloves is riding a fluorescent pink motorcycle on a road. A car of the same color is on the left, and a white pickup truck is on the upper right side of the frame. They are all driving to the right side of the frame, with trees in the background."
+    },
+    {
+        "second": 1,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4zKdWhd7Zmw/output_frames/sec_1_idx_18.jpg",
+        "fps": 60,
+        "explanation": "[0-3] The motorcyclist stands up for a moment, looks to the right, then sits back down and enters a dim underpass. Several nearby cars drive forward in turn. The rider quickly lowers their head and exits the underpass."
+    },
+    {
+        "second": 2,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4zKdWhd7Zmw/output_frames/sec_2_idx_29.jpg",
+        "fps": 60,
+        "explanation": "[0-3] The motorcyclist stands up for a moment, looks to the right, then sits back down and enters a dim underpass. Several nearby cars drive forward in turn. The rider quickly lowers their head and exits the underpass."
+    },
+    {
+        "second": 3,
+        "frame_index": 57,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4zKdWhd7Zmw/output_frames/sec_3_idx_57.jpg",
+        "fps": 60,
+        "explanation": "[0-3] The motorcyclist stands up for a moment, looks to the right, then sits back down and enters a dim underpass. Several nearby cars drive forward in turn. The rider quickly lowers their head and exits the underpass."
+    },
+    {
+        "second": 4,
+        "frame_index": 57,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4zKdWhd7Zmw/output_frames/sec_4_idx_57.jpg",
+        "fps": 60,
+        "explanation": "[3-10] The rider immediately stands up again, lifts the motorcycle's front wheel, and drives forward. The front wheel continues to spin in the air, gradually matching the speed of the fluorescent pink car in the left lane. A white van drives from the left side of the frame to the right. Finally, the frame moves to the right, a blue car gradually enters the frame, and the motorcyclist slowly disappears. The surrounding scenery changes constantly as the cars drive forward."
+    },
+    {
+        "second": 5,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4zKdWhd7Zmw/output_frames/sec_5_idx_1.jpg",
+        "fps": 60,
+        "explanation": "[3-10] The rider immediately stands up again, lifts the motorcycle's front wheel, and drives forward. The front wheel continues to spin in the air, gradually matching the speed of the fluorescent pink car in the left lane. A white van drives from the left side of the frame to the right. Finally, the frame moves to the right, a blue car gradually enters the frame, and the motorcyclist slowly disappears. The surrounding scenery changes constantly as the cars drive forward."
+    },
+    {
+        "second": 6,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4zKdWhd7Zmw/output_frames/sec_6_idx_12.jpg",
+        "fps": 60,
+        "explanation": "[3-10] The rider immediately stands up again, lifts the motorcycle's front wheel, and drives forward. The front wheel continues to spin in the air, gradually matching the speed of the fluorescent pink car in the left lane. A white van drives from the left side of the frame to the right. Finally, the frame moves to the right, a blue car gradually enters the frame, and the motorcyclist slowly disappears. The surrounding scenery changes constantly as the cars drive forward."
+    },
+    {
+        "second": 7,
+        "frame_index": 53,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4zKdWhd7Zmw/output_frames/sec_7_idx_53.jpg",
+        "fps": 60,
+        "explanation": "[3-10] The rider immediately stands up again, lifts the motorcycle's front wheel, and drives forward. The front wheel continues to spin in the air, gradually matching the speed of the fluorescent pink car in the left lane. A white van drives from the left side of the frame to the right. Finally, the frame moves to the right, a blue car gradually enters the frame, and the motorcyclist slowly disappears. The surrounding scenery changes constantly as the cars drive forward."
+    },
+    {
+        "second": 8,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4zKdWhd7Zmw/output_frames/sec_8_idx_5.jpg",
+        "fps": 60,
+        "explanation": "[3-10] The rider immediately stands up again, lifts the motorcycle's front wheel, and drives forward. The front wheel continues to spin in the air, gradually matching the speed of the fluorescent pink car in the left lane. A white van drives from the left side of the frame to the right. Finally, the frame moves to the right, a blue car gradually enters the frame, and the motorcyclist slowly disappears. The surrounding scenery changes constantly as the cars drive forward."
+    },
+    {
+        "second": 9,
+        "frame_index": 51,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4zKdWhd7Zmw/output_frames/sec_9_idx_51.jpg",
+        "fps": 60,
+        "explanation": "[3-10] The rider immediately stands up again, lifts the motorcycle's front wheel, and drives forward. The front wheel continues to spin in the air, gradually matching the speed of the fluorescent pink car in the left lane. A white van drives from the left side of the frame to the right. Finally, the frame moves to the right, a blue car gradually enters the frame, and the motorcyclist slowly disappears. The surrounding scenery changes constantly as the cars drive forward."
+    },
+    {
+        "second": 10,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4zKdWhd7Zmw/output_frames/sec_10_idx_3.jpg",
+        "fps": 60,
+        "explanation": "[3-10] The rider immediately stands up again, lifts the motorcycle's front wheel, and drives forward. The front wheel continues to spin in the air, gradually matching the speed of the fluorescent pink car in the left lane. A white van drives from the left side of the frame to the right. Finally, the frame moves to the right, a blue car gradually enters the frame, and the motorcyclist slowly disappears. The surrounding scenery changes constantly as the cars drive forward."
+    }
+]

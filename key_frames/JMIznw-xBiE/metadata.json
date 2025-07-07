@@ -1,0 +1,65 @@
+[
+    {
+        "second": 0,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JMIznw-xBiE/output_frames/sec_0_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[0-0] In a dimly lit room, a man dressed in black and a woman wearing a black sweatshirt and grey trousers are dancing. The man holds nunchakus in his hand and has a smile on his face. The room is lit with blue lights, and there are chandeliers hanging from the ceiling."
+    },
+    {
+        "second": 1,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JMIznw-xBiE/output_frames/sec_1_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[0-9] Subsequently, the man excitedly dances with the nunchakus in front of the woman and invites her to try. Watching, the woman walks away with a look of disdain. The man begins to smoothly swing the nunchakus, and the woman turns her head and covers her mouth with her hand in surprise."
+    },
+    {
+        "second": 2,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JMIznw-xBiE/output_frames/sec_2_idx_24.jpg",
+        "fps": 30,
+        "explanation": "[0-9] Subsequently, the man excitedly dances with the nunchakus in front of the woman and invites her to try. Watching, the woman walks away with a look of disdain. The man begins to smoothly swing the nunchakus, and the woman turns her head and covers her mouth with her hand in surprise."
+    },
+    {
+        "second": 3,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JMIznw-xBiE/output_frames/sec_3_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[0-9] Subsequently, the man excitedly dances with the nunchakus in front of the woman and invites her to try. Watching, the woman walks away with a look of disdain. The man begins to smoothly swing the nunchakus, and the woman turns her head and covers her mouth with her hand in surprise."
+    },
+    {
+        "second": 4,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JMIznw-xBiE/output_frames/sec_4_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[0-9] Subsequently, the man excitedly dances with the nunchakus in front of the woman and invites her to try. Watching, the woman walks away with a look of disdain. The man begins to smoothly swing the nunchakus, and the woman turns her head and covers her mouth with her hand in surprise."
+    },
+    {
+        "second": 5,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JMIznw-xBiE/output_frames/sec_5_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[0-9] Subsequently, the man excitedly dances with the nunchakus in front of the woman and invites her to try. Watching, the woman walks away with a look of disdain. The man begins to smoothly swing the nunchakus, and the woman turns her head and covers her mouth with her hand in surprise."
+    },
+    {
+        "second": 6,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JMIznw-xBiE/output_frames/sec_6_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[0-9] Subsequently, the man excitedly dances with the nunchakus in front of the woman and invites her to try. Watching, the woman walks away with a look of disdain. The man begins to smoothly swing the nunchakus, and the woman turns her head and covers her mouth with her hand in surprise."
+    },
+    {
+        "second": 7,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JMIznw-xBiE/output_frames/sec_7_idx_24.jpg",
+        "fps": 30,
+        "explanation": "[0-9] Subsequently, the man excitedly dances with the nunchakus in front of the woman and invites her to try. Watching, the woman walks away with a look of disdain. The man begins to smoothly swing the nunchakus, and the woman turns her head and covers her mouth with her hand in surprise."
+    },
+    {
+        "second": 8,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JMIznw-xBiE/output_frames/sec_8_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[0-9] Subsequently, the man excitedly dances with the nunchakus in front of the woman and invites her to try. Watching, the woman walks away with a look of disdain. The man begins to smoothly swing the nunchakus, and the woman turns her head and covers her mouth with her hand in surprise."
+    }
+]

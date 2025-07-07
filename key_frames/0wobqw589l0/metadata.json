@@ -1,0 +1,100 @@
+[
+    {
+        "second": 0,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0wobqw589l0/output_frames/sec_0_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[0-0] The video begins with five goats of different colors drinking milk in front of a wooden feeding station. The station has five feeding bottles on top, the ground is paved with grey tiles, and the background is a red and brown wooden wall. There is a black caption at the top of the screen: \"POV: You have to untangle your goats\"."
+    },
+    {
+        "second": 1,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0wobqw589l0/output_frames/sec_1_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[0-3] As the camera zooms in, a left hand reaches out from the left side of the screen. A black and white goat head stretches over the goat drinking from the third bottle on the left, reaching to the left to eat from the first bottle on the left. The hand reaches under the black and white goat's body, picks it up, moves it to the left, and places it in front of the first bottle on the left."
+    },
+    {
+        "second": 2,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0wobqw589l0/output_frames/sec_2_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[0-3] As the camera zooms in, a left hand reaches out from the left side of the screen. A black and white goat head stretches over the goat drinking from the third bottle on the left, reaching to the left to eat from the first bottle on the left. The hand reaches under the black and white goat's body, picks it up, moves it to the left, and places it in front of the first bottle on the left."
+    },
+    {
+        "second": 3,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0wobqw589l0/output_frames/sec_3_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-3] As the camera zooms in, a left hand reaches out from the left side of the screen. A black and white goat head stretches over the goat drinking from the third bottle on the left, reaching to the left to eat from the first bottle on the left. The hand reaches under the black and white goat's body, picks it up, moves it to the left, and places it in front of the first bottle on the left."
+    },
+    {
+        "second": 4,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0wobqw589l0/output_frames/sec_4_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[3-7] Then the left hand picks up the black and white eared goat that is pressing on the goat drinking from the third bottle on the left. This goat runs to the middle of the third and fourth goats, and the left hand puts the goat back in front of the second bottle on the left."
+    },
+    {
+        "second": 5,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0wobqw589l0/output_frames/sec_5_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[3-7] Then the left hand picks up the black and white eared goat that is pressing on the goat drinking from the third bottle on the left. This goat runs to the middle of the third and fourth goats, and the left hand puts the goat back in front of the second bottle on the left."
+    },
+    {
+        "second": 6,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0wobqw589l0/output_frames/sec_6_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[3-7] Then the left hand picks up the black and white eared goat that is pressing on the goat drinking from the third bottle on the left. This goat runs to the middle of the third and fourth goats, and the left hand puts the goat back in front of the second bottle on the left."
+    },
+    {
+        "second": 7,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0wobqw589l0/output_frames/sec_7_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[3-7] Then the left hand picks up the black and white eared goat that is pressing on the goat drinking from the third bottle on the left. This goat runs to the middle of the third and fourth goats, and the left hand puts the goat back in front of the second bottle on the left."
+    },
+    {
+        "second": 8,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0wobqw589l0/output_frames/sec_8_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[7-11] Afterwards, the left hand places the goat that was pressing on the fourth goat from the left in front of the fifth bottle on the left."
+    },
+    {
+        "second": 9,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0wobqw589l0/output_frames/sec_9_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[7-11] Afterwards, the left hand places the goat that was pressing on the fourth goat from the left in front of the fifth bottle on the left."
+    },
+    {
+        "second": 10,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0wobqw589l0/output_frames/sec_10_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[7-11] Afterwards, the left hand places the goat that was pressing on the fourth goat from the left in front of the fifth bottle on the left."
+    },
+    {
+        "second": 11,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0wobqw589l0/output_frames/sec_11_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[7-11] Afterwards, the left hand places the goat that was pressing on the fourth goat from the left in front of the fifth bottle on the left."
+    },
+    {
+        "second": 12,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0wobqw589l0/output_frames/sec_12_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[11-13] Finally, the person on the left steps back, the camera zooms out, and the scene returns to the way it was at the beginning of the video."
+    },
+    {
+        "second": 13,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0wobqw589l0/output_frames/sec_13_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[11-13] Finally, the person on the left steps back, the camera zooms out, and the scene returns to the way it was at the beginning of the video."
+    }
+]

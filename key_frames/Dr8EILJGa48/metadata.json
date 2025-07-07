@@ -1,0 +1,79 @@
+[
+    {
+        "second": 0,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Dr8EILJGa48/output_frames/sec_0_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A man is standing in front of a white door. The man is wearing a blue turtleneck sweater, and his lips are pierced by a toothpick. One hand is holding the toothpick in his mouth."
+    },
+    {
+        "second": 1,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Dr8EILJGa48/output_frames/sec_1_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[0-6] Then, the man looks at the camera with tears in his eyes. Subsequently, the man approaches the camera, and tears stream down his face."
+    },
+    {
+        "second": 2,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Dr8EILJGa48/output_frames/sec_2_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-6] Then, the man looks at the camera with tears in his eyes. Subsequently, the man approaches the camera, and tears stream down his face."
+    },
+    {
+        "second": 3,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Dr8EILJGa48/output_frames/sec_3_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[0-6] Then, the man looks at the camera with tears in his eyes. Subsequently, the man approaches the camera, and tears stream down his face."
+    },
+    {
+        "second": 4,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Dr8EILJGa48/output_frames/sec_4_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[0-6] Then, the man looks at the camera with tears in his eyes. Subsequently, the man approaches the camera, and tears stream down his face."
+    },
+    {
+        "second": 5,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Dr8EILJGa48/output_frames/sec_5_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[0-6] Then, the man looks at the camera with tears in his eyes. Subsequently, the man approaches the camera, and tears stream down his face."
+    },
+    {
+        "second": 6,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Dr8EILJGa48/output_frames/sec_6_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[0-6] Then, the man looks at the camera with tears in his eyes. Subsequently, the man approaches the camera, and tears stream down his face."
+    },
+    {
+        "second": 7,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Dr8EILJGa48/output_frames/sec_7_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[6-10] Immediately afterwards, the man's hand holding the toothpick moves away from his mouth. Then, the other hand removes the section of the toothpick between the two lips and the section between the upper lip and nose. At the same time, a smug expression appears on the man's face."
+    },
+    {
+        "second": 8,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Dr8EILJGa48/output_frames/sec_8_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[6-10] Immediately afterwards, the man's hand holding the toothpick moves away from his mouth. Then, the other hand removes the section of the toothpick between the two lips and the section between the upper lip and nose. At the same time, a smug expression appears on the man's face."
+    },
+    {
+        "second": 9,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Dr8EILJGa48/output_frames/sec_9_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[6-10] Immediately afterwards, the man's hand holding the toothpick moves away from his mouth. Then, the other hand removes the section of the toothpick between the two lips and the section between the upper lip and nose. At the same time, a smug expression appears on the man's face."
+    },
+    {
+        "second": 10,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Dr8EILJGa48/output_frames/sec_10_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[6-10] Immediately afterwards, the man's hand holding the toothpick moves away from his mouth. Then, the other hand removes the section of the toothpick between the two lips and the section between the upper lip and nose. At the same time, a smug expression appears on the man's face."
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "second": 0,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/B7ar9bvHJKY/output_frames/sec_0_idx_1.jpg",
+        "fps": 24,
+        "explanation": "[0-0] A hand holds a white charging head, with a transparent jar filled with green solid underneath. The background is gray."
+    },
+    {
+        "second": 1,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/B7ar9bvHJKY/output_frames/sec_1_idx_4.jpg",
+        "fps": 24,
+        "explanation": "[0-5] A man presses the charging head into the solid and then takes it out, leaving a cavity. He pours gray liquid into the cavity and puts the head of the charging cable into the liquid."
+    },
+    {
+        "second": 2,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/B7ar9bvHJKY/output_frames/sec_2_idx_11.jpg",
+        "fps": 24,
+        "explanation": "[0-5] A man presses the charging head into the solid and then takes it out, leaving a cavity. He pours gray liquid into the cavity and puts the head of the charging cable into the liquid."
+    },
+    {
+        "second": 3,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/B7ar9bvHJKY/output_frames/sec_3_idx_0.jpg",
+        "fps": 24,
+        "explanation": "[0-5] A man presses the charging head into the solid and then takes it out, leaving a cavity. He pours gray liquid into the cavity and puts the head of the charging cable into the liquid."
+    },
+    {
+        "second": 4,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/B7ar9bvHJKY/output_frames/sec_4_idx_22.jpg",
+        "fps": 24,
+        "explanation": "[0-5] A man presses the charging head into the solid and then takes it out, leaving a cavity. He pours gray liquid into the cavity and puts the head of the charging cable into the liquid."
+    },
+    {
+        "second": 5,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/B7ar9bvHJKY/output_frames/sec_5_idx_5.jpg",
+        "fps": 24,
+        "explanation": "[0-5] A man presses the charging head into the solid and then takes it out, leaving a cavity. He pours gray liquid into the cavity and puts the head of the charging cable into the liquid."
+    },
+    {
+        "second": 6,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/B7ar9bvHJKY/output_frames/sec_6_idx_0.jpg",
+        "fps": 24,
+        "explanation": "[5-12] After the liquid cools down, metal tweezers are used to pry the metal charger from the sand. The excess sand is brushed off the metal charger to reveal a perfect replica of the original charger."
+    },
+    {
+        "second": 7,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/B7ar9bvHJKY/output_frames/sec_7_idx_12.jpg",
+        "fps": 24,
+        "explanation": "[5-12] After the liquid cools down, metal tweezers are used to pry the metal charger from the sand. The excess sand is brushed off the metal charger to reveal a perfect replica of the original charger."
+    },
+    {
+        "second": 8,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/B7ar9bvHJKY/output_frames/sec_8_idx_8.jpg",
+        "fps": 24,
+        "explanation": "[5-12] After the liquid cools down, metal tweezers are used to pry the metal charger from the sand. The excess sand is brushed off the metal charger to reveal a perfect replica of the original charger."
+    },
+    {
+        "second": 9,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/B7ar9bvHJKY/output_frames/sec_9_idx_2.jpg",
+        "fps": 24,
+        "explanation": "[5-12] After the liquid cools down, metal tweezers are used to pry the metal charger from the sand. The excess sand is brushed off the metal charger to reveal a perfect replica of the original charger."
+    },
+    {
+        "second": 10,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/B7ar9bvHJKY/output_frames/sec_10_idx_14.jpg",
+        "fps": 24,
+        "explanation": "[5-12] After the liquid cools down, metal tweezers are used to pry the metal charger from the sand. The excess sand is brushed off the metal charger to reveal a perfect replica of the original charger."
+    },
+    {
+        "second": 11,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/B7ar9bvHJKY/output_frames/sec_11_idx_7.jpg",
+        "fps": 24,
+        "explanation": "[5-12] After the liquid cools down, metal tweezers are used to pry the metal charger from the sand. The excess sand is brushed off the metal charger to reveal a perfect replica of the original charger."
+    }
+]

@@ -1,0 +1,233 @@
+[
+    {
+        "second": 0,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QG630CVKfms/output_frames/sec_0_idx_15.jpg",
+        "fps": 25,
+        "explanation": "[0-0] In the frame, several motorcycles are on a racetrack, with tree-covered slopes and spectator stands on both sides."
+    },
+    {
+        "second": 1,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QG630CVKfms/output_frames/sec_1_idx_17.jpg",
+        "fps": 25,
+        "explanation": "[0-3] The motorcycles are moving quickly on the racetrack."
+    },
+    {
+        "second": 2,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QG630CVKfms/output_frames/sec_2_idx_3.jpg",
+        "fps": 25,
+        "explanation": "[0-3] The motorcycles are moving quickly on the racetrack."
+    },
+    {
+        "second": 3,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QG630CVKfms/output_frames/sec_3_idx_12.jpg",
+        "fps": 25,
+        "explanation": "[0-3] The motorcycles are moving quickly on the racetrack."
+    },
+    {
+        "second": 4,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QG630CVKfms/output_frames/sec_4_idx_0.jpg",
+        "fps": 25,
+        "explanation": "[3-8] Then, the motorcycle team approaches a curve at high speed, the leading motorcycle enters the curve, and the riders behind follow closely."
+    },
+    {
+        "second": 5,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QG630CVKfms/output_frames/sec_5_idx_0.jpg",
+        "fps": 25,
+        "explanation": "[3-8] Then, the motorcycle team approaches a curve at high speed, the leading motorcycle enters the curve, and the riders behind follow closely."
+    },
+    {
+        "second": 6,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QG630CVKfms/output_frames/sec_6_idx_21.jpg",
+        "fps": 25,
+        "explanation": "[3-8] Then, the motorcycle team approaches a curve at high speed, the leading motorcycle enters the curve, and the riders behind follow closely."
+    },
+    {
+        "second": 7,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QG630CVKfms/output_frames/sec_7_idx_24.jpg",
+        "fps": 25,
+        "explanation": "[3-8] Then, the motorcycle team approaches a curve at high speed, the leading motorcycle enters the curve, and the riders behind follow closely."
+    },
+    {
+        "second": 8,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QG630CVKfms/output_frames/sec_8_idx_22.jpg",
+        "fps": 25,
+        "explanation": "[3-8] Then, the motorcycle team approaches a curve at high speed, the leading motorcycle enters the curve, and the riders behind follow closely."
+    },
+    {
+        "second": 9,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QG630CVKfms/output_frames/sec_9_idx_15.jpg",
+        "fps": 25,
+        "explanation": "[8-14] Next, the camera zooms in as the motorcycle team, in front, enters the curve once again."
+    },
+    {
+        "second": 10,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QG630CVKfms/output_frames/sec_10_idx_21.jpg",
+        "fps": 25,
+        "explanation": "[8-14] Next, the camera zooms in as the motorcycle team, in front, enters the curve once again."
+    },
+    {
+        "second": 11,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QG630CVKfms/output_frames/sec_11_idx_6.jpg",
+        "fps": 25,
+        "explanation": "[8-14] Next, the camera zooms in as the motorcycle team, in front, enters the curve once again."
+    },
+    {
+        "second": 12,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QG630CVKfms/output_frames/sec_12_idx_17.jpg",
+        "fps": 25,
+        "explanation": "[8-14] Next, the camera zooms in as the motorcycle team, in front, enters the curve once again."
+    },
+    {
+        "second": 13,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QG630CVKfms/output_frames/sec_13_idx_18.jpg",
+        "fps": 25,
+        "explanation": "[8-14] Next, the camera zooms in as the motorcycle team, in front, enters the curve once again."
+    },
+    {
+        "second": 14,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QG630CVKfms/output_frames/sec_14_idx_22.jpg",
+        "fps": 25,
+        "explanation": "[8-14] Next, the camera zooms in as the motorcycle team, in front, enters the curve once again."
+    },
+    {
+        "second": 15,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QG630CVKfms/output_frames/sec_15_idx_6.jpg",
+        "fps": 25,
+        "explanation": "[14-24] The shot switches to behind the motorcycle team, the camera closely following them from behind, their right feet all initially touching the ground as they enter the bend."
+    },
+    {
+        "second": 16,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QG630CVKfms/output_frames/sec_16_idx_3.jpg",
+        "fps": 25,
+        "explanation": "[14-24] The shot switches to behind the motorcycle team, the camera closely following them from behind, their right feet all initially touching the ground as they enter the bend."
+    },
+    {
+        "second": 17,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QG630CVKfms/output_frames/sec_17_idx_14.jpg",
+        "fps": 25,
+        "explanation": "[14-24] The shot switches to behind the motorcycle team, the camera closely following them from behind, their right feet all initially touching the ground as they enter the bend."
+    },
+    {
+        "second": 18,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QG630CVKfms/output_frames/sec_18_idx_16.jpg",
+        "fps": 25,
+        "explanation": "[14-24] The shot switches to behind the motorcycle team, the camera closely following them from behind, their right feet all initially touching the ground as they enter the bend."
+    },
+    {
+        "second": 19,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QG630CVKfms/output_frames/sec_19_idx_3.jpg",
+        "fps": 25,
+        "explanation": "[14-24] The shot switches to behind the motorcycle team, the camera closely following them from behind, their right feet all initially touching the ground as they enter the bend."
+    },
+    {
+        "second": 20,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QG630CVKfms/output_frames/sec_20_idx_0.jpg",
+        "fps": 25,
+        "explanation": "[14-24] The shot switches to behind the motorcycle team, the camera closely following them from behind, their right feet all initially touching the ground as they enter the bend."
+    },
+    {
+        "second": 21,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QG630CVKfms/output_frames/sec_21_idx_2.jpg",
+        "fps": 25,
+        "explanation": "[14-24] The shot switches to behind the motorcycle team, the camera closely following them from behind, their right feet all initially touching the ground as they enter the bend."
+    },
+    {
+        "second": 22,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QG630CVKfms/output_frames/sec_22_idx_5.jpg",
+        "fps": 25,
+        "explanation": "[14-24] The shot switches to behind the motorcycle team, the camera closely following them from behind, their right feet all initially touching the ground as they enter the bend."
+    },
+    {
+        "second": 23,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QG630CVKfms/output_frames/sec_23_idx_21.jpg",
+        "fps": 25,
+        "explanation": "[14-24] The shot switches to behind the motorcycle team, the camera closely following them from behind, their right feet all initially touching the ground as they enter the bend."
+    },
+    {
+        "second": 24,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QG630CVKfms/output_frames/sec_24_idx_8.jpg",
+        "fps": 25,
+        "explanation": "[14-24] The shot switches to behind the motorcycle team, the camera closely following them from behind, their right feet all initially touching the ground as they enter the bend."
+    },
+    {
+        "second": 25,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QG630CVKfms/output_frames/sec_25_idx_6.jpg",
+        "fps": 25,
+        "explanation": "[24-32] Finally, the motorcycle team enters the curve once more, riding at high speed."
+    },
+    {
+        "second": 26,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QG630CVKfms/output_frames/sec_26_idx_20.jpg",
+        "fps": 25,
+        "explanation": "[24-32] Finally, the motorcycle team enters the curve once more, riding at high speed."
+    },
+    {
+        "second": 27,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QG630CVKfms/output_frames/sec_27_idx_12.jpg",
+        "fps": 25,
+        "explanation": "[24-32] Finally, the motorcycle team enters the curve once more, riding at high speed."
+    },
+    {
+        "second": 28,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QG630CVKfms/output_frames/sec_28_idx_13.jpg",
+        "fps": 25,
+        "explanation": "[24-32] Finally, the motorcycle team enters the curve once more, riding at high speed."
+    },
+    {
+        "second": 29,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QG630CVKfms/output_frames/sec_29_idx_1.jpg",
+        "fps": 25,
+        "explanation": "[24-32] Finally, the motorcycle team enters the curve once more, riding at high speed."
+    },
+    {
+        "second": 30,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QG630CVKfms/output_frames/sec_30_idx_20.jpg",
+        "fps": 25,
+        "explanation": "[24-32] Finally, the motorcycle team enters the curve once more, riding at high speed."
+    },
+    {
+        "second": 31,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QG630CVKfms/output_frames/sec_31_idx_21.jpg",
+        "fps": 25,
+        "explanation": "[24-32] Finally, the motorcycle team enters the curve once more, riding at high speed."
+    },
+    {
+        "second": 32,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QG630CVKfms/output_frames/sec_32_idx_6.jpg",
+        "fps": 25,
+        "explanation": "[24-32] Finally, the motorcycle team enters the curve once more, riding at high speed."
+    }
+]

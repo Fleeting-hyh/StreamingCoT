@@ -1,0 +1,226 @@
+[
+    {
+        "second": 0,
+        "frame_index": 50,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/15OfWmZY_Sg/output_frames/sec_0_idx_50.jpg",
+        "fps": 60,
+        "explanation": "[0-0] In an animated scene, there's a hand model with its index finger extended, pointing toward a long passage. Multiple orange finger-shaped objects are scattered along the passage. At the top of the screen, there's a \"LEVEL 22\" sign, next to it is an icon of an extended index finger and the number 0. Below the passage are white and gray stripes with blue on both sides, and some objects in the distance."
+    },
+    {
+        "second": 1,
+        "frame_index": 55,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/15OfWmZY_Sg/output_frames/sec_1_idx_55.jpg",
+        "fps": 60,
+        "explanation": "[0-4] The finger starts to move forward, and the finger-shaped objects in the passage merge into the index finger, causing it to lengthen rapidly. The number on the index finger gesture icon at the top of the screen increases to 7. A gray pipe appears in front of the passage, spraying chocolate-colored liquid, and there is a blue pipe spraying blue liquid in front of it."
+    },
+    {
+        "second": 2,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/15OfWmZY_Sg/output_frames/sec_2_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[0-4] The finger starts to move forward, and the finger-shaped objects in the passage merge into the index finger, causing it to lengthen rapidly. The number on the index finger gesture icon at the top of the screen increases to 7. A gray pipe appears in front of the passage, spraying chocolate-colored liquid, and there is a blue pipe spraying blue liquid in front of it."
+    },
+    {
+        "second": 3,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/15OfWmZY_Sg/output_frames/sec_3_idx_27.jpg",
+        "fps": 60,
+        "explanation": "[0-4] The finger starts to move forward, and the finger-shaped objects in the passage merge into the index finger, causing it to lengthen rapidly. The number on the index finger gesture icon at the top of the screen increases to 7. A gray pipe appears in front of the passage, spraying chocolate-colored liquid, and there is a blue pipe spraying blue liquid in front of it."
+    },
+    {
+        "second": 4,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/15OfWmZY_Sg/output_frames/sec_4_idx_15.jpg",
+        "fps": 60,
+        "explanation": "[0-4] The finger starts to move forward, and the finger-shaped objects in the passage merge into the index finger, causing it to lengthen rapidly. The number on the index finger gesture icon at the top of the screen increases to 7. A gray pipe appears in front of the passage, spraying chocolate-colored liquid, and there is a blue pipe spraying blue liquid in front of it."
+    },
+    {
+        "second": 5,
+        "frame_index": 59,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/15OfWmZY_Sg/output_frames/sec_5_idx_59.jpg",
+        "fps": 60,
+        "explanation": "[4-9] The index finger passes through the chocolate-colored liquid and turns chocolate-colored. It then passes through the blue liquid and returns to its original color, continuing forward. A red, blue, and gray object falls down on the right, and the index finger avoids it, passing through from the left. The number at the top of the screen remains unchanged."
+    },
+    {
+        "second": 6,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/15OfWmZY_Sg/output_frames/sec_6_idx_5.jpg",
+        "fps": 60,
+        "explanation": "[4-9] The index finger passes through the chocolate-colored liquid and turns chocolate-colored. It then passes through the blue liquid and returns to its original color, continuing forward. A red, blue, and gray object falls down on the right, and the index finger avoids it, passing through from the left. The number at the top of the screen remains unchanged."
+    },
+    {
+        "second": 7,
+        "frame_index": 56,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/15OfWmZY_Sg/output_frames/sec_7_idx_56.jpg",
+        "fps": 60,
+        "explanation": "[4-9] The index finger passes through the chocolate-colored liquid and turns chocolate-colored. It then passes through the blue liquid and returns to its original color, continuing forward. A red, blue, and gray object falls down on the right, and the index finger avoids it, passing through from the left. The number at the top of the screen remains unchanged."
+    },
+    {
+        "second": 8,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/15OfWmZY_Sg/output_frames/sec_8_idx_1.jpg",
+        "fps": 60,
+        "explanation": "[4-9] The index finger passes through the chocolate-colored liquid and turns chocolate-colored. It then passes through the blue liquid and returns to its original color, continuing forward. A red, blue, and gray object falls down on the right, and the index finger avoids it, passing through from the left. The number at the top of the screen remains unchanged."
+    },
+    {
+        "second": 9,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/15OfWmZY_Sg/output_frames/sec_9_idx_24.jpg",
+        "fps": 60,
+        "explanation": "[4-9] The index finger passes through the chocolate-colored liquid and turns chocolate-colored. It then passes through the blue liquid and returns to its original color, continuing forward. A red, blue, and gray object falls down on the right, and the index finger avoids it, passing through from the left. The number at the top of the screen remains unchanged."
+    },
+    {
+        "second": 10,
+        "frame_index": 55,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/15OfWmZY_Sg/output_frames/sec_10_idx_55.jpg",
+        "fps": 60,
+        "explanation": "[9-13] The index finger continues forward as the finger-shaped objects in the passage merge into it again, making it longer. Then it avoids a black liquid pipe on the left and arrives in front of two small heads. The left head is bald, with a funny mustache, and a yellow label with the number 8 on its head. The right head wears a blue hat and has a yellow label with the number 1 on it. Both heads are grinning. The number on the gesture icon at the top of the screen increases to 11."
+    },
+    {
+        "second": 11,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/15OfWmZY_Sg/output_frames/sec_11_idx_23.jpg",
+        "fps": 60,
+        "explanation": "[9-13] The index finger continues forward as the finger-shaped objects in the passage merge into it again, making it longer. Then it avoids a black liquid pipe on the left and arrives in front of two small heads. The left head is bald, with a funny mustache, and a yellow label with the number 8 on its head. The right head wears a blue hat and has a yellow label with the number 1 on it. Both heads are grinning. The number on the gesture icon at the top of the screen increases to 11."
+    },
+    {
+        "second": 12,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/15OfWmZY_Sg/output_frames/sec_12_idx_26.jpg",
+        "fps": 60,
+        "explanation": "[9-13] The index finger continues forward as the finger-shaped objects in the passage merge into it again, making it longer. Then it avoids a black liquid pipe on the left and arrives in front of two small heads. The left head is bald, with a funny mustache, and a yellow label with the number 8 on its head. The right head wears a blue hat and has a yellow label with the number 1 on it. Both heads are grinning. The number on the gesture icon at the top of the screen increases to 11."
+    },
+    {
+        "second": 13,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/15OfWmZY_Sg/output_frames/sec_13_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[9-13] The index finger continues forward as the finger-shaped objects in the passage merge into it again, making it longer. Then it avoids a black liquid pipe on the left and arrives in front of two small heads. The left head is bald, with a funny mustache, and a yellow label with the number 8 on its head. The right head wears a blue hat and has a yellow label with the number 1 on it. Both heads are grinning. The number on the gesture icon at the top of the screen increases to 11."
+    },
+    {
+        "second": 14,
+        "frame_index": 32,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/15OfWmZY_Sg/output_frames/sec_14_idx_32.jpg",
+        "fps": 60,
+        "explanation": "[13-17] The index finger touches the nose of the small head wearing the blue hat, causing its eyes to roll upward before it falls to the right. The index finger, now with green stuff stuck to it, continues forward. It then passes through the blue pipe spraying black material, coating the finger in black as it moves ahead. The number on the gesture icon at the top of the screen changes to 10."
+    },
+    {
+        "second": 15,
+        "frame_index": 44,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/15OfWmZY_Sg/output_frames/sec_15_idx_44.jpg",
+        "fps": 60,
+        "explanation": "[13-17] The index finger touches the nose of the small head wearing the blue hat, causing its eyes to roll upward before it falls to the right. The index finger, now with green stuff stuck to it, continues forward. It then passes through the blue pipe spraying black material, coating the finger in black as it moves ahead. The number on the gesture icon at the top of the screen changes to 10."
+    },
+    {
+        "second": 16,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/15OfWmZY_Sg/output_frames/sec_16_idx_6.jpg",
+        "fps": 60,
+        "explanation": "[13-17] The index finger touches the nose of the small head wearing the blue hat, causing its eyes to roll upward before it falls to the right. The index finger, now with green stuff stuck to it, continues forward. It then passes through the blue pipe spraying black material, coating the finger in black as it moves ahead. The number on the gesture icon at the top of the screen changes to 10."
+    },
+    {
+        "second": 17,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/15OfWmZY_Sg/output_frames/sec_17_idx_3.jpg",
+        "fps": 60,
+        "explanation": "[13-17] The index finger touches the nose of the small head wearing the blue hat, causing its eyes to roll upward before it falls to the right. The index finger, now with green stuff stuck to it, continues forward. It then passes through the blue pipe spraying black material, coating the finger in black as it moves ahead. The number on the gesture icon at the top of the screen changes to 10."
+    },
+    {
+        "second": 18,
+        "frame_index": 38,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/15OfWmZY_Sg/output_frames/sec_18_idx_38.jpg",
+        "fps": 60,
+        "explanation": "[17-25] The index finger continues forward, merging with more finger-shaped objects and growing longer. It passes through a rotating red gear, leaving the black material on the passage floor. As it moves ahead again, more finger-shaped objects merge into it. Then the finger passes through a gray pipe spraying chocolate-colored material, coating it in chocolate color. As it continues forward, new finger-shaped objects merge with it. The number on the gesture icon at the top of the screen changes to 17."
+    },
+    {
+        "second": 19,
+        "frame_index": 37,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/15OfWmZY_Sg/output_frames/sec_19_idx_37.jpg",
+        "fps": 60,
+        "explanation": "[17-25] The index finger continues forward, merging with more finger-shaped objects and growing longer. It passes through a rotating red gear, leaving the black material on the passage floor. As it moves ahead again, more finger-shaped objects merge into it. Then the finger passes through a gray pipe spraying chocolate-colored material, coating it in chocolate color. As it continues forward, new finger-shaped objects merge with it. The number on the gesture icon at the top of the screen changes to 17."
+    },
+    {
+        "second": 20,
+        "frame_index": 54,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/15OfWmZY_Sg/output_frames/sec_20_idx_54.jpg",
+        "fps": 60,
+        "explanation": "[17-25] The index finger continues forward, merging with more finger-shaped objects and growing longer. It passes through a rotating red gear, leaving the black material on the passage floor. As it moves ahead again, more finger-shaped objects merge into it. Then the finger passes through a gray pipe spraying chocolate-colored material, coating it in chocolate color. As it continues forward, new finger-shaped objects merge with it. The number on the gesture icon at the top of the screen changes to 17."
+    },
+    {
+        "second": 21,
+        "frame_index": 35,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/15OfWmZY_Sg/output_frames/sec_21_idx_35.jpg",
+        "fps": 60,
+        "explanation": "[17-25] The index finger continues forward, merging with more finger-shaped objects and growing longer. It passes through a rotating red gear, leaving the black material on the passage floor. As it moves ahead again, more finger-shaped objects merge into it. Then the finger passes through a gray pipe spraying chocolate-colored material, coating it in chocolate color. As it continues forward, new finger-shaped objects merge with it. The number on the gesture icon at the top of the screen changes to 17."
+    },
+    {
+        "second": 22,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/15OfWmZY_Sg/output_frames/sec_22_idx_26.jpg",
+        "fps": 60,
+        "explanation": "[17-25] The index finger continues forward, merging with more finger-shaped objects and growing longer. It passes through a rotating red gear, leaving the black material on the passage floor. As it moves ahead again, more finger-shaped objects merge into it. Then the finger passes through a gray pipe spraying chocolate-colored material, coating it in chocolate color. As it continues forward, new finger-shaped objects merge with it. The number on the gesture icon at the top of the screen changes to 17."
+    },
+    {
+        "second": 23,
+        "frame_index": 31,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/15OfWmZY_Sg/output_frames/sec_23_idx_31.jpg",
+        "fps": 60,
+        "explanation": "[17-25] The index finger continues forward, merging with more finger-shaped objects and growing longer. It passes through a rotating red gear, leaving the black material on the passage floor. As it moves ahead again, more finger-shaped objects merge into it. Then the finger passes through a gray pipe spraying chocolate-colored material, coating it in chocolate color. As it continues forward, new finger-shaped objects merge with it. The number on the gesture icon at the top of the screen changes to 17."
+    },
+    {
+        "second": 24,
+        "frame_index": 43,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/15OfWmZY_Sg/output_frames/sec_24_idx_43.jpg",
+        "fps": 60,
+        "explanation": "[17-25] The index finger continues forward, merging with more finger-shaped objects and growing longer. It passes through a rotating red gear, leaving the black material on the passage floor. As it moves ahead again, more finger-shaped objects merge into it. Then the finger passes through a gray pipe spraying chocolate-colored material, coating it in chocolate color. As it continues forward, new finger-shaped objects merge with it. The number on the gesture icon at the top of the screen changes to 17."
+    },
+    {
+        "second": 25,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/15OfWmZY_Sg/output_frames/sec_25_idx_27.jpg",
+        "fps": 60,
+        "explanation": "[17-25] The index finger continues forward, merging with more finger-shaped objects and growing longer. It passes through a rotating red gear, leaving the black material on the passage floor. As it moves ahead again, more finger-shaped objects merge into it. Then the finger passes through a gray pipe spraying chocolate-colored material, coating it in chocolate color. As it continues forward, new finger-shaped objects merge with it. The number on the gesture icon at the top of the screen changes to 17."
+    },
+    {
+        "second": 26,
+        "frame_index": 46,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/15OfWmZY_Sg/output_frames/sec_26_idx_46.jpg",
+        "fps": 60,
+        "explanation": "[25-29] The index finger continues forward, passing through a pipe constantly pouring black material. Upon contact, the material gradually dyes the finger black. The finger moves ahead, while a red cylindrical object with black dots rotates on the right side of the passage."
+    },
+    {
+        "second": 27,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/15OfWmZY_Sg/output_frames/sec_27_idx_5.jpg",
+        "fps": 60,
+        "explanation": "[25-29] The index finger continues forward, passing through a pipe constantly pouring black material. Upon contact, the material gradually dyes the finger black. The finger moves ahead, while a red cylindrical object with black dots rotates on the right side of the passage."
+    },
+    {
+        "second": 28,
+        "frame_index": 49,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/15OfWmZY_Sg/output_frames/sec_28_idx_49.jpg",
+        "fps": 60,
+        "explanation": "[25-29] The index finger continues forward, passing through a pipe constantly pouring black material. Upon contact, the material gradually dyes the finger black. The finger moves ahead, while a red cylindrical object with black dots rotates on the right side of the passage."
+    },
+    {
+        "second": 29,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/15OfWmZY_Sg/output_frames/sec_29_idx_3.jpg",
+        "fps": 60,
+        "explanation": "[25-29] The index finger continues forward, passing through a pipe constantly pouring black material. Upon contact, the material gradually dyes the finger black. The finger moves ahead, while a red cylindrical object with black dots rotates on the right side of the passage."
+    },
+    {
+        "second": 30,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/15OfWmZY_Sg/output_frames/sec_30_idx_16.jpg",
+        "fps": 60,
+        "explanation": "[29-31] Finally, the index finger continues forward, passing through a section of black and white checkered ground in the passage and arriving at a wall with colorful stripes. The index finger then points upward, and the gesture icon and number on the screen disappear."
+    },
+    {
+        "second": 31,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/15OfWmZY_Sg/output_frames/sec_31_idx_4.jpg",
+        "fps": 60,
+        "explanation": "[29-31] Finally, the index finger continues forward, passing through a section of black and white checkered ground in the passage and arriving at a wall with colorful stripes. The index finger then points upward, and the gesture icon and number on the screen disappear."
+    }
+]

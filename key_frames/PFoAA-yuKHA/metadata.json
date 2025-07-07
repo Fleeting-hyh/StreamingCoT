@@ -1,0 +1,310 @@
+[
+    {
+        "second": 0,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PFoAA-yuKHA/output_frames/sec_0_idx_13.jpg",
+        "fps": 60,
+        "explanation": "[0-0] A woman with brown hair, wearing an orange T-shirt and blue jeans, is standing in a room with tiled floors and a wooden door."
+    },
+    {
+        "second": 1,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PFoAA-yuKHA/output_frames/sec_1_idx_7.jpg",
+        "fps": 60,
+        "explanation": "[0-4] The woman opens the door to a man who has his entire head covered with a black cloth, revealing only his eyes. He is wearing a black jacket, black pants, and black shoes. The scene cuts to the woman's face as a hand sprays her face with a spray can. The woman is startled, then collapses to the ground. The scene cuts back to the man in black as he watches the woman collapse. He then enters the room and looks at the spray can."
+    },
+    {
+        "second": 2,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PFoAA-yuKHA/output_frames/sec_2_idx_2.jpg",
+        "fps": 60,
+        "explanation": "[0-4] The woman opens the door to a man who has his entire head covered with a black cloth, revealing only his eyes. He is wearing a black jacket, black pants, and black shoes. The scene cuts to the woman's face as a hand sprays her face with a spray can. The woman is startled, then collapses to the ground. The scene cuts back to the man in black as he watches the woman collapse. He then enters the room and looks at the spray can."
+    },
+    {
+        "second": 3,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PFoAA-yuKHA/output_frames/sec_3_idx_8.jpg",
+        "fps": 60,
+        "explanation": "[0-4] The woman opens the door to a man who has his entire head covered with a black cloth, revealing only his eyes. He is wearing a black jacket, black pants, and black shoes. The scene cuts to the woman's face as a hand sprays her face with a spray can. The woman is startled, then collapses to the ground. The scene cuts back to the man in black as he watches the woman collapse. He then enters the room and looks at the spray can."
+    },
+    {
+        "second": 4,
+        "frame_index": 59,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PFoAA-yuKHA/output_frames/sec_4_idx_59.jpg",
+        "fps": 60,
+        "explanation": "[0-4] The woman opens the door to a man who has his entire head covered with a black cloth, revealing only his eyes. He is wearing a black jacket, black pants, and black shoes. The scene cuts to the woman's face as a hand sprays her face with a spray can. The woman is startled, then collapses to the ground. The scene cuts back to the man in black as he watches the woman collapse. He then enters the room and looks at the spray can."
+    },
+    {
+        "second": 5,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PFoAA-yuKHA/output_frames/sec_5_idx_3.jpg",
+        "fps": 60,
+        "explanation": "[4-10] The scene cuts to the woman lying unconscious on the tile floor. The man in black walks into the room and closes the door. Still holding the spray can, he nods his head slightly twice and walks further into the room."
+    },
+    {
+        "second": 6,
+        "frame_index": 43,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PFoAA-yuKHA/output_frames/sec_6_idx_43.jpg",
+        "fps": 60,
+        "explanation": "[4-10] The scene cuts to the woman lying unconscious on the tile floor. The man in black walks into the room and closes the door. Still holding the spray can, he nods his head slightly twice and walks further into the room."
+    },
+    {
+        "second": 7,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PFoAA-yuKHA/output_frames/sec_7_idx_11.jpg",
+        "fps": 60,
+        "explanation": "[4-10] The scene cuts to the woman lying unconscious on the tile floor. The man in black walks into the room and closes the door. Still holding the spray can, he nods his head slightly twice and walks further into the room."
+    },
+    {
+        "second": 8,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PFoAA-yuKHA/output_frames/sec_8_idx_26.jpg",
+        "fps": 60,
+        "explanation": "[4-10] The scene cuts to the woman lying unconscious on the tile floor. The man in black walks into the room and closes the door. Still holding the spray can, he nods his head slightly twice and walks further into the room."
+    },
+    {
+        "second": 9,
+        "frame_index": 59,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PFoAA-yuKHA/output_frames/sec_9_idx_59.jpg",
+        "fps": 60,
+        "explanation": "[4-10] The scene cuts to the woman lying unconscious on the tile floor. The man in black walks into the room and closes the door. Still holding the spray can, he nods his head slightly twice and walks further into the room."
+    },
+    {
+        "second": 10,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PFoAA-yuKHA/output_frames/sec_10_idx_28.jpg",
+        "fps": 60,
+        "explanation": "[4-10] The scene cuts to the woman lying unconscious on the tile floor. The man in black walks into the room and closes the door. Still holding the spray can, he nods his head slightly twice and walks further into the room."
+    },
+    {
+        "second": 11,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PFoAA-yuKHA/output_frames/sec_11_idx_6.jpg",
+        "fps": 60,
+        "explanation": "[10-20] The scene shifts to the hallway outside the room. The man in black steps over the unconscious woman and walks toward the camera down the hallway. Then, the scene changes again, and a little girl in a white dress and black pants walks out of a room. She looks up, sees the man in black, covers her face with her hands, and screams. The scene cuts back to the man in black in the hallway. He sprays the little girl with the spray can, and she also collapses to the ground."
+    },
+    {
+        "second": 12,
+        "frame_index": 43,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PFoAA-yuKHA/output_frames/sec_12_idx_43.jpg",
+        "fps": 60,
+        "explanation": "[10-20] The scene shifts to the hallway outside the room. The man in black steps over the unconscious woman and walks toward the camera down the hallway. Then, the scene changes again, and a little girl in a white dress and black pants walks out of a room. She looks up, sees the man in black, covers her face with her hands, and screams. The scene cuts back to the man in black in the hallway. He sprays the little girl with the spray can, and she also collapses to the ground."
+    },
+    {
+        "second": 13,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PFoAA-yuKHA/output_frames/sec_13_idx_29.jpg",
+        "fps": 60,
+        "explanation": "[10-20] The scene shifts to the hallway outside the room. The man in black steps over the unconscious woman and walks toward the camera down the hallway. Then, the scene changes again, and a little girl in a white dress and black pants walks out of a room. She looks up, sees the man in black, covers her face with her hands, and screams. The scene cuts back to the man in black in the hallway. He sprays the little girl with the spray can, and she also collapses to the ground."
+    },
+    {
+        "second": 14,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PFoAA-yuKHA/output_frames/sec_14_idx_12.jpg",
+        "fps": 60,
+        "explanation": "[10-20] The scene shifts to the hallway outside the room. The man in black steps over the unconscious woman and walks toward the camera down the hallway. Then, the scene changes again, and a little girl in a white dress and black pants walks out of a room. She looks up, sees the man in black, covers her face with her hands, and screams. The scene cuts back to the man in black in the hallway. He sprays the little girl with the spray can, and she also collapses to the ground."
+    },
+    {
+        "second": 15,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PFoAA-yuKHA/output_frames/sec_15_idx_4.jpg",
+        "fps": 60,
+        "explanation": "[10-20] The scene shifts to the hallway outside the room. The man in black steps over the unconscious woman and walks toward the camera down the hallway. Then, the scene changes again, and a little girl in a white dress and black pants walks out of a room. She looks up, sees the man in black, covers her face with her hands, and screams. The scene cuts back to the man in black in the hallway. He sprays the little girl with the spray can, and she also collapses to the ground."
+    },
+    {
+        "second": 16,
+        "frame_index": 46,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PFoAA-yuKHA/output_frames/sec_16_idx_46.jpg",
+        "fps": 60,
+        "explanation": "[10-20] The scene shifts to the hallway outside the room. The man in black steps over the unconscious woman and walks toward the camera down the hallway. Then, the scene changes again, and a little girl in a white dress and black pants walks out of a room. She looks up, sees the man in black, covers her face with her hands, and screams. The scene cuts back to the man in black in the hallway. He sprays the little girl with the spray can, and she also collapses to the ground."
+    },
+    {
+        "second": 17,
+        "frame_index": 32,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PFoAA-yuKHA/output_frames/sec_17_idx_32.jpg",
+        "fps": 60,
+        "explanation": "[10-20] The scene shifts to the hallway outside the room. The man in black steps over the unconscious woman and walks toward the camera down the hallway. Then, the scene changes again, and a little girl in a white dress and black pants walks out of a room. She looks up, sees the man in black, covers her face with her hands, and screams. The scene cuts back to the man in black in the hallway. He sprays the little girl with the spray can, and she also collapses to the ground."
+    },
+    {
+        "second": 18,
+        "frame_index": 44,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PFoAA-yuKHA/output_frames/sec_18_idx_44.jpg",
+        "fps": 60,
+        "explanation": "[10-20] The scene shifts to the hallway outside the room. The man in black steps over the unconscious woman and walks toward the camera down the hallway. Then, the scene changes again, and a little girl in a white dress and black pants walks out of a room. She looks up, sees the man in black, covers her face with her hands, and screams. The scene cuts back to the man in black in the hallway. He sprays the little girl with the spray can, and she also collapses to the ground."
+    },
+    {
+        "second": 19,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PFoAA-yuKHA/output_frames/sec_19_idx_21.jpg",
+        "fps": 60,
+        "explanation": "[10-20] The scene shifts to the hallway outside the room. The man in black steps over the unconscious woman and walks toward the camera down the hallway. Then, the scene changes again, and a little girl in a white dress and black pants walks out of a room. She looks up, sees the man in black, covers her face with her hands, and screams. The scene cuts back to the man in black in the hallway. He sprays the little girl with the spray can, and she also collapses to the ground."
+    },
+    {
+        "second": 20,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PFoAA-yuKHA/output_frames/sec_20_idx_21.jpg",
+        "fps": 60,
+        "explanation": "[10-20] The scene shifts to the hallway outside the room. The man in black steps over the unconscious woman and walks toward the camera down the hallway. Then, the scene changes again, and a little girl in a white dress and black pants walks out of a room. She looks up, sees the man in black, covers her face with her hands, and screams. The scene cuts back to the man in black in the hallway. He sprays the little girl with the spray can, and she also collapses to the ground."
+    },
+    {
+        "second": 21,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PFoAA-yuKHA/output_frames/sec_21_idx_29.jpg",
+        "fps": 60,
+        "explanation": "[20-29] The man in black wiggles his index finger, then walks into the room the little girl came out of, which has a wooden door. The scene changes again to show the inside of the room, which has a vanity with a square mirror and a variety of cosmetics on it. The man walks to the vanity with the spray can in his hand and sits down. He pulls down the mask covering his face, revealing the reflection of a man with a beard. He is looking at the lower right side of the vanity."
+    },
+    {
+        "second": 22,
+        "frame_index": 47,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PFoAA-yuKHA/output_frames/sec_22_idx_47.jpg",
+        "fps": 60,
+        "explanation": "[20-29] The man in black wiggles his index finger, then walks into the room the little girl came out of, which has a wooden door. The scene changes again to show the inside of the room, which has a vanity with a square mirror and a variety of cosmetics on it. The man walks to the vanity with the spray can in his hand and sits down. He pulls down the mask covering his face, revealing the reflection of a man with a beard. He is looking at the lower right side of the vanity."
+    },
+    {
+        "second": 23,
+        "frame_index": 42,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PFoAA-yuKHA/output_frames/sec_23_idx_42.jpg",
+        "fps": 60,
+        "explanation": "[20-29] The man in black wiggles his index finger, then walks into the room the little girl came out of, which has a wooden door. The scene changes again to show the inside of the room, which has a vanity with a square mirror and a variety of cosmetics on it. The man walks to the vanity with the spray can in his hand and sits down. He pulls down the mask covering his face, revealing the reflection of a man with a beard. He is looking at the lower right side of the vanity."
+    },
+    {
+        "second": 24,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PFoAA-yuKHA/output_frames/sec_24_idx_23.jpg",
+        "fps": 60,
+        "explanation": "[20-29] The man in black wiggles his index finger, then walks into the room the little girl came out of, which has a wooden door. The scene changes again to show the inside of the room, which has a vanity with a square mirror and a variety of cosmetics on it. The man walks to the vanity with the spray can in his hand and sits down. He pulls down the mask covering his face, revealing the reflection of a man with a beard. He is looking at the lower right side of the vanity."
+    },
+    {
+        "second": 25,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PFoAA-yuKHA/output_frames/sec_25_idx_1.jpg",
+        "fps": 60,
+        "explanation": "[20-29] The man in black wiggles his index finger, then walks into the room the little girl came out of, which has a wooden door. The scene changes again to show the inside of the room, which has a vanity with a square mirror and a variety of cosmetics on it. The man walks to the vanity with the spray can in his hand and sits down. He pulls down the mask covering his face, revealing the reflection of a man with a beard. He is looking at the lower right side of the vanity."
+    },
+    {
+        "second": 26,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PFoAA-yuKHA/output_frames/sec_26_idx_12.jpg",
+        "fps": 60,
+        "explanation": "[20-29] The man in black wiggles his index finger, then walks into the room the little girl came out of, which has a wooden door. The scene changes again to show the inside of the room, which has a vanity with a square mirror and a variety of cosmetics on it. The man walks to the vanity with the spray can in his hand and sits down. He pulls down the mask covering his face, revealing the reflection of a man with a beard. He is looking at the lower right side of the vanity."
+    },
+    {
+        "second": 27,
+        "frame_index": 33,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PFoAA-yuKHA/output_frames/sec_27_idx_33.jpg",
+        "fps": 60,
+        "explanation": "[20-29] The man in black wiggles his index finger, then walks into the room the little girl came out of, which has a wooden door. The scene changes again to show the inside of the room, which has a vanity with a square mirror and a variety of cosmetics on it. The man walks to the vanity with the spray can in his hand and sits down. He pulls down the mask covering his face, revealing the reflection of a man with a beard. He is looking at the lower right side of the vanity."
+    },
+    {
+        "second": 28,
+        "frame_index": 45,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PFoAA-yuKHA/output_frames/sec_28_idx_45.jpg",
+        "fps": 60,
+        "explanation": "[20-29] The man in black wiggles his index finger, then walks into the room the little girl came out of, which has a wooden door. The scene changes again to show the inside of the room, which has a vanity with a square mirror and a variety of cosmetics on it. The man walks to the vanity with the spray can in his hand and sits down. He pulls down the mask covering his face, revealing the reflection of a man with a beard. He is looking at the lower right side of the vanity."
+    },
+    {
+        "second": 29,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PFoAA-yuKHA/output_frames/sec_29_idx_3.jpg",
+        "fps": 60,
+        "explanation": "[20-29] The man in black wiggles his index finger, then walks into the room the little girl came out of, which has a wooden door. The scene changes again to show the inside of the room, which has a vanity with a square mirror and a variety of cosmetics on it. The man walks to the vanity with the spray can in his hand and sits down. He pulls down the mask covering his face, revealing the reflection of a man with a beard. He is looking at the lower right side of the vanity."
+    },
+    {
+        "second": 30,
+        "frame_index": 57,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PFoAA-yuKHA/output_frames/sec_30_idx_57.jpg",
+        "fps": 60,
+        "explanation": "[29-34] At this point, the camera focuses on the vanity, which has a lot of perfumes and skincare products, as well as a pair of sunglasses. Then the camera cuts back to the man, whose reflection in the mirror shows his face full of excitement and joy. He reaches out with both hands and picks up a bottle of perfume in front of him. He opens the perfume bottle, which has a black letter \"S\" printed on it. He then brings the perfume close to his nose and smells it, slightly shaking his head as if to show his approval."
+    },
+    {
+        "second": 31,
+        "frame_index": 32,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PFoAA-yuKHA/output_frames/sec_31_idx_32.jpg",
+        "fps": 60,
+        "explanation": "[29-34] At this point, the camera focuses on the vanity, which has a lot of perfumes and skincare products, as well as a pair of sunglasses. Then the camera cuts back to the man, whose reflection in the mirror shows his face full of excitement and joy. He reaches out with both hands and picks up a bottle of perfume in front of him. He opens the perfume bottle, which has a black letter \"S\" printed on it. He then brings the perfume close to his nose and smells it, slightly shaking his head as if to show his approval."
+    },
+    {
+        "second": 32,
+        "frame_index": 45,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PFoAA-yuKHA/output_frames/sec_32_idx_45.jpg",
+        "fps": 60,
+        "explanation": "[29-34] At this point, the camera focuses on the vanity, which has a lot of perfumes and skincare products, as well as a pair of sunglasses. Then the camera cuts back to the man, whose reflection in the mirror shows his face full of excitement and joy. He reaches out with both hands and picks up a bottle of perfume in front of him. He opens the perfume bottle, which has a black letter \"S\" printed on it. He then brings the perfume close to his nose and smells it, slightly shaking his head as if to show his approval."
+    },
+    {
+        "second": 33,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PFoAA-yuKHA/output_frames/sec_33_idx_4.jpg",
+        "fps": 60,
+        "explanation": "[29-34] At this point, the camera focuses on the vanity, which has a lot of perfumes and skincare products, as well as a pair of sunglasses. Then the camera cuts back to the man, whose reflection in the mirror shows his face full of excitement and joy. He reaches out with both hands and picks up a bottle of perfume in front of him. He opens the perfume bottle, which has a black letter \"S\" printed on it. He then brings the perfume close to his nose and smells it, slightly shaking his head as if to show his approval."
+    },
+    {
+        "second": 34,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PFoAA-yuKHA/output_frames/sec_34_idx_15.jpg",
+        "fps": 60,
+        "explanation": "[29-34] At this point, the camera focuses on the vanity, which has a lot of perfumes and skincare products, as well as a pair of sunglasses. Then the camera cuts back to the man, whose reflection in the mirror shows his face full of excitement and joy. He reaches out with both hands and picks up a bottle of perfume in front of him. He opens the perfume bottle, which has a black letter \"S\" printed on it. He then brings the perfume close to his nose and smells it, slightly shaking his head as if to show his approval."
+    },
+    {
+        "second": 35,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PFoAA-yuKHA/output_frames/sec_35_idx_8.jpg",
+        "fps": 60,
+        "explanation": "[34-43] He sprays his nose with the spray can in his right hand, then realizes something is wrong. He opens his left hand, dropping the perfume on the ground, and his eyes widen. He falls backward, the spray can falling from his right hand, and collapses to the right. The video ends with a shot of the man lying curled up on the carpeted floor."
+    },
+    {
+        "second": 36,
+        "frame_index": 59,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PFoAA-yuKHA/output_frames/sec_36_idx_59.jpg",
+        "fps": 60,
+        "explanation": "[34-43] He sprays his nose with the spray can in his right hand, then realizes something is wrong. He opens his left hand, dropping the perfume on the ground, and his eyes widen. He falls backward, the spray can falling from his right hand, and collapses to the right. The video ends with a shot of the man lying curled up on the carpeted floor."
+    },
+    {
+        "second": 37,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PFoAA-yuKHA/output_frames/sec_37_idx_12.jpg",
+        "fps": 60,
+        "explanation": "[34-43] He sprays his nose with the spray can in his right hand, then realizes something is wrong. He opens his left hand, dropping the perfume on the ground, and his eyes widen. He falls backward, the spray can falling from his right hand, and collapses to the right. The video ends with a shot of the man lying curled up on the carpeted floor."
+    },
+    {
+        "second": 38,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PFoAA-yuKHA/output_frames/sec_38_idx_7.jpg",
+        "fps": 60,
+        "explanation": "[34-43] He sprays his nose with the spray can in his right hand, then realizes something is wrong. He opens his left hand, dropping the perfume on the ground, and his eyes widen. He falls backward, the spray can falling from his right hand, and collapses to the right. The video ends with a shot of the man lying curled up on the carpeted floor."
+    },
+    {
+        "second": 39,
+        "frame_index": 58,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PFoAA-yuKHA/output_frames/sec_39_idx_58.jpg",
+        "fps": 60,
+        "explanation": "[34-43] He sprays his nose with the spray can in his right hand, then realizes something is wrong. He opens his left hand, dropping the perfume on the ground, and his eyes widen. He falls backward, the spray can falling from his right hand, and collapses to the right. The video ends with a shot of the man lying curled up on the carpeted floor."
+    },
+    {
+        "second": 40,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PFoAA-yuKHA/output_frames/sec_40_idx_8.jpg",
+        "fps": 60,
+        "explanation": "[34-43] He sprays his nose with the spray can in his right hand, then realizes something is wrong. He opens his left hand, dropping the perfume on the ground, and his eyes widen. He falls backward, the spray can falling from his right hand, and collapses to the right. The video ends with a shot of the man lying curled up on the carpeted floor."
+    },
+    {
+        "second": 41,
+        "frame_index": 52,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PFoAA-yuKHA/output_frames/sec_41_idx_52.jpg",
+        "fps": 60,
+        "explanation": "[34-43] He sprays his nose with the spray can in his right hand, then realizes something is wrong. He opens his left hand, dropping the perfume on the ground, and his eyes widen. He falls backward, the spray can falling from his right hand, and collapses to the right. The video ends with a shot of the man lying curled up on the carpeted floor."
+    },
+    {
+        "second": 42,
+        "frame_index": 47,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PFoAA-yuKHA/output_frames/sec_42_idx_47.jpg",
+        "fps": 60,
+        "explanation": "[34-43] He sprays his nose with the spray can in his right hand, then realizes something is wrong. He opens his left hand, dropping the perfume on the ground, and his eyes widen. He falls backward, the spray can falling from his right hand, and collapses to the right. The video ends with a shot of the man lying curled up on the carpeted floor."
+    },
+    {
+        "second": 43,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PFoAA-yuKHA/output_frames/sec_43_idx_1.jpg",
+        "fps": 60,
+        "explanation": "[34-43] He sprays his nose with the spray can in his right hand, then realizes something is wrong. He opens his left hand, dropping the perfume on the ground, and his eyes widen. He falls backward, the spray can falling from his right hand, and collapses to the right. The video ends with a shot of the man lying curled up on the carpeted floor."
+    }
+]

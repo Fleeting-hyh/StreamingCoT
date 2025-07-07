@@ -1,0 +1,100 @@
+[
+    {
+        "second": 0,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RM64R362zmo/output_frames/sec_0_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[0-0] This is an animated video. The video starts with a view in front of a house in a suburban neighborhood. There is a large tree in front of the house, with a white pathway and grass lawn beside it. A glowing blue human outline takes up the foreground."
+    },
+    {
+        "second": 1,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RM64R362zmo/output_frames/sec_1_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[0-7] A bulky man wearing red enters the frame, walking over the human outline. He stops in front of the human outline holding a black cat. He then holds the cat up close to his face and gives a big smile."
+    },
+    {
+        "second": 2,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RM64R362zmo/output_frames/sec_2_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[0-7] A bulky man wearing red enters the frame, walking over the human outline. He stops in front of the human outline holding a black cat. He then holds the cat up close to his face and gives a big smile."
+    },
+    {
+        "second": 3,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RM64R362zmo/output_frames/sec_3_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[0-7] A bulky man wearing red enters the frame, walking over the human outline. He stops in front of the human outline holding a black cat. He then holds the cat up close to his face and gives a big smile."
+    },
+    {
+        "second": 4,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RM64R362zmo/output_frames/sec_4_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-7] A bulky man wearing red enters the frame, walking over the human outline. He stops in front of the human outline holding a black cat. He then holds the cat up close to his face and gives a big smile."
+    },
+    {
+        "second": 5,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RM64R362zmo/output_frames/sec_5_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[0-7] A bulky man wearing red enters the frame, walking over the human outline. He stops in front of the human outline holding a black cat. He then holds the cat up close to his face and gives a big smile."
+    },
+    {
+        "second": 6,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RM64R362zmo/output_frames/sec_6_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[0-7] A bulky man wearing red enters the frame, walking over the human outline. He stops in front of the human outline holding a black cat. He then holds the cat up close to his face and gives a big smile."
+    },
+    {
+        "second": 7,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RM64R362zmo/output_frames/sec_7_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[0-7] A bulky man wearing red enters the frame, walking over the human outline. He stops in front of the human outline holding a black cat. He then holds the cat up close to his face and gives a big smile."
+    },
+    {
+        "second": 8,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RM64R362zmo/output_frames/sec_8_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[7-13] The blue outline then shifts to outline a new shape. The man in red, still holding his cat, turns around and begins to walk away. As he distances himself, his shrinking figure aligns perfectly with the blue outline, at which point the frame freezes for a moment and the man in red with the cat walks off-screen to the right. This leaves behind an empty street and house."
+    },
+    {
+        "second": 9,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RM64R362zmo/output_frames/sec_9_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[7-13] The blue outline then shifts to outline a new shape. The man in red, still holding his cat, turns around and begins to walk away. As he distances himself, his shrinking figure aligns perfectly with the blue outline, at which point the frame freezes for a moment and the man in red with the cat walks off-screen to the right. This leaves behind an empty street and house."
+    },
+    {
+        "second": 10,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RM64R362zmo/output_frames/sec_10_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[7-13] The blue outline then shifts to outline a new shape. The man in red, still holding his cat, turns around and begins to walk away. As he distances himself, his shrinking figure aligns perfectly with the blue outline, at which point the frame freezes for a moment and the man in red with the cat walks off-screen to the right. This leaves behind an empty street and house."
+    },
+    {
+        "second": 11,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RM64R362zmo/output_frames/sec_11_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[7-13] The blue outline then shifts to outline a new shape. The man in red, still holding his cat, turns around and begins to walk away. As he distances himself, his shrinking figure aligns perfectly with the blue outline, at which point the frame freezes for a moment and the man in red with the cat walks off-screen to the right. This leaves behind an empty street and house."
+    },
+    {
+        "second": 12,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RM64R362zmo/output_frames/sec_12_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[7-13] The blue outline then shifts to outline a new shape. The man in red, still holding his cat, turns around and begins to walk away. As he distances himself, his shrinking figure aligns perfectly with the blue outline, at which point the frame freezes for a moment and the man in red with the cat walks off-screen to the right. This leaves behind an empty street and house."
+    },
+    {
+        "second": 13,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RM64R362zmo/output_frames/sec_13_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[7-13] The blue outline then shifts to outline a new shape. The man in red, still holding his cat, turns around and begins to walk away. As he distances himself, his shrinking figure aligns perfectly with the blue outline, at which point the frame freezes for a moment and the man in red with the cat walks off-screen to the right. This leaves behind an empty street and house."
+    }
+]

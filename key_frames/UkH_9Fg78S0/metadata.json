@@ -1,0 +1,58 @@
+[
+    {
+        "second": 0,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UkH_9Fg78S0/output_frames/sec_0_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-0] The video begins with a scene of a hillside. The bottom of the hillside is a brown dirt surface with several bare trees, and the top has green trees. There is a scared emoji on the screen."
+    },
+    {
+        "second": 1,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UkH_9Fg78S0/output_frames/sec_1_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[0-7] Then an object on the hillside slides down. A red circle is drawn around the sliding object. The object continues to slide down to the bottom of the hill, with a long rope attached to it."
+    },
+    {
+        "second": 2,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UkH_9Fg78S0/output_frames/sec_2_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[0-7] Then an object on the hillside slides down. A red circle is drawn around the sliding object. The object continues to slide down to the bottom of the hill, with a long rope attached to it."
+    },
+    {
+        "second": 3,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UkH_9Fg78S0/output_frames/sec_3_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[0-7] Then an object on the hillside slides down. A red circle is drawn around the sliding object. The object continues to slide down to the bottom of the hill, with a long rope attached to it."
+    },
+    {
+        "second": 4,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UkH_9Fg78S0/output_frames/sec_4_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[0-7] Then an object on the hillside slides down. A red circle is drawn around the sliding object. The object continues to slide down to the bottom of the hill, with a long rope attached to it."
+    },
+    {
+        "second": 5,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UkH_9Fg78S0/output_frames/sec_5_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[0-7] Then an object on the hillside slides down. A red circle is drawn around the sliding object. The object continues to slide down to the bottom of the hill, with a long rope attached to it."
+    },
+    {
+        "second": 6,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UkH_9Fg78S0/output_frames/sec_6_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[0-7] Then an object on the hillside slides down. A red circle is drawn around the sliding object. The object continues to slide down to the bottom of the hill, with a long rope attached to it."
+    },
+    {
+        "second": 7,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UkH_9Fg78S0/output_frames/sec_7_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-7] Then an object on the hillside slides down. A red circle is drawn around the sliding object. The object continues to slide down to the bottom of the hill, with a long rope attached to it."
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "second": 0,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Ndml83RlYxs/output_frames/sec_0_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[0-0] In a room, a right hand is holding a baby bottle filled with white liquid, the bottle has red scale lines. There is a carpet on the floor in front. On the right side, there is a white headboard with pink trim."
+    },
+    {
+        "second": 1,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Ndml83RlYxs/output_frames/sec_1_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Then the right hand moves forward, towards the bedroom on the right, and then towards the crib on the right side of the bedroom. A child wearing red clothes is lying on the bed on the left side of the bedroom, with a pair of black and green slippers on the floor. There are red curtains and white sheer curtains in front."
+    },
+    {
+        "second": 2,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Ndml83RlYxs/output_frames/sec_2_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Then the right hand moves forward, towards the bedroom on the right, and then towards the crib on the right side of the bedroom. A child wearing red clothes is lying on the bed on the left side of the bedroom, with a pair of black and green slippers on the floor. There are red curtains and white sheer curtains in front."
+    },
+    {
+        "second": 3,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Ndml83RlYxs/output_frames/sec_3_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Then the right hand moves forward, towards the bedroom on the right, and then towards the crib on the right side of the bedroom. A child wearing red clothes is lying on the bed on the left side of the bedroom, with a pair of black and green slippers on the floor. There are red curtains and white sheer curtains in front."
+    },
+    {
+        "second": 4,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Ndml83RlYxs/output_frames/sec_4_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Then the right hand moves forward, towards the bedroom on the right, and then towards the crib on the right side of the bedroom. A child wearing red clothes is lying on the bed on the left side of the bedroom, with a pair of black and green slippers on the floor. There are red curtains and white sheer curtains in front."
+    },
+    {
+        "second": 5,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Ndml83RlYxs/output_frames/sec_5_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[4-10] Afterward, the hand reaches forward, and a little girl in red clothes lies on the bed, smiling and reaching out to take the bottle. She holds the bottle with both hands and puts it in her mouth, looking forward while drinking. A doll is lying on the right side of her bed."
+    },
+    {
+        "second": 6,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Ndml83RlYxs/output_frames/sec_6_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[4-10] Afterward, the hand reaches forward, and a little girl in red clothes lies on the bed, smiling and reaching out to take the bottle. She holds the bottle with both hands and puts it in her mouth, looking forward while drinking. A doll is lying on the right side of her bed."
+    },
+    {
+        "second": 7,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Ndml83RlYxs/output_frames/sec_7_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[4-10] Afterward, the hand reaches forward, and a little girl in red clothes lies on the bed, smiling and reaching out to take the bottle. She holds the bottle with both hands and puts it in her mouth, looking forward while drinking. A doll is lying on the right side of her bed."
+    },
+    {
+        "second": 8,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Ndml83RlYxs/output_frames/sec_8_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[4-10] Afterward, the hand reaches forward, and a little girl in red clothes lies on the bed, smiling and reaching out to take the bottle. She holds the bottle with both hands and puts it in her mouth, looking forward while drinking. A doll is lying on the right side of her bed."
+    },
+    {
+        "second": 9,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Ndml83RlYxs/output_frames/sec_9_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[4-10] Afterward, the hand reaches forward, and a little girl in red clothes lies on the bed, smiling and reaching out to take the bottle. She holds the bottle with both hands and puts it in her mouth, looking forward while drinking. A doll is lying on the right side of her bed."
+    },
+    {
+        "second": 10,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Ndml83RlYxs/output_frames/sec_10_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[4-10] Afterward, the hand reaches forward, and a little girl in red clothes lies on the bed, smiling and reaching out to take the bottle. She holds the bottle with both hands and puts it in her mouth, looking forward while drinking. A doll is lying on the right side of her bed."
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "second": 0,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8tfOt3-wbLY/output_frames/sec_0_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A brown boot appears on the right side of the screen. There's a machine in the center, with many drawers behind it. Below the image, there is a line of subtitles and another image."
+    },
+    {
+        "second": 1,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8tfOt3-wbLY/output_frames/sec_1_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[0-6] Then the brown boot is placed into the machine, which is pressing the upper and sole of the boot together. The white subtitles at the bottom of the screen are constantly updating. Finally, the boot rotates continuously, turning the toe of the boot towards the front of the machine."
+    },
+    {
+        "second": 2,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8tfOt3-wbLY/output_frames/sec_2_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[0-6] Then the brown boot is placed into the machine, which is pressing the upper and sole of the boot together. The white subtitles at the bottom of the screen are constantly updating. Finally, the boot rotates continuously, turning the toe of the boot towards the front of the machine."
+    },
+    {
+        "second": 3,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8tfOt3-wbLY/output_frames/sec_3_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[0-6] Then the brown boot is placed into the machine, which is pressing the upper and sole of the boot together. The white subtitles at the bottom of the screen are constantly updating. Finally, the boot rotates continuously, turning the toe of the boot towards the front of the machine."
+    },
+    {
+        "second": 4,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8tfOt3-wbLY/output_frames/sec_4_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[0-6] Then the brown boot is placed into the machine, which is pressing the upper and sole of the boot together. The white subtitles at the bottom of the screen are constantly updating. Finally, the boot rotates continuously, turning the toe of the boot towards the front of the machine."
+    },
+    {
+        "second": 5,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8tfOt3-wbLY/output_frames/sec_5_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[0-6] Then the brown boot is placed into the machine, which is pressing the upper and sole of the boot together. The white subtitles at the bottom of the screen are constantly updating. Finally, the boot rotates continuously, turning the toe of the boot towards the front of the machine."
+    },
+    {
+        "second": 6,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8tfOt3-wbLY/output_frames/sec_6_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[0-6] Then the brown boot is placed into the machine, which is pressing the upper and sole of the boot together. The white subtitles at the bottom of the screen are constantly updating. Finally, the boot rotates continuously, turning the toe of the boot towards the front of the machine."
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "second": 0,
+        "frame_index": 49,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FJ68wKxzfTo/output_frames/sec_0_idx_49.jpg",
+        "fps": 60,
+        "explanation": "[0-0] At the top of the screen, a man in an orange shirt wearing black headphones sits in front of a red microphone. Behind him is a white wall and a wooden door. At the bottom of the screen, there are two blue police cars with a green car in front of them, parked by the sea. There is a pier on the sea."
+    },
+    {
+        "second": 1,
+        "frame_index": 56,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FJ68wKxzfTo/output_frames/sec_1_idx_56.jpg",
+        "fps": 60,
+        "explanation": "[0-2] Then, the two blue police cars at the bottom of the screen drive forward to the seaside, and the green car falls into the sea."
+    },
+    {
+        "second": 2,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FJ68wKxzfTo/output_frames/sec_2_idx_19.jpg",
+        "fps": 60,
+        "explanation": "[0-2] Then, the two blue police cars at the bottom of the screen drive forward to the seaside, and the green car falls into the sea."
+    },
+    {
+        "second": 3,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FJ68wKxzfTo/output_frames/sec_3_idx_1.jpg",
+        "fps": 60,
+        "explanation": "[2-7] Immediately afterwards, a yellow car and a purple car emerge from the sea. The yellow car steps on the blue police car and lands behind it with the purple car, driving a short distance."
+    },
+    {
+        "second": 4,
+        "frame_index": 59,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FJ68wKxzfTo/output_frames/sec_4_idx_59.jpg",
+        "fps": 60,
+        "explanation": "[2-7] Immediately afterwards, a yellow car and a purple car emerge from the sea. The yellow car steps on the blue police car and lands behind it with the purple car, driving a short distance."
+    },
+    {
+        "second": 5,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FJ68wKxzfTo/output_frames/sec_5_idx_7.jpg",
+        "fps": 60,
+        "explanation": "[2-7] Immediately afterwards, a yellow car and a purple car emerge from the sea. The yellow car steps on the blue police car and lands behind it with the purple car, driving a short distance."
+    },
+    {
+        "second": 6,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FJ68wKxzfTo/output_frames/sec_6_idx_10.jpg",
+        "fps": 60,
+        "explanation": "[2-7] Immediately afterwards, a yellow car and a purple car emerge from the sea. The yellow car steps on the blue police car and lands behind it with the purple car, driving a short distance."
+    },
+    {
+        "second": 7,
+        "frame_index": 36,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FJ68wKxzfTo/output_frames/sec_7_idx_36.jpg",
+        "fps": 60,
+        "explanation": "[2-7] Immediately afterwards, a yellow car and a purple car emerge from the sea. The yellow car steps on the blue police car and lands behind it with the purple car, driving a short distance."
+    },
+    {
+        "second": 8,
+        "frame_index": 32,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FJ68wKxzfTo/output_frames/sec_8_idx_32.jpg",
+        "fps": 60,
+        "explanation": "[7-10] Then the yellow car and the purple car crash into the two blue police cars. Afterwards, the two blue police cars jump up, and the yellow car and the purple car fall into the sea again. Subsequently, a white emoji baring its teeth appears on the purple car, and the man in the orange shirt at the top of the screen raises his left hand, with a white emoji smoking a cigarette appearing on his face."
+    },
+    {
+        "second": 9,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FJ68wKxzfTo/output_frames/sec_9_idx_22.jpg",
+        "fps": 60,
+        "explanation": "[7-10] Then the yellow car and the purple car crash into the two blue police cars. Afterwards, the two blue police cars jump up, and the yellow car and the purple car fall into the sea again. Subsequently, a white emoji baring its teeth appears on the purple car, and the man in the orange shirt at the top of the screen raises his left hand, with a white emoji smoking a cigarette appearing on his face."
+    },
+    {
+        "second": 10,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FJ68wKxzfTo/output_frames/sec_10_idx_5.jpg",
+        "fps": 60,
+        "explanation": "[7-10] Then the yellow car and the purple car crash into the two blue police cars. Afterwards, the two blue police cars jump up, and the yellow car and the purple car fall into the sea again. Subsequently, a white emoji baring its teeth appears on the purple car, and the man in the orange shirt at the top of the screen raises his left hand, with a white emoji smoking a cigarette appearing on his face."
+    }
+]

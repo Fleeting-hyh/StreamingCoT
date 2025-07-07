@@ -1,0 +1,65 @@
+[
+    {
+        "second": 0,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JluiJrfZMNw/output_frames/sec_0_idx_3.jpg",
+        "fps": 60,
+        "explanation": "[0-0] A man's mouth, his hands holding a transparent bag filled with green candy."
+    },
+    {
+        "second": 1,
+        "frame_index": 43,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JluiJrfZMNw/output_frames/sec_1_idx_43.jpg",
+        "fps": 60,
+        "explanation": "[0-8] Then the man takes the candy out of the bag, puts it in his mouth, and starts chewing."
+    },
+    {
+        "second": 2,
+        "frame_index": 58,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JluiJrfZMNw/output_frames/sec_2_idx_58.jpg",
+        "fps": 60,
+        "explanation": "[0-8] Then the man takes the candy out of the bag, puts it in his mouth, and starts chewing."
+    },
+    {
+        "second": 3,
+        "frame_index": 35,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JluiJrfZMNw/output_frames/sec_3_idx_35.jpg",
+        "fps": 60,
+        "explanation": "[0-8] Then the man takes the candy out of the bag, puts it in his mouth, and starts chewing."
+    },
+    {
+        "second": 4,
+        "frame_index": 33,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JluiJrfZMNw/output_frames/sec_4_idx_33.jpg",
+        "fps": 60,
+        "explanation": "[0-8] Then the man takes the candy out of the bag, puts it in his mouth, and starts chewing."
+    },
+    {
+        "second": 5,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JluiJrfZMNw/output_frames/sec_5_idx_26.jpg",
+        "fps": 60,
+        "explanation": "[0-8] Then the man takes the candy out of the bag, puts it in his mouth, and starts chewing."
+    },
+    {
+        "second": 6,
+        "frame_index": 52,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JluiJrfZMNw/output_frames/sec_6_idx_52.jpg",
+        "fps": 60,
+        "explanation": "[0-8] Then the man takes the candy out of the bag, puts it in his mouth, and starts chewing."
+    },
+    {
+        "second": 7,
+        "frame_index": 38,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JluiJrfZMNw/output_frames/sec_7_idx_38.jpg",
+        "fps": 60,
+        "explanation": "[0-8] Then the man takes the candy out of the bag, puts it in his mouth, and starts chewing."
+    },
+    {
+        "second": 8,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JluiJrfZMNw/output_frames/sec_8_idx_12.jpg",
+        "fps": 60,
+        "explanation": "[0-8] Then the man takes the candy out of the bag, puts it in his mouth, and starts chewing."
+    }
+]

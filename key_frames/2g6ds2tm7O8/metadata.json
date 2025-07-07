@@ -1,0 +1,268 @@
+[
+    {
+        "second": 0,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2g6ds2tm7O8/output_frames/sec_0_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A man dressed as Mario and a man wearing glasses dressed as Luigi are standing in front of a rectangular black table. On the table are three rolls of toilet paper, two yellow lines and one red line. On the left side of the table are a Bowser head, a white ghost, a gold coin and a mushroom. They are about to play a game using toilet paper rolls. In the upper left corner of the screen is Mario's head and the white number 5, and in the upper right corner is Luigi's head and the white number 5. The background is a white wall and a closed white door, and the floor is yellowish-brown."
+    },
+    {
+        "second": 1,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2g6ds2tm7O8/output_frames/sec_1_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[0-6] Mario picks up a roll of toilet paper from the table and rolls it on the table. The toilet paper roll stops at the position of the gold coin, and a yellow gold coin and a white \"+1\" appear on the screen. His score increases by 1 point to 6 points. Luigi cheers him on from the sidelines."
+    },
+    {
+        "second": 2,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2g6ds2tm7O8/output_frames/sec_2_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[0-6] Mario picks up a roll of toilet paper from the table and rolls it on the table. The toilet paper roll stops at the position of the gold coin, and a yellow gold coin and a white \"+1\" appear on the screen. His score increases by 1 point to 6 points. Luigi cheers him on from the sidelines."
+    },
+    {
+        "second": 3,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2g6ds2tm7O8/output_frames/sec_3_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[0-6] Mario picks up a roll of toilet paper from the table and rolls it on the table. The toilet paper roll stops at the position of the gold coin, and a yellow gold coin and a white \"+1\" appear on the screen. His score increases by 1 point to 6 points. Luigi cheers him on from the sidelines."
+    },
+    {
+        "second": 4,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2g6ds2tm7O8/output_frames/sec_4_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[0-6] Mario picks up a roll of toilet paper from the table and rolls it on the table. The toilet paper roll stops at the position of the gold coin, and a yellow gold coin and a white \"+1\" appear on the screen. His score increases by 1 point to 6 points. Luigi cheers him on from the sidelines."
+    },
+    {
+        "second": 5,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2g6ds2tm7O8/output_frames/sec_5_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[0-6] Mario picks up a roll of toilet paper from the table and rolls it on the table. The toilet paper roll stops at the position of the gold coin, and a yellow gold coin and a white \"+1\" appear on the screen. His score increases by 1 point to 6 points. Luigi cheers him on from the sidelines."
+    },
+    {
+        "second": 6,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2g6ds2tm7O8/output_frames/sec_6_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[0-6] Mario picks up a roll of toilet paper from the table and rolls it on the table. The toilet paper roll stops at the position of the gold coin, and a yellow gold coin and a white \"+1\" appear on the screen. His score increases by 1 point to 6 points. Luigi cheers him on from the sidelines."
+    },
+    {
+        "second": 7,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2g6ds2tm7O8/output_frames/sec_7_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[6-12] Then it was Luigi's turn, he picked up a roll of toilet paper and rolled it on the table, the toilet paper roll stopped at the position of Bowser. Subsequently, a Bowser head appeared with a red \"-2\". The appearance of Bowser caused Luigi's score to decrease by 2 points to 3 points. Luigi was very frustrated, while Mario laughed beside him."
+    },
+    {
+        "second": 8,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2g6ds2tm7O8/output_frames/sec_8_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[6-12] Then it was Luigi's turn, he picked up a roll of toilet paper and rolled it on the table, the toilet paper roll stopped at the position of Bowser. Subsequently, a Bowser head appeared with a red \"-2\". The appearance of Bowser caused Luigi's score to decrease by 2 points to 3 points. Luigi was very frustrated, while Mario laughed beside him."
+    },
+    {
+        "second": 9,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2g6ds2tm7O8/output_frames/sec_9_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[6-12] Then it was Luigi's turn, he picked up a roll of toilet paper and rolled it on the table, the toilet paper roll stopped at the position of Bowser. Subsequently, a Bowser head appeared with a red \"-2\". The appearance of Bowser caused Luigi's score to decrease by 2 points to 3 points. Luigi was very frustrated, while Mario laughed beside him."
+    },
+    {
+        "second": 10,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2g6ds2tm7O8/output_frames/sec_10_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[6-12] Then it was Luigi's turn, he picked up a roll of toilet paper and rolled it on the table, the toilet paper roll stopped at the position of Bowser. Subsequently, a Bowser head appeared with a red \"-2\". The appearance of Bowser caused Luigi's score to decrease by 2 points to 3 points. Luigi was very frustrated, while Mario laughed beside him."
+    },
+    {
+        "second": 11,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2g6ds2tm7O8/output_frames/sec_11_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[6-12] Then it was Luigi's turn, he picked up a roll of toilet paper and rolled it on the table, the toilet paper roll stopped at the position of Bowser. Subsequently, a Bowser head appeared with a red \"-2\". The appearance of Bowser caused Luigi's score to decrease by 2 points to 3 points. Luigi was very frustrated, while Mario laughed beside him."
+    },
+    {
+        "second": 12,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2g6ds2tm7O8/output_frames/sec_12_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[6-12] Then it was Luigi's turn, he picked up a roll of toilet paper and rolled it on the table, the toilet paper roll stopped at the position of Bowser. Subsequently, a Bowser head appeared with a red \"-2\". The appearance of Bowser caused Luigi's score to decrease by 2 points to 3 points. Luigi was very frustrated, while Mario laughed beside him."
+    },
+    {
+        "second": 13,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2g6ds2tm7O8/output_frames/sec_13_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[12-18] Then it was Mario's turn to roll the toilet paper roll on the table, Mario clenched his fists, stared wide-eyed at the paper roll in anticipation. As a result, the paper roll fell off the table. A red \"-1\" appears on the screen, and his score is reduced by 1 point to 5 points. Mario is very disappointed and frustrated."
+    },
+    {
+        "second": 14,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2g6ds2tm7O8/output_frames/sec_14_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[12-18] Then it was Mario's turn to roll the toilet paper roll on the table, Mario clenched his fists, stared wide-eyed at the paper roll in anticipation. As a result, the paper roll fell off the table. A red \"-1\" appears on the screen, and his score is reduced by 1 point to 5 points. Mario is very disappointed and frustrated."
+    },
+    {
+        "second": 15,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2g6ds2tm7O8/output_frames/sec_15_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[12-18] Then it was Mario's turn to roll the toilet paper roll on the table, Mario clenched his fists, stared wide-eyed at the paper roll in anticipation. As a result, the paper roll fell off the table. A red \"-1\" appears on the screen, and his score is reduced by 1 point to 5 points. Mario is very disappointed and frustrated."
+    },
+    {
+        "second": 16,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2g6ds2tm7O8/output_frames/sec_16_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[12-18] Then it was Mario's turn to roll the toilet paper roll on the table, Mario clenched his fists, stared wide-eyed at the paper roll in anticipation. As a result, the paper roll fell off the table. A red \"-1\" appears on the screen, and his score is reduced by 1 point to 5 points. Mario is very disappointed and frustrated."
+    },
+    {
+        "second": 17,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2g6ds2tm7O8/output_frames/sec_17_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[12-18] Then it was Mario's turn to roll the toilet paper roll on the table, Mario clenched his fists, stared wide-eyed at the paper roll in anticipation. As a result, the paper roll fell off the table. A red \"-1\" appears on the screen, and his score is reduced by 1 point to 5 points. Mario is very disappointed and frustrated."
+    },
+    {
+        "second": 18,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2g6ds2tm7O8/output_frames/sec_18_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[12-18] Then it was Mario's turn to roll the toilet paper roll on the table, Mario clenched his fists, stared wide-eyed at the paper roll in anticipation. As a result, the paper roll fell off the table. A red \"-1\" appears on the screen, and his score is reduced by 1 point to 5 points. Mario is very disappointed and frustrated."
+    },
+    {
+        "second": 19,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2g6ds2tm7O8/output_frames/sec_19_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[18-24] Then it was Luigi's turn to roll the toilet paper roll on the table. He straightened his hat, smiled and looked forward to it, the toilet paper roll stopped at the position of the white ghost, a white ghost head appeared and a red \"-1\", resulting in Luigi's score decreased by 1 point to 2 points. Luigi is very sad."
+    },
+    {
+        "second": 20,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2g6ds2tm7O8/output_frames/sec_20_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[18-24] Then it was Luigi's turn to roll the toilet paper roll on the table. He straightened his hat, smiled and looked forward to it, the toilet paper roll stopped at the position of the white ghost, a white ghost head appeared and a red \"-1\", resulting in Luigi's score decreased by 1 point to 2 points. Luigi is very sad."
+    },
+    {
+        "second": 21,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2g6ds2tm7O8/output_frames/sec_21_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[18-24] Then it was Luigi's turn to roll the toilet paper roll on the table. He straightened his hat, smiled and looked forward to it, the toilet paper roll stopped at the position of the white ghost, a white ghost head appeared and a red \"-1\", resulting in Luigi's score decreased by 1 point to 2 points. Luigi is very sad."
+    },
+    {
+        "second": 22,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2g6ds2tm7O8/output_frames/sec_22_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[18-24] Then it was Luigi's turn to roll the toilet paper roll on the table. He straightened his hat, smiled and looked forward to it, the toilet paper roll stopped at the position of the white ghost, a white ghost head appeared and a red \"-1\", resulting in Luigi's score decreased by 1 point to 2 points. Luigi is very sad."
+    },
+    {
+        "second": 23,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2g6ds2tm7O8/output_frames/sec_23_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[18-24] Then it was Luigi's turn to roll the toilet paper roll on the table. He straightened his hat, smiled and looked forward to it, the toilet paper roll stopped at the position of the white ghost, a white ghost head appeared and a red \"-1\", resulting in Luigi's score decreased by 1 point to 2 points. Luigi is very sad."
+    },
+    {
+        "second": 24,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2g6ds2tm7O8/output_frames/sec_24_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[18-24] Then it was Luigi's turn to roll the toilet paper roll on the table. He straightened his hat, smiled and looked forward to it, the toilet paper roll stopped at the position of the white ghost, a white ghost head appeared and a red \"-1\", resulting in Luigi's score decreased by 1 point to 2 points. Luigi is very sad."
+    },
+    {
+        "second": 25,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2g6ds2tm7O8/output_frames/sec_25_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[24-29] At this time, Mario's toilet paper roll then stopped at the position of the white ghost, a white ghost head appeared and a red \"-1\", resulting in Mario's score decreased by 1 point, his score became 4 points, Mario lowered his head very sad."
+    },
+    {
+        "second": 26,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2g6ds2tm7O8/output_frames/sec_26_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[24-29] At this time, Mario's toilet paper roll then stopped at the position of the white ghost, a white ghost head appeared and a red \"-1\", resulting in Mario's score decreased by 1 point, his score became 4 points, Mario lowered his head very sad."
+    },
+    {
+        "second": 27,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2g6ds2tm7O8/output_frames/sec_27_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[24-29] At this time, Mario's toilet paper roll then stopped at the position of the white ghost, a white ghost head appeared and a red \"-1\", resulting in Mario's score decreased by 1 point, his score became 4 points, Mario lowered his head very sad."
+    },
+    {
+        "second": 28,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2g6ds2tm7O8/output_frames/sec_28_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[24-29] At this time, Mario's toilet paper roll then stopped at the position of the white ghost, a white ghost head appeared and a red \"-1\", resulting in Mario's score decreased by 1 point, his score became 4 points, Mario lowered his head very sad."
+    },
+    {
+        "second": 29,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2g6ds2tm7O8/output_frames/sec_29_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[24-29] At this time, Mario's toilet paper roll then stopped at the position of the white ghost, a white ghost head appeared and a red \"-1\", resulting in Mario's score decreased by 1 point, his score became 4 points, Mario lowered his head very sad."
+    },
+    {
+        "second": 30,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2g6ds2tm7O8/output_frames/sec_30_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[29-37] Finally, it was Luigi's turn to roll the toilet paper roll on the table, and Luigi looked nervous. Luigi's toilet paper roll successfully stopped at the position of the mushroom, a mushroom and a red \"+3\" appeared on the screen, and his score increased by 3 points. Luigi's final score was 5 points, winning the game, and he happily raised his hands in celebration."
+    },
+    {
+        "second": 31,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2g6ds2tm7O8/output_frames/sec_31_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[29-37] Finally, it was Luigi's turn to roll the toilet paper roll on the table, and Luigi looked nervous. Luigi's toilet paper roll successfully stopped at the position of the mushroom, a mushroom and a red \"+3\" appeared on the screen, and his score increased by 3 points. Luigi's final score was 5 points, winning the game, and he happily raised his hands in celebration."
+    },
+    {
+        "second": 32,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2g6ds2tm7O8/output_frames/sec_32_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[29-37] Finally, it was Luigi's turn to roll the toilet paper roll on the table, and Luigi looked nervous. Luigi's toilet paper roll successfully stopped at the position of the mushroom, a mushroom and a red \"+3\" appeared on the screen, and his score increased by 3 points. Luigi's final score was 5 points, winning the game, and he happily raised his hands in celebration."
+    },
+    {
+        "second": 33,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2g6ds2tm7O8/output_frames/sec_33_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[29-37] Finally, it was Luigi's turn to roll the toilet paper roll on the table, and Luigi looked nervous. Luigi's toilet paper roll successfully stopped at the position of the mushroom, a mushroom and a red \"+3\" appeared on the screen, and his score increased by 3 points. Luigi's final score was 5 points, winning the game, and he happily raised his hands in celebration."
+    },
+    {
+        "second": 34,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2g6ds2tm7O8/output_frames/sec_34_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[29-37] Finally, it was Luigi's turn to roll the toilet paper roll on the table, and Luigi looked nervous. Luigi's toilet paper roll successfully stopped at the position of the mushroom, a mushroom and a red \"+3\" appeared on the screen, and his score increased by 3 points. Luigi's final score was 5 points, winning the game, and he happily raised his hands in celebration."
+    },
+    {
+        "second": 35,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2g6ds2tm7O8/output_frames/sec_35_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[29-37] Finally, it was Luigi's turn to roll the toilet paper roll on the table, and Luigi looked nervous. Luigi's toilet paper roll successfully stopped at the position of the mushroom, a mushroom and a red \"+3\" appeared on the screen, and his score increased by 3 points. Luigi's final score was 5 points, winning the game, and he happily raised his hands in celebration."
+    },
+    {
+        "second": 36,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2g6ds2tm7O8/output_frames/sec_36_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[29-37] Finally, it was Luigi's turn to roll the toilet paper roll on the table, and Luigi looked nervous. Luigi's toilet paper roll successfully stopped at the position of the mushroom, a mushroom and a red \"+3\" appeared on the screen, and his score increased by 3 points. Luigi's final score was 5 points, winning the game, and he happily raised his hands in celebration."
+    },
+    {
+        "second": 37,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2g6ds2tm7O8/output_frames/sec_37_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[29-37] Finally, it was Luigi's turn to roll the toilet paper roll on the table, and Luigi looked nervous. Luigi's toilet paper roll successfully stopped at the position of the mushroom, a mushroom and a red \"+3\" appeared on the screen, and his score increased by 3 points. Luigi's final score was 5 points, winning the game, and he happily raised his hands in celebration."
+    }
+]

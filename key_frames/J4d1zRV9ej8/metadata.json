@@ -1,0 +1,198 @@
+[
+    {
+        "second": 0,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/J4d1zRV9ej8/output_frames/sec_0_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[0-0] In a bathroom with green walls, a woman wearing a purple nightgown stands in front of a toilet with a pink lid and flush button. She holds a round fishbowl containing a small orange clownfish. On the blue bathroom floor, a puddle of water has overflowed from the toilet."
+    },
+    {
+        "second": 1,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/J4d1zRV9ej8/output_frames/sec_1_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Water suddenly surges from the toilet, causing the woman to slip and fall. The fishbowl flies out of her hand, sending the clownfish and water back into the toilet. The camera zooms in as the clownfish is flushed away."
+    },
+    {
+        "second": 2,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/J4d1zRV9ej8/output_frames/sec_2_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Water suddenly surges from the toilet, causing the woman to slip and fall. The fishbowl flies out of her hand, sending the clownfish and water back into the toilet. The camera zooms in as the clownfish is flushed away."
+    },
+    {
+        "second": 3,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/J4d1zRV9ej8/output_frames/sec_3_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Water suddenly surges from the toilet, causing the woman to slip and fall. The fishbowl flies out of her hand, sending the clownfish and water back into the toilet. The camera zooms in as the clownfish is flushed away."
+    },
+    {
+        "second": 4,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/J4d1zRV9ej8/output_frames/sec_4_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[3-7] The scene then shifts to an underwater world, where the clownfish appears inside a pipe. Outside the pipe are various fish, each with a number above its head. A hand taps a small yellow fish, and the clownfish swims over and eats it, causing the number above its head to increase."
+    },
+    {
+        "second": 5,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/J4d1zRV9ej8/output_frames/sec_5_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[3-7] The scene then shifts to an underwater world, where the clownfish appears inside a pipe. Outside the pipe are various fish, each with a number above its head. A hand taps a small yellow fish, and the clownfish swims over and eats it, causing the number above its head to increase."
+    },
+    {
+        "second": 6,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/J4d1zRV9ej8/output_frames/sec_6_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[3-7] The scene then shifts to an underwater world, where the clownfish appears inside a pipe. Outside the pipe are various fish, each with a number above its head. A hand taps a small yellow fish, and the clownfish swims over and eats it, causing the number above its head to increase."
+    },
+    {
+        "second": 7,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/J4d1zRV9ej8/output_frames/sec_7_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[3-7] The scene then shifts to an underwater world, where the clownfish appears inside a pipe. Outside the pipe are various fish, each with a number above its head. A hand taps a small yellow fish, and the clownfish swims over and eats it, causing the number above its head to increase."
+    },
+    {
+        "second": 8,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/J4d1zRV9ej8/output_frames/sec_8_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[7-14] The clownfish continues to eat other small fish, and the number above its head keeps growing. It then consumes a slightly larger purple fish, and the number increases to \"134\"."
+    },
+    {
+        "second": 9,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/J4d1zRV9ej8/output_frames/sec_9_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[7-14] The clownfish continues to eat other small fish, and the number above its head keeps growing. It then consumes a slightly larger purple fish, and the number increases to \"134\"."
+    },
+    {
+        "second": 10,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/J4d1zRV9ej8/output_frames/sec_10_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[7-14] The clownfish continues to eat other small fish, and the number above its head keeps growing. It then consumes a slightly larger purple fish, and the number increases to \"134\"."
+    },
+    {
+        "second": 11,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/J4d1zRV9ej8/output_frames/sec_11_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[7-14] The clownfish continues to eat other small fish, and the number above its head keeps growing. It then consumes a slightly larger purple fish, and the number increases to \"134\"."
+    },
+    {
+        "second": 12,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/J4d1zRV9ej8/output_frames/sec_12_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[7-14] The clownfish continues to eat other small fish, and the number above its head keeps growing. It then consumes a slightly larger purple fish, and the number increases to \"134\"."
+    },
+    {
+        "second": 13,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/J4d1zRV9ej8/output_frames/sec_13_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[7-14] The clownfish continues to eat other small fish, and the number above its head keeps growing. It then consumes a slightly larger purple fish, and the number increases to \"134\"."
+    },
+    {
+        "second": 14,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/J4d1zRV9ej8/output_frames/sec_14_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[7-14] The clownfish continues to eat other small fish, and the number above its head keeps growing. It then consumes a slightly larger purple fish, and the number increases to \"134\"."
+    },
+    {
+        "second": 15,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/J4d1zRV9ej8/output_frames/sec_15_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[14-21] Afterward, the clownfish continues eating other small fish, and the number keeps increasing. A large purple fish appears in front of it, with a purple rod extending from the top of its head. At the end of the rod is a white light with the number \"15\" on it. A hand taps the white light, and the clownfish bites onto it. The large purple fish then swallows the clownfish in one gulp. After eating the clownfish, the number above the purple fish's head becomes \"308\"."
+    },
+    {
+        "second": 16,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/J4d1zRV9ej8/output_frames/sec_16_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[14-21] Afterward, the clownfish continues eating other small fish, and the number keeps increasing. A large purple fish appears in front of it, with a purple rod extending from the top of its head. At the end of the rod is a white light with the number \"15\" on it. A hand taps the white light, and the clownfish bites onto it. The large purple fish then swallows the clownfish in one gulp. After eating the clownfish, the number above the purple fish's head becomes \"308\"."
+    },
+    {
+        "second": 17,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/J4d1zRV9ej8/output_frames/sec_17_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[14-21] Afterward, the clownfish continues eating other small fish, and the number keeps increasing. A large purple fish appears in front of it, with a purple rod extending from the top of its head. At the end of the rod is a white light with the number \"15\" on it. A hand taps the white light, and the clownfish bites onto it. The large purple fish then swallows the clownfish in one gulp. After eating the clownfish, the number above the purple fish's head becomes \"308\"."
+    },
+    {
+        "second": 18,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/J4d1zRV9ej8/output_frames/sec_18_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[14-21] Afterward, the clownfish continues eating other small fish, and the number keeps increasing. A large purple fish appears in front of it, with a purple rod extending from the top of its head. At the end of the rod is a white light with the number \"15\" on it. A hand taps the white light, and the clownfish bites onto it. The large purple fish then swallows the clownfish in one gulp. After eating the clownfish, the number above the purple fish's head becomes \"308\"."
+    },
+    {
+        "second": 19,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/J4d1zRV9ej8/output_frames/sec_19_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[14-21] Afterward, the clownfish continues eating other small fish, and the number keeps increasing. A large purple fish appears in front of it, with a purple rod extending from the top of its head. At the end of the rod is a white light with the number \"15\" on it. A hand taps the white light, and the clownfish bites onto it. The large purple fish then swallows the clownfish in one gulp. After eating the clownfish, the number above the purple fish's head becomes \"308\"."
+    },
+    {
+        "second": 20,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/J4d1zRV9ej8/output_frames/sec_20_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[14-21] Afterward, the clownfish continues eating other small fish, and the number keeps increasing. A large purple fish appears in front of it, with a purple rod extending from the top of its head. At the end of the rod is a white light with the number \"15\" on it. A hand taps the white light, and the clownfish bites onto it. The large purple fish then swallows the clownfish in one gulp. After eating the clownfish, the number above the purple fish's head becomes \"308\"."
+    },
+    {
+        "second": 21,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/J4d1zRV9ej8/output_frames/sec_21_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[14-21] Afterward, the clownfish continues eating other small fish, and the number keeps increasing. A large purple fish appears in front of it, with a purple rod extending from the top of its head. At the end of the rod is a white light with the number \"15\" on it. A hand taps the white light, and the clownfish bites onto it. The large purple fish then swallows the clownfish in one gulp. After eating the clownfish, the number above the purple fish's head becomes \"308\"."
+    },
+    {
+        "second": 22,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/J4d1zRV9ej8/output_frames/sec_22_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[21-27] Next, a large blue fish appears in front of the large purple fish and eats it, causing the number above its head to change to \"645\". The camera zooms out to reveal more fish. White subtitles appear in the middle of the screen, reading \"Potato PSEUDOGAMER\". Finally, the screen fades to white."
+    },
+    {
+        "second": 23,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/J4d1zRV9ej8/output_frames/sec_23_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[21-27] Next, a large blue fish appears in front of the large purple fish and eats it, causing the number above its head to change to \"645\". The camera zooms out to reveal more fish. White subtitles appear in the middle of the screen, reading \"Potato PSEUDOGAMER\". Finally, the screen fades to white."
+    },
+    {
+        "second": 24,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/J4d1zRV9ej8/output_frames/sec_24_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[21-27] Next, a large blue fish appears in front of the large purple fish and eats it, causing the number above its head to change to \"645\". The camera zooms out to reveal more fish. White subtitles appear in the middle of the screen, reading \"Potato PSEUDOGAMER\". Finally, the screen fades to white."
+    },
+    {
+        "second": 25,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/J4d1zRV9ej8/output_frames/sec_25_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[21-27] Next, a large blue fish appears in front of the large purple fish and eats it, causing the number above its head to change to \"645\". The camera zooms out to reveal more fish. White subtitles appear in the middle of the screen, reading \"Potato PSEUDOGAMER\". Finally, the screen fades to white."
+    },
+    {
+        "second": 26,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/J4d1zRV9ej8/output_frames/sec_26_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[21-27] Next, a large blue fish appears in front of the large purple fish and eats it, causing the number above its head to change to \"645\". The camera zooms out to reveal more fish. White subtitles appear in the middle of the screen, reading \"Potato PSEUDOGAMER\". Finally, the screen fades to white."
+    },
+    {
+        "second": 27,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/J4d1zRV9ej8/output_frames/sec_27_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[21-27] Next, a large blue fish appears in front of the large purple fish and eats it, causing the number above its head to change to \"645\". The camera zooms out to reveal more fish. White subtitles appear in the middle of the screen, reading \"Potato PSEUDOGAMER\". Finally, the screen fades to white."
+    }
+]

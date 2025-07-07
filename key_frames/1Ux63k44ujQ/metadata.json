@@ -1,0 +1,65 @@
+[
+    {
+        "second": 0,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1Ux63k44ujQ/output_frames/sec_0_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[0-0] The video begins with a girl with blue and pink dreadlocks sitting on a bed. A cardboard box containing a cake is placed on the blue sofa in front of her. She opens her mouth wide, with both hands open near her mouth as if shouting. The background is a wall with dense, colorful stripes."
+    },
+    {
+        "second": 1,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1Ux63k44ujQ/output_frames/sec_1_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[0-5] The girl with dreadlocks withdraws her hands, and the scene switches to a woman in a Winnie the Pooh costume waving her hand. The scene cuts back to the girl with dreadlocks, who points her index finger at the cake and smiles happily. In contrast, the woman in the Winnie the Pooh costume has a terrified look on her face."
+    },
+    {
+        "second": 2,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1Ux63k44ujQ/output_frames/sec_2_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[0-5] The girl with dreadlocks withdraws her hands, and the scene switches to a woman in a Winnie the Pooh costume waving her hand. The scene cuts back to the girl with dreadlocks, who points her index finger at the cake and smiles happily. In contrast, the woman in the Winnie the Pooh costume has a terrified look on her face."
+    },
+    {
+        "second": 3,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1Ux63k44ujQ/output_frames/sec_3_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[0-5] The girl with dreadlocks withdraws her hands, and the scene switches to a woman in a Winnie the Pooh costume waving her hand. The scene cuts back to the girl with dreadlocks, who points her index finger at the cake and smiles happily. In contrast, the woman in the Winnie the Pooh costume has a terrified look on her face."
+    },
+    {
+        "second": 4,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1Ux63k44ujQ/output_frames/sec_4_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[0-5] The girl with dreadlocks withdraws her hands, and the scene switches to a woman in a Winnie the Pooh costume waving her hand. The scene cuts back to the girl with dreadlocks, who points her index finger at the cake and smiles happily. In contrast, the woman in the Winnie the Pooh costume has a terrified look on her face."
+    },
+    {
+        "second": 5,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1Ux63k44ujQ/output_frames/sec_5_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[0-5] The girl with dreadlocks withdraws her hands, and the scene switches to a woman in a Winnie the Pooh costume waving her hand. The scene cuts back to the girl with dreadlocks, who points her index finger at the cake and smiles happily. In contrast, the woman in the Winnie the Pooh costume has a terrified look on her face."
+    },
+    {
+        "second": 6,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1Ux63k44ujQ/output_frames/sec_6_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[5-8] At this point, the girl with dreadlocks reaches into the cake. The final shot cuts back to the woman in the Winnie the Pooh costume, clutching her bottom in pain."
+    },
+    {
+        "second": 7,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1Ux63k44ujQ/output_frames/sec_7_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[5-8] At this point, the girl with dreadlocks reaches into the cake. The final shot cuts back to the woman in the Winnie the Pooh costume, clutching her bottom in pain."
+    },
+    {
+        "second": 8,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1Ux63k44ujQ/output_frames/sec_8_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[5-8] At this point, the girl with dreadlocks reaches into the cake. The final shot cuts back to the woman in the Winnie the Pooh costume, clutching her bottom in pain."
+    }
+]

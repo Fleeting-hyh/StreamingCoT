@@ -1,0 +1,51 @@
+[
+    {
+        "second": 0,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EVxioPSklK0/output_frames/sec_0_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A man with pink hair and no shirt is wearing a red hat, standing in front of the camera with an exaggerated open-mouthed expression. A woman with blue hair, wearing a black top and blue shorts, stands behind him holding a colorful plate, looking helpless. The background is a white wall."
+    },
+    {
+        "second": 1,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EVxioPSklK0/output_frames/sec_1_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[0-6] The man uses a toilet plunger on his left side and sticks it to his chest. He pulls hard, leaving the plunger stuck on his chest, and tries unsuccessfully to remove it with his hand. The woman behind him shows a happy smile."
+    },
+    {
+        "second": 2,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EVxioPSklK0/output_frames/sec_2_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[0-6] The man uses a toilet plunger on his left side and sticks it to his chest. He pulls hard, leaving the plunger stuck on his chest, and tries unsuccessfully to remove it with his hand. The woman behind him shows a happy smile."
+    },
+    {
+        "second": 3,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EVxioPSklK0/output_frames/sec_3_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-6] The man uses a toilet plunger on his left side and sticks it to his chest. He pulls hard, leaving the plunger stuck on his chest, and tries unsuccessfully to remove it with his hand. The woman behind him shows a happy smile."
+    },
+    {
+        "second": 4,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EVxioPSklK0/output_frames/sec_4_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-6] The man uses a toilet plunger on his left side and sticks it to his chest. He pulls hard, leaving the plunger stuck on his chest, and tries unsuccessfully to remove it with his hand. The woman behind him shows a happy smile."
+    },
+    {
+        "second": 5,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EVxioPSklK0/output_frames/sec_5_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-6] The man uses a toilet plunger on his left side and sticks it to his chest. He pulls hard, leaving the plunger stuck on his chest, and tries unsuccessfully to remove it with his hand. The woman behind him shows a happy smile."
+    },
+    {
+        "second": 6,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EVxioPSklK0/output_frames/sec_6_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[0-6] The man uses a toilet plunger on his left side and sticks it to his chest. He pulls hard, leaving the plunger stuck on his chest, and tries unsuccessfully to remove it with his hand. The woman behind him shows a happy smile."
+    }
+]

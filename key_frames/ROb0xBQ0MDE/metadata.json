@@ -1,0 +1,44 @@
+[
+    {
+        "second": 0,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/ROb0xBQ0MDE/output_frames/sec_0_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A lady is sitting in the driver's seat of a car, wearing a green printed shirt."
+    },
+    {
+        "second": 1,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/ROb0xBQ0MDE/output_frames/sec_1_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Then she turns her head, smiles, and starts touching and sliding the car's central control screen with her right hand. Afterward, the focus shifts to the car door, the interior of which is mainly white and silver, and the passenger door closes by itself."
+    },
+    {
+        "second": 2,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/ROb0xBQ0MDE/output_frames/sec_2_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Then she turns her head, smiles, and starts touching and sliding the car's central control screen with her right hand. Afterward, the focus shifts to the car door, the interior of which is mainly white and silver, and the passenger door closes by itself."
+    },
+    {
+        "second": 3,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/ROb0xBQ0MDE/output_frames/sec_3_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Then she turns her head, smiles, and starts touching and sliding the car's central control screen with her right hand. Afterward, the focus shifts to the car door, the interior of which is mainly white and silver, and the passenger door closes by itself."
+    },
+    {
+        "second": 4,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/ROb0xBQ0MDE/output_frames/sec_4_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Then she turns her head, smiles, and starts touching and sliding the car's central control screen with her right hand. Afterward, the focus shifts to the car door, the interior of which is mainly white and silver, and the passenger door closes by itself."
+    },
+    {
+        "second": 5,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/ROb0xBQ0MDE/output_frames/sec_5_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Then she turns her head, smiles, and starts touching and sliding the car's central control screen with her right hand. Afterward, the focus shifts to the car door, the interior of which is mainly white and silver, and the passenger door closes by itself."
+    }
+]

@@ -1,0 +1,422 @@
+[
+    {
+        "second": 0,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/A4eov3Jav0I/output_frames/sec_0_idx_9.jpg",
+        "fps": 24,
+        "explanation": "[0-0] An Asian man with glasses and a black hat, wearing a black T-shirt, is standing in front of a kitchen table with an empty glass blender on it. He has a picture of an Oreo cookie on his head. He closes his eyes, pouts, and points two index fingers at his cheeks. There is a blue curtain and gray wall cabinets in the background."
+    },
+    {
+        "second": 1,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/A4eov3Jav0I/output_frames/sec_1_idx_12.jpg",
+        "fps": 24,
+        "explanation": "[0-7] Then the man continues to close his eyes, opens his mouth, and puts the Oreo cookies into the blender."
+    },
+    {
+        "second": 2,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/A4eov3Jav0I/output_frames/sec_2_idx_18.jpg",
+        "fps": 24,
+        "explanation": "[0-7] Then the man continues to close his eyes, opens his mouth, and puts the Oreo cookies into the blender."
+    },
+    {
+        "second": 3,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/A4eov3Jav0I/output_frames/sec_3_idx_19.jpg",
+        "fps": 24,
+        "explanation": "[0-7] Then the man continues to close his eyes, opens his mouth, and puts the Oreo cookies into the blender."
+    },
+    {
+        "second": 4,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/A4eov3Jav0I/output_frames/sec_4_idx_20.jpg",
+        "fps": 24,
+        "explanation": "[0-7] Then the man continues to close his eyes, opens his mouth, and puts the Oreo cookies into the blender."
+    },
+    {
+        "second": 5,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/A4eov3Jav0I/output_frames/sec_5_idx_0.jpg",
+        "fps": 24,
+        "explanation": "[0-7] Then the man continues to close his eyes, opens his mouth, and puts the Oreo cookies into the blender."
+    },
+    {
+        "second": 6,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/A4eov3Jav0I/output_frames/sec_6_idx_10.jpg",
+        "fps": 24,
+        "explanation": "[0-7] Then the man continues to close his eyes, opens his mouth, and puts the Oreo cookies into the blender."
+    },
+    {
+        "second": 7,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/A4eov3Jav0I/output_frames/sec_7_idx_7.jpg",
+        "fps": 24,
+        "explanation": "[0-7] Then the man continues to close his eyes, opens his mouth, and puts the Oreo cookies into the blender."
+    },
+    {
+        "second": 8,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/A4eov3Jav0I/output_frames/sec_8_idx_12.jpg",
+        "fps": 24,
+        "explanation": "[7-11] Then the screen switches back to the man, with his eyes closed and half an avocado icon on his head. The man shakes his head, and then an ice cube icon appears. The man points to choose to add ice cubes."
+    },
+    {
+        "second": 9,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/A4eov3Jav0I/output_frames/sec_9_idx_9.jpg",
+        "fps": 24,
+        "explanation": "[7-11] Then the screen switches back to the man, with his eyes closed and half an avocado icon on his head. The man shakes his head, and then an ice cube icon appears. The man points to choose to add ice cubes."
+    },
+    {
+        "second": 10,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/A4eov3Jav0I/output_frames/sec_10_idx_21.jpg",
+        "fps": 24,
+        "explanation": "[7-11] Then the screen switches back to the man, with his eyes closed and half an avocado icon on his head. The man shakes his head, and then an ice cube icon appears. The man points to choose to add ice cubes."
+    },
+    {
+        "second": 11,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/A4eov3Jav0I/output_frames/sec_11_idx_15.jpg",
+        "fps": 24,
+        "explanation": "[7-11] Then the screen switches back to the man, with his eyes closed and half an avocado icon on his head. The man shakes his head, and then an ice cube icon appears. The man points to choose to add ice cubes."
+    },
+    {
+        "second": 12,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/A4eov3Jav0I/output_frames/sec_12_idx_14.jpg",
+        "fps": 24,
+        "explanation": "[11-14] Afterward, a large amount of ice is poured into the blender."
+    },
+    {
+        "second": 13,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/A4eov3Jav0I/output_frames/sec_13_idx_17.jpg",
+        "fps": 24,
+        "explanation": "[11-14] Afterward, a large amount of ice is poured into the blender."
+    },
+    {
+        "second": 14,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/A4eov3Jav0I/output_frames/sec_14_idx_20.jpg",
+        "fps": 24,
+        "explanation": "[11-14] Afterward, a large amount of ice is poured into the blender."
+    },
+    {
+        "second": 15,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/A4eov3Jav0I/output_frames/sec_15_idx_14.jpg",
+        "fps": 24,
+        "explanation": "[14-20] Then the screen switches back to the man, eyes closed, with a picture of a bowl of ice cream on his head. The man extends his index finger to choose to put the ice cream into the blender. Then some ice cream is put into the blender and pressed with a wooden spatula."
+    },
+    {
+        "second": 16,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/A4eov3Jav0I/output_frames/sec_16_idx_22.jpg",
+        "fps": 24,
+        "explanation": "[14-20] Then the screen switches back to the man, eyes closed, with a picture of a bowl of ice cream on his head. The man extends his index finger to choose to put the ice cream into the blender. Then some ice cream is put into the blender and pressed with a wooden spatula."
+    },
+    {
+        "second": 17,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/A4eov3Jav0I/output_frames/sec_17_idx_11.jpg",
+        "fps": 24,
+        "explanation": "[14-20] Then the screen switches back to the man, eyes closed, with a picture of a bowl of ice cream on his head. The man extends his index finger to choose to put the ice cream into the blender. Then some ice cream is put into the blender and pressed with a wooden spatula."
+    },
+    {
+        "second": 18,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/A4eov3Jav0I/output_frames/sec_18_idx_12.jpg",
+        "fps": 24,
+        "explanation": "[14-20] Then the screen switches back to the man, eyes closed, with a picture of a bowl of ice cream on his head. The man extends his index finger to choose to put the ice cream into the blender. Then some ice cream is put into the blender and pressed with a wooden spatula."
+    },
+    {
+        "second": 19,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/A4eov3Jav0I/output_frames/sec_19_idx_7.jpg",
+        "fps": 24,
+        "explanation": "[14-20] Then the screen switches back to the man, eyes closed, with a picture of a bowl of ice cream on his head. The man extends his index finger to choose to put the ice cream into the blender. Then some ice cream is put into the blender and pressed with a wooden spatula."
+    },
+    {
+        "second": 20,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/A4eov3Jav0I/output_frames/sec_20_idx_8.jpg",
+        "fps": 24,
+        "explanation": "[14-20] Then the screen switches back to the man, eyes closed, with a picture of a bowl of ice cream on his head. The man extends his index finger to choose to put the ice cream into the blender. Then some ice cream is put into the blender and pressed with a wooden spatula."
+    },
+    {
+        "second": 21,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/A4eov3Jav0I/output_frames/sec_21_idx_19.jpg",
+        "fps": 24,
+        "explanation": "[20-29] Then a piece of chocolate appears in the picture, the man with his eyes closed pouts to show that he doesn't want it, and then a bottle of chocolate sauce appears in the picture, the man smiles and says yes, so a large amount of chocolate sauce is poured into the blender."
+    },
+    {
+        "second": 22,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/A4eov3Jav0I/output_frames/sec_22_idx_13.jpg",
+        "fps": 24,
+        "explanation": "[20-29] Then a piece of chocolate appears in the picture, the man with his eyes closed pouts to show that he doesn't want it, and then a bottle of chocolate sauce appears in the picture, the man smiles and says yes, so a large amount of chocolate sauce is poured into the blender."
+    },
+    {
+        "second": 23,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/A4eov3Jav0I/output_frames/sec_23_idx_5.jpg",
+        "fps": 24,
+        "explanation": "[20-29] Then a piece of chocolate appears in the picture, the man with his eyes closed pouts to show that he doesn't want it, and then a bottle of chocolate sauce appears in the picture, the man smiles and says yes, so a large amount of chocolate sauce is poured into the blender."
+    },
+    {
+        "second": 24,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/A4eov3Jav0I/output_frames/sec_24_idx_16.jpg",
+        "fps": 24,
+        "explanation": "[20-29] Then a piece of chocolate appears in the picture, the man with his eyes closed pouts to show that he doesn't want it, and then a bottle of chocolate sauce appears in the picture, the man smiles and says yes, so a large amount of chocolate sauce is poured into the blender."
+    },
+    {
+        "second": 25,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/A4eov3Jav0I/output_frames/sec_25_idx_19.jpg",
+        "fps": 24,
+        "explanation": "[20-29] Then a piece of chocolate appears in the picture, the man with his eyes closed pouts to show that he doesn't want it, and then a bottle of chocolate sauce appears in the picture, the man smiles and says yes, so a large amount of chocolate sauce is poured into the blender."
+    },
+    {
+        "second": 26,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/A4eov3Jav0I/output_frames/sec_26_idx_2.jpg",
+        "fps": 24,
+        "explanation": "[20-29] Then a piece of chocolate appears in the picture, the man with his eyes closed pouts to show that he doesn't want it, and then a bottle of chocolate sauce appears in the picture, the man smiles and says yes, so a large amount of chocolate sauce is poured into the blender."
+    },
+    {
+        "second": 27,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/A4eov3Jav0I/output_frames/sec_27_idx_15.jpg",
+        "fps": 24,
+        "explanation": "[20-29] Then a piece of chocolate appears in the picture, the man with his eyes closed pouts to show that he doesn't want it, and then a bottle of chocolate sauce appears in the picture, the man smiles and says yes, so a large amount of chocolate sauce is poured into the blender."
+    },
+    {
+        "second": 28,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/A4eov3Jav0I/output_frames/sec_28_idx_11.jpg",
+        "fps": 24,
+        "explanation": "[20-29] Then a piece of chocolate appears in the picture, the man with his eyes closed pouts to show that he doesn't want it, and then a bottle of chocolate sauce appears in the picture, the man smiles and says yes, so a large amount of chocolate sauce is poured into the blender."
+    },
+    {
+        "second": 29,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/A4eov3Jav0I/output_frames/sec_29_idx_0.jpg",
+        "fps": 24,
+        "explanation": "[20-29] Then a piece of chocolate appears in the picture, the man with his eyes closed pouts to show that he doesn't want it, and then a bottle of chocolate sauce appears in the picture, the man smiles and says yes, so a large amount of chocolate sauce is poured into the blender."
+    },
+    {
+        "second": 30,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/A4eov3Jav0I/output_frames/sec_30_idx_8.jpg",
+        "fps": 24,
+        "explanation": "[29-35] Then a bottle of yogurt appears in the picture, the man happily says yes, so a large amount of yogurt is squeezed into the blender."
+    },
+    {
+        "second": 31,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/A4eov3Jav0I/output_frames/sec_31_idx_8.jpg",
+        "fps": 24,
+        "explanation": "[29-35] Then a bottle of yogurt appears in the picture, the man happily says yes, so a large amount of yogurt is squeezed into the blender."
+    },
+    {
+        "second": 32,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/A4eov3Jav0I/output_frames/sec_32_idx_2.jpg",
+        "fps": 24,
+        "explanation": "[29-35] Then a bottle of yogurt appears in the picture, the man happily says yes, so a large amount of yogurt is squeezed into the blender."
+    },
+    {
+        "second": 33,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/A4eov3Jav0I/output_frames/sec_33_idx_0.jpg",
+        "fps": 24,
+        "explanation": "[29-35] Then a bottle of yogurt appears in the picture, the man happily says yes, so a large amount of yogurt is squeezed into the blender."
+    },
+    {
+        "second": 34,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/A4eov3Jav0I/output_frames/sec_34_idx_19.jpg",
+        "fps": 24,
+        "explanation": "[29-35] Then a bottle of yogurt appears in the picture, the man happily says yes, so a large amount of yogurt is squeezed into the blender."
+    },
+    {
+        "second": 35,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/A4eov3Jav0I/output_frames/sec_35_idx_23.jpg",
+        "fps": 24,
+        "explanation": "[29-35] Then a bottle of yogurt appears in the picture, the man happily says yes, so a large amount of yogurt is squeezed into the blender."
+    },
+    {
+        "second": 36,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/A4eov3Jav0I/output_frames/sec_36_idx_23.jpg",
+        "fps": 24,
+        "explanation": "[35-43] Then a fried egg appears in the picture, the man pouts to show that he doesn't want it, then a bottle of milk appears in the picture, the man says yes, so a large amount of milk is poured into the blender."
+    },
+    {
+        "second": 37,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/A4eov3Jav0I/output_frames/sec_37_idx_0.jpg",
+        "fps": 24,
+        "explanation": "[35-43] Then a fried egg appears in the picture, the man pouts to show that he doesn't want it, then a bottle of milk appears in the picture, the man says yes, so a large amount of milk is poured into the blender."
+    },
+    {
+        "second": 38,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/A4eov3Jav0I/output_frames/sec_38_idx_1.jpg",
+        "fps": 24,
+        "explanation": "[35-43] Then a fried egg appears in the picture, the man pouts to show that he doesn't want it, then a bottle of milk appears in the picture, the man says yes, so a large amount of milk is poured into the blender."
+    },
+    {
+        "second": 39,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/A4eov3Jav0I/output_frames/sec_39_idx_1.jpg",
+        "fps": 24,
+        "explanation": "[35-43] Then a fried egg appears in the picture, the man pouts to show that he doesn't want it, then a bottle of milk appears in the picture, the man says yes, so a large amount of milk is poured into the blender."
+    },
+    {
+        "second": 40,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/A4eov3Jav0I/output_frames/sec_40_idx_8.jpg",
+        "fps": 24,
+        "explanation": "[35-43] Then a fried egg appears in the picture, the man pouts to show that he doesn't want it, then a bottle of milk appears in the picture, the man says yes, so a large amount of milk is poured into the blender."
+    },
+    {
+        "second": 41,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/A4eov3Jav0I/output_frames/sec_41_idx_2.jpg",
+        "fps": 24,
+        "explanation": "[35-43] Then a fried egg appears in the picture, the man pouts to show that he doesn't want it, then a bottle of milk appears in the picture, the man says yes, so a large amount of milk is poured into the blender."
+    },
+    {
+        "second": 42,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/A4eov3Jav0I/output_frames/sec_42_idx_1.jpg",
+        "fps": 24,
+        "explanation": "[35-43] Then a fried egg appears in the picture, the man pouts to show that he doesn't want it, then a bottle of milk appears in the picture, the man says yes, so a large amount of milk is poured into the blender."
+    },
+    {
+        "second": 43,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/A4eov3Jav0I/output_frames/sec_43_idx_18.jpg",
+        "fps": 24,
+        "explanation": "[35-43] Then a fried egg appears in the picture, the man pouts to show that he doesn't want it, then a bottle of milk appears in the picture, the man says yes, so a large amount of milk is poured into the blender."
+    },
+    {
+        "second": 44,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/A4eov3Jav0I/output_frames/sec_44_idx_18.jpg",
+        "fps": 24,
+        "explanation": "[43-52] Then both hands cover the blender and start the blender to blend. Then pour the blended drink into a glass, then squeeze some cream on top of the prepared drink, and put an Oreo cookie on top."
+    },
+    {
+        "second": 45,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/A4eov3Jav0I/output_frames/sec_45_idx_21.jpg",
+        "fps": 24,
+        "explanation": "[43-52] Then both hands cover the blender and start the blender to blend. Then pour the blended drink into a glass, then squeeze some cream on top of the prepared drink, and put an Oreo cookie on top."
+    },
+    {
+        "second": 46,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/A4eov3Jav0I/output_frames/sec_46_idx_23.jpg",
+        "fps": 24,
+        "explanation": "[43-52] Then both hands cover the blender and start the blender to blend. Then pour the blended drink into a glass, then squeeze some cream on top of the prepared drink, and put an Oreo cookie on top."
+    },
+    {
+        "second": 47,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/A4eov3Jav0I/output_frames/sec_47_idx_3.jpg",
+        "fps": 24,
+        "explanation": "[43-52] Then both hands cover the blender and start the blender to blend. Then pour the blended drink into a glass, then squeeze some cream on top of the prepared drink, and put an Oreo cookie on top."
+    },
+    {
+        "second": 48,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/A4eov3Jav0I/output_frames/sec_48_idx_15.jpg",
+        "fps": 24,
+        "explanation": "[43-52] Then both hands cover the blender and start the blender to blend. Then pour the blended drink into a glass, then squeeze some cream on top of the prepared drink, and put an Oreo cookie on top."
+    },
+    {
+        "second": 49,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/A4eov3Jav0I/output_frames/sec_49_idx_12.jpg",
+        "fps": 24,
+        "explanation": "[43-52] Then both hands cover the blender and start the blender to blend. Then pour the blended drink into a glass, then squeeze some cream on top of the prepared drink, and put an Oreo cookie on top."
+    },
+    {
+        "second": 50,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/A4eov3Jav0I/output_frames/sec_50_idx_0.jpg",
+        "fps": 24,
+        "explanation": "[43-52] Then both hands cover the blender and start the blender to blend. Then pour the blended drink into a glass, then squeeze some cream on top of the prepared drink, and put an Oreo cookie on top."
+    },
+    {
+        "second": 51,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/A4eov3Jav0I/output_frames/sec_51_idx_5.jpg",
+        "fps": 24,
+        "explanation": "[43-52] Then both hands cover the blender and start the blender to blend. Then pour the blended drink into a glass, then squeeze some cream on top of the prepared drink, and put an Oreo cookie on top."
+    },
+    {
+        "second": 52,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/A4eov3Jav0I/output_frames/sec_52_idx_18.jpg",
+        "fps": 24,
+        "explanation": "[43-52] Then both hands cover the blender and start the blender to blend. Then pour the blended drink into a glass, then squeeze some cream on top of the prepared drink, and put an Oreo cookie on top."
+    },
+    {
+        "second": 53,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/A4eov3Jav0I/output_frames/sec_53_idx_3.jpg",
+        "fps": 24,
+        "explanation": "[52-60] Finally the man removes his hands covering his eyes and enjoys the blended drink happily with a straw."
+    },
+    {
+        "second": 54,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/A4eov3Jav0I/output_frames/sec_54_idx_11.jpg",
+        "fps": 24,
+        "explanation": "[52-60] Finally the man removes his hands covering his eyes and enjoys the blended drink happily with a straw."
+    },
+    {
+        "second": 55,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/A4eov3Jav0I/output_frames/sec_55_idx_14.jpg",
+        "fps": 24,
+        "explanation": "[52-60] Finally the man removes his hands covering his eyes and enjoys the blended drink happily with a straw."
+    },
+    {
+        "second": 56,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/A4eov3Jav0I/output_frames/sec_56_idx_4.jpg",
+        "fps": 24,
+        "explanation": "[52-60] Finally the man removes his hands covering his eyes and enjoys the blended drink happily with a straw."
+    },
+    {
+        "second": 57,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/A4eov3Jav0I/output_frames/sec_57_idx_11.jpg",
+        "fps": 24,
+        "explanation": "[52-60] Finally the man removes his hands covering his eyes and enjoys the blended drink happily with a straw."
+    },
+    {
+        "second": 58,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/A4eov3Jav0I/output_frames/sec_58_idx_14.jpg",
+        "fps": 24,
+        "explanation": "[52-60] Finally the man removes his hands covering his eyes and enjoys the blended drink happily with a straw."
+    },
+    {
+        "second": 59,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/A4eov3Jav0I/output_frames/sec_59_idx_5.jpg",
+        "fps": 24,
+        "explanation": "[52-60] Finally the man removes his hands covering his eyes and enjoys the blended drink happily with a straw."
+    }
+]

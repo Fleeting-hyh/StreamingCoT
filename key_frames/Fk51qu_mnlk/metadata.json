@@ -1,0 +1,86 @@
+[
+    {
+        "second": 0,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Fk51qu_mnlk/output_frames/sec_0_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A lady appears in the frame with a game screen in front of her. The game interface shows the cartoon character SpongeBob SquarePants, with the number 0 below and a stepped track in the background. There are also two Patrick Stars on the track. The white subtitle \"I LOST BECAUSE OF SQUIDWARD\" is written at the top of the screen."
+    },
+    {
+        "second": 1,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Fk51qu_mnlk/output_frames/sec_1_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Next, SpongeBob moves on the track, passes the Patrick Star on the right, the game score increases from 0 to 200, and Patrick Star joins the characters."
+    },
+    {
+        "second": 2,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Fk51qu_mnlk/output_frames/sec_2_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Next, SpongeBob moves on the track, passes the Patrick Star on the right, the game score increases from 0 to 200, and Patrick Star joins the characters."
+    },
+    {
+        "second": 3,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Fk51qu_mnlk/output_frames/sec_3_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[2-4] Then two small snails appear in front. After choosing the one on the left, the game score increases to 400, and the snail joins the characters. Then she chooses Mr. Krabs on the right, and the game score increases to 600, with Mr. Krabs joining the characters."
+    },
+    {
+        "second": 4,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Fk51qu_mnlk/output_frames/sec_4_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[2-4] Then two small snails appear in front. After choosing the one on the left, the game score increases to 400, and the snail joins the characters. Then she chooses Mr. Krabs on the right, and the game score increases to 600, with Mr. Krabs joining the characters."
+    },
+    {
+        "second": 5,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Fk51qu_mnlk/output_frames/sec_5_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[4-7] Then Plankton appears in the game interface. After choosing the left side, the game score increases to 800, and Plankton joins. Squidward appears afterward, and the left side is chosen again, but the score does not change."
+    },
+    {
+        "second": 6,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Fk51qu_mnlk/output_frames/sec_6_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[4-7] Then Plankton appears in the game interface. After choosing the left side, the game score increases to 800, and Plankton joins. Squidward appears afterward, and the left side is chosen again, but the score does not change."
+    },
+    {
+        "second": 7,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Fk51qu_mnlk/output_frames/sec_7_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[4-7] Then Plankton appears in the game interface. After choosing the left side, the game score increases to 800, and Plankton joins. Squidward appears afterward, and the left side is chosen again, but the score does not change."
+    },
+    {
+        "second": 8,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Fk51qu_mnlk/output_frames/sec_8_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[7-9] Afterwards, cartoon characters from \"Jimmy Neutron\" appear in the game interface, with the number 999 above their heads."
+    },
+    {
+        "second": 9,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Fk51qu_mnlk/output_frames/sec_9_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[7-9] Afterwards, cartoon characters from \"Jimmy Neutron\" appear in the game interface, with the number 999 above their heads."
+    },
+    {
+        "second": 10,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Fk51qu_mnlk/output_frames/sec_10_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[9-11] Finally, the game ends, the words \"You lose!\" and \"999\" appear on the screen, and the lady makes an angry expression."
+    },
+    {
+        "second": 11,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Fk51qu_mnlk/output_frames/sec_11_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[9-11] Finally, the game ends, the words \"You lose!\" and \"999\" appear on the screen, and the lady makes an angry expression."
+    }
+]

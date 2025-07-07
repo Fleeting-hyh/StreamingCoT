@@ -1,0 +1,51 @@
+[
+    {
+        "second": 0,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AhbBGJVaACc/output_frames/sec_0_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[0-0] An orange helicopter is parked on the ground with white lettering on its side. The helicopter door is open, and a man wearing a red T-shirt and blue jeans is standing in front of it. There are white lines on the ground, with mountains, trees, and buildings in the distance."
+    },
+    {
+        "second": 1,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AhbBGJVaACc/output_frames/sec_1_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[0-3] A man wearing a purple shirt and jeans gets off the helicopter, supported by the man in the red T-shirt and blue jeans. The man in the purple shirt and jeans helps a woman wearing an orange top and long black skirt to get off the helicopter."
+    },
+    {
+        "second": 2,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AhbBGJVaACc/output_frames/sec_2_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[0-3] A man wearing a purple shirt and jeans gets off the helicopter, supported by the man in the red T-shirt and blue jeans. The man in the purple shirt and jeans helps a woman wearing an orange top and long black skirt to get off the helicopter."
+    },
+    {
+        "second": 3,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AhbBGJVaACc/output_frames/sec_3_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[0-3] A man wearing a purple shirt and jeans gets off the helicopter, supported by the man in the red T-shirt and blue jeans. The man in the purple shirt and jeans helps a woman wearing an orange top and long black skirt to get off the helicopter."
+    },
+    {
+        "second": 4,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AhbBGJVaACc/output_frames/sec_4_idx_24.jpg",
+        "fps": 30,
+        "explanation": "[3-6] Finally, the man in the purple shirt and jeans walks forward hand-in-hand with the woman, while the woman starts to adjust her orange clothes and hair."
+    },
+    {
+        "second": 5,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AhbBGJVaACc/output_frames/sec_5_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[3-6] Finally, the man in the purple shirt and jeans walks forward hand-in-hand with the woman, while the woman starts to adjust her orange clothes and hair."
+    },
+    {
+        "second": 6,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AhbBGJVaACc/output_frames/sec_6_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[3-6] Finally, the man in the purple shirt and jeans walks forward hand-in-hand with the woman, while the woman starts to adjust her orange clothes and hair."
+    }
+]

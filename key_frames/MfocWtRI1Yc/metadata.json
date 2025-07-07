@@ -1,0 +1,51 @@
+[
+    {
+        "second": 0,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MfocWtRI1Yc/output_frames/sec_0_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A hand is holding a wrench, a tire is standing upright on the ground, with another wrench on its left side. The background is a brick-paved ground, with a part of a white shoe visible on the left side. A bit of wood can be seen behind the tire."
+    },
+    {
+        "second": 1,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MfocWtRI1Yc/output_frames/sec_1_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[0-3] One hand holds a wrench and places it on the round metal part of the tire, while the other hand uses another wrench to fasten the wrench and the round metal part together. Then one hand holds the tire steady while the other hand turns the wrench above. After turning, the wrench that is not being held falls to the ground."
+    },
+    {
+        "second": 2,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MfocWtRI1Yc/output_frames/sec_2_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-3] One hand holds a wrench and places it on the round metal part of the tire, while the other hand uses another wrench to fasten the wrench and the round metal part together. Then one hand holds the tire steady while the other hand turns the wrench above. After turning, the wrench that is not being held falls to the ground."
+    },
+    {
+        "second": 3,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MfocWtRI1Yc/output_frames/sec_3_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[0-3] One hand holds a wrench and places it on the round metal part of the tire, while the other hand uses another wrench to fasten the wrench and the round metal part together. Then one hand holds the tire steady while the other hand turns the wrench above. After turning, the wrench that is not being held falls to the ground."
+    },
+    {
+        "second": 4,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MfocWtRI1Yc/output_frames/sec_4_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[3-7] Finally, the hand releases the tire and turns the round metal part by hand, while the other hand still holds the wrench."
+    },
+    {
+        "second": 5,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MfocWtRI1Yc/output_frames/sec_5_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[3-7] Finally, the hand releases the tire and turns the round metal part by hand, while the other hand still holds the wrench."
+    },
+    {
+        "second": 6,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MfocWtRI1Yc/output_frames/sec_6_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[3-7] Finally, the hand releases the tire and turns the round metal part by hand, while the other hand still holds the wrench."
+    }
+]

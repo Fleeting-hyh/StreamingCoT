@@ -1,0 +1,37 @@
+[
+    {
+        "second": 0,
+        "frame_index": 58,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QfUxgfWzCJA/output_frames/sec_0_idx_58.jpg",
+        "fps": 60,
+        "explanation": "[0-0] A truck loaded with concrete is parked on the roadside. There is a pipe at the back of the truck with concrete flowing out. In front of the truck, there are many houses and utility poles. On both sides of the road in the distance, there are green trees. There is also a person standing in front of the truck."
+    },
+    {
+        "second": 1,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QfUxgfWzCJA/output_frames/sec_1_idx_19.jpg",
+        "fps": 60,
+        "explanation": "[0-9] A man wearing a light blue long-sleeved shirt and blue jeans appears from the left side of the screen, following behind the concrete truck, holding a lever that controls the flow of concrete. He guides the wet concrete into a narrow channel dug along a dirt road. Meanwhile, a man in black shorts appears in front of the truck, using a wooden shovel to evenly spread the poured concrete in the channel. The two men work together, the man in the blue shirt continues to manage the truck's concrete flow, and the man in the black shorts works to evenly distribute the poured concrete along the roadside."
+    },
+    {
+        "second": 2,
+        "frame_index": 35,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QfUxgfWzCJA/output_frames/sec_2_idx_35.jpg",
+        "fps": 60,
+        "explanation": "[0-9] A man wearing a light blue long-sleeved shirt and blue jeans appears from the left side of the screen, following behind the concrete truck, holding a lever that controls the flow of concrete. He guides the wet concrete into a narrow channel dug along a dirt road. Meanwhile, a man in black shorts appears in front of the truck, using a wooden shovel to evenly spread the poured concrete in the channel. The two men work together, the man in the blue shirt continues to manage the truck's concrete flow, and the man in the black shorts works to evenly distribute the poured concrete along the roadside."
+    },
+    {
+        "second": 3,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QfUxgfWzCJA/output_frames/sec_3_idx_3.jpg",
+        "fps": 60,
+        "explanation": "[0-9] A man wearing a light blue long-sleeved shirt and blue jeans appears from the left side of the screen, following behind the concrete truck, holding a lever that controls the flow of concrete. He guides the wet concrete into a narrow channel dug along a dirt road. Meanwhile, a man in black shorts appears in front of the truck, using a wooden shovel to evenly spread the poured concrete in the channel. The two men work together, the man in the blue shirt continues to manage the truck's concrete flow, and the man in the black shorts works to evenly distribute the poured concrete along the roadside."
+    },
+    {
+        "second": 4,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QfUxgfWzCJA/output_frames/sec_4_idx_16.jpg",
+        "fps": 60,
+        "explanation": "[0-9] A man wearing a light blue long-sleeved shirt and blue jeans appears from the left side of the screen, following behind the concrete truck, holding a lever that controls the flow of concrete. He guides the wet concrete into a narrow channel dug along a dirt road. Meanwhile, a man in black shorts appears in front of the truck, using a wooden shovel to evenly spread the poured concrete in the channel. The two men work together, the man in the blue shirt continues to manage the truck's concrete flow, and the man in the black shorts works to evenly distribute the poured concrete along the roadside."
+    }
+]

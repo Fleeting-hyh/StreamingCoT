@@ -1,0 +1,72 @@
+[
+    {
+        "second": 0,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/76Etln3F0q8/output_frames/sec_0_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[0-0] In a room, a man wearing a blue T-shirt and jean shorts is standing by a bed with a yellow sheet, holding a plastic bag filled with water and a lighter. A woman wearing a pink T-shirt and covered with a blue blanket is sleeping on the bed. The walls of the room are yellow and white, and the floor is yellow wood."
+    },
+    {
+        "second": 1,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/76Etln3F0q8/output_frames/sec_1_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[0-9] The man smiles as he tries to light the plastic bag with the lighter, but the bag doesn't burn. He maintains the same action, his expression changing from smiling to surprised."
+    },
+    {
+        "second": 2,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/76Etln3F0q8/output_frames/sec_2_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-9] The man smiles as he tries to light the plastic bag with the lighter, but the bag doesn't burn. He maintains the same action, his expression changing from smiling to surprised."
+    },
+    {
+        "second": 3,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/76Etln3F0q8/output_frames/sec_3_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[0-9] The man smiles as he tries to light the plastic bag with the lighter, but the bag doesn't burn. He maintains the same action, his expression changing from smiling to surprised."
+    },
+    {
+        "second": 4,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/76Etln3F0q8/output_frames/sec_4_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[0-9] The man smiles as he tries to light the plastic bag with the lighter, but the bag doesn't burn. He maintains the same action, his expression changing from smiling to surprised."
+    },
+    {
+        "second": 5,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/76Etln3F0q8/output_frames/sec_5_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[0-9] The man smiles as he tries to light the plastic bag with the lighter, but the bag doesn't burn. He maintains the same action, his expression changing from smiling to surprised."
+    },
+    {
+        "second": 6,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/76Etln3F0q8/output_frames/sec_6_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[0-9] The man smiles as he tries to light the plastic bag with the lighter, but the bag doesn't burn. He maintains the same action, his expression changing from smiling to surprised."
+    },
+    {
+        "second": 7,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/76Etln3F0q8/output_frames/sec_7_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[0-9] The man smiles as he tries to light the plastic bag with the lighter, but the bag doesn't burn. He maintains the same action, his expression changing from smiling to surprised."
+    },
+    {
+        "second": 8,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/76Etln3F0q8/output_frames/sec_8_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-9] The man smiles as he tries to light the plastic bag with the lighter, but the bag doesn't burn. He maintains the same action, his expression changing from smiling to surprised."
+    },
+    {
+        "second": 9,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/76Etln3F0q8/output_frames/sec_9_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-9] The man smiles as he tries to light the plastic bag with the lighter, but the bag doesn't burn. He maintains the same action, his expression changing from smiling to surprised."
+    }
+]

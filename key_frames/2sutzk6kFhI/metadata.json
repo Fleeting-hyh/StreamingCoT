@@ -1,0 +1,100 @@
+[
+    {
+        "second": 0,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2sutzk6kFhI/output_frames/sec_0_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[0-0] Half of the screen shows a yellow metal latch fixed on a wooden door, while the other half is a black background."
+    },
+    {
+        "second": 1,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2sutzk6kFhI/output_frames/sec_1_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Then the screen slowly moves, a yellow metal bolt enters the screen from the right side and goes through the lower part of the metal latch."
+    },
+    {
+        "second": 2,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2sutzk6kFhI/output_frames/sec_2_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Then the screen slowly moves, a yellow metal bolt enters the screen from the right side and goes through the lower part of the metal latch."
+    },
+    {
+        "second": 3,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2sutzk6kFhI/output_frames/sec_3_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Then the screen slowly moves, a yellow metal bolt enters the screen from the right side and goes through the lower part of the metal latch."
+    },
+    {
+        "second": 4,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2sutzk6kFhI/output_frames/sec_4_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Then the screen slowly moves, a yellow metal bolt enters the screen from the right side and goes through the lower part of the metal latch."
+    },
+    {
+        "second": 5,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2sutzk6kFhI/output_frames/sec_5_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Then the screen slowly moves, a yellow metal bolt enters the screen from the right side and goes through the lower part of the metal latch."
+    },
+    {
+        "second": 6,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2sutzk6kFhI/output_frames/sec_6_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[5-10] Subsequently, the metal bolt passes through the ring on the latch, securing the latch to the wooden door frame on the left side."
+    },
+    {
+        "second": 7,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2sutzk6kFhI/output_frames/sec_7_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[5-10] Subsequently, the metal bolt passes through the ring on the latch, securing the latch to the wooden door frame on the left side."
+    },
+    {
+        "second": 8,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2sutzk6kFhI/output_frames/sec_8_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[5-10] Subsequently, the metal bolt passes through the ring on the latch, securing the latch to the wooden door frame on the left side."
+    },
+    {
+        "second": 9,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2sutzk6kFhI/output_frames/sec_9_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[5-10] Subsequently, the metal bolt passes through the ring on the latch, securing the latch to the wooden door frame on the left side."
+    },
+    {
+        "second": 10,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2sutzk6kFhI/output_frames/sec_10_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[5-10] Subsequently, the metal bolt passes through the ring on the latch, securing the latch to the wooden door frame on the left side."
+    },
+    {
+        "second": 11,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2sutzk6kFhI/output_frames/sec_11_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[10-13] Then the ring on the latch is slowly lifted, the metal bolt slides out, and the screen shows half a yellow metal latch and half a black background."
+    },
+    {
+        "second": 12,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2sutzk6kFhI/output_frames/sec_12_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[10-13] Then the ring on the latch is slowly lifted, the metal bolt slides out, and the screen shows half a yellow metal latch and half a black background."
+    },
+    {
+        "second": 13,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2sutzk6kFhI/output_frames/sec_13_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[10-13] Then the ring on the latch is slowly lifted, the metal bolt slides out, and the screen shows half a yellow metal latch and half a black background."
+    }
+]

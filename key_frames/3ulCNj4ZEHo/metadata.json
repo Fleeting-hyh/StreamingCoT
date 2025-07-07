@@ -1,0 +1,72 @@
+[
+    {
+        "second": 0,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3ulCNj4ZEHo/output_frames/sec_0_idx_22.jpg",
+        "fps": 29,
+        "explanation": "[0-0] A bare-chested man wearing a silver necklace tilts his head to the right, a mirror leaning against the wall."
+    },
+    {
+        "second": 1,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3ulCNj4ZEHo/output_frames/sec_1_idx_18.jpg",
+        "fps": 29,
+        "explanation": "[0-3] The man takes out a spray, sprays his neck, then tilts his head to the left and sprays his neck again. Next, the man tilts his head to the right, applies skincare products on his face, then tilts his head to the left, and applies skincare products on his face."
+    },
+    {
+        "second": 2,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3ulCNj4ZEHo/output_frames/sec_2_idx_20.jpg",
+        "fps": 29,
+        "explanation": "[0-3] The man takes out a spray, sprays his neck, then tilts his head to the left and sprays his neck again. Next, the man tilts his head to the right, applies skincare products on his face, then tilts his head to the left, and applies skincare products on his face."
+    },
+    {
+        "second": 3,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3ulCNj4ZEHo/output_frames/sec_3_idx_10.jpg",
+        "fps": 29,
+        "explanation": "[0-3] The man takes out a spray, sprays his neck, then tilts his head to the left and sprays his neck again. Next, the man tilts his head to the right, applies skincare products on his face, then tilts his head to the left, and applies skincare products on his face."
+    },
+    {
+        "second": 4,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3ulCNj4ZEHo/output_frames/sec_4_idx_28.jpg",
+        "fps": 29,
+        "explanation": "[3-5] Then, after applying the skincare products, the man lowers his head and starts to arrange his hair with both hands. Then, he picks up a black comb and carefully combs the hair above his ears."
+    },
+    {
+        "second": 5,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3ulCNj4ZEHo/output_frames/sec_5_idx_23.jpg",
+        "fps": 29,
+        "explanation": "[3-5] Then, after applying the skincare products, the man lowers his head and starts to arrange his hair with both hands. Then, he picks up a black comb and carefully combs the hair above his ears."
+    },
+    {
+        "second": 6,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3ulCNj4ZEHo/output_frames/sec_6_idx_10.jpg",
+        "fps": 29,
+        "explanation": "[5-7] Afterward, having styled his hair, the man puts on a suit and adjusts his shirt collar."
+    },
+    {
+        "second": 7,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3ulCNj4ZEHo/output_frames/sec_7_idx_2.jpg",
+        "fps": 29,
+        "explanation": "[5-7] Afterward, having styled his hair, the man puts on a suit and adjusts his shirt collar."
+    },
+    {
+        "second": 8,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3ulCNj4ZEHo/output_frames/sec_8_idx_23.jpg",
+        "fps": 29,
+        "explanation": "[7-9] Finally, the camera zooms out, the background is a wooden door with a green sign on it. The man poses in front, showing off his handsome hairstyle and well-dressed image, then walks to the left."
+    },
+    {
+        "second": 9,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3ulCNj4ZEHo/output_frames/sec_9_idx_10.jpg",
+        "fps": 29,
+        "explanation": "[7-9] Finally, the camera zooms out, the background is a wooden door with a green sign on it. The man poses in front, showing off his handsome hairstyle and well-dressed image, then walks to the left."
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "second": 0,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/504dzr5jLrc/output_frames/sec_0_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[0-0] The image shows a half-finished red and white knitted vase on a gray surface. A left hand is holding white yarn, and a right hand is placed on the vase. Behind the vase, there is a bunch of red berries, some pine cones, and a yellow and white knitted vase. The background is white."
+    },
+    {
+        "second": 1,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/504dzr5jLrc/output_frames/sec_1_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[0-7] Two hands are knitting the top of the vase with a white string."
+    },
+    {
+        "second": 2,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/504dzr5jLrc/output_frames/sec_2_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[0-7] Two hands are knitting the top of the vase with a white string."
+    },
+    {
+        "second": 3,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/504dzr5jLrc/output_frames/sec_3_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[0-7] Two hands are knitting the top of the vase with a white string."
+    },
+    {
+        "second": 4,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/504dzr5jLrc/output_frames/sec_4_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[0-7] Two hands are knitting the top of the vase with a white string."
+    },
+    {
+        "second": 5,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/504dzr5jLrc/output_frames/sec_5_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-7] Two hands are knitting the top of the vase with a white string."
+    },
+    {
+        "second": 6,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/504dzr5jLrc/output_frames/sec_6_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[0-7] Two hands are knitting the top of the vase with a white string."
+    },
+    {
+        "second": 7,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/504dzr5jLrc/output_frames/sec_7_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[0-7] Two hands are knitting the top of the vase with a white string."
+    }
+]

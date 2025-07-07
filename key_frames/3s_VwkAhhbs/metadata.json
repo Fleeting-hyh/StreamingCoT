@@ -1,0 +1,72 @@
+[
+    {
+        "second": 0,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3s_VwkAhhbs/output_frames/sec_0_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[0-0] On a white sofa, there are two Spiderman costumes. The Spiderman costume on the left has blue pants, while the one on the right has black pants. In front of the white sofa is a gray rug. On the gray rug lies a black and white towel, and a foot rests on the rug."
+    },
+    {
+        "second": 1,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3s_VwkAhhbs/output_frames/sec_1_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Subsequently, a man dressed in black walks in from the left, jumps onto the sofa, and puts on the Spiderman costume with the blue pants on the left."
+    },
+    {
+        "second": 2,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3s_VwkAhhbs/output_frames/sec_2_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Subsequently, a man dressed in black walks in from the left, jumps onto the sofa, and puts on the Spiderman costume with the blue pants on the left."
+    },
+    {
+        "second": 3,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3s_VwkAhhbs/output_frames/sec_3_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[2-4] Immediately afterwards, a man dressed in black walks in from the right, jumps onto the sofa, and puts on the Spiderman costume with the black pants on the right."
+    },
+    {
+        "second": 4,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3s_VwkAhhbs/output_frames/sec_4_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[2-4] Immediately afterwards, a man dressed in black walks in from the right, jumps onto the sofa, and puts on the Spiderman costume with the black pants on the right."
+    },
+    {
+        "second": 5,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3s_VwkAhhbs/output_frames/sec_5_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[4-9] Then, the Spiderman with the black pants on the right looks at his hands, while the Spiderman with the blue pants on the left holds up his left thumb. Then, the Spiderman with the blue pants on the left puts down his hand, and the Spiderman with the black pants on the right raises his left thumb, and the two look at each other."
+    },
+    {
+        "second": 6,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3s_VwkAhhbs/output_frames/sec_6_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[4-9] Then, the Spiderman with the black pants on the right looks at his hands, while the Spiderman with the blue pants on the left holds up his left thumb. Then, the Spiderman with the blue pants on the left puts down his hand, and the Spiderman with the black pants on the right raises his left thumb, and the two look at each other."
+    },
+    {
+        "second": 7,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3s_VwkAhhbs/output_frames/sec_7_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[4-9] Then, the Spiderman with the black pants on the right looks at his hands, while the Spiderman with the blue pants on the left holds up his left thumb. Then, the Spiderman with the blue pants on the left puts down his hand, and the Spiderman with the black pants on the right raises his left thumb, and the two look at each other."
+    },
+    {
+        "second": 8,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3s_VwkAhhbs/output_frames/sec_8_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[4-9] Then, the Spiderman with the black pants on the right looks at his hands, while the Spiderman with the blue pants on the left holds up his left thumb. Then, the Spiderman with the blue pants on the left puts down his hand, and the Spiderman with the black pants on the right raises his left thumb, and the two look at each other."
+    },
+    {
+        "second": 9,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3s_VwkAhhbs/output_frames/sec_9_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[4-9] Then, the Spiderman with the black pants on the right looks at his hands, while the Spiderman with the blue pants on the left holds up his left thumb. Then, the Spiderman with the blue pants on the left puts down his hand, and the Spiderman with the black pants on the right raises his left thumb, and the two look at each other."
+    }
+]

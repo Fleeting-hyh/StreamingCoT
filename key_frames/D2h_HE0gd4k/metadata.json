@@ -1,0 +1,100 @@
+[
+    {
+        "second": 0,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/D2h_HE0gd4k/output_frames/sec_0_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[0-0] Against a white background, on a shelf, there's a red folder leaning against a green cup and a yellow pencil."
+    },
+    {
+        "second": 1,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/D2h_HE0gd4k/output_frames/sec_1_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Then, a hand pushes the green cup forward. The cup slides down the pencil, hits a pink cup held by two pencils at a right angle, and stops. Below the pink cup lies a yellow folder. Meanwhile, the red ball inside the green cup falls into another pink cup with a handle under the folder. Immediately afterward, the yellow folder is triggered to open."
+    },
+    {
+        "second": 2,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/D2h_HE0gd4k/output_frames/sec_2_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Then, a hand pushes the green cup forward. The cup slides down the pencil, hits a pink cup held by two pencils at a right angle, and stops. Below the pink cup lies a yellow folder. Meanwhile, the red ball inside the green cup falls into another pink cup with a handle under the folder. Immediately afterward, the yellow folder is triggered to open."
+    },
+    {
+        "second": 3,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/D2h_HE0gd4k/output_frames/sec_3_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Then, a hand pushes the green cup forward. The cup slides down the pencil, hits a pink cup held by two pencils at a right angle, and stops. Below the pink cup lies a yellow folder. Meanwhile, the red ball inside the green cup falls into another pink cup with a handle under the folder. Immediately afterward, the yellow folder is triggered to open."
+    },
+    {
+        "second": 4,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/D2h_HE0gd4k/output_frames/sec_4_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Then, a hand pushes the green cup forward. The cup slides down the pencil, hits a pink cup held by two pencils at a right angle, and stops. Below the pink cup lies a yellow folder. Meanwhile, the red ball inside the green cup falls into another pink cup with a handle under the folder. Immediately afterward, the yellow folder is triggered to open."
+    },
+    {
+        "second": 5,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/D2h_HE0gd4k/output_frames/sec_5_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Then, a hand pushes the green cup forward. The cup slides down the pencil, hits a pink cup held by two pencils at a right angle, and stops. Below the pink cup lies a yellow folder. Meanwhile, the red ball inside the green cup falls into another pink cup with a handle under the folder. Immediately afterward, the yellow folder is triggered to open."
+    },
+    {
+        "second": 6,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/D2h_HE0gd4k/output_frames/sec_6_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[5-10] Subsequently, the green cup falls out of the pink cup, landing between a blue notebook and a pink notebook. Then, in an arc trajectory, it knocks over several mahjong tiles."
+    },
+    {
+        "second": 7,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/D2h_HE0gd4k/output_frames/sec_7_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[5-10] Subsequently, the green cup falls out of the pink cup, landing between a blue notebook and a pink notebook. Then, in an arc trajectory, it knocks over several mahjong tiles."
+    },
+    {
+        "second": 8,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/D2h_HE0gd4k/output_frames/sec_8_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[5-10] Subsequently, the green cup falls out of the pink cup, landing between a blue notebook and a pink notebook. Then, in an arc trajectory, it knocks over several mahjong tiles."
+    },
+    {
+        "second": 9,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/D2h_HE0gd4k/output_frames/sec_9_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[5-10] Subsequently, the green cup falls out of the pink cup, landing between a blue notebook and a pink notebook. Then, in an arc trajectory, it knocks over several mahjong tiles."
+    },
+    {
+        "second": 10,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/D2h_HE0gd4k/output_frames/sec_10_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[5-10] Subsequently, the green cup falls out of the pink cup, landing between a blue notebook and a pink notebook. Then, in an arc trajectory, it knocks over several mahjong tiles."
+    },
+    {
+        "second": 11,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/D2h_HE0gd4k/output_frames/sec_11_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[10-13] Immediately after, the fallen mahjong tiles trigger a mechanism. This causes a green notebook on a brown folder to slide down into a black backpack. Then, the two red ropes on the backpack's zipper pull the zipper closed."
+    },
+    {
+        "second": 12,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/D2h_HE0gd4k/output_frames/sec_12_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[10-13] Immediately after, the fallen mahjong tiles trigger a mechanism. This causes a green notebook on a brown folder to slide down into a black backpack. Then, the two red ropes on the backpack's zipper pull the zipper closed."
+    },
+    {
+        "second": 13,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/D2h_HE0gd4k/output_frames/sec_13_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[10-13] Immediately after, the fallen mahjong tiles trigger a mechanism. This causes a green notebook on a brown folder to slide down into a black backpack. Then, the two red ropes on the backpack's zipper pull the zipper closed."
+    }
+]

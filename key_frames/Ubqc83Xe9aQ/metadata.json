@@ -1,0 +1,135 @@
+[
+    {
+        "second": 0,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Ubqc83Xe9aQ/output_frames/sec_0_idx_7.jpg",
+        "fps": 25,
+        "explanation": "[0-0] In front of a green machine, there are two high-speed rotating cutting discs. The upper disc is fixed to a hydraulic press, while the lower one is connected to an angle grinder mounted on a workbench."
+    },
+    {
+        "second": 1,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Ubqc83Xe9aQ/output_frames/sec_1_idx_0.jpg",
+        "fps": 25,
+        "explanation": "[0-8] The hydraulic press starts to descend, pushing the upper disc toward the lower one. The two discs collide, emitting bright orange sparks. Then, the hydraulic press moves slightly upward, ending the brief contact between the two discs."
+    },
+    {
+        "second": 2,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Ubqc83Xe9aQ/output_frames/sec_2_idx_0.jpg",
+        "fps": 25,
+        "explanation": "[0-8] The hydraulic press starts to descend, pushing the upper disc toward the lower one. The two discs collide, emitting bright orange sparks. Then, the hydraulic press moves slightly upward, ending the brief contact between the two discs."
+    },
+    {
+        "second": 3,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Ubqc83Xe9aQ/output_frames/sec_3_idx_2.jpg",
+        "fps": 25,
+        "explanation": "[0-8] The hydraulic press starts to descend, pushing the upper disc toward the lower one. The two discs collide, emitting bright orange sparks. Then, the hydraulic press moves slightly upward, ending the brief contact between the two discs."
+    },
+    {
+        "second": 4,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Ubqc83Xe9aQ/output_frames/sec_4_idx_21.jpg",
+        "fps": 25,
+        "explanation": "[0-8] The hydraulic press starts to descend, pushing the upper disc toward the lower one. The two discs collide, emitting bright orange sparks. Then, the hydraulic press moves slightly upward, ending the brief contact between the two discs."
+    },
+    {
+        "second": 5,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Ubqc83Xe9aQ/output_frames/sec_5_idx_5.jpg",
+        "fps": 25,
+        "explanation": "[0-8] The hydraulic press starts to descend, pushing the upper disc toward the lower one. The two discs collide, emitting bright orange sparks. Then, the hydraulic press moves slightly upward, ending the brief contact between the two discs."
+    },
+    {
+        "second": 6,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Ubqc83Xe9aQ/output_frames/sec_6_idx_2.jpg",
+        "fps": 25,
+        "explanation": "[0-8] The hydraulic press starts to descend, pushing the upper disc toward the lower one. The two discs collide, emitting bright orange sparks. Then, the hydraulic press moves slightly upward, ending the brief contact between the two discs."
+    },
+    {
+        "second": 7,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Ubqc83Xe9aQ/output_frames/sec_7_idx_21.jpg",
+        "fps": 25,
+        "explanation": "[0-8] The hydraulic press starts to descend, pushing the upper disc toward the lower one. The two discs collide, emitting bright orange sparks. Then, the hydraulic press moves slightly upward, ending the brief contact between the two discs."
+    },
+    {
+        "second": 8,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Ubqc83Xe9aQ/output_frames/sec_8_idx_0.jpg",
+        "fps": 25,
+        "explanation": "[0-8] The hydraulic press starts to descend, pushing the upper disc toward the lower one. The two discs collide, emitting bright orange sparks. Then, the hydraulic press moves slightly upward, ending the brief contact between the two discs."
+    },
+    {
+        "second": 9,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Ubqc83Xe9aQ/output_frames/sec_9_idx_0.jpg",
+        "fps": 25,
+        "explanation": "[8-18] The camera then shifts slightly to the right, showing the sides of the two cutters. The hydraulic press descends again, and the two rotating discs touch, emitting orange sparks. The camera then moves to the front of the discs, where relatively small sparks are emitted."
+    },
+    {
+        "second": 10,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Ubqc83Xe9aQ/output_frames/sec_10_idx_12.jpg",
+        "fps": 25,
+        "explanation": "[8-18] The camera then shifts slightly to the right, showing the sides of the two cutters. The hydraulic press descends again, and the two rotating discs touch, emitting orange sparks. The camera then moves to the front of the discs, where relatively small sparks are emitted."
+    },
+    {
+        "second": 11,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Ubqc83Xe9aQ/output_frames/sec_11_idx_9.jpg",
+        "fps": 25,
+        "explanation": "[8-18] The camera then shifts slightly to the right, showing the sides of the two cutters. The hydraulic press descends again, and the two rotating discs touch, emitting orange sparks. The camera then moves to the front of the discs, where relatively small sparks are emitted."
+    },
+    {
+        "second": 12,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Ubqc83Xe9aQ/output_frames/sec_12_idx_1.jpg",
+        "fps": 25,
+        "explanation": "[8-18] The camera then shifts slightly to the right, showing the sides of the two cutters. The hydraulic press descends again, and the two rotating discs touch, emitting orange sparks. The camera then moves to the front of the discs, where relatively small sparks are emitted."
+    },
+    {
+        "second": 13,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Ubqc83Xe9aQ/output_frames/sec_13_idx_10.jpg",
+        "fps": 25,
+        "explanation": "[8-18] The camera then shifts slightly to the right, showing the sides of the two cutters. The hydraulic press descends again, and the two rotating discs touch, emitting orange sparks. The camera then moves to the front of the discs, where relatively small sparks are emitted."
+    },
+    {
+        "second": 14,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Ubqc83Xe9aQ/output_frames/sec_14_idx_24.jpg",
+        "fps": 25,
+        "explanation": "[8-18] The camera then shifts slightly to the right, showing the sides of the two cutters. The hydraulic press descends again, and the two rotating discs touch, emitting orange sparks. The camera then moves to the front of the discs, where relatively small sparks are emitted."
+    },
+    {
+        "second": 15,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Ubqc83Xe9aQ/output_frames/sec_15_idx_14.jpg",
+        "fps": 25,
+        "explanation": "[8-18] The camera then shifts slightly to the right, showing the sides of the two cutters. The hydraulic press descends again, and the two rotating discs touch, emitting orange sparks. The camera then moves to the front of the discs, where relatively small sparks are emitted."
+    },
+    {
+        "second": 16,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Ubqc83Xe9aQ/output_frames/sec_16_idx_24.jpg",
+        "fps": 25,
+        "explanation": "[8-18] The camera then shifts slightly to the right, showing the sides of the two cutters. The hydraulic press descends again, and the two rotating discs touch, emitting orange sparks. The camera then moves to the front of the discs, where relatively small sparks are emitted."
+    },
+    {
+        "second": 17,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Ubqc83Xe9aQ/output_frames/sec_17_idx_7.jpg",
+        "fps": 25,
+        "explanation": "[8-18] The camera then shifts slightly to the right, showing the sides of the two cutters. The hydraulic press descends again, and the two rotating discs touch, emitting orange sparks. The camera then moves to the front of the discs, where relatively small sparks are emitted."
+    },
+    {
+        "second": 18,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Ubqc83Xe9aQ/output_frames/sec_18_idx_1.jpg",
+        "fps": 25,
+        "explanation": "[8-18] The camera then shifts slightly to the right, showing the sides of the two cutters. The hydraulic press descends again, and the two rotating discs touch, emitting orange sparks. The camera then moves to the front of the discs, where relatively small sparks are emitted."
+    }
+]

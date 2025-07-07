@@ -1,0 +1,51 @@
+[
+    {
+        "second": 0,
+        "frame_index": 48,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1L4DXDybfoE/output_frames/sec_0_idx_48.jpg",
+        "fps": 50,
+        "explanation": "[0-0] A man in a gray uniform stands next to a blue truck, holding a giant tire."
+    },
+    {
+        "second": 1,
+        "frame_index": 45,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1L4DXDybfoE/output_frames/sec_1_idx_45.jpg",
+        "fps": 50,
+        "explanation": "[0-6] Afterward, the man lifts the tire slightly, then, using the tire's elasticity, he gradually raises it higher and higher. Immediately after, he places the tire onto the truck."
+    },
+    {
+        "second": 2,
+        "frame_index": 44,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1L4DXDybfoE/output_frames/sec_2_idx_44.jpg",
+        "fps": 50,
+        "explanation": "[0-6] Afterward, the man lifts the tire slightly, then, using the tire's elasticity, he gradually raises it higher and higher. Immediately after, he places the tire onto the truck."
+    },
+    {
+        "second": 3,
+        "frame_index": 49,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1L4DXDybfoE/output_frames/sec_3_idx_49.jpg",
+        "fps": 50,
+        "explanation": "[0-6] Afterward, the man lifts the tire slightly, then, using the tire's elasticity, he gradually raises it higher and higher. Immediately after, he places the tire onto the truck."
+    },
+    {
+        "second": 4,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1L4DXDybfoE/output_frames/sec_4_idx_0.jpg",
+        "fps": 50,
+        "explanation": "[0-6] Afterward, the man lifts the tire slightly, then, using the tire's elasticity, he gradually raises it higher and higher. Immediately after, he places the tire onto the truck."
+    },
+    {
+        "second": 5,
+        "frame_index": 46,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1L4DXDybfoE/output_frames/sec_5_idx_46.jpg",
+        "fps": 50,
+        "explanation": "[0-6] Afterward, the man lifts the tire slightly, then, using the tire's elasticity, he gradually raises it higher and higher. Immediately after, he places the tire onto the truck."
+    },
+    {
+        "second": 6,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1L4DXDybfoE/output_frames/sec_6_idx_0.jpg",
+        "fps": 50,
+        "explanation": "[0-6] Afterward, the man lifts the tire slightly, then, using the tire's elasticity, he gradually raises it higher and higher. Immediately after, he places the tire onto the truck."
+    }
+]

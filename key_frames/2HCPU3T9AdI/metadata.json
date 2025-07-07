@@ -1,0 +1,72 @@
+[
+    {
+        "second": 0,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2HCPU3T9AdI/output_frames/sec_0_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-0] In a wrestling match, an athlete in a black wrestling suit and an athlete in a red wrestling suit are bowing to each other. The venue is surrounded by spectators. At the top of the video it says \"Watch this kids moms reaction\"."
+    },
+    {
+        "second": 1,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2HCPU3T9AdI/output_frames/sec_1_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[0-6] The two athletes first confront each other with anxiety, then the athlete in the red wrestling suit wrestles the athlete in the black wrestling suit to the ground."
+    },
+    {
+        "second": 2,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2HCPU3T9AdI/output_frames/sec_2_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[0-6] The two athletes first confront each other with anxiety, then the athlete in the red wrestling suit wrestles the athlete in the black wrestling suit to the ground."
+    },
+    {
+        "second": 3,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2HCPU3T9AdI/output_frames/sec_3_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[0-6] The two athletes first confront each other with anxiety, then the athlete in the red wrestling suit wrestles the athlete in the black wrestling suit to the ground."
+    },
+    {
+        "second": 4,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2HCPU3T9AdI/output_frames/sec_4_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[0-6] The two athletes first confront each other with anxiety, then the athlete in the red wrestling suit wrestles the athlete in the black wrestling suit to the ground."
+    },
+    {
+        "second": 5,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2HCPU3T9AdI/output_frames/sec_5_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[0-6] The two athletes first confront each other with anxiety, then the athlete in the red wrestling suit wrestles the athlete in the black wrestling suit to the ground."
+    },
+    {
+        "second": 6,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2HCPU3T9AdI/output_frames/sec_6_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[0-6] The two athletes first confront each other with anxiety, then the athlete in the red wrestling suit wrestles the athlete in the black wrestling suit to the ground."
+    },
+    {
+        "second": 7,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2HCPU3T9AdI/output_frames/sec_7_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[6-9] In the audience, a lady in red and a man next to her are watching the match. The lady is covering her face and crying. The man in gray beside her claps his hands and cheers."
+    },
+    {
+        "second": 8,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2HCPU3T9AdI/output_frames/sec_8_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[6-9] In the audience, a lady in red and a man next to her are watching the match. The lady is covering her face and crying. The man in gray beside her claps his hands and cheers."
+    },
+    {
+        "second": 9,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2HCPU3T9AdI/output_frames/sec_9_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[6-9] In the audience, a lady in red and a man next to her are watching the match. The lady is covering her face and crying. The man in gray beside her claps his hands and cheers."
+    }
+]

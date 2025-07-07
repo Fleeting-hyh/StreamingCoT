@@ -1,0 +1,37 @@
+[
+    {
+        "second": 0,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FV8CiM-KaeQ/output_frames/sec_0_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[0-0] The video shows a multi-lock device installed on a wooden door, with a metal plate with round holes on the left side. The device on the right side consists of five square metal blocks, each containing a spring and a metal bolt with a circular ring."
+    },
+    {
+        "second": 1,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FV8CiM-KaeQ/output_frames/sec_1_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-4] As the metal plate moves, the metal bolts are compressed inward. The metal plate continues to move to the round hole position, until all the metal bolts pop out and insert into the round holes. The device is now fully locked."
+    },
+    {
+        "second": 2,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FV8CiM-KaeQ/output_frames/sec_2_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-4] As the metal plate moves, the metal bolts are compressed inward. The metal plate continues to move to the round hole position, until all the metal bolts pop out and insert into the round holes. The device is now fully locked."
+    },
+    {
+        "second": 3,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FV8CiM-KaeQ/output_frames/sec_3_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[0-4] As the metal plate moves, the metal bolts are compressed inward. The metal plate continues to move to the round hole position, until all the metal bolts pop out and insert into the round holes. The device is now fully locked."
+    },
+    {
+        "second": 4,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FV8CiM-KaeQ/output_frames/sec_4_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[0-4] As the metal plate moves, the metal bolts are compressed inward. The metal plate continues to move to the round hole position, until all the metal bolts pop out and insert into the round holes. The device is now fully locked."
+    }
+]

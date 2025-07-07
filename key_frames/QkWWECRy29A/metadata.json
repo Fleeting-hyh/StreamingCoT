@@ -1,0 +1,72 @@
+[
+    {
+        "second": 0,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QkWWECRy29A/output_frames/sec_0_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A young man in a red T-shirt is standing in front of a brown wooden wall with a white ceiling. On the left side of the screen is the subtitle \"2 Billion Dollars\", and on the right side is the subtitle \"Learn To Read\"."
+    },
+    {
+        "second": 1,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QkWWECRy29A/output_frames/sec_1_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The man rubs his hands together and walks to the middle of the shot, looking left and right, then puts his hands on his hips and looks around, then puts one hand on his chin as if thinking about something."
+    },
+    {
+        "second": 2,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QkWWECRy29A/output_frames/sec_2_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The man rubs his hands together and walks to the middle of the shot, looking left and right, then puts his hands on his hips and looks around, then puts one hand on his chin as if thinking about something."
+    },
+    {
+        "second": 3,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QkWWECRy29A/output_frames/sec_3_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The man rubs his hands together and walks to the middle of the shot, looking left and right, then puts his hands on his hips and looks around, then puts one hand on his chin as if thinking about something."
+    },
+    {
+        "second": 4,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QkWWECRy29A/output_frames/sec_4_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The man rubs his hands together and walks to the middle of the shot, looking left and right, then puts his hands on his hips and looks around, then puts one hand on his chin as if thinking about something."
+    },
+    {
+        "second": 5,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QkWWECRy29A/output_frames/sec_5_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[4-9] Then the man raises a finger and points to the right, the background color of the subtitles on the right turns green, and then the man opens his mouth and slowly turns his head to the left."
+    },
+    {
+        "second": 6,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QkWWECRy29A/output_frames/sec_6_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[4-9] Then the man raises a finger and points to the right, the background color of the subtitles on the right turns green, and then the man opens his mouth and slowly turns his head to the left."
+    },
+    {
+        "second": 7,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QkWWECRy29A/output_frames/sec_7_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[4-9] Then the man raises a finger and points to the right, the background color of the subtitles on the right turns green, and then the man opens his mouth and slowly turns his head to the left."
+    },
+    {
+        "second": 8,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QkWWECRy29A/output_frames/sec_8_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[4-9] Then the man raises a finger and points to the right, the background color of the subtitles on the right turns green, and then the man opens his mouth and slowly turns his head to the left."
+    },
+    {
+        "second": 9,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QkWWECRy29A/output_frames/sec_9_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[4-9] Then the man raises a finger and points to the right, the background color of the subtitles on the right turns green, and then the man opens his mouth and slowly turns his head to the left."
+    }
+]

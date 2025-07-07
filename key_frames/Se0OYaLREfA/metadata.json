@@ -1,0 +1,93 @@
+[
+    {
+        "second": 0,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Se0OYaLREfA/output_frames/sec_0_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[0-0] On a city street with white lines, a blue Lamborghini is parked on the left side of the road, and a crowd stands on the right side. A row of green trees is planted on the wall behind the crowd, and blue buildings can be seen in the distance."
+    },
+    {
+        "second": 1,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Se0OYaLREfA/output_frames/sec_1_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[0-2] As the blue Lamborghini drives towards the camera, the surrounding crowd holds up their phones to take pictures. The camera pans to the right, and the Lamborghini continues driving along the road and disappears from the frame. At this time, several men standing by the road walk quickly in the direction the car left."
+    },
+    {
+        "second": 2,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Se0OYaLREfA/output_frames/sec_2_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[0-2] As the blue Lamborghini drives towards the camera, the surrounding crowd holds up their phones to take pictures. The camera pans to the right, and the Lamborghini continues driving along the road and disappears from the frame. At this time, several men standing by the road walk quickly in the direction the car left."
+    },
+    {
+        "second": 3,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Se0OYaLREfA/output_frames/sec_3_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[2-8] The camera then moves to the left, and a red Lamborghini appears on the road. The red Lamborghini drives slowly towards the camera along the road, passing by the surrounding crowd, followed by a black Lamborghini. The camera moves to the right, and the two cars continue driving along the road and disappear from the frame. During this time, the crowd standing by the road takes pictures with their phones."
+    },
+    {
+        "second": 4,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Se0OYaLREfA/output_frames/sec_4_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[2-8] The camera then moves to the left, and a red Lamborghini appears on the road. The red Lamborghini drives slowly towards the camera along the road, passing by the surrounding crowd, followed by a black Lamborghini. The camera moves to the right, and the two cars continue driving along the road and disappear from the frame. During this time, the crowd standing by the road takes pictures with their phones."
+    },
+    {
+        "second": 5,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Se0OYaLREfA/output_frames/sec_5_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[2-8] The camera then moves to the left, and a red Lamborghini appears on the road. The red Lamborghini drives slowly towards the camera along the road, passing by the surrounding crowd, followed by a black Lamborghini. The camera moves to the right, and the two cars continue driving along the road and disappear from the frame. During this time, the crowd standing by the road takes pictures with their phones."
+    },
+    {
+        "second": 6,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Se0OYaLREfA/output_frames/sec_6_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[2-8] The camera then moves to the left, and a red Lamborghini appears on the road. The red Lamborghini drives slowly towards the camera along the road, passing by the surrounding crowd, followed by a black Lamborghini. The camera moves to the right, and the two cars continue driving along the road and disappear from the frame. During this time, the crowd standing by the road takes pictures with their phones."
+    },
+    {
+        "second": 7,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Se0OYaLREfA/output_frames/sec_7_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[2-8] The camera then moves to the left, and a red Lamborghini appears on the road. The red Lamborghini drives slowly towards the camera along the road, passing by the surrounding crowd, followed by a black Lamborghini. The camera moves to the right, and the two cars continue driving along the road and disappear from the frame. During this time, the crowd standing by the road takes pictures with their phones."
+    },
+    {
+        "second": 8,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Se0OYaLREfA/output_frames/sec_8_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[2-8] The camera then moves to the left, and a red Lamborghini appears on the road. The red Lamborghini drives slowly towards the camera along the road, passing by the surrounding crowd, followed by a black Lamborghini. The camera moves to the right, and the two cars continue driving along the road and disappear from the frame. During this time, the crowd standing by the road takes pictures with their phones."
+    },
+    {
+        "second": 9,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Se0OYaLREfA/output_frames/sec_9_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[8-13] The camera then moves to the right, and an orange Lamborghini appears on the road, driving along the road and then disappearing from the frame. At this time, a black car is parked on the left side of the road, and the crowd standing by the road looks ahead and prepares to leave."
+    },
+    {
+        "second": 10,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Se0OYaLREfA/output_frames/sec_10_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[8-13] The camera then moves to the right, and an orange Lamborghini appears on the road, driving along the road and then disappearing from the frame. At this time, a black car is parked on the left side of the road, and the crowd standing by the road looks ahead and prepares to leave."
+    },
+    {
+        "second": 11,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Se0OYaLREfA/output_frames/sec_11_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[8-13] The camera then moves to the right, and an orange Lamborghini appears on the road, driving along the road and then disappearing from the frame. At this time, a black car is parked on the left side of the road, and the crowd standing by the road looks ahead and prepares to leave."
+    },
+    {
+        "second": 12,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Se0OYaLREfA/output_frames/sec_12_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[8-13] The camera then moves to the right, and an orange Lamborghini appears on the road, driving along the road and then disappearing from the frame. At this time, a black car is parked on the left side of the road, and the crowd standing by the road looks ahead and prepares to leave."
+    }
+]

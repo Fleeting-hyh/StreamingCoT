@@ -1,0 +1,149 @@
+[
+    {
+        "second": 0,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6_xdN_e_sbs/output_frames/sec_0_idx_20.jpg",
+        "fps": 60,
+        "explanation": "[0-0] A green meadow with a white-lined area. Outside the area are three signs with question marks in green, blue, and purple. In the distance are houses with yellow roofs. A black cartoon cat stands on the right, a red rabbit, a white rabbit, and a turtle stand on the left. Each character has a sign floating above their head showing their ranking."
+    },
+    {
+        "second": 1,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6_xdN_e_sbs/output_frames/sec_1_idx_16.jpg",
+        "fps": 60,
+        "explanation": "[0-4] The white rabbit jumps twice in the blank space and then onto a red cross mark, resulting in elimination."
+    },
+    {
+        "second": 2,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6_xdN_e_sbs/output_frames/sec_2_idx_11.jpg",
+        "fps": 60,
+        "explanation": "[0-4] The white rabbit jumps twice in the blank space and then onto a red cross mark, resulting in elimination."
+    },
+    {
+        "second": 3,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6_xdN_e_sbs/output_frames/sec_3_idx_3.jpg",
+        "fps": 60,
+        "explanation": "[0-4] The white rabbit jumps twice in the blank space and then onto a red cross mark, resulting in elimination."
+    },
+    {
+        "second": 4,
+        "frame_index": 46,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6_xdN_e_sbs/output_frames/sec_4_idx_46.jpg",
+        "fps": 60,
+        "explanation": "[0-4] The white rabbit jumps twice in the blank space and then onto a red cross mark, resulting in elimination."
+    },
+    {
+        "second": 5,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6_xdN_e_sbs/output_frames/sec_5_idx_18.jpg",
+        "fps": 60,
+        "explanation": "[4-10] The red rabbit jumps once in the blank space and then onto the red cross mark, also resulting in elimination."
+    },
+    {
+        "second": 6,
+        "frame_index": 54,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6_xdN_e_sbs/output_frames/sec_6_idx_54.jpg",
+        "fps": 60,
+        "explanation": "[4-10] The red rabbit jumps once in the blank space and then onto the red cross mark, also resulting in elimination."
+    },
+    {
+        "second": 7,
+        "frame_index": 32,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6_xdN_e_sbs/output_frames/sec_7_idx_32.jpg",
+        "fps": 60,
+        "explanation": "[4-10] The red rabbit jumps once in the blank space and then onto the red cross mark, also resulting in elimination."
+    },
+    {
+        "second": 8,
+        "frame_index": 46,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6_xdN_e_sbs/output_frames/sec_8_idx_46.jpg",
+        "fps": 60,
+        "explanation": "[4-10] The red rabbit jumps once in the blank space and then onto the red cross mark, also resulting in elimination."
+    },
+    {
+        "second": 9,
+        "frame_index": 56,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6_xdN_e_sbs/output_frames/sec_9_idx_56.jpg",
+        "fps": 60,
+        "explanation": "[4-10] The red rabbit jumps once in the blank space and then onto the red cross mark, also resulting in elimination."
+    },
+    {
+        "second": 10,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6_xdN_e_sbs/output_frames/sec_10_idx_2.jpg",
+        "fps": 60,
+        "explanation": "[4-10] The red rabbit jumps once in the blank space and then onto the red cross mark, also resulting in elimination."
+    },
+    {
+        "second": 11,
+        "frame_index": 59,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6_xdN_e_sbs/output_frames/sec_11_idx_59.jpg",
+        "fps": 60,
+        "explanation": "[10-15] The green turtle jumps three times consecutively in the blank space and then scratches its head."
+    },
+    {
+        "second": 12,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6_xdN_e_sbs/output_frames/sec_12_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[10-15] The green turtle jumps three times consecutively in the blank space and then scratches its head."
+    },
+    {
+        "second": 13,
+        "frame_index": 48,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6_xdN_e_sbs/output_frames/sec_13_idx_48.jpg",
+        "fps": 60,
+        "explanation": "[10-15] The green turtle jumps three times consecutively in the blank space and then scratches its head."
+    },
+    {
+        "second": 14,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6_xdN_e_sbs/output_frames/sec_14_idx_4.jpg",
+        "fps": 60,
+        "explanation": "[10-15] The green turtle jumps three times consecutively in the blank space and then scratches its head."
+    },
+    {
+        "second": 15,
+        "frame_index": 51,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6_xdN_e_sbs/output_frames/sec_15_idx_51.jpg",
+        "fps": 60,
+        "explanation": "[10-15] The green turtle jumps three times consecutively in the blank space and then scratches its head."
+    },
+    {
+        "second": 16,
+        "frame_index": 59,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6_xdN_e_sbs/output_frames/sec_16_idx_59.jpg",
+        "fps": 60,
+        "explanation": "[15-17] A mouse pointer points to a dialogue box and a thumbs-up gesture. The lake-blue sign shows the word \"HELP\" with \"YES\" and \"NO\" options below and their corresponding icons: a blue thumbs-up and a yellow dialogue box. The mouse pointer clicks on the thumbs-up gesture."
+    },
+    {
+        "second": 17,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6_xdN_e_sbs/output_frames/sec_17_idx_2.jpg",
+        "fps": 60,
+        "explanation": "[15-17] A mouse pointer points to a dialogue box and a thumbs-up gesture. The lake-blue sign shows the word \"HELP\" with \"YES\" and \"NO\" options below and their corresponding icons: a blue thumbs-up and a yellow dialogue box. The mouse pointer clicks on the thumbs-up gesture."
+    },
+    {
+        "second": 18,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6_xdN_e_sbs/output_frames/sec_18_idx_3.jpg",
+        "fps": 60,
+        "explanation": "[17-20] The \"HELP\" sign disappears. The turtle jumps twice consecutively, its ranking sign quickly rises from 10 to 9999. The black cartoon cat raises its arms in celebration."
+    },
+    {
+        "second": 19,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6_xdN_e_sbs/output_frames/sec_19_idx_19.jpg",
+        "fps": 60,
+        "explanation": "[17-20] The \"HELP\" sign disappears. The turtle jumps twice consecutively, its ranking sign quickly rises from 10 to 9999. The black cartoon cat raises its arms in celebration."
+    },
+    {
+        "second": 20,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6_xdN_e_sbs/output_frames/sec_20_idx_3.jpg",
+        "fps": 60,
+        "explanation": "[17-20] The \"HELP\" sign disappears. The turtle jumps twice consecutively, its ranking sign quickly rises from 10 to 9999. The black cartoon cat raises its arms in celebration."
+    }
+]

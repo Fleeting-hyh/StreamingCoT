@@ -1,0 +1,191 @@
+[
+    {
+        "second": 0,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3Tpkw3MOovU/output_frames/sec_0_idx_19.jpg",
+        "fps": 60,
+        "explanation": "[0-0] Beside a swimming pool in a yard, two men in jerseys are standing by the pool. The man on the left is wearing a red top, and the man on the right is wearing a yellow top. They have their legs bound together with elastic bands, as well as their chests. A man in blue is standing behind them, and many tall trees can be seen in the distance. Above the man in the red top on the left is the word \"Vuldel\" in white on an orange background, and above the man in the yellow top on the right is the word \"Alex\" in white on a blue background. Above both men is a numerical sequence from \"1\" to \"5\"."
+    },
+    {
+        "second": 1,
+        "frame_index": 47,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3Tpkw3MOovU/output_frames/sec_1_idx_47.jpg",
+        "fps": 60,
+        "explanation": "[0-2] Then the man in the blue top runs forward, and the shot cuts to a man in an orange top who runs quickly to the front. The man in the black top and the man in the yellow top both have their arms crossed over their chests, and the only blue elastic band left binding their legs is at their ankles. The man in the orange top at the back runs to the side of the pool, opens his arms, jumps over the blue elastic band and into the pool. The number \"1\" above the man on the left then turns into a green check mark."
+    },
+    {
+        "second": 2,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3Tpkw3MOovU/output_frames/sec_2_idx_17.jpg",
+        "fps": 60,
+        "explanation": "[0-2] Then the man in the blue top runs forward, and the shot cuts to a man in an orange top who runs quickly to the front. The man in the black top and the man in the yellow top both have their arms crossed over their chests, and the only blue elastic band left binding their legs is at their ankles. The man in the orange top at the back runs to the side of the pool, opens his arms, jumps over the blue elastic band and into the pool. The number \"1\" above the man on the left then turns into a green check mark."
+    },
+    {
+        "second": 3,
+        "frame_index": 53,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3Tpkw3MOovU/output_frames/sec_3_idx_53.jpg",
+        "fps": 60,
+        "explanation": "[2-5] Immediately afterwards, a man in a blue top runs to the side of the pool, jumps high in the air, steps over the blue elastic band and jumps into the pool. The number \"1\" above the right side turns into a green check mark."
+    },
+    {
+        "second": 4,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3Tpkw3MOovU/output_frames/sec_4_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[2-5] Immediately afterwards, a man in a blue top runs to the side of the pool, jumps high in the air, steps over the blue elastic band and jumps into the pool. The number \"1\" above the right side turns into a green check mark."
+    },
+    {
+        "second": 5,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3Tpkw3MOovU/output_frames/sec_5_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[2-5] Immediately afterwards, a man in a blue top runs to the side of the pool, jumps high in the air, steps over the blue elastic band and jumps into the pool. The number \"1\" above the right side turns into a green check mark."
+    },
+    {
+        "second": 6,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3Tpkw3MOovU/output_frames/sec_6_idx_18.jpg",
+        "fps": 60,
+        "explanation": "[5-7] The picture then switches, and the elastic band tying the legs of the two men in front becomes two blue ones. Then the man in the orange top at the back runs to the side of the pool, lifts his legs high, steps over the blue elastic band and then jumps into the pool, at which point the number \"2\" above the left side turns into a green check mark."
+    },
+    {
+        "second": 7,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3Tpkw3MOovU/output_frames/sec_7_idx_26.jpg",
+        "fps": 60,
+        "explanation": "[5-7] The picture then switches, and the elastic band tying the legs of the two men in front becomes two blue ones. Then the man in the orange top at the back runs to the side of the pool, lifts his legs high, steps over the blue elastic band and then jumps into the pool, at which point the number \"2\" above the left side turns into a green check mark."
+    },
+    {
+        "second": 8,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3Tpkw3MOovU/output_frames/sec_8_idx_9.jpg",
+        "fps": 60,
+        "explanation": "[7-10] Then a black dog stands by the pool, the man in the blue top at the back runs forward with all his might, and then the man in the blue top stretches out his arms and throws himself into the pool. The number \"2\" above the right side turns into a green check mark."
+    },
+    {
+        "second": 9,
+        "frame_index": 51,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3Tpkw3MOovU/output_frames/sec_9_idx_51.jpg",
+        "fps": 60,
+        "explanation": "[7-10] Then a black dog stands by the pool, the man in the blue top at the back runs forward with all his might, and then the man in the blue top stretches out his arms and throws himself into the pool. The number \"2\" above the right side turns into a green check mark."
+    },
+    {
+        "second": 10,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3Tpkw3MOovU/output_frames/sec_10_idx_26.jpg",
+        "fps": 60,
+        "explanation": "[7-10] Then a black dog stands by the pool, the man in the blue top at the back runs forward with all his might, and then the man in the blue top stretches out his arms and throws himself into the pool. The number \"2\" above the right side turns into a green check mark."
+    },
+    {
+        "second": 11,
+        "frame_index": 40,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3Tpkw3MOovU/output_frames/sec_11_idx_40.jpg",
+        "fps": 60,
+        "explanation": "[10-13] The difficulty level is then raised, with an extra pink elastic band added to the elastic bands tying the legs of the two men in front, so that their legs are now tied with three elastic bands. The man in the orange top then walks to the side of the pool, sticks out his leg and steps over the elastic band, then jumps into the pool, and the number \"3\" above the left side turns into a green check mark."
+    },
+    {
+        "second": 12,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3Tpkw3MOovU/output_frames/sec_12_idx_9.jpg",
+        "fps": 60,
+        "explanation": "[10-13] The difficulty level is then raised, with an extra pink elastic band added to the elastic bands tying the legs of the two men in front, so that their legs are now tied with three elastic bands. The man in the orange top then walks to the side of the pool, sticks out his leg and steps over the elastic band, then jumps into the pool, and the number \"3\" above the left side turns into a green check mark."
+    },
+    {
+        "second": 13,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3Tpkw3MOovU/output_frames/sec_13_idx_29.jpg",
+        "fps": 60,
+        "explanation": "[10-13] The difficulty level is then raised, with an extra pink elastic band added to the elastic bands tying the legs of the two men in front, so that their legs are now tied with three elastic bands. The man in the orange top then walks to the side of the pool, sticks out his leg and steps over the elastic band, then jumps into the pool, and the number \"3\" above the left side turns into a green check mark."
+    },
+    {
+        "second": 14,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3Tpkw3MOovU/output_frames/sec_14_idx_9.jpg",
+        "fps": 60,
+        "explanation": "[13-16] Then the man in the blue top starts his challenge, runs to the side of the pool, then jumps up sideways with his legs together and lands in the pool. The number \"3\" above the right side turns into a green check mark."
+    },
+    {
+        "second": 15,
+        "frame_index": 54,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3Tpkw3MOovU/output_frames/sec_15_idx_54.jpg",
+        "fps": 60,
+        "explanation": "[13-16] Then the man in the blue top starts his challenge, runs to the side of the pool, then jumps up sideways with his legs together and lands in the pool. The number \"3\" above the right side turns into a green check mark."
+    },
+    {
+        "second": 16,
+        "frame_index": 35,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3Tpkw3MOovU/output_frames/sec_16_idx_35.jpg",
+        "fps": 60,
+        "explanation": "[13-16] Then the man in the blue top starts his challenge, runs to the side of the pool, then jumps up sideways with his legs together and lands in the pool. The number \"3\" above the right side turns into a green check mark."
+    },
+    {
+        "second": 17,
+        "frame_index": 43,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3Tpkw3MOovU/output_frames/sec_17_idx_43.jpg",
+        "fps": 60,
+        "explanation": "[16-18] The difficulty level is then increased again, with the addition of a pink elastic band tied around the crotches of the two men in front. Then the man in the orange top at the back runs to the side of the pool, jumps up hard with both legs and successfully jumps over the elastic band and lands in the pool, the number \"4\" at the top of the left screen turns into a green tick."
+    },
+    {
+        "second": 18,
+        "frame_index": 36,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3Tpkw3MOovU/output_frames/sec_18_idx_36.jpg",
+        "fps": 60,
+        "explanation": "[16-18] The difficulty level is then increased again, with the addition of a pink elastic band tied around the crotches of the two men in front. Then the man in the orange top at the back runs to the side of the pool, jumps up hard with both legs and successfully jumps over the elastic band and lands in the pool, the number \"4\" at the top of the left screen turns into a green tick."
+    },
+    {
+        "second": 19,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3Tpkw3MOovU/output_frames/sec_19_idx_11.jpg",
+        "fps": 60,
+        "explanation": "[18-22] The man in the blue top then runs to the edge of the pool and also jumps up hard, successfully clearing the elastic band and landing in the pool, the number \"4\" at the top right of the screen turning into a green tick."
+    },
+    {
+        "second": 20,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3Tpkw3MOovU/output_frames/sec_20_idx_9.jpg",
+        "fps": 60,
+        "explanation": "[18-22] The man in the blue top then runs to the edge of the pool and also jumps up hard, successfully clearing the elastic band and landing in the pool, the number \"4\" at the top right of the screen turning into a green tick."
+    },
+    {
+        "second": 21,
+        "frame_index": 46,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3Tpkw3MOovU/output_frames/sec_21_idx_46.jpg",
+        "fps": 60,
+        "explanation": "[18-22] The man in the blue top then runs to the edge of the pool and also jumps up hard, successfully clearing the elastic band and landing in the pool, the number \"4\" at the top right of the screen turning into a green tick."
+    },
+    {
+        "second": 22,
+        "frame_index": 47,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3Tpkw3MOovU/output_frames/sec_22_idx_47.jpg",
+        "fps": 60,
+        "explanation": "[18-22] The man in the blue top then runs to the edge of the pool and also jumps up hard, successfully clearing the elastic band and landing in the pool, the number \"4\" at the top right of the screen turning into a green tick."
+    },
+    {
+        "second": 23,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3Tpkw3MOovU/output_frames/sec_23_idx_10.jpg",
+        "fps": 60,
+        "explanation": "[22-24] The difficulty is then increased again with the addition of a red elastic band around the chests of the two men in front, making a total of five layers of elastic bands. The man in the orange top then runs to the edge of the pool and jumps up hard, but gets one leg caught in the elastic band. He then struggles to free himself from the elastic band and falls into the water, with a red question mark above the number \"5\" at the top left of the screen."
+    },
+    {
+        "second": 24,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3Tpkw3MOovU/output_frames/sec_24_idx_8.jpg",
+        "fps": 60,
+        "explanation": "[22-24] The difficulty is then increased again with the addition of a red elastic band around the chests of the two men in front, making a total of five layers of elastic bands. The man in the orange top then runs to the edge of the pool and jumps up hard, but gets one leg caught in the elastic band. He then struggles to free himself from the elastic band and falls into the water, with a red question mark above the number \"5\" at the top left of the screen."
+    },
+    {
+        "second": 25,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3Tpkw3MOovU/output_frames/sec_25_idx_11.jpg",
+        "fps": 60,
+        "explanation": "[24-26] The man in the blue top then runs to the edge of the pool, stretches out his arms and pushes the two men by the pool into the water, the number \"5\" at the top right of the screen turning into a white skull and crossbones symbol."
+    },
+    {
+        "second": 26,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3Tpkw3MOovU/output_frames/sec_26_idx_11.jpg",
+        "fps": 60,
+        "explanation": "[24-26] The man in the blue top then runs to the edge of the pool, stretches out his arms and pushes the two men by the pool into the water, the number \"5\" at the top right of the screen turning into a white skull and crossbones symbol."
+    }
+]

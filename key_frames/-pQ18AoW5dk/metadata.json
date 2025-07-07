@@ -1,0 +1,37 @@
+[
+    {
+        "second": 0,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-pQ18AoW5dk/output_frames/sec_0_idx_25.jpg",
+        "fps": 29,
+        "explanation": "[0-0] A white dog is tied to the ground, with two cobras in front of it. The cobras are rearing up, and the dog is staring intently at them. Behind the puppy is dense jungle."
+    },
+    {
+        "second": 1,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-pQ18AoW5dk/output_frames/sec_1_idx_27.jpg",
+        "fps": 29,
+        "explanation": "[0-4] Immediately afterwards, the two cobras sway in front of the camera, while the little white dog behind barks loudly at them."
+    },
+    {
+        "second": 2,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-pQ18AoW5dk/output_frames/sec_2_idx_1.jpg",
+        "fps": 29,
+        "explanation": "[0-4] Immediately afterwards, the two cobras sway in front of the camera, while the little white dog behind barks loudly at them."
+    },
+    {
+        "second": 3,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-pQ18AoW5dk/output_frames/sec_3_idx_23.jpg",
+        "fps": 29,
+        "explanation": "[0-4] Immediately afterwards, the two cobras sway in front of the camera, while the little white dog behind barks loudly at them."
+    },
+    {
+        "second": 4,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-pQ18AoW5dk/output_frames/sec_4_idx_7.jpg",
+        "fps": 29,
+        "explanation": "[0-4] Immediately afterwards, the two cobras sway in front of the camera, while the little white dog behind barks loudly at them."
+    }
+]

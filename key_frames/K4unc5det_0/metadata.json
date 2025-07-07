@@ -1,0 +1,100 @@
+[
+    {
+        "second": 0,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/K4unc5det_0/output_frames/sec_0_idx_0.jpg",
+        "fps": 50,
+        "explanation": "[0-0] A blue board with many holes on it."
+    },
+    {
+        "second": 1,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/K4unc5det_0/output_frames/sec_1_idx_10.jpg",
+        "fps": 50,
+        "explanation": "[0-2] Three girls in bikinis, black, blue and green, appear in front of us. There is also a man in black shorts."
+    },
+    {
+        "second": 2,
+        "frame_index": 44,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/K4unc5det_0/output_frames/sec_2_idx_44.jpg",
+        "fps": 50,
+        "explanation": "[0-2] Three girls in bikinis, black, blue and green, appear in front of us. There is also a man in black shorts."
+    },
+    {
+        "second": 3,
+        "frame_index": 32,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/K4unc5det_0/output_frames/sec_3_idx_32.jpg",
+        "fps": 50,
+        "explanation": "[2-9] As people start sliding down the slide, it stirs up splashes of water, eventually covering the entire screen."
+    },
+    {
+        "second": 4,
+        "frame_index": 49,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/K4unc5det_0/output_frames/sec_4_idx_49.jpg",
+        "fps": 50,
+        "explanation": "[2-9] As people start sliding down the slide, it stirs up splashes of water, eventually covering the entire screen."
+    },
+    {
+        "second": 5,
+        "frame_index": 49,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/K4unc5det_0/output_frames/sec_5_idx_49.jpg",
+        "fps": 50,
+        "explanation": "[2-9] As people start sliding down the slide, it stirs up splashes of water, eventually covering the entire screen."
+    },
+    {
+        "second": 6,
+        "frame_index": 42,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/K4unc5det_0/output_frames/sec_6_idx_42.jpg",
+        "fps": 50,
+        "explanation": "[2-9] As people start sliding down the slide, it stirs up splashes of water, eventually covering the entire screen."
+    },
+    {
+        "second": 7,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/K4unc5det_0/output_frames/sec_7_idx_13.jpg",
+        "fps": 50,
+        "explanation": "[2-9] As people start sliding down the slide, it stirs up splashes of water, eventually covering the entire screen."
+    },
+    {
+        "second": 8,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/K4unc5det_0/output_frames/sec_8_idx_1.jpg",
+        "fps": 50,
+        "explanation": "[2-9] As people start sliding down the slide, it stirs up splashes of water, eventually covering the entire screen."
+    },
+    {
+        "second": 9,
+        "frame_index": 39,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/K4unc5det_0/output_frames/sec_9_idx_39.jpg",
+        "fps": 50,
+        "explanation": "[2-9] As people start sliding down the slide, it stirs up splashes of water, eventually covering the entire screen."
+    },
+    {
+        "second": 10,
+        "frame_index": 48,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/K4unc5det_0/output_frames/sec_10_idx_48.jpg",
+        "fps": 50,
+        "explanation": "[9-13] Finally, as the water recedes, the finish line can be seen. People slowly come to a stop, with many others ahead of them who have already reached the end."
+    },
+    {
+        "second": 11,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/K4unc5det_0/output_frames/sec_11_idx_28.jpg",
+        "fps": 50,
+        "explanation": "[9-13] Finally, as the water recedes, the finish line can be seen. People slowly come to a stop, with many others ahead of them who have already reached the end."
+    },
+    {
+        "second": 12,
+        "frame_index": 47,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/K4unc5det_0/output_frames/sec_12_idx_47.jpg",
+        "fps": 50,
+        "explanation": "[9-13] Finally, as the water recedes, the finish line can be seen. People slowly come to a stop, with many others ahead of them who have already reached the end."
+    },
+    {
+        "second": 13,
+        "frame_index": 34,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/K4unc5det_0/output_frames/sec_13_idx_34.jpg",
+        "fps": 50,
+        "explanation": "[9-13] Finally, as the water recedes, the finish line can be seen. People slowly come to a stop, with many others ahead of them who have already reached the end."
+    }
+]

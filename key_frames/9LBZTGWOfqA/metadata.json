@@ -1,0 +1,37 @@
+[
+    {
+        "second": 0,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9LBZTGWOfqA/output_frames/sec_0_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[0-0] The frame shows a close-up of a wooden door. The door is fitted with a simple metal spring lock, which is in the open position."
+    },
+    {
+        "second": 1,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9LBZTGWOfqA/output_frames/sec_1_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Then the wooden door closes, the spring lock touches the metal sheet, and the spring mechanism moves. Finally, the spring lock extends into the corresponding hole and locks the door firmly."
+    },
+    {
+        "second": 2,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9LBZTGWOfqA/output_frames/sec_2_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Then the wooden door closes, the spring lock touches the metal sheet, and the spring mechanism moves. Finally, the spring lock extends into the corresponding hole and locks the door firmly."
+    },
+    {
+        "second": 3,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9LBZTGWOfqA/output_frames/sec_3_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Then the wooden door closes, the spring lock touches the metal sheet, and the spring mechanism moves. Finally, the spring lock extends into the corresponding hole and locks the door firmly."
+    },
+    {
+        "second": 4,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9LBZTGWOfqA/output_frames/sec_4_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Then the wooden door closes, the spring lock touches the metal sheet, and the spring mechanism moves. Finally, the spring lock extends into the corresponding hole and locks the door firmly."
+    }
+]

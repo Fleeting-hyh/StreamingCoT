@@ -1,0 +1,86 @@
+[
+    {
+        "second": 0,
+        "frame_index": 42,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UE_vYsOCqTs/output_frames/sec_0_idx_42.jpg",
+        "fps": 60,
+        "explanation": "[0-0] A young man with glasses, wearing a red shirt and black pants, is standing next to a blue and yellow machine. The brown dirt ground is covered with low-lying vegetation, and white clouds are floating in the blue sky."
+    },
+    {
+        "second": 1,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UE_vYsOCqTs/output_frames/sec_1_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[0-4] Afterwards, the man turns the spokes of the large yellow wheel on the machine with both hands. The wheel rotates, and the two conveyor spokes on the beam move with the rotation of the wheel. The man walks out of the frame. A person wearing red and white clothes is moving in the distance."
+    },
+    {
+        "second": 2,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UE_vYsOCqTs/output_frames/sec_2_idx_9.jpg",
+        "fps": 60,
+        "explanation": "[0-4] Afterwards, the man turns the spokes of the large yellow wheel on the machine with both hands. The wheel rotates, and the two conveyor spokes on the beam move with the rotation of the wheel. The man walks out of the frame. A person wearing red and white clothes is moving in the distance."
+    },
+    {
+        "second": 3,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UE_vYsOCqTs/output_frames/sec_3_idx_18.jpg",
+        "fps": 60,
+        "explanation": "[0-4] Afterwards, the man turns the spokes of the large yellow wheel on the machine with both hands. The wheel rotates, and the two conveyor spokes on the beam move with the rotation of the wheel. The man walks out of the frame. A person wearing red and white clothes is moving in the distance."
+    },
+    {
+        "second": 4,
+        "frame_index": 35,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UE_vYsOCqTs/output_frames/sec_4_idx_35.jpg",
+        "fps": 60,
+        "explanation": "[0-4] Afterwards, the man turns the spokes of the large yellow wheel on the machine with both hands. The wheel rotates, and the two conveyor spokes on the beam move with the rotation of the wheel. The man walks out of the frame. A person wearing red and white clothes is moving in the distance."
+    },
+    {
+        "second": 5,
+        "frame_index": 36,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UE_vYsOCqTs/output_frames/sec_5_idx_36.jpg",
+        "fps": 60,
+        "explanation": "[4-11] Subsequently, the rotating wheel continues to spin rapidly in a counterclockwise direction."
+    },
+    {
+        "second": 6,
+        "frame_index": 36,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UE_vYsOCqTs/output_frames/sec_6_idx_36.jpg",
+        "fps": 60,
+        "explanation": "[4-11] Subsequently, the rotating wheel continues to spin rapidly in a counterclockwise direction."
+    },
+    {
+        "second": 7,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UE_vYsOCqTs/output_frames/sec_7_idx_8.jpg",
+        "fps": 60,
+        "explanation": "[4-11] Subsequently, the rotating wheel continues to spin rapidly in a counterclockwise direction."
+    },
+    {
+        "second": 8,
+        "frame_index": 32,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UE_vYsOCqTs/output_frames/sec_8_idx_32.jpg",
+        "fps": 60,
+        "explanation": "[4-11] Subsequently, the rotating wheel continues to spin rapidly in a counterclockwise direction."
+    },
+    {
+        "second": 9,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UE_vYsOCqTs/output_frames/sec_9_idx_12.jpg",
+        "fps": 60,
+        "explanation": "[4-11] Subsequently, the rotating wheel continues to spin rapidly in a counterclockwise direction."
+    },
+    {
+        "second": 10,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UE_vYsOCqTs/output_frames/sec_10_idx_15.jpg",
+        "fps": 60,
+        "explanation": "[4-11] Subsequently, the rotating wheel continues to spin rapidly in a counterclockwise direction."
+    },
+    {
+        "second": 11,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UE_vYsOCqTs/output_frames/sec_11_idx_19.jpg",
+        "fps": 60,
+        "explanation": "[4-11] Subsequently, the rotating wheel continues to spin rapidly in a counterclockwise direction."
+    }
+]

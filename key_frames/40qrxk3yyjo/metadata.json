@@ -1,0 +1,107 @@
+[
+    {
+        "second": 0,
+        "frame_index": 57,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/40qrxk3yyjo/output_frames/sec_0_idx_57.jpg",
+        "fps": 60,
+        "explanation": "[0-0] Cristiano Ronaldo, wearing a black T-shirt and shorts, stands on the grass and looks to the right. On his left, a man holds two soccer balls. In the distance, another person wearing a black top and pants stands."
+    },
+    {
+        "second": 1,
+        "frame_index": 52,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/40qrxk3yyjo/output_frames/sec_1_idx_52.jpg",
+        "fps": 60,
+        "explanation": "[0-5] A ball rolls towards Ronaldo. Ronaldo runs from left to right and kicks the ball at the penalty spot towards the goal. In front of him is a row of mannequins. The soccer ball flies over the heads of the mannequins, and the goalkeeper fails to save it. Ronaldo walks to the right."
+    },
+    {
+        "second": 2,
+        "frame_index": 38,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/40qrxk3yyjo/output_frames/sec_2_idx_38.jpg",
+        "fps": 60,
+        "explanation": "[0-5] A ball rolls towards Ronaldo. Ronaldo runs from left to right and kicks the ball at the penalty spot towards the goal. In front of him is a row of mannequins. The soccer ball flies over the heads of the mannequins, and the goalkeeper fails to save it. Ronaldo walks to the right."
+    },
+    {
+        "second": 3,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/40qrxk3yyjo/output_frames/sec_3_idx_20.jpg",
+        "fps": 60,
+        "explanation": "[0-5] A ball rolls towards Ronaldo. Ronaldo runs from left to right and kicks the ball at the penalty spot towards the goal. In front of him is a row of mannequins. The soccer ball flies over the heads of the mannequins, and the goalkeeper fails to save it. Ronaldo walks to the right."
+    },
+    {
+        "second": 4,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/40qrxk3yyjo/output_frames/sec_4_idx_8.jpg",
+        "fps": 60,
+        "explanation": "[0-5] A ball rolls towards Ronaldo. Ronaldo runs from left to right and kicks the ball at the penalty spot towards the goal. In front of him is a row of mannequins. The soccer ball flies over the heads of the mannequins, and the goalkeeper fails to save it. Ronaldo walks to the right."
+    },
+    {
+        "second": 5,
+        "frame_index": 59,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/40qrxk3yyjo/output_frames/sec_5_idx_59.jpg",
+        "fps": 60,
+        "explanation": "[0-5] A ball rolls towards Ronaldo. Ronaldo runs from left to right and kicks the ball at the penalty spot towards the goal. In front of him is a row of mannequins. The soccer ball flies over the heads of the mannequins, and the goalkeeper fails to save it. Ronaldo walks to the right."
+    },
+    {
+        "second": 6,
+        "frame_index": 35,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/40qrxk3yyjo/output_frames/sec_6_idx_35.jpg",
+        "fps": 60,
+        "explanation": "[5-9] Then another player wearing the same jersey as Ronaldo runs from right to left and kicks the ball from the penalty spot towards the goal. In front of him is a row of mannequin frames. The soccer ball flies over the heads of the mannequins, and the goalkeeper fails to save it."
+    },
+    {
+        "second": 7,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/40qrxk3yyjo/output_frames/sec_7_idx_26.jpg",
+        "fps": 60,
+        "explanation": "[5-9] Then another player wearing the same jersey as Ronaldo runs from right to left and kicks the ball from the penalty spot towards the goal. In front of him is a row of mannequin frames. The soccer ball flies over the heads of the mannequins, and the goalkeeper fails to save it."
+    },
+    {
+        "second": 8,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/40qrxk3yyjo/output_frames/sec_8_idx_5.jpg",
+        "fps": 60,
+        "explanation": "[5-9] Then another player wearing the same jersey as Ronaldo runs from right to left and kicks the ball from the penalty spot towards the goal. In front of him is a row of mannequin frames. The soccer ball flies over the heads of the mannequins, and the goalkeeper fails to save it."
+    },
+    {
+        "second": 9,
+        "frame_index": 55,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/40qrxk3yyjo/output_frames/sec_9_idx_55.jpg",
+        "fps": 60,
+        "explanation": "[5-9] Then another player wearing the same jersey as Ronaldo runs from right to left and kicks the ball from the penalty spot towards the goal. In front of him is a row of mannequin frames. The soccer ball flies over the heads of the mannequins, and the goalkeeper fails to save it."
+    },
+    {
+        "second": 10,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/40qrxk3yyjo/output_frames/sec_10_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[9-14] Afterwards, the camera zooms in on another player wearing the same jersey as Ronaldo running from right to left. He kicks the ball at the penalty spot towards the goal. There is a row of mannequin frames in front of him. The ball flies over the heads of the mannequins, and the goalkeeper fails to save it."
+    },
+    {
+        "second": 11,
+        "frame_index": 52,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/40qrxk3yyjo/output_frames/sec_11_idx_52.jpg",
+        "fps": 60,
+        "explanation": "[9-14] Afterwards, the camera zooms in on another player wearing the same jersey as Ronaldo running from right to left. He kicks the ball at the penalty spot towards the goal. There is a row of mannequin frames in front of him. The ball flies over the heads of the mannequins, and the goalkeeper fails to save it."
+    },
+    {
+        "second": 12,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/40qrxk3yyjo/output_frames/sec_12_idx_5.jpg",
+        "fps": 60,
+        "explanation": "[9-14] Afterwards, the camera zooms in on another player wearing the same jersey as Ronaldo running from right to left. He kicks the ball at the penalty spot towards the goal. There is a row of mannequin frames in front of him. The ball flies over the heads of the mannequins, and the goalkeeper fails to save it."
+    },
+    {
+        "second": 13,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/40qrxk3yyjo/output_frames/sec_13_idx_5.jpg",
+        "fps": 60,
+        "explanation": "[9-14] Afterwards, the camera zooms in on another player wearing the same jersey as Ronaldo running from right to left. He kicks the ball at the penalty spot towards the goal. There is a row of mannequin frames in front of him. The ball flies over the heads of the mannequins, and the goalkeeper fails to save it."
+    },
+    {
+        "second": 14,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/40qrxk3yyjo/output_frames/sec_14_idx_7.jpg",
+        "fps": 60,
+        "explanation": "[9-14] Afterwards, the camera zooms in on another player wearing the same jersey as Ronaldo running from right to left. He kicks the ball at the penalty spot towards the goal. There is a row of mannequin frames in front of him. The ball flies over the heads of the mannequins, and the goalkeeper fails to save it."
+    }
+]

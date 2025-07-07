@@ -1,0 +1,72 @@
+[
+    {
+        "second": 0,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SmLge7fqr2Y/output_frames/sec_0_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A woman in a pink top and blue denim shorts with a man in a green vest and blue shorts. They are standing on white flooring in a park, with a wooden bench next to them. Three people are sitting on the bench: a man in a white top and black shorts, a man in an orange top and brown shorts, and a person in a floral top and white boots. There are trees and grass behind them."
+    },
+    {
+        "second": 1,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SmLge7fqr2Y/output_frames/sec_1_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-5] The woman in pink has her arm wrapped around the neck of the man in the green vest. She lifts her left leg and does a handstand on the man, her legs straight in the air. The man is holding the woman's waist, eyes wide open, looking ahead. The man in the orange top next to him is looking at them with his tongue out."
+    },
+    {
+        "second": 2,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SmLge7fqr2Y/output_frames/sec_2_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[0-5] The woman in pink has her arm wrapped around the neck of the man in the green vest. She lifts her left leg and does a handstand on the man, her legs straight in the air. The man is holding the woman's waist, eyes wide open, looking ahead. The man in the orange top next to him is looking at them with his tongue out."
+    },
+    {
+        "second": 3,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SmLge7fqr2Y/output_frames/sec_3_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[0-5] The woman in pink has her arm wrapped around the neck of the man in the green vest. She lifts her left leg and does a handstand on the man, her legs straight in the air. The man is holding the woman's waist, eyes wide open, looking ahead. The man in the orange top next to him is looking at them with his tongue out."
+    },
+    {
+        "second": 4,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SmLge7fqr2Y/output_frames/sec_4_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-5] The woman in pink has her arm wrapped around the neck of the man in the green vest. She lifts her left leg and does a handstand on the man, her legs straight in the air. The man is holding the woman's waist, eyes wide open, looking ahead. The man in the orange top next to him is looking at them with his tongue out."
+    },
+    {
+        "second": 5,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SmLge7fqr2Y/output_frames/sec_5_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[0-5] The woman in pink has her arm wrapped around the neck of the man in the green vest. She lifts her left leg and does a handstand on the man, her legs straight in the air. The man is holding the woman's waist, eyes wide open, looking ahead. The man in the orange top next to him is looking at them with his tongue out."
+    },
+    {
+        "second": 6,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SmLge7fqr2Y/output_frames/sec_6_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[5-9] Then, the man gasps for breath, his face turning red. The woman, with both hands around the man's neck, lands on her feet and walks out of the left side of the frame. The man, with both hands on his stomach, looks ahead. The woman in the floral top next to him is looking at him laughing."
+    },
+    {
+        "second": 7,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SmLge7fqr2Y/output_frames/sec_7_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[5-9] Then, the man gasps for breath, his face turning red. The woman, with both hands around the man's neck, lands on her feet and walks out of the left side of the frame. The man, with both hands on his stomach, looks ahead. The woman in the floral top next to him is looking at him laughing."
+    },
+    {
+        "second": 8,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SmLge7fqr2Y/output_frames/sec_8_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[5-9] Then, the man gasps for breath, his face turning red. The woman, with both hands around the man's neck, lands on her feet and walks out of the left side of the frame. The man, with both hands on his stomach, looks ahead. The woman in the floral top next to him is looking at him laughing."
+    },
+    {
+        "second": 9,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SmLge7fqr2Y/output_frames/sec_9_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[5-9] Then, the man gasps for breath, his face turning red. The woman, with both hands around the man's neck, lands on her feet and walks out of the left side of the frame. The man, with both hands on his stomach, looks ahead. The woman in the floral top next to him is looking at him laughing."
+    }
+]

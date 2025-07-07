@@ -1,0 +1,79 @@
+[
+    {
+        "second": 0,
+        "frame_index": 34,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1cvbcDSmvG4/output_frames/sec_0_idx_34.jpg",
+        "fps": 60,
+        "explanation": "[0-0] A man wearing a straw hat, a white T-shirt, and blue shorts is standing on a patch of land with a forest behind him. A flock of ducks surrounds him. He is holding a tree branch with two hoes attached to the end and is about to hoe the ground."
+    },
+    {
+        "second": 1,
+        "frame_index": 37,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1cvbcDSmvG4/output_frames/sec_1_idx_37.jpg",
+        "fps": 60,
+        "explanation": "[0-4] Then the man uses the hoes to drive away some ducks in front of him. He lifts the hoes, and when he lowers them, the ducks come back under the hoes. He uses the hoes again to drive the ducks in front of him."
+    },
+    {
+        "second": 2,
+        "frame_index": 50,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1cvbcDSmvG4/output_frames/sec_2_idx_50.jpg",
+        "fps": 60,
+        "explanation": "[0-4] Then the man uses the hoes to drive away some ducks in front of him. He lifts the hoes, and when he lowers them, the ducks come back under the hoes. He uses the hoes again to drive the ducks in front of him."
+    },
+    {
+        "second": 3,
+        "frame_index": 49,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1cvbcDSmvG4/output_frames/sec_3_idx_49.jpg",
+        "fps": 60,
+        "explanation": "[0-4] Then the man uses the hoes to drive away some ducks in front of him. He lifts the hoes, and when he lowers them, the ducks come back under the hoes. He uses the hoes again to drive the ducks in front of him."
+    },
+    {
+        "second": 4,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1cvbcDSmvG4/output_frames/sec_4_idx_4.jpg",
+        "fps": 60,
+        "explanation": "[0-4] Then the man uses the hoes to drive away some ducks in front of him. He lifts the hoes, and when he lowers them, the ducks come back under the hoes. He uses the hoes again to drive the ducks in front of him."
+    },
+    {
+        "second": 5,
+        "frame_index": 34,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1cvbcDSmvG4/output_frames/sec_5_idx_34.jpg",
+        "fps": 60,
+        "explanation": "[4-10] Then the man lifts the hoes again and drives away a duck in front of him again as he lowers them. Subsequently, he continues to lift the hoes and turns over a piece of land in front of him."
+    },
+    {
+        "second": 6,
+        "frame_index": 49,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1cvbcDSmvG4/output_frames/sec_6_idx_49.jpg",
+        "fps": 60,
+        "explanation": "[4-10] Then the man lifts the hoes again and drives away a duck in front of him again as he lowers them. Subsequently, he continues to lift the hoes and turns over a piece of land in front of him."
+    },
+    {
+        "second": 7,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1cvbcDSmvG4/output_frames/sec_7_idx_7.jpg",
+        "fps": 60,
+        "explanation": "[4-10] Then the man lifts the hoes again and drives away a duck in front of him again as he lowers them. Subsequently, he continues to lift the hoes and turns over a piece of land in front of him."
+    },
+    {
+        "second": 8,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1cvbcDSmvG4/output_frames/sec_8_idx_7.jpg",
+        "fps": 60,
+        "explanation": "[4-10] Then the man lifts the hoes again and drives away a duck in front of him again as he lowers them. Subsequently, he continues to lift the hoes and turns over a piece of land in front of him."
+    },
+    {
+        "second": 9,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1cvbcDSmvG4/output_frames/sec_9_idx_16.jpg",
+        "fps": 60,
+        "explanation": "[4-10] Then the man lifts the hoes again and drives away a duck in front of him again as he lowers them. Subsequently, he continues to lift the hoes and turns over a piece of land in front of him."
+    },
+    {
+        "second": 10,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1cvbcDSmvG4/output_frames/sec_10_idx_2.jpg",
+        "fps": 60,
+        "explanation": "[4-10] Then the man lifts the hoes again and drives away a duck in front of him again as he lowers them. Subsequently, he continues to lift the hoes and turns over a piece of land in front of him."
+    }
+]

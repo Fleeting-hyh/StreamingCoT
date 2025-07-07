@@ -1,0 +1,135 @@
+[
+    {
+        "second": 0,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2bZAoKbGLrM/output_frames/sec_0_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A man stands in the aisle of a supermarket shelf, wearing a black jacket and pants. He holds two red buckets in his hands. There is a red box on the white floor in front of him."
+    },
+    {
+        "second": 1,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2bZAoKbGLrM/output_frames/sec_1_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[0-2] A man and a woman walk out side by side from the right. The man is wearing a black graffiti top and blue jeans, and the woman is wearing a white top and pants. The man in the black jacket covers the red box with a bucket, and places the other bucket on the ground."
+    },
+    {
+        "second": 2,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2bZAoKbGLrM/output_frames/sec_2_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[0-2] A man and a woman walk out side by side from the right. The man is wearing a black graffiti top and blue jeans, and the woman is wearing a white top and pants. The man in the black jacket covers the red box with a bucket, and places the other bucket on the ground."
+    },
+    {
+        "second": 3,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2bZAoKbGLrM/output_frames/sec_3_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[2-7] Then, the man in the black jacket swaps the positions of the two red buckets to shuffle their order."
+    },
+    {
+        "second": 4,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2bZAoKbGLrM/output_frames/sec_4_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[2-7] Then, the man in the black jacket swaps the positions of the two red buckets to shuffle their order."
+    },
+    {
+        "second": 5,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2bZAoKbGLrM/output_frames/sec_5_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[2-7] Then, the man in the black jacket swaps the positions of the two red buckets to shuffle their order."
+    },
+    {
+        "second": 6,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2bZAoKbGLrM/output_frames/sec_6_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[2-7] Then, the man in the black jacket swaps the positions of the two red buckets to shuffle their order."
+    },
+    {
+        "second": 7,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2bZAoKbGLrM/output_frames/sec_7_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[2-7] Then, the man in the black jacket swaps the positions of the two red buckets to shuffle their order."
+    },
+    {
+        "second": 8,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2bZAoKbGLrM/output_frames/sec_8_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[7-13] Subsequently, the man in the black graffiti top points his right index finger at the bucket closer to the man in the black jacket, while the woman points her right index finger at the bucket farther away from the man in the black jacket."
+    },
+    {
+        "second": 9,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2bZAoKbGLrM/output_frames/sec_9_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[7-13] Subsequently, the man in the black graffiti top points his right index finger at the bucket closer to the man in the black jacket, while the woman points her right index finger at the bucket farther away from the man in the black jacket."
+    },
+    {
+        "second": 10,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2bZAoKbGLrM/output_frames/sec_10_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[7-13] Subsequently, the man in the black graffiti top points his right index finger at the bucket closer to the man in the black jacket, while the woman points her right index finger at the bucket farther away from the man in the black jacket."
+    },
+    {
+        "second": 11,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2bZAoKbGLrM/output_frames/sec_11_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[7-13] Subsequently, the man in the black graffiti top points his right index finger at the bucket closer to the man in the black jacket, while the woman points her right index finger at the bucket farther away from the man in the black jacket."
+    },
+    {
+        "second": 12,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2bZAoKbGLrM/output_frames/sec_12_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[7-13] Subsequently, the man in the black graffiti top points his right index finger at the bucket closer to the man in the black jacket, while the woman points her right index finger at the bucket farther away from the man in the black jacket."
+    },
+    {
+        "second": 13,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2bZAoKbGLrM/output_frames/sec_13_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[7-13] Subsequently, the man in the black graffiti top points his right index finger at the bucket closer to the man in the black jacket, while the woman points her right index finger at the bucket farther away from the man in the black jacket."
+    },
+    {
+        "second": 14,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2bZAoKbGLrM/output_frames/sec_14_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[13-18] Afterwards, the man in the black jacket opens the bucket. There is nothing under the bucket chosen by the man in the black graffiti top. Then, the man in the black jacket lifts the other bucket, revealing a red box underneath. The woman in the white top immediately picks it up and runs to the right, with the man in the black jacket chasing after her."
+    },
+    {
+        "second": 15,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2bZAoKbGLrM/output_frames/sec_15_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[13-18] Afterwards, the man in the black jacket opens the bucket. There is nothing under the bucket chosen by the man in the black graffiti top. Then, the man in the black jacket lifts the other bucket, revealing a red box underneath. The woman in the white top immediately picks it up and runs to the right, with the man in the black jacket chasing after her."
+    },
+    {
+        "second": 16,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2bZAoKbGLrM/output_frames/sec_16_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[13-18] Afterwards, the man in the black jacket opens the bucket. There is nothing under the bucket chosen by the man in the black graffiti top. Then, the man in the black jacket lifts the other bucket, revealing a red box underneath. The woman in the white top immediately picks it up and runs to the right, with the man in the black jacket chasing after her."
+    },
+    {
+        "second": 17,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2bZAoKbGLrM/output_frames/sec_17_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[13-18] Afterwards, the man in the black jacket opens the bucket. There is nothing under the bucket chosen by the man in the black graffiti top. Then, the man in the black jacket lifts the other bucket, revealing a red box underneath. The woman in the white top immediately picks it up and runs to the right, with the man in the black jacket chasing after her."
+    },
+    {
+        "second": 18,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2bZAoKbGLrM/output_frames/sec_18_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[13-18] Afterwards, the man in the black jacket opens the bucket. There is nothing under the bucket chosen by the man in the black graffiti top. Then, the man in the black jacket lifts the other bucket, revealing a red box underneath. The woman in the white top immediately picks it up and runs to the right, with the man in the black jacket chasing after her."
+    }
+]

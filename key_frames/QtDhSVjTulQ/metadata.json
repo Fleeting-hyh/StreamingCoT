@@ -1,0 +1,128 @@
+[
+    {
+        "second": 0,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QtDhSVjTulQ/output_frames/sec_0_idx_9.jpg",
+        "fps": 60,
+        "explanation": "[0-0] On the left side of the video, \"Mikey\" is displayed in blue at the top, along with a green turtle. Below them are a red and a pink speech bubble. On the right side of the video, \"JJ\" is displayed in green at the top, along with a red and white rabbit. Below them is a red thumbs-up button. An animal that is half turtle and half rabbit stands between them."
+    },
+    {
+        "second": 1,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QtDhSVjTulQ/output_frames/sec_1_idx_6.jpg",
+        "fps": 60,
+        "explanation": "[0-3] Then, an ice cream appears above Mikey, and the animal in the middle walks to the left, transforming into a green turtle."
+    },
+    {
+        "second": 2,
+        "frame_index": 57,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QtDhSVjTulQ/output_frames/sec_2_idx_57.jpg",
+        "fps": 60,
+        "explanation": "[0-3] Then, an ice cream appears above Mikey, and the animal in the middle walks to the left, transforming into a green turtle."
+    },
+    {
+        "second": 3,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QtDhSVjTulQ/output_frames/sec_3_idx_11.jpg",
+        "fps": 60,
+        "explanation": "[0-3] Then, an ice cream appears above Mikey, and the animal in the middle walks to the left, transforming into a green turtle."
+    },
+    {
+        "second": 4,
+        "frame_index": 48,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QtDhSVjTulQ/output_frames/sec_4_idx_48.jpg",
+        "fps": 60,
+        "explanation": "[3-6] Next, a hot dog appears above JJ, and the little turtle walks to the right, transforming into a rabbit. The two rabbits begin to dance."
+    },
+    {
+        "second": 5,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QtDhSVjTulQ/output_frames/sec_5_idx_12.jpg",
+        "fps": 60,
+        "explanation": "[3-6] Next, a hot dog appears above JJ, and the little turtle walks to the right, transforming into a rabbit. The two rabbits begin to dance."
+    },
+    {
+        "second": 6,
+        "frame_index": 55,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QtDhSVjTulQ/output_frames/sec_6_idx_55.jpg",
+        "fps": 60,
+        "explanation": "[3-6] Next, a hot dog appears above JJ, and the little turtle walks to the right, transforming into a rabbit. The two rabbits begin to dance."
+    },
+    {
+        "second": 7,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QtDhSVjTulQ/output_frames/sec_7_idx_20.jpg",
+        "fps": 60,
+        "explanation": "[6-8] Subsequently, a cake appears above Mikey, and the little rabbit walks to the left, transforming back into a turtle."
+    },
+    {
+        "second": 8,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QtDhSVjTulQ/output_frames/sec_8_idx_20.jpg",
+        "fps": 60,
+        "explanation": "[6-8] Subsequently, a cake appears above Mikey, and the little rabbit walks to the left, transforming back into a turtle."
+    },
+    {
+        "second": 9,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QtDhSVjTulQ/output_frames/sec_9_idx_6.jpg",
+        "fps": 60,
+        "explanation": "[8-14] Afterwards, a blue dialog box with the words \"Help JJ\" appears at the top. Both \"Help\" and \"JJ\" are in red. Below the dialog box are two buttons: a red \"NO\" button on the left and a green \"YES\" button on the right. A mouse cursor hovers between the two buttons. The number \"321\" appears on the screen, and ultimately the \"YES\" button is selected."
+    },
+    {
+        "second": 10,
+        "frame_index": 46,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QtDhSVjTulQ/output_frames/sec_10_idx_46.jpg",
+        "fps": 60,
+        "explanation": "[8-14] Afterwards, a blue dialog box with the words \"Help JJ\" appears at the top. Both \"Help\" and \"JJ\" are in red. Below the dialog box are two buttons: a red \"NO\" button on the left and a green \"YES\" button on the right. A mouse cursor hovers between the two buttons. The number \"321\" appears on the screen, and ultimately the \"YES\" button is selected."
+    },
+    {
+        "second": 11,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QtDhSVjTulQ/output_frames/sec_11_idx_6.jpg",
+        "fps": 60,
+        "explanation": "[8-14] Afterwards, a blue dialog box with the words \"Help JJ\" appears at the top. Both \"Help\" and \"JJ\" are in red. Below the dialog box are two buttons: a red \"NO\" button on the left and a green \"YES\" button on the right. A mouse cursor hovers between the two buttons. The number \"321\" appears on the screen, and ultimately the \"YES\" button is selected."
+    },
+    {
+        "second": 12,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QtDhSVjTulQ/output_frames/sec_12_idx_14.jpg",
+        "fps": 60,
+        "explanation": "[8-14] Afterwards, a blue dialog box with the words \"Help JJ\" appears at the top. Both \"Help\" and \"JJ\" are in red. Below the dialog box are two buttons: a red \"NO\" button on the left and a green \"YES\" button on the right. A mouse cursor hovers between the two buttons. The number \"321\" appears on the screen, and ultimately the \"YES\" button is selected."
+    },
+    {
+        "second": 13,
+        "frame_index": 30,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QtDhSVjTulQ/output_frames/sec_13_idx_30.jpg",
+        "fps": 60,
+        "explanation": "[8-14] Afterwards, a blue dialog box with the words \"Help JJ\" appears at the top. Both \"Help\" and \"JJ\" are in red. Below the dialog box are two buttons: a red \"NO\" button on the left and a green \"YES\" button on the right. A mouse cursor hovers between the two buttons. The number \"321\" appears on the screen, and ultimately the \"YES\" button is selected."
+    },
+    {
+        "second": 14,
+        "frame_index": 47,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QtDhSVjTulQ/output_frames/sec_14_idx_47.jpg",
+        "fps": 60,
+        "explanation": "[8-14] Afterwards, a blue dialog box with the words \"Help JJ\" appears at the top. Both \"Help\" and \"JJ\" are in red. Below the dialog box are two buttons: a red \"NO\" button on the left and a green \"YES\" button on the right. A mouse cursor hovers between the two buttons. The number \"321\" appears on the screen, and ultimately the \"YES\" button is selected."
+    },
+    {
+        "second": 15,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QtDhSVjTulQ/output_frames/sec_15_idx_21.jpg",
+        "fps": 60,
+        "explanation": "[14-17] Finally, a hamburger appears above JJ, and the little turtle walks to the right, transforming back into a rabbit."
+    },
+    {
+        "second": 16,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QtDhSVjTulQ/output_frames/sec_16_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[14-17] Finally, a hamburger appears above JJ, and the little turtle walks to the right, transforming back into a rabbit."
+    },
+    {
+        "second": 17,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QtDhSVjTulQ/output_frames/sec_17_idx_11.jpg",
+        "fps": 60,
+        "explanation": "[14-17] Finally, a hamburger appears above JJ, and the little turtle walks to the right, transforming back into a rabbit."
+    }
+]

@@ -1,0 +1,338 @@
+[
+    {
+        "second": 0,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UYZGLjq0PBU/output_frames/sec_0_idx_4.jpg",
+        "fps": 25,
+        "explanation": "[0-0] In a supermarket, there's a chubby ginger cat wearing blue athletic shorts, looking up at the merchandise on the shelves. The supermarket has brown floor tiles and long strip lights on the ceiling."
+    },
+    {
+        "second": 1,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UYZGLjq0PBU/output_frames/sec_1_idx_24.jpg",
+        "fps": 25,
+        "explanation": "[0-7] Then, the ginger cat stands in the meat section of the supermarket, staring at a shelf full of sausages and meat with longing. It sticks out its tongue to lick its mouth and drools."
+    },
+    {
+        "second": 2,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UYZGLjq0PBU/output_frames/sec_2_idx_6.jpg",
+        "fps": 25,
+        "explanation": "[0-7] Then, the ginger cat stands in the meat section of the supermarket, staring at a shelf full of sausages and meat with longing. It sticks out its tongue to lick its mouth and drools."
+    },
+    {
+        "second": 3,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UYZGLjq0PBU/output_frames/sec_3_idx_19.jpg",
+        "fps": 25,
+        "explanation": "[0-7] Then, the ginger cat stands in the meat section of the supermarket, staring at a shelf full of sausages and meat with longing. It sticks out its tongue to lick its mouth and drools."
+    },
+    {
+        "second": 4,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UYZGLjq0PBU/output_frames/sec_4_idx_24.jpg",
+        "fps": 25,
+        "explanation": "[0-7] Then, the ginger cat stands in the meat section of the supermarket, staring at a shelf full of sausages and meat with longing. It sticks out its tongue to lick its mouth and drools."
+    },
+    {
+        "second": 5,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UYZGLjq0PBU/output_frames/sec_5_idx_10.jpg",
+        "fps": 25,
+        "explanation": "[0-7] Then, the ginger cat stands in the meat section of the supermarket, staring at a shelf full of sausages and meat with longing. It sticks out its tongue to lick its mouth and drools."
+    },
+    {
+        "second": 6,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UYZGLjq0PBU/output_frames/sec_6_idx_24.jpg",
+        "fps": 25,
+        "explanation": "[0-7] Then, the ginger cat stands in the meat section of the supermarket, staring at a shelf full of sausages and meat with longing. It sticks out its tongue to lick its mouth and drools."
+    },
+    {
+        "second": 7,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UYZGLjq0PBU/output_frames/sec_7_idx_24.jpg",
+        "fps": 25,
+        "explanation": "[0-7] Then, the ginger cat stands in the meat section of the supermarket, staring at a shelf full of sausages and meat with longing. It sticks out its tongue to lick its mouth and drools."
+    },
+    {
+        "second": 8,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UYZGLjq0PBU/output_frames/sec_8_idx_6.jpg",
+        "fps": 25,
+        "explanation": "[7-14] Subsequently, a group of young people notice the cat's funny drooling behavior and point at it, laughing. The cat stands there startled and at a loss, then cries sadly and runs out of the supermarket."
+    },
+    {
+        "second": 9,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UYZGLjq0PBU/output_frames/sec_9_idx_3.jpg",
+        "fps": 25,
+        "explanation": "[7-14] Subsequently, a group of young people notice the cat's funny drooling behavior and point at it, laughing. The cat stands there startled and at a loss, then cries sadly and runs out of the supermarket."
+    },
+    {
+        "second": 10,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UYZGLjq0PBU/output_frames/sec_10_idx_24.jpg",
+        "fps": 25,
+        "explanation": "[7-14] Subsequently, a group of young people notice the cat's funny drooling behavior and point at it, laughing. The cat stands there startled and at a loss, then cries sadly and runs out of the supermarket."
+    },
+    {
+        "second": 11,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UYZGLjq0PBU/output_frames/sec_11_idx_3.jpg",
+        "fps": 25,
+        "explanation": "[7-14] Subsequently, a group of young people notice the cat's funny drooling behavior and point at it, laughing. The cat stands there startled and at a loss, then cries sadly and runs out of the supermarket."
+    },
+    {
+        "second": 12,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UYZGLjq0PBU/output_frames/sec_12_idx_1.jpg",
+        "fps": 25,
+        "explanation": "[7-14] Subsequently, a group of young people notice the cat's funny drooling behavior and point at it, laughing. The cat stands there startled and at a loss, then cries sadly and runs out of the supermarket."
+    },
+    {
+        "second": 13,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UYZGLjq0PBU/output_frames/sec_13_idx_23.jpg",
+        "fps": 25,
+        "explanation": "[7-14] Subsequently, a group of young people notice the cat's funny drooling behavior and point at it, laughing. The cat stands there startled and at a loss, then cries sadly and runs out of the supermarket."
+    },
+    {
+        "second": 14,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UYZGLjq0PBU/output_frames/sec_14_idx_7.jpg",
+        "fps": 25,
+        "explanation": "[7-14] Subsequently, a group of young people notice the cat's funny drooling behavior and point at it, laughing. The cat stands there startled and at a loss, then cries sadly and runs out of the supermarket."
+    },
+    {
+        "second": 15,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UYZGLjq0PBU/output_frames/sec_15_idx_0.jpg",
+        "fps": 25,
+        "explanation": "[14-22] Then, after returning home, the cat stands dejectedly on the scales, looking at its weight. It realizes that it's too fat."
+    },
+    {
+        "second": 16,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UYZGLjq0PBU/output_frames/sec_16_idx_23.jpg",
+        "fps": 25,
+        "explanation": "[14-22] Then, after returning home, the cat stands dejectedly on the scales, looking at its weight. It realizes that it's too fat."
+    },
+    {
+        "second": 17,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UYZGLjq0PBU/output_frames/sec_17_idx_8.jpg",
+        "fps": 25,
+        "explanation": "[14-22] Then, after returning home, the cat stands dejectedly on the scales, looking at its weight. It realizes that it's too fat."
+    },
+    {
+        "second": 18,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UYZGLjq0PBU/output_frames/sec_18_idx_4.jpg",
+        "fps": 25,
+        "explanation": "[14-22] Then, after returning home, the cat stands dejectedly on the scales, looking at its weight. It realizes that it's too fat."
+    },
+    {
+        "second": 19,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UYZGLjq0PBU/output_frames/sec_19_idx_2.jpg",
+        "fps": 25,
+        "explanation": "[14-22] Then, after returning home, the cat stands dejectedly on the scales, looking at its weight. It realizes that it's too fat."
+    },
+    {
+        "second": 20,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UYZGLjq0PBU/output_frames/sec_20_idx_13.jpg",
+        "fps": 25,
+        "explanation": "[14-22] Then, after returning home, the cat stands dejectedly on the scales, looking at its weight. It realizes that it's too fat."
+    },
+    {
+        "second": 21,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UYZGLjq0PBU/output_frames/sec_21_idx_2.jpg",
+        "fps": 25,
+        "explanation": "[14-22] Then, after returning home, the cat stands dejectedly on the scales, looking at its weight. It realizes that it's too fat."
+    },
+    {
+        "second": 22,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UYZGLjq0PBU/output_frames/sec_22_idx_21.jpg",
+        "fps": 25,
+        "explanation": "[14-22] Then, after returning home, the cat stands dejectedly on the scales, looking at its weight. It realizes that it's too fat."
+    },
+    {
+        "second": 23,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UYZGLjq0PBU/output_frames/sec_23_idx_0.jpg",
+        "fps": 25,
+        "explanation": "[22-29] Afterwards, the cat decides to start losing weight, working hard doing push-ups at the gym, sweat dripping from its face. The cat sweats profusely on the treadmill, working out hard."
+    },
+    {
+        "second": 24,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UYZGLjq0PBU/output_frames/sec_24_idx_3.jpg",
+        "fps": 25,
+        "explanation": "[22-29] Afterwards, the cat decides to start losing weight, working hard doing push-ups at the gym, sweat dripping from its face. The cat sweats profusely on the treadmill, working out hard."
+    },
+    {
+        "second": 25,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UYZGLjq0PBU/output_frames/sec_25_idx_7.jpg",
+        "fps": 25,
+        "explanation": "[22-29] Afterwards, the cat decides to start losing weight, working hard doing push-ups at the gym, sweat dripping from its face. The cat sweats profusely on the treadmill, working out hard."
+    },
+    {
+        "second": 26,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UYZGLjq0PBU/output_frames/sec_26_idx_0.jpg",
+        "fps": 25,
+        "explanation": "[22-29] Afterwards, the cat decides to start losing weight, working hard doing push-ups at the gym, sweat dripping from its face. The cat sweats profusely on the treadmill, working out hard."
+    },
+    {
+        "second": 27,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UYZGLjq0PBU/output_frames/sec_27_idx_2.jpg",
+        "fps": 25,
+        "explanation": "[22-29] Afterwards, the cat decides to start losing weight, working hard doing push-ups at the gym, sweat dripping from its face. The cat sweats profusely on the treadmill, working out hard."
+    },
+    {
+        "second": 28,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UYZGLjq0PBU/output_frames/sec_28_idx_18.jpg",
+        "fps": 25,
+        "explanation": "[22-29] Afterwards, the cat decides to start losing weight, working hard doing push-ups at the gym, sweat dripping from its face. The cat sweats profusely on the treadmill, working out hard."
+    },
+    {
+        "second": 29,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UYZGLjq0PBU/output_frames/sec_29_idx_8.jpg",
+        "fps": 25,
+        "explanation": "[22-29] Afterwards, the cat decides to start losing weight, working hard doing push-ups at the gym, sweat dripping from its face. The cat sweats profusely on the treadmill, working out hard."
+    },
+    {
+        "second": 30,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UYZGLjq0PBU/output_frames/sec_30_idx_19.jpg",
+        "fps": 25,
+        "explanation": "[29-32] Next, the cat uses a marker to cross off dates on the calendar, recording its workout plan."
+    },
+    {
+        "second": 31,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UYZGLjq0PBU/output_frames/sec_31_idx_0.jpg",
+        "fps": 25,
+        "explanation": "[29-32] Next, the cat uses a marker to cross off dates on the calendar, recording its workout plan."
+    },
+    {
+        "second": 32,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UYZGLjq0PBU/output_frames/sec_32_idx_8.jpg",
+        "fps": 25,
+        "explanation": "[29-32] Next, the cat uses a marker to cross off dates on the calendar, recording its workout plan."
+    },
+    {
+        "second": 33,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UYZGLjq0PBU/output_frames/sec_33_idx_1.jpg",
+        "fps": 25,
+        "explanation": "[32-35] Then, after a period of exercise, the cat successfully loses weight and becomes a muscular, fit cat. It shows off its muscles in front of the gym mirror, full of confidence."
+    },
+    {
+        "second": 34,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UYZGLjq0PBU/output_frames/sec_34_idx_7.jpg",
+        "fps": 25,
+        "explanation": "[32-35] Then, after a period of exercise, the cat successfully loses weight and becomes a muscular, fit cat. It shows off its muscles in front of the gym mirror, full of confidence."
+    },
+    {
+        "second": 35,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UYZGLjq0PBU/output_frames/sec_35_idx_22.jpg",
+        "fps": 25,
+        "explanation": "[32-35] Then, after a period of exercise, the cat successfully loses weight and becomes a muscular, fit cat. It shows off its muscles in front of the gym mirror, full of confidence."
+    },
+    {
+        "second": 36,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UYZGLjq0PBU/output_frames/sec_36_idx_0.jpg",
+        "fps": 25,
+        "explanation": "[35-40] Subsequently, the fit ginger cat arrives at the supermarket again, walking confidently down the aisle, no longer ridiculed by anyone. The cat holds a sausage in its mouth, displaying its strong muscles with pride in its eyes."
+    },
+    {
+        "second": 37,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UYZGLjq0PBU/output_frames/sec_37_idx_3.jpg",
+        "fps": 25,
+        "explanation": "[35-40] Subsequently, the fit ginger cat arrives at the supermarket again, walking confidently down the aisle, no longer ridiculed by anyone. The cat holds a sausage in its mouth, displaying its strong muscles with pride in its eyes."
+    },
+    {
+        "second": 38,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UYZGLjq0PBU/output_frames/sec_38_idx_13.jpg",
+        "fps": 25,
+        "explanation": "[35-40] Subsequently, the fit ginger cat arrives at the supermarket again, walking confidently down the aisle, no longer ridiculed by anyone. The cat holds a sausage in its mouth, displaying its strong muscles with pride in its eyes."
+    },
+    {
+        "second": 39,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UYZGLjq0PBU/output_frames/sec_39_idx_23.jpg",
+        "fps": 25,
+        "explanation": "[35-40] Subsequently, the fit ginger cat arrives at the supermarket again, walking confidently down the aisle, no longer ridiculed by anyone. The cat holds a sausage in its mouth, displaying its strong muscles with pride in its eyes."
+    },
+    {
+        "second": 40,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UYZGLjq0PBU/output_frames/sec_40_idx_21.jpg",
+        "fps": 25,
+        "explanation": "[35-40] Subsequently, the fit ginger cat arrives at the supermarket again, walking confidently down the aisle, no longer ridiculed by anyone. The cat holds a sausage in its mouth, displaying its strong muscles with pride in its eyes."
+    },
+    {
+        "second": 41,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UYZGLjq0PBU/output_frames/sec_41_idx_11.jpg",
+        "fps": 25,
+        "explanation": "[40-47] Finally, the cat walks out of the burning supermarket confidently, carrying two full bags of sausages. It successfully completes its revenge and also proves that even fat cats can make a comeback."
+    },
+    {
+        "second": 42,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UYZGLjq0PBU/output_frames/sec_42_idx_4.jpg",
+        "fps": 25,
+        "explanation": "[40-47] Finally, the cat walks out of the burning supermarket confidently, carrying two full bags of sausages. It successfully completes its revenge and also proves that even fat cats can make a comeback."
+    },
+    {
+        "second": 43,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UYZGLjq0PBU/output_frames/sec_43_idx_0.jpg",
+        "fps": 25,
+        "explanation": "[40-47] Finally, the cat walks out of the burning supermarket confidently, carrying two full bags of sausages. It successfully completes its revenge and also proves that even fat cats can make a comeback."
+    },
+    {
+        "second": 44,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UYZGLjq0PBU/output_frames/sec_44_idx_9.jpg",
+        "fps": 25,
+        "explanation": "[40-47] Finally, the cat walks out of the burning supermarket confidently, carrying two full bags of sausages. It successfully completes its revenge and also proves that even fat cats can make a comeback."
+    },
+    {
+        "second": 45,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UYZGLjq0PBU/output_frames/sec_45_idx_23.jpg",
+        "fps": 25,
+        "explanation": "[40-47] Finally, the cat walks out of the burning supermarket confidently, carrying two full bags of sausages. It successfully completes its revenge and also proves that even fat cats can make a comeback."
+    },
+    {
+        "second": 46,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UYZGLjq0PBU/output_frames/sec_46_idx_14.jpg",
+        "fps": 25,
+        "explanation": "[40-47] Finally, the cat walks out of the burning supermarket confidently, carrying two full bags of sausages. It successfully completes its revenge and also proves that even fat cats can make a comeback."
+    },
+    {
+        "second": 47,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UYZGLjq0PBU/output_frames/sec_47_idx_5.jpg",
+        "fps": 25,
+        "explanation": "[40-47] Finally, the cat walks out of the burning supermarket confidently, carrying two full bags of sausages. It successfully completes its revenge and also proves that even fat cats can make a comeback."
+    }
+]

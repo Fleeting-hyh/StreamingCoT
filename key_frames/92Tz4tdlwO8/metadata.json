@@ -1,0 +1,268 @@
+[
+    {
+        "second": 0,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/92Tz4tdlwO8/output_frames/sec_0_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-0] On a green meadow, there is a railroad crossing sign with its red lights flashing. The sign displays the number \"8\". The background consists of a row of green trees and a blue sky."
+    },
+    {
+        "second": 1,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/92Tz4tdlwO8/output_frames/sec_1_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[0-10] The sign with flashing red lights moves to the left, followed by a larger sign appearing from the right, displaying the number \"7\" and also moving left. Afterward, a third sign appears, moving to a position between \"8\" and \"7\" and displaying the number \"6\". The signs keep getting bigger."
+    },
+    {
+        "second": 2,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/92Tz4tdlwO8/output_frames/sec_2_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[0-10] The sign with flashing red lights moves to the left, followed by a larger sign appearing from the right, displaying the number \"7\" and also moving left. Afterward, a third sign appears, moving to a position between \"8\" and \"7\" and displaying the number \"6\". The signs keep getting bigger."
+    },
+    {
+        "second": 3,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/92Tz4tdlwO8/output_frames/sec_3_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[0-10] The sign with flashing red lights moves to the left, followed by a larger sign appearing from the right, displaying the number \"7\" and also moving left. Afterward, a third sign appears, moving to a position between \"8\" and \"7\" and displaying the number \"6\". The signs keep getting bigger."
+    },
+    {
+        "second": 4,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/92Tz4tdlwO8/output_frames/sec_4_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[0-10] The sign with flashing red lights moves to the left, followed by a larger sign appearing from the right, displaying the number \"7\" and also moving left. Afterward, a third sign appears, moving to a position between \"8\" and \"7\" and displaying the number \"6\". The signs keep getting bigger."
+    },
+    {
+        "second": 5,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/92Tz4tdlwO8/output_frames/sec_5_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[0-10] The sign with flashing red lights moves to the left, followed by a larger sign appearing from the right, displaying the number \"7\" and also moving left. Afterward, a third sign appears, moving to a position between \"8\" and \"7\" and displaying the number \"6\". The signs keep getting bigger."
+    },
+    {
+        "second": 6,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/92Tz4tdlwO8/output_frames/sec_6_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[0-10] The sign with flashing red lights moves to the left, followed by a larger sign appearing from the right, displaying the number \"7\" and also moving left. Afterward, a third sign appears, moving to a position between \"8\" and \"7\" and displaying the number \"6\". The signs keep getting bigger."
+    },
+    {
+        "second": 7,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/92Tz4tdlwO8/output_frames/sec_7_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[0-10] The sign with flashing red lights moves to the left, followed by a larger sign appearing from the right, displaying the number \"7\" and also moving left. Afterward, a third sign appears, moving to a position between \"8\" and \"7\" and displaying the number \"6\". The signs keep getting bigger."
+    },
+    {
+        "second": 8,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/92Tz4tdlwO8/output_frames/sec_8_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-10] The sign with flashing red lights moves to the left, followed by a larger sign appearing from the right, displaying the number \"7\" and also moving left. Afterward, a third sign appears, moving to a position between \"8\" and \"7\" and displaying the number \"6\". The signs keep getting bigger."
+    },
+    {
+        "second": 9,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/92Tz4tdlwO8/output_frames/sec_9_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[0-10] The sign with flashing red lights moves to the left, followed by a larger sign appearing from the right, displaying the number \"7\" and also moving left. Afterward, a third sign appears, moving to a position between \"8\" and \"7\" and displaying the number \"6\". The signs keep getting bigger."
+    },
+    {
+        "second": 10,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/92Tz4tdlwO8/output_frames/sec_10_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[0-10] The sign with flashing red lights moves to the left, followed by a larger sign appearing from the right, displaying the number \"7\" and also moving left. Afterward, a third sign appears, moving to a position between \"8\" and \"7\" and displaying the number \"6\". The signs keep getting bigger."
+    },
+    {
+        "second": 11,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/92Tz4tdlwO8/output_frames/sec_11_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[10-19] Then, the fourth railroad crossing sign appears, moving above the \"7\" and \"6\" signs and displaying \"5\". The fifth sign appears above the \"6\" and \"5\" signs, displaying \"4\"."
+    },
+    {
+        "second": 12,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/92Tz4tdlwO8/output_frames/sec_12_idx_24.jpg",
+        "fps": 30,
+        "explanation": "[10-19] Then, the fourth railroad crossing sign appears, moving above the \"7\" and \"6\" signs and displaying \"5\". The fifth sign appears above the \"6\" and \"5\" signs, displaying \"4\"."
+    },
+    {
+        "second": 13,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/92Tz4tdlwO8/output_frames/sec_13_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[10-19] Then, the fourth railroad crossing sign appears, moving above the \"7\" and \"6\" signs and displaying \"5\". The fifth sign appears above the \"6\" and \"5\" signs, displaying \"4\"."
+    },
+    {
+        "second": 14,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/92Tz4tdlwO8/output_frames/sec_14_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[10-19] Then, the fourth railroad crossing sign appears, moving above the \"7\" and \"6\" signs and displaying \"5\". The fifth sign appears above the \"6\" and \"5\" signs, displaying \"4\"."
+    },
+    {
+        "second": 15,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/92Tz4tdlwO8/output_frames/sec_15_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[10-19] Then, the fourth railroad crossing sign appears, moving above the \"7\" and \"6\" signs and displaying \"5\". The fifth sign appears above the \"6\" and \"5\" signs, displaying \"4\"."
+    },
+    {
+        "second": 16,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/92Tz4tdlwO8/output_frames/sec_16_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[10-19] Then, the fourth railroad crossing sign appears, moving above the \"7\" and \"6\" signs and displaying \"5\". The fifth sign appears above the \"6\" and \"5\" signs, displaying \"4\"."
+    },
+    {
+        "second": 17,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/92Tz4tdlwO8/output_frames/sec_17_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[10-19] Then, the fourth railroad crossing sign appears, moving above the \"7\" and \"6\" signs and displaying \"5\". The fifth sign appears above the \"6\" and \"5\" signs, displaying \"4\"."
+    },
+    {
+        "second": 18,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/92Tz4tdlwO8/output_frames/sec_18_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[10-19] Then, the fourth railroad crossing sign appears, moving above the \"7\" and \"6\" signs and displaying \"5\". The fifth sign appears above the \"6\" and \"5\" signs, displaying \"4\"."
+    },
+    {
+        "second": 19,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/92Tz4tdlwO8/output_frames/sec_19_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[10-19] Then, the fourth railroad crossing sign appears, moving above the \"7\" and \"6\" signs and displaying \"5\". The fifth sign appears above the \"6\" and \"5\" signs, displaying \"4\"."
+    },
+    {
+        "second": 20,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/92Tz4tdlwO8/output_frames/sec_20_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[19-29] Next, the sixth sign appears above the \"5\" and \"4\" signs, displaying \"3\". The seventh sign appears above the \"4\" and \"3\" signs, displaying \"2\"."
+    },
+    {
+        "second": 21,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/92Tz4tdlwO8/output_frames/sec_21_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[19-29] Next, the sixth sign appears above the \"5\" and \"4\" signs, displaying \"3\". The seventh sign appears above the \"4\" and \"3\" signs, displaying \"2\"."
+    },
+    {
+        "second": 22,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/92Tz4tdlwO8/output_frames/sec_22_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[19-29] Next, the sixth sign appears above the \"5\" and \"4\" signs, displaying \"3\". The seventh sign appears above the \"4\" and \"3\" signs, displaying \"2\"."
+    },
+    {
+        "second": 23,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/92Tz4tdlwO8/output_frames/sec_23_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[19-29] Next, the sixth sign appears above the \"5\" and \"4\" signs, displaying \"3\". The seventh sign appears above the \"4\" and \"3\" signs, displaying \"2\"."
+    },
+    {
+        "second": 24,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/92Tz4tdlwO8/output_frames/sec_24_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[19-29] Next, the sixth sign appears above the \"5\" and \"4\" signs, displaying \"3\". The seventh sign appears above the \"4\" and \"3\" signs, displaying \"2\"."
+    },
+    {
+        "second": 25,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/92Tz4tdlwO8/output_frames/sec_25_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[19-29] Next, the sixth sign appears above the \"5\" and \"4\" signs, displaying \"3\". The seventh sign appears above the \"4\" and \"3\" signs, displaying \"2\"."
+    },
+    {
+        "second": 26,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/92Tz4tdlwO8/output_frames/sec_26_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[19-29] Next, the sixth sign appears above the \"5\" and \"4\" signs, displaying \"3\". The seventh sign appears above the \"4\" and \"3\" signs, displaying \"2\"."
+    },
+    {
+        "second": 27,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/92Tz4tdlwO8/output_frames/sec_27_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[19-29] Next, the sixth sign appears above the \"5\" and \"4\" signs, displaying \"3\". The seventh sign appears above the \"4\" and \"3\" signs, displaying \"2\"."
+    },
+    {
+        "second": 28,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/92Tz4tdlwO8/output_frames/sec_28_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[19-29] Next, the sixth sign appears above the \"5\" and \"4\" signs, displaying \"3\". The seventh sign appears above the \"4\" and \"3\" signs, displaying \"2\"."
+    },
+    {
+        "second": 29,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/92Tz4tdlwO8/output_frames/sec_29_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[19-29] Next, the sixth sign appears above the \"5\" and \"4\" signs, displaying \"3\". The seventh sign appears above the \"4\" and \"3\" signs, displaying \"2\"."
+    },
+    {
+        "second": 30,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/92Tz4tdlwO8/output_frames/sec_30_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[29-38] Finally, the eighth sign appears above the \"3\" and \"2\" signs, displaying \"1\". These signs all move to the left, with the smaller the number, the larger the sign."
+    },
+    {
+        "second": 31,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/92Tz4tdlwO8/output_frames/sec_31_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[29-38] Finally, the eighth sign appears above the \"3\" and \"2\" signs, displaying \"1\". These signs all move to the left, with the smaller the number, the larger the sign."
+    },
+    {
+        "second": 32,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/92Tz4tdlwO8/output_frames/sec_32_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[29-38] Finally, the eighth sign appears above the \"3\" and \"2\" signs, displaying \"1\". These signs all move to the left, with the smaller the number, the larger the sign."
+    },
+    {
+        "second": 33,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/92Tz4tdlwO8/output_frames/sec_33_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[29-38] Finally, the eighth sign appears above the \"3\" and \"2\" signs, displaying \"1\". These signs all move to the left, with the smaller the number, the larger the sign."
+    },
+    {
+        "second": 34,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/92Tz4tdlwO8/output_frames/sec_34_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[29-38] Finally, the eighth sign appears above the \"3\" and \"2\" signs, displaying \"1\". These signs all move to the left, with the smaller the number, the larger the sign."
+    },
+    {
+        "second": 35,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/92Tz4tdlwO8/output_frames/sec_35_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[29-38] Finally, the eighth sign appears above the \"3\" and \"2\" signs, displaying \"1\". These signs all move to the left, with the smaller the number, the larger the sign."
+    },
+    {
+        "second": 36,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/92Tz4tdlwO8/output_frames/sec_36_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[29-38] Finally, the eighth sign appears above the \"3\" and \"2\" signs, displaying \"1\". These signs all move to the left, with the smaller the number, the larger the sign."
+    },
+    {
+        "second": 37,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/92Tz4tdlwO8/output_frames/sec_37_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[29-38] Finally, the eighth sign appears above the \"3\" and \"2\" signs, displaying \"1\". These signs all move to the left, with the smaller the number, the larger the sign."
+    }
+]

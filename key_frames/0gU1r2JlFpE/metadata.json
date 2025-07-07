@@ -1,0 +1,23 @@
+[
+    {
+        "second": 0,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0gU1r2JlFpE/output_frames/sec_0_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[0-0] Three small blue birds with small hands photoshopped on them are huddling together on a branch. The bird in the middle is wearing a pink bow and holding an ice cream cone. On the right side of the image is a string of English words, \"doodle by LeopARTnik\"."
+    },
+    {
+        "second": 1,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0gU1r2JlFpE/output_frames/sec_1_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Another small blue bird flies past in front of them, then the bird on the right squeezes to the left, and the English words move to the left side of the image. The bird on the right keeps squeezing to the left, the bird on the left flies away, and the English words move back to the right side of the image. The white caption \"DID YOU CATCH IT ALL?\" appears above."
+    },
+    {
+        "second": 2,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0gU1r2JlFpE/output_frames/sec_2_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Another small blue bird flies past in front of them, then the bird on the right squeezes to the left, and the English words move to the left side of the image. The bird on the right keeps squeezing to the left, the bird on the left flies away, and the English words move back to the right side of the image. The white caption \"DID YOU CATCH IT ALL?\" appears above."
+    }
+]

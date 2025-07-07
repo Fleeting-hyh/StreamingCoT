@@ -1,0 +1,107 @@
+[
+    {
+        "second": 0,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Tdm3uFaNjb8/output_frames/sec_0_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[0-0] The video begins inside an aircraft cabin, at an exit door. A flight attendant in a beige uniform, wearing a red hat and veil, is operating the control panel on the door. Behind her, a male flight attendant in a black uniform and wearing a face mask is observing and assisting her. Another female flight attendant wearing a face mask and a beige uniform is standing beside them."
+    },
+    {
+        "second": 1,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Tdm3uFaNjb8/output_frames/sec_1_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[0-10] As the flight attendant operates the control panel, the cabin door starts to slide open slowly upwards, revealing a part of the outside."
+    },
+    {
+        "second": 2,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Tdm3uFaNjb8/output_frames/sec_2_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[0-10] As the flight attendant operates the control panel, the cabin door starts to slide open slowly upwards, revealing a part of the outside."
+    },
+    {
+        "second": 3,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Tdm3uFaNjb8/output_frames/sec_3_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[0-10] As the flight attendant operates the control panel, the cabin door starts to slide open slowly upwards, revealing a part of the outside."
+    },
+    {
+        "second": 4,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Tdm3uFaNjb8/output_frames/sec_4_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[0-10] As the flight attendant operates the control panel, the cabin door starts to slide open slowly upwards, revealing a part of the outside."
+    },
+    {
+        "second": 5,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Tdm3uFaNjb8/output_frames/sec_5_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-10] As the flight attendant operates the control panel, the cabin door starts to slide open slowly upwards, revealing a part of the outside."
+    },
+    {
+        "second": 6,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Tdm3uFaNjb8/output_frames/sec_6_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[0-10] As the flight attendant operates the control panel, the cabin door starts to slide open slowly upwards, revealing a part of the outside."
+    },
+    {
+        "second": 7,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Tdm3uFaNjb8/output_frames/sec_7_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[0-10] As the flight attendant operates the control panel, the cabin door starts to slide open slowly upwards, revealing a part of the outside."
+    },
+    {
+        "second": 8,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Tdm3uFaNjb8/output_frames/sec_8_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-10] As the flight attendant operates the control panel, the cabin door starts to slide open slowly upwards, revealing a part of the outside."
+    },
+    {
+        "second": 9,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Tdm3uFaNjb8/output_frames/sec_9_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[0-10] As the flight attendant operates the control panel, the cabin door starts to slide open slowly upwards, revealing a part of the outside."
+    },
+    {
+        "second": 10,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Tdm3uFaNjb8/output_frames/sec_10_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[0-10] As the flight attendant operates the control panel, the cabin door starts to slide open slowly upwards, revealing a part of the outside."
+    },
+    {
+        "second": 11,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Tdm3uFaNjb8/output_frames/sec_11_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[10-14] Then, a ground crew member in an orange uniform appears outside the open cabin door. With the cabin door fully open, the ground crew member stands at the doorway, ready to greet the passengers disembarking the plane."
+    },
+    {
+        "second": 12,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Tdm3uFaNjb8/output_frames/sec_12_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[10-14] Then, a ground crew member in an orange uniform appears outside the open cabin door. With the cabin door fully open, the ground crew member stands at the doorway, ready to greet the passengers disembarking the plane."
+    },
+    {
+        "second": 13,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Tdm3uFaNjb8/output_frames/sec_13_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[10-14] Then, a ground crew member in an orange uniform appears outside the open cabin door. With the cabin door fully open, the ground crew member stands at the doorway, ready to greet the passengers disembarking the plane."
+    },
+    {
+        "second": 14,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Tdm3uFaNjb8/output_frames/sec_14_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[10-14] Then, a ground crew member in an orange uniform appears outside the open cabin door. With the cabin door fully open, the ground crew member stands at the doorway, ready to greet the passengers disembarking the plane."
+    }
+]

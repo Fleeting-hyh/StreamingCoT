@@ -1,0 +1,191 @@
+[
+    {
+        "second": 0,
+        "frame_index": 36,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3-4CKLG-IrE/output_frames/sec_0_idx_36.jpg",
+        "fps": 60,
+        "explanation": "[0-0] In a brightly lit indoor room with white walls, a cardboard is placed between two white door frames. According to the subtitles on the left side of the screen, the cardboard is 35cm above the ground. Behind the cardboard is a fluffy white cat, and the floor is covered with a gray carpet."
+    },
+    {
+        "second": 1,
+        "frame_index": 32,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3-4CKLG-IrE/output_frames/sec_1_idx_32.jpg",
+        "fps": 60,
+        "explanation": "[0-2] With the cardboard 35cm above the ground, the white cat swaggered under the cardboard."
+    },
+    {
+        "second": 2,
+        "frame_index": 51,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3-4CKLG-IrE/output_frames/sec_2_idx_51.jpg",
+        "fps": 60,
+        "explanation": "[0-2] With the cardboard 35cm above the ground, the white cat swaggered under the cardboard."
+    },
+    {
+        "second": 3,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3-4CKLG-IrE/output_frames/sec_3_idx_11.jpg",
+        "fps": 60,
+        "explanation": "[2-4] With the cardboard 25cm above the ground, the white cat, positioned behind the cardboard, lowers its head slightly and then smoothly walks under the cardboard."
+    },
+    {
+        "second": 4,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3-4CKLG-IrE/output_frames/sec_4_idx_16.jpg",
+        "fps": 60,
+        "explanation": "[2-4] With the cardboard 25cm above the ground, the white cat, positioned behind the cardboard, lowers its head slightly and then smoothly walks under the cardboard."
+    },
+    {
+        "second": 5,
+        "frame_index": 56,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3-4CKLG-IrE/output_frames/sec_5_idx_56.jpg",
+        "fps": 60,
+        "explanation": "[4-6] With the cardboard 15cm above the ground, the white cat lies down, its fur smoothly brushing against the cardboard as it passes through."
+    },
+    {
+        "second": 6,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3-4CKLG-IrE/output_frames/sec_6_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[4-6] With the cardboard 15cm above the ground, the white cat lies down, its fur smoothly brushing against the cardboard as it passes through."
+    },
+    {
+        "second": 7,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3-4CKLG-IrE/output_frames/sec_7_idx_2.jpg",
+        "fps": 60,
+        "explanation": "[6-9] With the cardboard 10cm above the ground, the white cat lies on its stomach and speeds under the cardboard, then gets up and walks to the right side of the screen. The cardboard slightly shakes."
+    },
+    {
+        "second": 8,
+        "frame_index": 46,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3-4CKLG-IrE/output_frames/sec_8_idx_46.jpg",
+        "fps": 60,
+        "explanation": "[6-9] With the cardboard 10cm above the ground, the white cat lies on its stomach and speeds under the cardboard, then gets up and walks to the right side of the screen. The cardboard slightly shakes."
+    },
+    {
+        "second": 9,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3-4CKLG-IrE/output_frames/sec_9_idx_3.jpg",
+        "fps": 60,
+        "explanation": "[6-9] With the cardboard 10cm above the ground, the white cat lies on its stomach and speeds under the cardboard, then gets up and walks to the right side of the screen. The cardboard slightly shakes."
+    },
+    {
+        "second": 10,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3-4CKLG-IrE/output_frames/sec_10_idx_25.jpg",
+        "fps": 60,
+        "explanation": "[9-13] With the cardboard 8cm above the ground, the white cat lies on its stomach and tentatively sticks its head out from under the cardboard. It then looks back at the cardboard and tries to squeeze its body through. After getting stuck briefly, it passes through with some difficulty and turns to look at the cardboard."
+    },
+    {
+        "second": 11,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3-4CKLG-IrE/output_frames/sec_11_idx_8.jpg",
+        "fps": 60,
+        "explanation": "[9-13] With the cardboard 8cm above the ground, the white cat lies on its stomach and tentatively sticks its head out from under the cardboard. It then looks back at the cardboard and tries to squeeze its body through. After getting stuck briefly, it passes through with some difficulty and turns to look at the cardboard."
+    },
+    {
+        "second": 12,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3-4CKLG-IrE/output_frames/sec_12_idx_15.jpg",
+        "fps": 60,
+        "explanation": "[9-13] With the cardboard 8cm above the ground, the white cat lies on its stomach and tentatively sticks its head out from under the cardboard. It then looks back at the cardboard and tries to squeeze its body through. After getting stuck briefly, it passes through with some difficulty and turns to look at the cardboard."
+    },
+    {
+        "second": 13,
+        "frame_index": 30,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3-4CKLG-IrE/output_frames/sec_13_idx_30.jpg",
+        "fps": 60,
+        "explanation": "[9-13] With the cardboard 8cm above the ground, the white cat lies on its stomach and tentatively sticks its head out from under the cardboard. It then looks back at the cardboard and tries to squeeze its body through. After getting stuck briefly, it passes through with some difficulty and turns to look at the cardboard."
+    },
+    {
+        "second": 14,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3-4CKLG-IrE/output_frames/sec_14_idx_22.jpg",
+        "fps": 60,
+        "explanation": "[13-19] With the cardboard 7cm above the ground, the white cat presses its body close to the ground and slowly pokes its head out, attempting to pass but getting stuck. The camera zooms in as the cat scratches the ground twice with its front paws. It then presses itself against the bottom of the cardboard and slowly crawls diagonally, painstakingly dragging its body out from under the cardboard. After that, it bends down, glances under the cardboard, and turns its head to the right side of the screen."
+    },
+    {
+        "second": 15,
+        "frame_index": 59,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3-4CKLG-IrE/output_frames/sec_15_idx_59.jpg",
+        "fps": 60,
+        "explanation": "[13-19] With the cardboard 7cm above the ground, the white cat presses its body close to the ground and slowly pokes its head out, attempting to pass but getting stuck. The camera zooms in as the cat scratches the ground twice with its front paws. It then presses itself against the bottom of the cardboard and slowly crawls diagonally, painstakingly dragging its body out from under the cardboard. After that, it bends down, glances under the cardboard, and turns its head to the right side of the screen."
+    },
+    {
+        "second": 16,
+        "frame_index": 52,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3-4CKLG-IrE/output_frames/sec_16_idx_52.jpg",
+        "fps": 60,
+        "explanation": "[13-19] With the cardboard 7cm above the ground, the white cat presses its body close to the ground and slowly pokes its head out, attempting to pass but getting stuck. The camera zooms in as the cat scratches the ground twice with its front paws. It then presses itself against the bottom of the cardboard and slowly crawls diagonally, painstakingly dragging its body out from under the cardboard. After that, it bends down, glances under the cardboard, and turns its head to the right side of the screen."
+    },
+    {
+        "second": 17,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3-4CKLG-IrE/output_frames/sec_17_idx_10.jpg",
+        "fps": 60,
+        "explanation": "[13-19] With the cardboard 7cm above the ground, the white cat presses its body close to the ground and slowly pokes its head out, attempting to pass but getting stuck. The camera zooms in as the cat scratches the ground twice with its front paws. It then presses itself against the bottom of the cardboard and slowly crawls diagonally, painstakingly dragging its body out from under the cardboard. After that, it bends down, glances under the cardboard, and turns its head to the right side of the screen."
+    },
+    {
+        "second": 18,
+        "frame_index": 59,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3-4CKLG-IrE/output_frames/sec_18_idx_59.jpg",
+        "fps": 60,
+        "explanation": "[13-19] With the cardboard 7cm above the ground, the white cat presses its body close to the ground and slowly pokes its head out, attempting to pass but getting stuck. The camera zooms in as the cat scratches the ground twice with its front paws. It then presses itself against the bottom of the cardboard and slowly crawls diagonally, painstakingly dragging its body out from under the cardboard. After that, it bends down, glances under the cardboard, and turns its head to the right side of the screen."
+    },
+    {
+        "second": 19,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3-4CKLG-IrE/output_frames/sec_19_idx_3.jpg",
+        "fps": 60,
+        "explanation": "[13-19] With the cardboard 7cm above the ground, the white cat presses its body close to the ground and slowly pokes its head out, attempting to pass but getting stuck. The camera zooms in as the cat scratches the ground twice with its front paws. It then presses itself against the bottom of the cardboard and slowly crawls diagonally, painstakingly dragging its body out from under the cardboard. After that, it bends down, glances under the cardboard, and turns its head to the right side of the screen."
+    },
+    {
+        "second": 20,
+        "frame_index": 37,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3-4CKLG-IrE/output_frames/sec_20_idx_37.jpg",
+        "fps": 60,
+        "explanation": "[19-26] With the cardboard 6cm above the ground, the white cat, lying on its stomach, repeatedly tries to pass under the cardboard but fails. It then walks behind the cardboard, props its front paws on it, and pokes its head over the top. The camera zooms in as the cat's head slowly emerges over the top of the cardboard."
+    },
+    {
+        "second": 21,
+        "frame_index": 35,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3-4CKLG-IrE/output_frames/sec_21_idx_35.jpg",
+        "fps": 60,
+        "explanation": "[19-26] With the cardboard 6cm above the ground, the white cat, lying on its stomach, repeatedly tries to pass under the cardboard but fails. It then walks behind the cardboard, props its front paws on it, and pokes its head over the top. The camera zooms in as the cat's head slowly emerges over the top of the cardboard."
+    },
+    {
+        "second": 22,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3-4CKLG-IrE/output_frames/sec_22_idx_18.jpg",
+        "fps": 60,
+        "explanation": "[19-26] With the cardboard 6cm above the ground, the white cat, lying on its stomach, repeatedly tries to pass under the cardboard but fails. It then walks behind the cardboard, props its front paws on it, and pokes its head over the top. The camera zooms in as the cat's head slowly emerges over the top of the cardboard."
+    },
+    {
+        "second": 23,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3-4CKLG-IrE/output_frames/sec_23_idx_26.jpg",
+        "fps": 60,
+        "explanation": "[19-26] With the cardboard 6cm above the ground, the white cat, lying on its stomach, repeatedly tries to pass under the cardboard but fails. It then walks behind the cardboard, props its front paws on it, and pokes its head over the top. The camera zooms in as the cat's head slowly emerges over the top of the cardboard."
+    },
+    {
+        "second": 24,
+        "frame_index": 32,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3-4CKLG-IrE/output_frames/sec_24_idx_32.jpg",
+        "fps": 60,
+        "explanation": "[19-26] With the cardboard 6cm above the ground, the white cat, lying on its stomach, repeatedly tries to pass under the cardboard but fails. It then walks behind the cardboard, props its front paws on it, and pokes its head over the top. The camera zooms in as the cat's head slowly emerges over the top of the cardboard."
+    },
+    {
+        "second": 25,
+        "frame_index": 45,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3-4CKLG-IrE/output_frames/sec_25_idx_45.jpg",
+        "fps": 60,
+        "explanation": "[19-26] With the cardboard 6cm above the ground, the white cat, lying on its stomach, repeatedly tries to pass under the cardboard but fails. It then walks behind the cardboard, props its front paws on it, and pokes its head over the top. The camera zooms in as the cat's head slowly emerges over the top of the cardboard."
+    },
+    {
+        "second": 26,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3-4CKLG-IrE/output_frames/sec_26_idx_12.jpg",
+        "fps": 60,
+        "explanation": "[19-26] With the cardboard 6cm above the ground, the white cat, lying on its stomach, repeatedly tries to pass under the cardboard but fails. It then walks behind the cardboard, props its front paws on it, and pokes its head over the top. The camera zooms in as the cat's head slowly emerges over the top of the cardboard."
+    }
+]

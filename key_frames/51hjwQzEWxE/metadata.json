@@ -1,0 +1,191 @@
+[
+    {
+        "second": 0,
+        "frame_index": 37,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/51hjwQzEWxE/output_frames/sec_0_idx_37.jpg",
+        "fps": 60,
+        "explanation": "[0-0] A game scene with a white track in the air, the track has yellow and purple lines respectively. Two game characters stand on both sides, both of them stepping on blue blocks. There are red and green obstacle walls on the track, with numbers and plus and minus signs on the walls."
+    },
+    {
+        "second": 1,
+        "frame_index": 37,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/51hjwQzEWxE/output_frames/sec_1_idx_37.jpg",
+        "fps": 60,
+        "explanation": "[0-2] The red and blue characters move forward at the same time, the red character stops in front of the obstacle wall, the blue character chooses the red obstacle wall with both feet. After passing the obstacle wall, the blue blocks under the feet are reduced, the blue character lies on the ground, the red character turns to the right and looks at the blue character laughing."
+    },
+    {
+        "second": 2,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/51hjwQzEWxE/output_frames/sec_2_idx_5.jpg",
+        "fps": 60,
+        "explanation": "[0-2] The red and blue characters move forward at the same time, the red character stops in front of the obstacle wall, the blue character chooses the red obstacle wall with both feet. After passing the obstacle wall, the blue blocks under the feet are reduced, the blue character lies on the ground, the red character turns to the right and looks at the blue character laughing."
+    },
+    {
+        "second": 3,
+        "frame_index": 50,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/51hjwQzEWxE/output_frames/sec_3_idx_50.jpg",
+        "fps": 60,
+        "explanation": "[2-5] The two characters return to the starting point, this time both the red and blue characters choose the green obstacle wall, the blue blocks under their feet turn into 6. Immediately after passing the second obstacle wall, this time the blue character continues to choose the red obstacle wall, the number on the obstacle wall is -5, then the blocks under the blue character's feet disappear and fall to the ground."
+    },
+    {
+        "second": 4,
+        "frame_index": 38,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/51hjwQzEWxE/output_frames/sec_4_idx_38.jpg",
+        "fps": 60,
+        "explanation": "[2-5] The two characters return to the starting point, this time both the red and blue characters choose the green obstacle wall, the blue blocks under their feet turn into 6. Immediately after passing the second obstacle wall, this time the blue character continues to choose the red obstacle wall, the number on the obstacle wall is -5, then the blocks under the blue character's feet disappear and fall to the ground."
+    },
+    {
+        "second": 5,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/51hjwQzEWxE/output_frames/sec_5_idx_16.jpg",
+        "fps": 60,
+        "explanation": "[2-5] The two characters return to the starting point, this time both the red and blue characters choose the green obstacle wall, the blue blocks under their feet turn into 6. Immediately after passing the second obstacle wall, this time the blue character continues to choose the red obstacle wall, the number on the obstacle wall is -5, then the blocks under the blue character's feet disappear and fall to the ground."
+    },
+    {
+        "second": 6,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/51hjwQzEWxE/output_frames/sec_6_idx_14.jpg",
+        "fps": 60,
+        "explanation": "[5-11] The two characters return to the starting point again, in the first level both red and blue characters choose the green obstacle wall, the blocks under their feet become 6. In the second level, the red and blue characters choose the green obstacle wall at the same time, they both step on 5 blue blocks with each foot. Then two rectangular pink obstacles and square pink obstacles of different heights appear in front. Each time they pass the first obstacle, the blocks under their feet are reduced by one. After passing the second obstacle, there are three blue blocks left under their feet. When facing the third obstacle, they close their legs. Because the number of blocks under their feet is not enough, the blue character lies down again. It crawls up with its mouth open, looking very angry."
+    },
+    {
+        "second": 7,
+        "frame_index": 36,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/51hjwQzEWxE/output_frames/sec_7_idx_36.jpg",
+        "fps": 60,
+        "explanation": "[5-11] The two characters return to the starting point again, in the first level both red and blue characters choose the green obstacle wall, the blocks under their feet become 6. In the second level, the red and blue characters choose the green obstacle wall at the same time, they both step on 5 blue blocks with each foot. Then two rectangular pink obstacles and square pink obstacles of different heights appear in front. Each time they pass the first obstacle, the blocks under their feet are reduced by one. After passing the second obstacle, there are three blue blocks left under their feet. When facing the third obstacle, they close their legs. Because the number of blocks under their feet is not enough, the blue character lies down again. It crawls up with its mouth open, looking very angry."
+    },
+    {
+        "second": 8,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/51hjwQzEWxE/output_frames/sec_8_idx_21.jpg",
+        "fps": 60,
+        "explanation": "[5-11] The two characters return to the starting point again, in the first level both red and blue characters choose the green obstacle wall, the blocks under their feet become 6. In the second level, the red and blue characters choose the green obstacle wall at the same time, they both step on 5 blue blocks with each foot. Then two rectangular pink obstacles and square pink obstacles of different heights appear in front. Each time they pass the first obstacle, the blocks under their feet are reduced by one. After passing the second obstacle, there are three blue blocks left under their feet. When facing the third obstacle, they close their legs. Because the number of blocks under their feet is not enough, the blue character lies down again. It crawls up with its mouth open, looking very angry."
+    },
+    {
+        "second": 9,
+        "frame_index": 34,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/51hjwQzEWxE/output_frames/sec_9_idx_34.jpg",
+        "fps": 60,
+        "explanation": "[5-11] The two characters return to the starting point again, in the first level both red and blue characters choose the green obstacle wall, the blocks under their feet become 6. In the second level, the red and blue characters choose the green obstacle wall at the same time, they both step on 5 blue blocks with each foot. Then two rectangular pink obstacles and square pink obstacles of different heights appear in front. Each time they pass the first obstacle, the blocks under their feet are reduced by one. After passing the second obstacle, there are three blue blocks left under their feet. When facing the third obstacle, they close their legs. Because the number of blocks under their feet is not enough, the blue character lies down again. It crawls up with its mouth open, looking very angry."
+    },
+    {
+        "second": 10,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/51hjwQzEWxE/output_frames/sec_10_idx_13.jpg",
+        "fps": 60,
+        "explanation": "[5-11] The two characters return to the starting point again, in the first level both red and blue characters choose the green obstacle wall, the blocks under their feet become 6. In the second level, the red and blue characters choose the green obstacle wall at the same time, they both step on 5 blue blocks with each foot. Then two rectangular pink obstacles and square pink obstacles of different heights appear in front. Each time they pass the first obstacle, the blocks under their feet are reduced by one. After passing the second obstacle, there are three blue blocks left under their feet. When facing the third obstacle, they close their legs. Because the number of blocks under their feet is not enough, the blue character lies down again. It crawls up with its mouth open, looking very angry."
+    },
+    {
+        "second": 11,
+        "frame_index": 43,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/51hjwQzEWxE/output_frames/sec_11_idx_43.jpg",
+        "fps": 60,
+        "explanation": "[5-11] The two characters return to the starting point again, in the first level both red and blue characters choose the green obstacle wall, the blocks under their feet become 6. In the second level, the red and blue characters choose the green obstacle wall at the same time, they both step on 5 blue blocks with each foot. Then two rectangular pink obstacles and square pink obstacles of different heights appear in front. Each time they pass the first obstacle, the blocks under their feet are reduced by one. After passing the second obstacle, there are three blue blocks left under their feet. When facing the third obstacle, they close their legs. Because the number of blocks under their feet is not enough, the blue character lies down again. It crawls up with its mouth open, looking very angry."
+    },
+    {
+        "second": 12,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/51hjwQzEWxE/output_frames/sec_12_idx_1.jpg",
+        "fps": 60,
+        "explanation": "[11-16] Then the two characters return to the starting point again, in the first level, both the red and blue characters choose the green obstacle, the blocks under their feet become 6. In the second level, both the red and blue characters choose the green obstacle. At this time, the blue character starts to move forward alone, successfully passes through the pink strip obstacle, the blocks under its feet become six, then passes through the pink square obstacle, and comes to the green block. The picture cuts to the red character, it is clenching its teeth, widening its eyes, then takes out a cylindrical button with a gray bottom and a blue button, and presses the button."
+    },
+    {
+        "second": 13,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/51hjwQzEWxE/output_frames/sec_13_idx_2.jpg",
+        "fps": 60,
+        "explanation": "[11-16] Then the two characters return to the starting point again, in the first level, both the red and blue characters choose the green obstacle, the blocks under their feet become 6. In the second level, both the red and blue characters choose the green obstacle. At this time, the blue character starts to move forward alone, successfully passes through the pink strip obstacle, the blocks under its feet become six, then passes through the pink square obstacle, and comes to the green block. The picture cuts to the red character, it is clenching its teeth, widening its eyes, then takes out a cylindrical button with a gray bottom and a blue button, and presses the button."
+    },
+    {
+        "second": 14,
+        "frame_index": 55,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/51hjwQzEWxE/output_frames/sec_14_idx_55.jpg",
+        "fps": 60,
+        "explanation": "[11-16] Then the two characters return to the starting point again, in the first level, both the red and blue characters choose the green obstacle, the blocks under their feet become 6. In the second level, both the red and blue characters choose the green obstacle. At this time, the blue character starts to move forward alone, successfully passes through the pink strip obstacle, the blocks under its feet become six, then passes through the pink square obstacle, and comes to the green block. The picture cuts to the red character, it is clenching its teeth, widening its eyes, then takes out a cylindrical button with a gray bottom and a blue button, and presses the button."
+    },
+    {
+        "second": 15,
+        "frame_index": 56,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/51hjwQzEWxE/output_frames/sec_15_idx_56.jpg",
+        "fps": 60,
+        "explanation": "[11-16] Then the two characters return to the starting point again, in the first level, both the red and blue characters choose the green obstacle, the blocks under their feet become 6. In the second level, both the red and blue characters choose the green obstacle. At this time, the blue character starts to move forward alone, successfully passes through the pink strip obstacle, the blocks under its feet become six, then passes through the pink square obstacle, and comes to the green block. The picture cuts to the red character, it is clenching its teeth, widening its eyes, then takes out a cylindrical button with a gray bottom and a blue button, and presses the button."
+    },
+    {
+        "second": 16,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/51hjwQzEWxE/output_frames/sec_16_idx_17.jpg",
+        "fps": 60,
+        "explanation": "[11-16] Then the two characters return to the starting point again, in the first level, both the red and blue characters choose the green obstacle, the blocks under their feet become 6. In the second level, both the red and blue characters choose the green obstacle. At this time, the blue character starts to move forward alone, successfully passes through the pink strip obstacle, the blocks under its feet become six, then passes through the pink square obstacle, and comes to the green block. The picture cuts to the red character, it is clenching its teeth, widening its eyes, then takes out a cylindrical button with a gray bottom and a blue button, and presses the button."
+    },
+    {
+        "second": 17,
+        "frame_index": 35,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/51hjwQzEWxE/output_frames/sec_17_idx_35.jpg",
+        "fps": 60,
+        "explanation": "[16-19] Then the end of the game moves back a distance, and the same game obstacles are added in front. Then the screen cuts to the blue character, its eyes widen, a blue square appears above its head, inside which is the sign Help= and a thumb button icon. After a mouse arrow appears and clicks the thumb icon, flames appear on the blue toy figure, and then the eyes, hands and feet turn red."
+    },
+    {
+        "second": 18,
+        "frame_index": 36,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/51hjwQzEWxE/output_frames/sec_18_idx_36.jpg",
+        "fps": 60,
+        "explanation": "[16-19] Then the end of the game moves back a distance, and the same game obstacles are added in front. Then the screen cuts to the blue character, its eyes widen, a blue square appears above its head, inside which is the sign Help= and a thumb button icon. After a mouse arrow appears and clicks the thumb icon, flames appear on the blue toy figure, and then the eyes, hands and feet turn red."
+    },
+    {
+        "second": 19,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/51hjwQzEWxE/output_frames/sec_19_idx_5.jpg",
+        "fps": 60,
+        "explanation": "[16-19] Then the end of the game moves back a distance, and the same game obstacles are added in front. Then the screen cuts to the blue character, its eyes widen, a blue square appears above its head, inside which is the sign Help= and a thumb button icon. After a mouse arrow appears and clicks the thumb icon, flames appear on the blue toy figure, and then the eyes, hands and feet turn red."
+    },
+    {
+        "second": 20,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/51hjwQzEWxE/output_frames/sec_20_idx_7.jpg",
+        "fps": 60,
+        "explanation": "[19-24] After the blue character turns red, it smoothly passes through the same obstacles and reaches the end, turning to face the track."
+    },
+    {
+        "second": 21,
+        "frame_index": 43,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/51hjwQzEWxE/output_frames/sec_21_idx_43.jpg",
+        "fps": 60,
+        "explanation": "[19-24] After the blue character turns red, it smoothly passes through the same obstacles and reaches the end, turning to face the track."
+    },
+    {
+        "second": 22,
+        "frame_index": 58,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/51hjwQzEWxE/output_frames/sec_22_idx_58.jpg",
+        "fps": 60,
+        "explanation": "[19-24] After the blue character turns red, it smoothly passes through the same obstacles and reaches the end, turning to face the track."
+    },
+    {
+        "second": 23,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/51hjwQzEWxE/output_frames/sec_23_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[19-24] After the blue character turns red, it smoothly passes through the same obstacles and reaches the end, turning to face the track."
+    },
+    {
+        "second": 24,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/51hjwQzEWxE/output_frames/sec_24_idx_5.jpg",
+        "fps": 60,
+        "explanation": "[19-24] After the blue character turns red, it smoothly passes through the same obstacles and reaches the end, turning to face the track."
+    },
+    {
+        "second": 25,
+        "frame_index": 59,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/51hjwQzEWxE/output_frames/sec_25_idx_59.jpg",
+        "fps": 60,
+        "explanation": "[24-26] The blue character stretches out its hand and swings it in front of it. Finally, the picture cuts to the red character, which hits the red obstacle wall, the blocks under its feet disappear, and it lies on the ground."
+    },
+    {
+        "second": 26,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/51hjwQzEWxE/output_frames/sec_26_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[24-26] The blue character stretches out its hand and swings it in front of it. Finally, the picture cuts to the red character, which hits the red obstacle wall, the blocks under its feet disappear, and it lies on the ground."
+    }
+]

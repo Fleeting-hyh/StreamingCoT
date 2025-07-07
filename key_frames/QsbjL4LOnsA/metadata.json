@@ -1,0 +1,72 @@
+[
+    {
+        "second": 0,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QsbjL4LOnsA/output_frames/sec_0_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A horse covered in pink banknotes stands on a road. There is a pit in the road ahead of the horse, paved with colorful tiles. In the lower left corner, there is a corner of a yellow object. In the distance, there are some trees, houses, and utility poles."
+    },
+    {
+        "second": 1,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QsbjL4LOnsA/output_frames/sec_1_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[0-9] The horse covered in pink banknotes continues to walk forward. A yellow pickup truck appears in the pit and backs up. Subsequently, a horse with a red wallet on its back walks over. To the right of the horse with the red wallet, there are two objects with turnip heads and green radish bodies, also walking forward. Then the radish in front walks into the pit and falls into the back of the pickup truck. Immediately afterward, the second radish object also falls in. There are so many radishes that the truck is full and some radishes are scattered around. Then a horse with blue packaging on its back comes over. At the same time, the pickup truck starts to drive forward, with many radishes scattered in the pit. Finally, a horse carrying many red barrels walks over."
+    },
+    {
+        "second": 2,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QsbjL4LOnsA/output_frames/sec_2_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-9] The horse covered in pink banknotes continues to walk forward. A yellow pickup truck appears in the pit and backs up. Subsequently, a horse with a red wallet on its back walks over. To the right of the horse with the red wallet, there are two objects with turnip heads and green radish bodies, also walking forward. Then the radish in front walks into the pit and falls into the back of the pickup truck. Immediately afterward, the second radish object also falls in. There are so many radishes that the truck is full and some radishes are scattered around. Then a horse with blue packaging on its back comes over. At the same time, the pickup truck starts to drive forward, with many radishes scattered in the pit. Finally, a horse carrying many red barrels walks over."
+    },
+    {
+        "second": 3,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QsbjL4LOnsA/output_frames/sec_3_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[0-9] The horse covered in pink banknotes continues to walk forward. A yellow pickup truck appears in the pit and backs up. Subsequently, a horse with a red wallet on its back walks over. To the right of the horse with the red wallet, there are two objects with turnip heads and green radish bodies, also walking forward. Then the radish in front walks into the pit and falls into the back of the pickup truck. Immediately afterward, the second radish object also falls in. There are so many radishes that the truck is full and some radishes are scattered around. Then a horse with blue packaging on its back comes over. At the same time, the pickup truck starts to drive forward, with many radishes scattered in the pit. Finally, a horse carrying many red barrels walks over."
+    },
+    {
+        "second": 4,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QsbjL4LOnsA/output_frames/sec_4_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[0-9] The horse covered in pink banknotes continues to walk forward. A yellow pickup truck appears in the pit and backs up. Subsequently, a horse with a red wallet on its back walks over. To the right of the horse with the red wallet, there are two objects with turnip heads and green radish bodies, also walking forward. Then the radish in front walks into the pit and falls into the back of the pickup truck. Immediately afterward, the second radish object also falls in. There are so many radishes that the truck is full and some radishes are scattered around. Then a horse with blue packaging on its back comes over. At the same time, the pickup truck starts to drive forward, with many radishes scattered in the pit. Finally, a horse carrying many red barrels walks over."
+    },
+    {
+        "second": 5,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QsbjL4LOnsA/output_frames/sec_5_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[0-9] The horse covered in pink banknotes continues to walk forward. A yellow pickup truck appears in the pit and backs up. Subsequently, a horse with a red wallet on its back walks over. To the right of the horse with the red wallet, there are two objects with turnip heads and green radish bodies, also walking forward. Then the radish in front walks into the pit and falls into the back of the pickup truck. Immediately afterward, the second radish object also falls in. There are so many radishes that the truck is full and some radishes are scattered around. Then a horse with blue packaging on its back comes over. At the same time, the pickup truck starts to drive forward, with many radishes scattered in the pit. Finally, a horse carrying many red barrels walks over."
+    },
+    {
+        "second": 6,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QsbjL4LOnsA/output_frames/sec_6_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[0-9] The horse covered in pink banknotes continues to walk forward. A yellow pickup truck appears in the pit and backs up. Subsequently, a horse with a red wallet on its back walks over. To the right of the horse with the red wallet, there are two objects with turnip heads and green radish bodies, also walking forward. Then the radish in front walks into the pit and falls into the back of the pickup truck. Immediately afterward, the second radish object also falls in. There are so many radishes that the truck is full and some radishes are scattered around. Then a horse with blue packaging on its back comes over. At the same time, the pickup truck starts to drive forward, with many radishes scattered in the pit. Finally, a horse carrying many red barrels walks over."
+    },
+    {
+        "second": 7,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QsbjL4LOnsA/output_frames/sec_7_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[0-9] The horse covered in pink banknotes continues to walk forward. A yellow pickup truck appears in the pit and backs up. Subsequently, a horse with a red wallet on its back walks over. To the right of the horse with the red wallet, there are two objects with turnip heads and green radish bodies, also walking forward. Then the radish in front walks into the pit and falls into the back of the pickup truck. Immediately afterward, the second radish object also falls in. There are so many radishes that the truck is full and some radishes are scattered around. Then a horse with blue packaging on its back comes over. At the same time, the pickup truck starts to drive forward, with many radishes scattered in the pit. Finally, a horse carrying many red barrels walks over."
+    },
+    {
+        "second": 8,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QsbjL4LOnsA/output_frames/sec_8_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[0-9] The horse covered in pink banknotes continues to walk forward. A yellow pickup truck appears in the pit and backs up. Subsequently, a horse with a red wallet on its back walks over. To the right of the horse with the red wallet, there are two objects with turnip heads and green radish bodies, also walking forward. Then the radish in front walks into the pit and falls into the back of the pickup truck. Immediately afterward, the second radish object also falls in. There are so many radishes that the truck is full and some radishes are scattered around. Then a horse with blue packaging on its back comes over. At the same time, the pickup truck starts to drive forward, with many radishes scattered in the pit. Finally, a horse carrying many red barrels walks over."
+    },
+    {
+        "second": 9,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QsbjL4LOnsA/output_frames/sec_9_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[0-9] The horse covered in pink banknotes continues to walk forward. A yellow pickup truck appears in the pit and backs up. Subsequently, a horse with a red wallet on its back walks over. To the right of the horse with the red wallet, there are two objects with turnip heads and green radish bodies, also walking forward. Then the radish in front walks into the pit and falls into the back of the pickup truck. Immediately afterward, the second radish object also falls in. There are so many radishes that the truck is full and some radishes are scattered around. Then a horse with blue packaging on its back comes over. At the same time, the pickup truck starts to drive forward, with many radishes scattered in the pit. Finally, a horse carrying many red barrels walks over."
+    }
+]

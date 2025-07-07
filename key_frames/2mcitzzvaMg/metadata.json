@@ -1,0 +1,37 @@
+[
+    {
+        "second": 0,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2mcitzzvaMg/output_frames/sec_0_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[0-0] In a room, a black TV and TV stand can be seen on the left. There is a green object on the TV stand. The room's walls are yellowish-green with a dreamcatcher hanging on them. The wall on the right side is white and decorated with paintings."
+    },
+    {
+        "second": 1,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2mcitzzvaMg/output_frames/sec_1_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[0-4] A woman in grey clothing runs in from the right side and quickly moves to the left. Following her, a person wearing a grey jacket and a red cartoon hat walks in from the right, holding a frying pan in their right hand and moving towards the left. Behind them, a girl wearing a colorful dress and hair ornaments walks to the left, holding a large spoon in her right hand."
+    },
+    {
+        "second": 2,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2mcitzzvaMg/output_frames/sec_2_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[0-4] A woman in grey clothing runs in from the right side and quickly moves to the left. Following her, a person wearing a grey jacket and a red cartoon hat walks in from the right, holding a frying pan in their right hand and moving towards the left. Behind them, a girl wearing a colorful dress and hair ornaments walks to the left, holding a large spoon in her right hand."
+    },
+    {
+        "second": 3,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2mcitzzvaMg/output_frames/sec_3_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[0-4] A woman in grey clothing runs in from the right side and quickly moves to the left. Following her, a person wearing a grey jacket and a red cartoon hat walks in from the right, holding a frying pan in their right hand and moving towards the left. Behind them, a girl wearing a colorful dress and hair ornaments walks to the left, holding a large spoon in her right hand."
+    },
+    {
+        "second": 4,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2mcitzzvaMg/output_frames/sec_4_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[0-4] A woman in grey clothing runs in from the right side and quickly moves to the left. Following her, a person wearing a grey jacket and a red cartoon hat walks in from the right, holding a frying pan in their right hand and moving towards the left. Behind them, a girl wearing a colorful dress and hair ornaments walks to the left, holding a large spoon in her right hand."
+    }
+]

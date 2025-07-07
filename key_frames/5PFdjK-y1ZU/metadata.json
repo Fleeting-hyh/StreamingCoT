@@ -1,0 +1,58 @@
+[
+    {
+        "second": 0,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5PFdjK-y1ZU/output_frames/sec_0_idx_4.jpg",
+        "fps": 25,
+        "explanation": "[0-0] The video has four split screens, featuring a blonde cartoon girl standing at a doorway facing a hallway with white walls around her."
+    },
+    {
+        "second": 1,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5PFdjK-y1ZU/output_frames/sec_1_idx_2.jpg",
+        "fps": 25,
+        "explanation": "[0-2] The girl then approaches the camera, smiling and looking ahead. She wears a yellow short-sleeved shirt and a red skirt with a red bow hair accessory. The scene transitions to a close-up of the girl's face, with the four split screens displaying the green caption \"STUDY?\", yellow caption \"EAT?\", pink caption \"CLEAN UP?\", and blue caption \"SLEEP?\"."
+    },
+    {
+        "second": 2,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5PFdjK-y1ZU/output_frames/sec_2_idx_9.jpg",
+        "fps": 25,
+        "explanation": "[0-2] The girl then approaches the camera, smiling and looking ahead. She wears a yellow short-sleeved shirt and a red skirt with a red bow hair accessory. The scene transitions to a close-up of the girl's face, with the four split screens displaying the green caption \"STUDY?\", yellow caption \"EAT?\", pink caption \"CLEAN UP?\", and blue caption \"SLEEP?\"."
+    },
+    {
+        "second": 3,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5PFdjK-y1ZU/output_frames/sec_3_idx_7.jpg",
+        "fps": 25,
+        "explanation": "[2-4] Immediately, the scene changes to show a purple kitten in each of the four split screens. The kitten is seen reading a book, eating snacks, cleaning the room, and sleeping, responding with \"YES!\" and a smile to each activity."
+    },
+    {
+        "second": 4,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5PFdjK-y1ZU/output_frames/sec_4_idx_9.jpg",
+        "fps": 25,
+        "explanation": "[2-4] Immediately, the scene changes to show a purple kitten in each of the four split screens. The kitten is seen reading a book, eating snacks, cleaning the room, and sleeping, responding with \"YES!\" and a smile to each activity."
+    },
+    {
+        "second": 5,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5PFdjK-y1ZU/output_frames/sec_5_idx_16.jpg",
+        "fps": 25,
+        "explanation": "[4-7] The scene then shifts back to the girl, who maintains an exaggerated smile and extends her left hand. Items in the kitten's hands are removed, revealing it playing video games, bullying a puppy, cleaning up toys, and lying in bed playing games. Finally, the girl opens her mouth and reaches for the kitten, who appears terrified."
+    },
+    {
+        "second": 6,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5PFdjK-y1ZU/output_frames/sec_6_idx_6.jpg",
+        "fps": 25,
+        "explanation": "[4-7] The scene then shifts back to the girl, who maintains an exaggerated smile and extends her left hand. Items in the kitten's hands are removed, revealing it playing video games, bullying a puppy, cleaning up toys, and lying in bed playing games. Finally, the girl opens her mouth and reaches for the kitten, who appears terrified."
+    },
+    {
+        "second": 7,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5PFdjK-y1ZU/output_frames/sec_7_idx_0.jpg",
+        "fps": 25,
+        "explanation": "[4-7] The scene then shifts back to the girl, who maintains an exaggerated smile and extends her left hand. Items in the kitten's hands are removed, revealing it playing video games, bullying a puppy, cleaning up toys, and lying in bed playing games. Finally, the girl opens her mouth and reaches for the kitten, who appears terrified."
+    }
+]

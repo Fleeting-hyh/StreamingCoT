@@ -1,0 +1,79 @@
+[
+    {
+        "second": 0,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Eamphggrg_A/output_frames/sec_0_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-0] Against a blue background, a red monster with teeth bared and a bone in its nose looks scary. A yellow and a green monster are stacked together, observing the scene. The text \"@thelovelyhorrorshow\" appears at the bottom of the screen."
+    },
+    {
+        "second": 1,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Eamphggrg_A/output_frames/sec_1_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Next, the red monster opens its mouth, and a purple monster jumps out. The yellow monster falls forward onto the ground, covering the purple monster, and slowly shrinks."
+    },
+    {
+        "second": 2,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Eamphggrg_A/output_frames/sec_2_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Next, the red monster opens its mouth, and a purple monster jumps out. The yellow monster falls forward onto the ground, covering the purple monster, and slowly shrinks."
+    },
+    {
+        "second": 3,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Eamphggrg_A/output_frames/sec_3_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Next, the red monster opens its mouth, and a purple monster jumps out. The yellow monster falls forward onto the ground, covering the purple monster, and slowly shrinks."
+    },
+    {
+        "second": 4,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Eamphggrg_A/output_frames/sec_4_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Next, the red monster opens its mouth, and a purple monster jumps out. The yellow monster falls forward onto the ground, covering the purple monster, and slowly shrinks."
+    },
+    {
+        "second": 5,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Eamphggrg_A/output_frames/sec_5_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[4-10] Subsequently, the green monster slowly falls, covering the yellow monster, and also shrinks gradually, burrowing into the ground. They morph into a yellow-green checkerboard pattern. From where the green monster fell, a yellow monster and a green monster emerge. The yellow and green monsters stack themselves together again, returning to their initial state."
+    },
+    {
+        "second": 6,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Eamphggrg_A/output_frames/sec_6_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[4-10] Subsequently, the green monster slowly falls, covering the yellow monster, and also shrinks gradually, burrowing into the ground. They morph into a yellow-green checkerboard pattern. From where the green monster fell, a yellow monster and a green monster emerge. The yellow and green monsters stack themselves together again, returning to their initial state."
+    },
+    {
+        "second": 7,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Eamphggrg_A/output_frames/sec_7_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[4-10] Subsequently, the green monster slowly falls, covering the yellow monster, and also shrinks gradually, burrowing into the ground. They morph into a yellow-green checkerboard pattern. From where the green monster fell, a yellow monster and a green monster emerge. The yellow and green monsters stack themselves together again, returning to their initial state."
+    },
+    {
+        "second": 8,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Eamphggrg_A/output_frames/sec_8_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[4-10] Subsequently, the green monster slowly falls, covering the yellow monster, and also shrinks gradually, burrowing into the ground. They morph into a yellow-green checkerboard pattern. From where the green monster fell, a yellow monster and a green monster emerge. The yellow and green monsters stack themselves together again, returning to their initial state."
+    },
+    {
+        "second": 9,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Eamphggrg_A/output_frames/sec_9_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[4-10] Subsequently, the green monster slowly falls, covering the yellow monster, and also shrinks gradually, burrowing into the ground. They morph into a yellow-green checkerboard pattern. From where the green monster fell, a yellow monster and a green monster emerge. The yellow and green monsters stack themselves together again, returning to their initial state."
+    },
+    {
+        "second": 10,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Eamphggrg_A/output_frames/sec_10_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[4-10] Subsequently, the green monster slowly falls, covering the yellow monster, and also shrinks gradually, burrowing into the ground. They morph into a yellow-green checkerboard pattern. From where the green monster fell, a yellow monster and a green monster emerge. The yellow and green monsters stack themselves together again, returning to their initial state."
+    }
+]

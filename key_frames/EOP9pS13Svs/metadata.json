@@ -1,0 +1,44 @@
+[
+    {
+        "second": 0,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EOP9pS13Svs/output_frames/sec_0_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A small golden ball rests in the center of a white cylinder, with a golden semi-circular track connecting to the center of the cylinder below. The background wall is yellow."
+    },
+    {
+        "second": 1,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EOP9pS13Svs/output_frames/sec_1_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Next, the ball rolls along the golden track, and when it reaches the edge, it rolls upward and leaves the track. When the ball reaches its highest point, it starts to descend, landing on top of the cylinder. It then slides down from the center of the cylinder, repeating its previous trajectory, rolling along the track, leaving the track upward, descending, and then falling back to the center of the cylinder again."
+    },
+    {
+        "second": 2,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EOP9pS13Svs/output_frames/sec_2_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Next, the ball rolls along the golden track, and when it reaches the edge, it rolls upward and leaves the track. When the ball reaches its highest point, it starts to descend, landing on top of the cylinder. It then slides down from the center of the cylinder, repeating its previous trajectory, rolling along the track, leaving the track upward, descending, and then falling back to the center of the cylinder again."
+    },
+    {
+        "second": 3,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EOP9pS13Svs/output_frames/sec_3_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Next, the ball rolls along the golden track, and when it reaches the edge, it rolls upward and leaves the track. When the ball reaches its highest point, it starts to descend, landing on top of the cylinder. It then slides down from the center of the cylinder, repeating its previous trajectory, rolling along the track, leaving the track upward, descending, and then falling back to the center of the cylinder again."
+    },
+    {
+        "second": 4,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EOP9pS13Svs/output_frames/sec_4_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Next, the ball rolls along the golden track, and when it reaches the edge, it rolls upward and leaves the track. When the ball reaches its highest point, it starts to descend, landing on top of the cylinder. It then slides down from the center of the cylinder, repeating its previous trajectory, rolling along the track, leaving the track upward, descending, and then falling back to the center of the cylinder again."
+    },
+    {
+        "second": 5,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EOP9pS13Svs/output_frames/sec_5_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Next, the ball rolls along the golden track, and when it reaches the edge, it rolls upward and leaves the track. When the ball reaches its highest point, it starts to descend, landing on top of the cylinder. It then slides down from the center of the cylinder, repeating its previous trajectory, rolling along the track, leaving the track upward, descending, and then falling back to the center of the cylinder again."
+    }
+]

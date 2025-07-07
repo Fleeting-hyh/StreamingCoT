@@ -1,0 +1,72 @@
+[
+    {
+        "second": 0,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LNDkaGYM0Jg/output_frames/sec_0_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A transparent plastic cup floats in the air, below is a light brown wooden floor with patterns."
+    },
+    {
+        "second": 1,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LNDkaGYM0Jg/output_frames/sec_1_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Then the cup falls to the ground, and the green peas in the cup scatter across the floor."
+    },
+    {
+        "second": 2,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LNDkaGYM0Jg/output_frames/sec_2_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Then the cup falls to the ground, and the green peas in the cup scatter across the floor."
+    },
+    {
+        "second": 3,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LNDkaGYM0Jg/output_frames/sec_3_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[2-6] Subsequently, the shot cuts to a duck with a blue bib around its neck standing on the floor. A hand reaches out from the left side and presses the duck's beak. The shot cuts again, and the duck runs quickly on the floor, eating the green peas on the ground."
+    },
+    {
+        "second": 4,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LNDkaGYM0Jg/output_frames/sec_4_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[2-6] Subsequently, the shot cuts to a duck with a blue bib around its neck standing on the floor. A hand reaches out from the left side and presses the duck's beak. The shot cuts again, and the duck runs quickly on the floor, eating the green peas on the ground."
+    },
+    {
+        "second": 5,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LNDkaGYM0Jg/output_frames/sec_5_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[2-6] Subsequently, the shot cuts to a duck with a blue bib around its neck standing on the floor. A hand reaches out from the left side and presses the duck's beak. The shot cuts again, and the duck runs quickly on the floor, eating the green peas on the ground."
+    },
+    {
+        "second": 6,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LNDkaGYM0Jg/output_frames/sec_6_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[2-6] Subsequently, the shot cuts to a duck with a blue bib around its neck standing on the floor. A hand reaches out from the left side and presses the duck's beak. The shot cuts again, and the duck runs quickly on the floor, eating the green peas on the ground."
+    },
+    {
+        "second": 7,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LNDkaGYM0Jg/output_frames/sec_7_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[6-9] Finally, the shot cuts again, and the duck is standing on the floor. A hand reaches out from the left and presses the duck's beak, causing the duck to shrink back and shake its head."
+    },
+    {
+        "second": 8,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LNDkaGYM0Jg/output_frames/sec_8_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[6-9] Finally, the shot cuts again, and the duck is standing on the floor. A hand reaches out from the left and presses the duck's beak, causing the duck to shrink back and shake its head."
+    },
+    {
+        "second": 9,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LNDkaGYM0Jg/output_frames/sec_9_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[6-9] Finally, the shot cuts again, and the duck is standing on the floor. A hand reaches out from the left and presses the duck's beak, causing the duck to shrink back and shake its head."
+    }
+]

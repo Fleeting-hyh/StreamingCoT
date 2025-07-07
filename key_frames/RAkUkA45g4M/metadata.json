@@ -1,0 +1,107 @@
+[
+    {
+        "second": 0,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RAkUkA45g4M/output_frames/sec_0_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[0-0] On a red table, there is a pair of scissors placed on a thorny stem, and a photo with a spider on it."
+    },
+    {
+        "second": 1,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RAkUkA45g4M/output_frames/sec_1_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[0-2] The scissors cut off all the thorns from the thorny stem."
+    },
+    {
+        "second": 2,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RAkUkA45g4M/output_frames/sec_2_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[0-2] The scissors cut off all the thorns from the thorny stem."
+    },
+    {
+        "second": 3,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RAkUkA45g4M/output_frames/sec_3_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[2-5] Then, a right hand with a few thorns in the center of the palm, a left hand takes a plastic cup from the left side and pours all the thorns into the cup. Next, the right hand holds some white granules and puts them all into the plastic cup."
+    },
+    {
+        "second": 4,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RAkUkA45g4M/output_frames/sec_4_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[2-5] Then, a right hand with a few thorns in the center of the palm, a left hand takes a plastic cup from the left side and pours all the thorns into the cup. Next, the right hand holds some white granules and puts them all into the plastic cup."
+    },
+    {
+        "second": 5,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RAkUkA45g4M/output_frames/sec_5_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[2-5] Then, a right hand with a few thorns in the center of the palm, a left hand takes a plastic cup from the left side and pours all the thorns into the cup. Next, the right hand holds some white granules and puts them all into the plastic cup."
+    },
+    {
+        "second": 6,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RAkUkA45g4M/output_frames/sec_6_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[5-10] Subsequently, the right hand places two brown insects into the plastic cup. Then, using blue and white droppers, add water to the container with the insects, and the left hand takes the plastic lid and covers the plastic cup."
+    },
+    {
+        "second": 7,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RAkUkA45g4M/output_frames/sec_7_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[5-10] Subsequently, the right hand places two brown insects into the plastic cup. Then, using blue and white droppers, add water to the container with the insects, and the left hand takes the plastic lid and covers the plastic cup."
+    },
+    {
+        "second": 8,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RAkUkA45g4M/output_frames/sec_8_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[5-10] Subsequently, the right hand places two brown insects into the plastic cup. Then, using blue and white droppers, add water to the container with the insects, and the left hand takes the plastic lid and covers the plastic cup."
+    },
+    {
+        "second": 9,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RAkUkA45g4M/output_frames/sec_9_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[5-10] Subsequently, the right hand places two brown insects into the plastic cup. Then, using blue and white droppers, add water to the container with the insects, and the left hand takes the plastic lid and covers the plastic cup."
+    },
+    {
+        "second": 10,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RAkUkA45g4M/output_frames/sec_10_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[5-10] Subsequently, the right hand places two brown insects into the plastic cup. Then, using blue and white droppers, add water to the container with the insects, and the left hand takes the plastic lid and covers the plastic cup."
+    },
+    {
+        "second": 11,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RAkUkA45g4M/output_frames/sec_11_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[10-15] Afterwards, the container is moved to a shelf with a wooden back, and a pair of hands opens the plastic cup. The shot changes to inside the plastic cup, where two brown insects with long legs and spikes appear."
+    },
+    {
+        "second": 12,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RAkUkA45g4M/output_frames/sec_12_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[10-15] Afterwards, the container is moved to a shelf with a wooden back, and a pair of hands opens the plastic cup. The shot changes to inside the plastic cup, where two brown insects with long legs and spikes appear."
+    },
+    {
+        "second": 13,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RAkUkA45g4M/output_frames/sec_13_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[10-15] Afterwards, the container is moved to a shelf with a wooden back, and a pair of hands opens the plastic cup. The shot changes to inside the plastic cup, where two brown insects with long legs and spikes appear."
+    },
+    {
+        "second": 14,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RAkUkA45g4M/output_frames/sec_14_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[10-15] Afterwards, the container is moved to a shelf with a wooden back, and a pair of hands opens the plastic cup. The shot changes to inside the plastic cup, where two brown insects with long legs and spikes appear."
+    }
+]

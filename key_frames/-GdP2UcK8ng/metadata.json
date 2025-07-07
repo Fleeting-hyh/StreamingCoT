@@ -1,0 +1,72 @@
+[
+    {
+        "second": 0,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-GdP2UcK8ng/output_frames/sec_0_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A man in a yellow T-shirt and gray shorts is standing on a concrete floor with his right leg bent forward and his right foot on tiptoe. A little girl in a blue floral dress is sitting on his leg. The man is looking forward with his mouth open and his eyes wide open, his arms raised with his fists clenched. The little girl is resting her head on the man's shoulder, her hands tightly around his waist, with an unhappy expression on her face. The background is a patch of green plants and trees."
+    },
+    {
+        "second": 1,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-GdP2UcK8ng/output_frames/sec_1_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Then the man lifts his right leg and drops it, raises his hands with clenched fists, frowns and lowers the corners of his mouth. Then the scene switches to a room, where a black and white cat is standing on a brown floor, its front paws bent upwards, while its left hind leg is lifted and dropped, squatting slightly to imitate the man's movements, with a serious expression on its face. Behind the cat is a white wall with black decorations, and a red rug is spread on the floor."
+    },
+    {
+        "second": 2,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-GdP2UcK8ng/output_frames/sec_2_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Then the man lifts his right leg and drops it, raises his hands with clenched fists, frowns and lowers the corners of his mouth. Then the scene switches to a room, where a black and white cat is standing on a brown floor, its front paws bent upwards, while its left hind leg is lifted and dropped, squatting slightly to imitate the man's movements, with a serious expression on its face. Behind the cat is a white wall with black decorations, and a red rug is spread on the floor."
+    },
+    {
+        "second": 3,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-GdP2UcK8ng/output_frames/sec_3_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Then the man lifts his right leg and drops it, raises his hands with clenched fists, frowns and lowers the corners of his mouth. Then the scene switches to a room, where a black and white cat is standing on a brown floor, its front paws bent upwards, while its left hind leg is lifted and dropped, squatting slightly to imitate the man's movements, with a serious expression on its face. Behind the cat is a white wall with black decorations, and a red rug is spread on the floor."
+    },
+    {
+        "second": 4,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-GdP2UcK8ng/output_frames/sec_4_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[3-5] Then the picture cuts back to the man and the little girl. The man leans back slightly with a surprised look on his face and his mouth wide open. The little girl is sitting on the man's leg, still unhappy. Then the picture cuts back to the cat again, who starts to swing its front paws quickly and dance."
+    },
+    {
+        "second": 5,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-GdP2UcK8ng/output_frames/sec_5_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[3-5] Then the picture cuts back to the man and the little girl. The man leans back slightly with a surprised look on his face and his mouth wide open. The little girl is sitting on the man's leg, still unhappy. Then the picture cuts back to the cat again, who starts to swing its front paws quickly and dance."
+    },
+    {
+        "second": 6,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-GdP2UcK8ng/output_frames/sec_6_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[5-9] The picture then switches back to the man and the little girl, his arms raised to his sides and waving quickly, his body swaying, the little girl looking up at the man happily."
+    },
+    {
+        "second": 7,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-GdP2UcK8ng/output_frames/sec_7_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[5-9] The picture then switches back to the man and the little girl, his arms raised to his sides and waving quickly, his body swaying, the little girl looking up at the man happily."
+    },
+    {
+        "second": 8,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-GdP2UcK8ng/output_frames/sec_8_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[5-9] The picture then switches back to the man and the little girl, his arms raised to his sides and waving quickly, his body swaying, the little girl looking up at the man happily."
+    },
+    {
+        "second": 9,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-GdP2UcK8ng/output_frames/sec_9_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[5-9] The picture then switches back to the man and the little girl, his arms raised to his sides and waving quickly, his body swaying, the little girl looking up at the man happily."
+    }
+]

@@ -1,0 +1,93 @@
+[
+    {
+        "second": 0,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SBA-lqC58D8/output_frames/sec_0_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[0-0] The video starts with a beige wall that has a metal hook on it."
+    },
+    {
+        "second": 1,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SBA-lqC58D8/output_frames/sec_1_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-6] An electric drill appears at the top of the frame and starts drilling a hole in the wall, some dust falls from the hole. The drill leaves the frame after drilling a complete hole in the wall. Then a hand holding a metal expansion bolt with a hook appears in the frame. This hand then inserts the expansion bolt into the hole in the wall, and the expansion bolt then expands on the other side of the wall."
+    },
+    {
+        "second": 2,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SBA-lqC58D8/output_frames/sec_2_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[0-6] An electric drill appears at the top of the frame and starts drilling a hole in the wall, some dust falls from the hole. The drill leaves the frame after drilling a complete hole in the wall. Then a hand holding a metal expansion bolt with a hook appears in the frame. This hand then inserts the expansion bolt into the hole in the wall, and the expansion bolt then expands on the other side of the wall."
+    },
+    {
+        "second": 3,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SBA-lqC58D8/output_frames/sec_3_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[0-6] An electric drill appears at the top of the frame and starts drilling a hole in the wall, some dust falls from the hole. The drill leaves the frame after drilling a complete hole in the wall. Then a hand holding a metal expansion bolt with a hook appears in the frame. This hand then inserts the expansion bolt into the hole in the wall, and the expansion bolt then expands on the other side of the wall."
+    },
+    {
+        "second": 4,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SBA-lqC58D8/output_frames/sec_4_idx_24.jpg",
+        "fps": 30,
+        "explanation": "[0-6] An electric drill appears at the top of the frame and starts drilling a hole in the wall, some dust falls from the hole. The drill leaves the frame after drilling a complete hole in the wall. Then a hand holding a metal expansion bolt with a hook appears in the frame. This hand then inserts the expansion bolt into the hole in the wall, and the expansion bolt then expands on the other side of the wall."
+    },
+    {
+        "second": 5,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SBA-lqC58D8/output_frames/sec_5_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[0-6] An electric drill appears at the top of the frame and starts drilling a hole in the wall, some dust falls from the hole. The drill leaves the frame after drilling a complete hole in the wall. Then a hand holding a metal expansion bolt with a hook appears in the frame. This hand then inserts the expansion bolt into the hole in the wall, and the expansion bolt then expands on the other side of the wall."
+    },
+    {
+        "second": 6,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SBA-lqC58D8/output_frames/sec_6_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-6] An electric drill appears at the top of the frame and starts drilling a hole in the wall, some dust falls from the hole. The drill leaves the frame after drilling a complete hole in the wall. Then a hand holding a metal expansion bolt with a hook appears in the frame. This hand then inserts the expansion bolt into the hole in the wall, and the expansion bolt then expands on the other side of the wall."
+    },
+    {
+        "second": 7,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SBA-lqC58D8/output_frames/sec_7_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[6-15] The shot changes to a side view, and the hand continues to screw the metal hook, screwing the bolt into the wall."
+    },
+    {
+        "second": 8,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SBA-lqC58D8/output_frames/sec_8_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[6-15] The shot changes to a side view, and the hand continues to screw the metal hook, screwing the bolt into the wall."
+    },
+    {
+        "second": 9,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SBA-lqC58D8/output_frames/sec_9_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[6-15] The shot changes to a side view, and the hand continues to screw the metal hook, screwing the bolt into the wall."
+    },
+    {
+        "second": 10,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SBA-lqC58D8/output_frames/sec_10_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[6-15] The shot changes to a side view, and the hand continues to screw the metal hook, screwing the bolt into the wall."
+    },
+    {
+        "second": 11,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SBA-lqC58D8/output_frames/sec_11_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[6-15] The shot changes to a side view, and the hand continues to screw the metal hook, screwing the bolt into the wall."
+    },
+    {
+        "second": 12,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SBA-lqC58D8/output_frames/sec_12_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[6-15] The shot changes to a side view, and the hand continues to screw the metal hook, screwing the bolt into the wall."
+    }
+]

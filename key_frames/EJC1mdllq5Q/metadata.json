@@ -1,0 +1,37 @@
+[
+    {
+        "second": 0,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EJC1mdllq5Q/output_frames/sec_0_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A metal latch installed on a wooden door. The latch has a complex design with springs and a bolt. There is a green circle mark in the upper right corner of the screen."
+    },
+    {
+        "second": 1,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EJC1mdllq5Q/output_frames/sec_1_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Then the door comes in from the left side of the screen and starts to close. The bolt of the latch contacts the door frame and starts to slide into the groove of the door frame."
+    },
+    {
+        "second": 2,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EJC1mdllq5Q/output_frames/sec_2_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Then the door comes in from the left side of the screen and starts to close. The bolt of the latch contacts the door frame and starts to slide into the groove of the door frame."
+    },
+    {
+        "second": 3,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EJC1mdllq5Q/output_frames/sec_3_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[2-4] Subsequently, the door continues to close, the bolt of the latch slides completely into the groove of the door frame, and the door is locked."
+    },
+    {
+        "second": 4,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EJC1mdllq5Q/output_frames/sec_4_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[2-4] Subsequently, the door continues to close, the bolt of the latch slides completely into the groove of the door frame, and the door is locked."
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "second": 0,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JTlYTzHs_U8/output_frames/sec_0_idx_14.jpg",
+        "fps": 25,
+        "explanation": "[0-0] A man with a beard, wearing a blue headscarf and a brown vest, is sleeping leaning against a wall. Beside him lies a bundle of colorful long and round balloons. A boy in blue pants and a brown jacket walks towards him."
+    },
+    {
+        "second": 1,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JTlYTzHs_U8/output_frames/sec_1_idx_0.jpg",
+        "fps": 25,
+        "explanation": "[0-2] Then the boy approaches the man and reaches out his right hand to touch a red round balloon, which immediately explodes."
+    },
+    {
+        "second": 2,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JTlYTzHs_U8/output_frames/sec_2_idx_24.jpg",
+        "fps": 25,
+        "explanation": "[0-2] Then the boy approaches the man and reaches out his right hand to touch a red round balloon, which immediately explodes."
+    },
+    {
+        "second": 3,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JTlYTzHs_U8/output_frames/sec_3_idx_9.jpg",
+        "fps": 25,
+        "explanation": "[2-6] The man is startled, falls to the ground, and accidentally swats a green round balloon with his left hand, sending it flying. The other balloons scatter around him. The boy is also frightened and backs up a few steps. The man sits on the ground, clutching his chest with both hands, mouth agape, and looks at the scattered balloons in confusion."
+    },
+    {
+        "second": 4,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JTlYTzHs_U8/output_frames/sec_4_idx_5.jpg",
+        "fps": 25,
+        "explanation": "[2-6] The man is startled, falls to the ground, and accidentally swats a green round balloon with his left hand, sending it flying. The other balloons scatter around him. The boy is also frightened and backs up a few steps. The man sits on the ground, clutching his chest with both hands, mouth agape, and looks at the scattered balloons in confusion."
+    },
+    {
+        "second": 5,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JTlYTzHs_U8/output_frames/sec_5_idx_3.jpg",
+        "fps": 25,
+        "explanation": "[2-6] The man is startled, falls to the ground, and accidentally swats a green round balloon with his left hand, sending it flying. The other balloons scatter around him. The boy is also frightened and backs up a few steps. The man sits on the ground, clutching his chest with both hands, mouth agape, and looks at the scattered balloons in confusion."
+    },
+    {
+        "second": 6,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JTlYTzHs_U8/output_frames/sec_6_idx_3.jpg",
+        "fps": 25,
+        "explanation": "[2-6] The man is startled, falls to the ground, and accidentally swats a green round balloon with his left hand, sending it flying. The other balloons scatter around him. The boy is also frightened and backs up a few steps. The man sits on the ground, clutching his chest with both hands, mouth agape, and looks at the scattered balloons in confusion."
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "second": 0,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/M7NeOfq9Cug/output_frames/sec_0_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[0-0] In a room with checkered flooring, Mario, Luigi, and Princess Peach are standing by a small blue table. Princess Peach is wearing a golden crown. Mario is on the left, Luigi is on the right, and there's a blue cake with candles on the table. They are all raising their hands, with a brown brick wall behind them."
+    },
+    {
+        "second": 1,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/M7NeOfq9Cug/output_frames/sec_1_idx_18.jpg",
+        "fps": 60,
+        "explanation": "[0-2] Then, Mario, Luigi, and Princess Peach sway from side to side. Suddenly, another Mario falls from above onto the table, and the three of them watch in surprise."
+    },
+    {
+        "second": 2,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/M7NeOfq9Cug/output_frames/sec_2_idx_17.jpg",
+        "fps": 60,
+        "explanation": "[0-2] Then, Mario, Luigi, and Princess Peach sway from side to side. Suddenly, another Mario falls from above onto the table, and the three of them watch in surprise."
+    },
+    {
+        "second": 3,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/M7NeOfq9Cug/output_frames/sec_3_idx_2.jpg",
+        "fps": 60,
+        "explanation": "[2-4] Finally, the other Mario lies on the table, with Mario, Luigi, and Princess Peach staring at it with wide eyes, their bodies ceasing to sway."
+    },
+    {
+        "second": 4,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/M7NeOfq9Cug/output_frames/sec_4_idx_4.jpg",
+        "fps": 60,
+        "explanation": "[2-4] Finally, the other Mario lies on the table, with Mario, Luigi, and Princess Peach staring at it with wide eyes, their bodies ceasing to sway."
+    }
+]

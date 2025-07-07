@@ -1,0 +1,65 @@
+[
+    {
+        "second": 0,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Pqc4_4uc2Lo/output_frames/sec_0_idx_1.jpg",
+        "fps": 25,
+        "explanation": "[0-0] A curious black bear appears in the frame, walking towards a porch with a yellow warning sign hanging on the railing. There is some grass behind the porch. The text \"Curious bear ZAPPED by electric mat\" appears on the screen."
+    },
+    {
+        "second": 1,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Pqc4_4uc2Lo/output_frames/sec_1_idx_13.jpg",
+        "fps": 25,
+        "explanation": "[0-8] The black bear continues walking towards the porch, attracted by the warning sign. It touches the sign with its nose, continues to climb onto the porch, and then gets frightened and quickly climbs down."
+    },
+    {
+        "second": 2,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Pqc4_4uc2Lo/output_frames/sec_2_idx_1.jpg",
+        "fps": 25,
+        "explanation": "[0-8] The black bear continues walking towards the porch, attracted by the warning sign. It touches the sign with its nose, continues to climb onto the porch, and then gets frightened and quickly climbs down."
+    },
+    {
+        "second": 3,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Pqc4_4uc2Lo/output_frames/sec_3_idx_7.jpg",
+        "fps": 25,
+        "explanation": "[0-8] The black bear continues walking towards the porch, attracted by the warning sign. It touches the sign with its nose, continues to climb onto the porch, and then gets frightened and quickly climbs down."
+    },
+    {
+        "second": 4,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Pqc4_4uc2Lo/output_frames/sec_4_idx_10.jpg",
+        "fps": 25,
+        "explanation": "[0-8] The black bear continues walking towards the porch, attracted by the warning sign. It touches the sign with its nose, continues to climb onto the porch, and then gets frightened and quickly climbs down."
+    },
+    {
+        "second": 5,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Pqc4_4uc2Lo/output_frames/sec_5_idx_9.jpg",
+        "fps": 25,
+        "explanation": "[0-8] The black bear continues walking towards the porch, attracted by the warning sign. It touches the sign with its nose, continues to climb onto the porch, and then gets frightened and quickly climbs down."
+    },
+    {
+        "second": 6,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Pqc4_4uc2Lo/output_frames/sec_6_idx_9.jpg",
+        "fps": 25,
+        "explanation": "[0-8] The black bear continues walking towards the porch, attracted by the warning sign. It touches the sign with its nose, continues to climb onto the porch, and then gets frightened and quickly climbs down."
+    },
+    {
+        "second": 7,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Pqc4_4uc2Lo/output_frames/sec_7_idx_21.jpg",
+        "fps": 25,
+        "explanation": "[0-8] The black bear continues walking towards the porch, attracted by the warning sign. It touches the sign with its nose, continues to climb onto the porch, and then gets frightened and quickly climbs down."
+    },
+    {
+        "second": 8,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Pqc4_4uc2Lo/output_frames/sec_8_idx_13.jpg",
+        "fps": 25,
+        "explanation": "[0-8] The black bear continues walking towards the porch, attracted by the warning sign. It touches the sign with its nose, continues to climb onto the porch, and then gets frightened and quickly climbs down."
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "second": 0,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/H-x2OrACRD0/output_frames/sec_0_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A hand holds a black cable with one end stripped, exposing the copper wires inside, against a gray brick wall background."
+    },
+    {
+        "second": 1,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/H-x2OrACRD0/output_frames/sec_1_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The camera then zooms in, showing a left hand holding a black cable and a right hand holding a metal ring terminal, attempting to crimp it onto the copper wires of the cable. After several attempts, the copper wires fail to be fully inserted into the terminal, and a red error symbol appears at the top of the screen."
+    },
+    {
+        "second": 2,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/H-x2OrACRD0/output_frames/sec_2_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The camera then zooms in, showing a left hand holding a black cable and a right hand holding a metal ring terminal, attempting to crimp it onto the copper wires of the cable. After several attempts, the copper wires fail to be fully inserted into the terminal, and a red error symbol appears at the top of the screen."
+    },
+    {
+        "second": 3,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/H-x2OrACRD0/output_frames/sec_3_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The camera then zooms in, showing a left hand holding a black cable and a right hand holding a metal ring terminal, attempting to crimp it onto the copper wires of the cable. After several attempts, the copper wires fail to be fully inserted into the terminal, and a red error symbol appears at the top of the screen."
+    },
+    {
+        "second": 4,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/H-x2OrACRD0/output_frames/sec_4_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The camera then zooms in, showing a left hand holding a black cable and a right hand holding a metal ring terminal, attempting to crimp it onto the copper wires of the cable. After several attempts, the copper wires fail to be fully inserted into the terminal, and a red error symbol appears at the top of the screen."
+    },
+    {
+        "second": 5,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/H-x2OrACRD0/output_frames/sec_5_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[4-6] The scene then cuts to a toolbox, with a hand taking out a green ferrule."
+    },
+    {
+        "second": 6,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/H-x2OrACRD0/output_frames/sec_6_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[4-6] The scene then cuts to a toolbox, with a hand taking out a green ferrule."
+    },
+    {
+        "second": 7,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/H-x2OrACRD0/output_frames/sec_7_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[6-10] The scene returns to the cable, with a left hand pinching a black cable and a right hand putting the green ferrule onto the copper wires of the cable. Then, the right hand picks up the metal ring terminal and attempts again to crimp it onto the cable's copper wires. This time, the metal ring terminal is successfully crimped onto the cable, and a green check mark appears at the top of the screen."
+    },
+    {
+        "second": 8,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/H-x2OrACRD0/output_frames/sec_8_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[6-10] The scene returns to the cable, with a left hand pinching a black cable and a right hand putting the green ferrule onto the copper wires of the cable. Then, the right hand picks up the metal ring terminal and attempts again to crimp it onto the cable's copper wires. This time, the metal ring terminal is successfully crimped onto the cable, and a green check mark appears at the top of the screen."
+    },
+    {
+        "second": 9,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/H-x2OrACRD0/output_frames/sec_9_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[6-10] The scene returns to the cable, with a left hand pinching a black cable and a right hand putting the green ferrule onto the copper wires of the cable. Then, the right hand picks up the metal ring terminal and attempts again to crimp it onto the cable's copper wires. This time, the metal ring terminal is successfully crimped onto the cable, and a green check mark appears at the top of the screen."
+    },
+    {
+        "second": 10,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/H-x2OrACRD0/output_frames/sec_10_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[6-10] The scene returns to the cable, with a left hand pinching a black cable and a right hand putting the green ferrule onto the copper wires of the cable. Then, the right hand picks up the metal ring terminal and attempts again to crimp it onto the cable's copper wires. This time, the metal ring terminal is successfully crimped onto the cable, and a green check mark appears at the top of the screen."
+    }
+]

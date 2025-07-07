@@ -1,0 +1,177 @@
+[
+    {
+        "second": 0,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1KHNha0Wblo/output_frames/sec_0_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A man in a white shirt is sitting at the dining table, holding a cut watermelon placed on the table. The watermelon is in a red basin. On the table, there is also a white empty plate and a white plate with five sausages. Behind the empty plate, there is a metal object. A woman in a black shirt is standing at the green kitchen counter with her back to the camera. There is a large TV on the wall and several switches."
+    },
+    {
+        "second": 1,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1KHNha0Wblo/output_frames/sec_1_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[0-2] The man lifts the top half of the watermelon and places it on the empty plate while glancing at the woman. The bottom half of the watermelon is half empty, revealing the red flesh inside."
+    },
+    {
+        "second": 2,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1KHNha0Wblo/output_frames/sec_2_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[0-2] The man lifts the top half of the watermelon and places it on the empty plate while glancing at the woman. The bottom half of the watermelon is half empty, revealing the red flesh inside."
+    },
+    {
+        "second": 3,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1KHNha0Wblo/output_frames/sec_3_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[2-7] The man then takes a bottle of dark liquid from under the table. He opens the cap and starts pouring the dark liquid into the watermelon while still glancing at the woman. After pouring, he closes the cap and puts the bottle back under the table."
+    },
+    {
+        "second": 4,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1KHNha0Wblo/output_frames/sec_4_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[2-7] The man then takes a bottle of dark liquid from under the table. He opens the cap and starts pouring the dark liquid into the watermelon while still glancing at the woman. After pouring, he closes the cap and puts the bottle back under the table."
+    },
+    {
+        "second": 5,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1KHNha0Wblo/output_frames/sec_5_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[2-7] The man then takes a bottle of dark liquid from under the table. He opens the cap and starts pouring the dark liquid into the watermelon while still glancing at the woman. After pouring, he closes the cap and puts the bottle back under the table."
+    },
+    {
+        "second": 6,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1KHNha0Wblo/output_frames/sec_6_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[2-7] The man then takes a bottle of dark liquid from under the table. He opens the cap and starts pouring the dark liquid into the watermelon while still glancing at the woman. After pouring, he closes the cap and puts the bottle back under the table."
+    },
+    {
+        "second": 7,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1KHNha0Wblo/output_frames/sec_7_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[2-7] The man then takes a bottle of dark liquid from under the table. He opens the cap and starts pouring the dark liquid into the watermelon while still glancing at the woman. After pouring, he closes the cap and puts the bottle back under the table."
+    },
+    {
+        "second": 8,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1KHNha0Wblo/output_frames/sec_8_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[7-10] The man then places the top half of the watermelon back in its original position."
+    },
+    {
+        "second": 9,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1KHNha0Wblo/output_frames/sec_9_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[7-10] The man then places the top half of the watermelon back in its original position."
+    },
+    {
+        "second": 10,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1KHNha0Wblo/output_frames/sec_10_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[7-10] The man then places the top half of the watermelon back in its original position."
+    },
+    {
+        "second": 11,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1KHNha0Wblo/output_frames/sec_11_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[10-14] The woman turns around and walks to the man, looking at him. The man picks up a spoon and scoops a piece of watermelon."
+    },
+    {
+        "second": 12,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1KHNha0Wblo/output_frames/sec_12_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[10-14] The woman turns around and walks to the man, looking at him. The man picks up a spoon and scoops a piece of watermelon."
+    },
+    {
+        "second": 13,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1KHNha0Wblo/output_frames/sec_13_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[10-14] The woman turns around and walks to the man, looking at him. The man picks up a spoon and scoops a piece of watermelon."
+    },
+    {
+        "second": 14,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1KHNha0Wblo/output_frames/sec_14_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[10-14] The woman turns around and walks to the man, looking at him. The man picks up a spoon and scoops a piece of watermelon."
+    },
+    {
+        "second": 15,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1KHNha0Wblo/output_frames/sec_15_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[14-19] The man feeds the watermelon to the woman with the spoon. The woman eats it, nudges the man with her arm, and then turns back to the counter. The man is smiling."
+    },
+    {
+        "second": 16,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1KHNha0Wblo/output_frames/sec_16_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[14-19] The man feeds the watermelon to the woman with the spoon. The woman eats it, nudges the man with her arm, and then turns back to the counter. The man is smiling."
+    },
+    {
+        "second": 17,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1KHNha0Wblo/output_frames/sec_17_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[14-19] The man feeds the watermelon to the woman with the spoon. The woman eats it, nudges the man with her arm, and then turns back to the counter. The man is smiling."
+    },
+    {
+        "second": 18,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1KHNha0Wblo/output_frames/sec_18_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[14-19] The man feeds the watermelon to the woman with the spoon. The woman eats it, nudges the man with her arm, and then turns back to the counter. The man is smiling."
+    },
+    {
+        "second": 19,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1KHNha0Wblo/output_frames/sec_19_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[14-19] The man feeds the watermelon to the woman with the spoon. The woman eats it, nudges the man with her arm, and then turns back to the counter. The man is smiling."
+    },
+    {
+        "second": 20,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1KHNha0Wblo/output_frames/sec_20_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[19-22] The man then takes out a straw and inserts it into the watermelon. He starts drinking the liquid inside the watermelon with the straw."
+    },
+    {
+        "second": 21,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1KHNha0Wblo/output_frames/sec_21_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[19-22] The man then takes out a straw and inserts it into the watermelon. He starts drinking the liquid inside the watermelon with the straw."
+    },
+    {
+        "second": 22,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1KHNha0Wblo/output_frames/sec_22_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[19-22] The man then takes out a straw and inserts it into the watermelon. He starts drinking the liquid inside the watermelon with the straw."
+    },
+    {
+        "second": 23,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1KHNha0Wblo/output_frames/sec_23_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[22-24] Finally, the man looks satisfied. He picks up a sausage and puts it in his mouth."
+    },
+    {
+        "second": 24,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1KHNha0Wblo/output_frames/sec_24_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[22-24] Finally, the man looks satisfied. He picks up a sausage and puts it in his mouth."
+    }
+]

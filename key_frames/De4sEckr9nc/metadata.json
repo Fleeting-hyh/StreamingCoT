@@ -1,0 +1,44 @@
+[
+    {
+        "second": 0,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/De4sEckr9nc/output_frames/sec_0_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A woman in a blue top is standing in front of the camera with her hair in a high ponytail, her hands on her head, the ceiling in the background is white. There is a line of white English subtitles at the top of the screen."
+    },
+    {
+        "second": 1,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/De4sEckr9nc/output_frames/sec_1_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[0-5] The woman feels around on her head, suddenly showing a confused expression, then quickly scratches her head and opens her mouth to scream. The wall behind her is white, with a white shelf on which some items are placed."
+    },
+    {
+        "second": 2,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/De4sEckr9nc/output_frames/sec_2_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-5] The woman feels around on her head, suddenly showing a confused expression, then quickly scratches her head and opens her mouth to scream. The wall behind her is white, with a white shelf on which some items are placed."
+    },
+    {
+        "second": 3,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/De4sEckr9nc/output_frames/sec_3_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[0-5] The woman feels around on her head, suddenly showing a confused expression, then quickly scratches her head and opens her mouth to scream. The wall behind her is white, with a white shelf on which some items are placed."
+    },
+    {
+        "second": 4,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/De4sEckr9nc/output_frames/sec_4_idx_24.jpg",
+        "fps": 30,
+        "explanation": "[0-5] The woman feels around on her head, suddenly showing a confused expression, then quickly scratches her head and opens her mouth to scream. The wall behind her is white, with a white shelf on which some items are placed."
+    },
+    {
+        "second": 5,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/De4sEckr9nc/output_frames/sec_5_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[0-5] The woman feels around on her head, suddenly showing a confused expression, then quickly scratches her head and opens her mouth to scream. The wall behind her is white, with a white shelf on which some items are placed."
+    }
+]

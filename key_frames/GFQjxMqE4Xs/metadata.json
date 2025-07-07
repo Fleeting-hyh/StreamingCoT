@@ -1,0 +1,156 @@
+[
+    {
+        "second": 0,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GFQjxMqE4Xs/output_frames/sec_0_idx_16.jpg",
+        "fps": 25,
+        "explanation": "[0-0] The video starts with a virtual scene. The upper half shows part of the Earth seen from space, while the lower half shows a tunnel with two guardrails. There are two holes on both sides of the tunnel, with a lit candle and some supplies in the hole on the right."
+    },
+    {
+        "second": 1,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GFQjxMqE4Xs/output_frames/sec_1_idx_21.jpg",
+        "fps": 25,
+        "explanation": "[0-9] A Minion runs into the frame from the left, followed by a man in a black shirt and pants chasing after it with a large fork. The Minion falls into the tunnel. The man in black tries to stick the fork into the tunnel but finds it too big to fit. He throws down the fork in frustration, claps his hands in anger, and leaves to the left. The guardrail below the tunnel bounces the Minion into the hole on the left and then rises to block the entrance."
+    },
+    {
+        "second": 2,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GFQjxMqE4Xs/output_frames/sec_2_idx_1.jpg",
+        "fps": 25,
+        "explanation": "[0-9] A Minion runs into the frame from the left, followed by a man in a black shirt and pants chasing after it with a large fork. The Minion falls into the tunnel. The man in black tries to stick the fork into the tunnel but finds it too big to fit. He throws down the fork in frustration, claps his hands in anger, and leaves to the left. The guardrail below the tunnel bounces the Minion into the hole on the left and then rises to block the entrance."
+    },
+    {
+        "second": 3,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GFQjxMqE4Xs/output_frames/sec_3_idx_20.jpg",
+        "fps": 25,
+        "explanation": "[0-9] A Minion runs into the frame from the left, followed by a man in a black shirt and pants chasing after it with a large fork. The Minion falls into the tunnel. The man in black tries to stick the fork into the tunnel but finds it too big to fit. He throws down the fork in frustration, claps his hands in anger, and leaves to the left. The guardrail below the tunnel bounces the Minion into the hole on the left and then rises to block the entrance."
+    },
+    {
+        "second": 4,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GFQjxMqE4Xs/output_frames/sec_4_idx_14.jpg",
+        "fps": 25,
+        "explanation": "[0-9] A Minion runs into the frame from the left, followed by a man in a black shirt and pants chasing after it with a large fork. The Minion falls into the tunnel. The man in black tries to stick the fork into the tunnel but finds it too big to fit. He throws down the fork in frustration, claps his hands in anger, and leaves to the left. The guardrail below the tunnel bounces the Minion into the hole on the left and then rises to block the entrance."
+    },
+    {
+        "second": 5,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GFQjxMqE4Xs/output_frames/sec_5_idx_14.jpg",
+        "fps": 25,
+        "explanation": "[0-9] A Minion runs into the frame from the left, followed by a man in a black shirt and pants chasing after it with a large fork. The Minion falls into the tunnel. The man in black tries to stick the fork into the tunnel but finds it too big to fit. He throws down the fork in frustration, claps his hands in anger, and leaves to the left. The guardrail below the tunnel bounces the Minion into the hole on the left and then rises to block the entrance."
+    },
+    {
+        "second": 6,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GFQjxMqE4Xs/output_frames/sec_6_idx_5.jpg",
+        "fps": 25,
+        "explanation": "[0-9] A Minion runs into the frame from the left, followed by a man in a black shirt and pants chasing after it with a large fork. The Minion falls into the tunnel. The man in black tries to stick the fork into the tunnel but finds it too big to fit. He throws down the fork in frustration, claps his hands in anger, and leaves to the left. The guardrail below the tunnel bounces the Minion into the hole on the left and then rises to block the entrance."
+    },
+    {
+        "second": 7,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GFQjxMqE4Xs/output_frames/sec_7_idx_12.jpg",
+        "fps": 25,
+        "explanation": "[0-9] A Minion runs into the frame from the left, followed by a man in a black shirt and pants chasing after it with a large fork. The Minion falls into the tunnel. The man in black tries to stick the fork into the tunnel but finds it too big to fit. He throws down the fork in frustration, claps his hands in anger, and leaves to the left. The guardrail below the tunnel bounces the Minion into the hole on the left and then rises to block the entrance."
+    },
+    {
+        "second": 8,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GFQjxMqE4Xs/output_frames/sec_8_idx_23.jpg",
+        "fps": 25,
+        "explanation": "[0-9] A Minion runs into the frame from the left, followed by a man in a black shirt and pants chasing after it with a large fork. The Minion falls into the tunnel. The man in black tries to stick the fork into the tunnel but finds it too big to fit. He throws down the fork in frustration, claps his hands in anger, and leaves to the left. The guardrail below the tunnel bounces the Minion into the hole on the left and then rises to block the entrance."
+    },
+    {
+        "second": 9,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GFQjxMqE4Xs/output_frames/sec_9_idx_12.jpg",
+        "fps": 25,
+        "explanation": "[0-9] A Minion runs into the frame from the left, followed by a man in a black shirt and pants chasing after it with a large fork. The Minion falls into the tunnel. The man in black tries to stick the fork into the tunnel but finds it too big to fit. He throws down the fork in frustration, claps his hands in anger, and leaves to the left. The guardrail below the tunnel bounces the Minion into the hole on the left and then rises to block the entrance."
+    },
+    {
+        "second": 10,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GFQjxMqE4Xs/output_frames/sec_10_idx_24.jpg",
+        "fps": 25,
+        "explanation": "[9-17] The man in black then takes a snake and throws it into the tunnel. The snake falls straight down. The Minion walks out of the hole on the left. After throwing the snake, the man shivers in fear and turns to leave. Meanwhile, a ladder appears in the tunnel."
+    },
+    {
+        "second": 11,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GFQjxMqE4Xs/output_frames/sec_11_idx_17.jpg",
+        "fps": 25,
+        "explanation": "[9-17] The man in black then takes a snake and throws it into the tunnel. The snake falls straight down. The Minion walks out of the hole on the left. After throwing the snake, the man shivers in fear and turns to leave. Meanwhile, a ladder appears in the tunnel."
+    },
+    {
+        "second": 12,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GFQjxMqE4Xs/output_frames/sec_12_idx_19.jpg",
+        "fps": 25,
+        "explanation": "[9-17] The man in black then takes a snake and throws it into the tunnel. The snake falls straight down. The Minion walks out of the hole on the left. After throwing the snake, the man shivers in fear and turns to leave. Meanwhile, a ladder appears in the tunnel."
+    },
+    {
+        "second": 13,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GFQjxMqE4Xs/output_frames/sec_13_idx_10.jpg",
+        "fps": 25,
+        "explanation": "[9-17] The man in black then takes a snake and throws it into the tunnel. The snake falls straight down. The Minion walks out of the hole on the left. After throwing the snake, the man shivers in fear and turns to leave. Meanwhile, a ladder appears in the tunnel."
+    },
+    {
+        "second": 14,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GFQjxMqE4Xs/output_frames/sec_14_idx_7.jpg",
+        "fps": 25,
+        "explanation": "[9-17] The man in black then takes a snake and throws it into the tunnel. The snake falls straight down. The Minion walks out of the hole on the left. After throwing the snake, the man shivers in fear and turns to leave. Meanwhile, a ladder appears in the tunnel."
+    },
+    {
+        "second": 15,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GFQjxMqE4Xs/output_frames/sec_15_idx_14.jpg",
+        "fps": 25,
+        "explanation": "[9-17] The man in black then takes a snake and throws it into the tunnel. The snake falls straight down. The Minion walks out of the hole on the left. After throwing the snake, the man shivers in fear and turns to leave. Meanwhile, a ladder appears in the tunnel."
+    },
+    {
+        "second": 16,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GFQjxMqE4Xs/output_frames/sec_16_idx_17.jpg",
+        "fps": 25,
+        "explanation": "[9-17] The man in black then takes a snake and throws it into the tunnel. The snake falls straight down. The Minion walks out of the hole on the left. After throwing the snake, the man shivers in fear and turns to leave. Meanwhile, a ladder appears in the tunnel."
+    },
+    {
+        "second": 17,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GFQjxMqE4Xs/output_frames/sec_17_idx_18.jpg",
+        "fps": 25,
+        "explanation": "[9-17] The man in black then takes a snake and throws it into the tunnel. The snake falls straight down. The Minion walks out of the hole on the left. After throwing the snake, the man shivers in fear and turns to leave. Meanwhile, a ladder appears in the tunnel."
+    },
+    {
+        "second": 18,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GFQjxMqE4Xs/output_frames/sec_18_idx_2.jpg",
+        "fps": 25,
+        "explanation": "[17-21] The man turns and leaves from the left. At the same time, the Minion climbs up the ladder and walks to the right."
+    },
+    {
+        "second": 19,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GFQjxMqE4Xs/output_frames/sec_19_idx_21.jpg",
+        "fps": 25,
+        "explanation": "[17-21] The man turns and leaves from the left. At the same time, the Minion climbs up the ladder and walks to the right."
+    },
+    {
+        "second": 20,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GFQjxMqE4Xs/output_frames/sec_20_idx_24.jpg",
+        "fps": 25,
+        "explanation": "[17-21] The man turns and leaves from the left. At the same time, the Minion climbs up the ladder and walks to the right."
+    },
+    {
+        "second": 21,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GFQjxMqE4Xs/output_frames/sec_21_idx_6.jpg",
+        "fps": 25,
+        "explanation": "[17-21] The man turns and leaves from the left. At the same time, the Minion climbs up the ladder and walks to the right."
+    }
+]

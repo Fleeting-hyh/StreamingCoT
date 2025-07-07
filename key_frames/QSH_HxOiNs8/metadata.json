@@ -1,0 +1,247 @@
+[
+    {
+        "second": 0,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QSH_HxOiNs8/output_frames/sec_0_idx_3.jpg",
+        "fps": 25,
+        "explanation": "[0-0] On a black floor lies a white piece of paper. On both sides of the paper are three square pieces of paper, with a red cross, a green check mark, and a yellow plus sign drawn on them, respectively. In the upper left corner, a hand holds a mobile phone with a colorful phone case. At the bottom of the screen, there are white subtitles: \"5-MINUTE CRAFTS\"."
+    },
+    {
+        "second": 1,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QSH_HxOiNs8/output_frames/sec_1_idx_5.jpg",
+        "fps": 25,
+        "explanation": "[0-3] The hand in the upper left corner places the mobile phone on the upper half of the white paper, while a hand on the right places a rainbow-colored square toy with round holes on the lower half of the paper. The person above puts their hand on the red cross, and the person below puts their hand on the green check mark. Afterward, both people take their respective items away."
+    },
+    {
+        "second": 2,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QSH_HxOiNs8/output_frames/sec_2_idx_8.jpg",
+        "fps": 25,
+        "explanation": "[0-3] The hand in the upper left corner places the mobile phone on the upper half of the white paper, while a hand on the right places a rainbow-colored square toy with round holes on the lower half of the paper. The person above puts their hand on the red cross, and the person below puts their hand on the green check mark. Afterward, both people take their respective items away."
+    },
+    {
+        "second": 3,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QSH_HxOiNs8/output_frames/sec_3_idx_16.jpg",
+        "fps": 25,
+        "explanation": "[0-3] The hand in the upper left corner places the mobile phone on the upper half of the white paper, while a hand on the right places a rainbow-colored square toy with round holes on the lower half of the paper. The person above puts their hand on the red cross, and the person below puts their hand on the green check mark. Afterward, both people take their respective items away."
+    },
+    {
+        "second": 4,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QSH_HxOiNs8/output_frames/sec_4_idx_4.jpg",
+        "fps": 25,
+        "explanation": "[3-6] Then, the upper hand places a rainbow-colored whale toy on the upper half of the white paper, while the lower hand places a rainbow-colored crab toy on the lower half. Subsequently, both hands place themselves on the green check mark, and both hands take away each other's toys."
+    },
+    {
+        "second": 5,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QSH_HxOiNs8/output_frames/sec_5_idx_24.jpg",
+        "fps": 25,
+        "explanation": "[3-6] Then, the upper hand places a rainbow-colored whale toy on the upper half of the white paper, while the lower hand places a rainbow-colored crab toy on the lower half. Subsequently, both hands place themselves on the green check mark, and both hands take away each other's toys."
+    },
+    {
+        "second": 6,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QSH_HxOiNs8/output_frames/sec_6_idx_15.jpg",
+        "fps": 25,
+        "explanation": "[3-6] Then, the upper hand places a rainbow-colored whale toy on the upper half of the white paper, while the lower hand places a rainbow-colored crab toy on the lower half. Subsequently, both hands place themselves on the green check mark, and both hands take away each other's toys."
+    },
+    {
+        "second": 7,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QSH_HxOiNs8/output_frames/sec_7_idx_0.jpg",
+        "fps": 25,
+        "explanation": "[6-11] After that, the lower hand places two toys with white edges and colorful spheres in the middle on the lower half of the white paper, one round and the other square. The upper hand places a rainbow-colored square toy with a sphere in the middle on the upper half of the white paper. Afterward, the lower hand taps the green check mark, and the upper hand places another rainbow-colored square toy with a sphere in the middle on the upper half of the white paper. Then, both hands place themselves on the green check mark, and both hands take away each other's toys."
+    },
+    {
+        "second": 8,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QSH_HxOiNs8/output_frames/sec_8_idx_3.jpg",
+        "fps": 25,
+        "explanation": "[6-11] After that, the lower hand places two toys with white edges and colorful spheres in the middle on the lower half of the white paper, one round and the other square. The upper hand places a rainbow-colored square toy with a sphere in the middle on the upper half of the white paper. Afterward, the lower hand taps the green check mark, and the upper hand places another rainbow-colored square toy with a sphere in the middle on the upper half of the white paper. Then, both hands place themselves on the green check mark, and both hands take away each other's toys."
+    },
+    {
+        "second": 9,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QSH_HxOiNs8/output_frames/sec_9_idx_15.jpg",
+        "fps": 25,
+        "explanation": "[6-11] After that, the lower hand places two toys with white edges and colorful spheres in the middle on the lower half of the white paper, one round and the other square. The upper hand places a rainbow-colored square toy with a sphere in the middle on the upper half of the white paper. Afterward, the lower hand taps the green check mark, and the upper hand places another rainbow-colored square toy with a sphere in the middle on the upper half of the white paper. Then, both hands place themselves on the green check mark, and both hands take away each other's toys."
+    },
+    {
+        "second": 10,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QSH_HxOiNs8/output_frames/sec_10_idx_24.jpg",
+        "fps": 25,
+        "explanation": "[6-11] After that, the lower hand places two toys with white edges and colorful spheres in the middle on the lower half of the white paper, one round and the other square. The upper hand places a rainbow-colored square toy with a sphere in the middle on the upper half of the white paper. Afterward, the lower hand taps the green check mark, and the upper hand places another rainbow-colored square toy with a sphere in the middle on the upper half of the white paper. Then, both hands place themselves on the green check mark, and both hands take away each other's toys."
+    },
+    {
+        "second": 11,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QSH_HxOiNs8/output_frames/sec_11_idx_19.jpg",
+        "fps": 25,
+        "explanation": "[6-11] After that, the lower hand places two toys with white edges and colorful spheres in the middle on the lower half of the white paper, one round and the other square. The upper hand places a rainbow-colored square toy with a sphere in the middle on the upper half of the white paper. Afterward, the lower hand taps the green check mark, and the upper hand places another rainbow-colored square toy with a sphere in the middle on the upper half of the white paper. Then, both hands place themselves on the green check mark, and both hands take away each other's toys."
+    },
+    {
+        "second": 12,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QSH_HxOiNs8/output_frames/sec_12_idx_7.jpg",
+        "fps": 25,
+        "explanation": "[11-20] Subsequently, the upper hand places a large and a small Rubik's Cube on the upper half of the white paper, while the lower hand places a yellow fidget spinner on the lower half. After that, the upper hand taps the yellow plus sign a few times, and the lower hand places eight small colorful balls on the lower half of the white paper. Then, both hands place themselves on the green check mark, and both hands take away each other's toys. The person on top holds the middle of the fidget spinner with their right hand and flicks it with the other hand, spinning the fidget spinner as it is taken away."
+    },
+    {
+        "second": 13,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QSH_HxOiNs8/output_frames/sec_13_idx_21.jpg",
+        "fps": 25,
+        "explanation": "[11-20] Subsequently, the upper hand places a large and a small Rubik's Cube on the upper half of the white paper, while the lower hand places a yellow fidget spinner on the lower half. After that, the upper hand taps the yellow plus sign a few times, and the lower hand places eight small colorful balls on the lower half of the white paper. Then, both hands place themselves on the green check mark, and both hands take away each other's toys. The person on top holds the middle of the fidget spinner with their right hand and flicks it with the other hand, spinning the fidget spinner as it is taken away."
+    },
+    {
+        "second": 14,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QSH_HxOiNs8/output_frames/sec_14_idx_3.jpg",
+        "fps": 25,
+        "explanation": "[11-20] Subsequently, the upper hand places a large and a small Rubik's Cube on the upper half of the white paper, while the lower hand places a yellow fidget spinner on the lower half. After that, the upper hand taps the yellow plus sign a few times, and the lower hand places eight small colorful balls on the lower half of the white paper. Then, both hands place themselves on the green check mark, and both hands take away each other's toys. The person on top holds the middle of the fidget spinner with their right hand and flicks it with the other hand, spinning the fidget spinner as it is taken away."
+    },
+    {
+        "second": 15,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QSH_HxOiNs8/output_frames/sec_15_idx_3.jpg",
+        "fps": 25,
+        "explanation": "[11-20] Subsequently, the upper hand places a large and a small Rubik's Cube on the upper half of the white paper, while the lower hand places a yellow fidget spinner on the lower half. After that, the upper hand taps the yellow plus sign a few times, and the lower hand places eight small colorful balls on the lower half of the white paper. Then, both hands place themselves on the green check mark, and both hands take away each other's toys. The person on top holds the middle of the fidget spinner with their right hand and flicks it with the other hand, spinning the fidget spinner as it is taken away."
+    },
+    {
+        "second": 16,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QSH_HxOiNs8/output_frames/sec_16_idx_5.jpg",
+        "fps": 25,
+        "explanation": "[11-20] Subsequently, the upper hand places a large and a small Rubik's Cube on the upper half of the white paper, while the lower hand places a yellow fidget spinner on the lower half. After that, the upper hand taps the yellow plus sign a few times, and the lower hand places eight small colorful balls on the lower half of the white paper. Then, both hands place themselves on the green check mark, and both hands take away each other's toys. The person on top holds the middle of the fidget spinner with their right hand and flicks it with the other hand, spinning the fidget spinner as it is taken away."
+    },
+    {
+        "second": 17,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QSH_HxOiNs8/output_frames/sec_17_idx_8.jpg",
+        "fps": 25,
+        "explanation": "[11-20] Subsequently, the upper hand places a large and a small Rubik's Cube on the upper half of the white paper, while the lower hand places a yellow fidget spinner on the lower half. After that, the upper hand taps the yellow plus sign a few times, and the lower hand places eight small colorful balls on the lower half of the white paper. Then, both hands place themselves on the green check mark, and both hands take away each other's toys. The person on top holds the middle of the fidget spinner with their right hand and flicks it with the other hand, spinning the fidget spinner as it is taken away."
+    },
+    {
+        "second": 18,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QSH_HxOiNs8/output_frames/sec_18_idx_22.jpg",
+        "fps": 25,
+        "explanation": "[11-20] Subsequently, the upper hand places a large and a small Rubik's Cube on the upper half of the white paper, while the lower hand places a yellow fidget spinner on the lower half. After that, the upper hand taps the yellow plus sign a few times, and the lower hand places eight small colorful balls on the lower half of the white paper. Then, both hands place themselves on the green check mark, and both hands take away each other's toys. The person on top holds the middle of the fidget spinner with their right hand and flicks it with the other hand, spinning the fidget spinner as it is taken away."
+    },
+    {
+        "second": 19,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QSH_HxOiNs8/output_frames/sec_19_idx_3.jpg",
+        "fps": 25,
+        "explanation": "[11-20] Subsequently, the upper hand places a large and a small Rubik's Cube on the upper half of the white paper, while the lower hand places a yellow fidget spinner on the lower half. After that, the upper hand taps the yellow plus sign a few times, and the lower hand places eight small colorful balls on the lower half of the white paper. Then, both hands place themselves on the green check mark, and both hands take away each other's toys. The person on top holds the middle of the fidget spinner with their right hand and flicks it with the other hand, spinning the fidget spinner as it is taken away."
+    },
+    {
+        "second": 20,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QSH_HxOiNs8/output_frames/sec_20_idx_2.jpg",
+        "fps": 25,
+        "explanation": "[11-20] Subsequently, the upper hand places a large and a small Rubik's Cube on the upper half of the white paper, while the lower hand places a yellow fidget spinner on the lower half. After that, the upper hand taps the yellow plus sign a few times, and the lower hand places eight small colorful balls on the lower half of the white paper. Then, both hands place themselves on the green check mark, and both hands take away each other's toys. The person on top holds the middle of the fidget spinner with their right hand and flicks it with the other hand, spinning the fidget spinner as it is taken away."
+    },
+    {
+        "second": 21,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QSH_HxOiNs8/output_frames/sec_21_idx_2.jpg",
+        "fps": 25,
+        "explanation": "[20-29] Immediately afterward, the lower hand places a white earphone case on the lower half of the white paper, and the upper hand places a rainbow-colored square toy with a sphere in the middle on the upper half. After that, the lower hand taps the yellow plus sign once, and the upper hand places two identical toys on the upper half of the white paper. The lower hand taps the yellow plus sign a few more times and knocks on the floor with their fingers. The upper hand then places a few more identical toys on the upper half of the white paper. Immediately afterward, the lower hand taps the yellow plus sign a few more times, and the upper hand places two more identical toys and a larger toy. Subsequently, both hands place themselves on the green check mark; the lower hand takes the other person's toys, while the upper hand picks up the earphone case."
+    },
+    {
+        "second": 22,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QSH_HxOiNs8/output_frames/sec_22_idx_10.jpg",
+        "fps": 25,
+        "explanation": "[20-29] Immediately afterward, the lower hand places a white earphone case on the lower half of the white paper, and the upper hand places a rainbow-colored square toy with a sphere in the middle on the upper half. After that, the lower hand taps the yellow plus sign once, and the upper hand places two identical toys on the upper half of the white paper. The lower hand taps the yellow plus sign a few more times and knocks on the floor with their fingers. The upper hand then places a few more identical toys on the upper half of the white paper. Immediately afterward, the lower hand taps the yellow plus sign a few more times, and the upper hand places two more identical toys and a larger toy. Subsequently, both hands place themselves on the green check mark; the lower hand takes the other person's toys, while the upper hand picks up the earphone case."
+    },
+    {
+        "second": 23,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QSH_HxOiNs8/output_frames/sec_23_idx_0.jpg",
+        "fps": 25,
+        "explanation": "[20-29] Immediately afterward, the lower hand places a white earphone case on the lower half of the white paper, and the upper hand places a rainbow-colored square toy with a sphere in the middle on the upper half. After that, the lower hand taps the yellow plus sign once, and the upper hand places two identical toys on the upper half of the white paper. The lower hand taps the yellow plus sign a few more times and knocks on the floor with their fingers. The upper hand then places a few more identical toys on the upper half of the white paper. Immediately afterward, the lower hand taps the yellow plus sign a few more times, and the upper hand places two more identical toys and a larger toy. Subsequently, both hands place themselves on the green check mark; the lower hand takes the other person's toys, while the upper hand picks up the earphone case."
+    },
+    {
+        "second": 24,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QSH_HxOiNs8/output_frames/sec_24_idx_5.jpg",
+        "fps": 25,
+        "explanation": "[20-29] Immediately afterward, the lower hand places a white earphone case on the lower half of the white paper, and the upper hand places a rainbow-colored square toy with a sphere in the middle on the upper half. After that, the lower hand taps the yellow plus sign once, and the upper hand places two identical toys on the upper half of the white paper. The lower hand taps the yellow plus sign a few more times and knocks on the floor with their fingers. The upper hand then places a few more identical toys on the upper half of the white paper. Immediately afterward, the lower hand taps the yellow plus sign a few more times, and the upper hand places two more identical toys and a larger toy. Subsequently, both hands place themselves on the green check mark; the lower hand takes the other person's toys, while the upper hand picks up the earphone case."
+    },
+    {
+        "second": 25,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QSH_HxOiNs8/output_frames/sec_25_idx_0.jpg",
+        "fps": 25,
+        "explanation": "[20-29] Immediately afterward, the lower hand places a white earphone case on the lower half of the white paper, and the upper hand places a rainbow-colored square toy with a sphere in the middle on the upper half. After that, the lower hand taps the yellow plus sign once, and the upper hand places two identical toys on the upper half of the white paper. The lower hand taps the yellow plus sign a few more times and knocks on the floor with their fingers. The upper hand then places a few more identical toys on the upper half of the white paper. Immediately afterward, the lower hand taps the yellow plus sign a few more times, and the upper hand places two more identical toys and a larger toy. Subsequently, both hands place themselves on the green check mark; the lower hand takes the other person's toys, while the upper hand picks up the earphone case."
+    },
+    {
+        "second": 26,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QSH_HxOiNs8/output_frames/sec_26_idx_3.jpg",
+        "fps": 25,
+        "explanation": "[20-29] Immediately afterward, the lower hand places a white earphone case on the lower half of the white paper, and the upper hand places a rainbow-colored square toy with a sphere in the middle on the upper half. After that, the lower hand taps the yellow plus sign once, and the upper hand places two identical toys on the upper half of the white paper. The lower hand taps the yellow plus sign a few more times and knocks on the floor with their fingers. The upper hand then places a few more identical toys on the upper half of the white paper. Immediately afterward, the lower hand taps the yellow plus sign a few more times, and the upper hand places two more identical toys and a larger toy. Subsequently, both hands place themselves on the green check mark; the lower hand takes the other person's toys, while the upper hand picks up the earphone case."
+    },
+    {
+        "second": 27,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QSH_HxOiNs8/output_frames/sec_27_idx_6.jpg",
+        "fps": 25,
+        "explanation": "[20-29] Immediately afterward, the lower hand places a white earphone case on the lower half of the white paper, and the upper hand places a rainbow-colored square toy with a sphere in the middle on the upper half. After that, the lower hand taps the yellow plus sign once, and the upper hand places two identical toys on the upper half of the white paper. The lower hand taps the yellow plus sign a few more times and knocks on the floor with their fingers. The upper hand then places a few more identical toys on the upper half of the white paper. Immediately afterward, the lower hand taps the yellow plus sign a few more times, and the upper hand places two more identical toys and a larger toy. Subsequently, both hands place themselves on the green check mark; the lower hand takes the other person's toys, while the upper hand picks up the earphone case."
+    },
+    {
+        "second": 28,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QSH_HxOiNs8/output_frames/sec_28_idx_10.jpg",
+        "fps": 25,
+        "explanation": "[20-29] Immediately afterward, the lower hand places a white earphone case on the lower half of the white paper, and the upper hand places a rainbow-colored square toy with a sphere in the middle on the upper half. After that, the lower hand taps the yellow plus sign once, and the upper hand places two identical toys on the upper half of the white paper. The lower hand taps the yellow plus sign a few more times and knocks on the floor with their fingers. The upper hand then places a few more identical toys on the upper half of the white paper. Immediately afterward, the lower hand taps the yellow plus sign a few more times, and the upper hand places two more identical toys and a larger toy. Subsequently, both hands place themselves on the green check mark; the lower hand takes the other person's toys, while the upper hand picks up the earphone case."
+    },
+    {
+        "second": 29,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QSH_HxOiNs8/output_frames/sec_29_idx_14.jpg",
+        "fps": 25,
+        "explanation": "[20-29] Immediately afterward, the lower hand places a white earphone case on the lower half of the white paper, and the upper hand places a rainbow-colored square toy with a sphere in the middle on the upper half. After that, the lower hand taps the yellow plus sign once, and the upper hand places two identical toys on the upper half of the white paper. The lower hand taps the yellow plus sign a few more times and knocks on the floor with their fingers. The upper hand then places a few more identical toys on the upper half of the white paper. Immediately afterward, the lower hand taps the yellow plus sign a few more times, and the upper hand places two more identical toys and a larger toy. Subsequently, both hands place themselves on the green check mark; the lower hand takes the other person's toys, while the upper hand picks up the earphone case."
+    },
+    {
+        "second": 30,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QSH_HxOiNs8/output_frames/sec_30_idx_24.jpg",
+        "fps": 25,
+        "explanation": "[29-34] Then, both upper hands open the earphone case, revealing a rubber band inside. Afterward, four fingers of one hand stretch the rubber band and toss it onto the white paper. Finally, the rubber band is pushed to the left."
+    },
+    {
+        "second": 31,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QSH_HxOiNs8/output_frames/sec_31_idx_1.jpg",
+        "fps": 25,
+        "explanation": "[29-34] Then, both upper hands open the earphone case, revealing a rubber band inside. Afterward, four fingers of one hand stretch the rubber band and toss it onto the white paper. Finally, the rubber band is pushed to the left."
+    },
+    {
+        "second": 32,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QSH_HxOiNs8/output_frames/sec_32_idx_6.jpg",
+        "fps": 25,
+        "explanation": "[29-34] Then, both upper hands open the earphone case, revealing a rubber band inside. Afterward, four fingers of one hand stretch the rubber band and toss it onto the white paper. Finally, the rubber band is pushed to the left."
+    },
+    {
+        "second": 33,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QSH_HxOiNs8/output_frames/sec_33_idx_23.jpg",
+        "fps": 25,
+        "explanation": "[29-34] Then, both upper hands open the earphone case, revealing a rubber band inside. Afterward, four fingers of one hand stretch the rubber band and toss it onto the white paper. Finally, the rubber band is pushed to the left."
+    },
+    {
+        "second": 34,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QSH_HxOiNs8/output_frames/sec_34_idx_6.jpg",
+        "fps": 25,
+        "explanation": "[29-34] Then, both upper hands open the earphone case, revealing a rubber band inside. Afterward, four fingers of one hand stretch the rubber band and toss it onto the white paper. Finally, the rubber band is pushed to the left."
+    }
+]

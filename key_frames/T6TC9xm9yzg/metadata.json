@@ -1,0 +1,58 @@
+[
+    {
+        "second": 0,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/T6TC9xm9yzg/output_frames/sec_0_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A frozen ocean comes into view, with a fisherman in a red jacket standing on a gray boat, holding a metal hook in his hand."
+    },
+    {
+        "second": 1,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/T6TC9xm9yzg/output_frames/sec_1_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[0-7] Then, a thin fishing line pulls up many fish. As the fish are being pulled up, the fisherman in the red jacket uses the hook to pull them onto the boat."
+    },
+    {
+        "second": 2,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/T6TC9xm9yzg/output_frames/sec_2_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-7] Then, a thin fishing line pulls up many fish. As the fish are being pulled up, the fisherman in the red jacket uses the hook to pull them onto the boat."
+    },
+    {
+        "second": 3,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/T6TC9xm9yzg/output_frames/sec_3_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[0-7] Then, a thin fishing line pulls up many fish. As the fish are being pulled up, the fisherman in the red jacket uses the hook to pull them onto the boat."
+    },
+    {
+        "second": 4,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/T6TC9xm9yzg/output_frames/sec_4_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[0-7] Then, a thin fishing line pulls up many fish. As the fish are being pulled up, the fisherman in the red jacket uses the hook to pull them onto the boat."
+    },
+    {
+        "second": 5,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/T6TC9xm9yzg/output_frames/sec_5_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[0-7] Then, a thin fishing line pulls up many fish. As the fish are being pulled up, the fisherman in the red jacket uses the hook to pull them onto the boat."
+    },
+    {
+        "second": 6,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/T6TC9xm9yzg/output_frames/sec_6_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[0-7] Then, a thin fishing line pulls up many fish. As the fish are being pulled up, the fisherman in the red jacket uses the hook to pull them onto the boat."
+    },
+    {
+        "second": 7,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/T6TC9xm9yzg/output_frames/sec_7_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[0-7] Then, a thin fishing line pulls up many fish. As the fish are being pulled up, the fisherman in the red jacket uses the hook to pull them onto the boat."
+    }
+]

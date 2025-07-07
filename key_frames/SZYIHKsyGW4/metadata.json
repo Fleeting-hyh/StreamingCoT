@@ -1,0 +1,93 @@
+[
+    {
+        "second": 0,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SZYIHKsyGW4/output_frames/sec_0_idx_9.jpg",
+        "fps": 25,
+        "explanation": "[0-0] A bright hallway with tiled floors, chandeliers hanging from the ceiling, and two tall plants on either side of a glass door leading outside, where more plants can be seen."
+    },
+    {
+        "second": 1,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SZYIHKsyGW4/output_frames/sec_1_idx_15.jpg",
+        "fps": 25,
+        "explanation": "[0-6] A little boy in a yellow tracksuit and red pants enters the hallway from the right, and a train track appears on the floor. A woman in a yellow tracksuit then enters the hallway from the right, carrying a black and yellow schoolbag in her left hand. A white train then drives along the track, a circular hatch on its top opens, and the woman in yellow puts the schoolbag on the little boy. A sign reading \"Kindergarten Special Bus\" appears on the train, and the train opens its top door."
+    },
+    {
+        "second": 2,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SZYIHKsyGW4/output_frames/sec_2_idx_15.jpg",
+        "fps": 25,
+        "explanation": "[0-6] A little boy in a yellow tracksuit and red pants enters the hallway from the right, and a train track appears on the floor. A woman in a yellow tracksuit then enters the hallway from the right, carrying a black and yellow schoolbag in her left hand. A white train then drives along the track, a circular hatch on its top opens, and the woman in yellow puts the schoolbag on the little boy. A sign reading \"Kindergarten Special Bus\" appears on the train, and the train opens its top door."
+    },
+    {
+        "second": 3,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SZYIHKsyGW4/output_frames/sec_3_idx_5.jpg",
+        "fps": 25,
+        "explanation": "[0-6] A little boy in a yellow tracksuit and red pants enters the hallway from the right, and a train track appears on the floor. A woman in a yellow tracksuit then enters the hallway from the right, carrying a black and yellow schoolbag in her left hand. A white train then drives along the track, a circular hatch on its top opens, and the woman in yellow puts the schoolbag on the little boy. A sign reading \"Kindergarten Special Bus\" appears on the train, and the train opens its top door."
+    },
+    {
+        "second": 4,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SZYIHKsyGW4/output_frames/sec_4_idx_16.jpg",
+        "fps": 25,
+        "explanation": "[0-6] A little boy in a yellow tracksuit and red pants enters the hallway from the right, and a train track appears on the floor. A woman in a yellow tracksuit then enters the hallway from the right, carrying a black and yellow schoolbag in her left hand. A white train then drives along the track, a circular hatch on its top opens, and the woman in yellow puts the schoolbag on the little boy. A sign reading \"Kindergarten Special Bus\" appears on the train, and the train opens its top door."
+    },
+    {
+        "second": 5,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SZYIHKsyGW4/output_frames/sec_5_idx_20.jpg",
+        "fps": 25,
+        "explanation": "[0-6] A little boy in a yellow tracksuit and red pants enters the hallway from the right, and a train track appears on the floor. A woman in a yellow tracksuit then enters the hallway from the right, carrying a black and yellow schoolbag in her left hand. A white train then drives along the track, a circular hatch on its top opens, and the woman in yellow puts the schoolbag on the little boy. A sign reading \"Kindergarten Special Bus\" appears on the train, and the train opens its top door."
+    },
+    {
+        "second": 6,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SZYIHKsyGW4/output_frames/sec_6_idx_24.jpg",
+        "fps": 25,
+        "explanation": "[0-6] A little boy in a yellow tracksuit and red pants enters the hallway from the right, and a train track appears on the floor. A woman in a yellow tracksuit then enters the hallway from the right, carrying a black and yellow schoolbag in her left hand. A white train then drives along the track, a circular hatch on its top opens, and the woman in yellow puts the schoolbag on the little boy. A sign reading \"Kindergarten Special Bus\" appears on the train, and the train opens its top door."
+    },
+    {
+        "second": 7,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SZYIHKsyGW4/output_frames/sec_7_idx_0.jpg",
+        "fps": 25,
+        "explanation": "[6-12] The woman in yellow then pats the little boy's schoolbag, and the two face each other and shake hands. The little boy then enters the top of the train and closes the door. The sign on top of the train moves down until it disappears, the circular hatch closes, and the train drives forward. The woman in yellow turns to the right happily and walks away."
+    },
+    {
+        "second": 8,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SZYIHKsyGW4/output_frames/sec_8_idx_22.jpg",
+        "fps": 25,
+        "explanation": "[6-12] The woman in yellow then pats the little boy's schoolbag, and the two face each other and shake hands. The little boy then enters the top of the train and closes the door. The sign on top of the train moves down until it disappears, the circular hatch closes, and the train drives forward. The woman in yellow turns to the right happily and walks away."
+    },
+    {
+        "second": 9,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SZYIHKsyGW4/output_frames/sec_9_idx_12.jpg",
+        "fps": 25,
+        "explanation": "[6-12] The woman in yellow then pats the little boy's schoolbag, and the two face each other and shake hands. The little boy then enters the top of the train and closes the door. The sign on top of the train moves down until it disappears, the circular hatch closes, and the train drives forward. The woman in yellow turns to the right happily and walks away."
+    },
+    {
+        "second": 10,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SZYIHKsyGW4/output_frames/sec_10_idx_0.jpg",
+        "fps": 25,
+        "explanation": "[6-12] The woman in yellow then pats the little boy's schoolbag, and the two face each other and shake hands. The little boy then enters the top of the train and closes the door. The sign on top of the train moves down until it disappears, the circular hatch closes, and the train drives forward. The woman in yellow turns to the right happily and walks away."
+    },
+    {
+        "second": 11,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SZYIHKsyGW4/output_frames/sec_11_idx_17.jpg",
+        "fps": 25,
+        "explanation": "[6-12] The woman in yellow then pats the little boy's schoolbag, and the two face each other and shake hands. The little boy then enters the top of the train and closes the door. The sign on top of the train moves down until it disappears, the circular hatch closes, and the train drives forward. The woman in yellow turns to the right happily and walks away."
+    },
+    {
+        "second": 12,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SZYIHKsyGW4/output_frames/sec_12_idx_3.jpg",
+        "fps": 25,
+        "explanation": "[6-12] The woman in yellow then pats the little boy's schoolbag, and the two face each other and shake hands. The little boy then enters the top of the train and closes the door. The sign on top of the train moves down until it disappears, the circular hatch closes, and the train drives forward. The woman in yellow turns to the right happily and walks away."
+    }
+]

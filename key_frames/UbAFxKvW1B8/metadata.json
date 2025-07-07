@@ -1,0 +1,170 @@
+[
+    {
+        "second": 0,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UbAFxKvW1B8/output_frames/sec_0_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[0-0] Beside a street stall, a vendor in brightly colored clothing, wearing a transparent glove on their left hand, holds an apple. Their right hand holds a knife against the apple. On the glass counter to the right, there is a silver tray, and inside the cabinet, various fruits are placed. To the right stands a person wearing a khaki top, black pants, and a blue apron with their back to the camera."
+    },
+    {
+        "second": 1,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UbAFxKvW1B8/output_frames/sec_1_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[0-9] The vendor first cuts off the label from the apple, then turns the apple with their left hand, skillfully slicing it into thin pieces. The sliced apple pieces fall into a metal tray on the stall. The person wearing the blue apron walks to the left, where other people are walking."
+    },
+    {
+        "second": 2,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UbAFxKvW1B8/output_frames/sec_2_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[0-9] The vendor first cuts off the label from the apple, then turns the apple with their left hand, skillfully slicing it into thin pieces. The sliced apple pieces fall into a metal tray on the stall. The person wearing the blue apron walks to the left, where other people are walking."
+    },
+    {
+        "second": 3,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UbAFxKvW1B8/output_frames/sec_3_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[0-9] The vendor first cuts off the label from the apple, then turns the apple with their left hand, skillfully slicing it into thin pieces. The sliced apple pieces fall into a metal tray on the stall. The person wearing the blue apron walks to the left, where other people are walking."
+    },
+    {
+        "second": 4,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UbAFxKvW1B8/output_frames/sec_4_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[0-9] The vendor first cuts off the label from the apple, then turns the apple with their left hand, skillfully slicing it into thin pieces. The sliced apple pieces fall into a metal tray on the stall. The person wearing the blue apron walks to the left, where other people are walking."
+    },
+    {
+        "second": 5,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UbAFxKvW1B8/output_frames/sec_5_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[0-9] The vendor first cuts off the label from the apple, then turns the apple with their left hand, skillfully slicing it into thin pieces. The sliced apple pieces fall into a metal tray on the stall. The person wearing the blue apron walks to the left, where other people are walking."
+    },
+    {
+        "second": 6,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UbAFxKvW1B8/output_frames/sec_6_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[0-9] The vendor first cuts off the label from the apple, then turns the apple with their left hand, skillfully slicing it into thin pieces. The sliced apple pieces fall into a metal tray on the stall. The person wearing the blue apron walks to the left, where other people are walking."
+    },
+    {
+        "second": 7,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UbAFxKvW1B8/output_frames/sec_7_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[0-9] The vendor first cuts off the label from the apple, then turns the apple with their left hand, skillfully slicing it into thin pieces. The sliced apple pieces fall into a metal tray on the stall. The person wearing the blue apron walks to the left, where other people are walking."
+    },
+    {
+        "second": 8,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UbAFxKvW1B8/output_frames/sec_8_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[0-9] The vendor first cuts off the label from the apple, then turns the apple with their left hand, skillfully slicing it into thin pieces. The sliced apple pieces fall into a metal tray on the stall. The person wearing the blue apron walks to the left, where other people are walking."
+    },
+    {
+        "second": 9,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UbAFxKvW1B8/output_frames/sec_9_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[0-9] The vendor first cuts off the label from the apple, then turns the apple with their left hand, skillfully slicing it into thin pieces. The sliced apple pieces fall into a metal tray on the stall. The person wearing the blue apron walks to the left, where other people are walking."
+    },
+    {
+        "second": 10,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UbAFxKvW1B8/output_frames/sec_10_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[9-19] The vendor continues slicing the apple and then uses the knife to trim the apple slices, placing the finished slices onto the tray."
+    },
+    {
+        "second": 11,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UbAFxKvW1B8/output_frames/sec_11_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[9-19] The vendor continues slicing the apple and then uses the knife to trim the apple slices, placing the finished slices onto the tray."
+    },
+    {
+        "second": 12,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UbAFxKvW1B8/output_frames/sec_12_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[9-19] The vendor continues slicing the apple and then uses the knife to trim the apple slices, placing the finished slices onto the tray."
+    },
+    {
+        "second": 13,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UbAFxKvW1B8/output_frames/sec_13_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[9-19] The vendor continues slicing the apple and then uses the knife to trim the apple slices, placing the finished slices onto the tray."
+    },
+    {
+        "second": 14,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UbAFxKvW1B8/output_frames/sec_14_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[9-19] The vendor continues slicing the apple and then uses the knife to trim the apple slices, placing the finished slices onto the tray."
+    },
+    {
+        "second": 15,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UbAFxKvW1B8/output_frames/sec_15_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[9-19] The vendor continues slicing the apple and then uses the knife to trim the apple slices, placing the finished slices onto the tray."
+    },
+    {
+        "second": 16,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UbAFxKvW1B8/output_frames/sec_16_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[9-19] The vendor continues slicing the apple and then uses the knife to trim the apple slices, placing the finished slices onto the tray."
+    },
+    {
+        "second": 17,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UbAFxKvW1B8/output_frames/sec_17_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[9-19] The vendor continues slicing the apple and then uses the knife to trim the apple slices, placing the finished slices onto the tray."
+    },
+    {
+        "second": 18,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UbAFxKvW1B8/output_frames/sec_18_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[9-19] The vendor continues slicing the apple and then uses the knife to trim the apple slices, placing the finished slices onto the tray."
+    },
+    {
+        "second": 19,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UbAFxKvW1B8/output_frames/sec_19_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[9-19] The vendor continues slicing the apple and then uses the knife to trim the apple slices, placing the finished slices onto the tray."
+    },
+    {
+        "second": 20,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UbAFxKvW1B8/output_frames/sec_20_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[19-23] After finishing slicing the apple, leaving only a small core, the vendor throws the core into a plastic bag below the counter with their left hand. They then walk towards the left, the cut apple slices neatly arranged on the tray."
+    },
+    {
+        "second": 21,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UbAFxKvW1B8/output_frames/sec_21_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[19-23] After finishing slicing the apple, leaving only a small core, the vendor throws the core into a plastic bag below the counter with their left hand. They then walk towards the left, the cut apple slices neatly arranged on the tray."
+    },
+    {
+        "second": 22,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UbAFxKvW1B8/output_frames/sec_22_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[19-23] After finishing slicing the apple, leaving only a small core, the vendor throws the core into a plastic bag below the counter with their left hand. They then walk towards the left, the cut apple slices neatly arranged on the tray."
+    },
+    {
+        "second": 23,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UbAFxKvW1B8/output_frames/sec_23_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[19-23] After finishing slicing the apple, leaving only a small core, the vendor throws the core into a plastic bag below the counter with their left hand. They then walk towards the left, the cut apple slices neatly arranged on the tray."
+    }
+]

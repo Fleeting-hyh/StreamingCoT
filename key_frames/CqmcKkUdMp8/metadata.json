@@ -1,0 +1,65 @@
+[
+    {
+        "second": 0,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CqmcKkUdMp8/output_frames/sec_0_idx_19.jpg",
+        "fps": 24,
+        "explanation": "[0-0] Indoors, there is a woman with shoulder-length hair and a man with shoulder-length hair. The woman is wearing a gray short-sleeved shirt, and the man is wearing a black short-sleeved shirt and holding an eyeshadow palette. There is a glass door and a chandelier indoors."
+    },
+    {
+        "second": 1,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CqmcKkUdMp8/output_frames/sec_1_idx_7.jpg",
+        "fps": 24,
+        "explanation": "[0-5] Then, the man, holding an eyeshadow palette, is forcefully and repeatedly closing the lid of the eyeshadow palette with a ferocious expression. Each time the man closes the lid, the woman makes painful gestures with both hands."
+    },
+    {
+        "second": 2,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CqmcKkUdMp8/output_frames/sec_2_idx_2.jpg",
+        "fps": 24,
+        "explanation": "[0-5] Then, the man, holding an eyeshadow palette, is forcefully and repeatedly closing the lid of the eyeshadow palette with a ferocious expression. Each time the man closes the lid, the woman makes painful gestures with both hands."
+    },
+    {
+        "second": 3,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CqmcKkUdMp8/output_frames/sec_3_idx_5.jpg",
+        "fps": 24,
+        "explanation": "[0-5] Then, the man, holding an eyeshadow palette, is forcefully and repeatedly closing the lid of the eyeshadow palette with a ferocious expression. Each time the man closes the lid, the woman makes painful gestures with both hands."
+    },
+    {
+        "second": 4,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CqmcKkUdMp8/output_frames/sec_4_idx_4.jpg",
+        "fps": 24,
+        "explanation": "[0-5] Then, the man, holding an eyeshadow palette, is forcefully and repeatedly closing the lid of the eyeshadow palette with a ferocious expression. Each time the man closes the lid, the woman makes painful gestures with both hands."
+    },
+    {
+        "second": 5,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CqmcKkUdMp8/output_frames/sec_5_idx_20.jpg",
+        "fps": 24,
+        "explanation": "[0-5] Then, the man, holding an eyeshadow palette, is forcefully and repeatedly closing the lid of the eyeshadow palette with a ferocious expression. Each time the man closes the lid, the woman makes painful gestures with both hands."
+    },
+    {
+        "second": 6,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CqmcKkUdMp8/output_frames/sec_6_idx_1.jpg",
+        "fps": 24,
+        "explanation": "[5-8] Subsequently, the scene switches to outdoors, where the woman gently closes the car door with a relaxed expression. There are some buildings and vehicles in the background."
+    },
+    {
+        "second": 7,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CqmcKkUdMp8/output_frames/sec_7_idx_11.jpg",
+        "fps": 24,
+        "explanation": "[5-8] Subsequently, the scene switches to outdoors, where the woman gently closes the car door with a relaxed expression. There are some buildings and vehicles in the background."
+    },
+    {
+        "second": 8,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CqmcKkUdMp8/output_frames/sec_8_idx_1.jpg",
+        "fps": 24,
+        "explanation": "[5-8] Subsequently, the scene switches to outdoors, where the woman gently closes the car door with a relaxed expression. There are some buildings and vehicles in the background."
+    }
+]

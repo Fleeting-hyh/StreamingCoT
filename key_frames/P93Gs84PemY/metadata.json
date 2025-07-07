@@ -1,0 +1,240 @@
+[
+    {
+        "second": 0,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P93Gs84PemY/output_frames/sec_0_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[0-0] The video starts with a game screen. There is a red caption at the bottom that says \"TAP TO START\". A man with yellow hair wearing green clothes is standing on a white road. Both sides of the road are yellow. There are four options and many people in front of the blond man. There are two options in the first row in front of him. On the left, in the green frame, is a black-haired woman with red clothes and an off-white headband. Below it is written \"WIFE\". On the right, in the red frame, is a girl with pink hair tied in a ponytail, wearing a devil horn headband, and below it is written \"CRUSH\". The two options in the second row are a red frame on the left with a black-haired boy in black clothes. Below it is written \"SON\". On the right, in the green frame, is a pink-haired girl with two black horns on her head. In the third row are two people wearing blue hats and yellow tops, and one person with curly hair wearing purple clothes. In the fourth row is a person in black clothes, and at the back are three people wearing blue pants and black and white striped shirts."
+    },
+    {
+        "second": 1,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P93Gs84PemY/output_frames/sec_1_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-6] The blond man starts running forward. He chooses the girl on the left, and then the woman in red appears in the picture. The two continue running forward. They choose the pink-haired girl, and then the little girl appears in the picture. The three of them continue forward and now stand on the red line on the ground, facing the curly-haired boy and the two boys in yellow."
+    },
+    {
+        "second": 2,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P93Gs84PemY/output_frames/sec_2_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-6] The blond man starts running forward. He chooses the girl on the left, and then the woman in red appears in the picture. The two continue running forward. They choose the pink-haired girl, and then the little girl appears in the picture. The three of them continue forward and now stand on the red line on the ground, facing the curly-haired boy and the two boys in yellow."
+    },
+    {
+        "second": 3,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P93Gs84PemY/output_frames/sec_3_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[0-6] The blond man starts running forward. He chooses the girl on the left, and then the woman in red appears in the picture. The two continue running forward. They choose the pink-haired girl, and then the little girl appears in the picture. The three of them continue forward and now stand on the red line on the ground, facing the curly-haired boy and the two boys in yellow."
+    },
+    {
+        "second": 4,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P93Gs84PemY/output_frames/sec_4_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[0-6] The blond man starts running forward. He chooses the girl on the left, and then the woman in red appears in the picture. The two continue running forward. They choose the pink-haired girl, and then the little girl appears in the picture. The three of them continue forward and now stand on the red line on the ground, facing the curly-haired boy and the two boys in yellow."
+    },
+    {
+        "second": 5,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P93Gs84PemY/output_frames/sec_5_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[0-6] The blond man starts running forward. He chooses the girl on the left, and then the woman in red appears in the picture. The two continue running forward. They choose the pink-haired girl, and then the little girl appears in the picture. The three of them continue forward and now stand on the red line on the ground, facing the curly-haired boy and the two boys in yellow."
+    },
+    {
+        "second": 6,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P93Gs84PemY/output_frames/sec_6_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-6] The blond man starts running forward. He chooses the girl on the left, and then the woman in red appears in the picture. The two continue running forward. They choose the pink-haired girl, and then the little girl appears in the picture. The three of them continue forward and now stand on the red line on the ground, facing the curly-haired boy and the two boys in yellow."
+    },
+    {
+        "second": 7,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P93Gs84PemY/output_frames/sec_7_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[6-14] At this time, the pink-haired girl runs forward, the picture moves, and the pink-haired girl defeats the three of them, then turns to look at the blond man and the woman in red, and the pink-haired girl makes a celebratory gesture. Then the three of them continue to run forward."
+    },
+    {
+        "second": 8,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P93Gs84PemY/output_frames/sec_8_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[6-14] At this time, the pink-haired girl runs forward, the picture moves, and the pink-haired girl defeats the three of them, then turns to look at the blond man and the woman in red, and the pink-haired girl makes a celebratory gesture. Then the three of them continue to run forward."
+    },
+    {
+        "second": 9,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P93Gs84PemY/output_frames/sec_9_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[6-14] At this time, the pink-haired girl runs forward, the picture moves, and the pink-haired girl defeats the three of them, then turns to look at the blond man and the woman in red, and the pink-haired girl makes a celebratory gesture. Then the three of them continue to run forward."
+    },
+    {
+        "second": 10,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P93Gs84PemY/output_frames/sec_10_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[6-14] At this time, the pink-haired girl runs forward, the picture moves, and the pink-haired girl defeats the three of them, then turns to look at the blond man and the woman in red, and the pink-haired girl makes a celebratory gesture. Then the three of them continue to run forward."
+    },
+    {
+        "second": 11,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P93Gs84PemY/output_frames/sec_11_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[6-14] At this time, the pink-haired girl runs forward, the picture moves, and the pink-haired girl defeats the three of them, then turns to look at the blond man and the woman in red, and the pink-haired girl makes a celebratory gesture. Then the three of them continue to run forward."
+    },
+    {
+        "second": 12,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P93Gs84PemY/output_frames/sec_12_idx_24.jpg",
+        "fps": 30,
+        "explanation": "[6-14] At this time, the pink-haired girl runs forward, the picture moves, and the pink-haired girl defeats the three of them, then turns to look at the blond man and the woman in red, and the pink-haired girl makes a celebratory gesture. Then the three of them continue to run forward."
+    },
+    {
+        "second": 13,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P93Gs84PemY/output_frames/sec_13_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[6-14] At this time, the pink-haired girl runs forward, the picture moves, and the pink-haired girl defeats the three of them, then turns to look at the blond man and the woman in red, and the pink-haired girl makes a celebratory gesture. Then the three of them continue to run forward."
+    },
+    {
+        "second": 14,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P93Gs84PemY/output_frames/sec_14_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[6-14] At this time, the pink-haired girl runs forward, the picture moves, and the pink-haired girl defeats the three of them, then turns to look at the blond man and the woman in red, and the pink-haired girl makes a celebratory gesture. Then the three of them continue to run forward."
+    },
+    {
+        "second": 15,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P93Gs84PemY/output_frames/sec_15_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[14-23] When the three arrive in front of the man in black, the pink-haired girl runs back. At this time, the woman in red runs forward, followed closely by the blond man. The man in black shoots the woman in red with a gun, and the woman in red slides forward after falling to the ground. The blond man and the pink-haired girl run forward. At this time, the blond man and the woman in red arrive in front of the three men in blue pants."
+    },
+    {
+        "second": 16,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P93Gs84PemY/output_frames/sec_16_idx_24.jpg",
+        "fps": 30,
+        "explanation": "[14-23] When the three arrive in front of the man in black, the pink-haired girl runs back. At this time, the woman in red runs forward, followed closely by the blond man. The man in black shoots the woman in red with a gun, and the woman in red slides forward after falling to the ground. The blond man and the pink-haired girl run forward. At this time, the blond man and the woman in red arrive in front of the three men in blue pants."
+    },
+    {
+        "second": 17,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P93Gs84PemY/output_frames/sec_17_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[14-23] When the three arrive in front of the man in black, the pink-haired girl runs back. At this time, the woman in red runs forward, followed closely by the blond man. The man in black shoots the woman in red with a gun, and the woman in red slides forward after falling to the ground. The blond man and the pink-haired girl run forward. At this time, the blond man and the woman in red arrive in front of the three men in blue pants."
+    },
+    {
+        "second": 18,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P93Gs84PemY/output_frames/sec_18_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[14-23] When the three arrive in front of the man in black, the pink-haired girl runs back. At this time, the woman in red runs forward, followed closely by the blond man. The man in black shoots the woman in red with a gun, and the woman in red slides forward after falling to the ground. The blond man and the pink-haired girl run forward. At this time, the blond man and the woman in red arrive in front of the three men in blue pants."
+    },
+    {
+        "second": 19,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P93Gs84PemY/output_frames/sec_19_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[14-23] When the three arrive in front of the man in black, the pink-haired girl runs back. At this time, the woman in red runs forward, followed closely by the blond man. The man in black shoots the woman in red with a gun, and the woman in red slides forward after falling to the ground. The blond man and the pink-haired girl run forward. At this time, the blond man and the woman in red arrive in front of the three men in blue pants."
+    },
+    {
+        "second": 20,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P93Gs84PemY/output_frames/sec_20_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[14-23] When the three arrive in front of the man in black, the pink-haired girl runs back. At this time, the woman in red runs forward, followed closely by the blond man. The man in black shoots the woman in red with a gun, and the woman in red slides forward after falling to the ground. The blond man and the pink-haired girl run forward. At this time, the blond man and the woman in red arrive in front of the three men in blue pants."
+    },
+    {
+        "second": 21,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P93Gs84PemY/output_frames/sec_21_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[14-23] When the three arrive in front of the man in black, the pink-haired girl runs back. At this time, the woman in red runs forward, followed closely by the blond man. The man in black shoots the woman in red with a gun, and the woman in red slides forward after falling to the ground. The blond man and the pink-haired girl run forward. At this time, the blond man and the woman in red arrive in front of the three men in blue pants."
+    },
+    {
+        "second": 22,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P93Gs84PemY/output_frames/sec_22_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[14-23] When the three arrive in front of the man in black, the pink-haired girl runs back. At this time, the woman in red runs forward, followed closely by the blond man. The man in black shoots the woman in red with a gun, and the woman in red slides forward after falling to the ground. The blond man and the pink-haired girl run forward. At this time, the blond man and the woman in red arrive in front of the three men in blue pants."
+    },
+    {
+        "second": 23,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P93Gs84PemY/output_frames/sec_23_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[14-23] When the three arrive in front of the man in black, the pink-haired girl runs back. At this time, the woman in red runs forward, followed closely by the blond man. The man in black shoots the woman in red with a gun, and the woman in red slides forward after falling to the ground. The blond man and the pink-haired girl run forward. At this time, the blond man and the woman in red arrive in front of the three men in blue pants."
+    },
+    {
+        "second": 24,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P93Gs84PemY/output_frames/sec_24_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[23-33] At this time, the woman in red lying on the ground moves her arms and disappears. The camera moves, and the blond man rushes forward, jumps up, and shoots the man in blue pants on the left with a gun. The man in blue pants falls backward. At this time, the other two men in blue pants shoot the blond man, and the blond man falls to the ground."
+    },
+    {
+        "second": 25,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P93Gs84PemY/output_frames/sec_25_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[23-33] At this time, the woman in red lying on the ground moves her arms and disappears. The camera moves, and the blond man rushes forward, jumps up, and shoots the man in blue pants on the left with a gun. The man in blue pants falls backward. At this time, the other two men in blue pants shoot the blond man, and the blond man falls to the ground."
+    },
+    {
+        "second": 26,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P93Gs84PemY/output_frames/sec_26_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[23-33] At this time, the woman in red lying on the ground moves her arms and disappears. The camera moves, and the blond man rushes forward, jumps up, and shoots the man in blue pants on the left with a gun. The man in blue pants falls backward. At this time, the other two men in blue pants shoot the blond man, and the blond man falls to the ground."
+    },
+    {
+        "second": 27,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P93Gs84PemY/output_frames/sec_27_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[23-33] At this time, the woman in red lying on the ground moves her arms and disappears. The camera moves, and the blond man rushes forward, jumps up, and shoots the man in blue pants on the left with a gun. The man in blue pants falls backward. At this time, the other two men in blue pants shoot the blond man, and the blond man falls to the ground."
+    },
+    {
+        "second": 28,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P93Gs84PemY/output_frames/sec_28_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[23-33] At this time, the woman in red lying on the ground moves her arms and disappears. The camera moves, and the blond man rushes forward, jumps up, and shoots the man in blue pants on the left with a gun. The man in blue pants falls backward. At this time, the other two men in blue pants shoot the blond man, and the blond man falls to the ground."
+    },
+    {
+        "second": 29,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P93Gs84PemY/output_frames/sec_29_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[23-33] At this time, the woman in red lying on the ground moves her arms and disappears. The camera moves, and the blond man rushes forward, jumps up, and shoots the man in blue pants on the left with a gun. The man in blue pants falls backward. At this time, the other two men in blue pants shoot the blond man, and the blond man falls to the ground."
+    },
+    {
+        "second": 30,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P93Gs84PemY/output_frames/sec_30_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[23-33] At this time, the woman in red lying on the ground moves her arms and disappears. The camera moves, and the blond man rushes forward, jumps up, and shoots the man in blue pants on the left with a gun. The man in blue pants falls backward. At this time, the other two men in blue pants shoot the blond man, and the blond man falls to the ground."
+    },
+    {
+        "second": 31,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P93Gs84PemY/output_frames/sec_31_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[23-33] At this time, the woman in red lying on the ground moves her arms and disappears. The camera moves, and the blond man rushes forward, jumps up, and shoots the man in blue pants on the left with a gun. The man in blue pants falls backward. At this time, the other two men in blue pants shoot the blond man, and the blond man falls to the ground."
+    },
+    {
+        "second": 32,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P93Gs84PemY/output_frames/sec_32_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[23-33] At this time, the woman in red lying on the ground moves her arms and disappears. The camera moves, and the blond man rushes forward, jumps up, and shoots the man in blue pants on the left with a gun. The man in blue pants falls backward. At this time, the other two men in blue pants shoot the blond man, and the blond man falls to the ground."
+    },
+    {
+        "second": 33,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P93Gs84PemY/output_frames/sec_33_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[23-33] At this time, the woman in red lying on the ground moves her arms and disappears. The camera moves, and the blond man rushes forward, jumps up, and shoots the man in blue pants on the left with a gun. The man in blue pants falls backward. At this time, the other two men in blue pants shoot the blond man, and the blond man falls to the ground."
+    }
+]

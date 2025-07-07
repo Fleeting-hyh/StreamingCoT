@@ -1,0 +1,163 @@
+[
+    {
+        "second": 0,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3nQ9iLcLO-k/output_frames/sec_0_idx_16.jpg",
+        "fps": 25,
+        "explanation": "[0-0] In the wild, there is an open field and some bushes. A green truck is parked in the bushes, with an elephant inside. Behind the truck stands a man wearing a beige short-sleeved shirt, and behind him is another man in a dark green jacket."
+    },
+    {
+        "second": 1,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3nQ9iLcLO-k/output_frames/sec_1_idx_9.jpg",
+        "fps": 25,
+        "explanation": "[0-8] Then the two men run towards the open field, while the elephant in the truck walks towards the back of the truck."
+    },
+    {
+        "second": 2,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3nQ9iLcLO-k/output_frames/sec_2_idx_16.jpg",
+        "fps": 25,
+        "explanation": "[0-8] Then the two men run towards the open field, while the elephant in the truck walks towards the back of the truck."
+    },
+    {
+        "second": 3,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3nQ9iLcLO-k/output_frames/sec_3_idx_18.jpg",
+        "fps": 25,
+        "explanation": "[0-8] Then the two men run towards the open field, while the elephant in the truck walks towards the back of the truck."
+    },
+    {
+        "second": 4,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3nQ9iLcLO-k/output_frames/sec_4_idx_21.jpg",
+        "fps": 25,
+        "explanation": "[0-8] Then the two men run towards the open field, while the elephant in the truck walks towards the back of the truck."
+    },
+    {
+        "second": 5,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3nQ9iLcLO-k/output_frames/sec_5_idx_1.jpg",
+        "fps": 25,
+        "explanation": "[0-8] Then the two men run towards the open field, while the elephant in the truck walks towards the back of the truck."
+    },
+    {
+        "second": 6,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3nQ9iLcLO-k/output_frames/sec_6_idx_11.jpg",
+        "fps": 25,
+        "explanation": "[0-8] Then the two men run towards the open field, while the elephant in the truck walks towards the back of the truck."
+    },
+    {
+        "second": 7,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3nQ9iLcLO-k/output_frames/sec_7_idx_9.jpg",
+        "fps": 25,
+        "explanation": "[0-8] Then the two men run towards the open field, while the elephant in the truck walks towards the back of the truck."
+    },
+    {
+        "second": 8,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3nQ9iLcLO-k/output_frames/sec_8_idx_21.jpg",
+        "fps": 25,
+        "explanation": "[0-8] Then the two men run towards the open field, while the elephant in the truck walks towards the back of the truck."
+    },
+    {
+        "second": 9,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3nQ9iLcLO-k/output_frames/sec_9_idx_0.jpg",
+        "fps": 25,
+        "explanation": "[8-16] Subsequently, the elephant bends its front legs and walks down from the truck."
+    },
+    {
+        "second": 10,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3nQ9iLcLO-k/output_frames/sec_10_idx_20.jpg",
+        "fps": 25,
+        "explanation": "[8-16] Subsequently, the elephant bends its front legs and walks down from the truck."
+    },
+    {
+        "second": 11,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3nQ9iLcLO-k/output_frames/sec_11_idx_17.jpg",
+        "fps": 25,
+        "explanation": "[8-16] Subsequently, the elephant bends its front legs and walks down from the truck."
+    },
+    {
+        "second": 12,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3nQ9iLcLO-k/output_frames/sec_12_idx_0.jpg",
+        "fps": 25,
+        "explanation": "[8-16] Subsequently, the elephant bends its front legs and walks down from the truck."
+    },
+    {
+        "second": 13,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3nQ9iLcLO-k/output_frames/sec_13_idx_19.jpg",
+        "fps": 25,
+        "explanation": "[8-16] Subsequently, the elephant bends its front legs and walks down from the truck."
+    },
+    {
+        "second": 14,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3nQ9iLcLO-k/output_frames/sec_14_idx_15.jpg",
+        "fps": 25,
+        "explanation": "[8-16] Subsequently, the elephant bends its front legs and walks down from the truck."
+    },
+    {
+        "second": 15,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3nQ9iLcLO-k/output_frames/sec_15_idx_1.jpg",
+        "fps": 25,
+        "explanation": "[8-16] Subsequently, the elephant bends its front legs and walks down from the truck."
+    },
+    {
+        "second": 16,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3nQ9iLcLO-k/output_frames/sec_16_idx_15.jpg",
+        "fps": 25,
+        "explanation": "[8-16] Subsequently, the elephant bends its front legs and walks down from the truck."
+    },
+    {
+        "second": 17,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3nQ9iLcLO-k/output_frames/sec_17_idx_20.jpg",
+        "fps": 25,
+        "explanation": "[16-22] Next, the elephant turns to face the truck, its trunk waving in the air."
+    },
+    {
+        "second": 18,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3nQ9iLcLO-k/output_frames/sec_18_idx_12.jpg",
+        "fps": 25,
+        "explanation": "[16-22] Next, the elephant turns to face the truck, its trunk waving in the air."
+    },
+    {
+        "second": 19,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3nQ9iLcLO-k/output_frames/sec_19_idx_23.jpg",
+        "fps": 25,
+        "explanation": "[16-22] Next, the elephant turns to face the truck, its trunk waving in the air."
+    },
+    {
+        "second": 20,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3nQ9iLcLO-k/output_frames/sec_20_idx_0.jpg",
+        "fps": 25,
+        "explanation": "[16-22] Next, the elephant turns to face the truck, its trunk waving in the air."
+    },
+    {
+        "second": 21,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3nQ9iLcLO-k/output_frames/sec_21_idx_8.jpg",
+        "fps": 25,
+        "explanation": "[16-22] Next, the elephant turns to face the truck, its trunk waving in the air."
+    },
+    {
+        "second": 22,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3nQ9iLcLO-k/output_frames/sec_22_idx_1.jpg",
+        "fps": 25,
+        "explanation": "[16-22] Next, the elephant turns to face the truck, its trunk waving in the air."
+    }
+]

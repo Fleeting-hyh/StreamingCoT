@@ -1,0 +1,65 @@
+[
+    {
+        "second": 0,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S8GJ7ARmOPg/output_frames/sec_0_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A large insect is being held by a hand against a background of white tile floor, with white text in the foreground."
+    },
+    {
+        "second": 1,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S8GJ7ARmOPg/output_frames/sec_1_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[0-8] Then the insect is flipped over, revealing its green back and wings. The insect continues to flap its wings."
+    },
+    {
+        "second": 2,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S8GJ7ARmOPg/output_frames/sec_2_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[0-8] Then the insect is flipped over, revealing its green back and wings. The insect continues to flap its wings."
+    },
+    {
+        "second": 3,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S8GJ7ARmOPg/output_frames/sec_3_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[0-8] Then the insect is flipped over, revealing its green back and wings. The insect continues to flap its wings."
+    },
+    {
+        "second": 4,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S8GJ7ARmOPg/output_frames/sec_4_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[0-8] Then the insect is flipped over, revealing its green back and wings. The insect continues to flap its wings."
+    },
+    {
+        "second": 5,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S8GJ7ARmOPg/output_frames/sec_5_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[0-8] Then the insect is flipped over, revealing its green back and wings. The insect continues to flap its wings."
+    },
+    {
+        "second": 6,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S8GJ7ARmOPg/output_frames/sec_6_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[0-8] Then the insect is flipped over, revealing its green back and wings. The insect continues to flap its wings."
+    },
+    {
+        "second": 7,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S8GJ7ARmOPg/output_frames/sec_7_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[0-8] Then the insect is flipped over, revealing its green back and wings. The insect continues to flap its wings."
+    },
+    {
+        "second": 8,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S8GJ7ARmOPg/output_frames/sec_8_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[0-8] Then the insect is flipped over, revealing its green back and wings. The insect continues to flap its wings."
+    }
+]

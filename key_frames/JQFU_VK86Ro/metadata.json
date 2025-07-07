@@ -1,0 +1,422 @@
+[
+    {
+        "second": 0,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JQFU_VK86Ro/output_frames/sec_0_idx_22.jpg",
+        "fps": 24,
+        "explanation": "[0-0] In a room with gray carpet, a man with long hair wearing a black short-sleeved shirt and white shoes stands at the doorway. He holds a bouquet of flowers and a white bag in his left hand, and a white card in his right hand. Behind him, many swords hang neatly on the wall. To the right is a French window with a small table underneath, on which there is a vase."
+    },
+    {
+        "second": 1,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JQFU_VK86Ro/output_frames/sec_1_idx_0.jpg",
+        "fps": 24,
+        "explanation": "[0-4] The long-haired man throws the flowers and the card, the flowers landing perfectly in the vase on the table. He runs to the right, and the scene switches to another room with wooden flooring. On the left is a sink with walls on both sides as partitions. The man runs over with a pink streamer in both hands and hangs it on the walls on both sides of the sink."
+    },
+    {
+        "second": 2,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JQFU_VK86Ro/output_frames/sec_2_idx_22.jpg",
+        "fps": 24,
+        "explanation": "[0-4] The long-haired man throws the flowers and the card, the flowers landing perfectly in the vase on the table. He runs to the right, and the scene switches to another room with wooden flooring. On the left is a sink with walls on both sides as partitions. The man runs over with a pink streamer in both hands and hangs it on the walls on both sides of the sink."
+    },
+    {
+        "second": 3,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JQFU_VK86Ro/output_frames/sec_3_idx_12.jpg",
+        "fps": 24,
+        "explanation": "[0-4] The long-haired man throws the flowers and the card, the flowers landing perfectly in the vase on the table. He runs to the right, and the scene switches to another room with wooden flooring. On the left is a sink with walls on both sides as partitions. The man runs over with a pink streamer in both hands and hangs it on the walls on both sides of the sink."
+    },
+    {
+        "second": 4,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JQFU_VK86Ro/output_frames/sec_4_idx_9.jpg",
+        "fps": 24,
+        "explanation": "[0-4] The long-haired man throws the flowers and the card, the flowers landing perfectly in the vase on the table. He runs to the right, and the scene switches to another room with wooden flooring. On the left is a sink with walls on both sides as partitions. The man runs over with a pink streamer in both hands and hangs it on the walls on both sides of the sink."
+    },
+    {
+        "second": 5,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JQFU_VK86Ro/output_frames/sec_5_idx_21.jpg",
+        "fps": 24,
+        "explanation": "[4-12] The scene then switches to the man running into the kitchen. The kitchen has a row of white cabinets, with a stove in the middle, a range hood above, and an oven below. On the right are a wok and two potatoes. The man runs over, opens the stove with his left hand, picks up the wok with his right hand and places it on the stove, then puts the two potatoes into the oven. He then runs to the left, and the scene switches to him standing in front of a silver double-door refrigerator. He quickly opens the refrigerator, takes out wine and meat, and runs back to the kitchen."
+    },
+    {
+        "second": 6,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JQFU_VK86Ro/output_frames/sec_6_idx_1.jpg",
+        "fps": 24,
+        "explanation": "[4-12] The scene then switches to the man running into the kitchen. The kitchen has a row of white cabinets, with a stove in the middle, a range hood above, and an oven below. On the right are a wok and two potatoes. The man runs over, opens the stove with his left hand, picks up the wok with his right hand and places it on the stove, then puts the two potatoes into the oven. He then runs to the left, and the scene switches to him standing in front of a silver double-door refrigerator. He quickly opens the refrigerator, takes out wine and meat, and runs back to the kitchen."
+    },
+    {
+        "second": 7,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JQFU_VK86Ro/output_frames/sec_7_idx_0.jpg",
+        "fps": 24,
+        "explanation": "[4-12] The scene then switches to the man running into the kitchen. The kitchen has a row of white cabinets, with a stove in the middle, a range hood above, and an oven below. On the right are a wok and two potatoes. The man runs over, opens the stove with his left hand, picks up the wok with his right hand and places it on the stove, then puts the two potatoes into the oven. He then runs to the left, and the scene switches to him standing in front of a silver double-door refrigerator. He quickly opens the refrigerator, takes out wine and meat, and runs back to the kitchen."
+    },
+    {
+        "second": 8,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JQFU_VK86Ro/output_frames/sec_8_idx_23.jpg",
+        "fps": 24,
+        "explanation": "[4-12] The scene then switches to the man running into the kitchen. The kitchen has a row of white cabinets, with a stove in the middle, a range hood above, and an oven below. On the right are a wok and two potatoes. The man runs over, opens the stove with his left hand, picks up the wok with his right hand and places it on the stove, then puts the two potatoes into the oven. He then runs to the left, and the scene switches to him standing in front of a silver double-door refrigerator. He quickly opens the refrigerator, takes out wine and meat, and runs back to the kitchen."
+    },
+    {
+        "second": 9,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JQFU_VK86Ro/output_frames/sec_9_idx_12.jpg",
+        "fps": 24,
+        "explanation": "[4-12] The scene then switches to the man running into the kitchen. The kitchen has a row of white cabinets, with a stove in the middle, a range hood above, and an oven below. On the right are a wok and two potatoes. The man runs over, opens the stove with his left hand, picks up the wok with his right hand and places it on the stove, then puts the two potatoes into the oven. He then runs to the left, and the scene switches to him standing in front of a silver double-door refrigerator. He quickly opens the refrigerator, takes out wine and meat, and runs back to the kitchen."
+    },
+    {
+        "second": 10,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JQFU_VK86Ro/output_frames/sec_10_idx_3.jpg",
+        "fps": 24,
+        "explanation": "[4-12] The scene then switches to the man running into the kitchen. The kitchen has a row of white cabinets, with a stove in the middle, a range hood above, and an oven below. On the right are a wok and two potatoes. The man runs over, opens the stove with his left hand, picks up the wok with his right hand and places it on the stove, then puts the two potatoes into the oven. He then runs to the left, and the scene switches to him standing in front of a silver double-door refrigerator. He quickly opens the refrigerator, takes out wine and meat, and runs back to the kitchen."
+    },
+    {
+        "second": 11,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JQFU_VK86Ro/output_frames/sec_11_idx_2.jpg",
+        "fps": 24,
+        "explanation": "[4-12] The scene then switches to the man running into the kitchen. The kitchen has a row of white cabinets, with a stove in the middle, a range hood above, and an oven below. On the right are a wok and two potatoes. The man runs over, opens the stove with his left hand, picks up the wok with his right hand and places it on the stove, then puts the two potatoes into the oven. He then runs to the left, and the scene switches to him standing in front of a silver double-door refrigerator. He quickly opens the refrigerator, takes out wine and meat, and runs back to the kitchen."
+    },
+    {
+        "second": 12,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JQFU_VK86Ro/output_frames/sec_12_idx_8.jpg",
+        "fps": 24,
+        "explanation": "[4-12] The scene then switches to the man running into the kitchen. The kitchen has a row of white cabinets, with a stove in the middle, a range hood above, and an oven below. On the right are a wok and two potatoes. The man runs over, opens the stove with his left hand, picks up the wok with his right hand and places it on the stove, then puts the two potatoes into the oven. He then runs to the left, and the scene switches to him standing in front of a silver double-door refrigerator. He quickly opens the refrigerator, takes out wine and meat, and runs back to the kitchen."
+    },
+    {
+        "second": 13,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JQFU_VK86Ro/output_frames/sec_13_idx_9.jpg",
+        "fps": 24,
+        "explanation": "[12-19] Immediately, the man throws the meat into the wok, flames rising from the pan. He runs to the left, and the scene switches to him standing in front of a wooden dining table. At each end of the table is a black chair. The man covers the table with a red cloth, places the wine and a glass vase on it, and runs to the right. The scene switches again, showing him holding a red streamer and sliding to a stop in front of the fireplace. He places a red streamer on the fireplace mantel, hangs a pink heart-shaped streamer on the wall, takes a sword from above the fireplace, and runs to the right."
+    },
+    {
+        "second": 14,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JQFU_VK86Ro/output_frames/sec_14_idx_15.jpg",
+        "fps": 24,
+        "explanation": "[12-19] Immediately, the man throws the meat into the wok, flames rising from the pan. He runs to the left, and the scene switches to him standing in front of a wooden dining table. At each end of the table is a black chair. The man covers the table with a red cloth, places the wine and a glass vase on it, and runs to the right. The scene switches again, showing him holding a red streamer and sliding to a stop in front of the fireplace. He places a red streamer on the fireplace mantel, hangs a pink heart-shaped streamer on the wall, takes a sword from above the fireplace, and runs to the right."
+    },
+    {
+        "second": 15,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JQFU_VK86Ro/output_frames/sec_15_idx_19.jpg",
+        "fps": 24,
+        "explanation": "[12-19] Immediately, the man throws the meat into the wok, flames rising from the pan. He runs to the left, and the scene switches to him standing in front of a wooden dining table. At each end of the table is a black chair. The man covers the table with a red cloth, places the wine and a glass vase on it, and runs to the right. The scene switches again, showing him holding a red streamer and sliding to a stop in front of the fireplace. He places a red streamer on the fireplace mantel, hangs a pink heart-shaped streamer on the wall, takes a sword from above the fireplace, and runs to the right."
+    },
+    {
+        "second": 16,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JQFU_VK86Ro/output_frames/sec_16_idx_0.jpg",
+        "fps": 24,
+        "explanation": "[12-19] Immediately, the man throws the meat into the wok, flames rising from the pan. He runs to the left, and the scene switches to him standing in front of a wooden dining table. At each end of the table is a black chair. The man covers the table with a red cloth, places the wine and a glass vase on it, and runs to the right. The scene switches again, showing him holding a red streamer and sliding to a stop in front of the fireplace. He places a red streamer on the fireplace mantel, hangs a pink heart-shaped streamer on the wall, takes a sword from above the fireplace, and runs to the right."
+    },
+    {
+        "second": 17,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JQFU_VK86Ro/output_frames/sec_17_idx_23.jpg",
+        "fps": 24,
+        "explanation": "[12-19] Immediately, the man throws the meat into the wok, flames rising from the pan. He runs to the left, and the scene switches to him standing in front of a wooden dining table. At each end of the table is a black chair. The man covers the table with a red cloth, places the wine and a glass vase on it, and runs to the right. The scene switches again, showing him holding a red streamer and sliding to a stop in front of the fireplace. He places a red streamer on the fireplace mantel, hangs a pink heart-shaped streamer on the wall, takes a sword from above the fireplace, and runs to the right."
+    },
+    {
+        "second": 18,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JQFU_VK86Ro/output_frames/sec_18_idx_4.jpg",
+        "fps": 24,
+        "explanation": "[12-19] Immediately, the man throws the meat into the wok, flames rising from the pan. He runs to the left, and the scene switches to him standing in front of a wooden dining table. At each end of the table is a black chair. The man covers the table with a red cloth, places the wine and a glass vase on it, and runs to the right. The scene switches again, showing him holding a red streamer and sliding to a stop in front of the fireplace. He places a red streamer on the fireplace mantel, hangs a pink heart-shaped streamer on the wall, takes a sword from above the fireplace, and runs to the right."
+    },
+    {
+        "second": 19,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JQFU_VK86Ro/output_frames/sec_19_idx_20.jpg",
+        "fps": 24,
+        "explanation": "[12-19] Immediately, the man throws the meat into the wok, flames rising from the pan. He runs to the left, and the scene switches to him standing in front of a wooden dining table. At each end of the table is a black chair. The man covers the table with a red cloth, places the wine and a glass vase on it, and runs to the right. The scene switches again, showing him holding a red streamer and sliding to a stop in front of the fireplace. He places a red streamer on the fireplace mantel, hangs a pink heart-shaped streamer on the wall, takes a sword from above the fireplace, and runs to the right."
+    },
+    {
+        "second": 20,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JQFU_VK86Ro/output_frames/sec_20_idx_3.jpg",
+        "fps": 24,
+        "explanation": "[19-24] Next, the man comes to a marble countertop with the sword and cuts off a branch of red flowers from a bouquet on the countertop. He then puts the sword on the countertop and walks to the right with the red flowers. The scene switches to the dining table, where there is a blue fabric sofa on the upper right and a spiral staircase in front of the sofa. The man comes over and puts the red flowers into the vase on the table, puts two tall wine glasses on the table, then turns and jumps over the blue sofa, running up the stairs."
+    },
+    {
+        "second": 21,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JQFU_VK86Ro/output_frames/sec_21_idx_12.jpg",
+        "fps": 24,
+        "explanation": "[19-24] Next, the man comes to a marble countertop with the sword and cuts off a branch of red flowers from a bouquet on the countertop. He then puts the sword on the countertop and walks to the right with the red flowers. The scene switches to the dining table, where there is a blue fabric sofa on the upper right and a spiral staircase in front of the sofa. The man comes over and puts the red flowers into the vase on the table, puts two tall wine glasses on the table, then turns and jumps over the blue sofa, running up the stairs."
+    },
+    {
+        "second": 22,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JQFU_VK86Ro/output_frames/sec_22_idx_22.jpg",
+        "fps": 24,
+        "explanation": "[19-24] Next, the man comes to a marble countertop with the sword and cuts off a branch of red flowers from a bouquet on the countertop. He then puts the sword on the countertop and walks to the right with the red flowers. The scene switches to the dining table, where there is a blue fabric sofa on the upper right and a spiral staircase in front of the sofa. The man comes over and puts the red flowers into the vase on the table, puts two tall wine glasses on the table, then turns and jumps over the blue sofa, running up the stairs."
+    },
+    {
+        "second": 23,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JQFU_VK86Ro/output_frames/sec_23_idx_1.jpg",
+        "fps": 24,
+        "explanation": "[19-24] Next, the man comes to a marble countertop with the sword and cuts off a branch of red flowers from a bouquet on the countertop. He then puts the sword on the countertop and walks to the right with the red flowers. The scene switches to the dining table, where there is a blue fabric sofa on the upper right and a spiral staircase in front of the sofa. The man comes over and puts the red flowers into the vase on the table, puts two tall wine glasses on the table, then turns and jumps over the blue sofa, running up the stairs."
+    },
+    {
+        "second": 24,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JQFU_VK86Ro/output_frames/sec_24_idx_4.jpg",
+        "fps": 24,
+        "explanation": "[19-24] Next, the man comes to a marble countertop with the sword and cuts off a branch of red flowers from a bouquet on the countertop. He then puts the sword on the countertop and walks to the right with the red flowers. The scene switches to the dining table, where there is a blue fabric sofa on the upper right and a spiral staircase in front of the sofa. The man comes over and puts the red flowers into the vase on the table, puts two tall wine glasses on the table, then turns and jumps over the blue sofa, running up the stairs."
+    },
+    {
+        "second": 25,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JQFU_VK86Ro/output_frames/sec_25_idx_14.jpg",
+        "fps": 24,
+        "explanation": "[24-32] The scene then switches to the man running up the stairs and scattering red petals on them. The scene switches again, showing the man entering a bedroom. The bedroom has a bed with white bedding, a black ceiling fan, and a white carpet in front of the bed with a row of candles on it. The man lights the white candles on the carpet with a lighter, places a red doll on the pillow, and sprinkles red petals on the bed."
+    },
+    {
+        "second": 26,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JQFU_VK86Ro/output_frames/sec_26_idx_5.jpg",
+        "fps": 24,
+        "explanation": "[24-32] The scene then switches to the man running up the stairs and scattering red petals on them. The scene switches again, showing the man entering a bedroom. The bedroom has a bed with white bedding, a black ceiling fan, and a white carpet in front of the bed with a row of candles on it. The man lights the white candles on the carpet with a lighter, places a red doll on the pillow, and sprinkles red petals on the bed."
+    },
+    {
+        "second": 27,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JQFU_VK86Ro/output_frames/sec_27_idx_3.jpg",
+        "fps": 24,
+        "explanation": "[24-32] The scene then switches to the man running up the stairs and scattering red petals on them. The scene switches again, showing the man entering a bedroom. The bedroom has a bed with white bedding, a black ceiling fan, and a white carpet in front of the bed with a row of candles on it. The man lights the white candles on the carpet with a lighter, places a red doll on the pillow, and sprinkles red petals on the bed."
+    },
+    {
+        "second": 28,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JQFU_VK86Ro/output_frames/sec_28_idx_17.jpg",
+        "fps": 24,
+        "explanation": "[24-32] The scene then switches to the man running up the stairs and scattering red petals on them. The scene switches again, showing the man entering a bedroom. The bedroom has a bed with white bedding, a black ceiling fan, and a white carpet in front of the bed with a row of candles on it. The man lights the white candles on the carpet with a lighter, places a red doll on the pillow, and sprinkles red petals on the bed."
+    },
+    {
+        "second": 29,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JQFU_VK86Ro/output_frames/sec_29_idx_21.jpg",
+        "fps": 24,
+        "explanation": "[24-32] The scene then switches to the man running up the stairs and scattering red petals on them. The scene switches again, showing the man entering a bedroom. The bedroom has a bed with white bedding, a black ceiling fan, and a white carpet in front of the bed with a row of candles on it. The man lights the white candles on the carpet with a lighter, places a red doll on the pillow, and sprinkles red petals on the bed."
+    },
+    {
+        "second": 30,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JQFU_VK86Ro/output_frames/sec_30_idx_0.jpg",
+        "fps": 24,
+        "explanation": "[24-32] The scene then switches to the man running up the stairs and scattering red petals on them. The scene switches again, showing the man entering a bedroom. The bedroom has a bed with white bedding, a black ceiling fan, and a white carpet in front of the bed with a row of candles on it. The man lights the white candles on the carpet with a lighter, places a red doll on the pillow, and sprinkles red petals on the bed."
+    },
+    {
+        "second": 31,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JQFU_VK86Ro/output_frames/sec_31_idx_6.jpg",
+        "fps": 24,
+        "explanation": "[24-32] The scene then switches to the man running up the stairs and scattering red petals on them. The scene switches again, showing the man entering a bedroom. The bedroom has a bed with white bedding, a black ceiling fan, and a white carpet in front of the bed with a row of candles on it. The man lights the white candles on the carpet with a lighter, places a red doll on the pillow, and sprinkles red petals on the bed."
+    },
+    {
+        "second": 32,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JQFU_VK86Ro/output_frames/sec_32_idx_20.jpg",
+        "fps": 24,
+        "explanation": "[24-32] The scene then switches to the man running up the stairs and scattering red petals on them. The scene switches again, showing the man entering a bedroom. The bedroom has a bed with white bedding, a black ceiling fan, and a white carpet in front of the bed with a row of candles on it. The man lights the white candles on the carpet with a lighter, places a red doll on the pillow, and sprinkles red petals on the bed."
+    },
+    {
+        "second": 33,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JQFU_VK86Ro/output_frames/sec_33_idx_18.jpg",
+        "fps": 24,
+        "explanation": "[32-40] The man then rolls on the bed, runs to the left, and the scene switches to him at the stairs, sticking several heart-shaped stickers on the walls on both sides of the staircase. The scene switches again, showing the man running to the living room. There is a black wooden table below with a bag of oatmeal, an empty bowl, and two black plates on it. On the left is a television that is playing. The man places a heart-shaped garland on the right corner of the table, pours the oatmeal into the bowl, and then picks up the black plates and runs to the right."
+    },
+    {
+        "second": 34,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JQFU_VK86Ro/output_frames/sec_34_idx_23.jpg",
+        "fps": 24,
+        "explanation": "[32-40] The man then rolls on the bed, runs to the left, and the scene switches to him at the stairs, sticking several heart-shaped stickers on the walls on both sides of the staircase. The scene switches again, showing the man running to the living room. There is a black wooden table below with a bag of oatmeal, an empty bowl, and two black plates on it. On the left is a television that is playing. The man places a heart-shaped garland on the right corner of the table, pours the oatmeal into the bowl, and then picks up the black plates and runs to the right."
+    },
+    {
+        "second": 35,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JQFU_VK86Ro/output_frames/sec_35_idx_18.jpg",
+        "fps": 24,
+        "explanation": "[32-40] The man then rolls on the bed, runs to the left, and the scene switches to him at the stairs, sticking several heart-shaped stickers on the walls on both sides of the staircase. The scene switches again, showing the man running to the living room. There is a black wooden table below with a bag of oatmeal, an empty bowl, and two black plates on it. On the left is a television that is playing. The man places a heart-shaped garland on the right corner of the table, pours the oatmeal into the bowl, and then picks up the black plates and runs to the right."
+    },
+    {
+        "second": 36,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JQFU_VK86Ro/output_frames/sec_36_idx_18.jpg",
+        "fps": 24,
+        "explanation": "[32-40] The man then rolls on the bed, runs to the left, and the scene switches to him at the stairs, sticking several heart-shaped stickers on the walls on both sides of the staircase. The scene switches again, showing the man running to the living room. There is a black wooden table below with a bag of oatmeal, an empty bowl, and two black plates on it. On the left is a television that is playing. The man places a heart-shaped garland on the right corner of the table, pours the oatmeal into the bowl, and then picks up the black plates and runs to the right."
+    },
+    {
+        "second": 37,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JQFU_VK86Ro/output_frames/sec_37_idx_15.jpg",
+        "fps": 24,
+        "explanation": "[32-40] The man then rolls on the bed, runs to the left, and the scene switches to him at the stairs, sticking several heart-shaped stickers on the walls on both sides of the staircase. The scene switches again, showing the man running to the living room. There is a black wooden table below with a bag of oatmeal, an empty bowl, and two black plates on it. On the left is a television that is playing. The man places a heart-shaped garland on the right corner of the table, pours the oatmeal into the bowl, and then picks up the black plates and runs to the right."
+    },
+    {
+        "second": 38,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JQFU_VK86Ro/output_frames/sec_38_idx_6.jpg",
+        "fps": 24,
+        "explanation": "[32-40] The man then rolls on the bed, runs to the left, and the scene switches to him at the stairs, sticking several heart-shaped stickers on the walls on both sides of the staircase. The scene switches again, showing the man running to the living room. There is a black wooden table below with a bag of oatmeal, an empty bowl, and two black plates on it. On the left is a television that is playing. The man places a heart-shaped garland on the right corner of the table, pours the oatmeal into the bowl, and then picks up the black plates and runs to the right."
+    },
+    {
+        "second": 39,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JQFU_VK86Ro/output_frames/sec_39_idx_12.jpg",
+        "fps": 24,
+        "explanation": "[32-40] The man then rolls on the bed, runs to the left, and the scene switches to him at the stairs, sticking several heart-shaped stickers on the walls on both sides of the staircase. The scene switches again, showing the man running to the living room. There is a black wooden table below with a bag of oatmeal, an empty bowl, and two black plates on it. On the left is a television that is playing. The man places a heart-shaped garland on the right corner of the table, pours the oatmeal into the bowl, and then picks up the black plates and runs to the right."
+    },
+    {
+        "second": 40,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JQFU_VK86Ro/output_frames/sec_40_idx_8.jpg",
+        "fps": 24,
+        "explanation": "[32-40] The man then rolls on the bed, runs to the left, and the scene switches to him at the stairs, sticking several heart-shaped stickers on the walls on both sides of the staircase. The scene switches again, showing the man running to the living room. There is a black wooden table below with a bag of oatmeal, an empty bowl, and two black plates on it. On the left is a television that is playing. The man places a heart-shaped garland on the right corner of the table, pours the oatmeal into the bowl, and then picks up the black plates and runs to the right."
+    },
+    {
+        "second": 41,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JQFU_VK86Ro/output_frames/sec_41_idx_22.jpg",
+        "fps": 24,
+        "explanation": "[40-45] The scene then switches to the man running back to the dining table with the black plates, placing one on each side of the table. He then runs past the kitchen, scattering red petals on the floor."
+    },
+    {
+        "second": 42,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JQFU_VK86Ro/output_frames/sec_42_idx_23.jpg",
+        "fps": 24,
+        "explanation": "[40-45] The scene then switches to the man running back to the dining table with the black plates, placing one on each side of the table. He then runs past the kitchen, scattering red petals on the floor."
+    },
+    {
+        "second": 43,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JQFU_VK86Ro/output_frames/sec_43_idx_0.jpg",
+        "fps": 24,
+        "explanation": "[40-45] The scene then switches to the man running back to the dining table with the black plates, placing one on each side of the table. He then runs past the kitchen, scattering red petals on the floor."
+    },
+    {
+        "second": 44,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JQFU_VK86Ro/output_frames/sec_44_idx_23.jpg",
+        "fps": 24,
+        "explanation": "[40-45] The scene then switches to the man running back to the dining table with the black plates, placing one on each side of the table. He then runs past the kitchen, scattering red petals on the floor."
+    },
+    {
+        "second": 45,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JQFU_VK86Ro/output_frames/sec_45_idx_7.jpg",
+        "fps": 24,
+        "explanation": "[40-45] The scene then switches to the man running back to the dining table with the black plates, placing one on each side of the table. He then runs past the kitchen, scattering red petals on the floor."
+    },
+    {
+        "second": 46,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JQFU_VK86Ro/output_frames/sec_46_idx_8.jpg",
+        "fps": 24,
+        "explanation": "[45-50] The scene switches again, showing the man running to the cloakroom, taking out a black jacket, putting on the jacket while tying up his hair, and running to the right."
+    },
+    {
+        "second": 47,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JQFU_VK86Ro/output_frames/sec_47_idx_16.jpg",
+        "fps": 24,
+        "explanation": "[45-50] The scene switches again, showing the man running to the cloakroom, taking out a black jacket, putting on the jacket while tying up his hair, and running to the right."
+    },
+    {
+        "second": 48,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JQFU_VK86Ro/output_frames/sec_48_idx_3.jpg",
+        "fps": 24,
+        "explanation": "[45-50] The scene switches again, showing the man running to the cloakroom, taking out a black jacket, putting on the jacket while tying up his hair, and running to the right."
+    },
+    {
+        "second": 49,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JQFU_VK86Ro/output_frames/sec_49_idx_21.jpg",
+        "fps": 24,
+        "explanation": "[45-50] The scene switches again, showing the man running to the cloakroom, taking out a black jacket, putting on the jacket while tying up his hair, and running to the right."
+    },
+    {
+        "second": 50,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JQFU_VK86Ro/output_frames/sec_50_idx_19.jpg",
+        "fps": 24,
+        "explanation": "[45-50] The scene switches again, showing the man running to the cloakroom, taking out a black jacket, putting on the jacket while tying up his hair, and running to the right."
+    },
+    {
+        "second": 51,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JQFU_VK86Ro/output_frames/sec_51_idx_0.jpg",
+        "fps": 24,
+        "explanation": "[50-59] Finally, the man runs to a white table in the kitchen. The white table is covered with red petals and has a pink and white card and a pen on it. The man runs over and starts writing on the card. After he finishes writing, he runs to the left, and the scene switches to him running into the kitchen with a blue plate. He opens the oven, takes out the two potatoes and puts them on the plate, then takes the two pieces of meat from the pot and puts them on the plate. He picks up the pot with his right hand and throws it out the window. He then runs back to the right side of the dining table with the blue plate, puts a piece of meat and a potato on one of the black plates, picks up another piece of meat and a potato, puts the potato on the other black plate, and drops the meat on the floor to the left. The man looks to the left with the blue plate in his hand, and the frame freezes."
+    },
+    {
+        "second": 52,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JQFU_VK86Ro/output_frames/sec_52_idx_20.jpg",
+        "fps": 24,
+        "explanation": "[50-59] Finally, the man runs to a white table in the kitchen. The white table is covered with red petals and has a pink and white card and a pen on it. The man runs over and starts writing on the card. After he finishes writing, he runs to the left, and the scene switches to him running into the kitchen with a blue plate. He opens the oven, takes out the two potatoes and puts them on the plate, then takes the two pieces of meat from the pot and puts them on the plate. He picks up the pot with his right hand and throws it out the window. He then runs back to the right side of the dining table with the blue plate, puts a piece of meat and a potato on one of the black plates, picks up another piece of meat and a potato, puts the potato on the other black plate, and drops the meat on the floor to the left. The man looks to the left with the blue plate in his hand, and the frame freezes."
+    },
+    {
+        "second": 53,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JQFU_VK86Ro/output_frames/sec_53_idx_0.jpg",
+        "fps": 24,
+        "explanation": "[50-59] Finally, the man runs to a white table in the kitchen. The white table is covered with red petals and has a pink and white card and a pen on it. The man runs over and starts writing on the card. After he finishes writing, he runs to the left, and the scene switches to him running into the kitchen with a blue plate. He opens the oven, takes out the two potatoes and puts them on the plate, then takes the two pieces of meat from the pot and puts them on the plate. He picks up the pot with his right hand and throws it out the window. He then runs back to the right side of the dining table with the blue plate, puts a piece of meat and a potato on one of the black plates, picks up another piece of meat and a potato, puts the potato on the other black plate, and drops the meat on the floor to the left. The man looks to the left with the blue plate in his hand, and the frame freezes."
+    },
+    {
+        "second": 54,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JQFU_VK86Ro/output_frames/sec_54_idx_2.jpg",
+        "fps": 24,
+        "explanation": "[50-59] Finally, the man runs to a white table in the kitchen. The white table is covered with red petals and has a pink and white card and a pen on it. The man runs over and starts writing on the card. After he finishes writing, he runs to the left, and the scene switches to him running into the kitchen with a blue plate. He opens the oven, takes out the two potatoes and puts them on the plate, then takes the two pieces of meat from the pot and puts them on the plate. He picks up the pot with his right hand and throws it out the window. He then runs back to the right side of the dining table with the blue plate, puts a piece of meat and a potato on one of the black plates, picks up another piece of meat and a potato, puts the potato on the other black plate, and drops the meat on the floor to the left. The man looks to the left with the blue plate in his hand, and the frame freezes."
+    },
+    {
+        "second": 55,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JQFU_VK86Ro/output_frames/sec_55_idx_17.jpg",
+        "fps": 24,
+        "explanation": "[50-59] Finally, the man runs to a white table in the kitchen. The white table is covered with red petals and has a pink and white card and a pen on it. The man runs over and starts writing on the card. After he finishes writing, he runs to the left, and the scene switches to him running into the kitchen with a blue plate. He opens the oven, takes out the two potatoes and puts them on the plate, then takes the two pieces of meat from the pot and puts them on the plate. He picks up the pot with his right hand and throws it out the window. He then runs back to the right side of the dining table with the blue plate, puts a piece of meat and a potato on one of the black plates, picks up another piece of meat and a potato, puts the potato on the other black plate, and drops the meat on the floor to the left. The man looks to the left with the blue plate in his hand, and the frame freezes."
+    },
+    {
+        "second": 56,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JQFU_VK86Ro/output_frames/sec_56_idx_11.jpg",
+        "fps": 24,
+        "explanation": "[50-59] Finally, the man runs to a white table in the kitchen. The white table is covered with red petals and has a pink and white card and a pen on it. The man runs over and starts writing on the card. After he finishes writing, he runs to the left, and the scene switches to him running into the kitchen with a blue plate. He opens the oven, takes out the two potatoes and puts them on the plate, then takes the two pieces of meat from the pot and puts them on the plate. He picks up the pot with his right hand and throws it out the window. He then runs back to the right side of the dining table with the blue plate, puts a piece of meat and a potato on one of the black plates, picks up another piece of meat and a potato, puts the potato on the other black plate, and drops the meat on the floor to the left. The man looks to the left with the blue plate in his hand, and the frame freezes."
+    },
+    {
+        "second": 57,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JQFU_VK86Ro/output_frames/sec_57_idx_11.jpg",
+        "fps": 24,
+        "explanation": "[50-59] Finally, the man runs to a white table in the kitchen. The white table is covered with red petals and has a pink and white card and a pen on it. The man runs over and starts writing on the card. After he finishes writing, he runs to the left, and the scene switches to him running into the kitchen with a blue plate. He opens the oven, takes out the two potatoes and puts them on the plate, then takes the two pieces of meat from the pot and puts them on the plate. He picks up the pot with his right hand and throws it out the window. He then runs back to the right side of the dining table with the blue plate, puts a piece of meat and a potato on one of the black plates, picks up another piece of meat and a potato, puts the potato on the other black plate, and drops the meat on the floor to the left. The man looks to the left with the blue plate in his hand, and the frame freezes."
+    },
+    {
+        "second": 58,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JQFU_VK86Ro/output_frames/sec_58_idx_6.jpg",
+        "fps": 24,
+        "explanation": "[50-59] Finally, the man runs to a white table in the kitchen. The white table is covered with red petals and has a pink and white card and a pen on it. The man runs over and starts writing on the card. After he finishes writing, he runs to the left, and the scene switches to him running into the kitchen with a blue plate. He opens the oven, takes out the two potatoes and puts them on the plate, then takes the two pieces of meat from the pot and puts them on the plate. He picks up the pot with his right hand and throws it out the window. He then runs back to the right side of the dining table with the blue plate, puts a piece of meat and a potato on one of the black plates, picks up another piece of meat and a potato, puts the potato on the other black plate, and drops the meat on the floor to the left. The man looks to the left with the blue plate in his hand, and the frame freezes."
+    },
+    {
+        "second": 59,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JQFU_VK86Ro/output_frames/sec_59_idx_0.jpg",
+        "fps": 24,
+        "explanation": "[50-59] Finally, the man runs to a white table in the kitchen. The white table is covered with red petals and has a pink and white card and a pen on it. The man runs over and starts writing on the card. After he finishes writing, he runs to the left, and the scene switches to him running into the kitchen with a blue plate. He opens the oven, takes out the two potatoes and puts them on the plate, then takes the two pieces of meat from the pot and puts them on the plate. He picks up the pot with his right hand and throws it out the window. He then runs back to the right side of the dining table with the blue plate, puts a piece of meat and a potato on one of the black plates, picks up another piece of meat and a potato, puts the potato on the other black plate, and drops the meat on the floor to the left. The man looks to the left with the blue plate in his hand, and the frame freezes."
+    }
+]

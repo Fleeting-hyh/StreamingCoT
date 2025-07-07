@@ -1,0 +1,128 @@
+[
+    {
+        "second": 0,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1CyJXL4uPLQ/output_frames/sec_0_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[0-0] Steve is standing in front of a blackboard in a classroom with an orange floor. On the blackboard, there is a three-dimensional figure composed of four rectangles. Steve is holding a black pointer, pointing at the figure."
+    },
+    {
+        "second": 1,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1CyJXL4uPLQ/output_frames/sec_1_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[0-2] The camera zooms in as Steve nods a few times. On the blackboard, the numbers \"1, 2, 3, 4\" appear in sequence on the figure, and the black pointer points to each part of the figure in turn. Then, the scene changes to Steve standing in front of the blackboard nodding. There is a cloud-shaped pattern on the left with the number \"4\" on it. There are two circles on the right side of the pattern. Steve nods forward."
+    },
+    {
+        "second": 2,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1CyJXL4uPLQ/output_frames/sec_2_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[0-2] The camera zooms in as Steve nods a few times. On the blackboard, the numbers \"1, 2, 3, 4\" appear in sequence on the figure, and the black pointer points to each part of the figure in turn. Then, the scene changes to Steve standing in front of the blackboard nodding. There is a cloud-shaped pattern on the left with the number \"4\" on it. There are two circles on the right side of the pattern. Steve nods forward."
+    },
+    {
+        "second": 3,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1CyJXL4uPLQ/output_frames/sec_3_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[2-4] Subsequently, the scene changes to an empty room, and Little Steve sits on a chair in the center of the room and nods. After that, the scene changes to Steve and a white-haired old man standing in front of the blackboard, both holding black pointers. Little Steve is sitting on a chair in the center of the room. The white-haired old man shakes his head. The camera zooms in, and the white-haired old man points at the three-dimensional figure with a black pointer. The numbers \"1, 2, 3\" appear in sequence on the figure, and the black pointer points to each part of the figure in turn. There are white subtitles on the left side: \"@XDSchool\"."
+    },
+    {
+        "second": 4,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1CyJXL4uPLQ/output_frames/sec_4_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[2-4] Subsequently, the scene changes to an empty room, and Little Steve sits on a chair in the center of the room and nods. After that, the scene changes to Steve and a white-haired old man standing in front of the blackboard, both holding black pointers. Little Steve is sitting on a chair in the center of the room. The white-haired old man shakes his head. The camera zooms in, and the white-haired old man points at the three-dimensional figure with a black pointer. The numbers \"1, 2, 3\" appear in sequence on the figure, and the black pointer points to each part of the figure in turn. There are white subtitles on the left side: \"@XDSchool\"."
+    },
+    {
+        "second": 5,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1CyJXL4uPLQ/output_frames/sec_5_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[4-7] Then, the scene changes to the white-haired old man standing in front of the blackboard holding a black pointer and nodding. There is a cloud-shaped pattern on the right with the number \"3\" on it. On the left side of the pattern are two circles. Then the white-haired old man nods forward. The scene changes to an empty room, and Little Steve sits on a chair in the center of the room, rubs his eyes, looks to the left, then jumps up from his seat with his eyes bulging, and the number \"3\" is written on them."
+    },
+    {
+        "second": 6,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1CyJXL4uPLQ/output_frames/sec_6_idx_24.jpg",
+        "fps": 30,
+        "explanation": "[4-7] Then, the scene changes to the white-haired old man standing in front of the blackboard holding a black pointer and nodding. There is a cloud-shaped pattern on the right with the number \"3\" on it. On the left side of the pattern are two circles. Then the white-haired old man nods forward. The scene changes to an empty room, and Little Steve sits on a chair in the center of the room, rubs his eyes, looks to the left, then jumps up from his seat with his eyes bulging, and the number \"3\" is written on them."
+    },
+    {
+        "second": 7,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1CyJXL4uPLQ/output_frames/sec_7_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[4-7] Then, the scene changes to the white-haired old man standing in front of the blackboard holding a black pointer and nodding. There is a cloud-shaped pattern on the right with the number \"3\" on it. On the left side of the pattern are two circles. Then the white-haired old man nods forward. The scene changes to an empty room, and Little Steve sits on a chair in the center of the room, rubs his eyes, looks to the left, then jumps up from his seat with his eyes bulging, and the number \"3\" is written on them."
+    },
+    {
+        "second": 8,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1CyJXL4uPLQ/output_frames/sec_8_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[7-17] Subsequently, the scene changes to Steve and the white-haired old man standing in front of the blackboard, Steve on the left and the old man on the right. Little Steve is standing in front of them, scratching his head and looking forward. A purple thought bubble appears above Steve's head with the number \"4\" written inside, and a purple thought bubble appears above the old man's head with the number \"3\" written inside. They look at each other, their bodies trembling. The three-dimensional figure drawn on the blackboard has a \"4\" written on one end and a \"3\" written on the other end. Immediately afterward, a pink base appears in the middle with the three-dimensional figure drawn on it, with the number \"4\" on the left and \"3\" on the right. Below the number \"4\" is a gray base with a white thumbs-up pattern, and below the number \"3\" is a gray base with a black oval shape with three black dots inside and a blue \"OR\" written in the middle. A mouse cursor moves from the pattern to the gray base with the white thumbs-up pattern, then to the gray base with the black oval, and back to the three-dimensional figure. A countdown of \"5, 4, 3, 2, 1\" appears above. The mouse selects the gray base with the white thumbs-up pattern, and Little Steve looks forward and nods."
+    },
+    {
+        "second": 9,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1CyJXL4uPLQ/output_frames/sec_9_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[7-17] Subsequently, the scene changes to Steve and the white-haired old man standing in front of the blackboard, Steve on the left and the old man on the right. Little Steve is standing in front of them, scratching his head and looking forward. A purple thought bubble appears above Steve's head with the number \"4\" written inside, and a purple thought bubble appears above the old man's head with the number \"3\" written inside. They look at each other, their bodies trembling. The three-dimensional figure drawn on the blackboard has a \"4\" written on one end and a \"3\" written on the other end. Immediately afterward, a pink base appears in the middle with the three-dimensional figure drawn on it, with the number \"4\" on the left and \"3\" on the right. Below the number \"4\" is a gray base with a white thumbs-up pattern, and below the number \"3\" is a gray base with a black oval shape with three black dots inside and a blue \"OR\" written in the middle. A mouse cursor moves from the pattern to the gray base with the white thumbs-up pattern, then to the gray base with the black oval, and back to the three-dimensional figure. A countdown of \"5, 4, 3, 2, 1\" appears above. The mouse selects the gray base with the white thumbs-up pattern, and Little Steve looks forward and nods."
+    },
+    {
+        "second": 10,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1CyJXL4uPLQ/output_frames/sec_10_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[7-17] Subsequently, the scene changes to Steve and the white-haired old man standing in front of the blackboard, Steve on the left and the old man on the right. Little Steve is standing in front of them, scratching his head and looking forward. A purple thought bubble appears above Steve's head with the number \"4\" written inside, and a purple thought bubble appears above the old man's head with the number \"3\" written inside. They look at each other, their bodies trembling. The three-dimensional figure drawn on the blackboard has a \"4\" written on one end and a \"3\" written on the other end. Immediately afterward, a pink base appears in the middle with the three-dimensional figure drawn on it, with the number \"4\" on the left and \"3\" on the right. Below the number \"4\" is a gray base with a white thumbs-up pattern, and below the number \"3\" is a gray base with a black oval shape with three black dots inside and a blue \"OR\" written in the middle. A mouse cursor moves from the pattern to the gray base with the white thumbs-up pattern, then to the gray base with the black oval, and back to the three-dimensional figure. A countdown of \"5, 4, 3, 2, 1\" appears above. The mouse selects the gray base with the white thumbs-up pattern, and Little Steve looks forward and nods."
+    },
+    {
+        "second": 11,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1CyJXL4uPLQ/output_frames/sec_11_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[7-17] Subsequently, the scene changes to Steve and the white-haired old man standing in front of the blackboard, Steve on the left and the old man on the right. Little Steve is standing in front of them, scratching his head and looking forward. A purple thought bubble appears above Steve's head with the number \"4\" written inside, and a purple thought bubble appears above the old man's head with the number \"3\" written inside. They look at each other, their bodies trembling. The three-dimensional figure drawn on the blackboard has a \"4\" written on one end and a \"3\" written on the other end. Immediately afterward, a pink base appears in the middle with the three-dimensional figure drawn on it, with the number \"4\" on the left and \"3\" on the right. Below the number \"4\" is a gray base with a white thumbs-up pattern, and below the number \"3\" is a gray base with a black oval shape with three black dots inside and a blue \"OR\" written in the middle. A mouse cursor moves from the pattern to the gray base with the white thumbs-up pattern, then to the gray base with the black oval, and back to the three-dimensional figure. A countdown of \"5, 4, 3, 2, 1\" appears above. The mouse selects the gray base with the white thumbs-up pattern, and Little Steve looks forward and nods."
+    },
+    {
+        "second": 12,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1CyJXL4uPLQ/output_frames/sec_12_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[7-17] Subsequently, the scene changes to Steve and the white-haired old man standing in front of the blackboard, Steve on the left and the old man on the right. Little Steve is standing in front of them, scratching his head and looking forward. A purple thought bubble appears above Steve's head with the number \"4\" written inside, and a purple thought bubble appears above the old man's head with the number \"3\" written inside. They look at each other, their bodies trembling. The three-dimensional figure drawn on the blackboard has a \"4\" written on one end and a \"3\" written on the other end. Immediately afterward, a pink base appears in the middle with the three-dimensional figure drawn on it, with the number \"4\" on the left and \"3\" on the right. Below the number \"4\" is a gray base with a white thumbs-up pattern, and below the number \"3\" is a gray base with a black oval shape with three black dots inside and a blue \"OR\" written in the middle. A mouse cursor moves from the pattern to the gray base with the white thumbs-up pattern, then to the gray base with the black oval, and back to the three-dimensional figure. A countdown of \"5, 4, 3, 2, 1\" appears above. The mouse selects the gray base with the white thumbs-up pattern, and Little Steve looks forward and nods."
+    },
+    {
+        "second": 13,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1CyJXL4uPLQ/output_frames/sec_13_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[7-17] Subsequently, the scene changes to Steve and the white-haired old man standing in front of the blackboard, Steve on the left and the old man on the right. Little Steve is standing in front of them, scratching his head and looking forward. A purple thought bubble appears above Steve's head with the number \"4\" written inside, and a purple thought bubble appears above the old man's head with the number \"3\" written inside. They look at each other, their bodies trembling. The three-dimensional figure drawn on the blackboard has a \"4\" written on one end and a \"3\" written on the other end. Immediately afterward, a pink base appears in the middle with the three-dimensional figure drawn on it, with the number \"4\" on the left and \"3\" on the right. Below the number \"4\" is a gray base with a white thumbs-up pattern, and below the number \"3\" is a gray base with a black oval shape with three black dots inside and a blue \"OR\" written in the middle. A mouse cursor moves from the pattern to the gray base with the white thumbs-up pattern, then to the gray base with the black oval, and back to the three-dimensional figure. A countdown of \"5, 4, 3, 2, 1\" appears above. The mouse selects the gray base with the white thumbs-up pattern, and Little Steve looks forward and nods."
+    },
+    {
+        "second": 14,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1CyJXL4uPLQ/output_frames/sec_14_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[7-17] Subsequently, the scene changes to Steve and the white-haired old man standing in front of the blackboard, Steve on the left and the old man on the right. Little Steve is standing in front of them, scratching his head and looking forward. A purple thought bubble appears above Steve's head with the number \"4\" written inside, and a purple thought bubble appears above the old man's head with the number \"3\" written inside. They look at each other, their bodies trembling. The three-dimensional figure drawn on the blackboard has a \"4\" written on one end and a \"3\" written on the other end. Immediately afterward, a pink base appears in the middle with the three-dimensional figure drawn on it, with the number \"4\" on the left and \"3\" on the right. Below the number \"4\" is a gray base with a white thumbs-up pattern, and below the number \"3\" is a gray base with a black oval shape with three black dots inside and a blue \"OR\" written in the middle. A mouse cursor moves from the pattern to the gray base with the white thumbs-up pattern, then to the gray base with the black oval, and back to the three-dimensional figure. A countdown of \"5, 4, 3, 2, 1\" appears above. The mouse selects the gray base with the white thumbs-up pattern, and Little Steve looks forward and nods."
+    },
+    {
+        "second": 15,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1CyJXL4uPLQ/output_frames/sec_15_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[7-17] Subsequently, the scene changes to Steve and the white-haired old man standing in front of the blackboard, Steve on the left and the old man on the right. Little Steve is standing in front of them, scratching his head and looking forward. A purple thought bubble appears above Steve's head with the number \"4\" written inside, and a purple thought bubble appears above the old man's head with the number \"3\" written inside. They look at each other, their bodies trembling. The three-dimensional figure drawn on the blackboard has a \"4\" written on one end and a \"3\" written on the other end. Immediately afterward, a pink base appears in the middle with the three-dimensional figure drawn on it, with the number \"4\" on the left and \"3\" on the right. Below the number \"4\" is a gray base with a white thumbs-up pattern, and below the number \"3\" is a gray base with a black oval shape with three black dots inside and a blue \"OR\" written in the middle. A mouse cursor moves from the pattern to the gray base with the white thumbs-up pattern, then to the gray base with the black oval, and back to the three-dimensional figure. A countdown of \"5, 4, 3, 2, 1\" appears above. The mouse selects the gray base with the white thumbs-up pattern, and Little Steve looks forward and nods."
+    },
+    {
+        "second": 16,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1CyJXL4uPLQ/output_frames/sec_16_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[7-17] Subsequently, the scene changes to Steve and the white-haired old man standing in front of the blackboard, Steve on the left and the old man on the right. Little Steve is standing in front of them, scratching his head and looking forward. A purple thought bubble appears above Steve's head with the number \"4\" written inside, and a purple thought bubble appears above the old man's head with the number \"3\" written inside. They look at each other, their bodies trembling. The three-dimensional figure drawn on the blackboard has a \"4\" written on one end and a \"3\" written on the other end. Immediately afterward, a pink base appears in the middle with the three-dimensional figure drawn on it, with the number \"4\" on the left and \"3\" on the right. Below the number \"4\" is a gray base with a white thumbs-up pattern, and below the number \"3\" is a gray base with a black oval shape with three black dots inside and a blue \"OR\" written in the middle. A mouse cursor moves from the pattern to the gray base with the white thumbs-up pattern, then to the gray base with the black oval, and back to the three-dimensional figure. A countdown of \"5, 4, 3, 2, 1\" appears above. The mouse selects the gray base with the white thumbs-up pattern, and Little Steve looks forward and nods."
+    },
+    {
+        "second": 17,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1CyJXL4uPLQ/output_frames/sec_17_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[7-17] Subsequently, the scene changes to Steve and the white-haired old man standing in front of the blackboard, Steve on the left and the old man on the right. Little Steve is standing in front of them, scratching his head and looking forward. A purple thought bubble appears above Steve's head with the number \"4\" written inside, and a purple thought bubble appears above the old man's head with the number \"3\" written inside. They look at each other, their bodies trembling. The three-dimensional figure drawn on the blackboard has a \"4\" written on one end and a \"3\" written on the other end. Immediately afterward, a pink base appears in the middle with the three-dimensional figure drawn on it, with the number \"4\" on the left and \"3\" on the right. Below the number \"4\" is a gray base with a white thumbs-up pattern, and below the number \"3\" is a gray base with a black oval shape with three black dots inside and a blue \"OR\" written in the middle. A mouse cursor moves from the pattern to the gray base with the white thumbs-up pattern, then to the gray base with the black oval, and back to the three-dimensional figure. A countdown of \"5, 4, 3, 2, 1\" appears above. The mouse selects the gray base with the white thumbs-up pattern, and Little Steve looks forward and nods."
+    }
+]

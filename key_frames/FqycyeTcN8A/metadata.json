@@ -1,0 +1,79 @@
+[
+    {
+        "second": 0,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FqycyeTcN8A/output_frames/sec_0_idx_9.jpg",
+        "fps": 25,
+        "explanation": "[0-0] A cartoon little girl is standing on the green grass. She is wearing a blue and white striped T-shirt and purple star-patterned pants. She is smiling, and there are two blooming green plants behind her."
+    },
+    {
+        "second": 1,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FqycyeTcN8A/output_frames/sec_1_idx_6.jpg",
+        "fps": 25,
+        "explanation": "[0-2] The little girl puts her hands on her hips and twists her body, then stretches her hands forward and claps, then continues to twist her body. Then the scene switches to a cartoon panda wearing red glasses and a green T-shirt with a rainbow pattern. It is standing on the green grass, clapping its hands forward."
+    },
+    {
+        "second": 2,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FqycyeTcN8A/output_frames/sec_2_idx_9.jpg",
+        "fps": 25,
+        "explanation": "[0-2] The little girl puts her hands on her hips and twists her body, then stretches her hands forward and claps, then continues to twist her body. Then the scene switches to a cartoon panda wearing red glasses and a green T-shirt with a rainbow pattern. It is standing on the green grass, clapping its hands forward."
+    },
+    {
+        "second": 3,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FqycyeTcN8A/output_frames/sec_3_idx_1.jpg",
+        "fps": 25,
+        "explanation": "[2-6] Then the scene switches to a cartoon baby panda wearing green and pink clothes. It sits on a blue and white checkered mat, shaking its head left and right, looking at its hands. Then the scene switches to a cartoon little boy wearing yellow overalls. He sits on the blue and white checkered mat and claps, then looks down at his hands and continues to clap."
+    },
+    {
+        "second": 4,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FqycyeTcN8A/output_frames/sec_4_idx_11.jpg",
+        "fps": 25,
+        "explanation": "[2-6] Then the scene switches to a cartoon baby panda wearing green and pink clothes. It sits on a blue and white checkered mat, shaking its head left and right, looking at its hands. Then the scene switches to a cartoon little boy wearing yellow overalls. He sits on the blue and white checkered mat and claps, then looks down at his hands and continues to clap."
+    },
+    {
+        "second": 5,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FqycyeTcN8A/output_frames/sec_5_idx_12.jpg",
+        "fps": 25,
+        "explanation": "[2-6] Then the scene switches to a cartoon baby panda wearing green and pink clothes. It sits on a blue and white checkered mat, shaking its head left and right, looking at its hands. Then the scene switches to a cartoon little boy wearing yellow overalls. He sits on the blue and white checkered mat and claps, then looks down at his hands and continues to clap."
+    },
+    {
+        "second": 6,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FqycyeTcN8A/output_frames/sec_6_idx_18.jpg",
+        "fps": 25,
+        "explanation": "[2-6] Then the scene switches to a cartoon baby panda wearing green and pink clothes. It sits on a blue and white checkered mat, shaking its head left and right, looking at its hands. Then the scene switches to a cartoon little boy wearing yellow overalls. He sits on the blue and white checkered mat and claps, then looks down at his hands and continues to clap."
+    },
+    {
+        "second": 7,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FqycyeTcN8A/output_frames/sec_7_idx_13.jpg",
+        "fps": 25,
+        "explanation": "[6-10] Then the scene switches back to the little girl in the blue and white striped T-shirt. She is standing on the green grass, smiling and clapping her hands. Then the scene switches back to the little boy in the yellow overalls. He sits on the blue and white checkered mat, smiles happily, and claps his hands. At this time, a yellow cartoon star wearing a pink bow appears on his head, and the blue subtitle \"LITTLE BABY BUM\" appears below the star."
+    },
+    {
+        "second": 8,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FqycyeTcN8A/output_frames/sec_8_idx_2.jpg",
+        "fps": 25,
+        "explanation": "[6-10] Then the scene switches back to the little girl in the blue and white striped T-shirt. She is standing on the green grass, smiling and clapping her hands. Then the scene switches back to the little boy in the yellow overalls. He sits on the blue and white checkered mat, smiles happily, and claps his hands. At this time, a yellow cartoon star wearing a pink bow appears on his head, and the blue subtitle \"LITTLE BABY BUM\" appears below the star."
+    },
+    {
+        "second": 9,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FqycyeTcN8A/output_frames/sec_9_idx_0.jpg",
+        "fps": 25,
+        "explanation": "[6-10] Then the scene switches back to the little girl in the blue and white striped T-shirt. She is standing on the green grass, smiling and clapping her hands. Then the scene switches back to the little boy in the yellow overalls. He sits on the blue and white checkered mat, smiles happily, and claps his hands. At this time, a yellow cartoon star wearing a pink bow appears on his head, and the blue subtitle \"LITTLE BABY BUM\" appears below the star."
+    },
+    {
+        "second": 10,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FqycyeTcN8A/output_frames/sec_10_idx_1.jpg",
+        "fps": 25,
+        "explanation": "[6-10] Then the scene switches back to the little girl in the blue and white striped T-shirt. She is standing on the green grass, smiling and clapping her hands. Then the scene switches back to the little boy in the yellow overalls. He sits on the blue and white checkered mat, smiles happily, and claps his hands. At this time, a yellow cartoon star wearing a pink bow appears on his head, and the blue subtitle \"LITTLE BABY BUM\" appears below the star."
+    }
+]

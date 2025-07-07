@@ -1,0 +1,72 @@
+[
+    {
+        "second": 0,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9k3EtOlDN4s/output_frames/sec_0_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[0-0] The frame shows a square brown box filled with scoops of ice cream from top to bottom in the colors red, orange, yellow, green, blue, and purple."
+    },
+    {
+        "second": 1,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9k3EtOlDN4s/output_frames/sec_1_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Next, a hand holding an ice cream scoop appears above the container. The ice cream scoop plunges vertically through all the ice cream layers, forming a vertical indentation and filling the scoop with all the ice cream colors."
+    },
+    {
+        "second": 2,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9k3EtOlDN4s/output_frames/sec_2_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Next, a hand holding an ice cream scoop appears above the container. The ice cream scoop plunges vertically through all the ice cream layers, forming a vertical indentation and filling the scoop with all the ice cream colors."
+    },
+    {
+        "second": 3,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9k3EtOlDN4s/output_frames/sec_3_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[2-4] Then the shot changes, focusing on an ice cream cone bowl. The scoop filled with colorful ice cream puts the ice cream into the cone bowl."
+    },
+    {
+        "second": 4,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9k3EtOlDN4s/output_frames/sec_4_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[2-4] Then the shot changes, focusing on an ice cream cone bowl. The scoop filled with colorful ice cream puts the ice cream into the cone bowl."
+    },
+    {
+        "second": 5,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9k3EtOlDN4s/output_frames/sec_5_idx_24.jpg",
+        "fps": 30,
+        "explanation": "[4-7] The shot changes again, and a hand places the ice cream just made into a colorful cake with a cylindrical gap in the center. Immediately afterward, the camera zooms in on the top of the ice cream as a brown liquid is continuously poured onto the top of the ice cream, spreading downwards."
+    },
+    {
+        "second": 6,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9k3EtOlDN4s/output_frames/sec_6_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[4-7] The shot changes again, and a hand places the ice cream just made into a colorful cake with a cylindrical gap in the center. Immediately afterward, the camera zooms in on the top of the ice cream as a brown liquid is continuously poured onto the top of the ice cream, spreading downwards."
+    },
+    {
+        "second": 7,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9k3EtOlDN4s/output_frames/sec_7_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[4-7] The shot changes again, and a hand places the ice cream just made into a colorful cake with a cylindrical gap in the center. Immediately afterward, the camera zooms in on the top of the ice cream as a brown liquid is continuously poured onto the top of the ice cream, spreading downwards."
+    },
+    {
+        "second": 8,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9k3EtOlDN4s/output_frames/sec_8_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[7-9] The shot zooms out, and a teapot filled with brown liquid can be seen against a white background pouring the liquid onto the ice cream. The top of the ice cream is covered with the brown liquid, and then the teapot moves out of the frame. The video ends with a shot of the finished ice cream cake placed on a white countertop."
+    },
+    {
+        "second": 9,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9k3EtOlDN4s/output_frames/sec_9_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[7-9] The shot zooms out, and a teapot filled with brown liquid can be seen against a white background pouring the liquid onto the ice cream. The top of the ice cream is covered with the brown liquid, and then the teapot moves out of the frame. The video ends with a shot of the finished ice cream cake placed on a white countertop."
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "second": 0,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FOaKoUXS-jE/output_frames/sec_0_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A white duck stands on a beach with gray sand and a blue sea in the background. There is a white line in the middle of the screen, and \"@seDUCKkive\" in the upper right corner."
+    },
+    {
+        "second": 1,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FOaKoUXS-jE/output_frames/sec_1_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[0-3] The duck runs towards the camera with its mouth open. Then the scene switches to a puddle in the middle of the screen with yellow leaves in the foreground. There is a white line on the left side, three white cars and yellow trees in the background. The duck runs from the right to the left."
+    },
+    {
+        "second": 2,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FOaKoUXS-jE/output_frames/sec_2_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[0-3] The duck runs towards the camera with its mouth open. Then the scene switches to a puddle in the middle of the screen with yellow leaves in the foreground. There is a white line on the left side, three white cars and yellow trees in the background. The duck runs from the right to the left."
+    },
+    {
+        "second": 3,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FOaKoUXS-jE/output_frames/sec_3_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[0-3] The duck runs towards the camera with its mouth open. Then the scene switches to a puddle in the middle of the screen with yellow leaves in the foreground. There is a white line on the left side, three white cars and yellow trees in the background. The duck runs from the right to the left."
+    },
+    {
+        "second": 4,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FOaKoUXS-jE/output_frames/sec_4_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[3-7] The scene then switches to a street with many people running in the background. There is a white line in the middle of the screen, and a tall building in the background. The duck runs to the right. Finally, the scene changes to a corridor with a brown cabinet and a row of glass windows on the right side of the gray floor. There is another brown object on the left side, a row of illuminated light bulbs on the yellow ceiling, and a white line in the middle. The duck runs to the right."
+    },
+    {
+        "second": 5,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FOaKoUXS-jE/output_frames/sec_5_idx_24.jpg",
+        "fps": 30,
+        "explanation": "[3-7] The scene then switches to a street with many people running in the background. There is a white line in the middle of the screen, and a tall building in the background. The duck runs to the right. Finally, the scene changes to a corridor with a brown cabinet and a row of glass windows on the right side of the gray floor. There is another brown object on the left side, a row of illuminated light bulbs on the yellow ceiling, and a white line in the middle. The duck runs to the right."
+    },
+    {
+        "second": 6,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FOaKoUXS-jE/output_frames/sec_6_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[3-7] The scene then switches to a street with many people running in the background. There is a white line in the middle of the screen, and a tall building in the background. The duck runs to the right. Finally, the scene changes to a corridor with a brown cabinet and a row of glass windows on the right side of the gray floor. There is another brown object on the left side, a row of illuminated light bulbs on the yellow ceiling, and a white line in the middle. The duck runs to the right."
+    },
+    {
+        "second": 7,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FOaKoUXS-jE/output_frames/sec_7_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[3-7] The scene then switches to a street with many people running in the background. There is a white line in the middle of the screen, and a tall building in the background. The duck runs to the right. Finally, the scene changes to a corridor with a brown cabinet and a row of glass windows on the right side of the gray floor. There is another brown object on the left side, a row of illuminated light bulbs on the yellow ceiling, and a white line in the middle. The duck runs to the right."
+    }
+]

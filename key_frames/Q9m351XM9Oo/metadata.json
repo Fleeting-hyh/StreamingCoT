@@ -1,0 +1,226 @@
+[
+    {
+        "second": 0,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Q9m351XM9Oo/output_frames/sec_0_idx_27.jpg",
+        "fps": 60,
+        "explanation": "[0-0] The video starts with a scene in a parking lot, where a character in a police uniform and a character in a prison uniform are standing behind rows of spheres in different colors, including green, red, blue, and black. There is a staircase in the background. In the upper left corner of the screen, there is a person's avatar with the text \"MELLSTROV KICK\"."
+    },
+    {
+        "second": 1,
+        "frame_index": 42,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Q9m351XM9Oo/output_frames/sec_1_idx_42.jpg",
+        "fps": 60,
+        "explanation": "[0-6] Then, a car drifts to a stop on the right side of the screen, and a character wearing a crown gets out of the car and stands behind the black sphere. Subsequently, another car drifts to a stop on the left side of the screen, and a character in a suit and tie gets out of the car and stands behind the green sphere. Then, a colored cube appears in front of the spheres, with its red face up. The character in the police uniform jumps one space forward to the red sphere."
+    },
+    {
+        "second": 2,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Q9m351XM9Oo/output_frames/sec_2_idx_3.jpg",
+        "fps": 60,
+        "explanation": "[0-6] Then, a car drifts to a stop on the right side of the screen, and a character wearing a crown gets out of the car and stands behind the black sphere. Subsequently, another car drifts to a stop on the left side of the screen, and a character in a suit and tie gets out of the car and stands behind the green sphere. Then, a colored cube appears in front of the spheres, with its red face up. The character in the police uniform jumps one space forward to the red sphere."
+    },
+    {
+        "second": 3,
+        "frame_index": 48,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Q9m351XM9Oo/output_frames/sec_3_idx_48.jpg",
+        "fps": 60,
+        "explanation": "[0-6] Then, a car drifts to a stop on the right side of the screen, and a character wearing a crown gets out of the car and stands behind the black sphere. Subsequently, another car drifts to a stop on the left side of the screen, and a character in a suit and tie gets out of the car and stands behind the green sphere. Then, a colored cube appears in front of the spheres, with its red face up. The character in the police uniform jumps one space forward to the red sphere."
+    },
+    {
+        "second": 4,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Q9m351XM9Oo/output_frames/sec_4_idx_27.jpg",
+        "fps": 60,
+        "explanation": "[0-6] Then, a car drifts to a stop on the right side of the screen, and a character wearing a crown gets out of the car and stands behind the black sphere. Subsequently, another car drifts to a stop on the left side of the screen, and a character in a suit and tie gets out of the car and stands behind the green sphere. Then, a colored cube appears in front of the spheres, with its red face up. The character in the police uniform jumps one space forward to the red sphere."
+    },
+    {
+        "second": 5,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Q9m351XM9Oo/output_frames/sec_5_idx_14.jpg",
+        "fps": 60,
+        "explanation": "[0-6] Then, a car drifts to a stop on the right side of the screen, and a character wearing a crown gets out of the car and stands behind the black sphere. Subsequently, another car drifts to a stop on the left side of the screen, and a character in a suit and tie gets out of the car and stands behind the green sphere. Then, a colored cube appears in front of the spheres, with its red face up. The character in the police uniform jumps one space forward to the red sphere."
+    },
+    {
+        "second": 6,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Q9m351XM9Oo/output_frames/sec_6_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[0-6] Then, a car drifts to a stop on the right side of the screen, and a character wearing a crown gets out of the car and stands behind the black sphere. Subsequently, another car drifts to a stop on the left side of the screen, and a character in a suit and tie gets out of the car and stands behind the green sphere. Then, a colored cube appears in front of the spheres, with its red face up. The character in the police uniform jumps one space forward to the red sphere."
+    },
+    {
+        "second": 7,
+        "frame_index": 59,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Q9m351XM9Oo/output_frames/sec_7_idx_59.jpg",
+        "fps": 60,
+        "explanation": "[6-12] Afterwards, a colored cube appears in front of the spheres, with its blue face up. The character in the prison uniform jumps one space forward to the blue sphere. Then another colored cube appears with its grey face up, and the character wearing the crown throws a handful of banknotes to the right side of the screen. Following that, another colored cube appears with its grey face up, and the character jumps two spaces forward to the grey sphere."
+    },
+    {
+        "second": 8,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Q9m351XM9Oo/output_frames/sec_8_idx_1.jpg",
+        "fps": 60,
+        "explanation": "[6-12] Afterwards, a colored cube appears in front of the spheres, with its blue face up. The character in the prison uniform jumps one space forward to the blue sphere. Then another colored cube appears with its grey face up, and the character wearing the crown throws a handful of banknotes to the right side of the screen. Following that, another colored cube appears with its grey face up, and the character jumps two spaces forward to the grey sphere."
+    },
+    {
+        "second": 9,
+        "frame_index": 44,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Q9m351XM9Oo/output_frames/sec_9_idx_44.jpg",
+        "fps": 60,
+        "explanation": "[6-12] Afterwards, a colored cube appears in front of the spheres, with its blue face up. The character in the prison uniform jumps one space forward to the blue sphere. Then another colored cube appears with its grey face up, and the character wearing the crown throws a handful of banknotes to the right side of the screen. Following that, another colored cube appears with its grey face up, and the character jumps two spaces forward to the grey sphere."
+    },
+    {
+        "second": 10,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Q9m351XM9Oo/output_frames/sec_10_idx_10.jpg",
+        "fps": 60,
+        "explanation": "[6-12] Afterwards, a colored cube appears in front of the spheres, with its blue face up. The character in the prison uniform jumps one space forward to the blue sphere. Then another colored cube appears with its grey face up, and the character wearing the crown throws a handful of banknotes to the right side of the screen. Following that, another colored cube appears with its grey face up, and the character jumps two spaces forward to the grey sphere."
+    },
+    {
+        "second": 11,
+        "frame_index": 39,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Q9m351XM9Oo/output_frames/sec_11_idx_39.jpg",
+        "fps": 60,
+        "explanation": "[6-12] Afterwards, a colored cube appears in front of the spheres, with its blue face up. The character in the prison uniform jumps one space forward to the blue sphere. Then another colored cube appears with its grey face up, and the character wearing the crown throws a handful of banknotes to the right side of the screen. Following that, another colored cube appears with its grey face up, and the character jumps two spaces forward to the grey sphere."
+    },
+    {
+        "second": 12,
+        "frame_index": 44,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Q9m351XM9Oo/output_frames/sec_12_idx_44.jpg",
+        "fps": 60,
+        "explanation": "[6-12] Afterwards, a colored cube appears in front of the spheres, with its blue face up. The character in the prison uniform jumps one space forward to the blue sphere. Then another colored cube appears with its grey face up, and the character wearing the crown throws a handful of banknotes to the right side of the screen. Following that, another colored cube appears with its grey face up, and the character jumps two spaces forward to the grey sphere."
+    },
+    {
+        "second": 13,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Q9m351XM9Oo/output_frames/sec_13_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[12-18] Then, the character in the suit and tie takes out a box of banknotes and throws it to the left side of the screen. The other three characters look at him in surprise. Subsequently, three colored cubes appear with their green faces up, and the character jumps three spaces forward to the green sphere. Next, the character in the police uniform faints to the ground. Then, a colored cube appears with its grey face up, and the character wearing the crown jumps one space forward to the grey sphere. The character wearing the crown and the character in the suit and tie are now level, and they glare angrily at each other."
+    },
+    {
+        "second": 14,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Q9m351XM9Oo/output_frames/sec_14_idx_2.jpg",
+        "fps": 60,
+        "explanation": "[12-18] Then, the character in the suit and tie takes out a box of banknotes and throws it to the left side of the screen. The other three characters look at him in surprise. Subsequently, three colored cubes appear with their green faces up, and the character jumps three spaces forward to the green sphere. Next, the character in the police uniform faints to the ground. Then, a colored cube appears with its grey face up, and the character wearing the crown jumps one space forward to the grey sphere. The character wearing the crown and the character in the suit and tie are now level, and they glare angrily at each other."
+    },
+    {
+        "second": 15,
+        "frame_index": 54,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Q9m351XM9Oo/output_frames/sec_15_idx_54.jpg",
+        "fps": 60,
+        "explanation": "[12-18] Then, the character in the suit and tie takes out a box of banknotes and throws it to the left side of the screen. The other three characters look at him in surprise. Subsequently, three colored cubes appear with their green faces up, and the character jumps three spaces forward to the green sphere. Next, the character in the police uniform faints to the ground. Then, a colored cube appears with its grey face up, and the character wearing the crown jumps one space forward to the grey sphere. The character wearing the crown and the character in the suit and tie are now level, and they glare angrily at each other."
+    },
+    {
+        "second": 16,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Q9m351XM9Oo/output_frames/sec_16_idx_27.jpg",
+        "fps": 60,
+        "explanation": "[12-18] Then, the character in the suit and tie takes out a box of banknotes and throws it to the left side of the screen. The other three characters look at him in surprise. Subsequently, three colored cubes appear with their green faces up, and the character jumps three spaces forward to the green sphere. Next, the character in the police uniform faints to the ground. Then, a colored cube appears with its grey face up, and the character wearing the crown jumps one space forward to the grey sphere. The character wearing the crown and the character in the suit and tie are now level, and they glare angrily at each other."
+    },
+    {
+        "second": 17,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Q9m351XM9Oo/output_frames/sec_17_idx_10.jpg",
+        "fps": 60,
+        "explanation": "[12-18] Then, the character in the suit and tie takes out a box of banknotes and throws it to the left side of the screen. The other three characters look at him in surprise. Subsequently, three colored cubes appear with their green faces up, and the character jumps three spaces forward to the green sphere. Next, the character in the police uniform faints to the ground. Then, a colored cube appears with its grey face up, and the character wearing the crown jumps one space forward to the grey sphere. The character wearing the crown and the character in the suit and tie are now level, and they glare angrily at each other."
+    },
+    {
+        "second": 18,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Q9m351XM9Oo/output_frames/sec_18_idx_1.jpg",
+        "fps": 60,
+        "explanation": "[12-18] Then, the character in the suit and tie takes out a box of banknotes and throws it to the left side of the screen. The other three characters look at him in surprise. Subsequently, three colored cubes appear with their green faces up, and the character jumps three spaces forward to the green sphere. Next, the character in the police uniform faints to the ground. Then, a colored cube appears with its grey face up, and the character wearing the crown jumps one space forward to the grey sphere. The character wearing the crown and the character in the suit and tie are now level, and they glare angrily at each other."
+    },
+    {
+        "second": 19,
+        "frame_index": 37,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Q9m351XM9Oo/output_frames/sec_19_idx_37.jpg",
+        "fps": 60,
+        "explanation": "[18-24] Next, the character wearing the crown takes out a sack of banknotes and places it in front of him. The character in the suit and tie also takes out a pile of banknotes, neither willing to back down. Subsequently, the screen is flooded with banknotes. Then, the character in the prison uniform emerges from the pile of money. A purple pop-up box appears on the screen, with the words \"HELP???\" and \"Like YES!\". A white finger continuously taps on the like icon."
+    },
+    {
+        "second": 20,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Q9m351XM9Oo/output_frames/sec_20_idx_12.jpg",
+        "fps": 60,
+        "explanation": "[18-24] Next, the character wearing the crown takes out a sack of banknotes and places it in front of him. The character in the suit and tie also takes out a pile of banknotes, neither willing to back down. Subsequently, the screen is flooded with banknotes. Then, the character in the prison uniform emerges from the pile of money. A purple pop-up box appears on the screen, with the words \"HELP???\" and \"Like YES!\". A white finger continuously taps on the like icon."
+    },
+    {
+        "second": 21,
+        "frame_index": 37,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Q9m351XM9Oo/output_frames/sec_21_idx_37.jpg",
+        "fps": 60,
+        "explanation": "[18-24] Next, the character wearing the crown takes out a sack of banknotes and places it in front of him. The character in the suit and tie also takes out a pile of banknotes, neither willing to back down. Subsequently, the screen is flooded with banknotes. Then, the character in the prison uniform emerges from the pile of money. A purple pop-up box appears on the screen, with the words \"HELP???\" and \"Like YES!\". A white finger continuously taps on the like icon."
+    },
+    {
+        "second": 22,
+        "frame_index": 50,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Q9m351XM9Oo/output_frames/sec_22_idx_50.jpg",
+        "fps": 60,
+        "explanation": "[18-24] Next, the character wearing the crown takes out a sack of banknotes and places it in front of him. The character in the suit and tie also takes out a pile of banknotes, neither willing to back down. Subsequently, the screen is flooded with banknotes. Then, the character in the prison uniform emerges from the pile of money. A purple pop-up box appears on the screen, with the words \"HELP???\" and \"Like YES!\". A white finger continuously taps on the like icon."
+    },
+    {
+        "second": 23,
+        "frame_index": 51,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Q9m351XM9Oo/output_frames/sec_23_idx_51.jpg",
+        "fps": 60,
+        "explanation": "[18-24] Next, the character wearing the crown takes out a sack of banknotes and places it in front of him. The character in the suit and tie also takes out a pile of banknotes, neither willing to back down. Subsequently, the screen is flooded with banknotes. Then, the character in the prison uniform emerges from the pile of money. A purple pop-up box appears on the screen, with the words \"HELP???\" and \"Like YES!\". A white finger continuously taps on the like icon."
+    },
+    {
+        "second": 24,
+        "frame_index": 47,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Q9m351XM9Oo/output_frames/sec_24_idx_47.jpg",
+        "fps": 60,
+        "explanation": "[18-24] Next, the character wearing the crown takes out a sack of banknotes and places it in front of him. The character in the suit and tie also takes out a pile of banknotes, neither willing to back down. Subsequently, the screen is flooded with banknotes. Then, the character in the prison uniform emerges from the pile of money. A purple pop-up box appears on the screen, with the words \"HELP???\" and \"Like YES!\". A white finger continuously taps on the like icon."
+    },
+    {
+        "second": 25,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Q9m351XM9Oo/output_frames/sec_25_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[24-31] Finally, the scene switches to a character in blue clothes standing on the pile of money. The scene then switches to the character wearing the crown and the character in the suit and tie, both with surprised expressions. The scene cuts back to the character in blue clothes taking out a wallet and pouring out the banknotes inside. The screen is once again flooded with banknotes. The scene transitions to the Earth slowly being covered with banknotes."
+    },
+    {
+        "second": 26,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Q9m351XM9Oo/output_frames/sec_26_idx_8.jpg",
+        "fps": 60,
+        "explanation": "[24-31] Finally, the scene switches to a character in blue clothes standing on the pile of money. The scene then switches to the character wearing the crown and the character in the suit and tie, both with surprised expressions. The scene cuts back to the character in blue clothes taking out a wallet and pouring out the banknotes inside. The screen is once again flooded with banknotes. The scene transitions to the Earth slowly being covered with banknotes."
+    },
+    {
+        "second": 27,
+        "frame_index": 59,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Q9m351XM9Oo/output_frames/sec_27_idx_59.jpg",
+        "fps": 60,
+        "explanation": "[24-31] Finally, the scene switches to a character in blue clothes standing on the pile of money. The scene then switches to the character wearing the crown and the character in the suit and tie, both with surprised expressions. The scene cuts back to the character in blue clothes taking out a wallet and pouring out the banknotes inside. The screen is once again flooded with banknotes. The scene transitions to the Earth slowly being covered with banknotes."
+    },
+    {
+        "second": 28,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Q9m351XM9Oo/output_frames/sec_28_idx_1.jpg",
+        "fps": 60,
+        "explanation": "[24-31] Finally, the scene switches to a character in blue clothes standing on the pile of money. The scene then switches to the character wearing the crown and the character in the suit and tie, both with surprised expressions. The scene cuts back to the character in blue clothes taking out a wallet and pouring out the banknotes inside. The screen is once again flooded with banknotes. The scene transitions to the Earth slowly being covered with banknotes."
+    },
+    {
+        "second": 29,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Q9m351XM9Oo/output_frames/sec_29_idx_2.jpg",
+        "fps": 60,
+        "explanation": "[24-31] Finally, the scene switches to a character in blue clothes standing on the pile of money. The scene then switches to the character wearing the crown and the character in the suit and tie, both with surprised expressions. The scene cuts back to the character in blue clothes taking out a wallet and pouring out the banknotes inside. The screen is once again flooded with banknotes. The scene transitions to the Earth slowly being covered with banknotes."
+    },
+    {
+        "second": 30,
+        "frame_index": 53,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Q9m351XM9Oo/output_frames/sec_30_idx_53.jpg",
+        "fps": 60,
+        "explanation": "[24-31] Finally, the scene switches to a character in blue clothes standing on the pile of money. The scene then switches to the character wearing the crown and the character in the suit and tie, both with surprised expressions. The scene cuts back to the character in blue clothes taking out a wallet and pouring out the banknotes inside. The screen is once again flooded with banknotes. The scene transitions to the Earth slowly being covered with banknotes."
+    },
+    {
+        "second": 31,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Q9m351XM9Oo/output_frames/sec_31_idx_24.jpg",
+        "fps": 60,
+        "explanation": "[24-31] Finally, the scene switches to a character in blue clothes standing on the pile of money. The scene then switches to the character wearing the crown and the character in the suit and tie, both with surprised expressions. The scene cuts back to the character in blue clothes taking out a wallet and pouring out the banknotes inside. The screen is once again flooded with banknotes. The scene transitions to the Earth slowly being covered with banknotes."
+    }
+]

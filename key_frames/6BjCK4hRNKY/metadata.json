@@ -1,0 +1,114 @@
+[
+    {
+        "second": 0,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6BjCK4hRNKY/output_frames/sec_0_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[0-0] On a white platform, candies are placed on a right hand, with ants on each candy. The candies are red, brown, and black. A left hand is using tweezers to pick up a red candy. On the white platform to the left of the left hand, there is a yellow candy with an ant on it."
+    },
+    {
+        "second": 1,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6BjCK4hRNKY/output_frames/sec_1_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[0-9] Then the left hand, holding the tweezers, picks up red, green, blue, and brown candies one by one and places them on the white platform. The ants on the candies struggle with their antennae outstretched. Then the left hand picks up a red candy and puts it on the white platform, and then the left hand retracts."
+    },
+    {
+        "second": 2,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6BjCK4hRNKY/output_frames/sec_2_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[0-9] Then the left hand, holding the tweezers, picks up red, green, blue, and brown candies one by one and places them on the white platform. The ants on the candies struggle with their antennae outstretched. Then the left hand picks up a red candy and puts it on the white platform, and then the left hand retracts."
+    },
+    {
+        "second": 3,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6BjCK4hRNKY/output_frames/sec_3_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[0-9] Then the left hand, holding the tweezers, picks up red, green, blue, and brown candies one by one and places them on the white platform. The ants on the candies struggle with their antennae outstretched. Then the left hand picks up a red candy and puts it on the white platform, and then the left hand retracts."
+    },
+    {
+        "second": 4,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6BjCK4hRNKY/output_frames/sec_4_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[0-9] Then the left hand, holding the tweezers, picks up red, green, blue, and brown candies one by one and places them on the white platform. The ants on the candies struggle with their antennae outstretched. Then the left hand picks up a red candy and puts it on the white platform, and then the left hand retracts."
+    },
+    {
+        "second": 5,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6BjCK4hRNKY/output_frames/sec_5_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[0-9] Then the left hand, holding the tweezers, picks up red, green, blue, and brown candies one by one and places them on the white platform. The ants on the candies struggle with their antennae outstretched. Then the left hand picks up a red candy and puts it on the white platform, and then the left hand retracts."
+    },
+    {
+        "second": 6,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6BjCK4hRNKY/output_frames/sec_6_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[0-9] Then the left hand, holding the tweezers, picks up red, green, blue, and brown candies one by one and places them on the white platform. The ants on the candies struggle with their antennae outstretched. Then the left hand picks up a red candy and puts it on the white platform, and then the left hand retracts."
+    },
+    {
+        "second": 7,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6BjCK4hRNKY/output_frames/sec_7_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[0-9] Then the left hand, holding the tweezers, picks up red, green, blue, and brown candies one by one and places them on the white platform. The ants on the candies struggle with their antennae outstretched. Then the left hand picks up a red candy and puts it on the white platform, and then the left hand retracts."
+    },
+    {
+        "second": 8,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6BjCK4hRNKY/output_frames/sec_8_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-9] Then the left hand, holding the tweezers, picks up red, green, blue, and brown candies one by one and places them on the white platform. The ants on the candies struggle with their antennae outstretched. Then the left hand picks up a red candy and puts it on the white platform, and then the left hand retracts."
+    },
+    {
+        "second": 9,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6BjCK4hRNKY/output_frames/sec_9_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-9] Then the left hand, holding the tweezers, picks up red, green, blue, and brown candies one by one and places them on the white platform. The ants on the candies struggle with their antennae outstretched. Then the left hand picks up a red candy and puts it on the white platform, and then the left hand retracts."
+    },
+    {
+        "second": 10,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6BjCK4hRNKY/output_frames/sec_10_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[9-15] Colorful candies appear on the white platform, and then tweezers appear above, picking up a yellow candy and placing it on the white platform. Colorful candies are placed on the white platform, and the ants on the candies struggle with their antennae wiggling."
+    },
+    {
+        "second": 11,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6BjCK4hRNKY/output_frames/sec_11_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[9-15] Colorful candies appear on the white platform, and then tweezers appear above, picking up a yellow candy and placing it on the white platform. Colorful candies are placed on the white platform, and the ants on the candies struggle with their antennae wiggling."
+    },
+    {
+        "second": 12,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6BjCK4hRNKY/output_frames/sec_12_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[9-15] Colorful candies appear on the white platform, and then tweezers appear above, picking up a yellow candy and placing it on the white platform. Colorful candies are placed on the white platform, and the ants on the candies struggle with their antennae wiggling."
+    },
+    {
+        "second": 13,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6BjCK4hRNKY/output_frames/sec_13_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[9-15] Colorful candies appear on the white platform, and then tweezers appear above, picking up a yellow candy and placing it on the white platform. Colorful candies are placed on the white platform, and the ants on the candies struggle with their antennae wiggling."
+    },
+    {
+        "second": 14,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6BjCK4hRNKY/output_frames/sec_14_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[9-15] Colorful candies appear on the white platform, and then tweezers appear above, picking up a yellow candy and placing it on the white platform. Colorful candies are placed on the white platform, and the ants on the candies struggle with their antennae wiggling."
+    },
+    {
+        "second": 15,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6BjCK4hRNKY/output_frames/sec_15_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[9-15] Colorful candies appear on the white platform, and then tweezers appear above, picking up a yellow candy and placing it on the white platform. Colorful candies are placed on the white platform, and the ants on the candies struggle with their antennae wiggling."
+    }
+]

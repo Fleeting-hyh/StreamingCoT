@@ -1,0 +1,268 @@
+[
+    {
+        "second": 0,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AuxGgVZ5DUo/output_frames/sec_0_idx_11.jpg",
+        "fps": 60,
+        "explanation": "[0-0] A person wearing a white button-down shirt and black pants is using a red triangle ruler to mark a plank of wood. They are wearing a white button-down shirt and black pants, and holding a cutting tool in their right hand. The floor is grey concrete."
+    },
+    {
+        "second": 1,
+        "frame_index": 59,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AuxGgVZ5DUo/output_frames/sec_1_idx_59.jpg",
+        "fps": 60,
+        "explanation": "[0-2] He places the red triangle ruler on the plank of wood and then cuts a straight line across the wood along the hypotenuse."
+    },
+    {
+        "second": 2,
+        "frame_index": 55,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AuxGgVZ5DUo/output_frames/sec_2_idx_55.jpg",
+        "fps": 60,
+        "explanation": "[0-2] He places the red triangle ruler on the plank of wood and then cuts a straight line across the wood along the hypotenuse."
+    },
+    {
+        "second": 3,
+        "frame_index": 31,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AuxGgVZ5DUo/output_frames/sec_3_idx_31.jpg",
+        "fps": 60,
+        "explanation": "[2-4] The scene then changes. Now he is using the red triangle ruler to measure the inside corner of a shelf in a light wood cabinet with a white background."
+    },
+    {
+        "second": 4,
+        "frame_index": 37,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AuxGgVZ5DUo/output_frames/sec_4_idx_37.jpg",
+        "fps": 60,
+        "explanation": "[2-4] The scene then changes. Now he is using the red triangle ruler to measure the inside corner of a shelf in a light wood cabinet with a white background."
+    },
+    {
+        "second": 5,
+        "frame_index": 32,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AuxGgVZ5DUo/output_frames/sec_5_idx_32.jpg",
+        "fps": 60,
+        "explanation": "[4-10] Then the scene changes again. It's the corner of a room with orange floor and brown walls. There are two wooden boards, one above the other, close together on the ground. The upper board fits against the wall, and the lower rectangular board moves diagonally along the boundary and finds that it cannot fit against the wall. So he took a red triangle ruler and drew a straight line on the rectangular board. After separating a small triangular board from the rectangular board along the straight line, the rest fit perfectly against the wall."
+    },
+    {
+        "second": 6,
+        "frame_index": 33,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AuxGgVZ5DUo/output_frames/sec_6_idx_33.jpg",
+        "fps": 60,
+        "explanation": "[4-10] Then the scene changes again. It's the corner of a room with orange floor and brown walls. There are two wooden boards, one above the other, close together on the ground. The upper board fits against the wall, and the lower rectangular board moves diagonally along the boundary and finds that it cannot fit against the wall. So he took a red triangle ruler and drew a straight line on the rectangular board. After separating a small triangular board from the rectangular board along the straight line, the rest fit perfectly against the wall."
+    },
+    {
+        "second": 7,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AuxGgVZ5DUo/output_frames/sec_7_idx_25.jpg",
+        "fps": 60,
+        "explanation": "[4-10] Then the scene changes again. It's the corner of a room with orange floor and brown walls. There are two wooden boards, one above the other, close together on the ground. The upper board fits against the wall, and the lower rectangular board moves diagonally along the boundary and finds that it cannot fit against the wall. So he took a red triangle ruler and drew a straight line on the rectangular board. After separating a small triangular board from the rectangular board along the straight line, the rest fit perfectly against the wall."
+    },
+    {
+        "second": 8,
+        "frame_index": 36,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AuxGgVZ5DUo/output_frames/sec_8_idx_36.jpg",
+        "fps": 60,
+        "explanation": "[4-10] Then the scene changes again. It's the corner of a room with orange floor and brown walls. There are two wooden boards, one above the other, close together on the ground. The upper board fits against the wall, and the lower rectangular board moves diagonally along the boundary and finds that it cannot fit against the wall. So he took a red triangle ruler and drew a straight line on the rectangular board. After separating a small triangular board from the rectangular board along the straight line, the rest fit perfectly against the wall."
+    },
+    {
+        "second": 9,
+        "frame_index": 49,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AuxGgVZ5DUo/output_frames/sec_9_idx_49.jpg",
+        "fps": 60,
+        "explanation": "[4-10] Then the scene changes again. It's the corner of a room with orange floor and brown walls. There are two wooden boards, one above the other, close together on the ground. The upper board fits against the wall, and the lower rectangular board moves diagonally along the boundary and finds that it cannot fit against the wall. So he took a red triangle ruler and drew a straight line on the rectangular board. After separating a small triangular board from the rectangular board along the straight line, the rest fit perfectly against the wall."
+    },
+    {
+        "second": 10,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AuxGgVZ5DUo/output_frames/sec_10_idx_17.jpg",
+        "fps": 60,
+        "explanation": "[4-10] Then the scene changes again. It's the corner of a room with orange floor and brown walls. There are two wooden boards, one above the other, close together on the ground. The upper board fits against the wall, and the lower rectangular board moves diagonally along the boundary and finds that it cannot fit against the wall. So he took a red triangle ruler and drew a straight line on the rectangular board. After separating a small triangular board from the rectangular board along the straight line, the rest fit perfectly against the wall."
+    },
+    {
+        "second": 11,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AuxGgVZ5DUo/output_frames/sec_11_idx_6.jpg",
+        "fps": 60,
+        "explanation": "[10-19] The scene changes to this person using a red triangle ruler to draw two parallel straight lines on a light wooden surface, and then continues to draw several line segments between the two straight lines, and marks a forty-five-degree angle."
+    },
+    {
+        "second": 12,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AuxGgVZ5DUo/output_frames/sec_12_idx_12.jpg",
+        "fps": 60,
+        "explanation": "[10-19] The scene changes to this person using a red triangle ruler to draw two parallel straight lines on a light wooden surface, and then continues to draw several line segments between the two straight lines, and marks a forty-five-degree angle."
+    },
+    {
+        "second": 13,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AuxGgVZ5DUo/output_frames/sec_13_idx_25.jpg",
+        "fps": 60,
+        "explanation": "[10-19] The scene changes to this person using a red triangle ruler to draw two parallel straight lines on a light wooden surface, and then continues to draw several line segments between the two straight lines, and marks a forty-five-degree angle."
+    },
+    {
+        "second": 14,
+        "frame_index": 38,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AuxGgVZ5DUo/output_frames/sec_14_idx_38.jpg",
+        "fps": 60,
+        "explanation": "[10-19] The scene changes to this person using a red triangle ruler to draw two parallel straight lines on a light wooden surface, and then continues to draw several line segments between the two straight lines, and marks a forty-five-degree angle."
+    },
+    {
+        "second": 15,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AuxGgVZ5DUo/output_frames/sec_15_idx_14.jpg",
+        "fps": 60,
+        "explanation": "[10-19] The scene changes to this person using a red triangle ruler to draw two parallel straight lines on a light wooden surface, and then continues to draw several line segments between the two straight lines, and marks a forty-five-degree angle."
+    },
+    {
+        "second": 16,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AuxGgVZ5DUo/output_frames/sec_16_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[10-19] The scene changes to this person using a red triangle ruler to draw two parallel straight lines on a light wooden surface, and then continues to draw several line segments between the two straight lines, and marks a forty-five-degree angle."
+    },
+    {
+        "second": 17,
+        "frame_index": 58,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AuxGgVZ5DUo/output_frames/sec_17_idx_58.jpg",
+        "fps": 60,
+        "explanation": "[10-19] The scene changes to this person using a red triangle ruler to draw two parallel straight lines on a light wooden surface, and then continues to draw several line segments between the two straight lines, and marks a forty-five-degree angle."
+    },
+    {
+        "second": 18,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AuxGgVZ5DUo/output_frames/sec_18_idx_15.jpg",
+        "fps": 60,
+        "explanation": "[10-19] The scene changes to this person using a red triangle ruler to draw two parallel straight lines on a light wooden surface, and then continues to draw several line segments between the two straight lines, and marks a forty-five-degree angle."
+    },
+    {
+        "second": 19,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AuxGgVZ5DUo/output_frames/sec_19_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[10-19] The scene changes to this person using a red triangle ruler to draw two parallel straight lines on a light wooden surface, and then continues to draw several line segments between the two straight lines, and marks a forty-five-degree angle."
+    },
+    {
+        "second": 20,
+        "frame_index": 59,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AuxGgVZ5DUo/output_frames/sec_20_idx_59.jpg",
+        "fps": 60,
+        "explanation": "[19-28] Then the shot changes, and he uses a marker pen and a red triangle ruler to mark out twenty-five-degree, forty-five-degree and ninety-degree angles on a wooden cabinet."
+    },
+    {
+        "second": 21,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AuxGgVZ5DUo/output_frames/sec_21_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[19-28] Then the shot changes, and he uses a marker pen and a red triangle ruler to mark out twenty-five-degree, forty-five-degree and ninety-degree angles on a wooden cabinet."
+    },
+    {
+        "second": 22,
+        "frame_index": 57,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AuxGgVZ5DUo/output_frames/sec_22_idx_57.jpg",
+        "fps": 60,
+        "explanation": "[19-28] Then the shot changes, and he uses a marker pen and a red triangle ruler to mark out twenty-five-degree, forty-five-degree and ninety-degree angles on a wooden cabinet."
+    },
+    {
+        "second": 23,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AuxGgVZ5DUo/output_frames/sec_23_idx_11.jpg",
+        "fps": 60,
+        "explanation": "[19-28] Then the shot changes, and he uses a marker pen and a red triangle ruler to mark out twenty-five-degree, forty-five-degree and ninety-degree angles on a wooden cabinet."
+    },
+    {
+        "second": 24,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AuxGgVZ5DUo/output_frames/sec_24_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[19-28] Then the shot changes, and he uses a marker pen and a red triangle ruler to mark out twenty-five-degree, forty-five-degree and ninety-degree angles on a wooden cabinet."
+    },
+    {
+        "second": 25,
+        "frame_index": 58,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AuxGgVZ5DUo/output_frames/sec_25_idx_58.jpg",
+        "fps": 60,
+        "explanation": "[19-28] Then the shot changes, and he uses a marker pen and a red triangle ruler to mark out twenty-five-degree, forty-five-degree and ninety-degree angles on a wooden cabinet."
+    },
+    {
+        "second": 26,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AuxGgVZ5DUo/output_frames/sec_26_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[19-28] Then the shot changes, and he uses a marker pen and a red triangle ruler to mark out twenty-five-degree, forty-five-degree and ninety-degree angles on a wooden cabinet."
+    },
+    {
+        "second": 27,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AuxGgVZ5DUo/output_frames/sec_27_idx_23.jpg",
+        "fps": 60,
+        "explanation": "[19-28] Then the shot changes, and he uses a marker pen and a red triangle ruler to mark out twenty-five-degree, forty-five-degree and ninety-degree angles on a wooden cabinet."
+    },
+    {
+        "second": 28,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AuxGgVZ5DUo/output_frames/sec_28_idx_8.jpg",
+        "fps": 60,
+        "explanation": "[19-28] Then the shot changes, and he uses a marker pen and a red triangle ruler to mark out twenty-five-degree, forty-five-degree and ninety-degree angles on a wooden cabinet."
+    },
+    {
+        "second": 29,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AuxGgVZ5DUo/output_frames/sec_29_idx_20.jpg",
+        "fps": 60,
+        "explanation": "[28-31] The scene changes again. Now he hangs a corner of the red triangle ruler on a wooden board with a nail, fixes it to the other corner of the red triangle ruler with a marker pen, and draws a circle around the nail."
+    },
+    {
+        "second": 30,
+        "frame_index": 57,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AuxGgVZ5DUo/output_frames/sec_30_idx_57.jpg",
+        "fps": 60,
+        "explanation": "[28-31] The scene changes again. Now he hangs a corner of the red triangle ruler on a wooden board with a nail, fixes it to the other corner of the red triangle ruler with a marker pen, and draws a circle around the nail."
+    },
+    {
+        "second": 31,
+        "frame_index": 41,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AuxGgVZ5DUo/output_frames/sec_31_idx_41.jpg",
+        "fps": 60,
+        "explanation": "[28-31] The scene changes again. Now he hangs a corner of the red triangle ruler on a wooden board with a nail, fixes it to the other corner of the red triangle ruler with a marker pen, and draws a circle around the nail."
+    },
+    {
+        "second": 32,
+        "frame_index": 55,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AuxGgVZ5DUo/output_frames/sec_32_idx_55.jpg",
+        "fps": 60,
+        "explanation": "[31-37] Then, the red triangle ruler is seen hanging from a green rope, and he rotates the hammer with his hand and strikes the red triangle ruler, which remains undamaged. Finally, the person uses a triangle ruler to break a brick."
+    },
+    {
+        "second": 33,
+        "frame_index": 31,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AuxGgVZ5DUo/output_frames/sec_33_idx_31.jpg",
+        "fps": 60,
+        "explanation": "[31-37] Then, the red triangle ruler is seen hanging from a green rope, and he rotates the hammer with his hand and strikes the red triangle ruler, which remains undamaged. Finally, the person uses a triangle ruler to break a brick."
+    },
+    {
+        "second": 34,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AuxGgVZ5DUo/output_frames/sec_34_idx_2.jpg",
+        "fps": 60,
+        "explanation": "[31-37] Then, the red triangle ruler is seen hanging from a green rope, and he rotates the hammer with his hand and strikes the red triangle ruler, which remains undamaged. Finally, the person uses a triangle ruler to break a brick."
+    },
+    {
+        "second": 35,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AuxGgVZ5DUo/output_frames/sec_35_idx_29.jpg",
+        "fps": 60,
+        "explanation": "[31-37] Then, the red triangle ruler is seen hanging from a green rope, and he rotates the hammer with his hand and strikes the red triangle ruler, which remains undamaged. Finally, the person uses a triangle ruler to break a brick."
+    },
+    {
+        "second": 36,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AuxGgVZ5DUo/output_frames/sec_36_idx_5.jpg",
+        "fps": 60,
+        "explanation": "[31-37] Then, the red triangle ruler is seen hanging from a green rope, and he rotates the hammer with his hand and strikes the red triangle ruler, which remains undamaged. Finally, the person uses a triangle ruler to break a brick."
+    },
+    {
+        "second": 37,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AuxGgVZ5DUo/output_frames/sec_37_idx_4.jpg",
+        "fps": 60,
+        "explanation": "[31-37] Then, the red triangle ruler is seen hanging from a green rope, and he rotates the hammer with his hand and strikes the red triangle ruler, which remains undamaged. Finally, the person uses a triangle ruler to break a brick."
+    }
+]

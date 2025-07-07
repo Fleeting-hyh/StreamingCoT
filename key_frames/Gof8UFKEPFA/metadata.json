@@ -1,0 +1,93 @@
+[
+    {
+        "second": 0,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Gof8UFKEPFA/output_frames/sec_0_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[0-0] In an indoor hallway, there are some lockers against the wall on the right side. Four young people are standing in the hallway, three of them are boys wearing red and black baseball jackets, and one is a girl wearing a red plaid skirt and black stockings. She is standing in the middle of the frame, smiling and looking forward. The three boys are standing behind her. The boy on the left has his hands in his pockets, the boy in the middle is resting his left hand on the locker in the hallway, looking down at the ground, and the bald boy on the right is leaning on the locker. The top of the hallway is white with many square ceiling tiles, and there are several lights on the ceiling. The floor is dark gray."
+    },
+    {
+        "second": 1,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Gof8UFKEPFA/output_frames/sec_1_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[0-5] First, the girl in the red plaid skirt starts dancing. The bald boy reaches out his right hand and pulls her hair, then purses his lips and nods. The boy on the left looks at the boy on the right."
+    },
+    {
+        "second": 2,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Gof8UFKEPFA/output_frames/sec_2_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-5] First, the girl in the red plaid skirt starts dancing. The bald boy reaches out his right hand and pulls her hair, then purses his lips and nods. The boy on the left looks at the boy on the right."
+    },
+    {
+        "second": 3,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Gof8UFKEPFA/output_frames/sec_3_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[0-5] First, the girl in the red plaid skirt starts dancing. The bald boy reaches out his right hand and pulls her hair, then purses his lips and nods. The boy on the left looks at the boy on the right."
+    },
+    {
+        "second": 4,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Gof8UFKEPFA/output_frames/sec_4_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[0-5] First, the girl in the red plaid skirt starts dancing. The bald boy reaches out his right hand and pulls her hair, then purses his lips and nods. The boy on the left looks at the boy on the right."
+    },
+    {
+        "second": 5,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Gof8UFKEPFA/output_frames/sec_5_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[0-5] First, the girl in the red plaid skirt starts dancing. The bald boy reaches out his right hand and pulls her hair, then purses his lips and nods. The boy on the left looks at the boy on the right."
+    },
+    {
+        "second": 6,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Gof8UFKEPFA/output_frames/sec_6_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[5-12] Then the girl in the red plaid skirt continues to dance, the bald boy folds his hands in front of his chest, faces forward, looks sideways at the girl in the red plaid skirt, then touches his chin with his left hand, the man in the middle smiles and looks down, the man on the left raises his left hand in front of him, looks down to the left, then turns his head to look at the other two boys."
+    },
+    {
+        "second": 7,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Gof8UFKEPFA/output_frames/sec_7_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[5-12] Then the girl in the red plaid skirt continues to dance, the bald boy folds his hands in front of his chest, faces forward, looks sideways at the girl in the red plaid skirt, then touches his chin with his left hand, the man in the middle smiles and looks down, the man on the left raises his left hand in front of him, looks down to the left, then turns his head to look at the other two boys."
+    },
+    {
+        "second": 8,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Gof8UFKEPFA/output_frames/sec_8_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[5-12] Then the girl in the red plaid skirt continues to dance, the bald boy folds his hands in front of his chest, faces forward, looks sideways at the girl in the red plaid skirt, then touches his chin with his left hand, the man in the middle smiles and looks down, the man on the left raises his left hand in front of him, looks down to the left, then turns his head to look at the other two boys."
+    },
+    {
+        "second": 9,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Gof8UFKEPFA/output_frames/sec_9_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[5-12] Then the girl in the red plaid skirt continues to dance, the bald boy folds his hands in front of his chest, faces forward, looks sideways at the girl in the red plaid skirt, then touches his chin with his left hand, the man in the middle smiles and looks down, the man on the left raises his left hand in front of him, looks down to the left, then turns his head to look at the other two boys."
+    },
+    {
+        "second": 10,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Gof8UFKEPFA/output_frames/sec_10_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[5-12] Then the girl in the red plaid skirt continues to dance, the bald boy folds his hands in front of his chest, faces forward, looks sideways at the girl in the red plaid skirt, then touches his chin with his left hand, the man in the middle smiles and looks down, the man on the left raises his left hand in front of him, looks down to the left, then turns his head to look at the other two boys."
+    },
+    {
+        "second": 11,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Gof8UFKEPFA/output_frames/sec_11_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[5-12] Then the girl in the red plaid skirt continues to dance, the bald boy folds his hands in front of his chest, faces forward, looks sideways at the girl in the red plaid skirt, then touches his chin with his left hand, the man in the middle smiles and looks down, the man on the left raises his left hand in front of him, looks down to the left, then turns his head to look at the other two boys."
+    },
+    {
+        "second": 12,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Gof8UFKEPFA/output_frames/sec_12_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[5-12] Then the girl in the red plaid skirt continues to dance, the bald boy folds his hands in front of his chest, faces forward, looks sideways at the girl in the red plaid skirt, then touches his chin with his left hand, the man in the middle smiles and looks down, the man on the left raises his left hand in front of him, looks down to the left, then turns his head to look at the other two boys."
+    }
+]

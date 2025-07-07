@@ -1,0 +1,58 @@
+[
+    {
+        "second": 0,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Mib6LDhv_xY/output_frames/sec_0_idx_21.jpg",
+        "fps": 50,
+        "explanation": "[0-0] A muscular chimpanzee is climbing on a wooden structure, with a brick wall in the background. There is also a logo in the lower left corner that says \"Slogger Vlogger\"."
+    },
+    {
+        "second": 1,
+        "frame_index": 30,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Mib6LDhv_xY/output_frames/sec_1_idx_30.jpg",
+        "fps": 50,
+        "explanation": "[0-3] Then the chimpanzee crawls on the wooden structure."
+    },
+    {
+        "second": 2,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Mib6LDhv_xY/output_frames/sec_2_idx_5.jpg",
+        "fps": 50,
+        "explanation": "[0-3] Then the chimpanzee crawls on the wooden structure."
+    },
+    {
+        "second": 3,
+        "frame_index": 35,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Mib6LDhv_xY/output_frames/sec_3_idx_35.jpg",
+        "fps": 50,
+        "explanation": "[0-3] Then the chimpanzee crawls on the wooden structure."
+    },
+    {
+        "second": 4,
+        "frame_index": 47,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Mib6LDhv_xY/output_frames/sec_4_idx_47.jpg",
+        "fps": 50,
+        "explanation": "[3-7] Then the chimpanzee sits down on the edge of the wooden structure, maintaining its sitting posture and looking up."
+    },
+    {
+        "second": 5,
+        "frame_index": 40,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Mib6LDhv_xY/output_frames/sec_5_idx_40.jpg",
+        "fps": 50,
+        "explanation": "[3-7] Then the chimpanzee sits down on the edge of the wooden structure, maintaining its sitting posture and looking up."
+    },
+    {
+        "second": 6,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Mib6LDhv_xY/output_frames/sec_6_idx_1.jpg",
+        "fps": 50,
+        "explanation": "[3-7] Then the chimpanzee sits down on the edge of the wooden structure, maintaining its sitting posture and looking up."
+    },
+    {
+        "second": 7,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Mib6LDhv_xY/output_frames/sec_7_idx_4.jpg",
+        "fps": 50,
+        "explanation": "[3-7] Then the chimpanzee sits down on the edge of the wooden structure, maintaining its sitting posture and looking up."
+    }
+]

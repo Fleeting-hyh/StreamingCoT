@@ -1,0 +1,422 @@
+[
+    {
+        "second": 0,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5746SJTnpn8/output_frames/sec_0_idx_21.jpg",
+        "fps": 24,
+        "explanation": "[0-0] Against a white background, inside a box, a circle is drawn in the upper left corner with a red cross inside it. Below the box is a blank space, while above it are some empty crossword puzzle lines."
+    },
+    {
+        "second": 1,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5746SJTnpn8/output_frames/sec_1_idx_23.jpg",
+        "fps": 24,
+        "explanation": "[0-3] First, as the mouse moves, the blank lines of the crossword puzzle are filled in. The image zooms out, revealing a gallows on the right, consisting of a vertical line, a horizontal line, and a hook. A wood-grained platform appears below the box, with five colored circles on it. From left to right, they are blue, yellow, red, green, and orange."
+    },
+    {
+        "second": 2,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5746SJTnpn8/output_frames/sec_2_idx_4.jpg",
+        "fps": 24,
+        "explanation": "[0-3] First, as the mouse moves, the blank lines of the crossword puzzle are filled in. The image zooms out, revealing a gallows on the right, consisting of a vertical line, a horizontal line, and a hook. A wood-grained platform appears below the box, with five colored circles on it. From left to right, they are blue, yellow, red, green, and orange."
+    },
+    {
+        "second": 3,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5746SJTnpn8/output_frames/sec_3_idx_15.jpg",
+        "fps": 24,
+        "explanation": "[0-3] First, as the mouse moves, the blank lines of the crossword puzzle are filled in. The image zooms out, revealing a gallows on the right, consisting of a vertical line, a horizontal line, and a hook. A wood-grained platform appears below the box, with five colored circles on it. From left to right, they are blue, yellow, red, green, and orange."
+    },
+    {
+        "second": 4,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5746SJTnpn8/output_frames/sec_4_idx_0.jpg",
+        "fps": 24,
+        "explanation": "[3-11] Then, the middle red circle extends a hand holding the letter \"E\". The mouse then writes the letter \"E\" on the sixth line of the first row, the fifth line of the second row, and the eighth line of the second row."
+    },
+    {
+        "second": 5,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5746SJTnpn8/output_frames/sec_5_idx_14.jpg",
+        "fps": 24,
+        "explanation": "[3-11] Then, the middle red circle extends a hand holding the letter \"E\". The mouse then writes the letter \"E\" on the sixth line of the first row, the fifth line of the second row, and the eighth line of the second row."
+    },
+    {
+        "second": 6,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5746SJTnpn8/output_frames/sec_6_idx_0.jpg",
+        "fps": 24,
+        "explanation": "[3-11] Then, the middle red circle extends a hand holding the letter \"E\". The mouse then writes the letter \"E\" on the sixth line of the first row, the fifth line of the second row, and the eighth line of the second row."
+    },
+    {
+        "second": 7,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5746SJTnpn8/output_frames/sec_7_idx_1.jpg",
+        "fps": 24,
+        "explanation": "[3-11] Then, the middle red circle extends a hand holding the letter \"E\". The mouse then writes the letter \"E\" on the sixth line of the first row, the fifth line of the second row, and the eighth line of the second row."
+    },
+    {
+        "second": 8,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5746SJTnpn8/output_frames/sec_8_idx_2.jpg",
+        "fps": 24,
+        "explanation": "[3-11] Then, the middle red circle extends a hand holding the letter \"E\". The mouse then writes the letter \"E\" on the sixth line of the first row, the fifth line of the second row, and the eighth line of the second row."
+    },
+    {
+        "second": 9,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5746SJTnpn8/output_frames/sec_9_idx_0.jpg",
+        "fps": 24,
+        "explanation": "[3-11] Then, the middle red circle extends a hand holding the letter \"E\". The mouse then writes the letter \"E\" on the sixth line of the first row, the fifth line of the second row, and the eighth line of the second row."
+    },
+    {
+        "second": 10,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5746SJTnpn8/output_frames/sec_10_idx_0.jpg",
+        "fps": 24,
+        "explanation": "[3-11] Then, the middle red circle extends a hand holding the letter \"E\". The mouse then writes the letter \"E\" on the sixth line of the first row, the fifth line of the second row, and the eighth line of the second row."
+    },
+    {
+        "second": 11,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5746SJTnpn8/output_frames/sec_11_idx_2.jpg",
+        "fps": 24,
+        "explanation": "[3-11] Then, the middle red circle extends a hand holding the letter \"E\". The mouse then writes the letter \"E\" on the sixth line of the first row, the fifth line of the second row, and the eighth line of the second row."
+    },
+    {
+        "second": 12,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5746SJTnpn8/output_frames/sec_12_idx_14.jpg",
+        "fps": 24,
+        "explanation": "[11-18] Next, the image zooms in, the red circle retracts its hand, and the green circle extends a hand holding the letter \"A\". The image moves up as the mouse writes the letter \"A\" on the fourth line of the first row. The image moves to the left, and the letter \"A\" is written on the third line of the second row. Zooming out, the letter \"A\" is written on the first and third lines of the third row."
+    },
+    {
+        "second": 13,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5746SJTnpn8/output_frames/sec_13_idx_0.jpg",
+        "fps": 24,
+        "explanation": "[11-18] Next, the image zooms in, the red circle retracts its hand, and the green circle extends a hand holding the letter \"A\". The image moves up as the mouse writes the letter \"A\" on the fourth line of the first row. The image moves to the left, and the letter \"A\" is written on the third line of the second row. Zooming out, the letter \"A\" is written on the first and third lines of the third row."
+    },
+    {
+        "second": 14,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5746SJTnpn8/output_frames/sec_14_idx_0.jpg",
+        "fps": 24,
+        "explanation": "[11-18] Next, the image zooms in, the red circle retracts its hand, and the green circle extends a hand holding the letter \"A\". The image moves up as the mouse writes the letter \"A\" on the fourth line of the first row. The image moves to the left, and the letter \"A\" is written on the third line of the second row. Zooming out, the letter \"A\" is written on the first and third lines of the third row."
+    },
+    {
+        "second": 15,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5746SJTnpn8/output_frames/sec_15_idx_22.jpg",
+        "fps": 24,
+        "explanation": "[11-18] Next, the image zooms in, the red circle retracts its hand, and the green circle extends a hand holding the letter \"A\". The image moves up as the mouse writes the letter \"A\" on the fourth line of the first row. The image moves to the left, and the letter \"A\" is written on the third line of the second row. Zooming out, the letter \"A\" is written on the first and third lines of the third row."
+    },
+    {
+        "second": 16,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5746SJTnpn8/output_frames/sec_16_idx_3.jpg",
+        "fps": 24,
+        "explanation": "[11-18] Next, the image zooms in, the red circle retracts its hand, and the green circle extends a hand holding the letter \"A\". The image moves up as the mouse writes the letter \"A\" on the fourth line of the first row. The image moves to the left, and the letter \"A\" is written on the third line of the second row. Zooming out, the letter \"A\" is written on the first and third lines of the third row."
+    },
+    {
+        "second": 17,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5746SJTnpn8/output_frames/sec_17_idx_23.jpg",
+        "fps": 24,
+        "explanation": "[11-18] Next, the image zooms in, the red circle retracts its hand, and the green circle extends a hand holding the letter \"A\". The image moves up as the mouse writes the letter \"A\" on the fourth line of the first row. The image moves to the left, and the letter \"A\" is written on the third line of the second row. Zooming out, the letter \"A\" is written on the first and third lines of the third row."
+    },
+    {
+        "second": 18,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5746SJTnpn8/output_frames/sec_18_idx_0.jpg",
+        "fps": 24,
+        "explanation": "[11-18] Next, the image zooms in, the red circle retracts its hand, and the green circle extends a hand holding the letter \"A\". The image moves up as the mouse writes the letter \"A\" on the fourth line of the first row. The image moves to the left, and the letter \"A\" is written on the third line of the second row. Zooming out, the letter \"A\" is written on the first and third lines of the third row."
+    },
+    {
+        "second": 19,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5746SJTnpn8/output_frames/sec_19_idx_0.jpg",
+        "fps": 24,
+        "explanation": "[18-24] Next, the yellow circle extends both hands simultaneously, holding the letters \"W\" and \"Y\", respectively. The mouse writes \"W\" and \"Y\" on the second line of the third row and the fourth line, respectively. The blue circle and the yellow circle each raise a hand and clap."
+    },
+    {
+        "second": 20,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5746SJTnpn8/output_frames/sec_20_idx_20.jpg",
+        "fps": 24,
+        "explanation": "[18-24] Next, the yellow circle extends both hands simultaneously, holding the letters \"W\" and \"Y\", respectively. The mouse writes \"W\" and \"Y\" on the second line of the third row and the fourth line, respectively. The blue circle and the yellow circle each raise a hand and clap."
+    },
+    {
+        "second": 21,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5746SJTnpn8/output_frames/sec_21_idx_5.jpg",
+        "fps": 24,
+        "explanation": "[18-24] Next, the yellow circle extends both hands simultaneously, holding the letters \"W\" and \"Y\", respectively. The mouse writes \"W\" and \"Y\" on the second line of the third row and the fourth line, respectively. The blue circle and the yellow circle each raise a hand and clap."
+    },
+    {
+        "second": 22,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5746SJTnpn8/output_frames/sec_22_idx_19.jpg",
+        "fps": 24,
+        "explanation": "[18-24] Next, the yellow circle extends both hands simultaneously, holding the letters \"W\" and \"Y\", respectively. The mouse writes \"W\" and \"Y\" on the second line of the third row and the fourth line, respectively. The blue circle and the yellow circle each raise a hand and clap."
+    },
+    {
+        "second": 23,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5746SJTnpn8/output_frames/sec_23_idx_5.jpg",
+        "fps": 24,
+        "explanation": "[18-24] Next, the yellow circle extends both hands simultaneously, holding the letters \"W\" and \"Y\", respectively. The mouse writes \"W\" and \"Y\" on the second line of the third row and the fourth line, respectively. The blue circle and the yellow circle each raise a hand and clap."
+    },
+    {
+        "second": 24,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5746SJTnpn8/output_frames/sec_24_idx_0.jpg",
+        "fps": 24,
+        "explanation": "[18-24] Next, the yellow circle extends both hands simultaneously, holding the letters \"W\" and \"Y\", respectively. The mouse writes \"W\" and \"Y\" on the second line of the third row and the fourth line, respectively. The blue circle and the yellow circle each raise a hand and clap."
+    },
+    {
+        "second": 25,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5746SJTnpn8/output_frames/sec_25_idx_7.jpg",
+        "fps": 24,
+        "explanation": "[24-34] Afterward, the image zooms in. The orange circle extends a hand holding the letter \"M,\" and the mouse writes \"M\" on the first line of the first row. The blue circle extends a hand holding \"C,\" and the mouse writes \"C\" on the first line of the second row. The red circle extends a hand holding \"H,\" the image zooms in, and the mouse writes \"H\" inside the box. The image then zooms out, and the mouse draws a circle below the hook of the gallows."
+    },
+    {
+        "second": 26,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5746SJTnpn8/output_frames/sec_26_idx_0.jpg",
+        "fps": 24,
+        "explanation": "[24-34] Afterward, the image zooms in. The orange circle extends a hand holding the letter \"M,\" and the mouse writes \"M\" on the first line of the first row. The blue circle extends a hand holding \"C,\" and the mouse writes \"C\" on the first line of the second row. The red circle extends a hand holding \"H,\" the image zooms in, and the mouse writes \"H\" inside the box. The image then zooms out, and the mouse draws a circle below the hook of the gallows."
+    },
+    {
+        "second": 27,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5746SJTnpn8/output_frames/sec_27_idx_14.jpg",
+        "fps": 24,
+        "explanation": "[24-34] Afterward, the image zooms in. The orange circle extends a hand holding the letter \"M,\" and the mouse writes \"M\" on the first line of the first row. The blue circle extends a hand holding \"C,\" and the mouse writes \"C\" on the first line of the second row. The red circle extends a hand holding \"H,\" the image zooms in, and the mouse writes \"H\" inside the box. The image then zooms out, and the mouse draws a circle below the hook of the gallows."
+    },
+    {
+        "second": 28,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5746SJTnpn8/output_frames/sec_28_idx_0.jpg",
+        "fps": 24,
+        "explanation": "[24-34] Afterward, the image zooms in. The orange circle extends a hand holding the letter \"M,\" and the mouse writes \"M\" on the first line of the first row. The blue circle extends a hand holding \"C,\" and the mouse writes \"C\" on the first line of the second row. The red circle extends a hand holding \"H,\" the image zooms in, and the mouse writes \"H\" inside the box. The image then zooms out, and the mouse draws a circle below the hook of the gallows."
+    },
+    {
+        "second": 29,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5746SJTnpn8/output_frames/sec_29_idx_16.jpg",
+        "fps": 24,
+        "explanation": "[24-34] Afterward, the image zooms in. The orange circle extends a hand holding the letter \"M,\" and the mouse writes \"M\" on the first line of the first row. The blue circle extends a hand holding \"C,\" and the mouse writes \"C\" on the first line of the second row. The red circle extends a hand holding \"H,\" the image zooms in, and the mouse writes \"H\" inside the box. The image then zooms out, and the mouse draws a circle below the hook of the gallows."
+    },
+    {
+        "second": 30,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5746SJTnpn8/output_frames/sec_30_idx_18.jpg",
+        "fps": 24,
+        "explanation": "[24-34] Afterward, the image zooms in. The orange circle extends a hand holding the letter \"M,\" and the mouse writes \"M\" on the first line of the first row. The blue circle extends a hand holding \"C,\" and the mouse writes \"C\" on the first line of the second row. The red circle extends a hand holding \"H,\" the image zooms in, and the mouse writes \"H\" inside the box. The image then zooms out, and the mouse draws a circle below the hook of the gallows."
+    },
+    {
+        "second": 31,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5746SJTnpn8/output_frames/sec_31_idx_0.jpg",
+        "fps": 24,
+        "explanation": "[24-34] Afterward, the image zooms in. The orange circle extends a hand holding the letter \"M,\" and the mouse writes \"M\" on the first line of the first row. The blue circle extends a hand holding \"C,\" and the mouse writes \"C\" on the first line of the second row. The red circle extends a hand holding \"H,\" the image zooms in, and the mouse writes \"H\" inside the box. The image then zooms out, and the mouse draws a circle below the hook of the gallows."
+    },
+    {
+        "second": 32,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5746SJTnpn8/output_frames/sec_32_idx_22.jpg",
+        "fps": 24,
+        "explanation": "[24-34] Afterward, the image zooms in. The orange circle extends a hand holding the letter \"M,\" and the mouse writes \"M\" on the first line of the first row. The blue circle extends a hand holding \"C,\" and the mouse writes \"C\" on the first line of the second row. The red circle extends a hand holding \"H,\" the image zooms in, and the mouse writes \"H\" inside the box. The image then zooms out, and the mouse draws a circle below the hook of the gallows."
+    },
+    {
+        "second": 33,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5746SJTnpn8/output_frames/sec_33_idx_20.jpg",
+        "fps": 24,
+        "explanation": "[24-34] Afterward, the image zooms in. The orange circle extends a hand holding the letter \"M,\" and the mouse writes \"M\" on the first line of the first row. The blue circle extends a hand holding \"C,\" and the mouse writes \"C\" on the first line of the second row. The red circle extends a hand holding \"H,\" the image zooms in, and the mouse writes \"H\" inside the box. The image then zooms out, and the mouse draws a circle below the hook of the gallows."
+    },
+    {
+        "second": 34,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5746SJTnpn8/output_frames/sec_34_idx_0.jpg",
+        "fps": 24,
+        "explanation": "[24-34] Afterward, the image zooms in. The orange circle extends a hand holding the letter \"M,\" and the mouse writes \"M\" on the first line of the first row. The blue circle extends a hand holding \"C,\" and the mouse writes \"C\" on the first line of the second row. The red circle extends a hand holding \"H,\" the image zooms in, and the mouse writes \"H\" inside the box. The image then zooms out, and the mouse draws a circle below the hook of the gallows."
+    },
+    {
+        "second": 35,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5746SJTnpn8/output_frames/sec_35_idx_2.jpg",
+        "fps": 24,
+        "explanation": "[34-39] Next, the image zooms in. The green circle extends a hand holding the letter \"S.\" The image moves, and the mouse writes \"S\" inside the box. The image moves to the right, and the mouse draws a straight line below the circle on the gallows."
+    },
+    {
+        "second": 36,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5746SJTnpn8/output_frames/sec_36_idx_0.jpg",
+        "fps": 24,
+        "explanation": "[34-39] Next, the image zooms in. The green circle extends a hand holding the letter \"S.\" The image moves, and the mouse writes \"S\" inside the box. The image moves to the right, and the mouse draws a straight line below the circle on the gallows."
+    },
+    {
+        "second": 37,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5746SJTnpn8/output_frames/sec_37_idx_0.jpg",
+        "fps": 24,
+        "explanation": "[34-39] Next, the image zooms in. The green circle extends a hand holding the letter \"S.\" The image moves, and the mouse writes \"S\" inside the box. The image moves to the right, and the mouse draws a straight line below the circle on the gallows."
+    },
+    {
+        "second": 38,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5746SJTnpn8/output_frames/sec_38_idx_17.jpg",
+        "fps": 24,
+        "explanation": "[34-39] Next, the image zooms in. The green circle extends a hand holding the letter \"S.\" The image moves, and the mouse writes \"S\" inside the box. The image moves to the right, and the mouse draws a straight line below the circle on the gallows."
+    },
+    {
+        "second": 39,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5746SJTnpn8/output_frames/sec_39_idx_6.jpg",
+        "fps": 24,
+        "explanation": "[34-39] Next, the image zooms in. The green circle extends a hand holding the letter \"S.\" The image moves, and the mouse writes \"S\" inside the box. The image moves to the right, and the mouse draws a straight line below the circle on the gallows."
+    },
+    {
+        "second": 40,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5746SJTnpn8/output_frames/sec_40_idx_14.jpg",
+        "fps": 24,
+        "explanation": "[39-45] Then the image switches, the blue circle holds \"B\" and \"D\" in each hand and moves up and down. The yellow circle next to it takes \"D\" and raises it, while the blue circle raises \"B.\" The image cuts to the gallows, where the mouse draws a slanted line on each side of the straight line."
+    },
+    {
+        "second": 41,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5746SJTnpn8/output_frames/sec_41_idx_8.jpg",
+        "fps": 24,
+        "explanation": "[39-45] Then the image switches, the blue circle holds \"B\" and \"D\" in each hand and moves up and down. The yellow circle next to it takes \"D\" and raises it, while the blue circle raises \"B.\" The image cuts to the gallows, where the mouse draws a slanted line on each side of the straight line."
+    },
+    {
+        "second": 42,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5746SJTnpn8/output_frames/sec_42_idx_3.jpg",
+        "fps": 24,
+        "explanation": "[39-45] Then the image switches, the blue circle holds \"B\" and \"D\" in each hand and moves up and down. The yellow circle next to it takes \"D\" and raises it, while the blue circle raises \"B.\" The image cuts to the gallows, where the mouse draws a slanted line on each side of the straight line."
+    },
+    {
+        "second": 43,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5746SJTnpn8/output_frames/sec_43_idx_23.jpg",
+        "fps": 24,
+        "explanation": "[39-45] Then the image switches, the blue circle holds \"B\" and \"D\" in each hand and moves up and down. The yellow circle next to it takes \"D\" and raises it, while the blue circle raises \"B.\" The image cuts to the gallows, where the mouse draws a slanted line on each side of the straight line."
+    },
+    {
+        "second": 44,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5746SJTnpn8/output_frames/sec_44_idx_0.jpg",
+        "fps": 24,
+        "explanation": "[39-45] Then the image switches, the blue circle holds \"B\" and \"D\" in each hand and moves up and down. The yellow circle next to it takes \"D\" and raises it, while the blue circle raises \"B.\" The image cuts to the gallows, where the mouse draws a slanted line on each side of the straight line."
+    },
+    {
+        "second": 45,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5746SJTnpn8/output_frames/sec_45_idx_14.jpg",
+        "fps": 24,
+        "explanation": "[39-45] Then the image switches, the blue circle holds \"B\" and \"D\" in each hand and moves up and down. The yellow circle next to it takes \"D\" and raises it, while the blue circle raises \"B.\" The image cuts to the gallows, where the mouse draws a slanted line on each side of the straight line."
+    },
+    {
+        "second": 46,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5746SJTnpn8/output_frames/sec_46_idx_23.jpg",
+        "fps": 24,
+        "explanation": "[45-51] The image then cuts to the red circle extending a hand holding the letter \"G.\" The image cuts to the gallows, and the mouse draws a left diagonal line below the circle. The image cuts to the orange circle extending a hand holding the letter \"O.\" The image zooms out, and the mouse draws a right diagonal line below the circle. A stick figure hangs from the gallows, and the box on the left reads \"H, S, B, D, G.\""
+    },
+    {
+        "second": 47,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5746SJTnpn8/output_frames/sec_47_idx_0.jpg",
+        "fps": 24,
+        "explanation": "[45-51] The image then cuts to the red circle extending a hand holding the letter \"G.\" The image cuts to the gallows, and the mouse draws a left diagonal line below the circle. The image cuts to the orange circle extending a hand holding the letter \"O.\" The image zooms out, and the mouse draws a right diagonal line below the circle. A stick figure hangs from the gallows, and the box on the left reads \"H, S, B, D, G.\""
+    },
+    {
+        "second": 48,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5746SJTnpn8/output_frames/sec_48_idx_23.jpg",
+        "fps": 24,
+        "explanation": "[45-51] The image then cuts to the red circle extending a hand holding the letter \"G.\" The image cuts to the gallows, and the mouse draws a left diagonal line below the circle. The image cuts to the orange circle extending a hand holding the letter \"O.\" The image zooms out, and the mouse draws a right diagonal line below the circle. A stick figure hangs from the gallows, and the box on the left reads \"H, S, B, D, G.\""
+    },
+    {
+        "second": 49,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5746SJTnpn8/output_frames/sec_49_idx_2.jpg",
+        "fps": 24,
+        "explanation": "[45-51] The image then cuts to the red circle extending a hand holding the letter \"G.\" The image cuts to the gallows, and the mouse draws a left diagonal line below the circle. The image cuts to the orange circle extending a hand holding the letter \"O.\" The image zooms out, and the mouse draws a right diagonal line below the circle. A stick figure hangs from the gallows, and the box on the left reads \"H, S, B, D, G.\""
+    },
+    {
+        "second": 50,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5746SJTnpn8/output_frames/sec_50_idx_1.jpg",
+        "fps": 24,
+        "explanation": "[45-51] The image then cuts to the red circle extending a hand holding the letter \"G.\" The image cuts to the gallows, and the mouse draws a left diagonal line below the circle. The image cuts to the orange circle extending a hand holding the letter \"O.\" The image zooms out, and the mouse draws a right diagonal line below the circle. A stick figure hangs from the gallows, and the box on the left reads \"H, S, B, D, G.\""
+    },
+    {
+        "second": 51,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5746SJTnpn8/output_frames/sec_51_idx_0.jpg",
+        "fps": 24,
+        "explanation": "[45-51] The image then cuts to the red circle extending a hand holding the letter \"G.\" The image cuts to the gallows, and the mouse draws a left diagonal line below the circle. The image cuts to the orange circle extending a hand holding the letter \"O.\" The image zooms out, and the mouse draws a right diagonal line below the circle. A stick figure hangs from the gallows, and the box on the left reads \"H, S, B, D, G.\""
+    },
+    {
+        "second": 52,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5746SJTnpn8/output_frames/sec_52_idx_19.jpg",
+        "fps": 24,
+        "explanation": "[51-59] Finally, the stick figure on the gallows curls up its body. On the wood-grained platform, the colorful figures stand up. The figure on the gallows stretches out its body and raises its left hand to wave. The colorful figures scatter and run away. The stick figure on the gallows droops its limbs, and the image freezes."
+    },
+    {
+        "second": 53,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5746SJTnpn8/output_frames/sec_53_idx_4.jpg",
+        "fps": 24,
+        "explanation": "[51-59] Finally, the stick figure on the gallows curls up its body. On the wood-grained platform, the colorful figures stand up. The figure on the gallows stretches out its body and raises its left hand to wave. The colorful figures scatter and run away. The stick figure on the gallows droops its limbs, and the image freezes."
+    },
+    {
+        "second": 54,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5746SJTnpn8/output_frames/sec_54_idx_0.jpg",
+        "fps": 24,
+        "explanation": "[51-59] Finally, the stick figure on the gallows curls up its body. On the wood-grained platform, the colorful figures stand up. The figure on the gallows stretches out its body and raises its left hand to wave. The colorful figures scatter and run away. The stick figure on the gallows droops its limbs, and the image freezes."
+    },
+    {
+        "second": 55,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5746SJTnpn8/output_frames/sec_55_idx_21.jpg",
+        "fps": 24,
+        "explanation": "[51-59] Finally, the stick figure on the gallows curls up its body. On the wood-grained platform, the colorful figures stand up. The figure on the gallows stretches out its body and raises its left hand to wave. The colorful figures scatter and run away. The stick figure on the gallows droops its limbs, and the image freezes."
+    },
+    {
+        "second": 56,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5746SJTnpn8/output_frames/sec_56_idx_17.jpg",
+        "fps": 24,
+        "explanation": "[51-59] Finally, the stick figure on the gallows curls up its body. On the wood-grained platform, the colorful figures stand up. The figure on the gallows stretches out its body and raises its left hand to wave. The colorful figures scatter and run away. The stick figure on the gallows droops its limbs, and the image freezes."
+    },
+    {
+        "second": 57,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5746SJTnpn8/output_frames/sec_57_idx_14.jpg",
+        "fps": 24,
+        "explanation": "[51-59] Finally, the stick figure on the gallows curls up its body. On the wood-grained platform, the colorful figures stand up. The figure on the gallows stretches out its body and raises its left hand to wave. The colorful figures scatter and run away. The stick figure on the gallows droops its limbs, and the image freezes."
+    },
+    {
+        "second": 58,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5746SJTnpn8/output_frames/sec_58_idx_11.jpg",
+        "fps": 24,
+        "explanation": "[51-59] Finally, the stick figure on the gallows curls up its body. On the wood-grained platform, the colorful figures stand up. The figure on the gallows stretches out its body and raises its left hand to wave. The colorful figures scatter and run away. The stick figure on the gallows droops its limbs, and the image freezes."
+    },
+    {
+        "second": 59,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5746SJTnpn8/output_frames/sec_59_idx_5.jpg",
+        "fps": 24,
+        "explanation": "[51-59] Finally, the stick figure on the gallows curls up its body. On the wood-grained platform, the colorful figures stand up. The figure on the gallows stretches out its body and raises its left hand to wave. The colorful figures scatter and run away. The stick figure on the gallows droops its limbs, and the image freezes."
+    }
+]

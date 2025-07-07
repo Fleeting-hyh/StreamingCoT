@@ -1,0 +1,72 @@
+[
+    {
+        "second": 0,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8r5Af9_qGwo/output_frames/sec_0_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[0-0] In a bright kitchen, a young man in a pink tie-dye T-shirt stands by a kitchen counter holding a bottle of ketchup. A plate of french fries sits on the white-tiled countertop in front of him. The white text \"When you don't shake the ketchup:\" is written across the top of the frame."
+    },
+    {
+        "second": 1,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8r5Af9_qGwo/output_frames/sec_1_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[0-2] He then opens the ketchup bottle, rests one hand on the table, and starts squeezing ketchup onto the fries with the other hand."
+    },
+    {
+        "second": 2,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8r5Af9_qGwo/output_frames/sec_2_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[0-2] He then opens the ketchup bottle, rests one hand on the table, and starts squeezing ketchup onto the fries with the other hand."
+    },
+    {
+        "second": 3,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8r5Af9_qGwo/output_frames/sec_3_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[2-7] The next shot is of the plate of french fries on the table, with a large amount of clear water pouring down from the top of the frame, washing over the fries on the plate. Soon, the fries are washed away, leaving only water on the plate, and then a bit of ketchup is squeezed into the plate."
+    },
+    {
+        "second": 4,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8r5Af9_qGwo/output_frames/sec_4_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[2-7] The next shot is of the plate of french fries on the table, with a large amount of clear water pouring down from the top of the frame, washing over the fries on the plate. Soon, the fries are washed away, leaving only water on the plate, and then a bit of ketchup is squeezed into the plate."
+    },
+    {
+        "second": 5,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8r5Af9_qGwo/output_frames/sec_5_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[2-7] The next shot is of the plate of french fries on the table, with a large amount of clear water pouring down from the top of the frame, washing over the fries on the plate. Soon, the fries are washed away, leaving only water on the plate, and then a bit of ketchup is squeezed into the plate."
+    },
+    {
+        "second": 6,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8r5Af9_qGwo/output_frames/sec_6_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[2-7] The next shot is of the plate of french fries on the table, with a large amount of clear water pouring down from the top of the frame, washing over the fries on the plate. Soon, the fries are washed away, leaving only water on the plate, and then a bit of ketchup is squeezed into the plate."
+    },
+    {
+        "second": 7,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8r5Af9_qGwo/output_frames/sec_7_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[2-7] The next shot is of the plate of french fries on the table, with a large amount of clear water pouring down from the top of the frame, washing over the fries on the plate. Soon, the fries are washed away, leaving only water on the plate, and then a bit of ketchup is squeezed into the plate."
+    },
+    {
+        "second": 8,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8r5Af9_qGwo/output_frames/sec_8_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[7-9] The shot cuts back to the previous perspective, and you can see the young man looking at the ketchup bottle in surprise, his mouth slightly open. He then lets go of the bottle, and it falls onto the tabletop."
+    },
+    {
+        "second": 9,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8r5Af9_qGwo/output_frames/sec_9_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[7-9] The shot cuts back to the previous perspective, and you can see the young man looking at the ketchup bottle in surprise, his mouth slightly open. He then lets go of the bottle, and it falls onto the tabletop."
+    }
+]

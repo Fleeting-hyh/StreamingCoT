@@ -1,0 +1,86 @@
+[
+    {
+        "second": 0,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/O0_YN3Oiux4/output_frames/sec_0_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-0] Against a red background, there is a white cat with green eyes. The white cat stares ahead with wide eyes."
+    },
+    {
+        "second": 1,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/O0_YN3Oiux4/output_frames/sec_1_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-2] The scene changes to a person standing next to a table against a red background. She is wearing gray gloves, holding a comb in her right hand and grooming tools in her left hand. There are various tools on the table, and a plastic drop cloth behind her. She rubs the comb and grooming tools together. Afterward, the scene changes to a bag full of fur against a red background, and a hand throws a handful of fur onto the bag. There is scattered fur on the wooden floor next to the bag."
+    },
+    {
+        "second": 2,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/O0_YN3Oiux4/output_frames/sec_2_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-2] The scene changes to a person standing next to a table against a red background. She is wearing gray gloves, holding a comb in her right hand and grooming tools in her left hand. There are various tools on the table, and a plastic drop cloth behind her. She rubs the comb and grooming tools together. Afterward, the scene changes to a bag full of fur against a red background, and a hand throws a handful of fur onto the bag. There is scattered fur on the wooden floor next to the bag."
+    },
+    {
+        "second": 3,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/O0_YN3Oiux4/output_frames/sec_3_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[2-4] Then, the picture changes to the white cat staring ahead with wide eyes. Immediately after, the scene shifts to the person standing by the table, holding a hairless cat in their left hand. There are a few clumps of cat hair on the plastic film covering the table. The camera zooms out to reveal the woman holding the tools, with some cat hair on her chest."
+    },
+    {
+        "second": 4,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/O0_YN3Oiux4/output_frames/sec_4_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[2-4] Then, the picture changes to the white cat staring ahead with wide eyes. Immediately after, the scene shifts to the person standing by the table, holding a hairless cat in their left hand. There are a few clumps of cat hair on the plastic film covering the table. The camera zooms out to reveal the woman holding the tools, with some cat hair on her chest."
+    },
+    {
+        "second": 5,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/O0_YN3Oiux4/output_frames/sec_5_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[4-6] Subsequently, the picture changes back to the white cat staring ahead with wide eyes. Afterward, the scene shifts to the woman against the red background, shaking her body while holding a brush in her right hand."
+    },
+    {
+        "second": 6,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/O0_YN3Oiux4/output_frames/sec_6_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[4-6] Subsequently, the picture changes back to the white cat staring ahead with wide eyes. Afterward, the scene shifts to the woman against the red background, shaking her body while holding a brush in her right hand."
+    },
+    {
+        "second": 7,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/O0_YN3Oiux4/output_frames/sec_7_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[6-8] Then, the scene changes to the white cat waking up from bed and looking to the left. Immediately following, the picture shifts to a woman sitting on a sofa, wearing a purple hooded shirt and blue jeans, holding a handle in both hands. She looks ahead in surprise."
+    },
+    {
+        "second": 8,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/O0_YN3Oiux4/output_frames/sec_8_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[6-8] Then, the scene changes to the white cat waking up from bed and looking to the left. Immediately following, the picture shifts to a woman sitting on a sofa, wearing a purple hooded shirt and blue jeans, holding a handle in both hands. She looks ahead in surprise."
+    },
+    {
+        "second": 9,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/O0_YN3Oiux4/output_frames/sec_9_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[8-11] Subsequently, the woman picks up a brush from the sofa with her right hand and smiles forward. The scene changes to the white cat against a white wall, mouth open, teeth bared. Immediately following, the shot changes to a gray cat jumping off a bed. Then, the smile disappears from the face of the woman holding the brush."
+    },
+    {
+        "second": 10,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/O0_YN3Oiux4/output_frames/sec_10_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[8-11] Subsequently, the woman picks up a brush from the sofa with her right hand and smiles forward. The scene changes to the white cat against a white wall, mouth open, teeth bared. Immediately following, the shot changes to a gray cat jumping off a bed. Then, the smile disappears from the face of the woman holding the brush."
+    },
+    {
+        "second": 11,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/O0_YN3Oiux4/output_frames/sec_11_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[8-11] Subsequently, the woman picks up a brush from the sofa with her right hand and smiles forward. The scene changes to the white cat against a white wall, mouth open, teeth bared. Immediately following, the shot changes to a gray cat jumping off a bed. Then, the smile disappears from the face of the woman holding the brush."
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "second": 0,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CD86ZTYVjrY/output_frames/sec_0_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A man is lying on his stomach on a tiled floor. His face is turned away from the camera, slightly off the ground. He is wearing an orange and white Caterpillar top. Next to him, a husky is lowering its head, sniffing at him."
+    },
+    {
+        "second": 1,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CD86ZTYVjrY/output_frames/sec_1_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[0-3] The man keeps touching the ground with his head, and the husky licks him."
+    },
+    {
+        "second": 2,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CD86ZTYVjrY/output_frames/sec_2_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[0-3] The man keeps touching the ground with his head, and the husky licks him."
+    },
+    {
+        "second": 3,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CD86ZTYVjrY/output_frames/sec_3_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-3] The man keeps touching the ground with his head, and the husky licks him."
+    },
+    {
+        "second": 4,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CD86ZTYVjrY/output_frames/sec_4_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[3-11] Then, the husky pushes its head under the man's head, letting him rest on it."
+    },
+    {
+        "second": 5,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CD86ZTYVjrY/output_frames/sec_5_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[3-11] Then, the husky pushes its head under the man's head, letting him rest on it."
+    },
+    {
+        "second": 6,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CD86ZTYVjrY/output_frames/sec_6_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[3-11] Then, the husky pushes its head under the man's head, letting him rest on it."
+    },
+    {
+        "second": 7,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CD86ZTYVjrY/output_frames/sec_7_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[3-11] Then, the husky pushes its head under the man's head, letting him rest on it."
+    },
+    {
+        "second": 8,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CD86ZTYVjrY/output_frames/sec_8_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[3-11] Then, the husky pushes its head under the man's head, letting him rest on it."
+    },
+    {
+        "second": 9,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CD86ZTYVjrY/output_frames/sec_9_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[3-11] Then, the husky pushes its head under the man's head, letting him rest on it."
+    },
+    {
+        "second": 10,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CD86ZTYVjrY/output_frames/sec_10_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[3-11] Then, the husky pushes its head under the man's head, letting him rest on it."
+    },
+    {
+        "second": 11,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CD86ZTYVjrY/output_frames/sec_11_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[3-11] Then, the husky pushes its head under the man's head, letting him rest on it."
+    }
+]

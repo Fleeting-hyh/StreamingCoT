@@ -1,0 +1,86 @@
+[
+    {
+        "second": 0,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Hd7GBa2d5MY/output_frames/sec_0_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[0-0] Inside a car, the gear stick and part of the center console are visible. A hand is pressing a button on the console. White subtitles appear at the top of the screen, saying \"Just bought parking sensors from Temu\" along with a crying emoji."
+    },
+    {
+        "second": 1,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Hd7GBa2d5MY/output_frames/sec_1_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Next, the button on the console is pressed, then the gear is shifted. The camera moves upwards, and now the air conditioning vent and the car's entertainment system screen are visible."
+    },
+    {
+        "second": 2,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Hd7GBa2d5MY/output_frames/sec_2_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Next, the button on the console is pressed, then the gear is shifted. The camera moves upwards, and now the air conditioning vent and the car's entertainment system screen are visible."
+    },
+    {
+        "second": 3,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Hd7GBa2d5MY/output_frames/sec_3_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Next, the button on the console is pressed, then the gear is shifted. The camera moves upwards, and now the air conditioning vent and the car's entertainment system screen are visible."
+    },
+    {
+        "second": 4,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Hd7GBa2d5MY/output_frames/sec_4_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[3-6] Subsequently, the car starts moving forward. A green distance indicator line appears on the screen, accompanied by a warning sound, indicating that the distance from the vehicle in front is still far away. Then the green distance indicator line turns yellow, indicating that the distance is shortening, and the accompanying warning sound speeds up."
+    },
+    {
+        "second": 5,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Hd7GBa2d5MY/output_frames/sec_5_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[3-6] Subsequently, the car starts moving forward. A green distance indicator line appears on the screen, accompanied by a warning sound, indicating that the distance from the vehicle in front is still far away. Then the green distance indicator line turns yellow, indicating that the distance is shortening, and the accompanying warning sound speeds up."
+    },
+    {
+        "second": 6,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Hd7GBa2d5MY/output_frames/sec_6_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[3-6] Subsequently, the car starts moving forward. A green distance indicator line appears on the screen, accompanied by a warning sound, indicating that the distance from the vehicle in front is still far away. Then the green distance indicator line turns yellow, indicating that the distance is shortening, and the accompanying warning sound speeds up."
+    },
+    {
+        "second": 7,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Hd7GBa2d5MY/output_frames/sec_7_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[6-11] Finally, the yellow distance indicator line turns red, and the warning sound gets faster and faster, indicating that the vehicle is very close to the obstacle behind. Then the vehicle's warning sound turns into music, and the person in the car laughs."
+    },
+    {
+        "second": 8,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Hd7GBa2d5MY/output_frames/sec_8_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[6-11] Finally, the yellow distance indicator line turns red, and the warning sound gets faster and faster, indicating that the vehicle is very close to the obstacle behind. Then the vehicle's warning sound turns into music, and the person in the car laughs."
+    },
+    {
+        "second": 9,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Hd7GBa2d5MY/output_frames/sec_9_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[6-11] Finally, the yellow distance indicator line turns red, and the warning sound gets faster and faster, indicating that the vehicle is very close to the obstacle behind. Then the vehicle's warning sound turns into music, and the person in the car laughs."
+    },
+    {
+        "second": 10,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Hd7GBa2d5MY/output_frames/sec_10_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[6-11] Finally, the yellow distance indicator line turns red, and the warning sound gets faster and faster, indicating that the vehicle is very close to the obstacle behind. Then the vehicle's warning sound turns into music, and the person in the car laughs."
+    },
+    {
+        "second": 11,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Hd7GBa2d5MY/output_frames/sec_11_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[6-11] Finally, the yellow distance indicator line turns red, and the warning sound gets faster and faster, indicating that the vehicle is very close to the obstacle behind. Then the vehicle's warning sound turns into music, and the person in the car laughs."
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "second": 0,
+        "frame_index": 52,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/KbvHnRlrPuQ/output_frames/sec_0_idx_52.jpg",
+        "fps": 60,
+        "explanation": "[0-0] A person wearing a pink outfit, yellow gloves, yellow shoes, and a pink hood stands at a doorway with their right hand on the doorknob. The light on the ceiling is on, a light switch is installed on the white wall, a white cabinet is visible behind them, and a telephone hangs on the wall."
+    },
+    {
+        "second": 1,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/KbvHnRlrPuQ/output_frames/sec_1_idx_12.jpg",
+        "fps": 60,
+        "explanation": "[0-4] A person in a blue Nyan Cat costume enters the frame running from the left side towards the door. The person in pink closes the door, and the person in the blue Nyan Cat costume crashes into the door, transforming into a blue plush toy that falls to the floor. Subsequently, the person in pink opens the door, picks up the blue plush toy with their left hand, and throws it backward through their legs."
+    },
+    {
+        "second": 2,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/KbvHnRlrPuQ/output_frames/sec_2_idx_1.jpg",
+        "fps": 60,
+        "explanation": "[0-4] A person in a blue Nyan Cat costume enters the frame running from the left side towards the door. The person in pink closes the door, and the person in the blue Nyan Cat costume crashes into the door, transforming into a blue plush toy that falls to the floor. Subsequently, the person in pink opens the door, picks up the blue plush toy with their left hand, and throws it backward through their legs."
+    },
+    {
+        "second": 3,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/KbvHnRlrPuQ/output_frames/sec_3_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[0-4] A person in a blue Nyan Cat costume enters the frame running from the left side towards the door. The person in pink closes the door, and the person in the blue Nyan Cat costume crashes into the door, transforming into a blue plush toy that falls to the floor. Subsequently, the person in pink opens the door, picks up the blue plush toy with their left hand, and throws it backward through their legs."
+    },
+    {
+        "second": 4,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/KbvHnRlrPuQ/output_frames/sec_4_idx_17.jpg",
+        "fps": 60,
+        "explanation": "[0-4] A person in a blue Nyan Cat costume enters the frame running from the left side towards the door. The person in pink closes the door, and the person in the blue Nyan Cat costume crashes into the door, transforming into a blue plush toy that falls to the floor. Subsequently, the person in pink opens the door, picks up the blue plush toy with their left hand, and throws it backward through their legs."
+    }
+]

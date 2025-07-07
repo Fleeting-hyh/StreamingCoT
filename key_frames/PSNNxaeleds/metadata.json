@@ -1,0 +1,415 @@
+[
+    {
+        "second": 0,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PSNNxaeleds/output_frames/sec_0_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A man in a blue T-shirt is sitting at a white table with two empty white plates on it. A woman in a pink T-shirt and pink hair accessories is standing next to the man, holding a white plate with two food items on it and smiling. A hallway is visible in the background."
+    },
+    {
+        "second": 1,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PSNNxaeleds/output_frames/sec_1_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[0-8] The woman then places the plate on the white table, revealing two loaves of bread. The man smiles and picks up a loaf, blowing on his fingers at the same time. The woman takes a bottle of red sauce and a bottle of yellow sauce from the refrigerator behind her, places them on the table, and walks to the right. The man picks up the red bottle and squeezes the sauce onto the bread."
+    },
+    {
+        "second": 2,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PSNNxaeleds/output_frames/sec_2_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[0-8] The woman then places the plate on the white table, revealing two loaves of bread. The man smiles and picks up a loaf, blowing on his fingers at the same time. The woman takes a bottle of red sauce and a bottle of yellow sauce from the refrigerator behind her, places them on the table, and walks to the right. The man picks up the red bottle and squeezes the sauce onto the bread."
+    },
+    {
+        "second": 3,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PSNNxaeleds/output_frames/sec_3_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[0-8] The woman then places the plate on the white table, revealing two loaves of bread. The man smiles and picks up a loaf, blowing on his fingers at the same time. The woman takes a bottle of red sauce and a bottle of yellow sauce from the refrigerator behind her, places them on the table, and walks to the right. The man picks up the red bottle and squeezes the sauce onto the bread."
+    },
+    {
+        "second": 4,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PSNNxaeleds/output_frames/sec_4_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-8] The woman then places the plate on the white table, revealing two loaves of bread. The man smiles and picks up a loaf, blowing on his fingers at the same time. The woman takes a bottle of red sauce and a bottle of yellow sauce from the refrigerator behind her, places them on the table, and walks to the right. The man picks up the red bottle and squeezes the sauce onto the bread."
+    },
+    {
+        "second": 5,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PSNNxaeleds/output_frames/sec_5_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[0-8] The woman then places the plate on the white table, revealing two loaves of bread. The man smiles and picks up a loaf, blowing on his fingers at the same time. The woman takes a bottle of red sauce and a bottle of yellow sauce from the refrigerator behind her, places them on the table, and walks to the right. The man picks up the red bottle and squeezes the sauce onto the bread."
+    },
+    {
+        "second": 6,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PSNNxaeleds/output_frames/sec_6_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[0-8] The woman then places the plate on the white table, revealing two loaves of bread. The man smiles and picks up a loaf, blowing on his fingers at the same time. The woman takes a bottle of red sauce and a bottle of yellow sauce from the refrigerator behind her, places them on the table, and walks to the right. The man picks up the red bottle and squeezes the sauce onto the bread."
+    },
+    {
+        "second": 7,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PSNNxaeleds/output_frames/sec_7_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[0-8] The woman then places the plate on the white table, revealing two loaves of bread. The man smiles and picks up a loaf, blowing on his fingers at the same time. The woman takes a bottle of red sauce and a bottle of yellow sauce from the refrigerator behind her, places them on the table, and walks to the right. The man picks up the red bottle and squeezes the sauce onto the bread."
+    },
+    {
+        "second": 8,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PSNNxaeleds/output_frames/sec_8_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-8] The woman then places the plate on the white table, revealing two loaves of bread. The man smiles and picks up a loaf, blowing on his fingers at the same time. The woman takes a bottle of red sauce and a bottle of yellow sauce from the refrigerator behind her, places them on the table, and walks to the right. The man picks up the red bottle and squeezes the sauce onto the bread."
+    },
+    {
+        "second": 9,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PSNNxaeleds/output_frames/sec_9_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[8-17] The man squeezes red sauce onto both loaves of bread, then picks up the yellow sauce and squeezes it onto both loaves. The woman is standing next to the man, her back to the camera."
+    },
+    {
+        "second": 10,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PSNNxaeleds/output_frames/sec_10_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[8-17] The man squeezes red sauce onto both loaves of bread, then picks up the yellow sauce and squeezes it onto both loaves. The woman is standing next to the man, her back to the camera."
+    },
+    {
+        "second": 11,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PSNNxaeleds/output_frames/sec_11_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[8-17] The man squeezes red sauce onto both loaves of bread, then picks up the yellow sauce and squeezes it onto both loaves. The woman is standing next to the man, her back to the camera."
+    },
+    {
+        "second": 12,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PSNNxaeleds/output_frames/sec_12_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[8-17] The man squeezes red sauce onto both loaves of bread, then picks up the yellow sauce and squeezes it onto both loaves. The woman is standing next to the man, her back to the camera."
+    },
+    {
+        "second": 13,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PSNNxaeleds/output_frames/sec_13_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[8-17] The man squeezes red sauce onto both loaves of bread, then picks up the yellow sauce and squeezes it onto both loaves. The woman is standing next to the man, her back to the camera."
+    },
+    {
+        "second": 14,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PSNNxaeleds/output_frames/sec_14_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[8-17] The man squeezes red sauce onto both loaves of bread, then picks up the yellow sauce and squeezes it onto both loaves. The woman is standing next to the man, her back to the camera."
+    },
+    {
+        "second": 15,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PSNNxaeleds/output_frames/sec_15_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[8-17] The man squeezes red sauce onto both loaves of bread, then picks up the yellow sauce and squeezes it onto both loaves. The woman is standing next to the man, her back to the camera."
+    },
+    {
+        "second": 16,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PSNNxaeleds/output_frames/sec_16_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[8-17] The man squeezes red sauce onto both loaves of bread, then picks up the yellow sauce and squeezes it onto both loaves. The woman is standing next to the man, her back to the camera."
+    },
+    {
+        "second": 17,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PSNNxaeleds/output_frames/sec_17_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[8-17] The man squeezes red sauce onto both loaves of bread, then picks up the yellow sauce and squeezes it onto both loaves. The woman is standing next to the man, her back to the camera."
+    },
+    {
+        "second": 18,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PSNNxaeleds/output_frames/sec_18_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[17-26] The woman then turns around and places a plate of grilled sausages on the table. As the man picks up a sausage, an accident happens, and the sausage falls to the ground. The camera cuts to the sausage lying on the floor tiles, with a strand of hair next to it. The scene changes again, the man covers his mouth with his hand, and the woman opens a cupboard door behind him and takes out two glass cups."
+    },
+    {
+        "second": 19,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PSNNxaeleds/output_frames/sec_19_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[17-26] The woman then turns around and places a plate of grilled sausages on the table. As the man picks up a sausage, an accident happens, and the sausage falls to the ground. The camera cuts to the sausage lying on the floor tiles, with a strand of hair next to it. The scene changes again, the man covers his mouth with his hand, and the woman opens a cupboard door behind him and takes out two glass cups."
+    },
+    {
+        "second": 20,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PSNNxaeleds/output_frames/sec_20_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[17-26] The woman then turns around and places a plate of grilled sausages on the table. As the man picks up a sausage, an accident happens, and the sausage falls to the ground. The camera cuts to the sausage lying on the floor tiles, with a strand of hair next to it. The scene changes again, the man covers his mouth with his hand, and the woman opens a cupboard door behind him and takes out two glass cups."
+    },
+    {
+        "second": 21,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PSNNxaeleds/output_frames/sec_21_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[17-26] The woman then turns around and places a plate of grilled sausages on the table. As the man picks up a sausage, an accident happens, and the sausage falls to the ground. The camera cuts to the sausage lying on the floor tiles, with a strand of hair next to it. The scene changes again, the man covers his mouth with his hand, and the woman opens a cupboard door behind him and takes out two glass cups."
+    },
+    {
+        "second": 22,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PSNNxaeleds/output_frames/sec_22_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[17-26] The woman then turns around and places a plate of grilled sausages on the table. As the man picks up a sausage, an accident happens, and the sausage falls to the ground. The camera cuts to the sausage lying on the floor tiles, with a strand of hair next to it. The scene changes again, the man covers his mouth with his hand, and the woman opens a cupboard door behind him and takes out two glass cups."
+    },
+    {
+        "second": 23,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PSNNxaeleds/output_frames/sec_23_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[17-26] The woman then turns around and places a plate of grilled sausages on the table. As the man picks up a sausage, an accident happens, and the sausage falls to the ground. The camera cuts to the sausage lying on the floor tiles, with a strand of hair next to it. The scene changes again, the man covers his mouth with his hand, and the woman opens a cupboard door behind him and takes out two glass cups."
+    },
+    {
+        "second": 24,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PSNNxaeleds/output_frames/sec_24_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[17-26] The woman then turns around and places a plate of grilled sausages on the table. As the man picks up a sausage, an accident happens, and the sausage falls to the ground. The camera cuts to the sausage lying on the floor tiles, with a strand of hair next to it. The scene changes again, the man covers his mouth with his hand, and the woman opens a cupboard door behind him and takes out two glass cups."
+    },
+    {
+        "second": 25,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PSNNxaeleds/output_frames/sec_25_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[17-26] The woman then turns around and places a plate of grilled sausages on the table. As the man picks up a sausage, an accident happens, and the sausage falls to the ground. The camera cuts to the sausage lying on the floor tiles, with a strand of hair next to it. The scene changes again, the man covers his mouth with his hand, and the woman opens a cupboard door behind him and takes out two glass cups."
+    },
+    {
+        "second": 26,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PSNNxaeleds/output_frames/sec_26_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[17-26] The woman then turns around and places a plate of grilled sausages on the table. As the man picks up a sausage, an accident happens, and the sausage falls to the ground. The camera cuts to the sausage lying on the floor tiles, with a strand of hair next to it. The scene changes again, the man covers his mouth with his hand, and the woman opens a cupboard door behind him and takes out two glass cups."
+    },
+    {
+        "second": 27,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PSNNxaeleds/output_frames/sec_27_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[26-33] The woman looks at the man, who carefully picks up the sausage from the floor, puts it in the bread, and puts it on the plate beside it. He picks up the bread in front of him again, while the woman looks at him repeatedly."
+    },
+    {
+        "second": 28,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PSNNxaeleds/output_frames/sec_28_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[26-33] The woman looks at the man, who carefully picks up the sausage from the floor, puts it in the bread, and puts it on the plate beside it. He picks up the bread in front of him again, while the woman looks at him repeatedly."
+    },
+    {
+        "second": 29,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PSNNxaeleds/output_frames/sec_29_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[26-33] The woman looks at the man, who carefully picks up the sausage from the floor, puts it in the bread, and puts it on the plate beside it. He picks up the bread in front of him again, while the woman looks at him repeatedly."
+    },
+    {
+        "second": 30,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PSNNxaeleds/output_frames/sec_30_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[26-33] The woman looks at the man, who carefully picks up the sausage from the floor, puts it in the bread, and puts it on the plate beside it. He picks up the bread in front of him again, while the woman looks at him repeatedly."
+    },
+    {
+        "second": 31,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PSNNxaeleds/output_frames/sec_31_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[26-33] The woman looks at the man, who carefully picks up the sausage from the floor, puts it in the bread, and puts it on the plate beside it. He picks up the bread in front of him again, while the woman looks at him repeatedly."
+    },
+    {
+        "second": 32,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PSNNxaeleds/output_frames/sec_32_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[26-33] The woman looks at the man, who carefully picks up the sausage from the floor, puts it in the bread, and puts it on the plate beside it. He picks up the bread in front of him again, while the woman looks at him repeatedly."
+    },
+    {
+        "second": 33,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PSNNxaeleds/output_frames/sec_33_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[26-33] The woman looks at the man, who carefully picks up the sausage from the floor, puts it in the bread, and puts it on the plate beside it. He picks up the bread in front of him again, while the woman looks at him repeatedly."
+    },
+    {
+        "second": 34,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PSNNxaeleds/output_frames/sec_34_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[33-42] The scene then cuts to a close-up of the woman's face, her eyes wide. The scene then cuts back to the kitchen, where the man is still putting sausages in the bread. The woman picks up a bottle of cola and pours it into a glass. The scene cuts again, the woman brings two glasses of cola to the table, the man picks up the two bottles of sauce and gets up."
+    },
+    {
+        "second": 35,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PSNNxaeleds/output_frames/sec_35_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[33-42] The scene then cuts to a close-up of the woman's face, her eyes wide. The scene then cuts back to the kitchen, where the man is still putting sausages in the bread. The woman picks up a bottle of cola and pours it into a glass. The scene cuts again, the woman brings two glasses of cola to the table, the man picks up the two bottles of sauce and gets up."
+    },
+    {
+        "second": 36,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PSNNxaeleds/output_frames/sec_36_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[33-42] The scene then cuts to a close-up of the woman's face, her eyes wide. The scene then cuts back to the kitchen, where the man is still putting sausages in the bread. The woman picks up a bottle of cola and pours it into a glass. The scene cuts again, the woman brings two glasses of cola to the table, the man picks up the two bottles of sauce and gets up."
+    },
+    {
+        "second": 37,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PSNNxaeleds/output_frames/sec_37_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[33-42] The scene then cuts to a close-up of the woman's face, her eyes wide. The scene then cuts back to the kitchen, where the man is still putting sausages in the bread. The woman picks up a bottle of cola and pours it into a glass. The scene cuts again, the woman brings two glasses of cola to the table, the man picks up the two bottles of sauce and gets up."
+    },
+    {
+        "second": 38,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PSNNxaeleds/output_frames/sec_38_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[33-42] The scene then cuts to a close-up of the woman's face, her eyes wide. The scene then cuts back to the kitchen, where the man is still putting sausages in the bread. The woman picks up a bottle of cola and pours it into a glass. The scene cuts again, the woman brings two glasses of cola to the table, the man picks up the two bottles of sauce and gets up."
+    },
+    {
+        "second": 39,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PSNNxaeleds/output_frames/sec_39_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[33-42] The scene then cuts to a close-up of the woman's face, her eyes wide. The scene then cuts back to the kitchen, where the man is still putting sausages in the bread. The woman picks up a bottle of cola and pours it into a glass. The scene cuts again, the woman brings two glasses of cola to the table, the man picks up the two bottles of sauce and gets up."
+    },
+    {
+        "second": 40,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PSNNxaeleds/output_frames/sec_40_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[33-42] The scene then cuts to a close-up of the woman's face, her eyes wide. The scene then cuts back to the kitchen, where the man is still putting sausages in the bread. The woman picks up a bottle of cola and pours it into a glass. The scene cuts again, the woman brings two glasses of cola to the table, the man picks up the two bottles of sauce and gets up."
+    },
+    {
+        "second": 41,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PSNNxaeleds/output_frames/sec_41_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[33-42] The scene then cuts to a close-up of the woman's face, her eyes wide. The scene then cuts back to the kitchen, where the man is still putting sausages in the bread. The woman picks up a bottle of cola and pours it into a glass. The scene cuts again, the woman brings two glasses of cola to the table, the man picks up the two bottles of sauce and gets up."
+    },
+    {
+        "second": 42,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PSNNxaeleds/output_frames/sec_42_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[33-42] The scene then cuts to a close-up of the woman's face, her eyes wide. The scene then cuts back to the kitchen, where the man is still putting sausages in the bread. The woman picks up a bottle of cola and pours it into a glass. The scene cuts again, the woman brings two glasses of cola to the table, the man picks up the two bottles of sauce and gets up."
+    },
+    {
+        "second": 43,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PSNNxaeleds/output_frames/sec_43_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[42-51] The man walks back, opens the refrigerator, and puts the two bottles of sauce back in. Meanwhile, the woman swaps the plates in front of them. The man then closes the refrigerator, sits back at the table, and they begin to eat the bread."
+    },
+    {
+        "second": 44,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PSNNxaeleds/output_frames/sec_44_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[42-51] The man walks back, opens the refrigerator, and puts the two bottles of sauce back in. Meanwhile, the woman swaps the plates in front of them. The man then closes the refrigerator, sits back at the table, and they begin to eat the bread."
+    },
+    {
+        "second": 45,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PSNNxaeleds/output_frames/sec_45_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[42-51] The man walks back, opens the refrigerator, and puts the two bottles of sauce back in. Meanwhile, the woman swaps the plates in front of them. The man then closes the refrigerator, sits back at the table, and they begin to eat the bread."
+    },
+    {
+        "second": 46,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PSNNxaeleds/output_frames/sec_46_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[42-51] The man walks back, opens the refrigerator, and puts the two bottles of sauce back in. Meanwhile, the woman swaps the plates in front of them. The man then closes the refrigerator, sits back at the table, and they begin to eat the bread."
+    },
+    {
+        "second": 47,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PSNNxaeleds/output_frames/sec_47_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[42-51] The man walks back, opens the refrigerator, and puts the two bottles of sauce back in. Meanwhile, the woman swaps the plates in front of them. The man then closes the refrigerator, sits back at the table, and they begin to eat the bread."
+    },
+    {
+        "second": 48,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PSNNxaeleds/output_frames/sec_48_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[42-51] The man walks back, opens the refrigerator, and puts the two bottles of sauce back in. Meanwhile, the woman swaps the plates in front of them. The man then closes the refrigerator, sits back at the table, and they begin to eat the bread."
+    },
+    {
+        "second": 49,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PSNNxaeleds/output_frames/sec_49_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[42-51] The man walks back, opens the refrigerator, and puts the two bottles of sauce back in. Meanwhile, the woman swaps the plates in front of them. The man then closes the refrigerator, sits back at the table, and they begin to eat the bread."
+    },
+    {
+        "second": 50,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PSNNxaeleds/output_frames/sec_50_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[42-51] The man walks back, opens the refrigerator, and puts the two bottles of sauce back in. Meanwhile, the woman swaps the plates in front of them. The man then closes the refrigerator, sits back at the table, and they begin to eat the bread."
+    },
+    {
+        "second": 51,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PSNNxaeleds/output_frames/sec_51_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[42-51] The man walks back, opens the refrigerator, and puts the two bottles of sauce back in. Meanwhile, the woman swaps the plates in front of them. The man then closes the refrigerator, sits back at the table, and they begin to eat the bread."
+    },
+    {
+        "second": 52,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PSNNxaeleds/output_frames/sec_52_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[51-58] Finally, the man shows a surprised expression, raises his hand to his mouth. The picture cuts to a close-up of his face as he pulls a strand of hair from his mouth and turns his head to the right."
+    },
+    {
+        "second": 53,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PSNNxaeleds/output_frames/sec_53_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[51-58] Finally, the man shows a surprised expression, raises his hand to his mouth. The picture cuts to a close-up of his face as he pulls a strand of hair from his mouth and turns his head to the right."
+    },
+    {
+        "second": 54,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PSNNxaeleds/output_frames/sec_54_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[51-58] Finally, the man shows a surprised expression, raises his hand to his mouth. The picture cuts to a close-up of his face as he pulls a strand of hair from his mouth and turns his head to the right."
+    },
+    {
+        "second": 55,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PSNNxaeleds/output_frames/sec_55_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[51-58] Finally, the man shows a surprised expression, raises his hand to his mouth. The picture cuts to a close-up of his face as he pulls a strand of hair from his mouth and turns his head to the right."
+    },
+    {
+        "second": 56,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PSNNxaeleds/output_frames/sec_56_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[51-58] Finally, the man shows a surprised expression, raises his hand to his mouth. The picture cuts to a close-up of his face as he pulls a strand of hair from his mouth and turns his head to the right."
+    },
+    {
+        "second": 57,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PSNNxaeleds/output_frames/sec_57_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[51-58] Finally, the man shows a surprised expression, raises his hand to his mouth. The picture cuts to a close-up of his face as he pulls a strand of hair from his mouth and turns his head to the right."
+    },
+    {
+        "second": 58,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PSNNxaeleds/output_frames/sec_58_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[51-58] Finally, the man shows a surprised expression, raises his hand to his mouth. The picture cuts to a close-up of his face as he pulls a strand of hair from his mouth and turns his head to the right."
+    }
+]

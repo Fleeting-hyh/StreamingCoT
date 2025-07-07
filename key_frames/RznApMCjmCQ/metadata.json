@@ -1,0 +1,65 @@
+[
+    {
+        "second": 0,
+        "frame_index": 35,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RznApMCjmCQ/output_frames/sec_0_idx_35.jpg",
+        "fps": 50,
+        "explanation": "[0-0] A girl with black hair styled with straight bangs and two braids is standing in front of blue lockers. She is wearing a black and white checkered top, a black skirt, and white stockings. She's holding a phone and posing for a selfie."
+    },
+    {
+        "second": 1,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RznApMCjmCQ/output_frames/sec_1_idx_16.jpg",
+        "fps": 50,
+        "explanation": "[0-4] The black-haired girl maintains her selfie pose, her right hand resting on her head. At this moment, a girl with long blonde hair with blue highlights walks in from the right side of the frame. She is wearing a milky white top and a black skirt and stands next to the black-haired girl. The blonde-haired girl looks up at the black-haired girl with a puzzled expression."
+    },
+    {
+        "second": 2,
+        "frame_index": 49,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RznApMCjmCQ/output_frames/sec_2_idx_49.jpg",
+        "fps": 50,
+        "explanation": "[0-4] The black-haired girl maintains her selfie pose, her right hand resting on her head. At this moment, a girl with long blonde hair with blue highlights walks in from the right side of the frame. She is wearing a milky white top and a black skirt and stands next to the black-haired girl. The blonde-haired girl looks up at the black-haired girl with a puzzled expression."
+    },
+    {
+        "second": 3,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RznApMCjmCQ/output_frames/sec_3_idx_0.jpg",
+        "fps": 50,
+        "explanation": "[0-4] The black-haired girl maintains her selfie pose, her right hand resting on her head. At this moment, a girl with long blonde hair with blue highlights walks in from the right side of the frame. She is wearing a milky white top and a black skirt and stands next to the black-haired girl. The blonde-haired girl looks up at the black-haired girl with a puzzled expression."
+    },
+    {
+        "second": 4,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RznApMCjmCQ/output_frames/sec_4_idx_25.jpg",
+        "fps": 50,
+        "explanation": "[0-4] The black-haired girl maintains her selfie pose, her right hand resting on her head. At this moment, a girl with long blonde hair with blue highlights walks in from the right side of the frame. She is wearing a milky white top and a black skirt and stands next to the black-haired girl. The blonde-haired girl looks up at the black-haired girl with a puzzled expression."
+    },
+    {
+        "second": 5,
+        "frame_index": 36,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RznApMCjmCQ/output_frames/sec_5_idx_36.jpg",
+        "fps": 50,
+        "explanation": "[4-8] Then the black-haired girl points her finger forward, making a pouting face at the blonde-haired girl. The blonde-haired girl is startled and turns to leave."
+    },
+    {
+        "second": 6,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RznApMCjmCQ/output_frames/sec_6_idx_24.jpg",
+        "fps": 50,
+        "explanation": "[4-8] Then the black-haired girl points her finger forward, making a pouting face at the blonde-haired girl. The blonde-haired girl is startled and turns to leave."
+    },
+    {
+        "second": 7,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RznApMCjmCQ/output_frames/sec_7_idx_17.jpg",
+        "fps": 50,
+        "explanation": "[4-8] Then the black-haired girl points her finger forward, making a pouting face at the blonde-haired girl. The blonde-haired girl is startled and turns to leave."
+    },
+    {
+        "second": 8,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RznApMCjmCQ/output_frames/sec_8_idx_5.jpg",
+        "fps": 50,
+        "explanation": "[4-8] Then the black-haired girl points her finger forward, making a pouting face at the blonde-haired girl. The blonde-haired girl is startled and turns to leave."
+    }
+]

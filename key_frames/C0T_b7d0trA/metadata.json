@@ -1,0 +1,37 @@
+[
+    {
+        "second": 0,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/C0T_b7d0trA/output_frames/sec_0_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[0-0] On a sunny day, four construction workers are busy working. There is scaffolding and a trolley around them, a red brick building at the back, and the sky is blue."
+    },
+    {
+        "second": 1,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/C0T_b7d0trA/output_frames/sec_1_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Then, a male worker wearing a khaki straw hat, colorful top, and black-gray pants is picking up red tiles from the trolley and handing them to a female worker on the scaffolding. At the same time, a male worker in a white long-sleeved shirt on the left repeatedly pushes down the scaffolding, enabling the female worker to pass the red tiles to a male worker in a white shirt on the roof. The male worker in the white shirt takes the tiles and continues laying the roof."
+    },
+    {
+        "second": 2,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/C0T_b7d0trA/output_frames/sec_2_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Then, a male worker wearing a khaki straw hat, colorful top, and black-gray pants is picking up red tiles from the trolley and handing them to a female worker on the scaffolding. At the same time, a male worker in a white long-sleeved shirt on the left repeatedly pushes down the scaffolding, enabling the female worker to pass the red tiles to a male worker in a white shirt on the roof. The male worker in the white shirt takes the tiles and continues laying the roof."
+    },
+    {
+        "second": 3,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/C0T_b7d0trA/output_frames/sec_3_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Then, a male worker wearing a khaki straw hat, colorful top, and black-gray pants is picking up red tiles from the trolley and handing them to a female worker on the scaffolding. At the same time, a male worker in a white long-sleeved shirt on the left repeatedly pushes down the scaffolding, enabling the female worker to pass the red tiles to a male worker in a white shirt on the roof. The male worker in the white shirt takes the tiles and continues laying the roof."
+    },
+    {
+        "second": 4,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/C0T_b7d0trA/output_frames/sec_4_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Then, a male worker wearing a khaki straw hat, colorful top, and black-gray pants is picking up red tiles from the trolley and handing them to a female worker on the scaffolding. At the same time, a male worker in a white long-sleeved shirt on the left repeatedly pushes down the scaffolding, enabling the female worker to pass the red tiles to a male worker in a white shirt on the roof. The male worker in the white shirt takes the tiles and continues laying the roof."
+    }
+]

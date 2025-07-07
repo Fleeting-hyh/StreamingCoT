@@ -1,0 +1,72 @@
+[
+    {
+        "second": 0,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/98m9LQ1xHRI/output_frames/sec_0_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[0-0] In a room, a black and white kitten stands by the door. The floor is covered with white tiles, and the doorsill is paved with black tiles. Many shoes are placed behind the door. The lower right corner of the picture shows a white sheet. There is a string of white English subtitles \"Did I just got ambushed by my kittle\" and two crying emojis in the middle of the picture. Above the picture are three crying emojis and a string of black English subtitles \"kittyo plotting\"."
+    },
+    {
+        "second": 1,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/98m9LQ1xHRI/output_frames/sec_1_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[0-3] The kitten walks backwards and hides behind the door."
+    },
+    {
+        "second": 2,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/98m9LQ1xHRI/output_frames/sec_2_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[0-3] The kitten walks backwards and hides behind the door."
+    },
+    {
+        "second": 3,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/98m9LQ1xHRI/output_frames/sec_3_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[0-3] The kitten walks backwards and hides behind the door."
+    },
+    {
+        "second": 4,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/98m9LQ1xHRI/output_frames/sec_4_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[3-9] Then a person wearing black pants and black shoes walks in from outside the door. The kitten jumps onto the black shoes, loses its balance and falls backwards. Then the person in black pants takes a step forward with his left leg."
+    },
+    {
+        "second": 5,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/98m9LQ1xHRI/output_frames/sec_5_idx_24.jpg",
+        "fps": 30,
+        "explanation": "[3-9] Then a person wearing black pants and black shoes walks in from outside the door. The kitten jumps onto the black shoes, loses its balance and falls backwards. Then the person in black pants takes a step forward with his left leg."
+    },
+    {
+        "second": 6,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/98m9LQ1xHRI/output_frames/sec_6_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[3-9] Then a person wearing black pants and black shoes walks in from outside the door. The kitten jumps onto the black shoes, loses its balance and falls backwards. Then the person in black pants takes a step forward with his left leg."
+    },
+    {
+        "second": 7,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/98m9LQ1xHRI/output_frames/sec_7_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[3-9] Then a person wearing black pants and black shoes walks in from outside the door. The kitten jumps onto the black shoes, loses its balance and falls backwards. Then the person in black pants takes a step forward with his left leg."
+    },
+    {
+        "second": 8,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/98m9LQ1xHRI/output_frames/sec_8_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[3-9] Then a person wearing black pants and black shoes walks in from outside the door. The kitten jumps onto the black shoes, loses its balance and falls backwards. Then the person in black pants takes a step forward with his left leg."
+    },
+    {
+        "second": 9,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/98m9LQ1xHRI/output_frames/sec_9_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[3-9] Then a person wearing black pants and black shoes walks in from outside the door. The kitten jumps onto the black shoes, loses its balance and falls backwards. Then the person in black pants takes a step forward with his left leg."
+    }
+]

@@ -1,0 +1,149 @@
+[
+    {
+        "second": 0,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HybzU8v_3pw/output_frames/sec_0_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A metal part with pre-drilled holes is shown, with a rivet gun placed on the metal part, the gun head aimed at the right hole."
+    },
+    {
+        "second": 1,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HybzU8v_3pw/output_frames/sec_1_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The rivet gun moves down, the gun head further inserts into the hole. The rivet gun is moved to the right, and a hand places a rivet into the left hole, then another rivet into the right hole."
+    },
+    {
+        "second": 2,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HybzU8v_3pw/output_frames/sec_2_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The rivet gun moves down, the gun head further inserts into the hole. The rivet gun is moved to the right, and a hand places a rivet into the left hole, then another rivet into the right hole."
+    },
+    {
+        "second": 3,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HybzU8v_3pw/output_frames/sec_3_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The rivet gun moves down, the gun head further inserts into the hole. The rivet gun is moved to the right, and a hand places a rivet into the left hole, then another rivet into the right hole."
+    },
+    {
+        "second": 4,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HybzU8v_3pw/output_frames/sec_4_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The rivet gun moves down, the gun head further inserts into the hole. The rivet gun is moved to the right, and a hand places a rivet into the left hole, then another rivet into the right hole."
+    },
+    {
+        "second": 5,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HybzU8v_3pw/output_frames/sec_5_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[4-9] The rivet gun appears from the left, the gun head inserts into the left hole and fires a rivet, then inserts into the right hole and fires another rivet, then is removed from the right."
+    },
+    {
+        "second": 6,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HybzU8v_3pw/output_frames/sec_6_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[4-9] The rivet gun appears from the left, the gun head inserts into the left hole and fires a rivet, then inserts into the right hole and fires another rivet, then is removed from the right."
+    },
+    {
+        "second": 7,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HybzU8v_3pw/output_frames/sec_7_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[4-9] The rivet gun appears from the left, the gun head inserts into the left hole and fires a rivet, then inserts into the right hole and fires another rivet, then is removed from the right."
+    },
+    {
+        "second": 8,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HybzU8v_3pw/output_frames/sec_8_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[4-9] The rivet gun appears from the left, the gun head inserts into the left hole and fires a rivet, then inserts into the right hole and fires another rivet, then is removed from the right."
+    },
+    {
+        "second": 9,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HybzU8v_3pw/output_frames/sec_9_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[4-9] The rivet gun appears from the left, the gun head inserts into the left hole and fires a rivet, then inserts into the right hole and fires another rivet, then is removed from the right."
+    },
+    {
+        "second": 10,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HybzU8v_3pw/output_frames/sec_10_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[9-13] A hand places a bolt into the left hole and turns it a few times. An electric screwdriver is aimed at the left bolt, driving it down, then slightly pulling up after reaching the bottom."
+    },
+    {
+        "second": 11,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HybzU8v_3pw/output_frames/sec_11_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[9-13] A hand places a bolt into the left hole and turns it a few times. An electric screwdriver is aimed at the left bolt, driving it down, then slightly pulling up after reaching the bottom."
+    },
+    {
+        "second": 12,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HybzU8v_3pw/output_frames/sec_12_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[9-13] A hand places a bolt into the left hole and turns it a few times. An electric screwdriver is aimed at the left bolt, driving it down, then slightly pulling up after reaching the bottom."
+    },
+    {
+        "second": 13,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HybzU8v_3pw/output_frames/sec_13_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[9-13] A hand places a bolt into the left hole and turns it a few times. An electric screwdriver is aimed at the left bolt, driving it down, then slightly pulling up after reaching the bottom."
+    },
+    {
+        "second": 14,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HybzU8v_3pw/output_frames/sec_14_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[13-20] A hand holding a black bolt appears from the right, placing it into the right hole and turning it a few times. A Phillips head electric screwdriver is aimed at the right bolt, driving it down and then pulling up."
+    },
+    {
+        "second": 15,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HybzU8v_3pw/output_frames/sec_15_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[13-20] A hand holding a black bolt appears from the right, placing it into the right hole and turning it a few times. A Phillips head electric screwdriver is aimed at the right bolt, driving it down and then pulling up."
+    },
+    {
+        "second": 16,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HybzU8v_3pw/output_frames/sec_16_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[13-20] A hand holding a black bolt appears from the right, placing it into the right hole and turning it a few times. A Phillips head electric screwdriver is aimed at the right bolt, driving it down and then pulling up."
+    },
+    {
+        "second": 17,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HybzU8v_3pw/output_frames/sec_17_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[13-20] A hand holding a black bolt appears from the right, placing it into the right hole and turning it a few times. A Phillips head electric screwdriver is aimed at the right bolt, driving it down and then pulling up."
+    },
+    {
+        "second": 18,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HybzU8v_3pw/output_frames/sec_18_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[13-20] A hand holding a black bolt appears from the right, placing it into the right hole and turning it a few times. A Phillips head electric screwdriver is aimed at the right bolt, driving it down and then pulling up."
+    },
+    {
+        "second": 19,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HybzU8v_3pw/output_frames/sec_19_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[13-20] A hand holding a black bolt appears from the right, placing it into the right hole and turning it a few times. A Phillips head electric screwdriver is aimed at the right bolt, driving it down and then pulling up."
+    },
+    {
+        "second": 20,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HybzU8v_3pw/output_frames/sec_20_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[13-20] A hand holding a black bolt appears from the right, placing it into the right hole and turning it a few times. A Phillips head electric screwdriver is aimed at the right bolt, driving it down and then pulling up."
+    }
+]

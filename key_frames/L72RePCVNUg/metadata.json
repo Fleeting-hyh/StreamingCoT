@@ -1,0 +1,72 @@
+[
+    {
+        "second": 0,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/L72RePCVNUg/output_frames/sec_0_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[0-0] Outside the guardrail of a road, some snakes lie on the roadbed, which has tall grass underneath. Several people are standing on the road, looking at the snakes beyond the guardrail."
+    },
+    {
+        "second": 1,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/L72RePCVNUg/output_frames/sec_1_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-9] At this moment, a man in a white and purple striped shirt climbs over the guardrail and throws the snakes into the grass with his bare hands. Some snakes try to run onto the road but are also thrown into the grass by the man. Finally, the man walks in front of the camera, turns around, and walks into the distance to continue clearing the snakes lying on the roadbed."
+    },
+    {
+        "second": 2,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/L72RePCVNUg/output_frames/sec_2_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[0-9] At this moment, a man in a white and purple striped shirt climbs over the guardrail and throws the snakes into the grass with his bare hands. Some snakes try to run onto the road but are also thrown into the grass by the man. Finally, the man walks in front of the camera, turns around, and walks into the distance to continue clearing the snakes lying on the roadbed."
+    },
+    {
+        "second": 3,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/L72RePCVNUg/output_frames/sec_3_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[0-9] At this moment, a man in a white and purple striped shirt climbs over the guardrail and throws the snakes into the grass with his bare hands. Some snakes try to run onto the road but are also thrown into the grass by the man. Finally, the man walks in front of the camera, turns around, and walks into the distance to continue clearing the snakes lying on the roadbed."
+    },
+    {
+        "second": 4,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/L72RePCVNUg/output_frames/sec_4_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[0-9] At this moment, a man in a white and purple striped shirt climbs over the guardrail and throws the snakes into the grass with his bare hands. Some snakes try to run onto the road but are also thrown into the grass by the man. Finally, the man walks in front of the camera, turns around, and walks into the distance to continue clearing the snakes lying on the roadbed."
+    },
+    {
+        "second": 5,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/L72RePCVNUg/output_frames/sec_5_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[0-9] At this moment, a man in a white and purple striped shirt climbs over the guardrail and throws the snakes into the grass with his bare hands. Some snakes try to run onto the road but are also thrown into the grass by the man. Finally, the man walks in front of the camera, turns around, and walks into the distance to continue clearing the snakes lying on the roadbed."
+    },
+    {
+        "second": 6,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/L72RePCVNUg/output_frames/sec_6_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[0-9] At this moment, a man in a white and purple striped shirt climbs over the guardrail and throws the snakes into the grass with his bare hands. Some snakes try to run onto the road but are also thrown into the grass by the man. Finally, the man walks in front of the camera, turns around, and walks into the distance to continue clearing the snakes lying on the roadbed."
+    },
+    {
+        "second": 7,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/L72RePCVNUg/output_frames/sec_7_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[0-9] At this moment, a man in a white and purple striped shirt climbs over the guardrail and throws the snakes into the grass with his bare hands. Some snakes try to run onto the road but are also thrown into the grass by the man. Finally, the man walks in front of the camera, turns around, and walks into the distance to continue clearing the snakes lying on the roadbed."
+    },
+    {
+        "second": 8,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/L72RePCVNUg/output_frames/sec_8_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-9] At this moment, a man in a white and purple striped shirt climbs over the guardrail and throws the snakes into the grass with his bare hands. Some snakes try to run onto the road but are also thrown into the grass by the man. Finally, the man walks in front of the camera, turns around, and walks into the distance to continue clearing the snakes lying on the roadbed."
+    },
+    {
+        "second": 9,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/L72RePCVNUg/output_frames/sec_9_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[0-9] At this moment, a man in a white and purple striped shirt climbs over the guardrail and throws the snakes into the grass with his bare hands. Some snakes try to run onto the road but are also thrown into the grass by the man. Finally, the man walks in front of the camera, turns around, and walks into the distance to continue clearing the snakes lying on the roadbed."
+    }
+]

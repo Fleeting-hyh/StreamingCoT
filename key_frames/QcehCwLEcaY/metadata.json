@@ -1,0 +1,51 @@
+[
+    {
+        "second": 0,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QcehCwLEcaY/output_frames/sec_0_idx_10.jpg",
+        "fps": 60,
+        "explanation": "[0-0] A blonde woman in a blue floral dress, with a blue bow in her hair, stands in front of a large window. She has her back to the camera and is gently lifting the hem of her dress with her right hand. There is a wooden table in the room with a white hollow metal lantern on it, and a candle is burning inside the lantern."
+    },
+    {
+        "second": 1,
+        "frame_index": 50,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QcehCwLEcaY/output_frames/sec_1_idx_50.jpg",
+        "fps": 60,
+        "explanation": "[0-6] Then the woman swings her dress from side to side, slowly puts her left hand behind her head, followed by her right hand, then she fiddles with her hair a little and slowly lowers her head."
+    },
+    {
+        "second": 2,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QcehCwLEcaY/output_frames/sec_2_idx_10.jpg",
+        "fps": 60,
+        "explanation": "[0-6] Then the woman swings her dress from side to side, slowly puts her left hand behind her head, followed by her right hand, then she fiddles with her hair a little and slowly lowers her head."
+    },
+    {
+        "second": 3,
+        "frame_index": 58,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QcehCwLEcaY/output_frames/sec_3_idx_58.jpg",
+        "fps": 60,
+        "explanation": "[0-6] Then the woman swings her dress from side to side, slowly puts her left hand behind her head, followed by her right hand, then she fiddles with her hair a little and slowly lowers her head."
+    },
+    {
+        "second": 4,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QcehCwLEcaY/output_frames/sec_4_idx_25.jpg",
+        "fps": 60,
+        "explanation": "[0-6] Then the woman swings her dress from side to side, slowly puts her left hand behind her head, followed by her right hand, then she fiddles with her hair a little and slowly lowers her head."
+    },
+    {
+        "second": 5,
+        "frame_index": 57,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QcehCwLEcaY/output_frames/sec_5_idx_57.jpg",
+        "fps": 60,
+        "explanation": "[0-6] Then the woman swings her dress from side to side, slowly puts her left hand behind her head, followed by her right hand, then she fiddles with her hair a little and slowly lowers her head."
+    },
+    {
+        "second": 6,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QcehCwLEcaY/output_frames/sec_6_idx_2.jpg",
+        "fps": 60,
+        "explanation": "[0-6] Then the woman swings her dress from side to side, slowly puts her left hand behind her head, followed by her right hand, then she fiddles with her hair a little and slowly lowers her head."
+    }
+]

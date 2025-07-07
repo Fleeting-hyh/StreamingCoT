@@ -1,0 +1,51 @@
+[
+    {
+        "second": 0,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0LdjndxFaYw/output_frames/sec_0_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A man with long, curly blonde hair, wearing a blue bathrobe, holds a folded belt in his right hand and glares angrily to the right. Behind him is a white wall, and the text \"Toxic parent\" appears on the screen."
+    },
+    {
+        "second": 1,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0LdjndxFaYw/output_frames/sec_1_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The man in the blue bathrobe then opens his mouth wide, widens his eyes, and yells angrily to the right. The text on the screen disappears. Immediately afterward, the scene switches to a man in a black jacket with red patterns, who looks to the left with wide, surprised eyes. He then widens and rolls his eyes, opens his mouth wide, and yells to the left while shaking his body. The text \"Middle child\" appears and disappears from the screen."
+    },
+    {
+        "second": 2,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0LdjndxFaYw/output_frames/sec_2_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The man in the blue bathrobe then opens his mouth wide, widens his eyes, and yells angrily to the right. The text on the screen disappears. Immediately afterward, the scene switches to a man in a black jacket with red patterns, who looks to the left with wide, surprised eyes. He then widens and rolls his eyes, opens his mouth wide, and yells to the left while shaking his body. The text \"Middle child\" appears and disappears from the screen."
+    },
+    {
+        "second": 3,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0LdjndxFaYw/output_frames/sec_3_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The man in the blue bathrobe then opens his mouth wide, widens his eyes, and yells angrily to the right. The text on the screen disappears. Immediately afterward, the scene switches to a man in a black jacket with red patterns, who looks to the left with wide, surprised eyes. He then widens and rolls his eyes, opens his mouth wide, and yells to the left while shaking his body. The text \"Middle child\" appears and disappears from the screen."
+    },
+    {
+        "second": 4,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0LdjndxFaYw/output_frames/sec_4_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The man in the blue bathrobe then opens his mouth wide, widens his eyes, and yells angrily to the right. The text on the screen disappears. Immediately afterward, the scene switches to a man in a black jacket with red patterns, who looks to the left with wide, surprised eyes. He then widens and rolls his eyes, opens his mouth wide, and yells to the left while shaking his body. The text \"Middle child\" appears and disappears from the screen."
+    },
+    {
+        "second": 5,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0LdjndxFaYw/output_frames/sec_5_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[4-6] Subsequently, the scene changes again to a man in a black baseball jacket standing facing forward. He holds his hands up in front of him, widens his eyes in surprise, and shakes his head from side to side. The text \"Oldest child\" appears and disappears from the screen. Then the scene switches once more to a man in a blue hoodie standing facing forward. He folds his arms across his chest, opens his eyes wide, shakes his body in surprise, and looks from side to side. The text \"Youngest child\" appears on the screen."
+    },
+    {
+        "second": 6,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0LdjndxFaYw/output_frames/sec_6_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[4-6] Subsequently, the scene changes again to a man in a black baseball jacket standing facing forward. He holds his hands up in front of him, widens his eyes in surprise, and shakes his head from side to side. The text \"Oldest child\" appears and disappears from the screen. Then the scene switches once more to a man in a blue hoodie standing facing forward. He folds his arms across his chest, opens his eyes wide, shakes his body in surprise, and looks from side to side. The text \"Youngest child\" appears on the screen."
+    }
+]

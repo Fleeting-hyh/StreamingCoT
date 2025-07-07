@@ -1,0 +1,191 @@
+[
+    {
+        "second": 0,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MMOuX_afnLo/output_frames/sec_0_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[0-0] The screen displays a 3D game scene with a character lying on the ground next to a first aid kit. In the background, you can see some buildings and roads, the setting appears to be part of a city or town. The overall style is simple, with the main colors being gray and red. The white text \"XDSchool\" is written on the screen."
+    },
+    {
+        "second": 1,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MMOuX_afnLo/output_frames/sec_1_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Then the camera moves to the right, the character in the suit is still sitting against the wall, and there is another character beside him."
+    },
+    {
+        "second": 2,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MMOuX_afnLo/output_frames/sec_2_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Then the camera moves to the right, the character in the suit is still sitting against the wall, and there is another character beside him."
+    },
+    {
+        "second": 3,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MMOuX_afnLo/output_frames/sec_3_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[2-5] The scene then quickly shifts to a view looking up from the ground. A giant robot with red and white details floats above the buildings, firing shells from its hands."
+    },
+    {
+        "second": 4,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MMOuX_afnLo/output_frames/sec_4_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[2-5] The scene then quickly shifts to a view looking up from the ground. A giant robot with red and white details floats above the buildings, firing shells from its hands."
+    },
+    {
+        "second": 5,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MMOuX_afnLo/output_frames/sec_5_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[2-5] The scene then quickly shifts to a view looking up from the ground. A giant robot with red and white details floats above the buildings, firing shells from its hands."
+    },
+    {
+        "second": 6,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MMOuX_afnLo/output_frames/sec_6_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[5-7] The scene then quickly transitions back to ground level. A toilet-man with a giant head is moving down the street. The head resembles Dwayne Johnson's head, with his mouth open, looking angry. Nearby is a smaller toilet-man, also with Dwayne Johnson's head open-mouthed on its head."
+    },
+    {
+        "second": 7,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MMOuX_afnLo/output_frames/sec_7_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[5-7] The scene then quickly transitions back to ground level. A toilet-man with a giant head is moving down the street. The head resembles Dwayne Johnson's head, with his mouth open, looking angry. Nearby is a smaller toilet-man, also with Dwayne Johnson's head open-mouthed on its head."
+    },
+    {
+        "second": 8,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MMOuX_afnLo/output_frames/sec_8_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[7-12] Then a large robot crashes to the ground, and after the robot gets up, a shell hits it."
+    },
+    {
+        "second": 9,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MMOuX_afnLo/output_frames/sec_9_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[7-12] Then a large robot crashes to the ground, and after the robot gets up, a shell hits it."
+    },
+    {
+        "second": 10,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MMOuX_afnLo/output_frames/sec_10_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[7-12] Then a large robot crashes to the ground, and after the robot gets up, a shell hits it."
+    },
+    {
+        "second": 11,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MMOuX_afnLo/output_frames/sec_11_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[7-12] Then a large robot crashes to the ground, and after the robot gets up, a shell hits it."
+    },
+    {
+        "second": 12,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MMOuX_afnLo/output_frames/sec_12_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[7-12] Then a large robot crashes to the ground, and after the robot gets up, a shell hits it."
+    },
+    {
+        "second": 13,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MMOuX_afnLo/output_frames/sec_13_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[12-16] Then the robot above the building jumps down, and the two robots hit each other."
+    },
+    {
+        "second": 14,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MMOuX_afnLo/output_frames/sec_14_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[12-16] Then the robot above the building jumps down, and the two robots hit each other."
+    },
+    {
+        "second": 15,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MMOuX_afnLo/output_frames/sec_15_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[12-16] Then the robot above the building jumps down, and the two robots hit each other."
+    },
+    {
+        "second": 16,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MMOuX_afnLo/output_frames/sec_16_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[12-16] Then the robot above the building jumps down, and the two robots hit each other."
+    },
+    {
+        "second": 17,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MMOuX_afnLo/output_frames/sec_17_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[16-23] Eventually, the red and white robot is knocked down, and the other robot pulls out a device behind the red and white robot and flies away with it."
+    },
+    {
+        "second": 18,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MMOuX_afnLo/output_frames/sec_18_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[16-23] Eventually, the red and white robot is knocked down, and the other robot pulls out a device behind the red and white robot and flies away with it."
+    },
+    {
+        "second": 19,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MMOuX_afnLo/output_frames/sec_19_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[16-23] Eventually, the red and white robot is knocked down, and the other robot pulls out a device behind the red and white robot and flies away with it."
+    },
+    {
+        "second": 20,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MMOuX_afnLo/output_frames/sec_20_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[16-23] Eventually, the red and white robot is knocked down, and the other robot pulls out a device behind the red and white robot and flies away with it."
+    },
+    {
+        "second": 21,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MMOuX_afnLo/output_frames/sec_21_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[16-23] Eventually, the red and white robot is knocked down, and the other robot pulls out a device behind the red and white robot and flies away with it."
+    },
+    {
+        "second": 22,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MMOuX_afnLo/output_frames/sec_22_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[16-23] Eventually, the red and white robot is knocked down, and the other robot pulls out a device behind the red and white robot and flies away with it."
+    },
+    {
+        "second": 23,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MMOuX_afnLo/output_frames/sec_23_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[16-23] Eventually, the red and white robot is knocked down, and the other robot pulls out a device behind the red and white robot and flies away with it."
+    },
+    {
+        "second": 24,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MMOuX_afnLo/output_frames/sec_24_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[23-26] Finally, there are three characters on the ground, one large and two small, dancing on the ground."
+    },
+    {
+        "second": 25,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MMOuX_afnLo/output_frames/sec_25_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[23-26] Finally, there are three characters on the ground, one large and two small, dancing on the ground."
+    },
+    {
+        "second": 26,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MMOuX_afnLo/output_frames/sec_26_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[23-26] Finally, there are three characters on the ground, one large and two small, dancing on the ground."
+    }
+]

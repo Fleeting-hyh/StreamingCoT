@@ -1,0 +1,58 @@
+[
+    {
+        "second": 0,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6MnMgo27CTo/output_frames/sec_0_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A man with a long white beard is wearing a black sweater. He is holding a device in his hand, surrounded by a crowd and part of a black sports car."
+    },
+    {
+        "second": 1,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6MnMgo27CTo/output_frames/sec_1_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[0-7] Then the man walks towards a blue sports car and opens the door by touching the roof of the car. Someone in the background is filming this scene with a mobile phone."
+    },
+    {
+        "second": 2,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6MnMgo27CTo/output_frames/sec_2_idx_24.jpg",
+        "fps": 30,
+        "explanation": "[0-7] Then the man walks towards a blue sports car and opens the door by touching the roof of the car. Someone in the background is filming this scene with a mobile phone."
+    },
+    {
+        "second": 3,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6MnMgo27CTo/output_frames/sec_3_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-7] Then the man walks towards a blue sports car and opens the door by touching the roof of the car. Someone in the background is filming this scene with a mobile phone."
+    },
+    {
+        "second": 4,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6MnMgo27CTo/output_frames/sec_4_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[0-7] Then the man walks towards a blue sports car and opens the door by touching the roof of the car. Someone in the background is filming this scene with a mobile phone."
+    },
+    {
+        "second": 5,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6MnMgo27CTo/output_frames/sec_5_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[0-7] Then the man walks towards a blue sports car and opens the door by touching the roof of the car. Someone in the background is filming this scene with a mobile phone."
+    },
+    {
+        "second": 6,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6MnMgo27CTo/output_frames/sec_6_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-7] Then the man walks towards a blue sports car and opens the door by touching the roof of the car. Someone in the background is filming this scene with a mobile phone."
+    },
+    {
+        "second": 7,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6MnMgo27CTo/output_frames/sec_7_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[0-7] Then the man walks towards a blue sports car and opens the door by touching the roof of the car. Someone in the background is filming this scene with a mobile phone."
+    }
+]

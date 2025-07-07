@@ -1,0 +1,65 @@
+[
+    {
+        "second": 0,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8P1bo25zSPY/output_frames/sec_0_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A small snake is floating at the edge of a turquoise pool, beside a white brick wall with white railings behind it."
+    },
+    {
+        "second": 1,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8P1bo25zSPY/output_frames/sec_1_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Then, a frog appears near the snake's head, the snake successfully bites the frog and tries to get into a hole at the junction of the brick wall and the pool, a turtle emerges from underwater."
+    },
+    {
+        "second": 2,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8P1bo25zSPY/output_frames/sec_2_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Then, a frog appears near the snake's head, the snake successfully bites the frog and tries to get into a hole at the junction of the brick wall and the pool, a turtle emerges from underwater."
+    },
+    {
+        "second": 3,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8P1bo25zSPY/output_frames/sec_3_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Then, a frog appears near the snake's head, the snake successfully bites the frog and tries to get into a hole at the junction of the brick wall and the pool, a turtle emerges from underwater."
+    },
+    {
+        "second": 4,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8P1bo25zSPY/output_frames/sec_4_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Then, a frog appears near the snake's head, the snake successfully bites the frog and tries to get into a hole at the junction of the brick wall and the pool, a turtle emerges from underwater."
+    },
+    {
+        "second": 5,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8P1bo25zSPY/output_frames/sec_5_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[4-8] Subsequently, the snake drags the frog to the edge of the pool, a snake's head appears from the hole, the turtle gradually sinks to the bottom, finally, a snake swims away from the edge of the pool."
+    },
+    {
+        "second": 6,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8P1bo25zSPY/output_frames/sec_6_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[4-8] Subsequently, the snake drags the frog to the edge of the pool, a snake's head appears from the hole, the turtle gradually sinks to the bottom, finally, a snake swims away from the edge of the pool."
+    },
+    {
+        "second": 7,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8P1bo25zSPY/output_frames/sec_7_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[4-8] Subsequently, the snake drags the frog to the edge of the pool, a snake's head appears from the hole, the turtle gradually sinks to the bottom, finally, a snake swims away from the edge of the pool."
+    },
+    {
+        "second": 8,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8P1bo25zSPY/output_frames/sec_8_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[4-8] Subsequently, the snake drags the frog to the edge of the pool, a snake's head appears from the hole, the turtle gradually sinks to the bottom, finally, a snake swims away from the edge of the pool."
+    }
+]

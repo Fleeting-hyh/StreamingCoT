@@ -1,0 +1,72 @@
+[
+    {
+        "second": 0,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1OxAdcjpKjg/output_frames/sec_0_idx_12.jpg",
+        "fps": 24,
+        "explanation": "[0-0] A statue holding a bowl of water stands in a pool filled with water. To the left of the pool is a man in a gray top and black shorts, while on the right, a person in black clothing raises their hand, with a blue fence behind them and many green plants outside the fence. At the top of the screen, there's a red dialogue box with the white text \"He thought he could get away with this.\""
+    },
+    {
+        "second": 1,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1OxAdcjpKjg/output_frames/sec_1_idx_8.jpg",
+        "fps": 24,
+        "explanation": "[0-2] Subsequently, the person in black throws something into the bowl held by the statue in the pool and walks to the left. The man in the gray top watches as the person in black walks to the right."
+    },
+    {
+        "second": 2,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1OxAdcjpKjg/output_frames/sec_2_idx_22.jpg",
+        "fps": 24,
+        "explanation": "[0-2] Subsequently, the person in black throws something into the bowl held by the statue in the pool and walks to the left. The man in the gray top watches as the person in black walks to the right."
+    },
+    {
+        "second": 3,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1OxAdcjpKjg/output_frames/sec_3_idx_12.jpg",
+        "fps": 24,
+        "explanation": "[2-9] Immediately after, the man in the gray top bends over, squats on the ground, and takes something out of the pool, holding it in his hand. Then, the statue in the pool pours the water from the bowl in its hand onto the man's head. Following that, the statue bends down and spits water from its mouth onto the face of the man in the gray top, who then falls to the ground."
+    },
+    {
+        "second": 4,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1OxAdcjpKjg/output_frames/sec_4_idx_22.jpg",
+        "fps": 24,
+        "explanation": "[2-9] Immediately after, the man in the gray top bends over, squats on the ground, and takes something out of the pool, holding it in his hand. Then, the statue in the pool pours the water from the bowl in its hand onto the man's head. Following that, the statue bends down and spits water from its mouth onto the face of the man in the gray top, who then falls to the ground."
+    },
+    {
+        "second": 5,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1OxAdcjpKjg/output_frames/sec_5_idx_3.jpg",
+        "fps": 24,
+        "explanation": "[2-9] Immediately after, the man in the gray top bends over, squats on the ground, and takes something out of the pool, holding it in his hand. Then, the statue in the pool pours the water from the bowl in its hand onto the man's head. Following that, the statue bends down and spits water from its mouth onto the face of the man in the gray top, who then falls to the ground."
+    },
+    {
+        "second": 6,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1OxAdcjpKjg/output_frames/sec_6_idx_0.jpg",
+        "fps": 24,
+        "explanation": "[2-9] Immediately after, the man in the gray top bends over, squats on the ground, and takes something out of the pool, holding it in his hand. Then, the statue in the pool pours the water from the bowl in its hand onto the man's head. Following that, the statue bends down and spits water from its mouth onto the face of the man in the gray top, who then falls to the ground."
+    },
+    {
+        "second": 7,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1OxAdcjpKjg/output_frames/sec_7_idx_17.jpg",
+        "fps": 24,
+        "explanation": "[2-9] Immediately after, the man in the gray top bends over, squats on the ground, and takes something out of the pool, holding it in his hand. Then, the statue in the pool pours the water from the bowl in its hand onto the man's head. Following that, the statue bends down and spits water from its mouth onto the face of the man in the gray top, who then falls to the ground."
+    },
+    {
+        "second": 8,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1OxAdcjpKjg/output_frames/sec_8_idx_5.jpg",
+        "fps": 24,
+        "explanation": "[2-9] Immediately after, the man in the gray top bends over, squats on the ground, and takes something out of the pool, holding it in his hand. Then, the statue in the pool pours the water from the bowl in its hand onto the man's head. Following that, the statue bends down and spits water from its mouth onto the face of the man in the gray top, who then falls to the ground."
+    },
+    {
+        "second": 9,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1OxAdcjpKjg/output_frames/sec_9_idx_4.jpg",
+        "fps": 24,
+        "explanation": "[2-9] Immediately after, the man in the gray top bends over, squats on the ground, and takes something out of the pool, holding it in his hand. Then, the statue in the pool pours the water from the bowl in its hand onto the man's head. Following that, the statue bends down and spits water from its mouth onto the face of the man in the gray top, who then falls to the ground."
+    }
+]

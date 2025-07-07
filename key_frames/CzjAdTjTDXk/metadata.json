@@ -1,0 +1,93 @@
+[
+    {
+        "second": 0,
+        "frame_index": 53,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CzjAdTjTDXk/output_frames/sec_0_idx_53.jpg",
+        "fps": 60,
+        "explanation": "[0-0] A man in a blue shirt is sitting on a green plastic stool, and a young girl in a gray top is standing next to him. Behind them is a brick wall with some plants and a pot of flowers. On the right side of the frame, there is a bunch of grapes, and in the upper right corner, an orange."
+    },
+    {
+        "second": 1,
+        "frame_index": 36,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CzjAdTjTDXk/output_frames/sec_1_idx_36.jpg",
+        "fps": 60,
+        "explanation": "[0-5] The grapes fall to the ground and disappear. The man opens his mouth and eats the falling orange. Then a bunch of bananas falls from the left side, and the man opens his mouth to the right and eats them."
+    },
+    {
+        "second": 2,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CzjAdTjTDXk/output_frames/sec_2_idx_4.jpg",
+        "fps": 60,
+        "explanation": "[0-5] The grapes fall to the ground and disappear. The man opens his mouth and eats the falling orange. Then a bunch of bananas falls from the left side, and the man opens his mouth to the right and eats them."
+    },
+    {
+        "second": 3,
+        "frame_index": 36,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CzjAdTjTDXk/output_frames/sec_3_idx_36.jpg",
+        "fps": 60,
+        "explanation": "[0-5] The grapes fall to the ground and disappear. The man opens his mouth and eats the falling orange. Then a bunch of bananas falls from the left side, and the man opens his mouth to the right and eats them."
+    },
+    {
+        "second": 4,
+        "frame_index": 31,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CzjAdTjTDXk/output_frames/sec_4_idx_31.jpg",
+        "fps": 60,
+        "explanation": "[0-5] The grapes fall to the ground and disappear. The man opens his mouth and eats the falling orange. Then a bunch of bananas falls from the left side, and the man opens his mouth to the right and eats them."
+    },
+    {
+        "second": 5,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CzjAdTjTDXk/output_frames/sec_5_idx_6.jpg",
+        "fps": 60,
+        "explanation": "[0-5] The grapes fall to the ground and disappear. The man opens his mouth and eats the falling orange. Then a bunch of bananas falls from the left side, and the man opens his mouth to the right and eats them."
+    },
+    {
+        "second": 6,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CzjAdTjTDXk/output_frames/sec_6_idx_24.jpg",
+        "fps": 60,
+        "explanation": "[5-12] Next, a bee and a fly fall from above, and the girl raises her fist to swat them away. Then an apple falls, and the man opens his mouth to the right and eats it. Immediately afterwards, three grapes of different colors fall, and the man opens his mouth again and eats them. Finally, a tricycle and a pineapple fall. The girl swats the tricycle away, and the man opens his mouth and eats the pineapple."
+    },
+    {
+        "second": 7,
+        "frame_index": 54,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CzjAdTjTDXk/output_frames/sec_7_idx_54.jpg",
+        "fps": 60,
+        "explanation": "[5-12] Next, a bee and a fly fall from above, and the girl raises her fist to swat them away. Then an apple falls, and the man opens his mouth to the right and eats it. Immediately afterwards, three grapes of different colors fall, and the man opens his mouth again and eats them. Finally, a tricycle and a pineapple fall. The girl swats the tricycle away, and the man opens his mouth and eats the pineapple."
+    },
+    {
+        "second": 8,
+        "frame_index": 52,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CzjAdTjTDXk/output_frames/sec_8_idx_52.jpg",
+        "fps": 60,
+        "explanation": "[5-12] Next, a bee and a fly fall from above, and the girl raises her fist to swat them away. Then an apple falls, and the man opens his mouth to the right and eats it. Immediately afterwards, three grapes of different colors fall, and the man opens his mouth again and eats them. Finally, a tricycle and a pineapple fall. The girl swats the tricycle away, and the man opens his mouth and eats the pineapple."
+    },
+    {
+        "second": 9,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CzjAdTjTDXk/output_frames/sec_9_idx_6.jpg",
+        "fps": 60,
+        "explanation": "[5-12] Next, a bee and a fly fall from above, and the girl raises her fist to swat them away. Then an apple falls, and the man opens his mouth to the right and eats it. Immediately afterwards, three grapes of different colors fall, and the man opens his mouth again and eats them. Finally, a tricycle and a pineapple fall. The girl swats the tricycle away, and the man opens his mouth and eats the pineapple."
+    },
+    {
+        "second": 10,
+        "frame_index": 50,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CzjAdTjTDXk/output_frames/sec_10_idx_50.jpg",
+        "fps": 60,
+        "explanation": "[5-12] Next, a bee and a fly fall from above, and the girl raises her fist to swat them away. Then an apple falls, and the man opens his mouth to the right and eats it. Immediately afterwards, three grapes of different colors fall, and the man opens his mouth again and eats them. Finally, a tricycle and a pineapple fall. The girl swats the tricycle away, and the man opens his mouth and eats the pineapple."
+    },
+    {
+        "second": 11,
+        "frame_index": 37,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CzjAdTjTDXk/output_frames/sec_11_idx_37.jpg",
+        "fps": 60,
+        "explanation": "[5-12] Next, a bee and a fly fall from above, and the girl raises her fist to swat them away. Then an apple falls, and the man opens his mouth to the right and eats it. Immediately afterwards, three grapes of different colors fall, and the man opens his mouth again and eats them. Finally, a tricycle and a pineapple fall. The girl swats the tricycle away, and the man opens his mouth and eats the pineapple."
+    },
+    {
+        "second": 12,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CzjAdTjTDXk/output_frames/sec_12_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[5-12] Next, a bee and a fly fall from above, and the girl raises her fist to swat them away. Then an apple falls, and the man opens his mouth to the right and eats it. Immediately afterwards, three grapes of different colors fall, and the man opens his mouth again and eats them. Finally, a tricycle and a pineapple fall. The girl swats the tricycle away, and the man opens his mouth and eats the pineapple."
+    }
+]

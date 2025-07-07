@@ -1,0 +1,44 @@
+[
+    {
+        "second": 0,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/R3fca38NzEk/output_frames/sec_0_idx_3.jpg",
+        "fps": 25,
+        "explanation": "[0-0] The image shows four dolls standing in a row on green grass. The doll on the left is wearing a purple dress and has long brown hair. The second doll is wearing a pink jacket, striped pants, and green rain boots. The third doll is wearing a dark blue dress with a purple bow. The doll on the far right is wearing a pink bathing suit and pink shoes with long blonde hair. The background is blue. On the far left, a doll's hand is sticking out holding a colorful flag."
+    },
+    {
+        "second": 1,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/R3fca38NzEk/output_frames/sec_1_idx_16.jpg",
+        "fps": 25,
+        "explanation": "[0-5] Next, a male doll wearing a red and yellow striped shirt points a rainbow flag at each doll on the grass, starting from the brown-haired doll in the purple dress on the far left and moving to the right. As the rainbow flag points to each doll, they grow larger, and their clothes change accordingly. The first doll transforms into a doll with black hair wearing a pink dress. The second doll transforms into a doll with blonde hair wearing a purple dress. The third doll transforms into a doll with long brown hair wearing a blue top and a yellow skirt. After the first three dolls have transformed, the male doll in the red and yellow striped shirt points the rainbow flag at the last doll in the pink bathing suit, repeatedly tapping the doll with the flag. However, the doll in the pink bathing suit does not change."
+    },
+    {
+        "second": 2,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/R3fca38NzEk/output_frames/sec_2_idx_23.jpg",
+        "fps": 25,
+        "explanation": "[0-5] Next, a male doll wearing a red and yellow striped shirt points a rainbow flag at each doll on the grass, starting from the brown-haired doll in the purple dress on the far left and moving to the right. As the rainbow flag points to each doll, they grow larger, and their clothes change accordingly. The first doll transforms into a doll with black hair wearing a pink dress. The second doll transforms into a doll with blonde hair wearing a purple dress. The third doll transforms into a doll with long brown hair wearing a blue top and a yellow skirt. After the first three dolls have transformed, the male doll in the red and yellow striped shirt points the rainbow flag at the last doll in the pink bathing suit, repeatedly tapping the doll with the flag. However, the doll in the pink bathing suit does not change."
+    },
+    {
+        "second": 3,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/R3fca38NzEk/output_frames/sec_3_idx_3.jpg",
+        "fps": 25,
+        "explanation": "[0-5] Next, a male doll wearing a red and yellow striped shirt points a rainbow flag at each doll on the grass, starting from the brown-haired doll in the purple dress on the far left and moving to the right. As the rainbow flag points to each doll, they grow larger, and their clothes change accordingly. The first doll transforms into a doll with black hair wearing a pink dress. The second doll transforms into a doll with blonde hair wearing a purple dress. The third doll transforms into a doll with long brown hair wearing a blue top and a yellow skirt. After the first three dolls have transformed, the male doll in the red and yellow striped shirt points the rainbow flag at the last doll in the pink bathing suit, repeatedly tapping the doll with the flag. However, the doll in the pink bathing suit does not change."
+    },
+    {
+        "second": 4,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/R3fca38NzEk/output_frames/sec_4_idx_18.jpg",
+        "fps": 25,
+        "explanation": "[0-5] Next, a male doll wearing a red and yellow striped shirt points a rainbow flag at each doll on the grass, starting from the brown-haired doll in the purple dress on the far left and moving to the right. As the rainbow flag points to each doll, they grow larger, and their clothes change accordingly. The first doll transforms into a doll with black hair wearing a pink dress. The second doll transforms into a doll with blonde hair wearing a purple dress. The third doll transforms into a doll with long brown hair wearing a blue top and a yellow skirt. After the first three dolls have transformed, the male doll in the red and yellow striped shirt points the rainbow flag at the last doll in the pink bathing suit, repeatedly tapping the doll with the flag. However, the doll in the pink bathing suit does not change."
+    },
+    {
+        "second": 5,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/R3fca38NzEk/output_frames/sec_5_idx_23.jpg",
+        "fps": 25,
+        "explanation": "[0-5] Next, a male doll wearing a red and yellow striped shirt points a rainbow flag at each doll on the grass, starting from the brown-haired doll in the purple dress on the far left and moving to the right. As the rainbow flag points to each doll, they grow larger, and their clothes change accordingly. The first doll transforms into a doll with black hair wearing a pink dress. The second doll transforms into a doll with blonde hair wearing a purple dress. The third doll transforms into a doll with long brown hair wearing a blue top and a yellow skirt. After the first three dolls have transformed, the male doll in the red and yellow striped shirt points the rainbow flag at the last doll in the pink bathing suit, repeatedly tapping the doll with the flag. However, the doll in the pink bathing suit does not change."
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "second": 0,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4Gp1oohqZGo/output_frames/sec_0_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-0] The video is a split screen. The upper half is a black screen, and the lower half shows a red larva looking to the left and grinning."
+    },
+    {
+        "second": 1,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4Gp1oohqZGo/output_frames/sec_1_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Then, a small monkey wearing a yellow shirt and blue jeans appears in the upper half. It walks on a wooden table with a black backpack on its back. A red broken heart symbol appears in the picture. The monkey walks forward, and in front of it is a fork with an apple on it. The little monkey bites into the apple."
+    },
+    {
+        "second": 2,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4Gp1oohqZGo/output_frames/sec_2_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Then, a small monkey wearing a yellow shirt and blue jeans appears in the upper half. It walks on a wooden table with a black backpack on its back. A red broken heart symbol appears in the picture. The monkey walks forward, and in front of it is a fork with an apple on it. The little monkey bites into the apple."
+    },
+    {
+        "second": 3,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4Gp1oohqZGo/output_frames/sec_3_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[2-6] Immediately afterwards, the scene in the upper half switches to an indoor shopping mall. A large gray gorilla hops forward, and a child in blue clothes runs forward. There is a black animal in front, and some shops and many people standing next to it. Red and white heart symbols appear in the picture. The red larva in the lower half looks forward."
+    },
+    {
+        "second": 4,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4Gp1oohqZGo/output_frames/sec_4_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[2-6] Immediately afterwards, the scene in the upper half switches to an indoor shopping mall. A large gray gorilla hops forward, and a child in blue clothes runs forward. There is a black animal in front, and some shops and many people standing next to it. Red and white heart symbols appear in the picture. The red larva in the lower half looks forward."
+    },
+    {
+        "second": 5,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4Gp1oohqZGo/output_frames/sec_5_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[2-6] Immediately afterwards, the scene in the upper half switches to an indoor shopping mall. A large gray gorilla hops forward, and a child in blue clothes runs forward. There is a black animal in front, and some shops and many people standing next to it. Red and white heart symbols appear in the picture. The red larva in the lower half looks forward."
+    },
+    {
+        "second": 6,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4Gp1oohqZGo/output_frames/sec_6_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[2-6] Immediately afterwards, the scene in the upper half switches to an indoor shopping mall. A large gray gorilla hops forward, and a child in blue clothes runs forward. There is a black animal in front, and some shops and many people standing next to it. Red and white heart symbols appear in the picture. The red larva in the lower half looks forward."
+    }
+]

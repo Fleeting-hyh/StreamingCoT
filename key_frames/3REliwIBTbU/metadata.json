@@ -1,0 +1,44 @@
+[
+    {
+        "second": 0,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3REliwIBTbU/output_frames/sec_0_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[0-0] On a gray brick floor, from left to right, are Mountain Dew, Coca-Cola, Fanta, and Sprite, neatly arranged in a row. On top of each bottle is a string of white, spiral Mentos mints. In the background is green vegetation and trees."
+    },
+    {
+        "second": 1,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3REliwIBTbU/output_frames/sec_1_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Next, four hands simultaneously put the white spiral Mentos mints into the bottles."
+    },
+    {
+        "second": 2,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3REliwIBTbU/output_frames/sec_2_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Next, four hands simultaneously put the white spiral Mentos mints into the bottles."
+    },
+    {
+        "second": 3,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3REliwIBTbU/output_frames/sec_3_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Next, four hands simultaneously put the white spiral Mentos mints into the bottles."
+    },
+    {
+        "second": 4,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3REliwIBTbU/output_frames/sec_4_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[3-5] Immediately, Sprite and Coca-Cola erupt with a large amount of white and brown foam, while Fanta produces a relatively small amount of yellow foam, and Mountain Dew only a little bit of green foam. The foam overflows onto the ground."
+    },
+    {
+        "second": 5,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3REliwIBTbU/output_frames/sec_5_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[3-5] Immediately, Sprite and Coca-Cola erupt with a large amount of white and brown foam, while Fanta produces a relatively small amount of yellow foam, and Mountain Dew only a little bit of green foam. The foam overflows onto the ground."
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "second": 0,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/OEUYlz_If2E/output_frames/sec_0_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[0-0] Below is a snowfield, with some green trees and the sky faintly visible above, the sky is blue."
+    },
+    {
+        "second": 1,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/OEUYlz_If2E/output_frames/sec_1_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[0-2] First, a snowball clip extends from the right side. The snowball clip is pink and has two heart-shaped molds. The snowball clip picks up a lot of snow from the snowfield."
+    },
+    {
+        "second": 2,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/OEUYlz_If2E/output_frames/sec_2_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-2] First, a snowball clip extends from the right side. The snowball clip is pink and has two heart-shaped molds. The snowball clip picks up a lot of snow from the snowfield."
+    },
+    {
+        "second": 3,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/OEUYlz_If2E/output_frames/sec_3_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[2-9] Then, a right hand wearing a pink glove extends from the right side and closes the snowball clip. It then moves out from the right, dropping the snowball clip twice on the snowfield. Finally, the snowball clip is released and moved away from the right, leaving two heart-shaped snowballs on the snowfield."
+    },
+    {
+        "second": 4,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/OEUYlz_If2E/output_frames/sec_4_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[2-9] Then, a right hand wearing a pink glove extends from the right side and closes the snowball clip. It then moves out from the right, dropping the snowball clip twice on the snowfield. Finally, the snowball clip is released and moved away from the right, leaving two heart-shaped snowballs on the snowfield."
+    },
+    {
+        "second": 5,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/OEUYlz_If2E/output_frames/sec_5_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[2-9] Then, a right hand wearing a pink glove extends from the right side and closes the snowball clip. It then moves out from the right, dropping the snowball clip twice on the snowfield. Finally, the snowball clip is released and moved away from the right, leaving two heart-shaped snowballs on the snowfield."
+    },
+    {
+        "second": 6,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/OEUYlz_If2E/output_frames/sec_6_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[2-9] Then, a right hand wearing a pink glove extends from the right side and closes the snowball clip. It then moves out from the right, dropping the snowball clip twice on the snowfield. Finally, the snowball clip is released and moved away from the right, leaving two heart-shaped snowballs on the snowfield."
+    },
+    {
+        "second": 7,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/OEUYlz_If2E/output_frames/sec_7_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[2-9] Then, a right hand wearing a pink glove extends from the right side and closes the snowball clip. It then moves out from the right, dropping the snowball clip twice on the snowfield. Finally, the snowball clip is released and moved away from the right, leaving two heart-shaped snowballs on the snowfield."
+    },
+    {
+        "second": 8,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/OEUYlz_If2E/output_frames/sec_8_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[2-9] Then, a right hand wearing a pink glove extends from the right side and closes the snowball clip. It then moves out from the right, dropping the snowball clip twice on the snowfield. Finally, the snowball clip is released and moved away from the right, leaving two heart-shaped snowballs on the snowfield."
+    }
+]

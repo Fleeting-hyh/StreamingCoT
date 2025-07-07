@@ -1,0 +1,72 @@
+[
+    {
+        "second": 0,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DHRhQivEwJQ/output_frames/sec_0_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A man sits on a green chair in front of a white table, with a white pacifier in his mouth. He has short black hair and is wearing a gray patterned short-sleeve shirt, with both arms resting on the table. On the white table, there are two yellow placemats, and on one of them is a white plate with fruits. Not far behind the man, there is a woman wearing a yellow top and blue jeans, barefoot. The background features a white wall and a yellow wooden door, with wooden flooring."
+    },
+    {
+        "second": 1,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DHRhQivEwJQ/output_frames/sec_1_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[0-3] The woman walks over to the man and pats him on the shoulder. The man turns his head. The camera then switches to a close-up of the man's face, showing him sucking on the pacifier."
+    },
+    {
+        "second": 2,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DHRhQivEwJQ/output_frames/sec_2_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[0-3] The woman walks over to the man and pats him on the shoulder. The man turns his head. The camera then switches to a close-up of the man's face, showing him sucking on the pacifier."
+    },
+    {
+        "second": 3,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DHRhQivEwJQ/output_frames/sec_3_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[0-3] The woman walks over to the man and pats him on the shoulder. The man turns his head. The camera then switches to a close-up of the man's face, showing him sucking on the pacifier."
+    },
+    {
+        "second": 4,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DHRhQivEwJQ/output_frames/sec_4_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[3-6] The camera switches back to both of them, and the woman makes a gesture with her hand near her ear before reaching out to remove the pacifier from the man's mouth. The camera then switches to the woman, who looks at the green candy on the white pacifier and smiles."
+    },
+    {
+        "second": 5,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DHRhQivEwJQ/output_frames/sec_5_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[3-6] The camera switches back to both of them, and the woman makes a gesture with her hand near her ear before reaching out to remove the pacifier from the man's mouth. The camera then switches to the woman, who looks at the green candy on the white pacifier and smiles."
+    },
+    {
+        "second": 6,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DHRhQivEwJQ/output_frames/sec_6_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[3-6] The camera switches back to both of them, and the woman makes a gesture with her hand near her ear before reaching out to remove the pacifier from the man's mouth. The camera then switches to the woman, who looks at the green candy on the white pacifier and smiles."
+    },
+    {
+        "second": 7,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DHRhQivEwJQ/output_frames/sec_7_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[6-9] Finally, the camera switches back to both of them, and the woman puts the pacifier back into the man's mouth and pats his head. The man resumes sucking on the pacifier after turning his head back."
+    },
+    {
+        "second": 8,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DHRhQivEwJQ/output_frames/sec_8_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[6-9] Finally, the camera switches back to both of them, and the woman puts the pacifier back into the man's mouth and pats his head. The man resumes sucking on the pacifier after turning his head back."
+    },
+    {
+        "second": 9,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DHRhQivEwJQ/output_frames/sec_9_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[6-9] Finally, the camera switches back to both of them, and the woman puts the pacifier back into the man's mouth and pats his head. The man resumes sucking on the pacifier after turning his head back."
+    }
+]

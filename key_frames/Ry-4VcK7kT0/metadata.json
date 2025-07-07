@@ -1,0 +1,44 @@
+[
+    {
+        "second": 0,
+        "frame_index": 39,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Ry-4VcK7kT0/output_frames/sec_0_idx_39.jpg",
+        "fps": 60,
+        "explanation": "[0-0] A white snake is hanging on a fan, with a purple wall behind it. There are several clothes hanging on the wall."
+    },
+    {
+        "second": 1,
+        "frame_index": 41,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Ry-4VcK7kT0/output_frames/sec_1_idx_41.jpg",
+        "fps": 60,
+        "explanation": "[0-5] Immediately afterwards, the white snake wriggles in place on the fan."
+    },
+    {
+        "second": 2,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Ry-4VcK7kT0/output_frames/sec_2_idx_3.jpg",
+        "fps": 60,
+        "explanation": "[0-5] Immediately afterwards, the white snake wriggles in place on the fan."
+    },
+    {
+        "second": 3,
+        "frame_index": 58,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Ry-4VcK7kT0/output_frames/sec_3_idx_58.jpg",
+        "fps": 60,
+        "explanation": "[0-5] Immediately afterwards, the white snake wriggles in place on the fan."
+    },
+    {
+        "second": 4,
+        "frame_index": 58,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Ry-4VcK7kT0/output_frames/sec_4_idx_58.jpg",
+        "fps": 60,
+        "explanation": "[0-5] Immediately afterwards, the white snake wriggles in place on the fan."
+    },
+    {
+        "second": 5,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Ry-4VcK7kT0/output_frames/sec_5_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[0-5] Immediately afterwards, the white snake wriggles in place on the fan."
+    }
+]

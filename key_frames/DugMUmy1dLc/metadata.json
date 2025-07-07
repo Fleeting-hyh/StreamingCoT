@@ -1,0 +1,72 @@
+[
+    {
+        "second": 0,
+        "frame_index": 52,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DugMUmy1dLc/output_frames/sec_0_idx_52.jpg",
+        "fps": 60,
+        "explanation": "[0-0] A white duck wearing a red sweater stands next to a black mug printed with the words \"Merry Duckmas\" filled with water. A hand holds a microphone and reaches towards the duck."
+    },
+    {
+        "second": 1,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DugMUmy1dLc/output_frames/sec_1_idx_21.jpg",
+        "fps": 60,
+        "explanation": "[0-2] The duck takes a sip of water. Then the duck tries to peck the microphone with its beak. The microphone falls into the water, and the hand fishes the microphone out."
+    },
+    {
+        "second": 2,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DugMUmy1dLc/output_frames/sec_2_idx_17.jpg",
+        "fps": 60,
+        "explanation": "[0-2] The duck takes a sip of water. Then the duck tries to peck the microphone with its beak. The microphone falls into the water, and the hand fishes the microphone out."
+    },
+    {
+        "second": 3,
+        "frame_index": 31,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DugMUmy1dLc/output_frames/sec_3_idx_31.jpg",
+        "fps": 60,
+        "explanation": "[2-9] The duck looks curiously at the cup, then at the hand holding the microphone, and pecks at the microphone a few times."
+    },
+    {
+        "second": 4,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DugMUmy1dLc/output_frames/sec_4_idx_2.jpg",
+        "fps": 60,
+        "explanation": "[2-9] The duck looks curiously at the cup, then at the hand holding the microphone, and pecks at the microphone a few times."
+    },
+    {
+        "second": 5,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DugMUmy1dLc/output_frames/sec_5_idx_25.jpg",
+        "fps": 60,
+        "explanation": "[2-9] The duck looks curiously at the cup, then at the hand holding the microphone, and pecks at the microphone a few times."
+    },
+    {
+        "second": 6,
+        "frame_index": 39,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DugMUmy1dLc/output_frames/sec_6_idx_39.jpg",
+        "fps": 60,
+        "explanation": "[2-9] The duck looks curiously at the cup, then at the hand holding the microphone, and pecks at the microphone a few times."
+    },
+    {
+        "second": 7,
+        "frame_index": 54,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DugMUmy1dLc/output_frames/sec_7_idx_54.jpg",
+        "fps": 60,
+        "explanation": "[2-9] The duck looks curiously at the cup, then at the hand holding the microphone, and pecks at the microphone a few times."
+    },
+    {
+        "second": 8,
+        "frame_index": 32,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DugMUmy1dLc/output_frames/sec_8_idx_32.jpg",
+        "fps": 60,
+        "explanation": "[2-9] The duck looks curiously at the cup, then at the hand holding the microphone, and pecks at the microphone a few times."
+    },
+    {
+        "second": 9,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DugMUmy1dLc/output_frames/sec_9_idx_7.jpg",
+        "fps": 60,
+        "explanation": "[2-9] The duck looks curiously at the cup, then at the hand holding the microphone, and pecks at the microphone a few times."
+    }
+]

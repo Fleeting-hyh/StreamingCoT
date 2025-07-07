@@ -1,0 +1,93 @@
+[
+    {
+        "second": 0,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/ELCrIPr16LY/output_frames/sec_0_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A woman appears at the top of the screen, looking down at a game being played below. In the game, a yacht is sailing on a blue sea, with a small island ahead. A caption appears on the screen, reading \"EPIC SCORE IN OHIO\"."
+    },
+    {
+        "second": 1,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/ELCrIPr16LY/output_frames/sec_1_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The yacht continues sailing on the sea, then executes a drift to stop at the pier of the small island. The game screen displays \"Perfect score! 1000\", indicating the woman has earned 1000 points."
+    },
+    {
+        "second": 2,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/ELCrIPr16LY/output_frames/sec_2_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The yacht continues sailing on the sea, then executes a drift to stop at the pier of the small island. The game screen displays \"Perfect score! 1000\", indicating the woman has earned 1000 points."
+    },
+    {
+        "second": 3,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/ELCrIPr16LY/output_frames/sec_3_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The yacht continues sailing on the sea, then executes a drift to stop at the pier of the small island. The game screen displays \"Perfect score! 1000\", indicating the woman has earned 1000 points."
+    },
+    {
+        "second": 4,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/ELCrIPr16LY/output_frames/sec_4_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The yacht continues sailing on the sea, then executes a drift to stop at the pier of the small island. The game screen displays \"Perfect score! 1000\", indicating the woman has earned 1000 points."
+    },
+    {
+        "second": 5,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/ELCrIPr16LY/output_frames/sec_5_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[4-12] The yacht continues sailing on the sea, passing by a small island with a red arrow, and then continues sailing to another island. Another drift maneuver brings the yacht to a stop at the pier of this island. The game screen displays \"Epic score! 1001\", indicating the woman has earned 1001 points. The woman stares in surprise."
+    },
+    {
+        "second": 6,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/ELCrIPr16LY/output_frames/sec_6_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[4-12] The yacht continues sailing on the sea, passing by a small island with a red arrow, and then continues sailing to another island. Another drift maneuver brings the yacht to a stop at the pier of this island. The game screen displays \"Epic score! 1001\", indicating the woman has earned 1001 points. The woman stares in surprise."
+    },
+    {
+        "second": 7,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/ELCrIPr16LY/output_frames/sec_7_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[4-12] The yacht continues sailing on the sea, passing by a small island with a red arrow, and then continues sailing to another island. Another drift maneuver brings the yacht to a stop at the pier of this island. The game screen displays \"Epic score! 1001\", indicating the woman has earned 1001 points. The woman stares in surprise."
+    },
+    {
+        "second": 8,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/ELCrIPr16LY/output_frames/sec_8_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[4-12] The yacht continues sailing on the sea, passing by a small island with a red arrow, and then continues sailing to another island. Another drift maneuver brings the yacht to a stop at the pier of this island. The game screen displays \"Epic score! 1001\", indicating the woman has earned 1001 points. The woman stares in surprise."
+    },
+    {
+        "second": 9,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/ELCrIPr16LY/output_frames/sec_9_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[4-12] The yacht continues sailing on the sea, passing by a small island with a red arrow, and then continues sailing to another island. Another drift maneuver brings the yacht to a stop at the pier of this island. The game screen displays \"Epic score! 1001\", indicating the woman has earned 1001 points. The woman stares in surprise."
+    },
+    {
+        "second": 10,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/ELCrIPr16LY/output_frames/sec_10_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[4-12] The yacht continues sailing on the sea, passing by a small island with a red arrow, and then continues sailing to another island. Another drift maneuver brings the yacht to a stop at the pier of this island. The game screen displays \"Epic score! 1001\", indicating the woman has earned 1001 points. The woman stares in surprise."
+    },
+    {
+        "second": 11,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/ELCrIPr16LY/output_frames/sec_11_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[4-12] The yacht continues sailing on the sea, passing by a small island with a red arrow, and then continues sailing to another island. Another drift maneuver brings the yacht to a stop at the pier of this island. The game screen displays \"Epic score! 1001\", indicating the woman has earned 1001 points. The woman stares in surprise."
+    },
+    {
+        "second": 12,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/ELCrIPr16LY/output_frames/sec_12_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[4-12] The yacht continues sailing on the sea, passing by a small island with a red arrow, and then continues sailing to another island. Another drift maneuver brings the yacht to a stop at the pier of this island. The game screen displays \"Epic score! 1001\", indicating the woman has earned 1001 points. The woman stares in surprise."
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "second": 0,
+        "frame_index": 41,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EhjTon_f9jw/output_frames/sec_0_idx_41.jpg",
+        "fps": 60,
+        "explanation": "[0-0] The video starts with a black screen."
+    },
+    {
+        "second": 1,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EhjTon_f9jw/output_frames/sec_1_idx_18.jpg",
+        "fps": 60,
+        "explanation": "[0-5] A man in a green apron is leaning out of a second-floor window, holding a long pole. He's trying to knock down a beehive under the eaves with the pole. He knocks the beehive down and quickly throws away the pole, trying to close the window."
+    },
+    {
+        "second": 2,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EhjTon_f9jw/output_frames/sec_2_idx_9.jpg",
+        "fps": 60,
+        "explanation": "[0-5] A man in a green apron is leaning out of a second-floor window, holding a long pole. He's trying to knock down a beehive under the eaves with the pole. He knocks the beehive down and quickly throws away the pole, trying to close the window."
+    },
+    {
+        "second": 3,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EhjTon_f9jw/output_frames/sec_3_idx_11.jpg",
+        "fps": 60,
+        "explanation": "[0-5] A man in a green apron is leaning out of a second-floor window, holding a long pole. He's trying to knock down a beehive under the eaves with the pole. He knocks the beehive down and quickly throws away the pole, trying to close the window."
+    },
+    {
+        "second": 4,
+        "frame_index": 30,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EhjTon_f9jw/output_frames/sec_4_idx_30.jpg",
+        "fps": 60,
+        "explanation": "[0-5] A man in a green apron is leaning out of a second-floor window, holding a long pole. He's trying to knock down a beehive under the eaves with the pole. He knocks the beehive down and quickly throws away the pole, trying to close the window."
+    },
+    {
+        "second": 5,
+        "frame_index": 51,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EhjTon_f9jw/output_frames/sec_5_idx_51.jpg",
+        "fps": 60,
+        "explanation": "[0-5] A man in a green apron is leaning out of a second-floor window, holding a long pole. He's trying to knock down a beehive under the eaves with the pole. He knocks the beehive down and quickly throws away the pole, trying to close the window."
+    },
+    {
+        "second": 6,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EhjTon_f9jw/output_frames/sec_6_idx_25.jpg",
+        "fps": 60,
+        "explanation": "[5-10] At this moment, the window becomes loose and is pulled off by the man in the green apron. The window falls. The picture suddenly turns gray. The man in the green apron looks at the camera from the window with a dejected expression."
+    },
+    {
+        "second": 7,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EhjTon_f9jw/output_frames/sec_7_idx_2.jpg",
+        "fps": 60,
+        "explanation": "[5-10] At this moment, the window becomes loose and is pulled off by the man in the green apron. The window falls. The picture suddenly turns gray. The man in the green apron looks at the camera from the window with a dejected expression."
+    },
+    {
+        "second": 8,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EhjTon_f9jw/output_frames/sec_8_idx_2.jpg",
+        "fps": 60,
+        "explanation": "[5-10] At this moment, the window becomes loose and is pulled off by the man in the green apron. The window falls. The picture suddenly turns gray. The man in the green apron looks at the camera from the window with a dejected expression."
+    },
+    {
+        "second": 9,
+        "frame_index": 59,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EhjTon_f9jw/output_frames/sec_9_idx_59.jpg",
+        "fps": 60,
+        "explanation": "[5-10] At this moment, the window becomes loose and is pulled off by the man in the green apron. The window falls. The picture suddenly turns gray. The man in the green apron looks at the camera from the window with a dejected expression."
+    },
+    {
+        "second": 10,
+        "frame_index": 49,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EhjTon_f9jw/output_frames/sec_10_idx_49.jpg",
+        "fps": 60,
+        "explanation": "[5-10] At this moment, the window becomes loose and is pulled off by the man in the green apron. The window falls. The picture suddenly turns gray. The man in the green apron looks at the camera from the window with a dejected expression."
+    }
+]

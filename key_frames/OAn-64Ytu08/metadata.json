@@ -1,0 +1,170 @@
+[
+    {
+        "second": 0,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/OAn-64Ytu08/output_frames/sec_0_idx_0.jpg",
+        "fps": 24,
+        "explanation": "[0-0] Several turkeys are standing in the middle of the road. There are a few cars stopped on the road. One turkey is wearing a hat and holding a baton and a sign that says \"STOP.\""
+    },
+    {
+        "second": 1,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/OAn-64Ytu08/output_frames/sec_1_idx_21.jpg",
+        "fps": 24,
+        "explanation": "[0-9] At this moment, the turkey holding the sign is directing the other turkeys to cross the road."
+    },
+    {
+        "second": 2,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/OAn-64Ytu08/output_frames/sec_2_idx_22.jpg",
+        "fps": 24,
+        "explanation": "[0-9] At this moment, the turkey holding the sign is directing the other turkeys to cross the road."
+    },
+    {
+        "second": 3,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/OAn-64Ytu08/output_frames/sec_3_idx_0.jpg",
+        "fps": 24,
+        "explanation": "[0-9] At this moment, the turkey holding the sign is directing the other turkeys to cross the road."
+    },
+    {
+        "second": 4,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/OAn-64Ytu08/output_frames/sec_4_idx_18.jpg",
+        "fps": 24,
+        "explanation": "[0-9] At this moment, the turkey holding the sign is directing the other turkeys to cross the road."
+    },
+    {
+        "second": 5,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/OAn-64Ytu08/output_frames/sec_5_idx_17.jpg",
+        "fps": 24,
+        "explanation": "[0-9] At this moment, the turkey holding the sign is directing the other turkeys to cross the road."
+    },
+    {
+        "second": 6,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/OAn-64Ytu08/output_frames/sec_6_idx_18.jpg",
+        "fps": 24,
+        "explanation": "[0-9] At this moment, the turkey holding the sign is directing the other turkeys to cross the road."
+    },
+    {
+        "second": 7,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/OAn-64Ytu08/output_frames/sec_7_idx_5.jpg",
+        "fps": 24,
+        "explanation": "[0-9] At this moment, the turkey holding the sign is directing the other turkeys to cross the road."
+    },
+    {
+        "second": 8,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/OAn-64Ytu08/output_frames/sec_8_idx_6.jpg",
+        "fps": 24,
+        "explanation": "[0-9] At this moment, the turkey holding the sign is directing the other turkeys to cross the road."
+    },
+    {
+        "second": 9,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/OAn-64Ytu08/output_frames/sec_9_idx_10.jpg",
+        "fps": 24,
+        "explanation": "[0-9] At this moment, the turkey holding the sign is directing the other turkeys to cross the road."
+    },
+    {
+        "second": 10,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/OAn-64Ytu08/output_frames/sec_10_idx_10.jpg",
+        "fps": 24,
+        "explanation": "[9-18] Subsequently, the camera zooms in, and the directing turkey keeps urging the turkeys behind to hurry up and cross the road."
+    },
+    {
+        "second": 11,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/OAn-64Ytu08/output_frames/sec_11_idx_11.jpg",
+        "fps": 24,
+        "explanation": "[9-18] Subsequently, the camera zooms in, and the directing turkey keeps urging the turkeys behind to hurry up and cross the road."
+    },
+    {
+        "second": 12,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/OAn-64Ytu08/output_frames/sec_12_idx_19.jpg",
+        "fps": 24,
+        "explanation": "[9-18] Subsequently, the camera zooms in, and the directing turkey keeps urging the turkeys behind to hurry up and cross the road."
+    },
+    {
+        "second": 13,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/OAn-64Ytu08/output_frames/sec_13_idx_21.jpg",
+        "fps": 24,
+        "explanation": "[9-18] Subsequently, the camera zooms in, and the directing turkey keeps urging the turkeys behind to hurry up and cross the road."
+    },
+    {
+        "second": 14,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/OAn-64Ytu08/output_frames/sec_14_idx_0.jpg",
+        "fps": 24,
+        "explanation": "[9-18] Subsequently, the camera zooms in, and the directing turkey keeps urging the turkeys behind to hurry up and cross the road."
+    },
+    {
+        "second": 15,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/OAn-64Ytu08/output_frames/sec_15_idx_9.jpg",
+        "fps": 24,
+        "explanation": "[9-18] Subsequently, the camera zooms in, and the directing turkey keeps urging the turkeys behind to hurry up and cross the road."
+    },
+    {
+        "second": 16,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/OAn-64Ytu08/output_frames/sec_16_idx_12.jpg",
+        "fps": 24,
+        "explanation": "[9-18] Subsequently, the camera zooms in, and the directing turkey keeps urging the turkeys behind to hurry up and cross the road."
+    },
+    {
+        "second": 17,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/OAn-64Ytu08/output_frames/sec_17_idx_13.jpg",
+        "fps": 24,
+        "explanation": "[9-18] Subsequently, the camera zooms in, and the directing turkey keeps urging the turkeys behind to hurry up and cross the road."
+    },
+    {
+        "second": 18,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/OAn-64Ytu08/output_frames/sec_18_idx_10.jpg",
+        "fps": 24,
+        "explanation": "[9-18] Subsequently, the camera zooms in, and the directing turkey keeps urging the turkeys behind to hurry up and cross the road."
+    },
+    {
+        "second": 19,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/OAn-64Ytu08/output_frames/sec_19_idx_7.jpg",
+        "fps": 24,
+        "explanation": "[18-23] Immediately afterward, the directing turkey stares at the last turkey. There is a \"NO ENTRY\" sign on the directing turkey's tail. The directing turkey spins around, pointing its baton at the last turkey, and then the two turkeys quickly cross the road."
+    },
+    {
+        "second": 20,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/OAn-64Ytu08/output_frames/sec_20_idx_13.jpg",
+        "fps": 24,
+        "explanation": "[18-23] Immediately afterward, the directing turkey stares at the last turkey. There is a \"NO ENTRY\" sign on the directing turkey's tail. The directing turkey spins around, pointing its baton at the last turkey, and then the two turkeys quickly cross the road."
+    },
+    {
+        "second": 21,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/OAn-64Ytu08/output_frames/sec_21_idx_4.jpg",
+        "fps": 24,
+        "explanation": "[18-23] Immediately afterward, the directing turkey stares at the last turkey. There is a \"NO ENTRY\" sign on the directing turkey's tail. The directing turkey spins around, pointing its baton at the last turkey, and then the two turkeys quickly cross the road."
+    },
+    {
+        "second": 22,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/OAn-64Ytu08/output_frames/sec_22_idx_9.jpg",
+        "fps": 24,
+        "explanation": "[18-23] Immediately afterward, the directing turkey stares at the last turkey. There is a \"NO ENTRY\" sign on the directing turkey's tail. The directing turkey spins around, pointing its baton at the last turkey, and then the two turkeys quickly cross the road."
+    },
+    {
+        "second": 23,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/OAn-64Ytu08/output_frames/sec_23_idx_0.jpg",
+        "fps": 24,
+        "explanation": "[18-23] Immediately afterward, the directing turkey stares at the last turkey. There is a \"NO ENTRY\" sign on the directing turkey's tail. The directing turkey spins around, pointing its baton at the last turkey, and then the two turkeys quickly cross the road."
+    }
+]

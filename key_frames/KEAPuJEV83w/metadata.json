@@ -1,0 +1,51 @@
+[
+    {
+        "second": 0,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/KEAPuJEV83w/output_frames/sec_0_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A woman is standing in front of a large mirror in a room. She is wearing a white tank top and white tights, with a black belt around her waist. Her hair is blonde and loose over her shoulders. She has a smile on her face and her hands are raised, the mirror reflecting her back. The walls in the room are white and the floor is gray."
+    },
+    {
+        "second": 1,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/KEAPuJEV83w/output_frames/sec_1_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Then she puts her right hand on the wall and her left hand on her hair. Her left leg is straight, her right knee is slightly bent, and she is on tiptoe."
+    },
+    {
+        "second": 2,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/KEAPuJEV83w/output_frames/sec_2_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Then she puts her right hand on the wall and her left hand on her hair. Her left leg is straight, her right knee is slightly bent, and she is on tiptoe."
+    },
+    {
+        "second": 3,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/KEAPuJEV83w/output_frames/sec_3_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[2-6] Then she lifts her right leg and puts it on her left leg. Her right arm is straight, her right hand is on the wall, her left hand is on her chest, she has a smile on her face, and her eyes are looking forward. Then she looks up, then she lowers her right leg, stands with her legs apart, puts her left hand in her pants pocket. Then she twists her hips to the left, puts her right hand behind her head, and looks forward."
+    },
+    {
+        "second": 4,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/KEAPuJEV83w/output_frames/sec_4_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[2-6] Then she lifts her right leg and puts it on her left leg. Her right arm is straight, her right hand is on the wall, her left hand is on her chest, she has a smile on her face, and her eyes are looking forward. Then she looks up, then she lowers her right leg, stands with her legs apart, puts her left hand in her pants pocket. Then she twists her hips to the left, puts her right hand behind her head, and looks forward."
+    },
+    {
+        "second": 5,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/KEAPuJEV83w/output_frames/sec_5_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[2-6] Then she lifts her right leg and puts it on her left leg. Her right arm is straight, her right hand is on the wall, her left hand is on her chest, she has a smile on her face, and her eyes are looking forward. Then she looks up, then she lowers her right leg, stands with her legs apart, puts her left hand in her pants pocket. Then she twists her hips to the left, puts her right hand behind her head, and looks forward."
+    },
+    {
+        "second": 6,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/KEAPuJEV83w/output_frames/sec_6_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[2-6] Then she lifts her right leg and puts it on her left leg. Her right arm is straight, her right hand is on the wall, her left hand is on her chest, she has a smile on her face, and her eyes are looking forward. Then she looks up, then she lowers her right leg, stands with her legs apart, puts her left hand in her pants pocket. Then she twists her hips to the left, puts her right hand behind her head, and looks forward."
+    }
+]

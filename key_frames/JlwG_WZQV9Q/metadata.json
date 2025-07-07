@@ -1,0 +1,72 @@
+[
+    {
+        "second": 0,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JlwG_WZQV9Q/output_frames/sec_0_idx_8.jpg",
+        "fps": 24,
+        "explanation": "[0-0] The screen is divided into upper and lower parts. The upper part shows a woman in a black top sitting on a wheeled device, holding a camera. A bald man with his right hand on the ground is lying on the device. A person in black clothes is behind them. The subtitle \"BTS\" is in the lower left corner of the upper part. The lower part shows a severed hand with white cars in the distance. The subtitle \"The scene\" is in the upper left corner."
+    },
+    {
+        "second": 1,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JlwG_WZQV9Q/output_frames/sec_1_idx_9.jpg",
+        "fps": 24,
+        "explanation": "[0-2] The upper part remains still, while in the lower part, the severed hand crawls forward by moving its fingers. Vehicles are driving outside the door."
+    },
+    {
+        "second": 2,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JlwG_WZQV9Q/output_frames/sec_2_idx_21.jpg",
+        "fps": 24,
+        "explanation": "[0-2] The upper part remains still, while in the lower part, the severed hand crawls forward by moving its fingers. Vehicles are driving outside the door."
+    },
+    {
+        "second": 3,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JlwG_WZQV9Q/output_frames/sec_3_idx_3.jpg",
+        "fps": 24,
+        "explanation": "[2-4] The upper part then switches to a bald man in a blue shirt lying by the door frame and extending his right hand, with a hand holding a camera filming on the left. The severed hand in the lower part crawls into a place with people."
+    },
+    {
+        "second": 4,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JlwG_WZQV9Q/output_frames/sec_4_idx_2.jpg",
+        "fps": 24,
+        "explanation": "[2-4] The upper part then switches to a bald man in a blue shirt lying by the door frame and extending his right hand, with a hand holding a camera filming on the left. The severed hand in the lower part crawls into a place with people."
+    },
+    {
+        "second": 5,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JlwG_WZQV9Q/output_frames/sec_5_idx_19.jpg",
+        "fps": 24,
+        "explanation": "[4-9] Then the upper part switches to a person wearing a blue shirt and a blue mask squatting next to a girl in a school uniform. The girl turns her head to the left. There are filming equipment and cars around them. The severed hand in the lower part crawls back on the girl's shoulder, and the girl's eyes turn to look forward. There are pedestrians behind her."
+    },
+    {
+        "second": 6,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JlwG_WZQV9Q/output_frames/sec_6_idx_18.jpg",
+        "fps": 24,
+        "explanation": "[4-9] Then the upper part switches to a person wearing a blue shirt and a blue mask squatting next to a girl in a school uniform. The girl turns her head to the left. There are filming equipment and cars around them. The severed hand in the lower part crawls back on the girl's shoulder, and the girl's eyes turn to look forward. There are pedestrians behind her."
+    },
+    {
+        "second": 7,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JlwG_WZQV9Q/output_frames/sec_7_idx_1.jpg",
+        "fps": 24,
+        "explanation": "[4-9] Then the upper part switches to a person wearing a blue shirt and a blue mask squatting next to a girl in a school uniform. The girl turns her head to the left. There are filming equipment and cars around them. The severed hand in the lower part crawls back on the girl's shoulder, and the girl's eyes turn to look forward. There are pedestrians behind her."
+    },
+    {
+        "second": 8,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JlwG_WZQV9Q/output_frames/sec_8_idx_14.jpg",
+        "fps": 24,
+        "explanation": "[4-9] Then the upper part switches to a person wearing a blue shirt and a blue mask squatting next to a girl in a school uniform. The girl turns her head to the left. There are filming equipment and cars around them. The severed hand in the lower part crawls back on the girl's shoulder, and the girl's eyes turn to look forward. There are pedestrians behind her."
+    },
+    {
+        "second": 9,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/JlwG_WZQV9Q/output_frames/sec_9_idx_0.jpg",
+        "fps": 24,
+        "explanation": "[4-9] Then the upper part switches to a person wearing a blue shirt and a blue mask squatting next to a girl in a school uniform. The girl turns her head to the left. There are filming equipment and cars around them. The severed hand in the lower part crawls back on the girl's shoulder, and the girl's eyes turn to look forward. There are pedestrians behind her."
+    }
+]

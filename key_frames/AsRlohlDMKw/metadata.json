@@ -1,0 +1,58 @@
+[
+    {
+        "second": 0,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AsRlohlDMKw/output_frames/sec_0_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A yellow, square cartoon character stands on a small wooden stool between two buckets full of snacks. The bucket on the left is filled with brown balls, and the one on the right is filled with flat, gold, coin-shaped food. The cartoon character looks happy and has one hand on the left bucket. There is a blue door in the background."
+    },
+    {
+        "second": 1,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AsRlohlDMKw/output_frames/sec_1_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[0-3] The cartoon character continuously alternates between taking snacks from the left and right buckets to eat. Then, the camera zooms in on the bucket filled with brown balls, and then zooms in again on the bucket filled with flat gold food, while the yellow cartoon character's hand continues to grab the contents."
+    },
+    {
+        "second": 2,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AsRlohlDMKw/output_frames/sec_2_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[0-3] The cartoon character continuously alternates between taking snacks from the left and right buckets to eat. Then, the camera zooms in on the bucket filled with brown balls, and then zooms in again on the bucket filled with flat gold food, while the yellow cartoon character's hand continues to grab the contents."
+    },
+    {
+        "second": 3,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AsRlohlDMKw/output_frames/sec_3_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[0-3] The cartoon character continuously alternates between taking snacks from the left and right buckets to eat. Then, the camera zooms in on the bucket filled with brown balls, and then zooms in again on the bucket filled with flat gold food, while the yellow cartoon character's hand continues to grab the contents."
+    },
+    {
+        "second": 4,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AsRlohlDMKw/output_frames/sec_4_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[3-5] The camera then zooms in on the yellow cartoon character's mouth as it continuously opens and closes. The scene switches to a grassy field with several trees. A yellow cheese man with hair is standing next to two animals, a cow and a sheep, both with buckets in front of their hindquarters. The sheep is continuously pulling brown balls into its bucket, while the cow is continuously pulling flat, gold, coin-shaped objects into its bucket."
+    },
+    {
+        "second": 5,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AsRlohlDMKw/output_frames/sec_5_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[3-5] The camera then zooms in on the yellow cartoon character's mouth as it continuously opens and closes. The scene switches to a grassy field with several trees. A yellow cheese man with hair is standing next to two animals, a cow and a sheep, both with buckets in front of their hindquarters. The sheep is continuously pulling brown balls into its bucket, while the cow is continuously pulling flat, gold, coin-shaped objects into its bucket."
+    },
+    {
+        "second": 6,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AsRlohlDMKw/output_frames/sec_6_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[5-7] Finally, the scene switches back to the yellow square cartoon character and the two snack buckets. The yellow cartoon character is pointing at their mouth, tears streaming down their face, tongue wagging up and down."
+    },
+    {
+        "second": 7,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AsRlohlDMKw/output_frames/sec_7_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[5-7] Finally, the scene switches back to the yellow square cartoon character and the two snack buckets. The yellow cartoon character is pointing at their mouth, tears streaming down their face, tongue wagging up and down."
+    }
+]

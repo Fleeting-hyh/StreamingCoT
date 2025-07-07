@@ -1,0 +1,44 @@
+[
+    {
+        "second": 0,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FrDS2T7BjaE/output_frames/sec_0_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[0-0] In a bright and spacious room, a woman in a khaki dress is sitting on a chair on the right side, facing left. A baby in a white shirt is on her lap, eyes closed, with its head resting on the woman's arms. The woman is looking at the baby. The room is simply decorated with an abstract painting in the background."
+    },
+    {
+        "second": 1,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FrDS2T7BjaE/output_frames/sec_1_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[0-2] The woman pats the baby's back with her right hand. The chair is a hanging chair that swings slightly. As the chair swings, the woman faces forward, smiling at the baby."
+    },
+    {
+        "second": 2,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FrDS2T7BjaE/output_frames/sec_2_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-2] The woman pats the baby's back with her right hand. The chair is a hanging chair that swings slightly. As the chair swings, the woman faces forward, smiling at the baby."
+    },
+    {
+        "second": 3,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FrDS2T7BjaE/output_frames/sec_3_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[2-5] Finally, the camera zooms in. The woman continues to pat the baby's back with her right hand. The baby, still with its eyes closed, sits on the woman's lap."
+    },
+    {
+        "second": 4,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FrDS2T7BjaE/output_frames/sec_4_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[2-5] Finally, the camera zooms in. The woman continues to pat the baby's back with her right hand. The baby, still with its eyes closed, sits on the woman's lap."
+    },
+    {
+        "second": 5,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FrDS2T7BjaE/output_frames/sec_5_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[2-5] Finally, the camera zooms in. The woman continues to pat the baby's back with her right hand. The baby, still with its eyes closed, sits on the woman's lap."
+    }
+]

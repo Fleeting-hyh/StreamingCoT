@@ -1,0 +1,100 @@
+[
+    {
+        "second": 0,
+        "frame_index": 43,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Fz5mqeUiRyU/output_frames/sec_0_idx_43.jpg",
+        "fps": 50,
+        "explanation": "[0-0] A woman in brown clothes is in a room decorated like a fireplace, holding stones in her hands. The background is a brick wall, an arched doorway, and a wooden cabinet. There is a row of emojis above her head, with a large number \"3\" in the middle."
+    },
+    {
+        "second": 1,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Fz5mqeUiRyU/output_frames/sec_1_idx_17.jpg",
+        "fps": 50,
+        "explanation": "[0-2] The \"3\" in the screen changes to \"2\", \"1\" and \"GO\" in sequence, and the woman is still holding two stones."
+    },
+    {
+        "second": 2,
+        "frame_index": 43,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Fz5mqeUiRyU/output_frames/sec_2_idx_43.jpg",
+        "fps": 50,
+        "explanation": "[0-2] The \"3\" in the screen changes to \"2\", \"1\" and \"GO\" in sequence, and the woman is still holding two stones."
+    },
+    {
+        "second": 3,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Fz5mqeUiRyU/output_frames/sec_3_idx_0.jpg",
+        "fps": 50,
+        "explanation": "[2-5] Then the woman rubs the two stones a couple of times, sparking. Then she throws away the stones, holding a box of matches and a matchstick, striking the matchstick and holding it in her hand, saying something."
+    },
+    {
+        "second": 4,
+        "frame_index": 46,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Fz5mqeUiRyU/output_frames/sec_4_idx_46.jpg",
+        "fps": 50,
+        "explanation": "[2-5] Then the woman rubs the two stones a couple of times, sparking. Then she throws away the stones, holding a box of matches and a matchstick, striking the matchstick and holding it in her hand, saying something."
+    },
+    {
+        "second": 5,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Fz5mqeUiRyU/output_frames/sec_5_idx_2.jpg",
+        "fps": 50,
+        "explanation": "[2-5] Then the woman rubs the two stones a couple of times, sparking. Then she throws away the stones, holding a box of matches and a matchstick, striking the matchstick and holding it in her hand, saying something."
+    },
+    {
+        "second": 6,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Fz5mqeUiRyU/output_frames/sec_6_idx_16.jpg",
+        "fps": 50,
+        "explanation": "[5-7] Subsequently, the woman holds a lit blowtorch in one hand and shakes both hands up and down."
+    },
+    {
+        "second": 7,
+        "frame_index": 41,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Fz5mqeUiRyU/output_frames/sec_7_idx_41.jpg",
+        "fps": 50,
+        "explanation": "[5-7] Subsequently, the woman holds a lit blowtorch in one hand and shakes both hands up and down."
+    },
+    {
+        "second": 8,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Fz5mqeUiRyU/output_frames/sec_8_idx_28.jpg",
+        "fps": 50,
+        "explanation": "[7-9] Next, the woman holds a lit sparkler in each hand and smiles happily."
+    },
+    {
+        "second": 9,
+        "frame_index": 49,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Fz5mqeUiRyU/output_frames/sec_9_idx_49.jpg",
+        "fps": 50,
+        "explanation": "[7-9] Next, the woman holds a lit sparkler in each hand and smiles happily."
+    },
+    {
+        "second": 10,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Fz5mqeUiRyU/output_frames/sec_10_idx_26.jpg",
+        "fps": 50,
+        "explanation": "[9-11] Then the woman ignites a flame in one hand and places the other hand on the table, then she holds a burning red candle."
+    },
+    {
+        "second": 11,
+        "frame_index": 45,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Fz5mqeUiRyU/output_frames/sec_11_idx_45.jpg",
+        "fps": 50,
+        "explanation": "[9-11] Then the woman ignites a flame in one hand and places the other hand on the table, then she holds a burning red candle."
+    },
+    {
+        "second": 12,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Fz5mqeUiRyU/output_frames/sec_12_idx_0.jpg",
+        "fps": 50,
+        "explanation": "[11-13] Finally, the candle the woman is holding is blown out by a gust of wind and disappears. A red fire extinguisher appears next to her, and she turns around in surprise."
+    },
+    {
+        "second": 13,
+        "frame_index": 42,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Fz5mqeUiRyU/output_frames/sec_13_idx_42.jpg",
+        "fps": 50,
+        "explanation": "[11-13] Finally, the candle the woman is holding is blown out by a gust of wind and disappears. A red fire extinguisher appears next to her, and she turns around in surprise."
+    }
+]

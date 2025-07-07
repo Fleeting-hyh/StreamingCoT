@@ -1,0 +1,79 @@
+[
+    {
+        "second": 0,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/69U2tlE_XRM/output_frames/sec_0_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[0-0] An orange bus appears at the bottom of the screen, its eyes looking upwards. Above the bus, there are an eye pattern, a pumpkin lantern pattern, and a ghost pattern, in that order. The background behind the bus is filled with many blue stars and a yellow moon."
+    },
+    {
+        "second": 1,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/69U2tlE_XRM/output_frames/sec_1_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[0-2] The eye pattern starts to blink, followed by the ghost pattern. The bus looks in the direction of the ghost. Next, the pumpkin pattern starts to blink, and the bus raises its head, smiles, and opens its mouth to look at the pumpkin."
+    },
+    {
+        "second": 2,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/69U2tlE_XRM/output_frames/sec_2_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[0-2] The eye pattern starts to blink, followed by the ghost pattern. The bus looks in the direction of the ghost. Next, the pumpkin pattern starts to blink, and the bus raises its head, smiles, and opens its mouth to look at the pumpkin."
+    },
+    {
+        "second": 3,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/69U2tlE_XRM/output_frames/sec_3_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[2-6] Afterwards, the eye pattern starts to blink again, and the bus looks up in that direction. Then, the ghost blinks again, and the bus looks over. Soon, it's the pumpkin pattern's turn to blink, and the bus turns its head to look."
+    },
+    {
+        "second": 4,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/69U2tlE_XRM/output_frames/sec_4_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[2-6] Afterwards, the eye pattern starts to blink again, and the bus looks up in that direction. Then, the ghost blinks again, and the bus looks over. Soon, it's the pumpkin pattern's turn to blink, and the bus turns its head to look."
+    },
+    {
+        "second": 5,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/69U2tlE_XRM/output_frames/sec_5_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[2-6] Afterwards, the eye pattern starts to blink again, and the bus looks up in that direction. Then, the ghost blinks again, and the bus looks over. Soon, it's the pumpkin pattern's turn to blink, and the bus turns its head to look."
+    },
+    {
+        "second": 6,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/69U2tlE_XRM/output_frames/sec_6_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[2-6] Afterwards, the eye pattern starts to blink again, and the bus looks up in that direction. Then, the ghost blinks again, and the bus looks over. Soon, it's the pumpkin pattern's turn to blink, and the bus turns its head to look."
+    },
+    {
+        "second": 7,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/69U2tlE_XRM/output_frames/sec_7_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[6-11] Finally, the bus looks at the no longer blinking pumpkin pattern with a puzzled expression as a yellow light appears on it. A pumpkin headcover appears on the bus's head, and yellow stars appear on its cheeks. The bus blinks happily and smiles at the screen."
+    },
+    {
+        "second": 8,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/69U2tlE_XRM/output_frames/sec_8_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[6-11] Finally, the bus looks at the no longer blinking pumpkin pattern with a puzzled expression as a yellow light appears on it. A pumpkin headcover appears on the bus's head, and yellow stars appear on its cheeks. The bus blinks happily and smiles at the screen."
+    },
+    {
+        "second": 9,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/69U2tlE_XRM/output_frames/sec_9_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[6-11] Finally, the bus looks at the no longer blinking pumpkin pattern with a puzzled expression as a yellow light appears on it. A pumpkin headcover appears on the bus's head, and yellow stars appear on its cheeks. The bus blinks happily and smiles at the screen."
+    },
+    {
+        "second": 10,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/69U2tlE_XRM/output_frames/sec_10_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[6-11] Finally, the bus looks at the no longer blinking pumpkin pattern with a puzzled expression as a yellow light appears on it. A pumpkin headcover appears on the bus's head, and yellow stars appear on its cheeks. The bus blinks happily and smiles at the screen."
+    }
+]

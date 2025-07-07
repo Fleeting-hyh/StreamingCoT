@@ -1,0 +1,65 @@
+[
+    {
+        "second": 0,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4IhcDqQrejQ/output_frames/sec_0_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A woman with long hair and two little girls are outdoors, smiling at the front. Houses and greenery can be seen in the picture, with an orange line at the top."
+    },
+    {
+        "second": 1,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4IhcDqQrejQ/output_frames/sec_1_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[0-3] As the orange line moves down, a cartoon effect begins to appear at the top of the picture. The woman's face begins to transform into a cartoon style."
+    },
+    {
+        "second": 2,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4IhcDqQrejQ/output_frames/sec_2_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[0-3] As the orange line moves down, a cartoon effect begins to appear at the top of the picture. The woman's face begins to transform into a cartoon style."
+    },
+    {
+        "second": 3,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4IhcDqQrejQ/output_frames/sec_3_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[0-3] As the orange line moves down, a cartoon effect begins to appear at the top of the picture. The woman's face begins to transform into a cartoon style."
+    },
+    {
+        "second": 4,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4IhcDqQrejQ/output_frames/sec_4_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[3-6] Then the woman's face is completely cartoonized, and the face of the little girl with long hair begins to transform into a cartoon style. The face of the little girl with short hair at the bottom of the picture remains the same. The woman and her eldest daughter, who has been cartoonized, continue to smile at the top of the picture."
+    },
+    {
+        "second": 5,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4IhcDqQrejQ/output_frames/sec_5_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[3-6] Then the woman's face is completely cartoonized, and the face of the little girl with long hair begins to transform into a cartoon style. The face of the little girl with short hair at the bottom of the picture remains the same. The woman and her eldest daughter, who has been cartoonized, continue to smile at the top of the picture."
+    },
+    {
+        "second": 6,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4IhcDqQrejQ/output_frames/sec_6_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[3-6] Then the woman's face is completely cartoonized, and the face of the little girl with long hair begins to transform into a cartoon style. The face of the little girl with short hair at the bottom of the picture remains the same. The woman and her eldest daughter, who has been cartoonized, continue to smile at the top of the picture."
+    },
+    {
+        "second": 7,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4IhcDqQrejQ/output_frames/sec_7_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[6-8] Finally, the faces of all three people in the picture have been cartoonized, and they are still smiling at the camera."
+    },
+    {
+        "second": 8,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4IhcDqQrejQ/output_frames/sec_8_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[6-8] Finally, the faces of all three people in the picture have been cartoonized, and they are still smiling at the camera."
+    }
+]

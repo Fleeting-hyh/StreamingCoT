@@ -1,0 +1,37 @@
+[
+    {
+        "second": 0,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/H2hZ5uW9N2A/output_frames/sec_0_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A Barbie doll in a pink top stands in front of a colorful wall, holding her belly with both hands. To the left of the Barbie doll in the pink top is a pink suitcase."
+    },
+    {
+        "second": 1,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/H2hZ5uW9N2A/output_frames/sec_1_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Subsequently, the Barbie doll in the pink top rubs her belly with both hands, and then a baby doll in a white diaper falls to the ground from her belly."
+    },
+    {
+        "second": 2,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/H2hZ5uW9N2A/output_frames/sec_2_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Subsequently, the Barbie doll in the pink top rubs her belly with both hands, and then a baby doll in a white diaper falls to the ground from her belly."
+    },
+    {
+        "second": 3,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/H2hZ5uW9N2A/output_frames/sec_3_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Subsequently, the Barbie doll in the pink top rubs her belly with both hands, and then a baby doll in a white diaper falls to the ground from her belly."
+    },
+    {
+        "second": 4,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/H2hZ5uW9N2A/output_frames/sec_4_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Subsequently, the Barbie doll in the pink top rubs her belly with both hands, and then a baby doll in a white diaper falls to the ground from her belly."
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "second": 0,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/N3CdR7JUzKA/output_frames/sec_0_idx_10.jpg",
+        "fps": 24,
+        "explanation": "[0-0] In a brightly colored room, there are three cribs. In each crib lies an unusual baby: a zombie baby, a skeleton baby, and a purple-skinned baby. A purple-skinned character stands in front of the cribs, holding a green syringe in their left hand and a blue syringe in their right hand."
+    },
+    {
+        "second": 1,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/N3CdR7JUzKA/output_frames/sec_1_idx_23.jpg",
+        "fps": 24,
+        "explanation": "[0-4] The purple-skinned character then begins to feed the middle skeleton baby with the blue liquid from the syringe. After feeding the skeleton baby, the purple-skinned character raises the green syringe in their left hand and feeds the zombie baby on the left. After feeding the zombie baby, the purple-skinned character points the blue syringe at the purple baby on the right and feeds it the liquid."
+    },
+    {
+        "second": 2,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/N3CdR7JUzKA/output_frames/sec_2_idx_17.jpg",
+        "fps": 24,
+        "explanation": "[0-4] The purple-skinned character then begins to feed the middle skeleton baby with the blue liquid from the syringe. After feeding the skeleton baby, the purple-skinned character raises the green syringe in their left hand and feeds the zombie baby on the left. After feeding the zombie baby, the purple-skinned character points the blue syringe at the purple baby on the right and feeds it the liquid."
+    },
+    {
+        "second": 3,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/N3CdR7JUzKA/output_frames/sec_3_idx_10.jpg",
+        "fps": 24,
+        "explanation": "[0-4] The purple-skinned character then begins to feed the middle skeleton baby with the blue liquid from the syringe. After feeding the skeleton baby, the purple-skinned character raises the green syringe in their left hand and feeds the zombie baby on the left. After feeding the zombie baby, the purple-skinned character points the blue syringe at the purple baby on the right and feeds it the liquid."
+    },
+    {
+        "second": 4,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/N3CdR7JUzKA/output_frames/sec_4_idx_10.jpg",
+        "fps": 24,
+        "explanation": "[0-4] The purple-skinned character then begins to feed the middle skeleton baby with the blue liquid from the syringe. After feeding the skeleton baby, the purple-skinned character raises the green syringe in their left hand and feeds the zombie baby on the left. After feeding the zombie baby, the purple-skinned character points the blue syringe at the purple baby on the right and feeds it the liquid."
+    },
+    {
+        "second": 5,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/N3CdR7JUzKA/output_frames/sec_5_idx_20.jpg",
+        "fps": 24,
+        "explanation": "[4-9] The purple-skinned character then feeds the three babies in turn, starting with the skeleton baby, then the zombie baby, and finally the purple baby. During the feeding process, affected by the liquid in the syringe, the babies' expressions and movements change: they open their mouths wide, wave their hands upwards, and kick their feet upwards randomly. Afterwards, the purple-skinned character continues to repeat the action of feeding the babies, and the three babies also cycle through their previous reactions."
+    },
+    {
+        "second": 6,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/N3CdR7JUzKA/output_frames/sec_6_idx_21.jpg",
+        "fps": 24,
+        "explanation": "[4-9] The purple-skinned character then feeds the three babies in turn, starting with the skeleton baby, then the zombie baby, and finally the purple baby. During the feeding process, affected by the liquid in the syringe, the babies' expressions and movements change: they open their mouths wide, wave their hands upwards, and kick their feet upwards randomly. Afterwards, the purple-skinned character continues to repeat the action of feeding the babies, and the three babies also cycle through their previous reactions."
+    },
+    {
+        "second": 7,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/N3CdR7JUzKA/output_frames/sec_7_idx_14.jpg",
+        "fps": 24,
+        "explanation": "[4-9] The purple-skinned character then feeds the three babies in turn, starting with the skeleton baby, then the zombie baby, and finally the purple baby. During the feeding process, affected by the liquid in the syringe, the babies' expressions and movements change: they open their mouths wide, wave their hands upwards, and kick their feet upwards randomly. Afterwards, the purple-skinned character continues to repeat the action of feeding the babies, and the three babies also cycle through their previous reactions."
+    },
+    {
+        "second": 8,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/N3CdR7JUzKA/output_frames/sec_8_idx_16.jpg",
+        "fps": 24,
+        "explanation": "[4-9] The purple-skinned character then feeds the three babies in turn, starting with the skeleton baby, then the zombie baby, and finally the purple baby. During the feeding process, affected by the liquid in the syringe, the babies' expressions and movements change: they open their mouths wide, wave their hands upwards, and kick their feet upwards randomly. Afterwards, the purple-skinned character continues to repeat the action of feeding the babies, and the three babies also cycle through their previous reactions."
+    },
+    {
+        "second": 9,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/N3CdR7JUzKA/output_frames/sec_9_idx_2.jpg",
+        "fps": 24,
+        "explanation": "[4-9] The purple-skinned character then feeds the three babies in turn, starting with the skeleton baby, then the zombie baby, and finally the purple baby. During the feeding process, affected by the liquid in the syringe, the babies' expressions and movements change: they open their mouths wide, wave their hands upwards, and kick their feet upwards randomly. Afterwards, the purple-skinned character continues to repeat the action of feeding the babies, and the three babies also cycle through their previous reactions."
+    }
+]

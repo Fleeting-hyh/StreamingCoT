@@ -1,0 +1,86 @@
+[
+    {
+        "second": 0,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RsEcGqPnUvQ/output_frames/sec_0_idx_5.jpg",
+        "fps": 25,
+        "explanation": "[0-0] A man in a green tracksuit with the number \"001\" on the back stands on the left side of the frame in a running posture. The background of the frame is the Squid Game scene, with a giant robot doll standing next to a tree, a red light on, and many people in green tracksuits lying on the ground. The screen displays a white caption at the top: Genius cheat code to win Squid Game..., a girl's avatar, and traffic lights."
+    },
+    {
+        "second": 1,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RsEcGqPnUvQ/output_frames/sec_1_idx_0.jpg",
+        "fps": 25,
+        "explanation": "[0-3] Then the man holds the running posture still."
+    },
+    {
+        "second": 2,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RsEcGqPnUvQ/output_frames/sec_2_idx_24.jpg",
+        "fps": 25,
+        "explanation": "[0-3] Then the man holds the running posture still."
+    },
+    {
+        "second": 3,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RsEcGqPnUvQ/output_frames/sec_3_idx_12.jpg",
+        "fps": 25,
+        "explanation": "[0-3] Then the man holds the running posture still."
+    },
+    {
+        "second": 4,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RsEcGqPnUvQ/output_frames/sec_4_idx_21.jpg",
+        "fps": 25,
+        "explanation": "[3-11] After that, the man speaks, glances to the side with a smile, and then runs toward the robot doll, stepping over a person in school uniform lying on the ground."
+    },
+    {
+        "second": 5,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RsEcGqPnUvQ/output_frames/sec_5_idx_0.jpg",
+        "fps": 25,
+        "explanation": "[3-11] After that, the man speaks, glances to the side with a smile, and then runs toward the robot doll, stepping over a person in school uniform lying on the ground."
+    },
+    {
+        "second": 6,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RsEcGqPnUvQ/output_frames/sec_6_idx_23.jpg",
+        "fps": 25,
+        "explanation": "[3-11] After that, the man speaks, glances to the side with a smile, and then runs toward the robot doll, stepping over a person in school uniform lying on the ground."
+    },
+    {
+        "second": 7,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RsEcGqPnUvQ/output_frames/sec_7_idx_24.jpg",
+        "fps": 25,
+        "explanation": "[3-11] After that, the man speaks, glances to the side with a smile, and then runs toward the robot doll, stepping over a person in school uniform lying on the ground."
+    },
+    {
+        "second": 8,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RsEcGqPnUvQ/output_frames/sec_8_idx_14.jpg",
+        "fps": 25,
+        "explanation": "[3-11] After that, the man speaks, glances to the side with a smile, and then runs toward the robot doll, stepping over a person in school uniform lying on the ground."
+    },
+    {
+        "second": 9,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RsEcGqPnUvQ/output_frames/sec_9_idx_19.jpg",
+        "fps": 25,
+        "explanation": "[3-11] After that, the man speaks, glances to the side with a smile, and then runs toward the robot doll, stepping over a person in school uniform lying on the ground."
+    },
+    {
+        "second": 10,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RsEcGqPnUvQ/output_frames/sec_10_idx_21.jpg",
+        "fps": 25,
+        "explanation": "[3-11] After that, the man speaks, glances to the side with a smile, and then runs toward the robot doll, stepping over a person in school uniform lying on the ground."
+    },
+    {
+        "second": 11,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RsEcGqPnUvQ/output_frames/sec_11_idx_0.jpg",
+        "fps": 25,
+        "explanation": "[3-11] After that, the man speaks, glances to the side with a smile, and then runs toward the robot doll, stepping over a person in school uniform lying on the ground."
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "second": 0,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QPNiF-ouaSU/output_frames/sec_0_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A woman with long hair wearing a black and white bikini, a safety leash around her waist, her left hand pulling a kiteboard, and both feet on a colorful surfboard, sits on the beach, smiling and looking towards a yellow drink on the sand to her right. The background is a blue sea connecting with the blue sky dotted with clusters of white clouds."
+    },
+    {
+        "second": 1,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QPNiF-ouaSU/output_frames/sec_1_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[0-9] The woman smiles and raises the drink with her right hand, taking a sip. The kiteboard begins to move with the wind. She puts down the drink and pulls the board with both hands. Then she flies up and lands on the sea. At this time, on the beach in front of the camera, a leg is stretched out on the sand."
+    },
+    {
+        "second": 2,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QPNiF-ouaSU/output_frames/sec_2_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[0-9] The woman smiles and raises the drink with her right hand, taking a sip. The kiteboard begins to move with the wind. She puts down the drink and pulls the board with both hands. Then she flies up and lands on the sea. At this time, on the beach in front of the camera, a leg is stretched out on the sand."
+    },
+    {
+        "second": 3,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QPNiF-ouaSU/output_frames/sec_3_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[0-9] The woman smiles and raises the drink with her right hand, taking a sip. The kiteboard begins to move with the wind. She puts down the drink and pulls the board with both hands. Then she flies up and lands on the sea. At this time, on the beach in front of the camera, a leg is stretched out on the sand."
+    },
+    {
+        "second": 4,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QPNiF-ouaSU/output_frames/sec_4_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[0-9] The woman smiles and raises the drink with her right hand, taking a sip. The kiteboard begins to move with the wind. She puts down the drink and pulls the board with both hands. Then she flies up and lands on the sea. At this time, on the beach in front of the camera, a leg is stretched out on the sand."
+    },
+    {
+        "second": 5,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QPNiF-ouaSU/output_frames/sec_5_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[0-9] The woman smiles and raises the drink with her right hand, taking a sip. The kiteboard begins to move with the wind. She puts down the drink and pulls the board with both hands. Then she flies up and lands on the sea. At this time, on the beach in front of the camera, a leg is stretched out on the sand."
+    },
+    {
+        "second": 6,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QPNiF-ouaSU/output_frames/sec_6_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[0-9] The woman smiles and raises the drink with her right hand, taking a sip. The kiteboard begins to move with the wind. She puts down the drink and pulls the board with both hands. Then she flies up and lands on the sea. At this time, on the beach in front of the camera, a leg is stretched out on the sand."
+    },
+    {
+        "second": 7,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QPNiF-ouaSU/output_frames/sec_7_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-9] The woman smiles and raises the drink with her right hand, taking a sip. The kiteboard begins to move with the wind. She puts down the drink and pulls the board with both hands. Then she flies up and lands on the sea. At this time, on the beach in front of the camera, a leg is stretched out on the sand."
+    },
+    {
+        "second": 8,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QPNiF-ouaSU/output_frames/sec_8_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-9] The woman smiles and raises the drink with her right hand, taking a sip. The kiteboard begins to move with the wind. She puts down the drink and pulls the board with both hands. Then she flies up and lands on the sea. At this time, on the beach in front of the camera, a leg is stretched out on the sand."
+    },
+    {
+        "second": 9,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QPNiF-ouaSU/output_frames/sec_9_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-9] The woman smiles and raises the drink with her right hand, taking a sip. The kiteboard begins to move with the wind. She puts down the drink and pulls the board with both hands. Then she flies up and lands on the sea. At this time, on the beach in front of the camera, a leg is stretched out on the sand."
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "second": 0,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/72MoVpUE4b0/output_frames/sec_0_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-0] In a room with white walls, a man with an exaggerated expression is staring wide-eyed, holding blue handles in his hands and looking forward. He is wearing a red hoodie. On the left side, there is white text \"Tik Tok @mercuri 88,\" with the \"Tik Tok\" logo above it and a yellow background with black text \"Mercuri 88 Official Channel\" below it."
+    },
+    {
+        "second": 1,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/72MoVpUE4b0/output_frames/sec_1_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[0-2] The man's hair is flying. The scene changes to a PlayStation on a table, shaking up and down. There is also a power strip plugged with wires on the table."
+    },
+    {
+        "second": 2,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/72MoVpUE4b0/output_frames/sec_2_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[0-2] The man's hair is flying. The scene changes to a PlayStation on a table, shaking up and down. There is also a power strip plugged with wires on the table."
+    },
+    {
+        "second": 3,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/72MoVpUE4b0/output_frames/sec_3_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[2-4] Then, the scene changes to a doorway with posters on the wall. A person wearing a long blonde wig and a blue robe walks into the room holding a frying pan. The camera zooms in on the face of the man with the exaggerated expression."
+    },
+    {
+        "second": 4,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/72MoVpUE4b0/output_frames/sec_4_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[2-4] Then, the scene changes to a doorway with posters on the wall. A person wearing a long blonde wig and a blue robe walks into the room holding a frying pan. The camera zooms in on the face of the man with the exaggerated expression."
+    },
+    {
+        "second": 5,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/72MoVpUE4b0/output_frames/sec_5_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[4-6] Subsequently, the scene shifts to the person with the wig placing the frying pan on top of the PlayStation. There are some tools and photos hanging on the wall to his right. The shot cuts back to the man with the exaggerated expression looking to the left."
+    },
+    {
+        "second": 6,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/72MoVpUE4b0/output_frames/sec_6_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[4-6] Subsequently, the scene shifts to the person with the wig placing the frying pan on top of the PlayStation. There are some tools and photos hanging on the wall to his right. The shot cuts back to the man with the exaggerated expression looking to the left."
+    },
+    {
+        "second": 7,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/72MoVpUE4b0/output_frames/sec_7_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[6-9] After that, the scene changes to the person with the wig cracking an egg into the frying pan on the PlayStation. The camera cuts to the man with exaggerated expressions, who is staring wide-eyed to the left."
+    },
+    {
+        "second": 8,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/72MoVpUE4b0/output_frames/sec_8_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[6-9] After that, the scene changes to the person with the wig cracking an egg into the frying pan on the PlayStation. The camera cuts to the man with exaggerated expressions, who is staring wide-eyed to the left."
+    },
+    {
+        "second": 9,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/72MoVpUE4b0/output_frames/sec_9_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[6-9] After that, the scene changes to the person with the wig cracking an egg into the frying pan on the PlayStation. The camera cuts to the man with exaggerated expressions, who is staring wide-eyed to the left."
+    }
+]

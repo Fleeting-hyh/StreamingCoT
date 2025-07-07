@@ -1,0 +1,163 @@
+[
+    {
+        "second": 0,
+        "frame_index": 50,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LO6PZCIi7uE/output_frames/sec_0_idx_50.jpg",
+        "fps": 60,
+        "explanation": "[0-0] A white cat stands in the hallway of a room, eyes looking forward. In front of it is a fence made of small wooden sticks. At the top of the background is the brown caption \"ROUND 1\", and directly below it are six heart shapes in a row."
+    },
+    {
+        "second": 1,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LO6PZCIi7uE/output_frames/sec_1_idx_1.jpg",
+        "fps": 60,
+        "explanation": "[0-4] The white cat runs forward, raises its paws, and easily jumps over the fence. At this moment, one of the hearts at the top of the screen lights up. Then the screen switches, and a row of paper cups is added to the fence in front of the white cat. The caption \"ROUND 2\" appears at the top of the screen. The white cat jumps up and easily jumps over the row of paper cups again. The second heart at the top of the screen lights up. Then the screen switches, and the white cat stands with its paws on the fence, which now has two layers of paper cups stacked on it. The caption \"ROUND 3\" appears at the top of the screen. Then the white cat jumps over the two layers of paper cups again, successfully jumping over, and the third heart at the top of the screen lights up."
+    },
+    {
+        "second": 2,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LO6PZCIi7uE/output_frames/sec_2_idx_19.jpg",
+        "fps": 60,
+        "explanation": "[0-4] The white cat runs forward, raises its paws, and easily jumps over the fence. At this moment, one of the hearts at the top of the screen lights up. Then the screen switches, and a row of paper cups is added to the fence in front of the white cat. The caption \"ROUND 2\" appears at the top of the screen. The white cat jumps up and easily jumps over the row of paper cups again. The second heart at the top of the screen lights up. Then the screen switches, and the white cat stands with its paws on the fence, which now has two layers of paper cups stacked on it. The caption \"ROUND 3\" appears at the top of the screen. Then the white cat jumps over the two layers of paper cups again, successfully jumping over, and the third heart at the top of the screen lights up."
+    },
+    {
+        "second": 3,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LO6PZCIi7uE/output_frames/sec_3_idx_1.jpg",
+        "fps": 60,
+        "explanation": "[0-4] The white cat runs forward, raises its paws, and easily jumps over the fence. At this moment, one of the hearts at the top of the screen lights up. Then the screen switches, and a row of paper cups is added to the fence in front of the white cat. The caption \"ROUND 2\" appears at the top of the screen. The white cat jumps up and easily jumps over the row of paper cups again. The second heart at the top of the screen lights up. Then the screen switches, and the white cat stands with its paws on the fence, which now has two layers of paper cups stacked on it. The caption \"ROUND 3\" appears at the top of the screen. Then the white cat jumps over the two layers of paper cups again, successfully jumping over, and the third heart at the top of the screen lights up."
+    },
+    {
+        "second": 4,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LO6PZCIi7uE/output_frames/sec_4_idx_5.jpg",
+        "fps": 60,
+        "explanation": "[0-4] The white cat runs forward, raises its paws, and easily jumps over the fence. At this moment, one of the hearts at the top of the screen lights up. Then the screen switches, and a row of paper cups is added to the fence in front of the white cat. The caption \"ROUND 2\" appears at the top of the screen. The white cat jumps up and easily jumps over the row of paper cups again. The second heart at the top of the screen lights up. Then the screen switches, and the white cat stands with its paws on the fence, which now has two layers of paper cups stacked on it. The caption \"ROUND 3\" appears at the top of the screen. Then the white cat jumps over the two layers of paper cups again, successfully jumping over, and the third heart at the top of the screen lights up."
+    },
+    {
+        "second": 5,
+        "frame_index": 45,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LO6PZCIi7uE/output_frames/sec_5_idx_45.jpg",
+        "fps": 60,
+        "explanation": "[4-8] Then the screen switches, and the white cat is standing in front of the fence, which is now heightened in the middle. The paper cups are stacked six layers high on both sides of the fence. The caption \"ROUND 4\" appears at the top of the screen. Then the white cat raises its paws and easily jumps over the fence again, and the fourth heart at the top of the screen lights up. Then the screen switches, and the white cat is standing in front of the fence. A row of paper cups is placed on top of the fence, and the height of the paper cups placed on both sides remains unchanged. The caption \"ROUND 5\" appears at the top of the screen. The white cat then jumps up, jumps over from the paper cups on top of the fence, the paper cups stand steadily on the fence without falling, and the fifth heart at the top of the screen lights up."
+    },
+    {
+        "second": 6,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LO6PZCIi7uE/output_frames/sec_6_idx_3.jpg",
+        "fps": 60,
+        "explanation": "[4-8] Then the screen switches, and the white cat is standing in front of the fence, which is now heightened in the middle. The paper cups are stacked six layers high on both sides of the fence. The caption \"ROUND 4\" appears at the top of the screen. Then the white cat raises its paws and easily jumps over the fence again, and the fourth heart at the top of the screen lights up. Then the screen switches, and the white cat is standing in front of the fence. A row of paper cups is placed on top of the fence, and the height of the paper cups placed on both sides remains unchanged. The caption \"ROUND 5\" appears at the top of the screen. The white cat then jumps up, jumps over from the paper cups on top of the fence, the paper cups stand steadily on the fence without falling, and the fifth heart at the top of the screen lights up."
+    },
+    {
+        "second": 7,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LO6PZCIi7uE/output_frames/sec_7_idx_28.jpg",
+        "fps": 60,
+        "explanation": "[4-8] Then the screen switches, and the white cat is standing in front of the fence, which is now heightened in the middle. The paper cups are stacked six layers high on both sides of the fence. The caption \"ROUND 4\" appears at the top of the screen. Then the white cat raises its paws and easily jumps over the fence again, and the fourth heart at the top of the screen lights up. Then the screen switches, and the white cat is standing in front of the fence. A row of paper cups is placed on top of the fence, and the height of the paper cups placed on both sides remains unchanged. The caption \"ROUND 5\" appears at the top of the screen. The white cat then jumps up, jumps over from the paper cups on top of the fence, the paper cups stand steadily on the fence without falling, and the fifth heart at the top of the screen lights up."
+    },
+    {
+        "second": 8,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LO6PZCIi7uE/output_frames/sec_8_idx_16.jpg",
+        "fps": 60,
+        "explanation": "[4-8] Then the screen switches, and the white cat is standing in front of the fence, which is now heightened in the middle. The paper cups are stacked six layers high on both sides of the fence. The caption \"ROUND 4\" appears at the top of the screen. Then the white cat raises its paws and easily jumps over the fence again, and the fourth heart at the top of the screen lights up. Then the screen switches, and the white cat is standing in front of the fence. A row of paper cups is placed on top of the fence, and the height of the paper cups placed on both sides remains unchanged. The caption \"ROUND 5\" appears at the top of the screen. The white cat then jumps up, jumps over from the paper cups on top of the fence, the paper cups stand steadily on the fence without falling, and the fifth heart at the top of the screen lights up."
+    },
+    {
+        "second": 9,
+        "frame_index": 43,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LO6PZCIi7uE/output_frames/sec_9_idx_43.jpg",
+        "fps": 60,
+        "explanation": "[8-18] Then the screen switches, and two rows of paper cups are added to the top of the fence in front of the white cat. The caption at the top of the screen shows \"ROUND 6\". Then the white cat jumps up and jumps over from the top of the paper cups again, and the white cat succeeds in the challenge once again. The sixth heart at the top of the screen lights up. Then the screen switches, and another layer of paper cups is added to the fence in front of the white cat. The caption \"ROUND 6\" appears at the top of the screen. The white cat runs near the fence, looks left, looks again, and moves its feet left and right a few steps. At this time, many captions appear in the picture."
+    },
+    {
+        "second": 10,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LO6PZCIi7uE/output_frames/sec_10_idx_17.jpg",
+        "fps": 60,
+        "explanation": "[8-18] Then the screen switches, and two rows of paper cups are added to the top of the fence in front of the white cat. The caption at the top of the screen shows \"ROUND 6\". Then the white cat jumps up and jumps over from the top of the paper cups again, and the white cat succeeds in the challenge once again. The sixth heart at the top of the screen lights up. Then the screen switches, and another layer of paper cups is added to the fence in front of the white cat. The caption \"ROUND 6\" appears at the top of the screen. The white cat runs near the fence, looks left, looks again, and moves its feet left and right a few steps. At this time, many captions appear in the picture."
+    },
+    {
+        "second": 11,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LO6PZCIi7uE/output_frames/sec_11_idx_8.jpg",
+        "fps": 60,
+        "explanation": "[8-18] Then the screen switches, and two rows of paper cups are added to the top of the fence in front of the white cat. The caption at the top of the screen shows \"ROUND 6\". Then the white cat jumps up and jumps over from the top of the paper cups again, and the white cat succeeds in the challenge once again. The sixth heart at the top of the screen lights up. Then the screen switches, and another layer of paper cups is added to the fence in front of the white cat. The caption \"ROUND 6\" appears at the top of the screen. The white cat runs near the fence, looks left, looks again, and moves its feet left and right a few steps. At this time, many captions appear in the picture."
+    },
+    {
+        "second": 12,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LO6PZCIi7uE/output_frames/sec_12_idx_3.jpg",
+        "fps": 60,
+        "explanation": "[8-18] Then the screen switches, and two rows of paper cups are added to the top of the fence in front of the white cat. The caption at the top of the screen shows \"ROUND 6\". Then the white cat jumps up and jumps over from the top of the paper cups again, and the white cat succeeds in the challenge once again. The sixth heart at the top of the screen lights up. Then the screen switches, and another layer of paper cups is added to the fence in front of the white cat. The caption \"ROUND 6\" appears at the top of the screen. The white cat runs near the fence, looks left, looks again, and moves its feet left and right a few steps. At this time, many captions appear in the picture."
+    },
+    {
+        "second": 13,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LO6PZCIi7uE/output_frames/sec_13_idx_17.jpg",
+        "fps": 60,
+        "explanation": "[8-18] Then the screen switches, and two rows of paper cups are added to the top of the fence in front of the white cat. The caption at the top of the screen shows \"ROUND 6\". Then the white cat jumps up and jumps over from the top of the paper cups again, and the white cat succeeds in the challenge once again. The sixth heart at the top of the screen lights up. Then the screen switches, and another layer of paper cups is added to the fence in front of the white cat. The caption \"ROUND 6\" appears at the top of the screen. The white cat runs near the fence, looks left, looks again, and moves its feet left and right a few steps. At this time, many captions appear in the picture."
+    },
+    {
+        "second": 14,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LO6PZCIi7uE/output_frames/sec_14_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[8-18] Then the screen switches, and two rows of paper cups are added to the top of the fence in front of the white cat. The caption at the top of the screen shows \"ROUND 6\". Then the white cat jumps up and jumps over from the top of the paper cups again, and the white cat succeeds in the challenge once again. The sixth heart at the top of the screen lights up. Then the screen switches, and another layer of paper cups is added to the fence in front of the white cat. The caption \"ROUND 6\" appears at the top of the screen. The white cat runs near the fence, looks left, looks again, and moves its feet left and right a few steps. At this time, many captions appear in the picture."
+    },
+    {
+        "second": 15,
+        "frame_index": 44,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LO6PZCIi7uE/output_frames/sec_15_idx_44.jpg",
+        "fps": 60,
+        "explanation": "[8-18] Then the screen switches, and two rows of paper cups are added to the top of the fence in front of the white cat. The caption at the top of the screen shows \"ROUND 6\". Then the white cat jumps up and jumps over from the top of the paper cups again, and the white cat succeeds in the challenge once again. The sixth heart at the top of the screen lights up. Then the screen switches, and another layer of paper cups is added to the fence in front of the white cat. The caption \"ROUND 6\" appears at the top of the screen. The white cat runs near the fence, looks left, looks again, and moves its feet left and right a few steps. At this time, many captions appear in the picture."
+    },
+    {
+        "second": 16,
+        "frame_index": 34,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LO6PZCIi7uE/output_frames/sec_16_idx_34.jpg",
+        "fps": 60,
+        "explanation": "[8-18] Then the screen switches, and two rows of paper cups are added to the top of the fence in front of the white cat. The caption at the top of the screen shows \"ROUND 6\". Then the white cat jumps up and jumps over from the top of the paper cups again, and the white cat succeeds in the challenge once again. The sixth heart at the top of the screen lights up. Then the screen switches, and another layer of paper cups is added to the fence in front of the white cat. The caption \"ROUND 6\" appears at the top of the screen. The white cat runs near the fence, looks left, looks again, and moves its feet left and right a few steps. At this time, many captions appear in the picture."
+    },
+    {
+        "second": 17,
+        "frame_index": 45,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LO6PZCIi7uE/output_frames/sec_17_idx_45.jpg",
+        "fps": 60,
+        "explanation": "[8-18] Then the screen switches, and two rows of paper cups are added to the top of the fence in front of the white cat. The caption at the top of the screen shows \"ROUND 6\". Then the white cat jumps up and jumps over from the top of the paper cups again, and the white cat succeeds in the challenge once again. The sixth heart at the top of the screen lights up. Then the screen switches, and another layer of paper cups is added to the fence in front of the white cat. The caption \"ROUND 6\" appears at the top of the screen. The white cat runs near the fence, looks left, looks again, and moves its feet left and right a few steps. At this time, many captions appear in the picture."
+    },
+    {
+        "second": 18,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LO6PZCIi7uE/output_frames/sec_18_idx_5.jpg",
+        "fps": 60,
+        "explanation": "[8-18] Then the screen switches, and two rows of paper cups are added to the top of the fence in front of the white cat. The caption at the top of the screen shows \"ROUND 6\". Then the white cat jumps up and jumps over from the top of the paper cups again, and the white cat succeeds in the challenge once again. The sixth heart at the top of the screen lights up. Then the screen switches, and another layer of paper cups is added to the fence in front of the white cat. The caption \"ROUND 6\" appears at the top of the screen. The white cat runs near the fence, looks left, looks again, and moves its feet left and right a few steps. At this time, many captions appear in the picture."
+    },
+    {
+        "second": 19,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LO6PZCIi7uE/output_frames/sec_19_idx_8.jpg",
+        "fps": 60,
+        "explanation": "[18-22] Then the captions in the screen disappear, the white cat raises its claws and jumps up, and once again successfully jumps over the paper cups. The seventh heart in the picture lights up. Then the white caption \"WIN\" appears in the middle of the screen."
+    },
+    {
+        "second": 20,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LO6PZCIi7uE/output_frames/sec_20_idx_29.jpg",
+        "fps": 60,
+        "explanation": "[18-22] Then the captions in the screen disappear, the white cat raises its claws and jumps up, and once again successfully jumps over the paper cups. The seventh heart in the picture lights up. Then the white caption \"WIN\" appears in the middle of the screen."
+    },
+    {
+        "second": 21,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LO6PZCIi7uE/output_frames/sec_21_idx_1.jpg",
+        "fps": 60,
+        "explanation": "[18-22] Then the captions in the screen disappear, the white cat raises its claws and jumps up, and once again successfully jumps over the paper cups. The seventh heart in the picture lights up. Then the white caption \"WIN\" appears in the middle of the screen."
+    },
+    {
+        "second": 22,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LO6PZCIi7uE/output_frames/sec_22_idx_4.jpg",
+        "fps": 60,
+        "explanation": "[18-22] Then the captions in the screen disappear, the white cat raises its claws and jumps up, and once again successfully jumps over the paper cups. The seventh heart in the picture lights up. Then the white caption \"WIN\" appears in the middle of the screen."
+    }
+]

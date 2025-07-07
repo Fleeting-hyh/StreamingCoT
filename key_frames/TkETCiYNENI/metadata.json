@@ -1,0 +1,51 @@
+[
+    {
+        "second": 0,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TkETCiYNENI/output_frames/sec_0_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A green beetle is being held by a hand. Surrounding the hand are some green leaves and flowers."
+    },
+    {
+        "second": 1,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TkETCiYNENI/output_frames/sec_1_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[0-6] The green beetle moves on the hand, then transforms into a larger black beetle, followed by an even larger brown beetle with a horn on its head, also slowly moving on the hand."
+    },
+    {
+        "second": 2,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TkETCiYNENI/output_frames/sec_2_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[0-6] The green beetle moves on the hand, then transforms into a larger black beetle, followed by an even larger brown beetle with a horn on its head, also slowly moving on the hand."
+    },
+    {
+        "second": 3,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TkETCiYNENI/output_frames/sec_3_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[0-6] The green beetle moves on the hand, then transforms into a larger black beetle, followed by an even larger brown beetle with a horn on its head, also slowly moving on the hand."
+    },
+    {
+        "second": 4,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TkETCiYNENI/output_frames/sec_4_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[0-6] The green beetle moves on the hand, then transforms into a larger black beetle, followed by an even larger brown beetle with a horn on its head, also slowly moving on the hand."
+    },
+    {
+        "second": 5,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TkETCiYNENI/output_frames/sec_5_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[0-6] The green beetle moves on the hand, then transforms into a larger black beetle, followed by an even larger brown beetle with a horn on its head, also slowly moving on the hand."
+    },
+    {
+        "second": 6,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TkETCiYNENI/output_frames/sec_6_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[0-6] The green beetle moves on the hand, then transforms into a larger black beetle, followed by an even larger brown beetle with a horn on its head, also slowly moving on the hand."
+    }
+]

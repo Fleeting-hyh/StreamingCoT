@@ -1,0 +1,149 @@
+[
+    {
+        "second": 0,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/37SBw7wdmww/output_frames/sec_0_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[0-0] The video starts inside a fire truck, where a firefighter in a black short-sleeved shirt is driving. Another firefighter is in the passenger seat. They are driving on a multi-lane highway with a black car in the front right and a green belt on the left."
+    },
+    {
+        "second": 1,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/37SBw7wdmww/output_frames/sec_1_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[0-10] After passing the black car on the right, the driver honks the horn to alert other vehicles. There is a traffic jam on the right lane. After driving for a while, the driver turns right due to merging traffic ahead. The firefighter in the passenger seat honks the horn. As the fire truck moves to another lane, the firefighter in the passenger seat honks again. The driver then changes lanes again, reaching the far right lane and starts driving against the traffic."
+    },
+    {
+        "second": 2,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/37SBw7wdmww/output_frames/sec_2_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[0-10] After passing the black car on the right, the driver honks the horn to alert other vehicles. There is a traffic jam on the right lane. After driving for a while, the driver turns right due to merging traffic ahead. The firefighter in the passenger seat honks the horn. As the fire truck moves to another lane, the firefighter in the passenger seat honks again. The driver then changes lanes again, reaching the far right lane and starts driving against the traffic."
+    },
+    {
+        "second": 3,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/37SBw7wdmww/output_frames/sec_3_idx_24.jpg",
+        "fps": 30,
+        "explanation": "[0-10] After passing the black car on the right, the driver honks the horn to alert other vehicles. There is a traffic jam on the right lane. After driving for a while, the driver turns right due to merging traffic ahead. The firefighter in the passenger seat honks the horn. As the fire truck moves to another lane, the firefighter in the passenger seat honks again. The driver then changes lanes again, reaching the far right lane and starts driving against the traffic."
+    },
+    {
+        "second": 4,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/37SBw7wdmww/output_frames/sec_4_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-10] After passing the black car on the right, the driver honks the horn to alert other vehicles. There is a traffic jam on the right lane. After driving for a while, the driver turns right due to merging traffic ahead. The firefighter in the passenger seat honks the horn. As the fire truck moves to another lane, the firefighter in the passenger seat honks again. The driver then changes lanes again, reaching the far right lane and starts driving against the traffic."
+    },
+    {
+        "second": 5,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/37SBw7wdmww/output_frames/sec_5_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[0-10] After passing the black car on the right, the driver honks the horn to alert other vehicles. There is a traffic jam on the right lane. After driving for a while, the driver turns right due to merging traffic ahead. The firefighter in the passenger seat honks the horn. As the fire truck moves to another lane, the firefighter in the passenger seat honks again. The driver then changes lanes again, reaching the far right lane and starts driving against the traffic."
+    },
+    {
+        "second": 6,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/37SBw7wdmww/output_frames/sec_6_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[0-10] After passing the black car on the right, the driver honks the horn to alert other vehicles. There is a traffic jam on the right lane. After driving for a while, the driver turns right due to merging traffic ahead. The firefighter in the passenger seat honks the horn. As the fire truck moves to another lane, the firefighter in the passenger seat honks again. The driver then changes lanes again, reaching the far right lane and starts driving against the traffic."
+    },
+    {
+        "second": 7,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/37SBw7wdmww/output_frames/sec_7_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-10] After passing the black car on the right, the driver honks the horn to alert other vehicles. There is a traffic jam on the right lane. After driving for a while, the driver turns right due to merging traffic ahead. The firefighter in the passenger seat honks the horn. As the fire truck moves to another lane, the firefighter in the passenger seat honks again. The driver then changes lanes again, reaching the far right lane and starts driving against the traffic."
+    },
+    {
+        "second": 8,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/37SBw7wdmww/output_frames/sec_8_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[0-10] After passing the black car on the right, the driver honks the horn to alert other vehicles. There is a traffic jam on the right lane. After driving for a while, the driver turns right due to merging traffic ahead. The firefighter in the passenger seat honks the horn. As the fire truck moves to another lane, the firefighter in the passenger seat honks again. The driver then changes lanes again, reaching the far right lane and starts driving against the traffic."
+    },
+    {
+        "second": 9,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/37SBw7wdmww/output_frames/sec_9_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-10] After passing the black car on the right, the driver honks the horn to alert other vehicles. There is a traffic jam on the right lane. After driving for a while, the driver turns right due to merging traffic ahead. The firefighter in the passenger seat honks the horn. As the fire truck moves to another lane, the firefighter in the passenger seat honks again. The driver then changes lanes again, reaching the far right lane and starts driving against the traffic."
+    },
+    {
+        "second": 10,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/37SBw7wdmww/output_frames/sec_10_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[0-10] After passing the black car on the right, the driver honks the horn to alert other vehicles. There is a traffic jam on the right lane. After driving for a while, the driver turns right due to merging traffic ahead. The firefighter in the passenger seat honks the horn. As the fire truck moves to another lane, the firefighter in the passenger seat honks again. The driver then changes lanes again, reaching the far right lane and starts driving against the traffic."
+    },
+    {
+        "second": 11,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/37SBw7wdmww/output_frames/sec_11_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[10-20] The fire truck continues driving against the traffic, with oncoming vehicles giving way. The fire truck then turns right at an intersection, enters a bridge, and returns to driving in the correct direction."
+    },
+    {
+        "second": 12,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/37SBw7wdmww/output_frames/sec_12_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[10-20] The fire truck continues driving against the traffic, with oncoming vehicles giving way. The fire truck then turns right at an intersection, enters a bridge, and returns to driving in the correct direction."
+    },
+    {
+        "second": 13,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/37SBw7wdmww/output_frames/sec_13_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[10-20] The fire truck continues driving against the traffic, with oncoming vehicles giving way. The fire truck then turns right at an intersection, enters a bridge, and returns to driving in the correct direction."
+    },
+    {
+        "second": 14,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/37SBw7wdmww/output_frames/sec_14_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[10-20] The fire truck continues driving against the traffic, with oncoming vehicles giving way. The fire truck then turns right at an intersection, enters a bridge, and returns to driving in the correct direction."
+    },
+    {
+        "second": 15,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/37SBw7wdmww/output_frames/sec_15_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[10-20] The fire truck continues driving against the traffic, with oncoming vehicles giving way. The fire truck then turns right at an intersection, enters a bridge, and returns to driving in the correct direction."
+    },
+    {
+        "second": 16,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/37SBw7wdmww/output_frames/sec_16_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[10-20] The fire truck continues driving against the traffic, with oncoming vehicles giving way. The fire truck then turns right at an intersection, enters a bridge, and returns to driving in the correct direction."
+    },
+    {
+        "second": 17,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/37SBw7wdmww/output_frames/sec_17_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[10-20] The fire truck continues driving against the traffic, with oncoming vehicles giving way. The fire truck then turns right at an intersection, enters a bridge, and returns to driving in the correct direction."
+    },
+    {
+        "second": 18,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/37SBw7wdmww/output_frames/sec_18_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[10-20] The fire truck continues driving against the traffic, with oncoming vehicles giving way. The fire truck then turns right at an intersection, enters a bridge, and returns to driving in the correct direction."
+    },
+    {
+        "second": 19,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/37SBw7wdmww/output_frames/sec_19_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[10-20] The fire truck continues driving against the traffic, with oncoming vehicles giving way. The fire truck then turns right at an intersection, enters a bridge, and returns to driving in the correct direction."
+    },
+    {
+        "second": 20,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/37SBw7wdmww/output_frames/sec_20_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[10-20] The fire truck continues driving against the traffic, with oncoming vehicles giving way. The fire truck then turns right at an intersection, enters a bridge, and returns to driving in the correct direction."
+    }
+]

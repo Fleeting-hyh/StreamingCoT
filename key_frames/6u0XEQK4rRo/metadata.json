@@ -1,0 +1,79 @@
+[
+    {
+        "second": 0,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6u0XEQK4rRo/output_frames/sec_0_idx_0.jpg",
+        "fps": 25,
+        "explanation": "[0-0] Inside a room, a large orange and white cat sits on a small khaki stool next to a yellow cardboard box, which contains another paper box with a blue border. The large cat looks down at a small orange cat lying on the edge of the yellow cardboard box. On the light yellow floor behind the large cat, there are slippers and some white shopping bags."
+    },
+    {
+        "second": 1,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6u0XEQK4rRo/output_frames/sec_1_idx_0.jpg",
+        "fps": 25,
+        "explanation": "[0-2] The camera then pans left, and the small cat struggles to crawl forward into the yellow cardboard box. Its head has already climbed out of the cardboard, and its front paws are clinging to the edge of the cardboard. The large orange and white cat in the picture keeps looking at the small cat."
+    },
+    {
+        "second": 2,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6u0XEQK4rRo/output_frames/sec_2_idx_1.jpg",
+        "fps": 25,
+        "explanation": "[0-2] The camera then pans left, and the small cat struggles to crawl forward into the yellow cardboard box. Its head has already climbed out of the cardboard, and its front paws are clinging to the edge of the cardboard. The large orange and white cat in the picture keeps looking at the small cat."
+    },
+    {
+        "second": 3,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6u0XEQK4rRo/output_frames/sec_3_idx_24.jpg",
+        "fps": 25,
+        "explanation": "[2-6] As the camera continues to move to the left, the bottom of the paper box with a blue border inside the yellow cardboard is covered with a white patterned towel, and a brown towel is spread on the left side of the box. At this time, a hand appears on the right side of the picture, moving the paper box with a blue border inside the yellow cardboard to the side closer to the small orange cat."
+    },
+    {
+        "second": 4,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6u0XEQK4rRo/output_frames/sec_4_idx_9.jpg",
+        "fps": 25,
+        "explanation": "[2-6] As the camera continues to move to the left, the bottom of the paper box with a blue border inside the yellow cardboard is covered with a white patterned towel, and a brown towel is spread on the left side of the box. At this time, a hand appears on the right side of the picture, moving the paper box with a blue border inside the yellow cardboard to the side closer to the small orange cat."
+    },
+    {
+        "second": 5,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6u0XEQK4rRo/output_frames/sec_5_idx_23.jpg",
+        "fps": 25,
+        "explanation": "[2-6] As the camera continues to move to the left, the bottom of the paper box with a blue border inside the yellow cardboard is covered with a white patterned towel, and a brown towel is spread on the left side of the box. At this time, a hand appears on the right side of the picture, moving the paper box with a blue border inside the yellow cardboard to the side closer to the small orange cat."
+    },
+    {
+        "second": 6,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6u0XEQK4rRo/output_frames/sec_6_idx_6.jpg",
+        "fps": 25,
+        "explanation": "[2-6] As the camera continues to move to the left, the bottom of the paper box with a blue border inside the yellow cardboard is covered with a white patterned towel, and a brown towel is spread on the left side of the box. At this time, a hand appears on the right side of the picture, moving the paper box with a blue border inside the yellow cardboard to the side closer to the small orange cat."
+    },
+    {
+        "second": 7,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6u0XEQK4rRo/output_frames/sec_7_idx_15.jpg",
+        "fps": 25,
+        "explanation": "[6-10] Immediately afterwards, the camera moves to the right, and the large orange and white cat stretches out its left paw and pushes the small orange cat into the paper box with a blue border. After the small orange cat falls into the paper box with a blue border, it struggles to crawl forward until it touches the edge of the paper box. During this time, the large orange and white cat keeps staring at the small orange cat."
+    },
+    {
+        "second": 8,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6u0XEQK4rRo/output_frames/sec_8_idx_19.jpg",
+        "fps": 25,
+        "explanation": "[6-10] Immediately afterwards, the camera moves to the right, and the large orange and white cat stretches out its left paw and pushes the small orange cat into the paper box with a blue border. After the small orange cat falls into the paper box with a blue border, it struggles to crawl forward until it touches the edge of the paper box. During this time, the large orange and white cat keeps staring at the small orange cat."
+    },
+    {
+        "second": 9,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6u0XEQK4rRo/output_frames/sec_9_idx_14.jpg",
+        "fps": 25,
+        "explanation": "[6-10] Immediately afterwards, the camera moves to the right, and the large orange and white cat stretches out its left paw and pushes the small orange cat into the paper box with a blue border. After the small orange cat falls into the paper box with a blue border, it struggles to crawl forward until it touches the edge of the paper box. During this time, the large orange and white cat keeps staring at the small orange cat."
+    },
+    {
+        "second": 10,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6u0XEQK4rRo/output_frames/sec_10_idx_12.jpg",
+        "fps": 25,
+        "explanation": "[6-10] Immediately afterwards, the camera moves to the right, and the large orange and white cat stretches out its left paw and pushes the small orange cat into the paper box with a blue border. After the small orange cat falls into the paper box with a blue border, it struggles to crawl forward until it touches the edge of the paper box. During this time, the large orange and white cat keeps staring at the small orange cat."
+    }
+]

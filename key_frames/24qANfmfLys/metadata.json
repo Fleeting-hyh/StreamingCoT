@@ -1,0 +1,107 @@
+[
+    {
+        "second": 0,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/24qANfmfLys/output_frames/sec_0_idx_5.jpg",
+        "fps": 24,
+        "explanation": "[0-0] A transparent bowl is placed on a white object. Inside the bowl, there's some cocoa powder. Below the image, there's a white caption \"sweetened condensed milk + cocoa powder\". In the upper left corner, there's a finger and some white objects."
+    },
+    {
+        "second": 1,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/24qANfmfLys/output_frames/sec_1_idx_23.jpg",
+        "fps": 24,
+        "explanation": "[0-6] A silver container filled with sweetened condensed milk pours all its content onto the cocoa powder, covering it completely. Then, a hand holding a pink spoon starts mixing. After a while, the cocoa powder and sweetened condensed milk are fully combined, forming a brown mixture. Next, a hand takes a piece of the mixture, while a white caption \"chill\" appears below the image."
+    },
+    {
+        "second": 2,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/24qANfmfLys/output_frames/sec_2_idx_22.jpg",
+        "fps": 24,
+        "explanation": "[0-6] A silver container filled with sweetened condensed milk pours all its content onto the cocoa powder, covering it completely. Then, a hand holding a pink spoon starts mixing. After a while, the cocoa powder and sweetened condensed milk are fully combined, forming a brown mixture. Next, a hand takes a piece of the mixture, while a white caption \"chill\" appears below the image."
+    },
+    {
+        "second": 3,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/24qANfmfLys/output_frames/sec_3_idx_1.jpg",
+        "fps": 24,
+        "explanation": "[0-6] A silver container filled with sweetened condensed milk pours all its content onto the cocoa powder, covering it completely. Then, a hand holding a pink spoon starts mixing. After a while, the cocoa powder and sweetened condensed milk are fully combined, forming a brown mixture. Next, a hand takes a piece of the mixture, while a white caption \"chill\" appears below the image."
+    },
+    {
+        "second": 4,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/24qANfmfLys/output_frames/sec_4_idx_20.jpg",
+        "fps": 24,
+        "explanation": "[0-6] A silver container filled with sweetened condensed milk pours all its content onto the cocoa powder, covering it completely. Then, a hand holding a pink spoon starts mixing. After a while, the cocoa powder and sweetened condensed milk are fully combined, forming a brown mixture. Next, a hand takes a piece of the mixture, while a white caption \"chill\" appears below the image."
+    },
+    {
+        "second": 5,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/24qANfmfLys/output_frames/sec_5_idx_18.jpg",
+        "fps": 24,
+        "explanation": "[0-6] A silver container filled with sweetened condensed milk pours all its content onto the cocoa powder, covering it completely. Then, a hand holding a pink spoon starts mixing. After a while, the cocoa powder and sweetened condensed milk are fully combined, forming a brown mixture. Next, a hand takes a piece of the mixture, while a white caption \"chill\" appears below the image."
+    },
+    {
+        "second": 6,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/24qANfmfLys/output_frames/sec_6_idx_3.jpg",
+        "fps": 24,
+        "explanation": "[0-6] A silver container filled with sweetened condensed milk pours all its content onto the cocoa powder, covering it completely. Then, a hand holding a pink spoon starts mixing. After a while, the cocoa powder and sweetened condensed milk are fully combined, forming a brown mixture. Next, a hand takes a piece of the mixture, while a white caption \"chill\" appears below the image."
+    },
+    {
+        "second": 7,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/24qANfmfLys/output_frames/sec_7_idx_11.jpg",
+        "fps": 24,
+        "explanation": "[6-11] The scene switches, and a hand throws a piece of the mixture into a bowl filled with cocoa powder. Then, a hand holds the bowl and starts shaking it. After a while, the cocoa powder covers the mixture, and a hand takes out the cocoa-coated mixture."
+    },
+    {
+        "second": 8,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/24qANfmfLys/output_frames/sec_8_idx_22.jpg",
+        "fps": 24,
+        "explanation": "[6-11] The scene switches, and a hand throws a piece of the mixture into a bowl filled with cocoa powder. Then, a hand holds the bowl and starts shaking it. After a while, the cocoa powder covers the mixture, and a hand takes out the cocoa-coated mixture."
+    },
+    {
+        "second": 9,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/24qANfmfLys/output_frames/sec_9_idx_6.jpg",
+        "fps": 24,
+        "explanation": "[6-11] The scene switches, and a hand throws a piece of the mixture into a bowl filled with cocoa powder. Then, a hand holds the bowl and starts shaking it. After a while, the cocoa powder covers the mixture, and a hand takes out the cocoa-coated mixture."
+    },
+    {
+        "second": 10,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/24qANfmfLys/output_frames/sec_10_idx_13.jpg",
+        "fps": 24,
+        "explanation": "[6-11] The scene switches, and a hand throws a piece of the mixture into a bowl filled with cocoa powder. Then, a hand holds the bowl and starts shaking it. After a while, the cocoa powder covers the mixture, and a hand takes out the cocoa-coated mixture."
+    },
+    {
+        "second": 11,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/24qANfmfLys/output_frames/sec_11_idx_1.jpg",
+        "fps": 24,
+        "explanation": "[6-11] The scene switches, and a hand throws a piece of the mixture into a bowl filled with cocoa powder. Then, a hand holds the bowl and starts shaking it. After a while, the cocoa powder covers the mixture, and a hand takes out the cocoa-coated mixture."
+    },
+    {
+        "second": 12,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/24qANfmfLys/output_frames/sec_12_idx_15.jpg",
+        "fps": 24,
+        "explanation": "[11-14] A white plate full of the cocoa-coated mixture is placed on a white object. In the upper left corner, there's a transparent glass bowl filled with cocoa powder. A hand picks up a piece of the mixture, then the camera zooms in as two hands pull the mixture apart from both sides, causing some cocoa powder to fall onto the plate. The scene switches again, with a brown caption \"EASY TRUFFLES\" appearing below."
+    },
+    {
+        "second": 13,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/24qANfmfLys/output_frames/sec_13_idx_1.jpg",
+        "fps": 24,
+        "explanation": "[11-14] A white plate full of the cocoa-coated mixture is placed on a white object. In the upper left corner, there's a transparent glass bowl filled with cocoa powder. A hand picks up a piece of the mixture, then the camera zooms in as two hands pull the mixture apart from both sides, causing some cocoa powder to fall onto the plate. The scene switches again, with a brown caption \"EASY TRUFFLES\" appearing below."
+    },
+    {
+        "second": 14,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/24qANfmfLys/output_frames/sec_14_idx_4.jpg",
+        "fps": 24,
+        "explanation": "[11-14] A white plate full of the cocoa-coated mixture is placed on a white object. In the upper left corner, there's a transparent glass bowl filled with cocoa powder. A hand picks up a piece of the mixture, then the camera zooms in as two hands pull the mixture apart from both sides, causing some cocoa powder to fall onto the plate. The scene switches again, with a brown caption \"EASY TRUFFLES\" appearing below."
+    }
+]

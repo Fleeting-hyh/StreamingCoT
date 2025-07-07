@@ -1,0 +1,128 @@
+[
+    {
+        "second": 0,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Ub3XSv9haNQ/output_frames/sec_0_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A man is tied to a gray brick wall, his hands and feet bound with metal shackles. In the upper right corner of the video is the white English text \"FANTOMPor\"."
+    },
+    {
+        "second": 1,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Ub3XSv9haNQ/output_frames/sec_1_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Then, the camera gradually zooms in, and the man nods his head."
+    },
+    {
+        "second": 2,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Ub3XSv9haNQ/output_frames/sec_2_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Then, the camera gradually zooms in, and the man nods his head."
+    },
+    {
+        "second": 3,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Ub3XSv9haNQ/output_frames/sec_3_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[2-9] Subsequently, the scene switches to a blue rabbit person wearing an orange scarf, who also nods. The blue rabbit person is standing at a wheel of fortune with various items drawn on it, including weapons, hearts, and tools. The blue rabbit person spins the wheel, and after it stops, the pointer lands on a black pistol. The blue rabbit person slaps their forehead with their right hand."
+    },
+    {
+        "second": 4,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Ub3XSv9haNQ/output_frames/sec_4_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[2-9] Subsequently, the scene switches to a blue rabbit person wearing an orange scarf, who also nods. The blue rabbit person is standing at a wheel of fortune with various items drawn on it, including weapons, hearts, and tools. The blue rabbit person spins the wheel, and after it stops, the pointer lands on a black pistol. The blue rabbit person slaps their forehead with their right hand."
+    },
+    {
+        "second": 5,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Ub3XSv9haNQ/output_frames/sec_5_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[2-9] Subsequently, the scene switches to a blue rabbit person wearing an orange scarf, who also nods. The blue rabbit person is standing at a wheel of fortune with various items drawn on it, including weapons, hearts, and tools. The blue rabbit person spins the wheel, and after it stops, the pointer lands on a black pistol. The blue rabbit person slaps their forehead with their right hand."
+    },
+    {
+        "second": 6,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Ub3XSv9haNQ/output_frames/sec_6_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[2-9] Subsequently, the scene switches to a blue rabbit person wearing an orange scarf, who also nods. The blue rabbit person is standing at a wheel of fortune with various items drawn on it, including weapons, hearts, and tools. The blue rabbit person spins the wheel, and after it stops, the pointer lands on a black pistol. The blue rabbit person slaps their forehead with their right hand."
+    },
+    {
+        "second": 7,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Ub3XSv9haNQ/output_frames/sec_7_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[2-9] Subsequently, the scene switches to a blue rabbit person wearing an orange scarf, who also nods. The blue rabbit person is standing at a wheel of fortune with various items drawn on it, including weapons, hearts, and tools. The blue rabbit person spins the wheel, and after it stops, the pointer lands on a black pistol. The blue rabbit person slaps their forehead with their right hand."
+    },
+    {
+        "second": 8,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Ub3XSv9haNQ/output_frames/sec_8_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[2-9] Subsequently, the scene switches to a blue rabbit person wearing an orange scarf, who also nods. The blue rabbit person is standing at a wheel of fortune with various items drawn on it, including weapons, hearts, and tools. The blue rabbit person spins the wheel, and after it stops, the pointer lands on a black pistol. The blue rabbit person slaps their forehead with their right hand."
+    },
+    {
+        "second": 9,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Ub3XSv9haNQ/output_frames/sec_9_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[2-9] Subsequently, the scene switches to a blue rabbit person wearing an orange scarf, who also nods. The blue rabbit person is standing at a wheel of fortune with various items drawn on it, including weapons, hearts, and tools. The blue rabbit person spins the wheel, and after it stops, the pointer lands on a black pistol. The blue rabbit person slaps their forehead with their right hand."
+    },
+    {
+        "second": 10,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Ub3XSv9haNQ/output_frames/sec_10_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[9-14] Next, the scene cuts to a samurai wearing a red demon mask and red armor. The samurai aims a black pistol at the man shackled to the wall, pulls the trigger, and the bullet hits the brick wall next to the man's head."
+    },
+    {
+        "second": 11,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Ub3XSv9haNQ/output_frames/sec_11_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[9-14] Next, the scene cuts to a samurai wearing a red demon mask and red armor. The samurai aims a black pistol at the man shackled to the wall, pulls the trigger, and the bullet hits the brick wall next to the man's head."
+    },
+    {
+        "second": 12,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Ub3XSv9haNQ/output_frames/sec_12_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[9-14] Next, the scene cuts to a samurai wearing a red demon mask and red armor. The samurai aims a black pistol at the man shackled to the wall, pulls the trigger, and the bullet hits the brick wall next to the man's head."
+    },
+    {
+        "second": 13,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Ub3XSv9haNQ/output_frames/sec_13_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[9-14] Next, the scene cuts to a samurai wearing a red demon mask and red armor. The samurai aims a black pistol at the man shackled to the wall, pulls the trigger, and the bullet hits the brick wall next to the man's head."
+    },
+    {
+        "second": 14,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Ub3XSv9haNQ/output_frames/sec_14_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[9-14] Next, the scene cuts to a samurai wearing a red demon mask and red armor. The samurai aims a black pistol at the man shackled to the wall, pulls the trigger, and the bullet hits the brick wall next to the man's head."
+    },
+    {
+        "second": 15,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Ub3XSv9haNQ/output_frames/sec_15_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[14-17] Afterward, the man shackled to the wall smiles. The scene switches to the samurai who glances to the side in confusion, nods, and finally, the blue rabbit person reappears in the frame."
+    },
+    {
+        "second": 16,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Ub3XSv9haNQ/output_frames/sec_16_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[14-17] Afterward, the man shackled to the wall smiles. The scene switches to the samurai who glances to the side in confusion, nods, and finally, the blue rabbit person reappears in the frame."
+    },
+    {
+        "second": 17,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Ub3XSv9haNQ/output_frames/sec_17_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[14-17] Afterward, the man shackled to the wall smiles. The scene switches to the samurai who glances to the side in confusion, nods, and finally, the blue rabbit person reappears in the frame."
+    }
+]

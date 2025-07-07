@@ -1,0 +1,65 @@
+[
+    {
+        "second": 0,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Tx1ZCaO2g6Q/output_frames/sec_0_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[0-0] On a street, part of a house can be seen on the side. There are some bushes and plants planted in front of the house, and there is a street sign on the street. At the top of the screen are the black words \"I can\u2019t stop watching this\", and a yellow face emoji."
+    },
+    {
+        "second": 1,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Tx1ZCaO2g6Q/output_frames/sec_1_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Then a man steps on a spring pogo stick from above and lands on the ground. He is wearing a black hat, a purple shirt and khaki pants. Then the man steps on the pogo stick and jumps up forcefully, then lands on the ground. Then he continues to jump and lands firmly on the roof."
+    },
+    {
+        "second": 2,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Tx1ZCaO2g6Q/output_frames/sec_2_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Then a man steps on a spring pogo stick from above and lands on the ground. He is wearing a black hat, a purple shirt and khaki pants. Then the man steps on the pogo stick and jumps up forcefully, then lands on the ground. Then he continues to jump and lands firmly on the roof."
+    },
+    {
+        "second": 3,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Tx1ZCaO2g6Q/output_frames/sec_3_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Then a man steps on a spring pogo stick from above and lands on the ground. He is wearing a black hat, a purple shirt and khaki pants. Then the man steps on the pogo stick and jumps up forcefully, then lands on the ground. Then he continues to jump and lands firmly on the roof."
+    },
+    {
+        "second": 4,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Tx1ZCaO2g6Q/output_frames/sec_4_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[3-6] Then he jumps off the roof, then continues to bounce upwards forcefully, the man bounces very high, his legs also do a back and forth swing in the air, and then he lands firmly on the ground with the spring bouncing stilts."
+    },
+    {
+        "second": 5,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Tx1ZCaO2g6Q/output_frames/sec_5_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[3-6] Then he jumps off the roof, then continues to bounce upwards forcefully, the man bounces very high, his legs also do a back and forth swing in the air, and then he lands firmly on the ground with the spring bouncing stilts."
+    },
+    {
+        "second": 6,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Tx1ZCaO2g6Q/output_frames/sec_6_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[3-6] Then he jumps off the roof, then continues to bounce upwards forcefully, the man bounces very high, his legs also do a back and forth swing in the air, and then he lands firmly on the ground with the spring bouncing stilts."
+    },
+    {
+        "second": 7,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Tx1ZCaO2g6Q/output_frames/sec_7_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[6-8] Then the man jumps up again on the spring bouncing stilts. This time he does a front flip in the air, then lands firmly, and then continues to jump forward."
+    },
+    {
+        "second": 8,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Tx1ZCaO2g6Q/output_frames/sec_8_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[6-8] Then the man jumps up again on the spring bouncing stilts. This time he does a front flip in the air, then lands firmly, and then continues to jump forward."
+    }
+]

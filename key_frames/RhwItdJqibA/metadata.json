@@ -1,0 +1,58 @@
+[
+    {
+        "second": 0,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RhwItdJqibA/output_frames/sec_0_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A black man buries himself in a sand pile, revealing only his face. A gray British Shorthair cat wearing a green hoodie has a surprised expression."
+    },
+    {
+        "second": 1,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RhwItdJqibA/output_frames/sec_1_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Then, the black man keeps the same expression with his eyes wide open and his mouth slightly open."
+    },
+    {
+        "second": 2,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RhwItdJqibA/output_frames/sec_2_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Then, the black man keeps the same expression with his eyes wide open and his mouth slightly open."
+    },
+    {
+        "second": 3,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RhwItdJqibA/output_frames/sec_3_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[2-4] Next, the scene switches to an outdoor lawn where a person in a Spiderman costume kicks a rugby ball. The scene then cuts back to the British Shorthair cat wearing a green hoodie, opening its arms to catch the flying rugby ball."
+    },
+    {
+        "second": 4,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RhwItdJqibA/output_frames/sec_4_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[2-4] Next, the scene switches to an outdoor lawn where a person in a Spiderman costume kicks a rugby ball. The scene then cuts back to the British Shorthair cat wearing a green hoodie, opening its arms to catch the flying rugby ball."
+    },
+    {
+        "second": 5,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RhwItdJqibA/output_frames/sec_5_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[4-7] Subsequently, the scene switches back to the black man, now with a brown mud mark on his face. The scene cuts back again to the British Shorthair cat wearing a green hoodie, opening its mouth wide with a frightened expression."
+    },
+    {
+        "second": 6,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RhwItdJqibA/output_frames/sec_6_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[4-7] Subsequently, the scene switches back to the black man, now with a brown mud mark on his face. The scene cuts back again to the British Shorthair cat wearing a green hoodie, opening its mouth wide with a frightened expression."
+    },
+    {
+        "second": 7,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RhwItdJqibA/output_frames/sec_7_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[4-7] Subsequently, the scene switches back to the black man, now with a brown mud mark on his face. The scene cuts back again to the British Shorthair cat wearing a green hoodie, opening its mouth wide with a frightened expression."
+    }
+]

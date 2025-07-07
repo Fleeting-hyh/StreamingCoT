@@ -1,0 +1,107 @@
+[
+    {
+        "second": 0,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IPhARlUO6NA/output_frames/sec_0_idx_1.jpg",
+        "fps": 60,
+        "explanation": "[0-0] A man wearing a beige spotted shirt is sitting at a beige table, holding a remote-controlled car model in his right hand and a lit lighter in his left hand. The background is a black curtain."
+    },
+    {
+        "second": 1,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IPhARlUO6NA/output_frames/sec_1_idx_7.jpg",
+        "fps": 60,
+        "explanation": "[0-3] Then, a remote-controlled car equipped with a water tank and spraying device is driving, and someone is holding a burning newspaper near it. The remote-controlled car moves forward, starts spraying water, and the water column shoots towards the burning newspaper. The fire on the newspaper is extinguished, leaving only some burning ashes."
+    },
+    {
+        "second": 2,
+        "frame_index": 35,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IPhARlUO6NA/output_frames/sec_2_idx_35.jpg",
+        "fps": 60,
+        "explanation": "[0-3] Then, a remote-controlled car equipped with a water tank and spraying device is driving, and someone is holding a burning newspaper near it. The remote-controlled car moves forward, starts spraying water, and the water column shoots towards the burning newspaper. The fire on the newspaper is extinguished, leaving only some burning ashes."
+    },
+    {
+        "second": 3,
+        "frame_index": 58,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IPhARlUO6NA/output_frames/sec_3_idx_58.jpg",
+        "fps": 60,
+        "explanation": "[0-3] Then, a remote-controlled car equipped with a water tank and spraying device is driving, and someone is holding a burning newspaper near it. The remote-controlled car moves forward, starts spraying water, and the water column shoots towards the burning newspaper. The fire on the newspaper is extinguished, leaving only some burning ashes."
+    },
+    {
+        "second": 4,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IPhARlUO6NA/output_frames/sec_4_idx_23.jpg",
+        "fps": 60,
+        "explanation": "[3-6] Next, the scene switches to a room where a man is sitting at a table wearing a device connected to a circuit board and sensors, demonstrating a robotic arm."
+    },
+    {
+        "second": 5,
+        "frame_index": 51,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IPhARlUO6NA/output_frames/sec_5_idx_51.jpg",
+        "fps": 60,
+        "explanation": "[3-6] Next, the scene switches to a room where a man is sitting at a table wearing a device connected to a circuit board and sensors, demonstrating a robotic arm."
+    },
+    {
+        "second": 6,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IPhARlUO6NA/output_frames/sec_6_idx_17.jpg",
+        "fps": 60,
+        "explanation": "[3-6] Next, the scene switches to a room where a man is sitting at a table wearing a device connected to a circuit board and sensors, demonstrating a robotic arm."
+    },
+    {
+        "second": 7,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IPhARlUO6NA/output_frames/sec_7_idx_24.jpg",
+        "fps": 60,
+        "explanation": "[6-9] Subsequently, the man places a yellow car model on a white cardboard."
+    },
+    {
+        "second": 8,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IPhARlUO6NA/output_frames/sec_8_idx_7.jpg",
+        "fps": 60,
+        "explanation": "[6-9] Subsequently, the man places a yellow car model on a white cardboard."
+    },
+    {
+        "second": 9,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IPhARlUO6NA/output_frames/sec_9_idx_2.jpg",
+        "fps": 60,
+        "explanation": "[6-9] Subsequently, the man places a yellow car model on a white cardboard."
+    },
+    {
+        "second": 10,
+        "frame_index": 49,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IPhARlUO6NA/output_frames/sec_10_idx_49.jpg",
+        "fps": 60,
+        "explanation": "[9-11] Afterwards, the scene switches again, and the man is demonstrating a fire protection system. The man lights a lighter, and a mannequin head turns to face the lit lighter."
+    },
+    {
+        "second": 11,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IPhARlUO6NA/output_frames/sec_11_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[9-11] Afterwards, the scene switches again, and the man is demonstrating a fire protection system. The man lights a lighter, and a mannequin head turns to face the lit lighter."
+    },
+    {
+        "second": 12,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IPhARlUO6NA/output_frames/sec_12_idx_26.jpg",
+        "fps": 60,
+        "explanation": "[11-14] Finally, the scene changes to a room with yellow walls. The man is holding a laptop, turning a switch to demonstrate a circuit board connected to light bulbs and other electronic components."
+    },
+    {
+        "second": 13,
+        "frame_index": 56,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IPhARlUO6NA/output_frames/sec_13_idx_56.jpg",
+        "fps": 60,
+        "explanation": "[11-14] Finally, the scene changes to a room with yellow walls. The man is holding a laptop, turning a switch to demonstrate a circuit board connected to light bulbs and other electronic components."
+    },
+    {
+        "second": 14,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IPhARlUO6NA/output_frames/sec_14_idx_5.jpg",
+        "fps": 60,
+        "explanation": "[11-14] Finally, the scene changes to a room with yellow walls. The man is holding a laptop, turning a switch to demonstrate a circuit board connected to light bulbs and other electronic components."
+    }
+]

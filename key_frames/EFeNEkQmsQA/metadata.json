@@ -1,0 +1,79 @@
+[
+    {
+        "second": 0,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EFeNEkQmsQA/output_frames/sec_0_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A woman is holding a red scarf against a white background."
+    },
+    {
+        "second": 1,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EFeNEkQmsQA/output_frames/sec_1_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[0-6] She brings the scarf behind her, she is seen wearing a long white dress, she holds the corners of the scarf with both hands and ties the scarf around her waist. The scarf is tied in a simple knot at the center of her waist. The long edges of the scarf hang down in the front. Then she ties the edges of the scarf on both sides together."
+    },
+    {
+        "second": 2,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EFeNEkQmsQA/output_frames/sec_2_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[0-6] She brings the scarf behind her, she is seen wearing a long white dress, she holds the corners of the scarf with both hands and ties the scarf around her waist. The scarf is tied in a simple knot at the center of her waist. The long edges of the scarf hang down in the front. Then she ties the edges of the scarf on both sides together."
+    },
+    {
+        "second": 3,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EFeNEkQmsQA/output_frames/sec_3_idx_24.jpg",
+        "fps": 30,
+        "explanation": "[0-6] She brings the scarf behind her, she is seen wearing a long white dress, she holds the corners of the scarf with both hands and ties the scarf around her waist. The scarf is tied in a simple knot at the center of her waist. The long edges of the scarf hang down in the front. Then she ties the edges of the scarf on both sides together."
+    },
+    {
+        "second": 4,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EFeNEkQmsQA/output_frames/sec_4_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[0-6] She brings the scarf behind her, she is seen wearing a long white dress, she holds the corners of the scarf with both hands and ties the scarf around her waist. The scarf is tied in a simple knot at the center of her waist. The long edges of the scarf hang down in the front. Then she ties the edges of the scarf on both sides together."
+    },
+    {
+        "second": 5,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EFeNEkQmsQA/output_frames/sec_5_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[0-6] She brings the scarf behind her, she is seen wearing a long white dress, she holds the corners of the scarf with both hands and ties the scarf around her waist. The scarf is tied in a simple knot at the center of her waist. The long edges of the scarf hang down in the front. Then she ties the edges of the scarf on both sides together."
+    },
+    {
+        "second": 6,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EFeNEkQmsQA/output_frames/sec_6_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-6] She brings the scarf behind her, she is seen wearing a long white dress, she holds the corners of the scarf with both hands and ties the scarf around her waist. The scarf is tied in a simple knot at the center of her waist. The long edges of the scarf hang down in the front. Then she ties the edges of the scarf on both sides together."
+    },
+    {
+        "second": 7,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EFeNEkQmsQA/output_frames/sec_7_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[6-11] Then the woman turns the scarf over, she pulls the two sides of the scarf to each shoulder, the woman adjusts the scarf to make it more comfortable. She opens her arms to face the camera and shows off the finished look."
+    },
+    {
+        "second": 8,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EFeNEkQmsQA/output_frames/sec_8_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[6-11] Then the woman turns the scarf over, she pulls the two sides of the scarf to each shoulder, the woman adjusts the scarf to make it more comfortable. She opens her arms to face the camera and shows off the finished look."
+    },
+    {
+        "second": 9,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EFeNEkQmsQA/output_frames/sec_9_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[6-11] Then the woman turns the scarf over, she pulls the two sides of the scarf to each shoulder, the woman adjusts the scarf to make it more comfortable. She opens her arms to face the camera and shows off the finished look."
+    },
+    {
+        "second": 10,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EFeNEkQmsQA/output_frames/sec_10_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[6-11] Then the woman turns the scarf over, she pulls the two sides of the scarf to each shoulder, the woman adjusts the scarf to make it more comfortable. She opens her arms to face the camera and shows off the finished look."
+    }
+]

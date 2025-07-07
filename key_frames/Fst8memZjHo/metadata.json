@@ -1,0 +1,72 @@
+[
+    {
+        "second": 0,
+        "frame_index": 59,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Fst8memZjHo/output_frames/sec_0_idx_59.jpg",
+        "fps": 60,
+        "explanation": "[0-0] The frame shows a full set of experimental apparatus, including a laser pointer, a light dependent resistor (LDR) sensor, a mirror, and an arrow indicator composed of LED lights."
+    },
+    {
+        "second": 1,
+        "frame_index": 31,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Fst8memZjHo/output_frames/sec_1_idx_31.jpg",
+        "fps": 60,
+        "explanation": "[0-4] Then a finger points to the laser pointer and the sensor, and yellow subtitles \"Laser Light\" and \"LDR Sensor\" appear on the screen respectively."
+    },
+    {
+        "second": 2,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Fst8memZjHo/output_frames/sec_2_idx_1.jpg",
+        "fps": 60,
+        "explanation": "[0-4] Then a finger points to the laser pointer and the sensor, and yellow subtitles \"Laser Light\" and \"LDR Sensor\" appear on the screen respectively."
+    },
+    {
+        "second": 3,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Fst8memZjHo/output_frames/sec_3_idx_28.jpg",
+        "fps": 60,
+        "explanation": "[0-4] Then a finger points to the laser pointer and the sensor, and yellow subtitles \"Laser Light\" and \"LDR Sensor\" appear on the screen respectively."
+    },
+    {
+        "second": 4,
+        "frame_index": 59,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Fst8memZjHo/output_frames/sec_4_idx_59.jpg",
+        "fps": 60,
+        "explanation": "[0-4] Then a finger points to the laser pointer and the sensor, and yellow subtitles \"Laser Light\" and \"LDR Sensor\" appear on the screen respectively."
+    },
+    {
+        "second": 5,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Fst8memZjHo/output_frames/sec_5_idx_2.jpg",
+        "fps": 60,
+        "explanation": "[4-7] Subsequently, a hand blocks the laser from different angles, and the LED arrow indicator lights up accordingly."
+    },
+    {
+        "second": 6,
+        "frame_index": 33,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Fst8memZjHo/output_frames/sec_6_idx_33.jpg",
+        "fps": 60,
+        "explanation": "[4-7] Subsequently, a hand blocks the laser from different angles, and the LED arrow indicator lights up accordingly."
+    },
+    {
+        "second": 7,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Fst8memZjHo/output_frames/sec_7_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[4-7] Subsequently, a hand blocks the laser from different angles, and the LED arrow indicator lights up accordingly."
+    },
+    {
+        "second": 8,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Fst8memZjHo/output_frames/sec_8_idx_14.jpg",
+        "fps": 60,
+        "explanation": "[7-10] Finally, the picture shows the details of the LDR sensor. The yellow letters \"LDR\" appear on the screen. A hand blocks the laser beam, and the LED indicator lights up, demonstrating the reaction of the LDR sensor when it receives the laser."
+    },
+    {
+        "second": 9,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Fst8memZjHo/output_frames/sec_9_idx_10.jpg",
+        "fps": 60,
+        "explanation": "[7-10] Finally, the picture shows the details of the LDR sensor. The yellow letters \"LDR\" appear on the screen. A hand blocks the laser beam, and the LED indicator lights up, demonstrating the reaction of the LDR sensor when it receives the laser."
+    }
+]

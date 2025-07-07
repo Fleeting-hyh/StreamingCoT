@@ -1,0 +1,58 @@
+[
+    {
+        "second": 0,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5TaATsc9Es4/output_frames/sec_0_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[0-0] In the frame, two red eyeball-like objects are located on adjacent platforms, separated by a green platform. The platforms are composed of blue and green blocks, with a pink emoji in the lower right corner."
+    },
+    {
+        "second": 1,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5TaATsc9Es4/output_frames/sec_1_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Next, a green block appears below the left eyeball. The block has an eye and a mouth on it, and the pupil of the red eyeball is rotating."
+    },
+    {
+        "second": 2,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5TaATsc9Es4/output_frames/sec_2_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Next, a green block appears below the left eyeball. The block has an eye and a mouth on it, and the pupil of the red eyeball is rotating."
+    },
+    {
+        "second": 3,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5TaATsc9Es4/output_frames/sec_3_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[2-6] Then the eye on the green block opens, and the mouth opens to reveal a row of sharp teeth. The green block opens its mouth wide, lunges forward and swallows the right eyeball, then turns into a blue block as the platform descends."
+    },
+    {
+        "second": 4,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5TaATsc9Es4/output_frames/sec_4_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[2-6] Then the eye on the green block opens, and the mouth opens to reveal a row of sharp teeth. The green block opens its mouth wide, lunges forward and swallows the right eyeball, then turns into a blue block as the platform descends."
+    },
+    {
+        "second": 5,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5TaATsc9Es4/output_frames/sec_5_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[2-6] Then the eye on the green block opens, and the mouth opens to reveal a row of sharp teeth. The green block opens its mouth wide, lunges forward and swallows the right eyeball, then turns into a blue block as the platform descends."
+    },
+    {
+        "second": 6,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5TaATsc9Es4/output_frames/sec_6_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[2-6] Then the eye on the green block opens, and the mouth opens to reveal a row of sharp teeth. The green block opens its mouth wide, lunges forward and swallows the right eyeball, then turns into a blue block as the platform descends."
+    },
+    {
+        "second": 7,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5TaATsc9Es4/output_frames/sec_7_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[6-8] Then the eyeball on the back platform rolls to the front platform, and another red eyeball emerges from the platform behind it, returning the scene to its initial state."
+    }
+]

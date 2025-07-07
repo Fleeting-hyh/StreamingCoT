@@ -1,0 +1,79 @@
+[
+    {
+        "second": 0,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PZivChdmbLM/output_frames/sec_0_idx_20.jpg",
+        "fps": 25,
+        "explanation": "[0-0] A close-up shot of the eye area of a face. One eye only shows the white, with pink lower lashes and eyeliner, and a winding yellow line between the eyebrow and eyelashes. A ladybug rests on the cheek. The gray subtitle \"TWO MORE\" is at the bottom of the screen."
+    },
+    {
+        "second": 1,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PZivChdmbLM/output_frames/sec_1_idx_6.jpg",
+        "fps": 25,
+        "explanation": "[0-3] The ladybug starts to crawl slowly up the cheek and reaches the eye. Then, the eye closes."
+    },
+    {
+        "second": 2,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PZivChdmbLM/output_frames/sec_2_idx_23.jpg",
+        "fps": 25,
+        "explanation": "[0-3] The ladybug starts to crawl slowly up the cheek and reaches the eye. Then, the eye closes."
+    },
+    {
+        "second": 3,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PZivChdmbLM/output_frames/sec_3_idx_6.jpg",
+        "fps": 25,
+        "explanation": "[0-3] The ladybug starts to crawl slowly up the cheek and reaches the eye. Then, the eye closes."
+    },
+    {
+        "second": 4,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PZivChdmbLM/output_frames/sec_4_idx_9.jpg",
+        "fps": 25,
+        "explanation": "[3-7] When the eye opens again, the ladybug is gone. Instead, red choroid and black pupils appear in the eye, looking towards the upper right. The eye then blinks and turns to the left."
+    },
+    {
+        "second": 5,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PZivChdmbLM/output_frames/sec_5_idx_15.jpg",
+        "fps": 25,
+        "explanation": "[3-7] When the eye opens again, the ladybug is gone. Instead, red choroid and black pupils appear in the eye, looking towards the upper right. The eye then blinks and turns to the left."
+    },
+    {
+        "second": 6,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PZivChdmbLM/output_frames/sec_6_idx_10.jpg",
+        "fps": 25,
+        "explanation": "[3-7] When the eye opens again, the ladybug is gone. Instead, red choroid and black pupils appear in the eye, looking towards the upper right. The eye then blinks and turns to the left."
+    },
+    {
+        "second": 7,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PZivChdmbLM/output_frames/sec_7_idx_3.jpg",
+        "fps": 25,
+        "explanation": "[3-7] When the eye opens again, the ladybug is gone. Instead, red choroid and black pupils appear in the eye, looking towards the upper right. The eye then blinks and turns to the left."
+    },
+    {
+        "second": 8,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PZivChdmbLM/output_frames/sec_8_idx_13.jpg",
+        "fps": 25,
+        "explanation": "[7-11] The eye closes and opens again, the choroid and pupils disappear, and the ladybug reappears. Finally, the ladybug takes off from the eye, flies to the right, and out of the frame."
+    },
+    {
+        "second": 9,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PZivChdmbLM/output_frames/sec_9_idx_4.jpg",
+        "fps": 25,
+        "explanation": "[7-11] The eye closes and opens again, the choroid and pupils disappear, and the ladybug reappears. Finally, the ladybug takes off from the eye, flies to the right, and out of the frame."
+    },
+    {
+        "second": 10,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PZivChdmbLM/output_frames/sec_10_idx_22.jpg",
+        "fps": 25,
+        "explanation": "[7-11] The eye closes and opens again, the choroid and pupils disappear, and the ladybug reappears. Finally, the ladybug takes off from the eye, flies to the right, and out of the frame."
+    }
+]

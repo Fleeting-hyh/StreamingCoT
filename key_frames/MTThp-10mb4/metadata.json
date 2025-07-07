@@ -1,0 +1,128 @@
+[
+    {
+        "second": 0,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MTThp-10mb4/output_frames/sec_0_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[0-0] On a rocky beach with water, a hand wearing a glove picks up a green shell and places it on a rock."
+    },
+    {
+        "second": 1,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MTThp-10mb4/output_frames/sec_1_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[0-4] A hand picks up a green snail, revealing the snail's flesh. Then, both hands show the snail."
+    },
+    {
+        "second": 2,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MTThp-10mb4/output_frames/sec_2_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[0-4] A hand picks up a green snail, revealing the snail's flesh. Then, both hands show the snail."
+    },
+    {
+        "second": 3,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MTThp-10mb4/output_frames/sec_3_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-4] A hand picks up a green snail, revealing the snail's flesh. Then, both hands show the snail."
+    },
+    {
+        "second": 4,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MTThp-10mb4/output_frames/sec_4_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-4] A hand picks up a green snail, revealing the snail's flesh. Then, both hands show the snail."
+    },
+    {
+        "second": 5,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MTThp-10mb4/output_frames/sec_5_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[4-12] Then, one hand holds the snail and places it on a rock while the other hand removes the snail's flesh. There are colorful round balls inside the flesh."
+    },
+    {
+        "second": 6,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MTThp-10mb4/output_frames/sec_6_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[4-12] Then, one hand holds the snail and places it on a rock while the other hand removes the snail's flesh. There are colorful round balls inside the flesh."
+    },
+    {
+        "second": 7,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MTThp-10mb4/output_frames/sec_7_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[4-12] Then, one hand holds the snail and places it on a rock while the other hand removes the snail's flesh. There are colorful round balls inside the flesh."
+    },
+    {
+        "second": 8,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MTThp-10mb4/output_frames/sec_8_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[4-12] Then, one hand holds the snail and places it on a rock while the other hand removes the snail's flesh. There are colorful round balls inside the flesh."
+    },
+    {
+        "second": 9,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MTThp-10mb4/output_frames/sec_9_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[4-12] Then, one hand holds the snail and places it on a rock while the other hand removes the snail's flesh. There are colorful round balls inside the flesh."
+    },
+    {
+        "second": 10,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MTThp-10mb4/output_frames/sec_10_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[4-12] Then, one hand holds the snail and places it on a rock while the other hand removes the snail's flesh. There are colorful round balls inside the flesh."
+    },
+    {
+        "second": 11,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MTThp-10mb4/output_frames/sec_11_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[4-12] Then, one hand holds the snail and places it on a rock while the other hand removes the snail's flesh. There are colorful round balls inside the flesh."
+    },
+    {
+        "second": 12,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MTThp-10mb4/output_frames/sec_12_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[4-12] Then, one hand holds the snail and places it on a rock while the other hand removes the snail's flesh. There are colorful round balls inside the flesh."
+    },
+    {
+        "second": 13,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MTThp-10mb4/output_frames/sec_13_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[12-17] Subsequently, one hand squeezes out a small pink pearl and a large yellow pearl, placing them onto the other hand."
+    },
+    {
+        "second": 14,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MTThp-10mb4/output_frames/sec_14_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[12-17] Subsequently, one hand squeezes out a small pink pearl and a large yellow pearl, placing them onto the other hand."
+    },
+    {
+        "second": 15,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MTThp-10mb4/output_frames/sec_15_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[12-17] Subsequently, one hand squeezes out a small pink pearl and a large yellow pearl, placing them onto the other hand."
+    },
+    {
+        "second": 16,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MTThp-10mb4/output_frames/sec_16_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[12-17] Subsequently, one hand squeezes out a small pink pearl and a large yellow pearl, placing them onto the other hand."
+    },
+    {
+        "second": 17,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MTThp-10mb4/output_frames/sec_17_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[12-17] Subsequently, one hand squeezes out a small pink pearl and a large yellow pearl, placing them onto the other hand."
+    }
+]

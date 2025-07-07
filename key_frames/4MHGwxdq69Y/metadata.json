@@ -1,0 +1,422 @@
+[
+    {
+        "second": 0,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4MHGwxdq69Y/output_frames/sec_0_idx_21.jpg",
+        "fps": 24,
+        "explanation": "[0-0] Three men wearing masks are in a room. One man wears a horse head mask and a gray shirt, one wears a fish head mask and a black coat with a red collar, and the other wears a monkey head mask and a black coat. In the middle of the room, the man in the fish head mask sits cross-legged on a black bench supported by numerous white pillars. The man in the horse head mask stands to the left and behind, while the man in the monkey head mask stands to the right and behind. The floor of the room is brown wood, and the background and ceiling are light gray. There are two round white lights on the ceiling."
+    },
+    {
+        "second": 1,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4MHGwxdq69Y/output_frames/sec_1_idx_23.jpg",
+        "fps": 24,
+        "explanation": "[0-4] The man in the horse head mask claps his hands and shakes hands with the man in the monkey head mask. Then the camera moves to the right, and the man in the monkey head mask crouches on the right side of the bench and quietly pushes down a white pillar on the right side of the bench with a black umbrella, causing the man in the monkey head mask to jump back in fright. The camera moves to the left, and the man in the horse head mask appears from the left side, crouches on the left side of the bench, and quietly pushes down a white pillar on the left side of the bench with a black umbrella."
+    },
+    {
+        "second": 2,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4MHGwxdq69Y/output_frames/sec_2_idx_0.jpg",
+        "fps": 24,
+        "explanation": "[0-4] The man in the horse head mask claps his hands and shakes hands with the man in the monkey head mask. Then the camera moves to the right, and the man in the monkey head mask crouches on the right side of the bench and quietly pushes down a white pillar on the right side of the bench with a black umbrella, causing the man in the monkey head mask to jump back in fright. The camera moves to the left, and the man in the horse head mask appears from the left side, crouches on the left side of the bench, and quietly pushes down a white pillar on the left side of the bench with a black umbrella."
+    },
+    {
+        "second": 3,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4MHGwxdq69Y/output_frames/sec_3_idx_22.jpg",
+        "fps": 24,
+        "explanation": "[0-4] The man in the horse head mask claps his hands and shakes hands with the man in the monkey head mask. Then the camera moves to the right, and the man in the monkey head mask crouches on the right side of the bench and quietly pushes down a white pillar on the right side of the bench with a black umbrella, causing the man in the monkey head mask to jump back in fright. The camera moves to the left, and the man in the horse head mask appears from the left side, crouches on the left side of the bench, and quietly pushes down a white pillar on the left side of the bench with a black umbrella."
+    },
+    {
+        "second": 4,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4MHGwxdq69Y/output_frames/sec_4_idx_0.jpg",
+        "fps": 24,
+        "explanation": "[0-4] The man in the horse head mask claps his hands and shakes hands with the man in the monkey head mask. Then the camera moves to the right, and the man in the monkey head mask crouches on the right side of the bench and quietly pushes down a white pillar on the right side of the bench with a black umbrella, causing the man in the monkey head mask to jump back in fright. The camera moves to the left, and the man in the horse head mask appears from the left side, crouches on the left side of the bench, and quietly pushes down a white pillar on the left side of the bench with a black umbrella."
+    },
+    {
+        "second": 5,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4MHGwxdq69Y/output_frames/sec_5_idx_21.jpg",
+        "fps": 24,
+        "explanation": "[4-6] Then the camera moves to the right, and the man in the monkey head mask crouches on the right side of the bench and pushes down two more white pillars on the right side of the bench with the black umbrella in his hand. At this time, the man in the horse head mask stands behind and observes."
+    },
+    {
+        "second": 6,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4MHGwxdq69Y/output_frames/sec_6_idx_0.jpg",
+        "fps": 24,
+        "explanation": "[4-6] Then the camera moves to the right, and the man in the monkey head mask crouches on the right side of the bench and pushes down two more white pillars on the right side of the bench with the black umbrella in his hand. At this time, the man in the horse head mask stands behind and observes."
+    },
+    {
+        "second": 7,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4MHGwxdq69Y/output_frames/sec_7_idx_15.jpg",
+        "fps": 24,
+        "explanation": "[6-10] Subsequently, the camera moves to the middle, and the man in the horse head mask crouches on the left side and pushes down a white pillar in the middle of the bench with the black umbrella in his hand. Then the man in the monkey head mask hits the man in the horse head mask on the head with the black umbrella in his hand."
+    },
+    {
+        "second": 8,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4MHGwxdq69Y/output_frames/sec_8_idx_0.jpg",
+        "fps": 24,
+        "explanation": "[6-10] Subsequently, the camera moves to the middle, and the man in the horse head mask crouches on the left side and pushes down a white pillar in the middle of the bench with the black umbrella in his hand. Then the man in the monkey head mask hits the man in the horse head mask on the head with the black umbrella in his hand."
+    },
+    {
+        "second": 9,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4MHGwxdq69Y/output_frames/sec_9_idx_0.jpg",
+        "fps": 24,
+        "explanation": "[6-10] Subsequently, the camera moves to the middle, and the man in the horse head mask crouches on the left side and pushes down a white pillar in the middle of the bench with the black umbrella in his hand. Then the man in the monkey head mask hits the man in the horse head mask on the head with the black umbrella in his hand."
+    },
+    {
+        "second": 10,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4MHGwxdq69Y/output_frames/sec_10_idx_18.jpg",
+        "fps": 24,
+        "explanation": "[6-10] Subsequently, the camera moves to the middle, and the man in the horse head mask crouches on the left side and pushes down a white pillar in the middle of the bench with the black umbrella in his hand. Then the man in the monkey head mask hits the man in the horse head mask on the head with the black umbrella in his hand."
+    },
+    {
+        "second": 11,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4MHGwxdq69Y/output_frames/sec_11_idx_22.jpg",
+        "fps": 24,
+        "explanation": "[10-19] Next, the man in the horse head mask holds the umbrella in his right hand, raises his right foot and kicks off a white pillar on the left side of the bench. The camera goes back to the man in the fish head mask, who doesn't react at all. The man in the horse head mask sticks the umbrella into the wall like a sword, then bends down and rests his head against the wall. The man in the monkey head mask lies on the ground and pushes down three white pillars in the middle of the bench with his hand, then runs to the back wall and leans against it."
+    },
+    {
+        "second": 12,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4MHGwxdq69Y/output_frames/sec_12_idx_0.jpg",
+        "fps": 24,
+        "explanation": "[10-19] Next, the man in the horse head mask holds the umbrella in his right hand, raises his right foot and kicks off a white pillar on the left side of the bench. The camera goes back to the man in the fish head mask, who doesn't react at all. The man in the horse head mask sticks the umbrella into the wall like a sword, then bends down and rests his head against the wall. The man in the monkey head mask lies on the ground and pushes down three white pillars in the middle of the bench with his hand, then runs to the back wall and leans against it."
+    },
+    {
+        "second": 13,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4MHGwxdq69Y/output_frames/sec_13_idx_5.jpg",
+        "fps": 24,
+        "explanation": "[10-19] Next, the man in the horse head mask holds the umbrella in his right hand, raises his right foot and kicks off a white pillar on the left side of the bench. The camera goes back to the man in the fish head mask, who doesn't react at all. The man in the horse head mask sticks the umbrella into the wall like a sword, then bends down and rests his head against the wall. The man in the monkey head mask lies on the ground and pushes down three white pillars in the middle of the bench with his hand, then runs to the back wall and leans against it."
+    },
+    {
+        "second": 14,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4MHGwxdq69Y/output_frames/sec_14_idx_4.jpg",
+        "fps": 24,
+        "explanation": "[10-19] Next, the man in the horse head mask holds the umbrella in his right hand, raises his right foot and kicks off a white pillar on the left side of the bench. The camera goes back to the man in the fish head mask, who doesn't react at all. The man in the horse head mask sticks the umbrella into the wall like a sword, then bends down and rests his head against the wall. The man in the monkey head mask lies on the ground and pushes down three white pillars in the middle of the bench with his hand, then runs to the back wall and leans against it."
+    },
+    {
+        "second": 15,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4MHGwxdq69Y/output_frames/sec_15_idx_18.jpg",
+        "fps": 24,
+        "explanation": "[10-19] Next, the man in the horse head mask holds the umbrella in his right hand, raises his right foot and kicks off a white pillar on the left side of the bench. The camera goes back to the man in the fish head mask, who doesn't react at all. The man in the horse head mask sticks the umbrella into the wall like a sword, then bends down and rests his head against the wall. The man in the monkey head mask lies on the ground and pushes down three white pillars in the middle of the bench with his hand, then runs to the back wall and leans against it."
+    },
+    {
+        "second": 16,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4MHGwxdq69Y/output_frames/sec_16_idx_5.jpg",
+        "fps": 24,
+        "explanation": "[10-19] Next, the man in the horse head mask holds the umbrella in his right hand, raises his right foot and kicks off a white pillar on the left side of the bench. The camera goes back to the man in the fish head mask, who doesn't react at all. The man in the horse head mask sticks the umbrella into the wall like a sword, then bends down and rests his head against the wall. The man in the monkey head mask lies on the ground and pushes down three white pillars in the middle of the bench with his hand, then runs to the back wall and leans against it."
+    },
+    {
+        "second": 17,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4MHGwxdq69Y/output_frames/sec_17_idx_23.jpg",
+        "fps": 24,
+        "explanation": "[10-19] Next, the man in the horse head mask holds the umbrella in his right hand, raises his right foot and kicks off a white pillar on the left side of the bench. The camera goes back to the man in the fish head mask, who doesn't react at all. The man in the horse head mask sticks the umbrella into the wall like a sword, then bends down and rests his head against the wall. The man in the monkey head mask lies on the ground and pushes down three white pillars in the middle of the bench with his hand, then runs to the back wall and leans against it."
+    },
+    {
+        "second": 18,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4MHGwxdq69Y/output_frames/sec_18_idx_1.jpg",
+        "fps": 24,
+        "explanation": "[10-19] Next, the man in the horse head mask holds the umbrella in his right hand, raises his right foot and kicks off a white pillar on the left side of the bench. The camera goes back to the man in the fish head mask, who doesn't react at all. The man in the horse head mask sticks the umbrella into the wall like a sword, then bends down and rests his head against the wall. The man in the monkey head mask lies on the ground and pushes down three white pillars in the middle of the bench with his hand, then runs to the back wall and leans against it."
+    },
+    {
+        "second": 19,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4MHGwxdq69Y/output_frames/sec_19_idx_6.jpg",
+        "fps": 24,
+        "explanation": "[10-19] Next, the man in the horse head mask holds the umbrella in his right hand, raises his right foot and kicks off a white pillar on the left side of the bench. The camera goes back to the man in the fish head mask, who doesn't react at all. The man in the horse head mask sticks the umbrella into the wall like a sword, then bends down and rests his head against the wall. The man in the monkey head mask lies on the ground and pushes down three white pillars in the middle of the bench with his hand, then runs to the back wall and leans against it."
+    },
+    {
+        "second": 20,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4MHGwxdq69Y/output_frames/sec_20_idx_0.jpg",
+        "fps": 24,
+        "explanation": "[19-23] Then the camera moves to the left, the man in the horse head mask is holding an umbrella and spinning on the ground. At this point, the picture turns black and white."
+    },
+    {
+        "second": 21,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4MHGwxdq69Y/output_frames/sec_21_idx_3.jpg",
+        "fps": 24,
+        "explanation": "[19-23] Then the camera moves to the left, the man in the horse head mask is holding an umbrella and spinning on the ground. At this point, the picture turns black and white."
+    },
+    {
+        "second": 22,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4MHGwxdq69Y/output_frames/sec_22_idx_23.jpg",
+        "fps": 24,
+        "explanation": "[19-23] Then the camera moves to the left, the man in the horse head mask is holding an umbrella and spinning on the ground. At this point, the picture turns black and white."
+    },
+    {
+        "second": 23,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4MHGwxdq69Y/output_frames/sec_23_idx_7.jpg",
+        "fps": 24,
+        "explanation": "[19-23] Then the camera moves to the left, the man in the horse head mask is holding an umbrella and spinning on the ground. At this point, the picture turns black and white."
+    },
+    {
+        "second": 24,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4MHGwxdq69Y/output_frames/sec_24_idx_1.jpg",
+        "fps": 24,
+        "explanation": "[23-27] The picture then cuts back to color. The man in the horse head mask is lying on the ground, holding an umbrella in his right hand and pulling out a white pillar from the middle of the bench with his left hand. The man in the monkey head mask leaning against the wall immediately bends over. A silver sword hangs on the left wall. The man in the monkey head mask quickly crawls from the left to the right and then stands against the wall. The man in the monkey head mask stands up and walks behind the man in the fish head mask. The man in the horse head mask is lying on the ground and pulls out another white pillar from the middle of the bench with the handle of his umbrella."
+    },
+    {
+        "second": 25,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4MHGwxdq69Y/output_frames/sec_25_idx_19.jpg",
+        "fps": 24,
+        "explanation": "[23-27] The picture then cuts back to color. The man in the horse head mask is lying on the ground, holding an umbrella in his right hand and pulling out a white pillar from the middle of the bench with his left hand. The man in the monkey head mask leaning against the wall immediately bends over. A silver sword hangs on the left wall. The man in the monkey head mask quickly crawls from the left to the right and then stands against the wall. The man in the monkey head mask stands up and walks behind the man in the fish head mask. The man in the horse head mask is lying on the ground and pulls out another white pillar from the middle of the bench with the handle of his umbrella."
+    },
+    {
+        "second": 26,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4MHGwxdq69Y/output_frames/sec_26_idx_0.jpg",
+        "fps": 24,
+        "explanation": "[23-27] The picture then cuts back to color. The man in the horse head mask is lying on the ground, holding an umbrella in his right hand and pulling out a white pillar from the middle of the bench with his left hand. The man in the monkey head mask leaning against the wall immediately bends over. A silver sword hangs on the left wall. The man in the monkey head mask quickly crawls from the left to the right and then stands against the wall. The man in the monkey head mask stands up and walks behind the man in the fish head mask. The man in the horse head mask is lying on the ground and pulls out another white pillar from the middle of the bench with the handle of his umbrella."
+    },
+    {
+        "second": 27,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4MHGwxdq69Y/output_frames/sec_27_idx_10.jpg",
+        "fps": 24,
+        "explanation": "[23-27] The picture then cuts back to color. The man in the horse head mask is lying on the ground, holding an umbrella in his right hand and pulling out a white pillar from the middle of the bench with his left hand. The man in the monkey head mask leaning against the wall immediately bends over. A silver sword hangs on the left wall. The man in the monkey head mask quickly crawls from the left to the right and then stands against the wall. The man in the monkey head mask stands up and walks behind the man in the fish head mask. The man in the horse head mask is lying on the ground and pulls out another white pillar from the middle of the bench with the handle of his umbrella."
+    },
+    {
+        "second": 28,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4MHGwxdq69Y/output_frames/sec_28_idx_0.jpg",
+        "fps": 24,
+        "explanation": "[27-29] Then the camera moves to the left, and the man in the monkey head mask kneels on the left side, holding a black slipper in his hand and waving it at the man in the fish head mask, then turns to face the camera. The man in the horse head mask opens his umbrella and bends over to the left."
+    },
+    {
+        "second": 29,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4MHGwxdq69Y/output_frames/sec_29_idx_3.jpg",
+        "fps": 24,
+        "explanation": "[27-29] Then the camera moves to the left, and the man in the monkey head mask kneels on the left side, holding a black slipper in his hand and waving it at the man in the fish head mask, then turns to face the camera. The man in the horse head mask opens his umbrella and bends over to the left."
+    },
+    {
+        "second": 30,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4MHGwxdq69Y/output_frames/sec_30_idx_3.jpg",
+        "fps": 24,
+        "explanation": "[29-34] The camera then moves to the right, and the man in the monkey head mask kneels on the right side, holding a black slipper in his hand and waving it at the man in the fish head mask, before knocking off a white pillar in the middle of the bench. The man in the monkey head mask hits the man in the horse head mask in the face with a sword. The picture immediately turns black and white."
+    },
+    {
+        "second": 31,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4MHGwxdq69Y/output_frames/sec_31_idx_23.jpg",
+        "fps": 24,
+        "explanation": "[29-34] The camera then moves to the right, and the man in the monkey head mask kneels on the right side, holding a black slipper in his hand and waving it at the man in the fish head mask, before knocking off a white pillar in the middle of the bench. The man in the monkey head mask hits the man in the horse head mask in the face with a sword. The picture immediately turns black and white."
+    },
+    {
+        "second": 32,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4MHGwxdq69Y/output_frames/sec_32_idx_8.jpg",
+        "fps": 24,
+        "explanation": "[29-34] The camera then moves to the right, and the man in the monkey head mask kneels on the right side, holding a black slipper in his hand and waving it at the man in the fish head mask, before knocking off a white pillar in the middle of the bench. The man in the monkey head mask hits the man in the horse head mask in the face with a sword. The picture immediately turns black and white."
+    },
+    {
+        "second": 33,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4MHGwxdq69Y/output_frames/sec_33_idx_17.jpg",
+        "fps": 24,
+        "explanation": "[29-34] The camera then moves to the right, and the man in the monkey head mask kneels on the right side, holding a black slipper in his hand and waving it at the man in the fish head mask, before knocking off a white pillar in the middle of the bench. The man in the monkey head mask hits the man in the horse head mask in the face with a sword. The picture immediately turns black and white."
+    },
+    {
+        "second": 34,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4MHGwxdq69Y/output_frames/sec_34_idx_9.jpg",
+        "fps": 24,
+        "explanation": "[29-34] The camera then moves to the right, and the man in the monkey head mask kneels on the right side, holding a black slipper in his hand and waving it at the man in the fish head mask, before knocking off a white pillar in the middle of the bench. The man in the monkey head mask hits the man in the horse head mask in the face with a sword. The picture immediately turns black and white."
+    },
+    {
+        "second": 35,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4MHGwxdq69Y/output_frames/sec_35_idx_0.jpg",
+        "fps": 24,
+        "explanation": "[34-38] Then the picture moves to the man in the fish head mask, who is hitting a black umbrella and kissing it. The men in the monkey head and horse head masks stand behind the man in the fish head mask for a while, then lie on his left and right sides and push down the white pillars under the bench."
+    },
+    {
+        "second": 36,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4MHGwxdq69Y/output_frames/sec_36_idx_22.jpg",
+        "fps": 24,
+        "explanation": "[34-38] Then the picture moves to the man in the fish head mask, who is hitting a black umbrella and kissing it. The men in the monkey head and horse head masks stand behind the man in the fish head mask for a while, then lie on his left and right sides and push down the white pillars under the bench."
+    },
+    {
+        "second": 37,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4MHGwxdq69Y/output_frames/sec_37_idx_13.jpg",
+        "fps": 24,
+        "explanation": "[34-38] Then the picture moves to the man in the fish head mask, who is hitting a black umbrella and kissing it. The men in the monkey head and horse head masks stand behind the man in the fish head mask for a while, then lie on his left and right sides and push down the white pillars under the bench."
+    },
+    {
+        "second": 38,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4MHGwxdq69Y/output_frames/sec_38_idx_3.jpg",
+        "fps": 24,
+        "explanation": "[34-38] Then the picture moves to the man in the fish head mask, who is hitting a black umbrella and kissing it. The men in the monkey head and horse head masks stand behind the man in the fish head mask for a while, then lie on his left and right sides and push down the white pillars under the bench."
+    },
+    {
+        "second": 39,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4MHGwxdq69Y/output_frames/sec_39_idx_22.jpg",
+        "fps": 24,
+        "explanation": "[38-44] The man in the fish head mask then holds a closed umbrella in both hands and continues to sit cross-legged on the bench. The men in the horse head and monkey head masks keep hitting the white pillars under the bench."
+    },
+    {
+        "second": 40,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4MHGwxdq69Y/output_frames/sec_40_idx_4.jpg",
+        "fps": 24,
+        "explanation": "[38-44] The man in the fish head mask then holds a closed umbrella in both hands and continues to sit cross-legged on the bench. The men in the horse head and monkey head masks keep hitting the white pillars under the bench."
+    },
+    {
+        "second": 41,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4MHGwxdq69Y/output_frames/sec_41_idx_20.jpg",
+        "fps": 24,
+        "explanation": "[38-44] The man in the fish head mask then holds a closed umbrella in both hands and continues to sit cross-legged on the bench. The men in the horse head and monkey head masks keep hitting the white pillars under the bench."
+    },
+    {
+        "second": 42,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4MHGwxdq69Y/output_frames/sec_42_idx_4.jpg",
+        "fps": 24,
+        "explanation": "[38-44] The man in the fish head mask then holds a closed umbrella in both hands and continues to sit cross-legged on the bench. The men in the horse head and monkey head masks keep hitting the white pillars under the bench."
+    },
+    {
+        "second": 43,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4MHGwxdq69Y/output_frames/sec_43_idx_21.jpg",
+        "fps": 24,
+        "explanation": "[38-44] The man in the fish head mask then holds a closed umbrella in both hands and continues to sit cross-legged on the bench. The men in the horse head and monkey head masks keep hitting the white pillars under the bench."
+    },
+    {
+        "second": 44,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4MHGwxdq69Y/output_frames/sec_44_idx_13.jpg",
+        "fps": 24,
+        "explanation": "[38-44] The man in the fish head mask then holds a closed umbrella in both hands and continues to sit cross-legged on the bench. The men in the horse head and monkey head masks keep hitting the white pillars under the bench."
+    },
+    {
+        "second": 45,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4MHGwxdq69Y/output_frames/sec_45_idx_0.jpg",
+        "fps": 24,
+        "explanation": "[44-47] The man in the monkey head mask walks behind the man in the fish head mask. The man in the horse head mask lies on the ground and takes the umbrella from the hands of the man in the fish head mask, and pushes away the white pillars under the bench with the umbrella."
+    },
+    {
+        "second": 46,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4MHGwxdq69Y/output_frames/sec_46_idx_9.jpg",
+        "fps": 24,
+        "explanation": "[44-47] The man in the monkey head mask walks behind the man in the fish head mask. The man in the horse head mask lies on the ground and takes the umbrella from the hands of the man in the fish head mask, and pushes away the white pillars under the bench with the umbrella."
+    },
+    {
+        "second": 47,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4MHGwxdq69Y/output_frames/sec_47_idx_0.jpg",
+        "fps": 24,
+        "explanation": "[44-47] The man in the monkey head mask walks behind the man in the fish head mask. The man in the horse head mask lies on the ground and takes the umbrella from the hands of the man in the fish head mask, and pushes away the white pillars under the bench with the umbrella."
+    },
+    {
+        "second": 48,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4MHGwxdq69Y/output_frames/sec_48_idx_3.jpg",
+        "fps": 24,
+        "explanation": "[47-53] The man in the horse head mask puts down the umbrella in his hand and pulls out a white pillar from the bench with his right hand. The man in the monkey head mask also holds a white pillar in his hand, and then he also pushes down a white pillar with the umbrella."
+    },
+    {
+        "second": 49,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4MHGwxdq69Y/output_frames/sec_49_idx_17.jpg",
+        "fps": 24,
+        "explanation": "[47-53] The man in the horse head mask puts down the umbrella in his hand and pulls out a white pillar from the bench with his right hand. The man in the monkey head mask also holds a white pillar in his hand, and then he also pushes down a white pillar with the umbrella."
+    },
+    {
+        "second": 50,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4MHGwxdq69Y/output_frames/sec_50_idx_10.jpg",
+        "fps": 24,
+        "explanation": "[47-53] The man in the horse head mask puts down the umbrella in his hand and pulls out a white pillar from the bench with his right hand. The man in the monkey head mask also holds a white pillar in his hand, and then he also pushes down a white pillar with the umbrella."
+    },
+    {
+        "second": 51,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4MHGwxdq69Y/output_frames/sec_51_idx_0.jpg",
+        "fps": 24,
+        "explanation": "[47-53] The man in the horse head mask puts down the umbrella in his hand and pulls out a white pillar from the bench with his right hand. The man in the monkey head mask also holds a white pillar in his hand, and then he also pushes down a white pillar with the umbrella."
+    },
+    {
+        "second": 52,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4MHGwxdq69Y/output_frames/sec_52_idx_21.jpg",
+        "fps": 24,
+        "explanation": "[47-53] The man in the horse head mask puts down the umbrella in his hand and pulls out a white pillar from the bench with his right hand. The man in the monkey head mask also holds a white pillar in his hand, and then he also pushes down a white pillar with the umbrella."
+    },
+    {
+        "second": 53,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4MHGwxdq69Y/output_frames/sec_53_idx_8.jpg",
+        "fps": 24,
+        "explanation": "[47-53] The man in the horse head mask puts down the umbrella in his hand and pulls out a white pillar from the bench with his right hand. The man in the monkey head mask also holds a white pillar in his hand, and then he also pushes down a white pillar with the umbrella."
+    },
+    {
+        "second": 54,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4MHGwxdq69Y/output_frames/sec_54_idx_16.jpg",
+        "fps": 24,
+        "explanation": "[53-59] Finally, there are only three white pillars left under the bench. The man in the horse head mask gestures with the umbrella in his hand, then swings hard and knocks out a white pillar on the right side of the bench. The bench collapses, and the man in the fish head mask falls off the bench."
+    },
+    {
+        "second": 55,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4MHGwxdq69Y/output_frames/sec_55_idx_23.jpg",
+        "fps": 24,
+        "explanation": "[53-59] Finally, there are only three white pillars left under the bench. The man in the horse head mask gestures with the umbrella in his hand, then swings hard and knocks out a white pillar on the right side of the bench. The bench collapses, and the man in the fish head mask falls off the bench."
+    },
+    {
+        "second": 56,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4MHGwxdq69Y/output_frames/sec_56_idx_22.jpg",
+        "fps": 24,
+        "explanation": "[53-59] Finally, there are only three white pillars left under the bench. The man in the horse head mask gestures with the umbrella in his hand, then swings hard and knocks out a white pillar on the right side of the bench. The bench collapses, and the man in the fish head mask falls off the bench."
+    },
+    {
+        "second": 57,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4MHGwxdq69Y/output_frames/sec_57_idx_16.jpg",
+        "fps": 24,
+        "explanation": "[53-59] Finally, there are only three white pillars left under the bench. The man in the horse head mask gestures with the umbrella in his hand, then swings hard and knocks out a white pillar on the right side of the bench. The bench collapses, and the man in the fish head mask falls off the bench."
+    },
+    {
+        "second": 58,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4MHGwxdq69Y/output_frames/sec_58_idx_22.jpg",
+        "fps": 24,
+        "explanation": "[53-59] Finally, there are only three white pillars left under the bench. The man in the horse head mask gestures with the umbrella in his hand, then swings hard and knocks out a white pillar on the right side of the bench. The bench collapses, and the man in the fish head mask falls off the bench."
+    },
+    {
+        "second": 59,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4MHGwxdq69Y/output_frames/sec_59_idx_4.jpg",
+        "fps": 24,
+        "explanation": "[53-59] Finally, there are only three white pillars left under the bench. The man in the horse head mask gestures with the umbrella in his hand, then swings hard and knocks out a white pillar on the right side of the bench. The bench collapses, and the man in the fish head mask falls off the bench."
+    }
+]

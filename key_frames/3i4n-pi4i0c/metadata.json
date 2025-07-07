@@ -1,0 +1,58 @@
+[
+    {
+        "second": 0,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3i4n-pi4i0c/output_frames/sec_0_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-0] In a white room, a young woman in a peach bikini top and teal shorts lies in a giant toilet bowl-shaped container. The container is filled with colorful plastic balls. On the left side of the frame, a young man wearing a green hat, a light yellow T-shirt, and dark shorts holds a yellow balloon in his hand. On the right side of the frame, a young man in a pink T-shirt holds a blue balloon with his mouth open."
+    },
+    {
+        "second": 1,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3i4n-pi4i0c/output_frames/sec_1_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Then the man in the green hat starts to hold the yellow balloon over the woman. The young man in the pink T-shirt pops the blue balloon, splashing water from the balloon onto the woman. The woman sinks into the container, leaving only her legs exposed. The young man in the light pink T-shirt hides in the corner."
+    },
+    {
+        "second": 2,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3i4n-pi4i0c/output_frames/sec_2_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Then the man in the green hat starts to hold the yellow balloon over the woman. The young man in the pink T-shirt pops the blue balloon, splashing water from the balloon onto the woman. The woman sinks into the container, leaving only her legs exposed. The young man in the light pink T-shirt hides in the corner."
+    },
+    {
+        "second": 3,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3i4n-pi4i0c/output_frames/sec_3_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Then the man in the green hat starts to hold the yellow balloon over the woman. The young man in the pink T-shirt pops the blue balloon, splashing water from the balloon onto the woman. The woman sinks into the container, leaving only her legs exposed. The young man in the light pink T-shirt hides in the corner."
+    },
+    {
+        "second": 4,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3i4n-pi4i0c/output_frames/sec_4_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[3-7] Then the woman sticks her head out and wipes her eyes. The man in the green hat pops the balloon, and the water from the balloon lands on the woman's head. The woman yells in the container. The man in the green hat looks very happy. The young man in the pink T-shirt walks closer to the container from the corner, looks at the man in the green hat, and smiles."
+    },
+    {
+        "second": 5,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3i4n-pi4i0c/output_frames/sec_5_idx_24.jpg",
+        "fps": 30,
+        "explanation": "[3-7] Then the woman sticks her head out and wipes her eyes. The man in the green hat pops the balloon, and the water from the balloon lands on the woman's head. The woman yells in the container. The man in the green hat looks very happy. The young man in the pink T-shirt walks closer to the container from the corner, looks at the man in the green hat, and smiles."
+    },
+    {
+        "second": 6,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3i4n-pi4i0c/output_frames/sec_6_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[3-7] Then the woman sticks her head out and wipes her eyes. The man in the green hat pops the balloon, and the water from the balloon lands on the woman's head. The woman yells in the container. The man in the green hat looks very happy. The young man in the pink T-shirt walks closer to the container from the corner, looks at the man in the green hat, and smiles."
+    },
+    {
+        "second": 7,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3i4n-pi4i0c/output_frames/sec_7_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[3-7] Then the woman sticks her head out and wipes her eyes. The man in the green hat pops the balloon, and the water from the balloon lands on the woman's head. The woman yells in the container. The man in the green hat looks very happy. The young man in the pink T-shirt walks closer to the container from the corner, looks at the man in the green hat, and smiles."
+    }
+]

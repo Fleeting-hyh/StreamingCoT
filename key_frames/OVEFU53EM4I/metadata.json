@@ -1,0 +1,79 @@
+[
+    {
+        "second": 0,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/OVEFU53EM4I/output_frames/sec_0_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A rabbit sits on the side of a dirt road, looking to the left. In the distance, there is a group of birds, and the bird in the middle right is holding a carrot. At the bottom of the video, there are yellow subtitles that read \"doodle by LeopARTnik\"."
+    },
+    {
+        "second": 1,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/OVEFU53EM4I/output_frames/sec_1_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[0-7] The group of birds starts walking along the dirt road towards the rabbit, with the carrot-carrying bird maintaining its position in the group. The subtitles then move to the bottom left corner of the video."
+    },
+    {
+        "second": 2,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/OVEFU53EM4I/output_frames/sec_2_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[0-7] The group of birds starts walking along the dirt road towards the rabbit, with the carrot-carrying bird maintaining its position in the group. The subtitles then move to the bottom left corner of the video."
+    },
+    {
+        "second": 3,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/OVEFU53EM4I/output_frames/sec_3_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[0-7] The group of birds starts walking along the dirt road towards the rabbit, with the carrot-carrying bird maintaining its position in the group. The subtitles then move to the bottom left corner of the video."
+    },
+    {
+        "second": 4,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/OVEFU53EM4I/output_frames/sec_4_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[0-7] The group of birds starts walking along the dirt road towards the rabbit, with the carrot-carrying bird maintaining its position in the group. The subtitles then move to the bottom left corner of the video."
+    },
+    {
+        "second": 5,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/OVEFU53EM4I/output_frames/sec_5_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[0-7] The group of birds starts walking along the dirt road towards the rabbit, with the carrot-carrying bird maintaining its position in the group. The subtitles then move to the bottom left corner of the video."
+    },
+    {
+        "second": 6,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/OVEFU53EM4I/output_frames/sec_6_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[0-7] The group of birds starts walking along the dirt road towards the rabbit, with the carrot-carrying bird maintaining its position in the group. The subtitles then move to the bottom left corner of the video."
+    },
+    {
+        "second": 7,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/OVEFU53EM4I/output_frames/sec_7_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[0-7] The group of birds starts walking along the dirt road towards the rabbit, with the carrot-carrying bird maintaining its position in the group. The subtitles then move to the bottom left corner of the video."
+    },
+    {
+        "second": 8,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/OVEFU53EM4I/output_frames/sec_8_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[7-10] As the birds get closer, the rabbit suddenly turns and hops away to the right side of the dirt road. The bird carrying the carrot lifts it up and then places it back on the ground. The video ends with the group of birds continuing to walk forward."
+    },
+    {
+        "second": 9,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/OVEFU53EM4I/output_frames/sec_9_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[7-10] As the birds get closer, the rabbit suddenly turns and hops away to the right side of the dirt road. The bird carrying the carrot lifts it up and then places it back on the ground. The video ends with the group of birds continuing to walk forward."
+    },
+    {
+        "second": 10,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/OVEFU53EM4I/output_frames/sec_10_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[7-10] As the birds get closer, the rabbit suddenly turns and hops away to the right side of the dirt road. The bird carrying the carrot lifts it up and then places it back on the ground. The video ends with the group of birds continuing to walk forward."
+    }
+]

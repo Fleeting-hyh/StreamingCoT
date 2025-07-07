@@ -1,0 +1,72 @@
+[
+    {
+        "second": 0,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CWducWSZw7U/output_frames/sec_0_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A go-kart racer wearing a racing suit and helmet is driving a go-kart on the track. A small blue go-kart is towing a long blue rope. Above the picture, there is a black caption: Table WHIP Challenge."
+    },
+    {
+        "second": 1,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CWducWSZw7U/output_frames/sec_1_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[0-6] The go-kart starts to drive forward with smoke, the camera moves to the right, and you can see a large blue rope on the ground. The other end of the rope is tied to the tablecloth of a dining table with several cups and a teapot on it. A man is sitting there pouring milk."
+    },
+    {
+        "second": 2,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CWducWSZw7U/output_frames/sec_2_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[0-6] The go-kart starts to drive forward with smoke, the camera moves to the right, and you can see a large blue rope on the ground. The other end of the rope is tied to the tablecloth of a dining table with several cups and a teapot on it. A man is sitting there pouring milk."
+    },
+    {
+        "second": 3,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CWducWSZw7U/output_frames/sec_3_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[0-6] The go-kart starts to drive forward with smoke, the camera moves to the right, and you can see a large blue rope on the ground. The other end of the rope is tied to the tablecloth of a dining table with several cups and a teapot on it. A man is sitting there pouring milk."
+    },
+    {
+        "second": 4,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CWducWSZw7U/output_frames/sec_4_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[0-6] The go-kart starts to drive forward with smoke, the camera moves to the right, and you can see a large blue rope on the ground. The other end of the rope is tied to the tablecloth of a dining table with several cups and a teapot on it. A man is sitting there pouring milk."
+    },
+    {
+        "second": 5,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CWducWSZw7U/output_frames/sec_5_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-6] The go-kart starts to drive forward with smoke, the camera moves to the right, and you can see a large blue rope on the ground. The other end of the rope is tied to the tablecloth of a dining table with several cups and a teapot on it. A man is sitting there pouring milk."
+    },
+    {
+        "second": 6,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CWducWSZw7U/output_frames/sec_6_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[0-6] The go-kart starts to drive forward with smoke, the camera moves to the right, and you can see a large blue rope on the ground. The other end of the rope is tied to the tablecloth of a dining table with several cups and a teapot on it. A man is sitting there pouring milk."
+    },
+    {
+        "second": 7,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CWducWSZw7U/output_frames/sec_7_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[6-9] Then the rope suddenly tightens, the tablecloth is pulled away, the cups and teapot fall to the ground and shatter, and drinks are spilled all over the floor."
+    },
+    {
+        "second": 8,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CWducWSZw7U/output_frames/sec_8_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[6-9] Then the rope suddenly tightens, the tablecloth is pulled away, the cups and teapot fall to the ground and shatter, and drinks are spilled all over the floor."
+    },
+    {
+        "second": 9,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CWducWSZw7U/output_frames/sec_9_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[6-9] Then the rope suddenly tightens, the tablecloth is pulled away, the cups and teapot fall to the ground and shatter, and drinks are spilled all over the floor."
+    }
+]

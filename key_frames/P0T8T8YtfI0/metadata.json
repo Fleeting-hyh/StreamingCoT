@@ -1,0 +1,100 @@
+[
+    {
+        "second": 0,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P0T8T8YtfI0/output_frames/sec_0_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A child is standing on the grass, wearing a white top and black pants. In front of him is a sheep. Above is a white caption: \"Sheepio playing gently,\" with a crying emoji on the right and below the caption."
+    },
+    {
+        "second": 1,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P0T8T8YtfI0/output_frames/sec_1_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[0-5] The sheep in front of the child jumps a few times, then knocks the child over from the left. After jumping twice more, it lowers its head and stands in front of the child."
+    },
+    {
+        "second": 2,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P0T8T8YtfI0/output_frames/sec_2_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[0-5] The sheep in front of the child jumps a few times, then knocks the child over from the left. After jumping twice more, it lowers its head and stands in front of the child."
+    },
+    {
+        "second": 3,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P0T8T8YtfI0/output_frames/sec_3_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[0-5] The sheep in front of the child jumps a few times, then knocks the child over from the left. After jumping twice more, it lowers its head and stands in front of the child."
+    },
+    {
+        "second": 4,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P0T8T8YtfI0/output_frames/sec_4_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[0-5] The sheep in front of the child jumps a few times, then knocks the child over from the left. After jumping twice more, it lowers its head and stands in front of the child."
+    },
+    {
+        "second": 5,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P0T8T8YtfI0/output_frames/sec_5_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[0-5] The sheep in front of the child jumps a few times, then knocks the child over from the left. After jumping twice more, it lowers its head and stands in front of the child."
+    },
+    {
+        "second": 6,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P0T8T8YtfI0/output_frames/sec_6_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[5-13] As the child gets up from the ground, the sheep tries to butt the child but misses. After standing up, the child opens his arms, and the sheep jumps to the left, disappearing from the shot. Then, the sheep runs back from the left and stands on the grass."
+    },
+    {
+        "second": 7,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P0T8T8YtfI0/output_frames/sec_7_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[5-13] As the child gets up from the ground, the sheep tries to butt the child but misses. After standing up, the child opens his arms, and the sheep jumps to the left, disappearing from the shot. Then, the sheep runs back from the left and stands on the grass."
+    },
+    {
+        "second": 8,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P0T8T8YtfI0/output_frames/sec_8_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[5-13] As the child gets up from the ground, the sheep tries to butt the child but misses. After standing up, the child opens his arms, and the sheep jumps to the left, disappearing from the shot. Then, the sheep runs back from the left and stands on the grass."
+    },
+    {
+        "second": 9,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P0T8T8YtfI0/output_frames/sec_9_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[5-13] As the child gets up from the ground, the sheep tries to butt the child but misses. After standing up, the child opens his arms, and the sheep jumps to the left, disappearing from the shot. Then, the sheep runs back from the left and stands on the grass."
+    },
+    {
+        "second": 10,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P0T8T8YtfI0/output_frames/sec_10_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[5-13] As the child gets up from the ground, the sheep tries to butt the child but misses. After standing up, the child opens his arms, and the sheep jumps to the left, disappearing from the shot. Then, the sheep runs back from the left and stands on the grass."
+    },
+    {
+        "second": 11,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P0T8T8YtfI0/output_frames/sec_11_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[5-13] As the child gets up from the ground, the sheep tries to butt the child but misses. After standing up, the child opens his arms, and the sheep jumps to the left, disappearing from the shot. Then, the sheep runs back from the left and stands on the grass."
+    },
+    {
+        "second": 12,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P0T8T8YtfI0/output_frames/sec_12_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[5-13] As the child gets up from the ground, the sheep tries to butt the child but misses. After standing up, the child opens his arms, and the sheep jumps to the left, disappearing from the shot. Then, the sheep runs back from the left and stands on the grass."
+    },
+    {
+        "second": 13,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P0T8T8YtfI0/output_frames/sec_13_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[5-13] As the child gets up from the ground, the sheep tries to butt the child but misses. After standing up, the child opens his arms, and the sheep jumps to the left, disappearing from the shot. Then, the sheep runs back from the left and stands on the grass."
+    }
+]

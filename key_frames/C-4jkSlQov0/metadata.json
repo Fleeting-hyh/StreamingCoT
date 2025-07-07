@@ -1,0 +1,170 @@
+[
+    {
+        "second": 0,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/C-4jkSlQov0/output_frames/sec_0_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[0-0] In front of a table, a woman is lying on the ground, wearing a black vest and blue denim shorts. Two men are sitting behind the table. The man on the right is wearing a black short-sleeved shirt and holding money in his hand. The man on the left is wearing a gray short-sleeved shirt and holding a white plate in his right hand. There is also a white plate on the table."
+    },
+    {
+        "second": 1,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/C-4jkSlQov0/output_frames/sec_1_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[0-5] The man on the left points to the table, and the man on the right puts the money in his hand on the spot where he pointed. The man on the left covers the money with the plate in his hand and switches it back and forth with the plate on the table. During this process, he secretly lets the woman under the table take the money. Then, he lets the man on the right guess where the money is. The man on the right points to the left plate on the table, and the man on the left opens it, but there is nothing there. Then, the man on the right puts the money in his hand under the left plate again."
+    },
+    {
+        "second": 2,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/C-4jkSlQov0/output_frames/sec_2_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[0-5] The man on the left points to the table, and the man on the right puts the money in his hand on the spot where he pointed. The man on the left covers the money with the plate in his hand and switches it back and forth with the plate on the table. During this process, he secretly lets the woman under the table take the money. Then, he lets the man on the right guess where the money is. The man on the right points to the left plate on the table, and the man on the left opens it, but there is nothing there. Then, the man on the right puts the money in his hand under the left plate again."
+    },
+    {
+        "second": 3,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/C-4jkSlQov0/output_frames/sec_3_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[0-5] The man on the left points to the table, and the man on the right puts the money in his hand on the spot where he pointed. The man on the left covers the money with the plate in his hand and switches it back and forth with the plate on the table. During this process, he secretly lets the woman under the table take the money. Then, he lets the man on the right guess where the money is. The man on the right points to the left plate on the table, and the man on the left opens it, but there is nothing there. Then, the man on the right puts the money in his hand under the left plate again."
+    },
+    {
+        "second": 4,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/C-4jkSlQov0/output_frames/sec_4_idx_24.jpg",
+        "fps": 30,
+        "explanation": "[0-5] The man on the left points to the table, and the man on the right puts the money in his hand on the spot where he pointed. The man on the left covers the money with the plate in his hand and switches it back and forth with the plate on the table. During this process, he secretly lets the woman under the table take the money. Then, he lets the man on the right guess where the money is. The man on the right points to the left plate on the table, and the man on the left opens it, but there is nothing there. Then, the man on the right puts the money in his hand under the left plate again."
+    },
+    {
+        "second": 5,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/C-4jkSlQov0/output_frames/sec_5_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[0-5] The man on the left points to the table, and the man on the right puts the money in his hand on the spot where he pointed. The man on the left covers the money with the plate in his hand and switches it back and forth with the plate on the table. During this process, he secretly lets the woman under the table take the money. Then, he lets the man on the right guess where the money is. The man on the right points to the left plate on the table, and the man on the left opens it, but there is nothing there. Then, the man on the right puts the money in his hand under the left plate again."
+    },
+    {
+        "second": 6,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/C-4jkSlQov0/output_frames/sec_6_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[5-10] Then, the man on the left covers the money with the plate and switches the two plates back and forth again. During the process, he secretly gives the money to the woman lying on the ground again. Then, he lets the man on the right guess which plate the money is under. This time, the man on the right guesses the right plate. After opening it, there is still nothing there."
+    },
+    {
+        "second": 7,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/C-4jkSlQov0/output_frames/sec_7_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[5-10] Then, the man on the left covers the money with the plate and switches the two plates back and forth again. During the process, he secretly gives the money to the woman lying on the ground again. Then, he lets the man on the right guess which plate the money is under. This time, the man on the right guesses the right plate. After opening it, there is still nothing there."
+    },
+    {
+        "second": 8,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/C-4jkSlQov0/output_frames/sec_8_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[5-10] Then, the man on the left covers the money with the plate and switches the two plates back and forth again. During the process, he secretly gives the money to the woman lying on the ground again. Then, he lets the man on the right guess which plate the money is under. This time, the man on the right guesses the right plate. After opening it, there is still nothing there."
+    },
+    {
+        "second": 9,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/C-4jkSlQov0/output_frames/sec_9_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[5-10] Then, the man on the left covers the money with the plate and switches the two plates back and forth again. During the process, he secretly gives the money to the woman lying on the ground again. Then, he lets the man on the right guess which plate the money is under. This time, the man on the right guesses the right plate. After opening it, there is still nothing there."
+    },
+    {
+        "second": 10,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/C-4jkSlQov0/output_frames/sec_10_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[5-10] Then, the man on the left covers the money with the plate and switches the two plates back and forth again. During the process, he secretly gives the money to the woman lying on the ground again. Then, he lets the man on the right guess which plate the money is under. This time, the man on the right guesses the right plate. After opening it, there is still nothing there."
+    },
+    {
+        "second": 11,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/C-4jkSlQov0/output_frames/sec_11_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[10-20] Immediately, the man on the right puts the money under the right plate again, the man on the left covers it with the plate, uses the same trick to give the money to the woman again, and lets the man on the right guess wrong. Then, the man on the right puts the last bill in his hand under the right plate."
+    },
+    {
+        "second": 12,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/C-4jkSlQov0/output_frames/sec_12_idx_24.jpg",
+        "fps": 30,
+        "explanation": "[10-20] Immediately, the man on the right puts the money under the right plate again, the man on the left covers it with the plate, uses the same trick to give the money to the woman again, and lets the man on the right guess wrong. Then, the man on the right puts the last bill in his hand under the right plate."
+    },
+    {
+        "second": 13,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/C-4jkSlQov0/output_frames/sec_13_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[10-20] Immediately, the man on the right puts the money under the right plate again, the man on the left covers it with the plate, uses the same trick to give the money to the woman again, and lets the man on the right guess wrong. Then, the man on the right puts the last bill in his hand under the right plate."
+    },
+    {
+        "second": 14,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/C-4jkSlQov0/output_frames/sec_14_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[10-20] Immediately, the man on the right puts the money under the right plate again, the man on the left covers it with the plate, uses the same trick to give the money to the woman again, and lets the man on the right guess wrong. Then, the man on the right puts the last bill in his hand under the right plate."
+    },
+    {
+        "second": 15,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/C-4jkSlQov0/output_frames/sec_15_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[10-20] Immediately, the man on the right puts the money under the right plate again, the man on the left covers it with the plate, uses the same trick to give the money to the woman again, and lets the man on the right guess wrong. Then, the man on the right puts the last bill in his hand under the right plate."
+    },
+    {
+        "second": 16,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/C-4jkSlQov0/output_frames/sec_16_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[10-20] Immediately, the man on the right puts the money under the right plate again, the man on the left covers it with the plate, uses the same trick to give the money to the woman again, and lets the man on the right guess wrong. Then, the man on the right puts the last bill in his hand under the right plate."
+    },
+    {
+        "second": 17,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/C-4jkSlQov0/output_frames/sec_17_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[10-20] Immediately, the man on the right puts the money under the right plate again, the man on the left covers it with the plate, uses the same trick to give the money to the woman again, and lets the man on the right guess wrong. Then, the man on the right puts the last bill in his hand under the right plate."
+    },
+    {
+        "second": 18,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/C-4jkSlQov0/output_frames/sec_18_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[10-20] Immediately, the man on the right puts the money under the right plate again, the man on the left covers it with the plate, uses the same trick to give the money to the woman again, and lets the man on the right guess wrong. Then, the man on the right puts the last bill in his hand under the right plate."
+    },
+    {
+        "second": 19,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/C-4jkSlQov0/output_frames/sec_19_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[10-20] Immediately, the man on the right puts the money under the right plate again, the man on the left covers it with the plate, uses the same trick to give the money to the woman again, and lets the man on the right guess wrong. Then, the man on the right puts the last bill in his hand under the right plate."
+    },
+    {
+        "second": 20,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/C-4jkSlQov0/output_frames/sec_20_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[10-20] Immediately, the man on the right puts the money under the right plate again, the man on the left covers it with the plate, uses the same trick to give the money to the woman again, and lets the man on the right guess wrong. Then, the man on the right puts the last bill in his hand under the right plate."
+    },
+    {
+        "second": 21,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/C-4jkSlQov0/output_frames/sec_21_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[20-23] Immediately, the man on the left uses the same trick to let the woman under the table take the money. Then the man on the right opens both plates and finds that there is no money under either plate. Then, he angrily picks up a plate and pretends to hit the man on the left."
+    },
+    {
+        "second": 22,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/C-4jkSlQov0/output_frames/sec_22_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[20-23] Immediately, the man on the left uses the same trick to let the woman under the table take the money. Then the man on the right opens both plates and finds that there is no money under either plate. Then, he angrily picks up a plate and pretends to hit the man on the left."
+    },
+    {
+        "second": 23,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/C-4jkSlQov0/output_frames/sec_23_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[20-23] Immediately, the man on the left uses the same trick to let the woman under the table take the money. Then the man on the right opens both plates and finds that there is no money under either plate. Then, he angrily picks up a plate and pretends to hit the man on the left."
+    }
+]

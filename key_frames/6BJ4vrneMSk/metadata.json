@@ -1,0 +1,156 @@
+[
+    {
+        "second": 0,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6BJ4vrneMSk/output_frames/sec_0_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[0-0] On a soccer field, a young woman in a white tank top and black shorts stands in the distance, holding a tennis ball. A man's hand dominates the foreground, half-clenched. At the top of the screen, \"Boy\" and \"Girl\" labels are displayed, each with an avatar of a boy and a girl next to them. Below each label is a set of ball icons representing different sports: a green tennis ball, a gray volleyball, a black and white soccer ball, and an orange basketball. The background is tall green trees in the distance, with a blue sky and white clouds."
+    },
+    {
+        "second": 1,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6BJ4vrneMSk/output_frames/sec_1_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[0-3] The girl then tosses the green tennis ball, and the man's hand clenches into a fist, indicating he didn't catch it. A red cross mark appears on the tennis ball icon under the \"Boy\" label."
+    },
+    {
+        "second": 2,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6BJ4vrneMSk/output_frames/sec_2_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[0-3] The girl then tosses the green tennis ball, and the man's hand clenches into a fist, indicating he didn't catch it. A red cross mark appears on the tennis ball icon under the \"Boy\" label."
+    },
+    {
+        "second": 3,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6BJ4vrneMSk/output_frames/sec_3_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[0-3] The girl then tosses the green tennis ball, and the man's hand clenches into a fist, indicating he didn't catch it. A red cross mark appears on the tennis ball icon under the \"Boy\" label."
+    },
+    {
+        "second": 4,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6BJ4vrneMSk/output_frames/sec_4_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[3-6] Afterward, a woman's hand with pink nail polish enters the frame, ready to catch. A man in a blue short-sleeved T-shirt and black shorts tosses the green tennis ball, and the woman's hand catches it. A green check mark appears on the tennis ball icon under the \"Girl\" label."
+    },
+    {
+        "second": 5,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6BJ4vrneMSk/output_frames/sec_5_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[3-6] Afterward, a woman's hand with pink nail polish enters the frame, ready to catch. A man in a blue short-sleeved T-shirt and black shorts tosses the green tennis ball, and the woman's hand catches it. A green check mark appears on the tennis ball icon under the \"Girl\" label."
+    },
+    {
+        "second": 6,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6BJ4vrneMSk/output_frames/sec_6_idx_24.jpg",
+        "fps": 30,
+        "explanation": "[3-6] Afterward, a woman's hand with pink nail polish enters the frame, ready to catch. A man in a blue short-sleeved T-shirt and black shorts tosses the green tennis ball, and the woman's hand catches it. A green check mark appears on the tennis ball icon under the \"Girl\" label."
+    },
+    {
+        "second": 7,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6BJ4vrneMSk/output_frames/sec_7_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[6-8] Subsequently, the man's hand re-enters the frame, ready to catch a volleyball. The woman in the white tank top throws a blue and yellow basketball, and the man's hand catches it. A green check mark appears on the basketball icon under the \"Boy\" label."
+    },
+    {
+        "second": 8,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6BJ4vrneMSk/output_frames/sec_8_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[6-8] Subsequently, the man's hand re-enters the frame, ready to catch a volleyball. The woman in the white tank top throws a blue and yellow basketball, and the man's hand catches it. A green check mark appears on the basketball icon under the \"Boy\" label."
+    },
+    {
+        "second": 9,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6BJ4vrneMSk/output_frames/sec_9_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[8-11] Then, the woman's hand reaches out, ready to catch the volleyball. The man in the blue short-sleeved T-shirt throws the blue and yellow basketball, and the woman's hand catches the volleyball. A green check mark appears on the volleyball icon under the \"Girl\" label."
+    },
+    {
+        "second": 10,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6BJ4vrneMSk/output_frames/sec_10_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[8-11] Then, the woman's hand reaches out, ready to catch the volleyball. The man in the blue short-sleeved T-shirt throws the blue and yellow basketball, and the woman's hand catches the volleyball. A green check mark appears on the volleyball icon under the \"Girl\" label."
+    },
+    {
+        "second": 11,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6BJ4vrneMSk/output_frames/sec_11_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[8-11] Then, the woman's hand reaches out, ready to catch the volleyball. The man in the blue short-sleeved T-shirt throws the blue and yellow basketball, and the woman's hand catches the volleyball. A green check mark appears on the volleyball icon under the \"Girl\" label."
+    },
+    {
+        "second": 12,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6BJ4vrneMSk/output_frames/sec_12_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[11-14] Next, the man's hand reaches out, ready to catch the soccer ball. The woman in the white tank top throws the soccer ball, and the man's hand catches it. A green check mark appears on the soccer ball icon under the \"Boy\" label."
+    },
+    {
+        "second": 13,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6BJ4vrneMSk/output_frames/sec_13_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[11-14] Next, the man's hand reaches out, ready to catch the soccer ball. The woman in the white tank top throws the soccer ball, and the man's hand catches it. A green check mark appears on the soccer ball icon under the \"Boy\" label."
+    },
+    {
+        "second": 14,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6BJ4vrneMSk/output_frames/sec_14_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[11-14] Next, the man's hand reaches out, ready to catch the soccer ball. The woman in the white tank top throws the soccer ball, and the man's hand catches it. A green check mark appears on the soccer ball icon under the \"Boy\" label."
+    },
+    {
+        "second": 15,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6BJ4vrneMSk/output_frames/sec_15_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[14-17] Afterward, the woman's hand reaches out, ready to catch the soccer ball. The man in the blue short-sleeved T-shirt throws the soccer ball, and the woman's hand catches it. A green check mark appears on the soccer ball icon under the \"Girl\" label."
+    },
+    {
+        "second": 16,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6BJ4vrneMSk/output_frames/sec_16_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[14-17] Afterward, the woman's hand reaches out, ready to catch the soccer ball. The man in the blue short-sleeved T-shirt throws the soccer ball, and the woman's hand catches it. A green check mark appears on the soccer ball icon under the \"Girl\" label."
+    },
+    {
+        "second": 17,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6BJ4vrneMSk/output_frames/sec_17_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[14-17] Afterward, the woman's hand reaches out, ready to catch the soccer ball. The man in the blue short-sleeved T-shirt throws the soccer ball, and the woman's hand catches it. A green check mark appears on the soccer ball icon under the \"Girl\" label."
+    },
+    {
+        "second": 18,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6BJ4vrneMSk/output_frames/sec_18_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[17-19] Then, the man's hand reaches out, ready to catch the basketball. The woman in the white tank top throws the basketball, and the man's hand catches it. A green check mark appears on the soccer ball icon under the \"Boy\" label."
+    },
+    {
+        "second": 19,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6BJ4vrneMSk/output_frames/sec_19_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[17-19] Then, the man's hand reaches out, ready to catch the basketball. The woman in the white tank top throws the basketball, and the man's hand catches it. A green check mark appears on the soccer ball icon under the \"Boy\" label."
+    },
+    {
+        "second": 20,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6BJ4vrneMSk/output_frames/sec_20_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[19-22] Next, the woman's hand reaches out, ready to catch the basketball. The man in the blue short-sleeved T-shirt throws the brown basketball, and the woman's hand misses it, the basketball falling to the ground. A red cross mark appears on the soccer ball icon under the \"Girl\" label."
+    },
+    {
+        "second": 21,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6BJ4vrneMSk/output_frames/sec_21_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[19-22] Next, the woman's hand reaches out, ready to catch the basketball. The man in the blue short-sleeved T-shirt throws the brown basketball, and the woman's hand misses it, the basketball falling to the ground. A red cross mark appears on the soccer ball icon under the \"Girl\" label."
+    }
+]

@@ -1,0 +1,135 @@
+[
+    {
+        "second": 0,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1GlGr0EUkfE/output_frames/sec_0_idx_15.jpg",
+        "fps": 24,
+        "explanation": "[0-0] On a city street at night, a woman with long blonde hair, wearing a white top, stands by the roadside. She is covering her mouth with her left hand and holding a pen in her right hand, looking ahead. Behind her, on the opposite side of the street, a white car is parked, and on the right side of the frame is the rear of another white car."
+    },
+    {
+        "second": 1,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1GlGr0EUkfE/output_frames/sec_1_idx_19.jpg",
+        "fps": 24,
+        "explanation": "[0-2] The blonde woman then turns left and walks along the road, stopping at the rear bumper of a white pickup truck."
+    },
+    {
+        "second": 2,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1GlGr0EUkfE/output_frames/sec_2_idx_0.jpg",
+        "fps": 24,
+        "explanation": "[0-2] The blonde woman then turns left and walks along the road, stopping at the rear bumper of a white pickup truck."
+    },
+    {
+        "second": 3,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1GlGr0EUkfE/output_frames/sec_3_idx_21.jpg",
+        "fps": 24,
+        "explanation": "[2-5] As the camera zooms in, the blonde woman writes \"=8\" in front of the \"4X4\" on the rear bumper of the white pickup truck with a marker. Then the camera zooms out, and the blonde woman runs away from the back of the white pickup truck."
+    },
+    {
+        "second": 4,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1GlGr0EUkfE/output_frames/sec_4_idx_16.jpg",
+        "fps": 24,
+        "explanation": "[2-5] As the camera zooms in, the blonde woman writes \"=8\" in front of the \"4X4\" on the rear bumper of the white pickup truck with a marker. Then the camera zooms out, and the blonde woman runs away from the back of the white pickup truck."
+    },
+    {
+        "second": 5,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1GlGr0EUkfE/output_frames/sec_5_idx_1.jpg",
+        "fps": 24,
+        "explanation": "[2-5] As the camera zooms in, the blonde woman writes \"=8\" in front of the \"4X4\" on the rear bumper of the white pickup truck with a marker. Then the camera zooms out, and the blonde woman runs away from the back of the white pickup truck."
+    },
+    {
+        "second": 6,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1GlGr0EUkfE/output_frames/sec_6_idx_23.jpg",
+        "fps": 24,
+        "explanation": "[5-15] The scene then switches to a classroom indoors, where a short-haired man in a black vest is standing on the left side of the frame, with a whiteboard to his right. The man rests his left hand on the whiteboard and writes \"4x4=16\" on the board with a green marker, then stops writing."
+    },
+    {
+        "second": 7,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1GlGr0EUkfE/output_frames/sec_7_idx_22.jpg",
+        "fps": 24,
+        "explanation": "[5-15] The scene then switches to a classroom indoors, where a short-haired man in a black vest is standing on the left side of the frame, with a whiteboard to his right. The man rests his left hand on the whiteboard and writes \"4x4=16\" on the board with a green marker, then stops writing."
+    },
+    {
+        "second": 8,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1GlGr0EUkfE/output_frames/sec_8_idx_19.jpg",
+        "fps": 24,
+        "explanation": "[5-15] The scene then switches to a classroom indoors, where a short-haired man in a black vest is standing on the left side of the frame, with a whiteboard to his right. The man rests his left hand on the whiteboard and writes \"4x4=16\" on the board with a green marker, then stops writing."
+    },
+    {
+        "second": 9,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1GlGr0EUkfE/output_frames/sec_9_idx_2.jpg",
+        "fps": 24,
+        "explanation": "[5-15] The scene then switches to a classroom indoors, where a short-haired man in a black vest is standing on the left side of the frame, with a whiteboard to his right. The man rests his left hand on the whiteboard and writes \"4x4=16\" on the board with a green marker, then stops writing."
+    },
+    {
+        "second": 10,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1GlGr0EUkfE/output_frames/sec_10_idx_3.jpg",
+        "fps": 24,
+        "explanation": "[5-15] The scene then switches to a classroom indoors, where a short-haired man in a black vest is standing on the left side of the frame, with a whiteboard to his right. The man rests his left hand on the whiteboard and writes \"4x4=16\" on the board with a green marker, then stops writing."
+    },
+    {
+        "second": 11,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1GlGr0EUkfE/output_frames/sec_11_idx_20.jpg",
+        "fps": 24,
+        "explanation": "[5-15] The scene then switches to a classroom indoors, where a short-haired man in a black vest is standing on the left side of the frame, with a whiteboard to his right. The man rests his left hand on the whiteboard and writes \"4x4=16\" on the board with a green marker, then stops writing."
+    },
+    {
+        "second": 12,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1GlGr0EUkfE/output_frames/sec_12_idx_0.jpg",
+        "fps": 24,
+        "explanation": "[5-15] The scene then switches to a classroom indoors, where a short-haired man in a black vest is standing on the left side of the frame, with a whiteboard to his right. The man rests his left hand on the whiteboard and writes \"4x4=16\" on the board with a green marker, then stops writing."
+    },
+    {
+        "second": 13,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1GlGr0EUkfE/output_frames/sec_13_idx_4.jpg",
+        "fps": 24,
+        "explanation": "[5-15] The scene then switches to a classroom indoors, where a short-haired man in a black vest is standing on the left side of the frame, with a whiteboard to his right. The man rests his left hand on the whiteboard and writes \"4x4=16\" on the board with a green marker, then stops writing."
+    },
+    {
+        "second": 14,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1GlGr0EUkfE/output_frames/sec_14_idx_22.jpg",
+        "fps": 24,
+        "explanation": "[5-15] The scene then switches to a classroom indoors, where a short-haired man in a black vest is standing on the left side of the frame, with a whiteboard to his right. The man rests his left hand on the whiteboard and writes \"4x4=16\" on the board with a green marker, then stops writing."
+    },
+    {
+        "second": 15,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1GlGr0EUkfE/output_frames/sec_15_idx_7.jpg",
+        "fps": 24,
+        "explanation": "[5-15] The scene then switches to a classroom indoors, where a short-haired man in a black vest is standing on the left side of the frame, with a whiteboard to his right. The man rests his left hand on the whiteboard and writes \"4x4=16\" on the board with a green marker, then stops writing."
+    },
+    {
+        "second": 16,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1GlGr0EUkfE/output_frames/sec_16_idx_4.jpg",
+        "fps": 24,
+        "explanation": "[15-18] The man then puts down his right hand, turns to look at the camera, frowns, and shakes his head."
+    },
+    {
+        "second": 17,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1GlGr0EUkfE/output_frames/sec_17_idx_12.jpg",
+        "fps": 24,
+        "explanation": "[15-18] The man then puts down his right hand, turns to look at the camera, frowns, and shakes his head."
+    },
+    {
+        "second": 18,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1GlGr0EUkfE/output_frames/sec_18_idx_1.jpg",
+        "fps": 24,
+        "explanation": "[15-18] The man then puts down his right hand, turns to look at the camera, frowns, and shakes his head."
+    }
+]

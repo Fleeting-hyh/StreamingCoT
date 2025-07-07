@@ -1,0 +1,79 @@
+[
+    {
+        "second": 0,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1a92f2Xy_8s/output_frames/sec_0_idx_22.jpg",
+        "fps": 24,
+        "explanation": "[0-0] A man is standing on an outdoor lawn, wearing a blue and white short-sleeved shirt, holding potato chips in his right hand and a potato chip can in his left hand. He is opening his mouth, with some trees and white buildings behind him and a red motorcycle parked next to him."
+    },
+    {
+        "second": 1,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1a92f2Xy_8s/output_frames/sec_1_idx_4.jpg",
+        "fps": 24,
+        "explanation": "[0-3] The man then puts the potato chips to his mouth, a red cross symbol appears in the picture, then the man adjusts the angle of holding the potato chips, and a red cross symbol appears again in the picture. The man shakes his head, then smiles and points his index finger."
+    },
+    {
+        "second": 2,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1a92f2Xy_8s/output_frames/sec_2_idx_16.jpg",
+        "fps": 24,
+        "explanation": "[0-3] The man then puts the potato chips to his mouth, a red cross symbol appears in the picture, then the man adjusts the angle of holding the potato chips, and a red cross symbol appears again in the picture. The man shakes his head, then smiles and points his index finger."
+    },
+    {
+        "second": 3,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1a92f2Xy_8s/output_frames/sec_3_idx_22.jpg",
+        "fps": 24,
+        "explanation": "[0-3] The man then puts the potato chips to his mouth, a red cross symbol appears in the picture, then the man adjusts the angle of holding the potato chips, and a red cross symbol appears again in the picture. The man shakes his head, then smiles and points his index finger."
+    },
+    {
+        "second": 4,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1a92f2Xy_8s/output_frames/sec_4_idx_0.jpg",
+        "fps": 24,
+        "explanation": "[3-10] Then the picture turns, the man's face is deformed, his mouth is wide open, he puts the potato chips into his deformed mouth, successfully eats the potato chips, a green check mark appears in the picture, the man gives a thumbs up."
+    },
+    {
+        "second": 5,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1a92f2Xy_8s/output_frames/sec_5_idx_0.jpg",
+        "fps": 24,
+        "explanation": "[3-10] Then the picture turns, the man's face is deformed, his mouth is wide open, he puts the potato chips into his deformed mouth, successfully eats the potato chips, a green check mark appears in the picture, the man gives a thumbs up."
+    },
+    {
+        "second": 6,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1a92f2Xy_8s/output_frames/sec_6_idx_23.jpg",
+        "fps": 24,
+        "explanation": "[3-10] Then the picture turns, the man's face is deformed, his mouth is wide open, he puts the potato chips into his deformed mouth, successfully eats the potato chips, a green check mark appears in the picture, the man gives a thumbs up."
+    },
+    {
+        "second": 7,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1a92f2Xy_8s/output_frames/sec_7_idx_12.jpg",
+        "fps": 24,
+        "explanation": "[3-10] Then the picture turns, the man's face is deformed, his mouth is wide open, he puts the potato chips into his deformed mouth, successfully eats the potato chips, a green check mark appears in the picture, the man gives a thumbs up."
+    },
+    {
+        "second": 8,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1a92f2Xy_8s/output_frames/sec_8_idx_3.jpg",
+        "fps": 24,
+        "explanation": "[3-10] Then the picture turns, the man's face is deformed, his mouth is wide open, he puts the potato chips into his deformed mouth, successfully eats the potato chips, a green check mark appears in the picture, the man gives a thumbs up."
+    },
+    {
+        "second": 9,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1a92f2Xy_8s/output_frames/sec_9_idx_10.jpg",
+        "fps": 24,
+        "explanation": "[3-10] Then the picture turns, the man's face is deformed, his mouth is wide open, he puts the potato chips into his deformed mouth, successfully eats the potato chips, a green check mark appears in the picture, the man gives a thumbs up."
+    },
+    {
+        "second": 10,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1a92f2Xy_8s/output_frames/sec_10_idx_2.jpg",
+        "fps": 24,
+        "explanation": "[3-10] Then the picture turns, the man's face is deformed, his mouth is wide open, he puts the potato chips into his deformed mouth, successfully eats the potato chips, a green check mark appears in the picture, the man gives a thumbs up."
+    }
+]

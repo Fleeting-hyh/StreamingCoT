@@ -1,0 +1,65 @@
+[
+    {
+        "second": 0,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DXVEng1BQHU/output_frames/sec_0_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[0-0] On the left is a yellow door with a standard metal security lock. The wall on the right is white, with a white switch on it. There is also a caption above the image, \"This is why you ALWAYS bring your own hotel locks!!\""
+    },
+    {
+        "second": 1,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DXVEng1BQHU/output_frames/sec_1_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[0-8] The security lock is now locked, and the door is open a crack. A hand reaches in with a piece of silver tape and sticks it to the wall, with a rubber band attached to the bottom of the tape. Then another hand reaches in and sticks another piece of tape, the other hand holding the rubber band in place. Then the rubber band is looped over the door lock, the door is closed, and the lock automatically falls off, opening the door."
+    },
+    {
+        "second": 2,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DXVEng1BQHU/output_frames/sec_2_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[0-8] The security lock is now locked, and the door is open a crack. A hand reaches in with a piece of silver tape and sticks it to the wall, with a rubber band attached to the bottom of the tape. Then another hand reaches in and sticks another piece of tape, the other hand holding the rubber band in place. Then the rubber band is looped over the door lock, the door is closed, and the lock automatically falls off, opening the door."
+    },
+    {
+        "second": 3,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DXVEng1BQHU/output_frames/sec_3_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[0-8] The security lock is now locked, and the door is open a crack. A hand reaches in with a piece of silver tape and sticks it to the wall, with a rubber band attached to the bottom of the tape. Then another hand reaches in and sticks another piece of tape, the other hand holding the rubber band in place. Then the rubber band is looped over the door lock, the door is closed, and the lock automatically falls off, opening the door."
+    },
+    {
+        "second": 4,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DXVEng1BQHU/output_frames/sec_4_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[0-8] The security lock is now locked, and the door is open a crack. A hand reaches in with a piece of silver tape and sticks it to the wall, with a rubber band attached to the bottom of the tape. Then another hand reaches in and sticks another piece of tape, the other hand holding the rubber band in place. Then the rubber band is looped over the door lock, the door is closed, and the lock automatically falls off, opening the door."
+    },
+    {
+        "second": 5,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DXVEng1BQHU/output_frames/sec_5_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[0-8] The security lock is now locked, and the door is open a crack. A hand reaches in with a piece of silver tape and sticks it to the wall, with a rubber band attached to the bottom of the tape. Then another hand reaches in and sticks another piece of tape, the other hand holding the rubber band in place. Then the rubber band is looped over the door lock, the door is closed, and the lock automatically falls off, opening the door."
+    },
+    {
+        "second": 6,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DXVEng1BQHU/output_frames/sec_6_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[0-8] The security lock is now locked, and the door is open a crack. A hand reaches in with a piece of silver tape and sticks it to the wall, with a rubber band attached to the bottom of the tape. Then another hand reaches in and sticks another piece of tape, the other hand holding the rubber band in place. Then the rubber band is looped over the door lock, the door is closed, and the lock automatically falls off, opening the door."
+    },
+    {
+        "second": 7,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DXVEng1BQHU/output_frames/sec_7_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[0-8] The security lock is now locked, and the door is open a crack. A hand reaches in with a piece of silver tape and sticks it to the wall, with a rubber band attached to the bottom of the tape. Then another hand reaches in and sticks another piece of tape, the other hand holding the rubber band in place. Then the rubber band is looped over the door lock, the door is closed, and the lock automatically falls off, opening the door."
+    },
+    {
+        "second": 8,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DXVEng1BQHU/output_frames/sec_8_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-8] The security lock is now locked, and the door is open a crack. A hand reaches in with a piece of silver tape and sticks it to the wall, with a rubber band attached to the bottom of the tape. Then another hand reaches in and sticks another piece of tape, the other hand holding the rubber band in place. Then the rubber band is looped over the door lock, the door is closed, and the lock automatically falls off, opening the door."
+    }
+]

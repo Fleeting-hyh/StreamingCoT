@@ -1,0 +1,86 @@
+[
+    {
+        "second": 0,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RN7pMV12JEA/output_frames/sec_0_idx_10.jpg",
+        "fps": 60,
+        "explanation": "[0-0] A woman is standing next to a man disguised as a \"Live ATM\" using a cardboard box, which has number keys and a card slot. The background is white walls and white tiled floors, and there is a bed with red sheets in the room."
+    },
+    {
+        "second": 1,
+        "frame_index": 52,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RN7pMV12JEA/output_frames/sec_1_idx_52.jpg",
+        "fps": 60,
+        "explanation": "[0-7] Then, the woman inserts the card into the card slot and starts entering the password on the \"ATM\". The woman enters the password twice, but there is no response."
+    },
+    {
+        "second": 2,
+        "frame_index": 51,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RN7pMV12JEA/output_frames/sec_2_idx_51.jpg",
+        "fps": 60,
+        "explanation": "[0-7] Then, the woman inserts the card into the card slot and starts entering the password on the \"ATM\". The woman enters the password twice, but there is no response."
+    },
+    {
+        "second": 3,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RN7pMV12JEA/output_frames/sec_3_idx_5.jpg",
+        "fps": 60,
+        "explanation": "[0-7] Then, the woman inserts the card into the card slot and starts entering the password on the \"ATM\". The woman enters the password twice, but there is no response."
+    },
+    {
+        "second": 4,
+        "frame_index": 49,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RN7pMV12JEA/output_frames/sec_4_idx_49.jpg",
+        "fps": 60,
+        "explanation": "[0-7] Then, the woman inserts the card into the card slot and starts entering the password on the \"ATM\". The woman enters the password twice, but there is no response."
+    },
+    {
+        "second": 5,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RN7pMV12JEA/output_frames/sec_5_idx_7.jpg",
+        "fps": 60,
+        "explanation": "[0-7] Then, the woman inserts the card into the card slot and starts entering the password on the \"ATM\". The woman enters the password twice, but there is no response."
+    },
+    {
+        "second": 6,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RN7pMV12JEA/output_frames/sec_6_idx_25.jpg",
+        "fps": 60,
+        "explanation": "[0-7] Then, the woman inserts the card into the card slot and starts entering the password on the \"ATM\". The woman enters the password twice, but there is no response."
+    },
+    {
+        "second": 7,
+        "frame_index": 34,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RN7pMV12JEA/output_frames/sec_7_idx_34.jpg",
+        "fps": 60,
+        "explanation": "[0-7] Then, the woman inserts the card into the card slot and starts entering the password on the \"ATM\". The woman enters the password twice, but there is no response."
+    },
+    {
+        "second": 8,
+        "frame_index": 53,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RN7pMV12JEA/output_frames/sec_8_idx_53.jpg",
+        "fps": 60,
+        "explanation": "[7-11] Finally, the woman slaps the man, pulls out some 100 yuan bills from below, and walks away from the \"ATM\" man with satisfaction."
+    },
+    {
+        "second": 9,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RN7pMV12JEA/output_frames/sec_9_idx_9.jpg",
+        "fps": 60,
+        "explanation": "[7-11] Finally, the woman slaps the man, pulls out some 100 yuan bills from below, and walks away from the \"ATM\" man with satisfaction."
+    },
+    {
+        "second": 10,
+        "frame_index": 41,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RN7pMV12JEA/output_frames/sec_10_idx_41.jpg",
+        "fps": 60,
+        "explanation": "[7-11] Finally, the woman slaps the man, pulls out some 100 yuan bills from below, and walks away from the \"ATM\" man with satisfaction."
+    },
+    {
+        "second": 11,
+        "frame_index": 43,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RN7pMV12JEA/output_frames/sec_11_idx_43.jpg",
+        "fps": 60,
+        "explanation": "[7-11] Finally, the woman slaps the man, pulls out some 100 yuan bills from below, and walks away from the \"ATM\" man with satisfaction."
+    }
+]

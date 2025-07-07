@@ -1,0 +1,72 @@
+[
+    {
+        "second": 0,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Fww31_qxy7I/output_frames/sec_0_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[0-0] On a sunny beach with people coming and going, a woman in a black bikini and a boy in black shorts are standing on the sand, while a woman in a white bikini is squatting on the beach to the right. There are green trees in the background and many pedestrians on the road."
+    },
+    {
+        "second": 1,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Fww31_qxy7I/output_frames/sec_1_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Next, the woman in the white bikini is still squatting on the beach. The woman in the black bikini and the boy in black shorts walk together to the left side of the frame."
+    },
+    {
+        "second": 2,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Fww31_qxy7I/output_frames/sec_2_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Next, the woman in the white bikini is still squatting on the beach. The woman in the black bikini and the boy in black shorts walk together to the left side of the frame."
+    },
+    {
+        "second": 3,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Fww31_qxy7I/output_frames/sec_3_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[2-9] Then, a man in black shorts and a woman in a purple bikini are standing on the beach talking and interacting. The man throws something at the woman and runs away. Then the woman smiles, bends down, grabs some sand from the beach and throws it at the man. The woman in the white bikini is still squatting on the beach, holding her phone with both hands and filming."
+    },
+    {
+        "second": 4,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Fww31_qxy7I/output_frames/sec_4_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[2-9] Then, a man in black shorts and a woman in a purple bikini are standing on the beach talking and interacting. The man throws something at the woman and runs away. Then the woman smiles, bends down, grabs some sand from the beach and throws it at the man. The woman in the white bikini is still squatting on the beach, holding her phone with both hands and filming."
+    },
+    {
+        "second": 5,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Fww31_qxy7I/output_frames/sec_5_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[2-9] Then, a man in black shorts and a woman in a purple bikini are standing on the beach talking and interacting. The man throws something at the woman and runs away. Then the woman smiles, bends down, grabs some sand from the beach and throws it at the man. The woman in the white bikini is still squatting on the beach, holding her phone with both hands and filming."
+    },
+    {
+        "second": 6,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Fww31_qxy7I/output_frames/sec_6_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[2-9] Then, a man in black shorts and a woman in a purple bikini are standing on the beach talking and interacting. The man throws something at the woman and runs away. Then the woman smiles, bends down, grabs some sand from the beach and throws it at the man. The woman in the white bikini is still squatting on the beach, holding her phone with both hands and filming."
+    },
+    {
+        "second": 7,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Fww31_qxy7I/output_frames/sec_7_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[2-9] Then, a man in black shorts and a woman in a purple bikini are standing on the beach talking and interacting. The man throws something at the woman and runs away. Then the woman smiles, bends down, grabs some sand from the beach and throws it at the man. The woman in the white bikini is still squatting on the beach, holding her phone with both hands and filming."
+    },
+    {
+        "second": 8,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Fww31_qxy7I/output_frames/sec_8_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[2-9] Then, a man in black shorts and a woman in a purple bikini are standing on the beach talking and interacting. The man throws something at the woman and runs away. Then the woman smiles, bends down, grabs some sand from the beach and throws it at the man. The woman in the white bikini is still squatting on the beach, holding her phone with both hands and filming."
+    },
+    {
+        "second": 9,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Fww31_qxy7I/output_frames/sec_9_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[2-9] Then, a man in black shorts and a woman in a purple bikini are standing on the beach talking and interacting. The man throws something at the woman and runs away. Then the woman smiles, bends down, grabs some sand from the beach and throws it at the man. The woman in the white bikini is still squatting on the beach, holding her phone with both hands and filming."
+    }
+]

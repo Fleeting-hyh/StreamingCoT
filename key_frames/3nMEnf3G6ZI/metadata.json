@@ -1,0 +1,30 @@
+[
+    {
+        "second": 0,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3nMEnf3G6ZI/output_frames/sec_0_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[0-0] In a room decorated with a fake cloud ceiling, illuminated by white crystal lamps and blue beams near the windows, the walls are painted in white and yellowish-brown. Two large green curtains hang on the wall, and there are green plants in the room. A group of people is sitting not far from the camera, some on sofas and others on chairs."
+    },
+    {
+        "second": 1,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3nMEnf3G6ZI/output_frames/sec_1_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[0-3] They are chatting when suddenly, a man in a black short-sleeved shirt is flung into the air by the black sofa, startling those around him. The black seat part of the sofa is also thrown up, revealing a large white bubble-like object at the bottom of the sofa. Then, the camera switches to the bar counter's perspective, where a black long cushion and a mobile phone are placed on the yellow countertop. The scene of the man being ejected from the seat is replayed."
+    },
+    {
+        "second": 2,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3nMEnf3G6ZI/output_frames/sec_2_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[0-3] They are chatting when suddenly, a man in a black short-sleeved shirt is flung into the air by the black sofa, startling those around him. The black seat part of the sofa is also thrown up, revealing a large white bubble-like object at the bottom of the sofa. Then, the camera switches to the bar counter's perspective, where a black long cushion and a mobile phone are placed on the yellow countertop. The scene of the man being ejected from the seat is replayed."
+    },
+    {
+        "second": 3,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3nMEnf3G6ZI/output_frames/sec_3_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-3] They are chatting when suddenly, a man in a black short-sleeved shirt is flung into the air by the black sofa, startling those around him. The black seat part of the sofa is also thrown up, revealing a large white bubble-like object at the bottom of the sofa. Then, the camera switches to the bar counter's perspective, where a black long cushion and a mobile phone are placed on the yellow countertop. The scene of the man being ejected from the seat is replayed."
+    }
+]

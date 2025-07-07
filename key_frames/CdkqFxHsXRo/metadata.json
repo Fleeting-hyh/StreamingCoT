@@ -1,0 +1,72 @@
+[
+    {
+        "second": 0,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CdkqFxHsXRo/output_frames/sec_0_idx_19.jpg",
+        "fps": 60,
+        "explanation": "[0-0] In a pixelated world, the ground is covered with green grass and stairs. There are green and blue stickers with white English letters on them at the top of the screen."
+    },
+    {
+        "second": 1,
+        "frame_index": 50,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CdkqFxHsXRo/output_frames/sec_1_idx_50.jpg",
+        "fps": 60,
+        "explanation": "[0-3] A green pixelated figure jumps down from above, holding its head and shaking it as if in pain. It looks up in distress, turns around, and runs into the distance. The scene shifts to the green figure punching a brown wall. The pixels in the middle of the wall gradually disappear, and the figure holds a brown block in its hand."
+    },
+    {
+        "second": 2,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CdkqFxHsXRo/output_frames/sec_2_idx_26.jpg",
+        "fps": 60,
+        "explanation": "[0-3] A green pixelated figure jumps down from above, holding its head and shaking it as if in pain. It looks up in distress, turns around, and runs into the distance. The scene shifts to the green figure punching a brown wall. The pixels in the middle of the wall gradually disappear, and the figure holds a brown block in its hand."
+    },
+    {
+        "second": 3,
+        "frame_index": 38,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CdkqFxHsXRo/output_frames/sec_3_idx_38.jpg",
+        "fps": 60,
+        "explanation": "[0-3] A green pixelated figure jumps down from above, holding its head and shaking it as if in pain. It looks up in distress, turns around, and runs into the distance. The scene shifts to the green figure punching a brown wall. The pixels in the middle of the wall gradually disappear, and the figure holds a brown block in its hand."
+    },
+    {
+        "second": 4,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CdkqFxHsXRo/output_frames/sec_4_idx_17.jpg",
+        "fps": 60,
+        "explanation": "[3-6] The scene then changes to the green figure standing in front of a gray wall with a box beside it. It holds an axe and chisels the wall. The scene cuts to the inside of the gray wall, where the green figure rushes in from outside. The scene changes again to a gray setting with two block boxes. The green figure uses the axe in its hand to chisel the boxes. Immediately after, the figure stands beside green and gray walls, axe still in hand, and its feet move continuously."
+    },
+    {
+        "second": 5,
+        "frame_index": 52,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CdkqFxHsXRo/output_frames/sec_5_idx_52.jpg",
+        "fps": 60,
+        "explanation": "[3-6] The scene then changes to the green figure standing in front of a gray wall with a box beside it. It holds an axe and chisels the wall. The scene cuts to the inside of the gray wall, where the green figure rushes in from outside. The scene changes again to a gray setting with two block boxes. The green figure uses the axe in its hand to chisel the boxes. Immediately after, the figure stands beside green and gray walls, axe still in hand, and its feet move continuously."
+    },
+    {
+        "second": 6,
+        "frame_index": 54,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CdkqFxHsXRo/output_frames/sec_6_idx_54.jpg",
+        "fps": 60,
+        "explanation": "[3-6] The scene then changes to the green figure standing in front of a gray wall with a box beside it. It holds an axe and chisels the wall. The scene cuts to the inside of the gray wall, where the green figure rushes in from outside. The scene changes again to a gray setting with two block boxes. The green figure uses the axe in its hand to chisel the boxes. Immediately after, the figure stands beside green and gray walls, axe still in hand, and its feet move continuously."
+    },
+    {
+        "second": 7,
+        "frame_index": 50,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CdkqFxHsXRo/output_frames/sec_7_idx_50.jpg",
+        "fps": 60,
+        "explanation": "[6-9] Then, a mosaic appears, and slowly disappears, revealing a figure in red clothes holding an axe and chiseling the mosaic. The scene switches to the green pixelated figure anxiously holding its head and jumping. The scene then transitions to the green figure facing the figure in red clothes, who slowly walks out of the frame, leaving the green figure alone."
+    },
+    {
+        "second": 8,
+        "frame_index": 47,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CdkqFxHsXRo/output_frames/sec_8_idx_47.jpg",
+        "fps": 60,
+        "explanation": "[6-9] Then, a mosaic appears, and slowly disappears, revealing a figure in red clothes holding an axe and chiseling the mosaic. The scene switches to the green pixelated figure anxiously holding its head and jumping. The scene then transitions to the green figure facing the figure in red clothes, who slowly walks out of the frame, leaving the green figure alone."
+    },
+    {
+        "second": 9,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CdkqFxHsXRo/output_frames/sec_9_idx_12.jpg",
+        "fps": 60,
+        "explanation": "[6-9] Then, a mosaic appears, and slowly disappears, revealing a figure in red clothes holding an axe and chiseling the mosaic. The scene switches to the green pixelated figure anxiously holding its head and jumping. The scene then transitions to the green figure facing the figure in red clothes, who slowly walks out of the frame, leaving the green figure alone."
+    }
+]

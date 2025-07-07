@@ -1,0 +1,65 @@
+[
+    {
+        "second": 0,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/NiCrCCmlylE/output_frames/sec_0_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[0-0] On an iron plate, there's a puddle of dark syrup with a large bubble on it. A pair of white-gloved hands are touching the syrup, and there are spatulas and scissors around the syrup."
+    },
+    {
+        "second": 1,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/NiCrCCmlylE/output_frames/sec_1_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[0-6] Then, the white-gloved hands grab and lift the bubble from the syrup as a woman wearing a pink short-sleeved shirt and a black apron smiles and watches."
+    },
+    {
+        "second": 2,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/NiCrCCmlylE/output_frames/sec_2_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[0-6] Then, the white-gloved hands grab and lift the bubble from the syrup as a woman wearing a pink short-sleeved shirt and a black apron smiles and watches."
+    },
+    {
+        "second": 3,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/NiCrCCmlylE/output_frames/sec_3_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-6] Then, the white-gloved hands grab and lift the bubble from the syrup as a woman wearing a pink short-sleeved shirt and a black apron smiles and watches."
+    },
+    {
+        "second": 4,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/NiCrCCmlylE/output_frames/sec_4_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[0-6] Then, the white-gloved hands grab and lift the bubble from the syrup as a woman wearing a pink short-sleeved shirt and a black apron smiles and watches."
+    },
+    {
+        "second": 5,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/NiCrCCmlylE/output_frames/sec_5_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[0-6] Then, the white-gloved hands grab and lift the bubble from the syrup as a woman wearing a pink short-sleeved shirt and a black apron smiles and watches."
+    },
+    {
+        "second": 6,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/NiCrCCmlylE/output_frames/sec_6_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-6] Then, the white-gloved hands grab and lift the bubble from the syrup as a woman wearing a pink short-sleeved shirt and a black apron smiles and watches."
+    },
+    {
+        "second": 7,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/NiCrCCmlylE/output_frames/sec_7_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[6-8] Finally, the woman pats the lifted bubble onto the syrup."
+    },
+    {
+        "second": 8,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/NiCrCCmlylE/output_frames/sec_8_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[6-8] Finally, the woman pats the lifted bubble onto the syrup."
+    }
+]

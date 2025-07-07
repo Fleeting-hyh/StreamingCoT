@@ -1,0 +1,296 @@
+[
+    {
+        "second": 1,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TE7Uqt72a90/output_frames/sec_1_idx_9.jpg",
+        "fps": 60,
+        "explanation": "[0-1] There is a white toilet against a gray background."
+    },
+    {
+        "second": 2,
+        "frame_index": 40,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TE7Uqt72a90/output_frames/sec_2_idx_40.jpg",
+        "fps": 60,
+        "explanation": "[1-4] A pair of hands throws a blue water balloon with a white pattern into the toilet. The water balloon lands in the toilet, perfectly blocking the opening."
+    },
+    {
+        "second": 3,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TE7Uqt72a90/output_frames/sec_3_idx_26.jpg",
+        "fps": 60,
+        "explanation": "[1-4] A pair of hands throws a blue water balloon with a white pattern into the toilet. The water balloon lands in the toilet, perfectly blocking the opening."
+    },
+    {
+        "second": 4,
+        "frame_index": 45,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TE7Uqt72a90/output_frames/sec_4_idx_45.jpg",
+        "fps": 60,
+        "explanation": "[1-4] A pair of hands throws a blue water balloon with a white pattern into the toilet. The water balloon lands in the toilet, perfectly blocking the opening."
+    },
+    {
+        "second": 5,
+        "frame_index": 43,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TE7Uqt72a90/output_frames/sec_5_idx_43.jpg",
+        "fps": 60,
+        "explanation": "[4-7] Subsequently, a pink water balloon with a white pattern is thrown into the toilet, landing on top of the blue one."
+    },
+    {
+        "second": 6,
+        "frame_index": 59,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TE7Uqt72a90/output_frames/sec_6_idx_59.jpg",
+        "fps": 60,
+        "explanation": "[4-7] Subsequently, a pink water balloon with a white pattern is thrown into the toilet, landing on top of the blue one."
+    },
+    {
+        "second": 7,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TE7Uqt72a90/output_frames/sec_7_idx_17.jpg",
+        "fps": 60,
+        "explanation": "[4-7] Subsequently, a pink water balloon with a white pattern is thrown into the toilet, landing on top of the blue one."
+    },
+    {
+        "second": 8,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TE7Uqt72a90/output_frames/sec_8_idx_2.jpg",
+        "fps": 60,
+        "explanation": "[7-9] Next, a green water balloon with a white pattern is thrown into the toilet, resting next to the pink one on the blue water balloon."
+    },
+    {
+        "second": 9,
+        "frame_index": 35,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TE7Uqt72a90/output_frames/sec_9_idx_35.jpg",
+        "fps": 60,
+        "explanation": "[7-9] Next, a green water balloon with a white pattern is thrown into the toilet, resting next to the pink one on the blue water balloon."
+    },
+    {
+        "second": 10,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TE7Uqt72a90/output_frames/sec_10_idx_17.jpg",
+        "fps": 60,
+        "explanation": "[9-12] Afterwards, another blue water balloon with a white pattern is thrown in, with the three balloons nestled together on top of the first blue one."
+    },
+    {
+        "second": 11,
+        "frame_index": 59,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TE7Uqt72a90/output_frames/sec_11_idx_59.jpg",
+        "fps": 60,
+        "explanation": "[9-12] Afterwards, another blue water balloon with a white pattern is thrown in, with the three balloons nestled together on top of the first blue one."
+    },
+    {
+        "second": 12,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TE7Uqt72a90/output_frames/sec_12_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[9-12] Afterwards, another blue water balloon with a white pattern is thrown in, with the three balloons nestled together on top of the first blue one."
+    },
+    {
+        "second": 13,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TE7Uqt72a90/output_frames/sec_13_idx_1.jpg",
+        "fps": 60,
+        "explanation": "[12-14] Then, a red water balloon with a white pattern is thrown into the toilet, with the four balloons clustering on top of the blue one."
+    },
+    {
+        "second": 14,
+        "frame_index": 53,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TE7Uqt72a90/output_frames/sec_14_idx_53.jpg",
+        "fps": 60,
+        "explanation": "[12-14] Then, a red water balloon with a white pattern is thrown into the toilet, with the four balloons clustering on top of the blue one."
+    },
+    {
+        "second": 15,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TE7Uqt72a90/output_frames/sec_15_idx_15.jpg",
+        "fps": 60,
+        "explanation": "[14-17] Immediately following, another green water balloon with a white pattern is thrown into the toilet. The five balloons are huddled together on the blue one. There are now six water balloons in the toilet."
+    },
+    {
+        "second": 16,
+        "frame_index": 50,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TE7Uqt72a90/output_frames/sec_16_idx_50.jpg",
+        "fps": 60,
+        "explanation": "[14-17] Immediately following, another green water balloon with a white pattern is thrown into the toilet. The five balloons are huddled together on the blue one. There are now six water balloons in the toilet."
+    },
+    {
+        "second": 17,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TE7Uqt72a90/output_frames/sec_17_idx_12.jpg",
+        "fps": 60,
+        "explanation": "[14-17] Immediately following, another green water balloon with a white pattern is thrown into the toilet. The five balloons are huddled together on the blue one. There are now six water balloons in the toilet."
+    },
+    {
+        "second": 18,
+        "frame_index": 41,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TE7Uqt72a90/output_frames/sec_18_idx_41.jpg",
+        "fps": 60,
+        "explanation": "[17-26] Next, another green water balloon with a white pattern is tossed into the toilet. The six balloons are nestled together on the blue one. There are now seven water balloons in the toilet."
+    },
+    {
+        "second": 19,
+        "frame_index": 36,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TE7Uqt72a90/output_frames/sec_19_idx_36.jpg",
+        "fps": 60,
+        "explanation": "[17-26] Next, another green water balloon with a white pattern is tossed into the toilet. The six balloons are nestled together on the blue one. There are now seven water balloons in the toilet."
+    },
+    {
+        "second": 20,
+        "frame_index": 47,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TE7Uqt72a90/output_frames/sec_20_idx_47.jpg",
+        "fps": 60,
+        "explanation": "[17-26] Next, another green water balloon with a white pattern is tossed into the toilet. The six balloons are nestled together on the blue one. There are now seven water balloons in the toilet."
+    },
+    {
+        "second": 21,
+        "frame_index": 51,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TE7Uqt72a90/output_frames/sec_21_idx_51.jpg",
+        "fps": 60,
+        "explanation": "[17-26] Next, another green water balloon with a white pattern is tossed into the toilet. The six balloons are nestled together on the blue one. There are now seven water balloons in the toilet."
+    },
+    {
+        "second": 22,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TE7Uqt72a90/output_frames/sec_22_idx_24.jpg",
+        "fps": 60,
+        "explanation": "[17-26] Next, another green water balloon with a white pattern is tossed into the toilet. The six balloons are nestled together on the blue one. There are now seven water balloons in the toilet."
+    },
+    {
+        "second": 23,
+        "frame_index": 44,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TE7Uqt72a90/output_frames/sec_23_idx_44.jpg",
+        "fps": 60,
+        "explanation": "[17-26] Next, another green water balloon with a white pattern is tossed into the toilet. The six balloons are nestled together on the blue one. There are now seven water balloons in the toilet."
+    },
+    {
+        "second": 24,
+        "frame_index": 33,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TE7Uqt72a90/output_frames/sec_24_idx_33.jpg",
+        "fps": 60,
+        "explanation": "[17-26] Next, another green water balloon with a white pattern is tossed into the toilet. The six balloons are nestled together on the blue one. There are now seven water balloons in the toilet."
+    },
+    {
+        "second": 25,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TE7Uqt72a90/output_frames/sec_25_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[17-26] Next, another green water balloon with a white pattern is tossed into the toilet. The six balloons are nestled together on the blue one. There are now seven water balloons in the toilet."
+    },
+    {
+        "second": 26,
+        "frame_index": 37,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TE7Uqt72a90/output_frames/sec_26_idx_37.jpg",
+        "fps": 60,
+        "explanation": "[17-26] Next, another green water balloon with a white pattern is tossed into the toilet. The six balloons are nestled together on the blue one. There are now seven water balloons in the toilet."
+    },
+    {
+        "second": 27,
+        "frame_index": 48,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TE7Uqt72a90/output_frames/sec_27_idx_48.jpg",
+        "fps": 60,
+        "explanation": "[26-30] After a while, water flows from the small round hole of the toilet into the bowl, filling it up."
+    },
+    {
+        "second": 28,
+        "frame_index": 33,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TE7Uqt72a90/output_frames/sec_28_idx_33.jpg",
+        "fps": 60,
+        "explanation": "[26-30] After a while, water flows from the small round hole of the toilet into the bowl, filling it up."
+    },
+    {
+        "second": 29,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TE7Uqt72a90/output_frames/sec_29_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[26-30] After a while, water flows from the small round hole of the toilet into the bowl, filling it up."
+    },
+    {
+        "second": 30,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TE7Uqt72a90/output_frames/sec_30_idx_9.jpg",
+        "fps": 60,
+        "explanation": "[26-30] After a while, water flows from the small round hole of the toilet into the bowl, filling it up."
+    },
+    {
+        "second": 31,
+        "frame_index": 42,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TE7Uqt72a90/output_frames/sec_31_idx_42.jpg",
+        "fps": 60,
+        "explanation": "[30-36] Then a hand holding a knife enters the frame from the right. The knife punctures a pink water balloon. Next, the knife pops three green, one red, one blue, and the bottom blue balloon. All the water balloons are popped. The knife is taken away, and the balloon fragments float in the water."
+    },
+    {
+        "second": 32,
+        "frame_index": 37,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TE7Uqt72a90/output_frames/sec_32_idx_37.jpg",
+        "fps": 60,
+        "explanation": "[30-36] Then a hand holding a knife enters the frame from the right. The knife punctures a pink water balloon. Next, the knife pops three green, one red, one blue, and the bottom blue balloon. All the water balloons are popped. The knife is taken away, and the balloon fragments float in the water."
+    },
+    {
+        "second": 33,
+        "frame_index": 42,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TE7Uqt72a90/output_frames/sec_33_idx_42.jpg",
+        "fps": 60,
+        "explanation": "[30-36] Then a hand holding a knife enters the frame from the right. The knife punctures a pink water balloon. Next, the knife pops three green, one red, one blue, and the bottom blue balloon. All the water balloons are popped. The knife is taken away, and the balloon fragments float in the water."
+    },
+    {
+        "second": 34,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TE7Uqt72a90/output_frames/sec_34_idx_8.jpg",
+        "fps": 60,
+        "explanation": "[30-36] Then a hand holding a knife enters the frame from the right. The knife punctures a pink water balloon. Next, the knife pops three green, one red, one blue, and the bottom blue balloon. All the water balloons are popped. The knife is taken away, and the balloon fragments float in the water."
+    },
+    {
+        "second": 35,
+        "frame_index": 46,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TE7Uqt72a90/output_frames/sec_35_idx_46.jpg",
+        "fps": 60,
+        "explanation": "[30-36] Then a hand holding a knife enters the frame from the right. The knife punctures a pink water balloon. Next, the knife pops three green, one red, one blue, and the bottom blue balloon. All the water balloons are popped. The knife is taken away, and the balloon fragments float in the water."
+    },
+    {
+        "second": 36,
+        "frame_index": 42,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TE7Uqt72a90/output_frames/sec_36_idx_42.jpg",
+        "fps": 60,
+        "explanation": "[30-36] Then a hand holding a knife enters the frame from the right. The knife punctures a pink water balloon. Next, the knife pops three green, one red, one blue, and the bottom blue balloon. All the water balloons are popped. The knife is taken away, and the balloon fragments float in the water."
+    },
+    {
+        "second": 37,
+        "frame_index": 34,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TE7Uqt72a90/output_frames/sec_37_idx_34.jpg",
+        "fps": 60,
+        "explanation": "[36-42] Then, the water in the toilet gradually decreases, and the balloon fragments spin in the bowl. Finally, the water flow flushes away all the fragments, leaving only a small amount of clean water in the toilet."
+    },
+    {
+        "second": 38,
+        "frame_index": 43,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TE7Uqt72a90/output_frames/sec_38_idx_43.jpg",
+        "fps": 60,
+        "explanation": "[36-42] Then, the water in the toilet gradually decreases, and the balloon fragments spin in the bowl. Finally, the water flow flushes away all the fragments, leaving only a small amount of clean water in the toilet."
+    },
+    {
+        "second": 39,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TE7Uqt72a90/output_frames/sec_39_idx_18.jpg",
+        "fps": 60,
+        "explanation": "[36-42] Then, the water in the toilet gradually decreases, and the balloon fragments spin in the bowl. Finally, the water flow flushes away all the fragments, leaving only a small amount of clean water in the toilet."
+    },
+    {
+        "second": 40,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TE7Uqt72a90/output_frames/sec_40_idx_2.jpg",
+        "fps": 60,
+        "explanation": "[36-42] Then, the water in the toilet gradually decreases, and the balloon fragments spin in the bowl. Finally, the water flow flushes away all the fragments, leaving only a small amount of clean water in the toilet."
+    },
+    {
+        "second": 41,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TE7Uqt72a90/output_frames/sec_41_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[36-42] Then, the water in the toilet gradually decreases, and the balloon fragments spin in the bowl. Finally, the water flow flushes away all the fragments, leaving only a small amount of clean water in the toilet."
+    },
+    {
+        "second": 42,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TE7Uqt72a90/output_frames/sec_42_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[36-42] Then, the water in the toilet gradually decreases, and the balloon fragments spin in the bowl. Finally, the water flow flushes away all the fragments, leaving only a small amount of clean water in the toilet."
+    }
+]

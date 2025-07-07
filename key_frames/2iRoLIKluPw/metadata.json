@@ -1,0 +1,37 @@
+[
+    {
+        "second": 0,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2iRoLIKluPw/output_frames/sec_0_idx_16.jpg",
+        "fps": 60,
+        "explanation": "[0-0] Mario and Princess Peach are sitting on the floor of a room, Mario is wrapped in a white towel, sitting in front of a laptop, and Princess Peach is sitting next to him. There is a wooden door with diamond-shaped windows in the room, the floor is a black and white checkered pattern, and behind them are green and blue colors."
+    },
+    {
+        "second": 1,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2iRoLIKluPw/output_frames/sec_1_idx_15.jpg",
+        "fps": 60,
+        "explanation": "[0-5] Mario and Princess Peach turn their heads to the right, the door falls to the ground, a Mario head appears at the door, Mario head turns to look at Princess Peach and speaks."
+    },
+    {
+        "second": 2,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2iRoLIKluPw/output_frames/sec_2_idx_18.jpg",
+        "fps": 60,
+        "explanation": "[0-5] Mario and Princess Peach turn their heads to the right, the door falls to the ground, a Mario head appears at the door, Mario head turns to look at Princess Peach and speaks."
+    },
+    {
+        "second": 3,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2iRoLIKluPw/output_frames/sec_3_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[0-5] Mario and Princess Peach turn their heads to the right, the door falls to the ground, a Mario head appears at the door, Mario head turns to look at Princess Peach and speaks."
+    },
+    {
+        "second": 4,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2iRoLIKluPw/output_frames/sec_4_idx_17.jpg",
+        "fps": 60,
+        "explanation": "[0-5] Mario and Princess Peach turn their heads to the right, the door falls to the ground, a Mario head appears at the door, Mario head turns to look at Princess Peach and speaks."
+    }
+]

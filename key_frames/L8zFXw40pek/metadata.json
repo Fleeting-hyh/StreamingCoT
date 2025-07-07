@@ -1,0 +1,226 @@
+[
+    {
+        "second": 0,
+        "frame_index": 44,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/L8zFXw40pek/output_frames/sec_0_idx_44.jpg",
+        "fps": 60,
+        "explanation": "[0-0] Two cartoon characters are standing on white stairs. On the left is a girl with pink hair in a red dress, and on the right is a boy with blue hair and blue clothes. The steps under their feet are numbered in sequence. Behind them is a blue sky with white clouds, and below is a blue sea."
+    },
+    {
+        "second": 1,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/L8zFXw40pek/output_frames/sec_1_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[0-2] The two lower their heads and walk down simultaneously. The steps they walk on turn green. When the boy reaches the twelfth step, he turns his head to look at the girl with heart shapes appearing in his eyes. The girl blushes, covering her face with her hands. Then the boy steps on a black square, turning the steps red, and they are both sent back to the first step."
+    },
+    {
+        "second": 2,
+        "frame_index": 56,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/L8zFXw40pek/output_frames/sec_2_idx_56.jpg",
+        "fps": 60,
+        "explanation": "[0-2] The two lower their heads and walk down simultaneously. The steps they walk on turn green. When the boy reaches the twelfth step, he turns his head to look at the girl with heart shapes appearing in his eyes. The girl blushes, covering her face with her hands. Then the boy steps on a black square, turning the steps red, and they are both sent back to the first step."
+    },
+    {
+        "second": 3,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/L8zFXw40pek/output_frames/sec_3_idx_19.jpg",
+        "fps": 60,
+        "explanation": "[2-6] The two start walking down from the first step again and stop when the black square passes by. Then the boy falls on the stairs, and the girl tilts her head to look at him. The steps the boy's body passes over turn green, and his head hits the black square. The steps turn red, and they are both sent back to the first step again."
+    },
+    {
+        "second": 4,
+        "frame_index": 32,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/L8zFXw40pek/output_frames/sec_4_idx_32.jpg",
+        "fps": 60,
+        "explanation": "[2-6] The two start walking down from the first step again and stop when the black square passes by. Then the boy falls on the stairs, and the girl tilts her head to look at him. The steps the boy's body passes over turn green, and his head hits the black square. The steps turn red, and they are both sent back to the first step again."
+    },
+    {
+        "second": 5,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/L8zFXw40pek/output_frames/sec_5_idx_12.jpg",
+        "fps": 60,
+        "explanation": "[2-6] The two start walking down from the first step again and stop when the black square passes by. Then the boy falls on the stairs, and the girl tilts her head to look at him. The steps the boy's body passes over turn green, and his head hits the black square. The steps turn red, and they are both sent back to the first step again."
+    },
+    {
+        "second": 6,
+        "frame_index": 48,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/L8zFXw40pek/output_frames/sec_6_idx_48.jpg",
+        "fps": 60,
+        "explanation": "[2-6] The two start walking down from the first step again and stop when the black square passes by. Then the boy falls on the stairs, and the girl tilts her head to look at him. The steps the boy's body passes over turn green, and his head hits the black square. The steps turn red, and they are both sent back to the first step again."
+    },
+    {
+        "second": 7,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/L8zFXw40pek/output_frames/sec_7_idx_1.jpg",
+        "fps": 60,
+        "explanation": "[6-12] The two walk down the steps again. This time, the boy is faster than the girl. When he reaches the seventh step, he wipes the sweat from his forehead with his hand and steps on the black square again. Seeing this, the girl trembles suddenly. They both return to the first step."
+    },
+    {
+        "second": 8,
+        "frame_index": 56,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/L8zFXw40pek/output_frames/sec_8_idx_56.jpg",
+        "fps": 60,
+        "explanation": "[6-12] The two walk down the steps again. This time, the boy is faster than the girl. When he reaches the seventh step, he wipes the sweat from his forehead with his hand and steps on the black square again. Seeing this, the girl trembles suddenly. They both return to the first step."
+    },
+    {
+        "second": 9,
+        "frame_index": 43,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/L8zFXw40pek/output_frames/sec_9_idx_43.jpg",
+        "fps": 60,
+        "explanation": "[6-12] The two walk down the steps again. This time, the boy is faster than the girl. When he reaches the seventh step, he wipes the sweat from his forehead with his hand and steps on the black square again. Seeing this, the girl trembles suddenly. They both return to the first step."
+    },
+    {
+        "second": 10,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/L8zFXw40pek/output_frames/sec_10_idx_16.jpg",
+        "fps": 60,
+        "explanation": "[6-12] The two walk down the steps again. This time, the boy is faster than the girl. When he reaches the seventh step, he wipes the sweat from his forehead with his hand and steps on the black square again. Seeing this, the girl trembles suddenly. They both return to the first step."
+    },
+    {
+        "second": 11,
+        "frame_index": 52,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/L8zFXw40pek/output_frames/sec_11_idx_52.jpg",
+        "fps": 60,
+        "explanation": "[6-12] The two walk down the steps again. This time, the boy is faster than the girl. When he reaches the seventh step, he wipes the sweat from his forehead with his hand and steps on the black square again. Seeing this, the girl trembles suddenly. They both return to the first step."
+    },
+    {
+        "second": 12,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/L8zFXw40pek/output_frames/sec_12_idx_16.jpg",
+        "fps": 60,
+        "explanation": "[6-12] The two walk down the steps again. This time, the boy is faster than the girl. When he reaches the seventh step, he wipes the sweat from his forehead with his hand and steps on the black square again. Seeing this, the girl trembles suddenly. They both return to the first step."
+    },
+    {
+        "second": 13,
+        "frame_index": 56,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/L8zFXw40pek/output_frames/sec_13_idx_56.jpg",
+        "fps": 60,
+        "explanation": "[12-20] The two repeat their previous actions, stopping at the black square. Then the three steps in front of the girl slide past the black square. The girl widens her eyes in surprise and stands still, swinging her arms on both sides of her body."
+    },
+    {
+        "second": 14,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/L8zFXw40pek/output_frames/sec_14_idx_3.jpg",
+        "fps": 60,
+        "explanation": "[12-20] The two repeat their previous actions, stopping at the black square. Then the three steps in front of the girl slide past the black square. The girl widens her eyes in surprise and stands still, swinging her arms on both sides of her body."
+    },
+    {
+        "second": 15,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/L8zFXw40pek/output_frames/sec_15_idx_5.jpg",
+        "fps": 60,
+        "explanation": "[12-20] The two repeat their previous actions, stopping at the black square. Then the three steps in front of the girl slide past the black square. The girl widens her eyes in surprise and stands still, swinging her arms on both sides of her body."
+    },
+    {
+        "second": 16,
+        "frame_index": 55,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/L8zFXw40pek/output_frames/sec_16_idx_55.jpg",
+        "fps": 60,
+        "explanation": "[12-20] The two repeat their previous actions, stopping at the black square. Then the three steps in front of the girl slide past the black square. The girl widens her eyes in surprise and stands still, swinging her arms on both sides of her body."
+    },
+    {
+        "second": 17,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/L8zFXw40pek/output_frames/sec_17_idx_14.jpg",
+        "fps": 60,
+        "explanation": "[12-20] The two repeat their previous actions, stopping at the black square. Then the three steps in front of the girl slide past the black square. The girl widens her eyes in surprise and stands still, swinging her arms on both sides of her body."
+    },
+    {
+        "second": 18,
+        "frame_index": 49,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/L8zFXw40pek/output_frames/sec_18_idx_49.jpg",
+        "fps": 60,
+        "explanation": "[12-20] The two repeat their previous actions, stopping at the black square. Then the three steps in front of the girl slide past the black square. The girl widens her eyes in surprise and stands still, swinging her arms on both sides of her body."
+    },
+    {
+        "second": 19,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/L8zFXw40pek/output_frames/sec_19_idx_1.jpg",
+        "fps": 60,
+        "explanation": "[12-20] The two repeat their previous actions, stopping at the black square. Then the three steps in front of the girl slide past the black square. The girl widens her eyes in surprise and stands still, swinging her arms on both sides of her body."
+    },
+    {
+        "second": 20,
+        "frame_index": 53,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/L8zFXw40pek/output_frames/sec_20_idx_53.jpg",
+        "fps": 60,
+        "explanation": "[12-20] The two repeat their previous actions, stopping at the black square. Then the three steps in front of the girl slide past the black square. The girl widens her eyes in surprise and stands still, swinging her arms on both sides of her body."
+    },
+    {
+        "second": 21,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/L8zFXw40pek/output_frames/sec_21_idx_2.jpg",
+        "fps": 60,
+        "explanation": "[20-27] The boy hears the girl's cry as he walks down and turns to look at her. A pink box pops up on the screen with a green progress bar, a white thumbs-up, a yellow equal sign, and the subtitle \"HELP\" in red. A white click icon then appears. After clicking the thumbs-up gesture a few times, white smoke appears."
+    },
+    {
+        "second": 22,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/L8zFXw40pek/output_frames/sec_22_idx_22.jpg",
+        "fps": 60,
+        "explanation": "[20-27] The boy hears the girl's cry as he walks down and turns to look at her. A pink box pops up on the screen with a green progress bar, a white thumbs-up, a yellow equal sign, and the subtitle \"HELP\" in red. A white click icon then appears. After clicking the thumbs-up gesture a few times, white smoke appears."
+    },
+    {
+        "second": 23,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/L8zFXw40pek/output_frames/sec_23_idx_28.jpg",
+        "fps": 60,
+        "explanation": "[20-27] The boy hears the girl's cry as he walks down and turns to look at her. A pink box pops up on the screen with a green progress bar, a white thumbs-up, a yellow equal sign, and the subtitle \"HELP\" in red. A white click icon then appears. After clicking the thumbs-up gesture a few times, white smoke appears."
+    },
+    {
+        "second": 24,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/L8zFXw40pek/output_frames/sec_24_idx_6.jpg",
+        "fps": 60,
+        "explanation": "[20-27] The boy hears the girl's cry as he walks down and turns to look at her. A pink box pops up on the screen with a green progress bar, a white thumbs-up, a yellow equal sign, and the subtitle \"HELP\" in red. A white click icon then appears. After clicking the thumbs-up gesture a few times, white smoke appears."
+    },
+    {
+        "second": 25,
+        "frame_index": 57,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/L8zFXw40pek/output_frames/sec_25_idx_57.jpg",
+        "fps": 60,
+        "explanation": "[20-27] The boy hears the girl's cry as he walks down and turns to look at her. A pink box pops up on the screen with a green progress bar, a white thumbs-up, a yellow equal sign, and the subtitle \"HELP\" in red. A white click icon then appears. After clicking the thumbs-up gesture a few times, white smoke appears."
+    },
+    {
+        "second": 26,
+        "frame_index": 45,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/L8zFXw40pek/output_frames/sec_26_idx_45.jpg",
+        "fps": 60,
+        "explanation": "[20-27] The boy hears the girl's cry as he walks down and turns to look at her. A pink box pops up on the screen with a green progress bar, a white thumbs-up, a yellow equal sign, and the subtitle \"HELP\" in red. A white click icon then appears. After clicking the thumbs-up gesture a few times, white smoke appears."
+    },
+    {
+        "second": 27,
+        "frame_index": 53,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/L8zFXw40pek/output_frames/sec_27_idx_53.jpg",
+        "fps": 60,
+        "explanation": "[20-27] The boy hears the girl's cry as he walks down and turns to look at her. A pink box pops up on the screen with a green progress bar, a white thumbs-up, a yellow equal sign, and the subtitle \"HELP\" in red. A white click icon then appears. After clicking the thumbs-up gesture a few times, white smoke appears."
+    },
+    {
+        "second": 28,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/L8zFXw40pek/output_frames/sec_28_idx_25.jpg",
+        "fps": 60,
+        "explanation": "[27-32] Then, red liquid pours out of the boy's face, his hands and feet turn red, and he lets out a demonic laugh. He jumps to the step where the girl is standing, picks her up, turns around and walks quickly to the yellow platform below the stairs. The boy stands with his hands on his hips, the girl jumps up and down in celebration, then turns around and hugs the boy. The boy turns his head, and his eyes turn into hearts."
+    },
+    {
+        "second": 29,
+        "frame_index": 52,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/L8zFXw40pek/output_frames/sec_29_idx_52.jpg",
+        "fps": 60,
+        "explanation": "[27-32] Then, red liquid pours out of the boy's face, his hands and feet turn red, and he lets out a demonic laugh. He jumps to the step where the girl is standing, picks her up, turns around and walks quickly to the yellow platform below the stairs. The boy stands with his hands on his hips, the girl jumps up and down in celebration, then turns around and hugs the boy. The boy turns his head, and his eyes turn into hearts."
+    },
+    {
+        "second": 30,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/L8zFXw40pek/output_frames/sec_30_idx_10.jpg",
+        "fps": 60,
+        "explanation": "[27-32] Then, red liquid pours out of the boy's face, his hands and feet turn red, and he lets out a demonic laugh. He jumps to the step where the girl is standing, picks her up, turns around and walks quickly to the yellow platform below the stairs. The boy stands with his hands on his hips, the girl jumps up and down in celebration, then turns around and hugs the boy. The boy turns his head, and his eyes turn into hearts."
+    },
+    {
+        "second": 31,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/L8zFXw40pek/output_frames/sec_31_idx_3.jpg",
+        "fps": 60,
+        "explanation": "[27-32] Then, red liquid pours out of the boy's face, his hands and feet turn red, and he lets out a demonic laugh. He jumps to the step where the girl is standing, picks her up, turns around and walks quickly to the yellow platform below the stairs. The boy stands with his hands on his hips, the girl jumps up and down in celebration, then turns around and hugs the boy. The boy turns his head, and his eyes turn into hearts."
+    }
+]

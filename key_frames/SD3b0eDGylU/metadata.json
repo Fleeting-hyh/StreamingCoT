@@ -1,0 +1,128 @@
+[
+    {
+        "second": 0,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SD3b0eDGylU/output_frames/sec_0_idx_21.jpg",
+        "fps": 24,
+        "explanation": "[0-0] On a busy street, a man wearing a black hat and a white short-sleeved T-shirt is standing on the sidewalk holding a kettle. Next to him is a gray car, and behind it are black and white cars."
+    },
+    {
+        "second": 1,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SD3b0eDGylU/output_frames/sec_1_idx_11.jpg",
+        "fps": 24,
+        "explanation": "[0-7] Afterward, the man pours water on the road surface, and a black Ford Mustang drives by. There are green trees on one side of the street."
+    },
+    {
+        "second": 2,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SD3b0eDGylU/output_frames/sec_2_idx_4.jpg",
+        "fps": 24,
+        "explanation": "[0-7] Afterward, the man pours water on the road surface, and a black Ford Mustang drives by. There are green trees on one side of the street."
+    },
+    {
+        "second": 3,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SD3b0eDGylU/output_frames/sec_3_idx_7.jpg",
+        "fps": 24,
+        "explanation": "[0-7] Afterward, the man pours water on the road surface, and a black Ford Mustang drives by. There are green trees on one side of the street."
+    },
+    {
+        "second": 4,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SD3b0eDGylU/output_frames/sec_4_idx_20.jpg",
+        "fps": 24,
+        "explanation": "[0-7] Afterward, the man pours water on the road surface, and a black Ford Mustang drives by. There are green trees on one side of the street."
+    },
+    {
+        "second": 5,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SD3b0eDGylU/output_frames/sec_5_idx_21.jpg",
+        "fps": 24,
+        "explanation": "[0-7] Afterward, the man pours water on the road surface, and a black Ford Mustang drives by. There are green trees on one side of the street."
+    },
+    {
+        "second": 6,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SD3b0eDGylU/output_frames/sec_6_idx_12.jpg",
+        "fps": 24,
+        "explanation": "[0-7] Afterward, the man pours water on the road surface, and a black Ford Mustang drives by. There are green trees on one side of the street."
+    },
+    {
+        "second": 7,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SD3b0eDGylU/output_frames/sec_7_idx_18.jpg",
+        "fps": 24,
+        "explanation": "[0-7] Afterward, the man pours water on the road surface, and a black Ford Mustang drives by. There are green trees on one side of the street."
+    },
+    {
+        "second": 8,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SD3b0eDGylU/output_frames/sec_8_idx_4.jpg",
+        "fps": 24,
+        "explanation": "[7-17] Subsequently, the Ford Mustang starts doing a burnout, its wheels spinning at high speed. A large amount of white smoke billows from the tires, filling the space behind the car. After the burnout, the Mustang speeds away, the thick smoke spreading across the entire street, almost completely obscuring the Ford Mustang from view."
+    },
+    {
+        "second": 9,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SD3b0eDGylU/output_frames/sec_9_idx_18.jpg",
+        "fps": 24,
+        "explanation": "[7-17] Subsequently, the Ford Mustang starts doing a burnout, its wheels spinning at high speed. A large amount of white smoke billows from the tires, filling the space behind the car. After the burnout, the Mustang speeds away, the thick smoke spreading across the entire street, almost completely obscuring the Ford Mustang from view."
+    },
+    {
+        "second": 10,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SD3b0eDGylU/output_frames/sec_10_idx_2.jpg",
+        "fps": 24,
+        "explanation": "[7-17] Subsequently, the Ford Mustang starts doing a burnout, its wheels spinning at high speed. A large amount of white smoke billows from the tires, filling the space behind the car. After the burnout, the Mustang speeds away, the thick smoke spreading across the entire street, almost completely obscuring the Ford Mustang from view."
+    },
+    {
+        "second": 11,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SD3b0eDGylU/output_frames/sec_11_idx_17.jpg",
+        "fps": 24,
+        "explanation": "[7-17] Subsequently, the Ford Mustang starts doing a burnout, its wheels spinning at high speed. A large amount of white smoke billows from the tires, filling the space behind the car. After the burnout, the Mustang speeds away, the thick smoke spreading across the entire street, almost completely obscuring the Ford Mustang from view."
+    },
+    {
+        "second": 12,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SD3b0eDGylU/output_frames/sec_12_idx_1.jpg",
+        "fps": 24,
+        "explanation": "[7-17] Subsequently, the Ford Mustang starts doing a burnout, its wheels spinning at high speed. A large amount of white smoke billows from the tires, filling the space behind the car. After the burnout, the Mustang speeds away, the thick smoke spreading across the entire street, almost completely obscuring the Ford Mustang from view."
+    },
+    {
+        "second": 13,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SD3b0eDGylU/output_frames/sec_13_idx_8.jpg",
+        "fps": 24,
+        "explanation": "[7-17] Subsequently, the Ford Mustang starts doing a burnout, its wheels spinning at high speed. A large amount of white smoke billows from the tires, filling the space behind the car. After the burnout, the Mustang speeds away, the thick smoke spreading across the entire street, almost completely obscuring the Ford Mustang from view."
+    },
+    {
+        "second": 14,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SD3b0eDGylU/output_frames/sec_14_idx_21.jpg",
+        "fps": 24,
+        "explanation": "[7-17] Subsequently, the Ford Mustang starts doing a burnout, its wheels spinning at high speed. A large amount of white smoke billows from the tires, filling the space behind the car. After the burnout, the Mustang speeds away, the thick smoke spreading across the entire street, almost completely obscuring the Ford Mustang from view."
+    },
+    {
+        "second": 15,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SD3b0eDGylU/output_frames/sec_15_idx_2.jpg",
+        "fps": 24,
+        "explanation": "[7-17] Subsequently, the Ford Mustang starts doing a burnout, its wheels spinning at high speed. A large amount of white smoke billows from the tires, filling the space behind the car. After the burnout, the Mustang speeds away, the thick smoke spreading across the entire street, almost completely obscuring the Ford Mustang from view."
+    },
+    {
+        "second": 16,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SD3b0eDGylU/output_frames/sec_16_idx_15.jpg",
+        "fps": 24,
+        "explanation": "[7-17] Subsequently, the Ford Mustang starts doing a burnout, its wheels spinning at high speed. A large amount of white smoke billows from the tires, filling the space behind the car. After the burnout, the Mustang speeds away, the thick smoke spreading across the entire street, almost completely obscuring the Ford Mustang from view."
+    },
+    {
+        "second": 17,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SD3b0eDGylU/output_frames/sec_17_idx_10.jpg",
+        "fps": 24,
+        "explanation": "[7-17] Subsequently, the Ford Mustang starts doing a burnout, its wheels spinning at high speed. A large amount of white smoke billows from the tires, filling the space behind the car. After the burnout, the Mustang speeds away, the thick smoke spreading across the entire street, almost completely obscuring the Ford Mustang from view."
+    }
+]

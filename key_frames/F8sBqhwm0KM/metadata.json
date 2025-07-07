@@ -1,0 +1,86 @@
+[
+    {
+        "second": 0,
+        "frame_index": 47,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/F8sBqhwm0KM/output_frames/sec_0_idx_47.jpg",
+        "fps": 60,
+        "explanation": "[0-0] A man wearing a white T-shirt and glasses is lying under a car doing repair work. He is holding a wrench in his hand."
+    },
+    {
+        "second": 1,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/F8sBqhwm0KM/output_frames/sec_1_idx_17.jpg",
+        "fps": 60,
+        "explanation": "[0-3] The man continues to work under the car, using a wrench and screws, concentrating on repairing the vehicle."
+    },
+    {
+        "second": 2,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/F8sBqhwm0KM/output_frames/sec_2_idx_13.jpg",
+        "fps": 60,
+        "explanation": "[0-3] The man continues to work under the car, using a wrench and screws, concentrating on repairing the vehicle."
+    },
+    {
+        "second": 3,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/F8sBqhwm0KM/output_frames/sec_3_idx_14.jpg",
+        "fps": 60,
+        "explanation": "[0-3] The man continues to work under the car, using a wrench and screws, concentrating on repairing the vehicle."
+    },
+    {
+        "second": 4,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/F8sBqhwm0KM/output_frames/sec_4_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[3-8] At this point, he stops what he is doing, and the camera switches to another angle of the car, showing details of the car's chassis supported by a wrench and bricks."
+    },
+    {
+        "second": 5,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/F8sBqhwm0KM/output_frames/sec_5_idx_3.jpg",
+        "fps": 60,
+        "explanation": "[3-8] At this point, he stops what he is doing, and the camera switches to another angle of the car, showing details of the car's chassis supported by a wrench and bricks."
+    },
+    {
+        "second": 6,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/F8sBqhwm0KM/output_frames/sec_6_idx_14.jpg",
+        "fps": 60,
+        "explanation": "[3-8] At this point, he stops what he is doing, and the camera switches to another angle of the car, showing details of the car's chassis supported by a wrench and bricks."
+    },
+    {
+        "second": 7,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/F8sBqhwm0KM/output_frames/sec_7_idx_11.jpg",
+        "fps": 60,
+        "explanation": "[3-8] At this point, he stops what he is doing, and the camera switches to another angle of the car, showing details of the car's chassis supported by a wrench and bricks."
+    },
+    {
+        "second": 8,
+        "frame_index": 35,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/F8sBqhwm0KM/output_frames/sec_8_idx_35.jpg",
+        "fps": 60,
+        "explanation": "[3-8] At this point, he stops what he is doing, and the camera switches to another angle of the car, showing details of the car's chassis supported by a wrench and bricks."
+    },
+    {
+        "second": 9,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/F8sBqhwm0KM/output_frames/sec_9_idx_5.jpg",
+        "fps": 60,
+        "explanation": "[8-11] Then the camera returns to the man, who is still lying under the car, stops working, and looks at the camera."
+    },
+    {
+        "second": 10,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/F8sBqhwm0KM/output_frames/sec_10_idx_3.jpg",
+        "fps": 60,
+        "explanation": "[8-11] Then the camera returns to the man, who is still lying under the car, stops working, and looks at the camera."
+    },
+    {
+        "second": 11,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/F8sBqhwm0KM/output_frames/sec_11_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[8-11] Then the camera returns to the man, who is still lying under the car, stops working, and looks at the camera."
+    }
+]

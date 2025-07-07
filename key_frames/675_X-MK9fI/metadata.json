@@ -1,0 +1,72 @@
+[
+    {
+        "second": 0,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/675_X-MK9fI/output_frames/sec_0_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A person in a gray shirt stands in front of a white table, holding a wooden ruler and a rotary cutter, cutting a piece of red floral fabric spread out on the table. There is also a pile of uncut fabric on the table and the floor."
+    },
+    {
+        "second": 1,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/675_X-MK9fI/output_frames/sec_1_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Next, the person presses down on the fabric with the ruler in their left hand and uses the rotary cutter in their right hand to cut along its edge."
+    },
+    {
+        "second": 2,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/675_X-MK9fI/output_frames/sec_2_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Next, the person presses down on the fabric with the ruler in their left hand and uses the rotary cutter in their right hand to cut along its edge."
+    },
+    {
+        "second": 3,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/675_X-MK9fI/output_frames/sec_3_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Next, the person presses down on the fabric with the ruler in their left hand and uses the rotary cutter in their right hand to cut along its edge."
+    },
+    {
+        "second": 4,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/675_X-MK9fI/output_frames/sec_4_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Next, the person presses down on the fabric with the ruler in their left hand and uses the rotary cutter in their right hand to cut along its edge."
+    },
+    {
+        "second": 5,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/675_X-MK9fI/output_frames/sec_5_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Next, the person presses down on the fabric with the ruler in their left hand and uses the rotary cutter in their right hand to cut along its edge."
+    },
+    {
+        "second": 6,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/675_X-MK9fI/output_frames/sec_6_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[5-9] The person in the gray shirt then places the ruler on the table and flips the fabric over. They press down on the fabric with their left hand and carefully trim off the excess with the rotary cutter in their right hand. After cutting, they fold the fabric upward and then to the right."
+    },
+    {
+        "second": 7,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/675_X-MK9fI/output_frames/sec_7_idx_24.jpg",
+        "fps": 30,
+        "explanation": "[5-9] The person in the gray shirt then places the ruler on the table and flips the fabric over. They press down on the fabric with their left hand and carefully trim off the excess with the rotary cutter in their right hand. After cutting, they fold the fabric upward and then to the right."
+    },
+    {
+        "second": 8,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/675_X-MK9fI/output_frames/sec_8_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[5-9] The person in the gray shirt then places the ruler on the table and flips the fabric over. They press down on the fabric with their left hand and carefully trim off the excess with the rotary cutter in their right hand. After cutting, they fold the fabric upward and then to the right."
+    },
+    {
+        "second": 9,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/675_X-MK9fI/output_frames/sec_9_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[5-9] The person in the gray shirt then places the ruler on the table and flips the fabric over. They press down on the fabric with their left hand and carefully trim off the excess with the rotary cutter in their right hand. After cutting, they fold the fabric upward and then to the right."
+    }
+]

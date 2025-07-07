@@ -1,0 +1,156 @@
+[
+    {
+        "second": 0,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/H_qh-7vylvA/output_frames/sec_0_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[0-0] In a football match, a player in a white jersey is preparing to shoot, opposite him a man in a red jersey is watching him, behind the blue wall many spectators are watching the white player intently."
+    },
+    {
+        "second": 1,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/H_qh-7vylvA/output_frames/sec_1_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[0-2] The man raises his foot and shoots, the football passes by the player in red, the player in red turns his head to look at the football on the right, the football draws a perfect arc in the air and returns behind the man in red."
+    },
+    {
+        "second": 2,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/H_qh-7vylvA/output_frames/sec_2_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[0-2] The man raises his foot and shoots, the football passes by the player in red, the player in red turns his head to look at the football on the right, the football draws a perfect arc in the air and returns behind the man in red."
+    },
+    {
+        "second": 3,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/H_qh-7vylvA/output_frames/sec_3_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[2-5] Then more players appear in the picture, the player in white raises his foot and shoots the football over many players in red towards the goal, the goalkeeper in front of the goal flies to save the football but fails, the football enters the goal first."
+    },
+    {
+        "second": 4,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/H_qh-7vylvA/output_frames/sec_4_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[2-5] Then more players appear in the picture, the player in white raises his foot and shoots the football over many players in red towards the goal, the goalkeeper in front of the goal flies to save the football but fails, the football enters the goal first."
+    },
+    {
+        "second": 5,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/H_qh-7vylvA/output_frames/sec_5_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[2-5] Then more players appear in the picture, the player in white raises his foot and shoots the football over many players in red towards the goal, the goalkeeper in front of the goal flies to save the football but fails, the football enters the goal first."
+    },
+    {
+        "second": 6,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/H_qh-7vylvA/output_frames/sec_6_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[5-8] In another match, a player in a white jersey is facing the camera, suddenly a black player with the ball appears from the right, the black player raises his foot and shoots the football past the white player, the player almost falls down in fright, the football flies into the corner of the goal at a tricky angle and bounces into the goal, the goalkeeper in front of the goal is too late to block and can only stand and watch the football behind him, the black player who scored turns and runs to the left."
+    },
+    {
+        "second": 7,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/H_qh-7vylvA/output_frames/sec_7_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[5-8] In another match, a player in a white jersey is facing the camera, suddenly a black player with the ball appears from the right, the black player raises his foot and shoots the football past the white player, the player almost falls down in fright, the football flies into the corner of the goal at a tricky angle and bounces into the goal, the goalkeeper in front of the goal is too late to block and can only stand and watch the football behind him, the black player who scored turns and runs to the left."
+    },
+    {
+        "second": 8,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/H_qh-7vylvA/output_frames/sec_8_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[5-8] In another match, a player in a white jersey is facing the camera, suddenly a black player with the ball appears from the right, the black player raises his foot and shoots the football past the white player, the player almost falls down in fright, the football flies into the corner of the goal at a tricky angle and bounces into the goal, the goalkeeper in front of the goal is too late to block and can only stand and watch the football behind him, the black player who scored turns and runs to the left."
+    },
+    {
+        "second": 9,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/H_qh-7vylvA/output_frames/sec_9_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[8-13] In another football match, a player in a blue jersey raises his foot to shoot, the football flies over some players in white and into the goal, then more players appear in the picture, the player in blue raises his foot to shoot the football in an arc through the air into the corner of the goal."
+    },
+    {
+        "second": 10,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/H_qh-7vylvA/output_frames/sec_10_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[8-13] In another football match, a player in a blue jersey raises his foot to shoot, the football flies over some players in white and into the goal, then more players appear in the picture, the player in blue raises his foot to shoot the football in an arc through the air into the corner of the goal."
+    },
+    {
+        "second": 11,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/H_qh-7vylvA/output_frames/sec_11_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[8-13] In another football match, a player in a blue jersey raises his foot to shoot, the football flies over some players in white and into the goal, then more players appear in the picture, the player in blue raises his foot to shoot the football in an arc through the air into the corner of the goal."
+    },
+    {
+        "second": 12,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/H_qh-7vylvA/output_frames/sec_12_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[8-13] In another football match, a player in a blue jersey raises his foot to shoot, the football flies over some players in white and into the goal, then more players appear in the picture, the player in blue raises his foot to shoot the football in an arc through the air into the corner of the goal."
+    },
+    {
+        "second": 13,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/H_qh-7vylvA/output_frames/sec_13_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[8-13] In another football match, a player in a blue jersey raises his foot to shoot, the football flies over some players in white and into the goal, then more players appear in the picture, the player in blue raises his foot to shoot the football in an arc through the air into the corner of the goal."
+    },
+    {
+        "second": 14,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/H_qh-7vylvA/output_frames/sec_14_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[13-16] Then another football match appears in the picture, the football falls from the air to the feet of a player in blue, who raises his foot and sends the ball into the goal, the goalkeeper in pink in front of the goal has no time to defend and can only look back at the football entering the goal, the blue player watches the football run to the left after seeing the goal scored."
+    },
+    {
+        "second": 15,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/H_qh-7vylvA/output_frames/sec_15_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[13-16] Then another football match appears in the picture, the football falls from the air to the feet of a player in blue, who raises his foot and sends the ball into the goal, the goalkeeper in pink in front of the goal has no time to defend and can only look back at the football entering the goal, the blue player watches the football run to the left after seeing the goal scored."
+    },
+    {
+        "second": 16,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/H_qh-7vylvA/output_frames/sec_16_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[13-16] Then another football match appears in the picture, the football falls from the air to the feet of a player in blue, who raises his foot and sends the ball into the goal, the goalkeeper in pink in front of the goal has no time to defend and can only look back at the football entering the goal, the blue player watches the football run to the left after seeing the goal scored."
+    },
+    {
+        "second": 17,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/H_qh-7vylvA/output_frames/sec_17_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[16-18] In a third match, a player in a blue jersey gets the ball in the penalty area."
+    },
+    {
+        "second": 18,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/H_qh-7vylvA/output_frames/sec_18_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[16-18] In a third match, a player in a blue jersey gets the ball in the penalty area."
+    },
+    {
+        "second": 19,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/H_qh-7vylvA/output_frames/sec_19_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[18-21] Finally, another football match appears in the picture, a red player kicks the ball forward, the football passes through many players and flies forward, then more players appear in the picture, the football at the feet of this red player flies quickly through the crowd, flying to the undefended goal behind, and enters the goal just as the goalkeeper jumps up, the goalkeeper can only fall to the ground in front of the goal."
+    },
+    {
+        "second": 20,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/H_qh-7vylvA/output_frames/sec_20_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[18-21] Finally, another football match appears in the picture, a red player kicks the ball forward, the football passes through many players and flies forward, then more players appear in the picture, the football at the feet of this red player flies quickly through the crowd, flying to the undefended goal behind, and enters the goal just as the goalkeeper jumps up, the goalkeeper can only fall to the ground in front of the goal."
+    },
+    {
+        "second": 21,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/H_qh-7vylvA/output_frames/sec_21_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[18-21] Finally, another football match appears in the picture, a red player kicks the ball forward, the football passes through many players and flies forward, then more players appear in the picture, the football at the feet of this red player flies quickly through the crowd, flying to the undefended goal behind, and enters the goal just as the goalkeeper jumps up, the goalkeeper can only fall to the ground in front of the goal."
+    }
+]

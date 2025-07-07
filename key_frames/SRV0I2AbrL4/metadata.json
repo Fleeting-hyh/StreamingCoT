@@ -1,0 +1,100 @@
+[
+    {
+        "second": 0,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SRV0I2AbrL4/output_frames/sec_0_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[0-0] The frame changes from large to normal, showing a split screen. The upper half features a young man wearing a black shirt and white innerwear. He wears black headphones and looks to the right, where a black microphone is placed. The background is a room with a TV and some furniture. The lower half shows a multi-lane road with yellow lines separating the lanes, palm trees and some low-rise buildings on the roadside, and a blue car driving from the bottom. The English caption \"WHO SAID ASIANS CANT DRIVE\" appears at the top."
+    },
+    {
+        "second": 1,
+        "frame_index": 31,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SRV0I2AbrL4/output_frames/sec_1_idx_31.jpg",
+        "fps": 60,
+        "explanation": "[0-5] First, the blue car drives along the road and arrives at an intersection. A red car is stopped on the left, with a red traffic light above. The blue car continues driving, makes a turn, and arrives at the next intersection. A gray car is parked on the left. The blue car flips off the road."
+    },
+    {
+        "second": 2,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SRV0I2AbrL4/output_frames/sec_2_idx_15.jpg",
+        "fps": 60,
+        "explanation": "[0-5] First, the blue car drives along the road and arrives at an intersection. A red car is stopped on the left, with a red traffic light above. The blue car continues driving, makes a turn, and arrives at the next intersection. A gray car is parked on the left. The blue car flips off the road."
+    },
+    {
+        "second": 3,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SRV0I2AbrL4/output_frames/sec_3_idx_22.jpg",
+        "fps": 60,
+        "explanation": "[0-5] First, the blue car drives along the road and arrives at an intersection. A red car is stopped on the left, with a red traffic light above. The blue car continues driving, makes a turn, and arrives at the next intersection. A gray car is parked on the left. The blue car flips off the road."
+    },
+    {
+        "second": 4,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SRV0I2AbrL4/output_frames/sec_4_idx_19.jpg",
+        "fps": 60,
+        "explanation": "[0-5] First, the blue car drives along the road and arrives at an intersection. A red car is stopped on the left, with a red traffic light above. The blue car continues driving, makes a turn, and arrives at the next intersection. A gray car is parked on the left. The blue car flips off the road."
+    },
+    {
+        "second": 5,
+        "frame_index": 49,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SRV0I2AbrL4/output_frames/sec_5_idx_49.jpg",
+        "fps": 60,
+        "explanation": "[0-5] First, the blue car drives along the road and arrives at an intersection. A red car is stopped on the left, with a red traffic light above. The blue car continues driving, makes a turn, and arrives at the next intersection. A gray car is parked on the left. The blue car flips off the road."
+    },
+    {
+        "second": 6,
+        "frame_index": 30,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SRV0I2AbrL4/output_frames/sec_6_idx_30.jpg",
+        "fps": 60,
+        "explanation": "[5-13] Finally, the scene changes to the blue car flipping in the air. Below is a body of water. The blue car falls into the water. The upper half of the frame enlarges, and a red angry symbol appears above the head of the man in the black shirt. Then, the upper half returns to normal. Buildings and green trees can be seen above the water in the lower half. The subtitle \"well thats\" appears in the middle of the screen. The man in the black shirt turns his eyes to the left. The subtitle in the middle of the screen changes to \"different.\" The man in the black shirt turns his eyes to the front, and the frame freezes."
+    },
+    {
+        "second": 7,
+        "frame_index": 56,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SRV0I2AbrL4/output_frames/sec_7_idx_56.jpg",
+        "fps": 60,
+        "explanation": "[5-13] Finally, the scene changes to the blue car flipping in the air. Below is a body of water. The blue car falls into the water. The upper half of the frame enlarges, and a red angry symbol appears above the head of the man in the black shirt. Then, the upper half returns to normal. Buildings and green trees can be seen above the water in the lower half. The subtitle \"well thats\" appears in the middle of the screen. The man in the black shirt turns his eyes to the left. The subtitle in the middle of the screen changes to \"different.\" The man in the black shirt turns his eyes to the front, and the frame freezes."
+    },
+    {
+        "second": 8,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SRV0I2AbrL4/output_frames/sec_8_idx_5.jpg",
+        "fps": 60,
+        "explanation": "[5-13] Finally, the scene changes to the blue car flipping in the air. Below is a body of water. The blue car falls into the water. The upper half of the frame enlarges, and a red angry symbol appears above the head of the man in the black shirt. Then, the upper half returns to normal. Buildings and green trees can be seen above the water in the lower half. The subtitle \"well thats\" appears in the middle of the screen. The man in the black shirt turns his eyes to the left. The subtitle in the middle of the screen changes to \"different.\" The man in the black shirt turns his eyes to the front, and the frame freezes."
+    },
+    {
+        "second": 9,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SRV0I2AbrL4/output_frames/sec_9_idx_18.jpg",
+        "fps": 60,
+        "explanation": "[5-13] Finally, the scene changes to the blue car flipping in the air. Below is a body of water. The blue car falls into the water. The upper half of the frame enlarges, and a red angry symbol appears above the head of the man in the black shirt. Then, the upper half returns to normal. Buildings and green trees can be seen above the water in the lower half. The subtitle \"well thats\" appears in the middle of the screen. The man in the black shirt turns his eyes to the left. The subtitle in the middle of the screen changes to \"different.\" The man in the black shirt turns his eyes to the front, and the frame freezes."
+    },
+    {
+        "second": 10,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SRV0I2AbrL4/output_frames/sec_10_idx_15.jpg",
+        "fps": 60,
+        "explanation": "[5-13] Finally, the scene changes to the blue car flipping in the air. Below is a body of water. The blue car falls into the water. The upper half of the frame enlarges, and a red angry symbol appears above the head of the man in the black shirt. Then, the upper half returns to normal. Buildings and green trees can be seen above the water in the lower half. The subtitle \"well thats\" appears in the middle of the screen. The man in the black shirt turns his eyes to the left. The subtitle in the middle of the screen changes to \"different.\" The man in the black shirt turns his eyes to the front, and the frame freezes."
+    },
+    {
+        "second": 11,
+        "frame_index": 42,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SRV0I2AbrL4/output_frames/sec_11_idx_42.jpg",
+        "fps": 60,
+        "explanation": "[5-13] Finally, the scene changes to the blue car flipping in the air. Below is a body of water. The blue car falls into the water. The upper half of the frame enlarges, and a red angry symbol appears above the head of the man in the black shirt. Then, the upper half returns to normal. Buildings and green trees can be seen above the water in the lower half. The subtitle \"well thats\" appears in the middle of the screen. The man in the black shirt turns his eyes to the left. The subtitle in the middle of the screen changes to \"different.\" The man in the black shirt turns his eyes to the front, and the frame freezes."
+    },
+    {
+        "second": 12,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SRV0I2AbrL4/output_frames/sec_12_idx_14.jpg",
+        "fps": 60,
+        "explanation": "[5-13] Finally, the scene changes to the blue car flipping in the air. Below is a body of water. The blue car falls into the water. The upper half of the frame enlarges, and a red angry symbol appears above the head of the man in the black shirt. Then, the upper half returns to normal. Buildings and green trees can be seen above the water in the lower half. The subtitle \"well thats\" appears in the middle of the screen. The man in the black shirt turns his eyes to the left. The subtitle in the middle of the screen changes to \"different.\" The man in the black shirt turns his eyes to the front, and the frame freezes."
+    },
+    {
+        "second": 13,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SRV0I2AbrL4/output_frames/sec_13_idx_3.jpg",
+        "fps": 60,
+        "explanation": "[5-13] Finally, the scene changes to the blue car flipping in the air. Below is a body of water. The blue car falls into the water. The upper half of the frame enlarges, and a red angry symbol appears above the head of the man in the black shirt. Then, the upper half returns to normal. Buildings and green trees can be seen above the water in the lower half. The subtitle \"well thats\" appears in the middle of the screen. The man in the black shirt turns his eyes to the left. The subtitle in the middle of the screen changes to \"different.\" The man in the black shirt turns his eyes to the front, and the frame freezes."
+    }
+]

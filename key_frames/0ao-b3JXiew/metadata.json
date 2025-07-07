@@ -1,0 +1,128 @@
+[
+    {
+        "second": 0,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0ao-b3JXiew/output_frames/sec_0_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[0-0] Steve and Alex are standing on either side of a snow-covered railroad track, facing each other. Behind them is an orange wall with the shadows of two stick figures on it."
+    },
+    {
+        "second": 1,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0ao-b3JXiew/output_frames/sec_1_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[0-2] The orange wall then moves towards them, and Steve and Alex start to strike the same poses as the stick figures on the wall. As the wall touches Steve and Alex, the orange wall turns into a green wall with a green checkmark on it."
+    },
+    {
+        "second": 2,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0ao-b3JXiew/output_frames/sec_2_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-2] The orange wall then moves towards them, and Steve and Alex start to strike the same poses as the stick figures on the wall. As the wall touches Steve and Alex, the orange wall turns into a green wall with a green checkmark on it."
+    },
+    {
+        "second": 3,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0ao-b3JXiew/output_frames/sec_3_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[2-4] The green wall then disappears, and a blue wall appears behind them. Steve and Alex stand on either side of the track with their backs to the wall. There are two stick figure shadows on the wall. Steve and Alex begin to strike the same poses as the stick figures on the wall, and after the wall moves closer, it turns into a green wall with a green check mark on it."
+    },
+    {
+        "second": 4,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0ao-b3JXiew/output_frames/sec_4_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[2-4] The green wall then disappears, and a blue wall appears behind them. Steve and Alex stand on either side of the track with their backs to the wall. There are two stick figure shadows on the wall. Steve and Alex begin to strike the same poses as the stick figures on the wall, and after the wall moves closer, it turns into a green wall with a green check mark on it."
+    },
+    {
+        "second": 5,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0ao-b3JXiew/output_frames/sec_5_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[4-7] Then the green wall disappears, and a pink wall appears. Steve and Alex look at the shadows of the two stick figures on the wall and then start to strike the same poses as the stick figures on the wall. The pink wall turns into a green wall with a green check mark on it."
+    },
+    {
+        "second": 6,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0ao-b3JXiew/output_frames/sec_6_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[4-7] Then the green wall disappears, and a pink wall appears. Steve and Alex look at the shadows of the two stick figures on the wall and then start to strike the same poses as the stick figures on the wall. The pink wall turns into a green wall with a green check mark on it."
+    },
+    {
+        "second": 7,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0ao-b3JXiew/output_frames/sec_7_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[4-7] Then the green wall disappears, and a pink wall appears. Steve and Alex look at the shadows of the two stick figures on the wall and then start to strike the same poses as the stick figures on the wall. The pink wall turns into a green wall with a green check mark on it."
+    },
+    {
+        "second": 8,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0ao-b3JXiew/output_frames/sec_8_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[7-10] Then the wall disappears again, this time it is a yellow wall. Steve and Alex are standing on either side of the track, the shadows on the wall are of them kissing, Steve and Alex are a bit shy, Steve's hair turns red. The yellow wall approaches and turns into a red wall with a red cross on it."
+    },
+    {
+        "second": 9,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0ao-b3JXiew/output_frames/sec_9_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[7-10] Then the wall disappears again, this time it is a yellow wall. Steve and Alex are standing on either side of the track, the shadows on the wall are of them kissing, Steve and Alex are a bit shy, Steve's hair turns red. The yellow wall approaches and turns into a red wall with a red cross on it."
+    },
+    {
+        "second": 10,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0ao-b3JXiew/output_frames/sec_10_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[7-10] Then the wall disappears again, this time it is a yellow wall. Steve and Alex are standing on either side of the track, the shadows on the wall are of them kissing, Steve and Alex are a bit shy, Steve's hair turns red. The yellow wall approaches and turns into a red wall with a red cross on it."
+    },
+    {
+        "second": 11,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0ao-b3JXiew/output_frames/sec_11_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[10-12] Then the red wall disappears, and a pink wall appears behind. The stick figures on the wall are still doing the kissing action, and Steve jumps up in a panic. A sign with a thumbs up symbol \"=HELP\" and the number 3 appears above the screen, and below the sign is a green progress bar."
+    },
+    {
+        "second": 12,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0ao-b3JXiew/output_frames/sec_12_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[10-12] Then the red wall disappears, and a pink wall appears behind. The stick figures on the wall are still doing the kissing action, and Steve jumps up in a panic. A sign with a thumbs up symbol \"=HELP\" and the number 3 appears above the screen, and below the sign is a green progress bar."
+    },
+    {
+        "second": 13,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0ao-b3JXiew/output_frames/sec_13_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[12-17] Finally, the progress bar ends, the countdown ends, Steve and Alex hold hands and kiss. As the wall approaches, the pink wall turns green with a green check mark on it, and then the wall disappears."
+    },
+    {
+        "second": 14,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0ao-b3JXiew/output_frames/sec_14_idx_24.jpg",
+        "fps": 30,
+        "explanation": "[12-17] Finally, the progress bar ends, the countdown ends, Steve and Alex hold hands and kiss. As the wall approaches, the pink wall turns green with a green check mark on it, and then the wall disappears."
+    },
+    {
+        "second": 15,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0ao-b3JXiew/output_frames/sec_15_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[12-17] Finally, the progress bar ends, the countdown ends, Steve and Alex hold hands and kiss. As the wall approaches, the pink wall turns green with a green check mark on it, and then the wall disappears."
+    },
+    {
+        "second": 16,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0ao-b3JXiew/output_frames/sec_16_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[12-17] Finally, the progress bar ends, the countdown ends, Steve and Alex hold hands and kiss. As the wall approaches, the pink wall turns green with a green check mark on it, and then the wall disappears."
+    },
+    {
+        "second": 17,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0ao-b3JXiew/output_frames/sec_17_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[12-17] Finally, the progress bar ends, the countdown ends, Steve and Alex hold hands and kiss. As the wall approaches, the pink wall turns green with a green check mark on it, and then the wall disappears."
+    }
+]

@@ -1,0 +1,114 @@
+[
+    {
+        "second": 0,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LwWgO2jrrLk/output_frames/sec_0_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A man in a black T-shirt is sitting at a table with some documents on it, looking down at the documents. Behind him is a wall with several decorative picture frames hanging on it. The floor of the room is wooden, and there is a beige chair next to it with a bag on it."
+    },
+    {
+        "second": 1,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LwWgO2jrrLk/output_frames/sec_1_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Suddenly, the man in the black T-shirt hears a sound, looks up and turns his head to the other side of the room with a surprised expression on his face. The shot cuts to the window, and the man walks over and opens it."
+    },
+    {
+        "second": 2,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LwWgO2jrrLk/output_frames/sec_2_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Suddenly, the man in the black T-shirt hears a sound, looks up and turns his head to the other side of the room with a surprised expression on his face. The shot cuts to the window, and the man walks over and opens it."
+    },
+    {
+        "second": 3,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LwWgO2jrrLk/output_frames/sec_3_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[2-5] Then the picture moves to the outside of the window, where a man in a red hoodie can be seen walking around on the street, one hand on his mouth, shouting something, the other hand holding a piece of paper. There is a red car behind him and a wall with doors and windows in the background."
+    },
+    {
+        "second": 4,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LwWgO2jrrLk/output_frames/sec_4_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[2-5] Then the picture moves to the outside of the window, where a man in a red hoodie can be seen walking around on the street, one hand on his mouth, shouting something, the other hand holding a piece of paper. There is a red car behind him and a wall with doors and windows in the background."
+    },
+    {
+        "second": 5,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LwWgO2jrrLk/output_frames/sec_5_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[2-5] Then the picture moves to the outside of the window, where a man in a red hoodie can be seen walking around on the street, one hand on his mouth, shouting something, the other hand holding a piece of paper. There is a red car behind him and a wall with doors and windows in the background."
+    },
+    {
+        "second": 6,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LwWgO2jrrLk/output_frames/sec_6_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[5-7] Then the shot cuts back to the room, where the man in the black T-shirt is looking out the window with a surprised expression on his face."
+    },
+    {
+        "second": 7,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LwWgO2jrrLk/output_frames/sec_7_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[5-7] Then the shot cuts back to the room, where the man in the black T-shirt is looking out the window with a surprised expression on his face."
+    },
+    {
+        "second": 8,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LwWgO2jrrLk/output_frames/sec_8_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[7-9] Then the picture returns to the outside of the window, and the man in the red hoodie is still walking around on the street shouting."
+    },
+    {
+        "second": 9,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LwWgO2jrrLk/output_frames/sec_9_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[7-9] Then the picture returns to the outside of the window, and the man in the red hoodie is still walking around on the street shouting."
+    },
+    {
+        "second": 10,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LwWgO2jrrLk/output_frames/sec_10_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[9-11] After that, the picture zooms in and the man in the red hoodie is still shouting hard. The picture cuts back to the room, where the man in the black T-shirt is still looking out the window."
+    },
+    {
+        "second": 11,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LwWgO2jrrLk/output_frames/sec_11_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[9-11] After that, the picture zooms in and the man in the red hoodie is still shouting hard. The picture cuts back to the room, where the man in the black T-shirt is still looking out the window."
+    },
+    {
+        "second": 12,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LwWgO2jrrLk/output_frames/sec_12_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[11-13] Then the picture returns to the outside of the window, where the man in the red hoodie is walking around on the street shouting with his arms akimbo."
+    },
+    {
+        "second": 13,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LwWgO2jrrLk/output_frames/sec_13_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[11-13] Then the picture returns to the outside of the window, where the man in the red hoodie is walking around on the street shouting with his arms akimbo."
+    },
+    {
+        "second": 14,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LwWgO2jrrLk/output_frames/sec_14_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[13-15] Finally, the picture returns to the window, and the man in the black T-shirt leaves the window. The picture cuts to the kitchen, where the man in the black T-shirt is trying to lift the refrigerator."
+    },
+    {
+        "second": 15,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LwWgO2jrrLk/output_frames/sec_15_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[13-15] Finally, the picture returns to the window, and the man in the black T-shirt leaves the window. The picture cuts to the kitchen, where the man in the black T-shirt is trying to lift the refrigerator."
+    }
+]

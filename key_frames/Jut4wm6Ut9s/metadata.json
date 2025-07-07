@@ -1,0 +1,58 @@
+[
+    {
+        "second": 0,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Jut4wm6Ut9s/output_frames/sec_0_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[0-0] The video begins above the water, where a robotic arm is clamping onto a pillar covered in green mussels. There are several similar pillars nearby."
+    },
+    {
+        "second": 1,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Jut4wm6Ut9s/output_frames/sec_1_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[0-7] The robotic arm slowly descends, placing the pillar into a metal frame. Then, the arm releases, securing the pillar within the frame. Finally, the robotic arm rises slowly as water gushes out from the bottom of the frame, rinsing the pillar. This leaves the pillar cleansed and the water surging."
+    },
+    {
+        "second": 2,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Jut4wm6Ut9s/output_frames/sec_2_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[0-7] The robotic arm slowly descends, placing the pillar into a metal frame. Then, the arm releases, securing the pillar within the frame. Finally, the robotic arm rises slowly as water gushes out from the bottom of the frame, rinsing the pillar. This leaves the pillar cleansed and the water surging."
+    },
+    {
+        "second": 3,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Jut4wm6Ut9s/output_frames/sec_3_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-7] The robotic arm slowly descends, placing the pillar into a metal frame. Then, the arm releases, securing the pillar within the frame. Finally, the robotic arm rises slowly as water gushes out from the bottom of the frame, rinsing the pillar. This leaves the pillar cleansed and the water surging."
+    },
+    {
+        "second": 4,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Jut4wm6Ut9s/output_frames/sec_4_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[0-7] The robotic arm slowly descends, placing the pillar into a metal frame. Then, the arm releases, securing the pillar within the frame. Finally, the robotic arm rises slowly as water gushes out from the bottom of the frame, rinsing the pillar. This leaves the pillar cleansed and the water surging."
+    },
+    {
+        "second": 5,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Jut4wm6Ut9s/output_frames/sec_5_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[0-7] The robotic arm slowly descends, placing the pillar into a metal frame. Then, the arm releases, securing the pillar within the frame. Finally, the robotic arm rises slowly as water gushes out from the bottom of the frame, rinsing the pillar. This leaves the pillar cleansed and the water surging."
+    },
+    {
+        "second": 6,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Jut4wm6Ut9s/output_frames/sec_6_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[0-7] The robotic arm slowly descends, placing the pillar into a metal frame. Then, the arm releases, securing the pillar within the frame. Finally, the robotic arm rises slowly as water gushes out from the bottom of the frame, rinsing the pillar. This leaves the pillar cleansed and the water surging."
+    },
+    {
+        "second": 7,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Jut4wm6Ut9s/output_frames/sec_7_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[0-7] The robotic arm slowly descends, placing the pillar into a metal frame. Then, the arm releases, securing the pillar within the frame. Finally, the robotic arm rises slowly as water gushes out from the bottom of the frame, rinsing the pillar. This leaves the pillar cleansed and the water surging."
+    }
+]

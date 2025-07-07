@@ -1,0 +1,107 @@
+[
+    {
+        "second": 0,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/I3a5ptvXO0k/output_frames/sec_0_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-0] Inside an aircraft cabin, a flight attendant in a blue uniform and a blue polka dot scarf stands in the aisle with a blue floor. She holds a disposable cup of water in her right hand. Passengers are seated in gray seats on both sides of the aisle."
+    },
+    {
+        "second": 1,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/I3a5ptvXO0k/output_frames/sec_1_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[0-2] As the flight attendant walks down the aisle with the water cup, a male passenger in a gray seat on the right looks up at her."
+    },
+    {
+        "second": 2,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/I3a5ptvXO0k/output_frames/sec_2_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[0-2] As the flight attendant walks down the aisle with the water cup, a male passenger in a gray seat on the right looks up at her."
+    },
+    {
+        "second": 3,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/I3a5ptvXO0k/output_frames/sec_3_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[2-7] The flight attendant stops in front of the camera, and the camera pans left. She leans forward and hands the cup of water to a female passenger wearing a pink long-sleeved sweatshirt, seated on the far right side of the cabin."
+    },
+    {
+        "second": 4,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/I3a5ptvXO0k/output_frames/sec_4_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[2-7] The flight attendant stops in front of the camera, and the camera pans left. She leans forward and hands the cup of water to a female passenger wearing a pink long-sleeved sweatshirt, seated on the far right side of the cabin."
+    },
+    {
+        "second": 5,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/I3a5ptvXO0k/output_frames/sec_5_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[2-7] The flight attendant stops in front of the camera, and the camera pans left. She leans forward and hands the cup of water to a female passenger wearing a pink long-sleeved sweatshirt, seated on the far right side of the cabin."
+    },
+    {
+        "second": 6,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/I3a5ptvXO0k/output_frames/sec_6_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[2-7] The flight attendant stops in front of the camera, and the camera pans left. She leans forward and hands the cup of water to a female passenger wearing a pink long-sleeved sweatshirt, seated on the far right side of the cabin."
+    },
+    {
+        "second": 7,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/I3a5ptvXO0k/output_frames/sec_7_idx_24.jpg",
+        "fps": 30,
+        "explanation": "[2-7] The flight attendant stops in front of the camera, and the camera pans left. She leans forward and hands the cup of water to a female passenger wearing a pink long-sleeved sweatshirt, seated on the far right side of the cabin."
+    },
+    {
+        "second": 8,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/I3a5ptvXO0k/output_frames/sec_8_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[7-15] As the woman in the pink sweatshirt takes the cup, the camera pans left to show the flight attendant leaning forward with a smile. Her mouth is slightly open as she looks ahead and nods. She then stands up, raises her left hand towards the right side of the frame while straightening her body, and turns to walk down the aisle. As she walks, she keeps her left hand behind her back to avoid bumping into passengers."
+    },
+    {
+        "second": 9,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/I3a5ptvXO0k/output_frames/sec_9_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[7-15] As the woman in the pink sweatshirt takes the cup, the camera pans left to show the flight attendant leaning forward with a smile. Her mouth is slightly open as she looks ahead and nods. She then stands up, raises her left hand towards the right side of the frame while straightening her body, and turns to walk down the aisle. As she walks, she keeps her left hand behind her back to avoid bumping into passengers."
+    },
+    {
+        "second": 10,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/I3a5ptvXO0k/output_frames/sec_10_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[7-15] As the woman in the pink sweatshirt takes the cup, the camera pans left to show the flight attendant leaning forward with a smile. Her mouth is slightly open as she looks ahead and nods. She then stands up, raises her left hand towards the right side of the frame while straightening her body, and turns to walk down the aisle. As she walks, she keeps her left hand behind her back to avoid bumping into passengers."
+    },
+    {
+        "second": 11,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/I3a5ptvXO0k/output_frames/sec_11_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[7-15] As the woman in the pink sweatshirt takes the cup, the camera pans left to show the flight attendant leaning forward with a smile. Her mouth is slightly open as she looks ahead and nods. She then stands up, raises her left hand towards the right side of the frame while straightening her body, and turns to walk down the aisle. As she walks, she keeps her left hand behind her back to avoid bumping into passengers."
+    },
+    {
+        "second": 12,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/I3a5ptvXO0k/output_frames/sec_12_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[7-15] As the woman in the pink sweatshirt takes the cup, the camera pans left to show the flight attendant leaning forward with a smile. Her mouth is slightly open as she looks ahead and nods. She then stands up, raises her left hand towards the right side of the frame while straightening her body, and turns to walk down the aisle. As she walks, she keeps her left hand behind her back to avoid bumping into passengers."
+    },
+    {
+        "second": 13,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/I3a5ptvXO0k/output_frames/sec_13_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[7-15] As the woman in the pink sweatshirt takes the cup, the camera pans left to show the flight attendant leaning forward with a smile. Her mouth is slightly open as she looks ahead and nods. She then stands up, raises her left hand towards the right side of the frame while straightening her body, and turns to walk down the aisle. As she walks, she keeps her left hand behind her back to avoid bumping into passengers."
+    },
+    {
+        "second": 14,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/I3a5ptvXO0k/output_frames/sec_14_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[7-15] As the woman in the pink sweatshirt takes the cup, the camera pans left to show the flight attendant leaning forward with a smile. Her mouth is slightly open as she looks ahead and nods. She then stands up, raises her left hand towards the right side of the frame while straightening her body, and turns to walk down the aisle. As she walks, she keeps her left hand behind her back to avoid bumping into passengers."
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "second": 0,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4EWfQxbBGHo/output_frames/sec_0_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A hand holds a phone case with a cartoon character on a black background. The character wears yellow shorts and white socks, yellow shoes, and has a peach-shaped butt with white powder on it. Above the character are two floating pink peaches, a sun, and two cloud-shaped patterns. Japanese text is written in the middle of the phone case. There are snacks and fruits on the light yellow table."
+    },
+    {
+        "second": 1,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4EWfQxbBGHo/output_frames/sec_1_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Water is sprayed onto the phone case, washing away the white powder on the butt. A finger starts squeezing the peach-shaped butt, causing the orange part on the right to be squeezed out, leaving an orange dot."
+    },
+    {
+        "second": 2,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4EWfQxbBGHo/output_frames/sec_2_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Water is sprayed onto the phone case, washing away the white powder on the butt. A finger starts squeezing the peach-shaped butt, causing the orange part on the right to be squeezed out, leaving an orange dot."
+    },
+    {
+        "second": 3,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4EWfQxbBGHo/output_frames/sec_3_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Water is sprayed onto the phone case, washing away the white powder on the butt. A finger starts squeezing the peach-shaped butt, causing the orange part on the right to be squeezed out, leaving an orange dot."
+    },
+    {
+        "second": 4,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4EWfQxbBGHo/output_frames/sec_4_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Water is sprayed onto the phone case, washing away the white powder on the butt. A finger starts squeezing the peach-shaped butt, causing the orange part on the right to be squeezed out, leaving an orange dot."
+    },
+    {
+        "second": 5,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4EWfQxbBGHo/output_frames/sec_5_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[4-8] Finally, orange liquid squirts out, and some of it drips onto the table."
+    },
+    {
+        "second": 6,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4EWfQxbBGHo/output_frames/sec_6_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[4-8] Finally, orange liquid squirts out, and some of it drips onto the table."
+    },
+    {
+        "second": 7,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4EWfQxbBGHo/output_frames/sec_7_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[4-8] Finally, orange liquid squirts out, and some of it drips onto the table."
+    },
+    {
+        "second": 8,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4EWfQxbBGHo/output_frames/sec_8_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[4-8] Finally, orange liquid squirts out, and some of it drips onto the table."
+    }
+]

@@ -1,0 +1,114 @@
+[
+    {
+        "second": 0,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8QlZXbbhF-8/output_frames/sec_0_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[0-0] On a dusty ground, a set of blue solar panels is installed. The surface of the solar panels on the right side is covered with a thick layer of dust, and a small patch of wet ground can be seen."
+    },
+    {
+        "second": 1,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8QlZXbbhF-8/output_frames/sec_1_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Then a stream of water shoots out from the lower left, starting to wash away the dust on the leftmost row of solar panels. The solar panels brushed by the water flow immediately restore their original blue color, and the mud washed down flows on the ground. The water flow continues to wash the solar panels from left to right, and the dust on the leftmost row has been washed clean. As the water flow moves, the picture also moves to the right, and it can be seen that there are many solar panels covered with dust."
+    },
+    {
+        "second": 2,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8QlZXbbhF-8/output_frames/sec_2_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Then a stream of water shoots out from the lower left, starting to wash away the dust on the leftmost row of solar panels. The solar panels brushed by the water flow immediately restore their original blue color, and the mud washed down flows on the ground. The water flow continues to wash the solar panels from left to right, and the dust on the leftmost row has been washed clean. As the water flow moves, the picture also moves to the right, and it can be seen that there are many solar panels covered with dust."
+    },
+    {
+        "second": 3,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8QlZXbbhF-8/output_frames/sec_3_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Then a stream of water shoots out from the lower left, starting to wash away the dust on the leftmost row of solar panels. The solar panels brushed by the water flow immediately restore their original blue color, and the mud washed down flows on the ground. The water flow continues to wash the solar panels from left to right, and the dust on the leftmost row has been washed clean. As the water flow moves, the picture also moves to the right, and it can be seen that there are many solar panels covered with dust."
+    },
+    {
+        "second": 4,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8QlZXbbhF-8/output_frames/sec_4_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Then a stream of water shoots out from the lower left, starting to wash away the dust on the leftmost row of solar panels. The solar panels brushed by the water flow immediately restore their original blue color, and the mud washed down flows on the ground. The water flow continues to wash the solar panels from left to right, and the dust on the leftmost row has been washed clean. As the water flow moves, the picture also moves to the right, and it can be seen that there are many solar panels covered with dust."
+    },
+    {
+        "second": 5,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8QlZXbbhF-8/output_frames/sec_5_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[4-12] Subsequently, the water flow starts to wash the second row of solar panels, most of the dust has been washed away, and the water flow continues to move to the right while washing the solar panels."
+    },
+    {
+        "second": 6,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8QlZXbbhF-8/output_frames/sec_6_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[4-12] Subsequently, the water flow starts to wash the second row of solar panels, most of the dust has been washed away, and the water flow continues to move to the right while washing the solar panels."
+    },
+    {
+        "second": 7,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8QlZXbbhF-8/output_frames/sec_7_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[4-12] Subsequently, the water flow starts to wash the second row of solar panels, most of the dust has been washed away, and the water flow continues to move to the right while washing the solar panels."
+    },
+    {
+        "second": 8,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8QlZXbbhF-8/output_frames/sec_8_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[4-12] Subsequently, the water flow starts to wash the second row of solar panels, most of the dust has been washed away, and the water flow continues to move to the right while washing the solar panels."
+    },
+    {
+        "second": 9,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8QlZXbbhF-8/output_frames/sec_9_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[4-12] Subsequently, the water flow starts to wash the second row of solar panels, most of the dust has been washed away, and the water flow continues to move to the right while washing the solar panels."
+    },
+    {
+        "second": 10,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8QlZXbbhF-8/output_frames/sec_10_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[4-12] Subsequently, the water flow starts to wash the second row of solar panels, most of the dust has been washed away, and the water flow continues to move to the right while washing the solar panels."
+    },
+    {
+        "second": 11,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8QlZXbbhF-8/output_frames/sec_11_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[4-12] Subsequently, the water flow starts to wash the second row of solar panels, most of the dust has been washed away, and the water flow continues to move to the right while washing the solar panels."
+    },
+    {
+        "second": 12,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8QlZXbbhF-8/output_frames/sec_12_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[4-12] Subsequently, the water flow starts to wash the second row of solar panels, most of the dust has been washed away, and the water flow continues to move to the right while washing the solar panels."
+    },
+    {
+        "second": 13,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8QlZXbbhF-8/output_frames/sec_13_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[12-15] Afterward, the water flow continues to wash the solar panels. The solar panels washed by the water flow return to their original blue color, and a large amount of muddy water flows onto the ground."
+    },
+    {
+        "second": 14,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8QlZXbbhF-8/output_frames/sec_14_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[12-15] Afterward, the water flow continues to wash the solar panels. The solar panels washed by the water flow return to their original blue color, and a large amount of muddy water flows onto the ground."
+    },
+    {
+        "second": 15,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8QlZXbbhF-8/output_frames/sec_15_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[12-15] Afterward, the water flow continues to wash the solar panels. The solar panels washed by the water flow return to their original blue color, and a large amount of muddy water flows onto the ground."
+    }
+]

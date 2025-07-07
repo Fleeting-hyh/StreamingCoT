@@ -1,0 +1,177 @@
+[
+    {
+        "second": 0,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HN16Hp068bs/output_frames/sec_0_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A red and black toy gun is on a brown hardwood floor, with a transparent plastic attachment on top. Someone off-screen places a cardboard box above it, containing yellow and orange balls."
+    },
+    {
+        "second": 1,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HN16Hp068bs/output_frames/sec_1_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[0-6] A pair of hands pour the yellow and orange balls into the transparent plastic attachment, with many balls spilling onto the floor. The camera zooms in as the transparent plastic attachment fills up."
+    },
+    {
+        "second": 2,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HN16Hp068bs/output_frames/sec_2_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[0-6] A pair of hands pour the yellow and orange balls into the transparent plastic attachment, with many balls spilling onto the floor. The camera zooms in as the transparent plastic attachment fills up."
+    },
+    {
+        "second": 3,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HN16Hp068bs/output_frames/sec_3_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[0-6] A pair of hands pour the yellow and orange balls into the transparent plastic attachment, with many balls spilling onto the floor. The camera zooms in as the transparent plastic attachment fills up."
+    },
+    {
+        "second": 4,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HN16Hp068bs/output_frames/sec_4_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[0-6] A pair of hands pour the yellow and orange balls into the transparent plastic attachment, with many balls spilling onto the floor. The camera zooms in as the transparent plastic attachment fills up."
+    },
+    {
+        "second": 5,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HN16Hp068bs/output_frames/sec_5_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[0-6] A pair of hands pour the yellow and orange balls into the transparent plastic attachment, with many balls spilling onto the floor. The camera zooms in as the transparent plastic attachment fills up."
+    },
+    {
+        "second": 6,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HN16Hp068bs/output_frames/sec_6_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-6] A pair of hands pour the yellow and orange balls into the transparent plastic attachment, with many balls spilling onto the floor. The camera zooms in as the transparent plastic attachment fills up."
+    },
+    {
+        "second": 7,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HN16Hp068bs/output_frames/sec_7_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[6-8] The scene changes to a dining room where two boys are sitting at a large table. The boy on the left is wearing a blue shirt, and the boy on the right is wearing a gray shirt. In front of them are school supplies, papers, and a laptop. They are both bent over the computer."
+    },
+    {
+        "second": 8,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HN16Hp068bs/output_frames/sec_8_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[6-8] The scene changes to a dining room where two boys are sitting at a large table. The boy on the left is wearing a blue shirt, and the boy on the right is wearing a gray shirt. In front of them are school supplies, papers, and a laptop. They are both bent over the computer."
+    },
+    {
+        "second": 9,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HN16Hp068bs/output_frames/sec_9_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[8-10] The scene shifts to a different area of the house, where a marble table and a black chair are placed in front of a white doorway. A yellow mat is on the table. A man wearing a black shirt and a black baseball cap enters the room from the right, holding the toy gun and looking to the left with his mouth open."
+    },
+    {
+        "second": 10,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HN16Hp068bs/output_frames/sec_10_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[8-10] The scene shifts to a different area of the house, where a marble table and a black chair are placed in front of a white doorway. A yellow mat is on the table. A man wearing a black shirt and a black baseball cap enters the room from the right, holding the toy gun and looking to the left with his mouth open."
+    },
+    {
+        "second": 11,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HN16Hp068bs/output_frames/sec_11_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[10-20] The man fires the toy gun, and the camera zooms in to show the balls in the transparent plastic attachment decreasing by half. The camera zooms out to show the toy gun vibrating. The camera zooms in again, showing only a small portion of balls left in the attachment, then zooms out to show only one ball remaining. The man raises the toy gun and looks to the left."
+    },
+    {
+        "second": 12,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HN16Hp068bs/output_frames/sec_12_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[10-20] The man fires the toy gun, and the camera zooms in to show the balls in the transparent plastic attachment decreasing by half. The camera zooms out to show the toy gun vibrating. The camera zooms in again, showing only a small portion of balls left in the attachment, then zooms out to show only one ball remaining. The man raises the toy gun and looks to the left."
+    },
+    {
+        "second": 13,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HN16Hp068bs/output_frames/sec_13_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[10-20] The man fires the toy gun, and the camera zooms in to show the balls in the transparent plastic attachment decreasing by half. The camera zooms out to show the toy gun vibrating. The camera zooms in again, showing only a small portion of balls left in the attachment, then zooms out to show only one ball remaining. The man raises the toy gun and looks to the left."
+    },
+    {
+        "second": 14,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HN16Hp068bs/output_frames/sec_14_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[10-20] The man fires the toy gun, and the camera zooms in to show the balls in the transparent plastic attachment decreasing by half. The camera zooms out to show the toy gun vibrating. The camera zooms in again, showing only a small portion of balls left in the attachment, then zooms out to show only one ball remaining. The man raises the toy gun and looks to the left."
+    },
+    {
+        "second": 15,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HN16Hp068bs/output_frames/sec_15_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[10-20] The man fires the toy gun, and the camera zooms in to show the balls in the transparent plastic attachment decreasing by half. The camera zooms out to show the toy gun vibrating. The camera zooms in again, showing only a small portion of balls left in the attachment, then zooms out to show only one ball remaining. The man raises the toy gun and looks to the left."
+    },
+    {
+        "second": 16,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HN16Hp068bs/output_frames/sec_16_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[10-20] The man fires the toy gun, and the camera zooms in to show the balls in the transparent plastic attachment decreasing by half. The camera zooms out to show the toy gun vibrating. The camera zooms in again, showing only a small portion of balls left in the attachment, then zooms out to show only one ball remaining. The man raises the toy gun and looks to the left."
+    },
+    {
+        "second": 17,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HN16Hp068bs/output_frames/sec_17_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[10-20] The man fires the toy gun, and the camera zooms in to show the balls in the transparent plastic attachment decreasing by half. The camera zooms out to show the toy gun vibrating. The camera zooms in again, showing only a small portion of balls left in the attachment, then zooms out to show only one ball remaining. The man raises the toy gun and looks to the left."
+    },
+    {
+        "second": 18,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HN16Hp068bs/output_frames/sec_18_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[10-20] The man fires the toy gun, and the camera zooms in to show the balls in the transparent plastic attachment decreasing by half. The camera zooms out to show the toy gun vibrating. The camera zooms in again, showing only a small portion of balls left in the attachment, then zooms out to show only one ball remaining. The man raises the toy gun and looks to the left."
+    },
+    {
+        "second": 19,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HN16Hp068bs/output_frames/sec_19_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[10-20] The man fires the toy gun, and the camera zooms in to show the balls in the transparent plastic attachment decreasing by half. The camera zooms out to show the toy gun vibrating. The camera zooms in again, showing only a small portion of balls left in the attachment, then zooms out to show only one ball remaining. The man raises the toy gun and looks to the left."
+    },
+    {
+        "second": 20,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HN16Hp068bs/output_frames/sec_20_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[10-20] The man fires the toy gun, and the camera zooms in to show the balls in the transparent plastic attachment decreasing by half. The camera zooms out to show the toy gun vibrating. The camera zooms in again, showing only a small portion of balls left in the attachment, then zooms out to show only one ball remaining. The man raises the toy gun and looks to the left."
+    },
+    {
+        "second": 21,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HN16Hp068bs/output_frames/sec_21_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[20-25] The scene returns to the dining room with the two boys sitting. Toy balls are scattered on the table and floor, with some chairs knocked over and one chair on the table. The boy in the gray shirt extends his arms, while the boy in the blue shirt looks at him."
+    },
+    {
+        "second": 22,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HN16Hp068bs/output_frames/sec_22_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[20-25] The scene returns to the dining room with the two boys sitting. Toy balls are scattered on the table and floor, with some chairs knocked over and one chair on the table. The boy in the gray shirt extends his arms, while the boy in the blue shirt looks at him."
+    },
+    {
+        "second": 23,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HN16Hp068bs/output_frames/sec_23_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[20-25] The scene returns to the dining room with the two boys sitting. Toy balls are scattered on the table and floor, with some chairs knocked over and one chair on the table. The boy in the gray shirt extends his arms, while the boy in the blue shirt looks at him."
+    },
+    {
+        "second": 24,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HN16Hp068bs/output_frames/sec_24_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[20-25] The scene returns to the dining room with the two boys sitting. Toy balls are scattered on the table and floor, with some chairs knocked over and one chair on the table. The boy in the gray shirt extends his arms, while the boy in the blue shirt looks at him."
+    }
+]

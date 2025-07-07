@@ -1,0 +1,30 @@
+[
+    {
+        "second": 0,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DtK2ZPty0IY/output_frames/sec_0_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A little boy in a blue cotton jacket is sitting on a wooden rocking horse. The rocking horse is standing on the ground, its head covered with a black hood. There are some big trees in the background. Purple watermarks appear at the top and bottom of the image."
+    },
+    {
+        "second": 1,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DtK2ZPty0IY/output_frames/sec_1_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Then the little boy grabs the reins of the rocking horse with his hands and shakes them back and forth."
+    },
+    {
+        "second": 2,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DtK2ZPty0IY/output_frames/sec_2_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Then the little boy grabs the reins of the rocking horse with his hands and shakes them back and forth."
+    },
+    {
+        "second": 3,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DtK2ZPty0IY/output_frames/sec_3_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[2-4] Subsequently, the little boy grabs the reins on the horse's neck and shakes the horse's head back and forth."
+    }
+]

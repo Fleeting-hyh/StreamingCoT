@@ -1,0 +1,86 @@
+[
+    {
+        "second": 0,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Ek7OmJzWV1E/output_frames/sec_0_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[0-0] From a car's perspective, a forest and green fields lie ahead, with a serene lake in front of the forest. Several black dots are visible on the lake."
+    },
+    {
+        "second": 1,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Ek7OmJzWV1E/output_frames/sec_1_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[0-3] The car drives toward the lake, and as it approaches, the black dots are revealed to be crocodiles floating on the water. When the car enters the lake, a crocodile in front opens its mouth, revealing rows of sharp teeth, as if to bite the vehicle. The car quickly swerves to the right to avoid it. Continuing forward, the crocodile on the left seems oblivious to the car and remains motionless in the water. Then, the crocodile on the right leaps from the water, jaws agape, attempting to bite the car, which dodges to the left and continues. Many more crocodiles can be seen in the water ahead."
+    },
+    {
+        "second": 2,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Ek7OmJzWV1E/output_frames/sec_2_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[0-3] The car drives toward the lake, and as it approaches, the black dots are revealed to be crocodiles floating on the water. When the car enters the lake, a crocodile in front opens its mouth, revealing rows of sharp teeth, as if to bite the vehicle. The car quickly swerves to the right to avoid it. Continuing forward, the crocodile on the left seems oblivious to the car and remains motionless in the water. Then, the crocodile on the right leaps from the water, jaws agape, attempting to bite the car, which dodges to the left and continues. Many more crocodiles can be seen in the water ahead."
+    },
+    {
+        "second": 3,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Ek7OmJzWV1E/output_frames/sec_3_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[0-3] The car drives toward the lake, and as it approaches, the black dots are revealed to be crocodiles floating on the water. When the car enters the lake, a crocodile in front opens its mouth, revealing rows of sharp teeth, as if to bite the vehicle. The car quickly swerves to the right to avoid it. Continuing forward, the crocodile on the left seems oblivious to the car and remains motionless in the water. Then, the crocodile on the right leaps from the water, jaws agape, attempting to bite the car, which dodges to the left and continues. Many more crocodiles can be seen in the water ahead."
+    },
+    {
+        "second": 4,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Ek7OmJzWV1E/output_frames/sec_4_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[3-9] As the car progresses, the crocodile on the right remains inactive, while the car swiftly passes the crocodile on the left just as it opens its mouth. Suddenly, a crocodile in front of the car lunges out, jaws open, to bite. The car rapidly swerves left, evading the crocodile. Simultaneously, a crocodile to the car's front left opens its mouth, but the car speeds past. The crocodile on the right, looking at the car, is left behind before it can react. After dodging one final lunging crocodile, the car exits the lake and returns to the green fields."
+    },
+    {
+        "second": 5,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Ek7OmJzWV1E/output_frames/sec_5_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[3-9] As the car progresses, the crocodile on the right remains inactive, while the car swiftly passes the crocodile on the left just as it opens its mouth. Suddenly, a crocodile in front of the car lunges out, jaws open, to bite. The car rapidly swerves left, evading the crocodile. Simultaneously, a crocodile to the car's front left opens its mouth, but the car speeds past. The crocodile on the right, looking at the car, is left behind before it can react. After dodging one final lunging crocodile, the car exits the lake and returns to the green fields."
+    },
+    {
+        "second": 6,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Ek7OmJzWV1E/output_frames/sec_6_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[3-9] As the car progresses, the crocodile on the right remains inactive, while the car swiftly passes the crocodile on the left just as it opens its mouth. Suddenly, a crocodile in front of the car lunges out, jaws open, to bite. The car rapidly swerves left, evading the crocodile. Simultaneously, a crocodile to the car's front left opens its mouth, but the car speeds past. The crocodile on the right, looking at the car, is left behind before it can react. After dodging one final lunging crocodile, the car exits the lake and returns to the green fields."
+    },
+    {
+        "second": 7,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Ek7OmJzWV1E/output_frames/sec_7_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[3-9] As the car progresses, the crocodile on the right remains inactive, while the car swiftly passes the crocodile on the left just as it opens its mouth. Suddenly, a crocodile in front of the car lunges out, jaws open, to bite. The car rapidly swerves left, evading the crocodile. Simultaneously, a crocodile to the car's front left opens its mouth, but the car speeds past. The crocodile on the right, looking at the car, is left behind before it can react. After dodging one final lunging crocodile, the car exits the lake and returns to the green fields."
+    },
+    {
+        "second": 8,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Ek7OmJzWV1E/output_frames/sec_8_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[3-9] As the car progresses, the crocodile on the right remains inactive, while the car swiftly passes the crocodile on the left just as it opens its mouth. Suddenly, a crocodile in front of the car lunges out, jaws open, to bite. The car rapidly swerves left, evading the crocodile. Simultaneously, a crocodile to the car's front left opens its mouth, but the car speeds past. The crocodile on the right, looking at the car, is left behind before it can react. After dodging one final lunging crocodile, the car exits the lake and returns to the green fields."
+    },
+    {
+        "second": 9,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Ek7OmJzWV1E/output_frames/sec_9_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[3-9] As the car progresses, the crocodile on the right remains inactive, while the car swiftly passes the crocodile on the left just as it opens its mouth. Suddenly, a crocodile in front of the car lunges out, jaws open, to bite. The car rapidly swerves left, evading the crocodile. Simultaneously, a crocodile to the car's front left opens its mouth, but the car speeds past. The crocodile on the right, looking at the car, is left behind before it can react. After dodging one final lunging crocodile, the car exits the lake and returns to the green fields."
+    },
+    {
+        "second": 10,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Ek7OmJzWV1E/output_frames/sec_10_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[9-11] Finally, the car ascends a hill and heads towards the distant forest."
+    },
+    {
+        "second": 11,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Ek7OmJzWV1E/output_frames/sec_11_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[9-11] Finally, the car ascends a hill and heads towards the distant forest."
+    }
+]

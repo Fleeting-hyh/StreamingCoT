@@ -1,0 +1,30 @@
+[
+    {
+        "second": 0,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6Bs2LiTp71M/output_frames/sec_0_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A man in a red T-shirt is sitting at a workbench, making copper wire rings with a machine. A yellow storage box is placed on the ground, filled with completed copper wire rings. On the table beside him, there is a storage box and the surrounding area is filled with many parts."
+    },
+    {
+        "second": 1,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6Bs2LiTp71M/output_frames/sec_1_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Subsequently, the camera zooms in on the machine, and you can see the man putting a copper wire into the machine for processing, making more copper wire rings."
+    },
+    {
+        "second": 2,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6Bs2LiTp71M/output_frames/sec_2_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Subsequently, the camera zooms in on the machine, and you can see the man putting a copper wire into the machine for processing, making more copper wire rings."
+    },
+    {
+        "second": 3,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6Bs2LiTp71M/output_frames/sec_3_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Subsequently, the camera zooms in on the machine, and you can see the man putting a copper wire into the machine for processing, making more copper wire rings."
+    }
+]

@@ -1,0 +1,415 @@
+[
+    {
+        "second": 0,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QG_d2wrb1QU/output_frames/sec_0_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A girl with glasses, wearing a pink dress, sits on a gray sofa. On the table are a glass cup and a sugar jar containing a spoon."
+    },
+    {
+        "second": 1,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QG_d2wrb1QU/output_frames/sec_1_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The girl in the pink dress and glasses is scooping sugar from the jar into the glass with a spoon. As she scoops the second spoonful, a little girl with two buns in her hair, wearing a pink panda-patterned dress, bumps into her arm, causing the sugar in the spoon to spill onto the gray marble tabletop. The girl with glasses sighs."
+    },
+    {
+        "second": 2,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QG_d2wrb1QU/output_frames/sec_2_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The girl in the pink dress and glasses is scooping sugar from the jar into the glass with a spoon. As she scoops the second spoonful, a little girl with two buns in her hair, wearing a pink panda-patterned dress, bumps into her arm, causing the sugar in the spoon to spill onto the gray marble tabletop. The girl with glasses sighs."
+    },
+    {
+        "second": 3,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QG_d2wrb1QU/output_frames/sec_3_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The girl in the pink dress and glasses is scooping sugar from the jar into the glass with a spoon. As she scoops the second spoonful, a little girl with two buns in her hair, wearing a pink panda-patterned dress, bumps into her arm, causing the sugar in the spoon to spill onto the gray marble tabletop. The girl with glasses sighs."
+    },
+    {
+        "second": 4,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QG_d2wrb1QU/output_frames/sec_4_idx_24.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The girl in the pink dress and glasses is scooping sugar from the jar into the glass with a spoon. As she scoops the second spoonful, a little girl with two buns in her hair, wearing a pink panda-patterned dress, bumps into her arm, causing the sugar in the spoon to spill onto the gray marble tabletop. The girl with glasses sighs."
+    },
+    {
+        "second": 5,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QG_d2wrb1QU/output_frames/sec_5_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[4-7] Then, a man in an army green shirt, sitting on the gray sofa, gets up after hearing the little girl sigh."
+    },
+    {
+        "second": 6,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QG_d2wrb1QU/output_frames/sec_6_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[4-7] Then, a man in an army green shirt, sitting on the gray sofa, gets up after hearing the little girl sigh."
+    },
+    {
+        "second": 7,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QG_d2wrb1QU/output_frames/sec_7_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[4-7] Then, a man in an army green shirt, sitting on the gray sofa, gets up after hearing the little girl sigh."
+    },
+    {
+        "second": 8,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QG_d2wrb1QU/output_frames/sec_8_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[7-16] The man throws a yellow cloth on the table. The girl with glasses glances at the little girl in the pink panda dress sitting next to her, then resignedly wipes the spilled sugar off the table with the cloth."
+    },
+    {
+        "second": 9,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QG_d2wrb1QU/output_frames/sec_9_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[7-16] The man throws a yellow cloth on the table. The girl with glasses glances at the little girl in the pink panda dress sitting next to her, then resignedly wipes the spilled sugar off the table with the cloth."
+    },
+    {
+        "second": 10,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QG_d2wrb1QU/output_frames/sec_10_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[7-16] The man throws a yellow cloth on the table. The girl with glasses glances at the little girl in the pink panda dress sitting next to her, then resignedly wipes the spilled sugar off the table with the cloth."
+    },
+    {
+        "second": 11,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QG_d2wrb1QU/output_frames/sec_11_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[7-16] The man throws a yellow cloth on the table. The girl with glasses glances at the little girl in the pink panda dress sitting next to her, then resignedly wipes the spilled sugar off the table with the cloth."
+    },
+    {
+        "second": 12,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QG_d2wrb1QU/output_frames/sec_12_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[7-16] The man throws a yellow cloth on the table. The girl with glasses glances at the little girl in the pink panda dress sitting next to her, then resignedly wipes the spilled sugar off the table with the cloth."
+    },
+    {
+        "second": 13,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QG_d2wrb1QU/output_frames/sec_13_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[7-16] The man throws a yellow cloth on the table. The girl with glasses glances at the little girl in the pink panda dress sitting next to her, then resignedly wipes the spilled sugar off the table with the cloth."
+    },
+    {
+        "second": 14,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QG_d2wrb1QU/output_frames/sec_14_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[7-16] The man throws a yellow cloth on the table. The girl with glasses glances at the little girl in the pink panda dress sitting next to her, then resignedly wipes the spilled sugar off the table with the cloth."
+    },
+    {
+        "second": 15,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QG_d2wrb1QU/output_frames/sec_15_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[7-16] The man throws a yellow cloth on the table. The girl with glasses glances at the little girl in the pink panda dress sitting next to her, then resignedly wipes the spilled sugar off the table with the cloth."
+    },
+    {
+        "second": 16,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QG_d2wrb1QU/output_frames/sec_16_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[7-16] The man throws a yellow cloth on the table. The girl with glasses glances at the little girl in the pink panda dress sitting next to her, then resignedly wipes the spilled sugar off the table with the cloth."
+    },
+    {
+        "second": 17,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QG_d2wrb1QU/output_frames/sec_17_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[16-20] The little girl in the pink panda dress then puts her hands in front of her face, making a relieved expression. The screen briefly goes black."
+    },
+    {
+        "second": 18,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QG_d2wrb1QU/output_frames/sec_18_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[16-20] The little girl in the pink panda dress then puts her hands in front of her face, making a relieved expression. The screen briefly goes black."
+    },
+    {
+        "second": 19,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QG_d2wrb1QU/output_frames/sec_19_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[16-20] The little girl in the pink panda dress then puts her hands in front of her face, making a relieved expression. The screen briefly goes black."
+    },
+    {
+        "second": 20,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QG_d2wrb1QU/output_frames/sec_20_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[16-20] The little girl in the pink panda dress then puts her hands in front of her face, making a relieved expression. The screen briefly goes black."
+    },
+    {
+        "second": 21,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QG_d2wrb1QU/output_frames/sec_21_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[20-26] Afterward, the little girl in the pink panda dress walks towards the man who is looking at his phone, holding a piece of paper. The man takes the paper and kisses the little girl on the forehead."
+    },
+    {
+        "second": 22,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QG_d2wrb1QU/output_frames/sec_22_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[20-26] Afterward, the little girl in the pink panda dress walks towards the man who is looking at his phone, holding a piece of paper. The man takes the paper and kisses the little girl on the forehead."
+    },
+    {
+        "second": 23,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QG_d2wrb1QU/output_frames/sec_23_idx_24.jpg",
+        "fps": 30,
+        "explanation": "[20-26] Afterward, the little girl in the pink panda dress walks towards the man who is looking at his phone, holding a piece of paper. The man takes the paper and kisses the little girl on the forehead."
+    },
+    {
+        "second": 24,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QG_d2wrb1QU/output_frames/sec_24_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[20-26] Afterward, the little girl in the pink panda dress walks towards the man who is looking at his phone, holding a piece of paper. The man takes the paper and kisses the little girl on the forehead."
+    },
+    {
+        "second": 25,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QG_d2wrb1QU/output_frames/sec_25_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[20-26] Afterward, the little girl in the pink panda dress walks towards the man who is looking at his phone, holding a piece of paper. The man takes the paper and kisses the little girl on the forehead."
+    },
+    {
+        "second": 26,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QG_d2wrb1QU/output_frames/sec_26_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[20-26] Afterward, the little girl in the pink panda dress walks towards the man who is looking at his phone, holding a piece of paper. The man takes the paper and kisses the little girl on the forehead."
+    },
+    {
+        "second": 27,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QG_d2wrb1QU/output_frames/sec_27_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[26-35] The man then makes a hushing gesture and takes out some banknotes, handing them to the little girl. The little girl happily takes the money and walks away. The man remains on the sofa, playing on his phone."
+    },
+    {
+        "second": 28,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QG_d2wrb1QU/output_frames/sec_28_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[26-35] The man then makes a hushing gesture and takes out some banknotes, handing them to the little girl. The little girl happily takes the money and walks away. The man remains on the sofa, playing on his phone."
+    },
+    {
+        "second": 29,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QG_d2wrb1QU/output_frames/sec_29_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[26-35] The man then makes a hushing gesture and takes out some banknotes, handing them to the little girl. The little girl happily takes the money and walks away. The man remains on the sofa, playing on his phone."
+    },
+    {
+        "second": 30,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QG_d2wrb1QU/output_frames/sec_30_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[26-35] The man then makes a hushing gesture and takes out some banknotes, handing them to the little girl. The little girl happily takes the money and walks away. The man remains on the sofa, playing on his phone."
+    },
+    {
+        "second": 31,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QG_d2wrb1QU/output_frames/sec_31_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[26-35] The man then makes a hushing gesture and takes out some banknotes, handing them to the little girl. The little girl happily takes the money and walks away. The man remains on the sofa, playing on his phone."
+    },
+    {
+        "second": 32,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QG_d2wrb1QU/output_frames/sec_32_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[26-35] The man then makes a hushing gesture and takes out some banknotes, handing them to the little girl. The little girl happily takes the money and walks away. The man remains on the sofa, playing on his phone."
+    },
+    {
+        "second": 33,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QG_d2wrb1QU/output_frames/sec_33_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[26-35] The man then makes a hushing gesture and takes out some banknotes, handing them to the little girl. The little girl happily takes the money and walks away. The man remains on the sofa, playing on his phone."
+    },
+    {
+        "second": 34,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QG_d2wrb1QU/output_frames/sec_34_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[26-35] The man then makes a hushing gesture and takes out some banknotes, handing them to the little girl. The little girl happily takes the money and walks away. The man remains on the sofa, playing on his phone."
+    },
+    {
+        "second": 35,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QG_d2wrb1QU/output_frames/sec_35_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[26-35] The man then makes a hushing gesture and takes out some banknotes, handing them to the little girl. The little girl happily takes the money and walks away. The man remains on the sofa, playing on his phone."
+    },
+    {
+        "second": 36,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QG_d2wrb1QU/output_frames/sec_36_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[35-42] Then, the girl with glasses approaches the man with a piece of paper, asking him to look at it. The man impatiently waves her away, and the girl walks away dejectedly. The man gives her a disgusted look and continues looking down at his phone. The screen turns black."
+    },
+    {
+        "second": 37,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QG_d2wrb1QU/output_frames/sec_37_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[35-42] Then, the girl with glasses approaches the man with a piece of paper, asking him to look at it. The man impatiently waves her away, and the girl walks away dejectedly. The man gives her a disgusted look and continues looking down at his phone. The screen turns black."
+    },
+    {
+        "second": 38,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QG_d2wrb1QU/output_frames/sec_38_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[35-42] Then, the girl with glasses approaches the man with a piece of paper, asking him to look at it. The man impatiently waves her away, and the girl walks away dejectedly. The man gives her a disgusted look and continues looking down at his phone. The screen turns black."
+    },
+    {
+        "second": 39,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QG_d2wrb1QU/output_frames/sec_39_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[35-42] Then, the girl with glasses approaches the man with a piece of paper, asking him to look at it. The man impatiently waves her away, and the girl walks away dejectedly. The man gives her a disgusted look and continues looking down at his phone. The screen turns black."
+    },
+    {
+        "second": 40,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QG_d2wrb1QU/output_frames/sec_40_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[35-42] Then, the girl with glasses approaches the man with a piece of paper, asking him to look at it. The man impatiently waves her away, and the girl walks away dejectedly. The man gives her a disgusted look and continues looking down at his phone. The screen turns black."
+    },
+    {
+        "second": 41,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QG_d2wrb1QU/output_frames/sec_41_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[35-42] Then, the girl with glasses approaches the man with a piece of paper, asking him to look at it. The man impatiently waves her away, and the girl walks away dejectedly. The man gives her a disgusted look and continues looking down at his phone. The screen turns black."
+    },
+    {
+        "second": 42,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QG_d2wrb1QU/output_frames/sec_42_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[35-42] Then, the girl with glasses approaches the man with a piece of paper, asking him to look at it. The man impatiently waves her away, and the girl walks away dejectedly. The man gives her a disgusted look and continues looking down at his phone. The screen turns black."
+    },
+    {
+        "second": 43,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QG_d2wrb1QU/output_frames/sec_43_idx_24.jpg",
+        "fps": 30,
+        "explanation": "[42-47] Next, the man and the little girl in the pink panda-patterned dress are sitting on the sofa. The little girl is looking down at her phone while the man is on a call. Suddenly, the little girl excitedly raises her hands, and the phone accidentally drops to the floor. The little girl covers her mouth in fear."
+    },
+    {
+        "second": 44,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QG_d2wrb1QU/output_frames/sec_44_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[42-47] Next, the man and the little girl in the pink panda-patterned dress are sitting on the sofa. The little girl is looking down at her phone while the man is on a call. Suddenly, the little girl excitedly raises her hands, and the phone accidentally drops to the floor. The little girl covers her mouth in fear."
+    },
+    {
+        "second": 45,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QG_d2wrb1QU/output_frames/sec_45_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[42-47] Next, the man and the little girl in the pink panda-patterned dress are sitting on the sofa. The little girl is looking down at her phone while the man is on a call. Suddenly, the little girl excitedly raises her hands, and the phone accidentally drops to the floor. The little girl covers her mouth in fear."
+    },
+    {
+        "second": 46,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QG_d2wrb1QU/output_frames/sec_46_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[42-47] Next, the man and the little girl in the pink panda-patterned dress are sitting on the sofa. The little girl is looking down at her phone while the man is on a call. Suddenly, the little girl excitedly raises her hands, and the phone accidentally drops to the floor. The little girl covers her mouth in fear."
+    },
+    {
+        "second": 47,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QG_d2wrb1QU/output_frames/sec_47_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[42-47] Next, the man and the little girl in the pink panda-patterned dress are sitting on the sofa. The little girl is looking down at her phone while the man is on a call. Suddenly, the little girl excitedly raises her hands, and the phone accidentally drops to the floor. The little girl covers her mouth in fear."
+    },
+    {
+        "second": 48,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QG_d2wrb1QU/output_frames/sec_48_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[47-55] The man angrily raises his hand to hit the little girl, but the girl with glasses steps in to protect the little girl in the pink panda dress, shaking her head at the man."
+    },
+    {
+        "second": 49,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QG_d2wrb1QU/output_frames/sec_49_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[47-55] The man angrily raises his hand to hit the little girl, but the girl with glasses steps in to protect the little girl in the pink panda dress, shaking her head at the man."
+    },
+    {
+        "second": 50,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QG_d2wrb1QU/output_frames/sec_50_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[47-55] The man angrily raises his hand to hit the little girl, but the girl with glasses steps in to protect the little girl in the pink panda dress, shaking her head at the man."
+    },
+    {
+        "second": 51,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QG_d2wrb1QU/output_frames/sec_51_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[47-55] The man angrily raises his hand to hit the little girl, but the girl with glasses steps in to protect the little girl in the pink panda dress, shaking her head at the man."
+    },
+    {
+        "second": 52,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QG_d2wrb1QU/output_frames/sec_52_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[47-55] The man angrily raises his hand to hit the little girl, but the girl with glasses steps in to protect the little girl in the pink panda dress, shaking her head at the man."
+    },
+    {
+        "second": 53,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QG_d2wrb1QU/output_frames/sec_53_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[47-55] The man angrily raises his hand to hit the little girl, but the girl with glasses steps in to protect the little girl in the pink panda dress, shaking her head at the man."
+    },
+    {
+        "second": 54,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QG_d2wrb1QU/output_frames/sec_54_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[47-55] The man angrily raises his hand to hit the little girl, but the girl with glasses steps in to protect the little girl in the pink panda dress, shaking her head at the man."
+    },
+    {
+        "second": 55,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QG_d2wrb1QU/output_frames/sec_55_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[47-55] The man angrily raises his hand to hit the little girl, but the girl with glasses steps in to protect the little girl in the pink panda dress, shaking her head at the man."
+    },
+    {
+        "second": 56,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QG_d2wrb1QU/output_frames/sec_56_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[55-58] Finally, the man puts down his hand and looks at the two sisters helplessly."
+    },
+    {
+        "second": 57,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QG_d2wrb1QU/output_frames/sec_57_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[55-58] Finally, the man puts down his hand and looks at the two sisters helplessly."
+    },
+    {
+        "second": 58,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QG_d2wrb1QU/output_frames/sec_58_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[55-58] Finally, the man puts down his hand and looks at the two sisters helplessly."
+    }
+]

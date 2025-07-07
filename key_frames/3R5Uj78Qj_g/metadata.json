@@ -1,0 +1,142 @@
+[
+    {
+        "second": 0,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3R5Uj78Qj_g/output_frames/sec_0_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[0-0] The screen is split in two. The upper part is black with yellow text, a yellow emoji with a human face, a red heart symbol, and a brown band-aid symbol. In the lower part, a rat is in a narrow, dark space. There is a wooden stick lying horizontally above, and a circular hole in the wall on the right."
+    },
+    {
+        "second": 1,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3R5Uj78Qj_g/output_frames/sec_1_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The lower part continues, the rat waves its paw forward, and yellow text appears above the picture, along with a red arrow symbol. Then the rat moves forward, and you can see another rat lying below. Then the two rats tear and fight, and yellow text appears above the picture."
+    },
+    {
+        "second": 2,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3R5Uj78Qj_g/output_frames/sec_2_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The lower part continues, the rat waves its paw forward, and yellow text appears above the picture, along with a red arrow symbol. Then the rat moves forward, and you can see another rat lying below. Then the two rats tear and fight, and yellow text appears above the picture."
+    },
+    {
+        "second": 3,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3R5Uj78Qj_g/output_frames/sec_3_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The lower part continues, the rat waves its paw forward, and yellow text appears above the picture, along with a red arrow symbol. Then the rat moves forward, and you can see another rat lying below. Then the two rats tear and fight, and yellow text appears above the picture."
+    },
+    {
+        "second": 4,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3R5Uj78Qj_g/output_frames/sec_4_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The lower part continues, the rat waves its paw forward, and yellow text appears above the picture, along with a red arrow symbol. Then the rat moves forward, and you can see another rat lying below. Then the two rats tear and fight, and yellow text appears above the picture."
+    },
+    {
+        "second": 5,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3R5Uj78Qj_g/output_frames/sec_5_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[4-7] Immediately, the rat lies down against the wall, and a red arrow appears at the hole above."
+    },
+    {
+        "second": 6,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3R5Uj78Qj_g/output_frames/sec_6_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[4-7] Immediately, the rat lies down against the wall, and a red arrow appears at the hole above."
+    },
+    {
+        "second": 7,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3R5Uj78Qj_g/output_frames/sec_7_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[4-7] Immediately, the rat lies down against the wall, and a red arrow appears at the hole above."
+    },
+    {
+        "second": 8,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3R5Uj78Qj_g/output_frames/sec_8_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[7-11] Then the rat looks up and sees two rats lying below. At this time, yellow text appears below the picture."
+    },
+    {
+        "second": 9,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3R5Uj78Qj_g/output_frames/sec_9_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[7-11] Then the rat looks up and sees two rats lying below. At this time, yellow text appears below the picture."
+    },
+    {
+        "second": 10,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3R5Uj78Qj_g/output_frames/sec_10_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[7-11] Then the rat looks up and sees two rats lying below. At this time, yellow text appears below the picture."
+    },
+    {
+        "second": 11,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3R5Uj78Qj_g/output_frames/sec_11_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[7-11] Then the rat looks up and sees two rats lying below. At this time, yellow text appears below the picture."
+    },
+    {
+        "second": 12,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3R5Uj78Qj_g/output_frames/sec_12_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[11-14] Then the two rats continue to look up at the hole above."
+    },
+    {
+        "second": 13,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3R5Uj78Qj_g/output_frames/sec_13_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[11-14] Then the two rats continue to look up at the hole above."
+    },
+    {
+        "second": 14,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3R5Uj78Qj_g/output_frames/sec_14_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[11-14] Then the two rats continue to look up at the hole above."
+    },
+    {
+        "second": 15,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3R5Uj78Qj_g/output_frames/sec_15_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[14-19] After that, the two rats slowly lower their heads and close their eyes. At this time, yellow text appears above the screen, and a red arrow symbol points to the two mice. Then the rat on the inside places a front paw on the head of the rat on the outside. At this point, a red heart symbol, a yellow face symbol, and yellow text appear below the screen."
+    },
+    {
+        "second": 16,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3R5Uj78Qj_g/output_frames/sec_16_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[14-19] After that, the two rats slowly lower their heads and close their eyes. At this time, yellow text appears above the screen, and a red arrow symbol points to the two mice. Then the rat on the inside places a front paw on the head of the rat on the outside. At this point, a red heart symbol, a yellow face symbol, and yellow text appear below the screen."
+    },
+    {
+        "second": 17,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3R5Uj78Qj_g/output_frames/sec_17_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[14-19] After that, the two rats slowly lower their heads and close their eyes. At this time, yellow text appears above the screen, and a red arrow symbol points to the two mice. Then the rat on the inside places a front paw on the head of the rat on the outside. At this point, a red heart symbol, a yellow face symbol, and yellow text appear below the screen."
+    },
+    {
+        "second": 18,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3R5Uj78Qj_g/output_frames/sec_18_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[14-19] After that, the two rats slowly lower their heads and close their eyes. At this time, yellow text appears above the screen, and a red arrow symbol points to the two mice. Then the rat on the inside places a front paw on the head of the rat on the outside. At this point, a red heart symbol, a yellow face symbol, and yellow text appear below the screen."
+    },
+    {
+        "second": 19,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3R5Uj78Qj_g/output_frames/sec_19_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[14-19] After that, the two rats slowly lower their heads and close their eyes. At this time, yellow text appears above the screen, and a red arrow symbol points to the two mice. Then the rat on the inside places a front paw on the head of the rat on the outside. At this point, a red heart symbol, a yellow face symbol, and yellow text appear below the screen."
+    }
+]

@@ -1,0 +1,93 @@
+[
+    {
+        "second": 0,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SnaY_vz6qtc/output_frames/sec_0_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[0-0] On a sunny day, Tom, a mime dressed in traditional black and white attire with white gloves, is performing in front of a large aquarium. He is standing at the edge of a pool filled with azure water, with a crowd eagerly watching him."
+    },
+    {
+        "second": 1,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SnaY_vz6qtc/output_frames/sec_1_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[0-8] Then, a tall man dressed in black walks out from the crowd, stands beside Tom, and prepares to take a selfie with him. Tom enthusiastically puts his arm around the man, posing for the selfie. A female spectator is also taking photos of them."
+    },
+    {
+        "second": 2,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SnaY_vz6qtc/output_frames/sec_2_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[0-8] Then, a tall man dressed in black walks out from the crowd, stands beside Tom, and prepares to take a selfie with him. Tom enthusiastically puts his arm around the man, posing for the selfie. A female spectator is also taking photos of them."
+    },
+    {
+        "second": 3,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SnaY_vz6qtc/output_frames/sec_3_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[0-8] Then, a tall man dressed in black walks out from the crowd, stands beside Tom, and prepares to take a selfie with him. Tom enthusiastically puts his arm around the man, posing for the selfie. A female spectator is also taking photos of them."
+    },
+    {
+        "second": 4,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SnaY_vz6qtc/output_frames/sec_4_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[0-8] Then, a tall man dressed in black walks out from the crowd, stands beside Tom, and prepares to take a selfie with him. Tom enthusiastically puts his arm around the man, posing for the selfie. A female spectator is also taking photos of them."
+    },
+    {
+        "second": 5,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SnaY_vz6qtc/output_frames/sec_5_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[0-8] Then, a tall man dressed in black walks out from the crowd, stands beside Tom, and prepares to take a selfie with him. Tom enthusiastically puts his arm around the man, posing for the selfie. A female spectator is also taking photos of them."
+    },
+    {
+        "second": 6,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SnaY_vz6qtc/output_frames/sec_6_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[0-8] Then, a tall man dressed in black walks out from the crowd, stands beside Tom, and prepares to take a selfie with him. Tom enthusiastically puts his arm around the man, posing for the selfie. A female spectator is also taking photos of them."
+    },
+    {
+        "second": 7,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SnaY_vz6qtc/output_frames/sec_7_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[0-8] Then, a tall man dressed in black walks out from the crowd, stands beside Tom, and prepares to take a selfie with him. Tom enthusiastically puts his arm around the man, posing for the selfie. A female spectator is also taking photos of them."
+    },
+    {
+        "second": 8,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SnaY_vz6qtc/output_frames/sec_8_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[0-8] Then, a tall man dressed in black walks out from the crowd, stands beside Tom, and prepares to take a selfie with him. Tom enthusiastically puts his arm around the man, posing for the selfie. A female spectator is also taking photos of them."
+    },
+    {
+        "second": 9,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SnaY_vz6qtc/output_frames/sec_9_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[8-12] As the selfie concludes, the man walks to the left, and Tom pats him on the shoulder, waving goodbye."
+    },
+    {
+        "second": 10,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SnaY_vz6qtc/output_frames/sec_10_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[8-12] As the selfie concludes, the man walks to the left, and Tom pats him on the shoulder, waving goodbye."
+    },
+    {
+        "second": 11,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SnaY_vz6qtc/output_frames/sec_11_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[8-12] As the selfie concludes, the man walks to the left, and Tom pats him on the shoulder, waving goodbye."
+    },
+    {
+        "second": 12,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SnaY_vz6qtc/output_frames/sec_12_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[8-12] As the selfie concludes, the man walks to the left, and Tom pats him on the shoulder, waving goodbye."
+    }
+]

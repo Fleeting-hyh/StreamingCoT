@@ -1,0 +1,79 @@
+[
+    {
+        "second": 0,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1nWTUVlw2yw/output_frames/sec_0_idx_15.jpg",
+        "fps": 24,
+        "explanation": "[0-0] Against a white background, a woman with golden blonde hair is in the frame, wearing a white tank top and jeans."
+    },
+    {
+        "second": 1,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1nWTUVlw2yw/output_frames/sec_1_idx_22.jpg",
+        "fps": 24,
+        "explanation": "[0-2] Then, she turns to the right and dances, swaying her shoulders and hair, then throws her head back, facing away from the camera."
+    },
+    {
+        "second": 2,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1nWTUVlw2yw/output_frames/sec_2_idx_0.jpg",
+        "fps": 24,
+        "explanation": "[0-2] Then, she turns to the right and dances, swaying her shoulders and hair, then throws her head back, facing away from the camera."
+    },
+    {
+        "second": 3,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1nWTUVlw2yw/output_frames/sec_3_idx_22.jpg",
+        "fps": 24,
+        "explanation": "[2-4] At this moment, another woman appears in the frame. She has brown hair and is wearing a white tank top, jean shorts, and black high heels. She stands behind the woman in jeans, and they dance together. Then, the camera switches to the woman in jeans, who has stopped dancing, with her hands on her chest, looking directly at the camera and swaying her body."
+    },
+    {
+        "second": 4,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1nWTUVlw2yw/output_frames/sec_4_idx_1.jpg",
+        "fps": 24,
+        "explanation": "[2-4] At this moment, another woman appears in the frame. She has brown hair and is wearing a white tank top, jean shorts, and black high heels. She stands behind the woman in jeans, and they dance together. Then, the camera switches to the woman in jeans, who has stopped dancing, with her hands on her chest, looking directly at the camera and swaying her body."
+    },
+    {
+        "second": 5,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1nWTUVlw2yw/output_frames/sec_5_idx_23.jpg",
+        "fps": 24,
+        "explanation": "[4-8] Afterwards, the woman in jeans bends over to the right, slowly rises, tosses her head and arms, her hair flying, then turns forward and continues to dance, raising her arms and swaying her hips."
+    },
+    {
+        "second": 6,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1nWTUVlw2yw/output_frames/sec_6_idx_0.jpg",
+        "fps": 24,
+        "explanation": "[4-8] Afterwards, the woman in jeans bends over to the right, slowly rises, tosses her head and arms, her hair flying, then turns forward and continues to dance, raising her arms and swaying her hips."
+    },
+    {
+        "second": 7,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1nWTUVlw2yw/output_frames/sec_7_idx_4.jpg",
+        "fps": 24,
+        "explanation": "[4-8] Afterwards, the woman in jeans bends over to the right, slowly rises, tosses her head and arms, her hair flying, then turns forward and continues to dance, raising her arms and swaying her hips."
+    },
+    {
+        "second": 8,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1nWTUVlw2yw/output_frames/sec_8_idx_3.jpg",
+        "fps": 24,
+        "explanation": "[4-8] Afterwards, the woman in jeans bends over to the right, slowly rises, tosses her head and arms, her hair flying, then turns forward and continues to dance, raising her arms and swaying her hips."
+    },
+    {
+        "second": 9,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1nWTUVlw2yw/output_frames/sec_9_idx_12.jpg",
+        "fps": 24,
+        "explanation": "[8-10] Finally, the picture turns black and white, the woman in jeans continues to dance in the middle of the frame, swaying her hands, and two other women with long hair can be seen dancing beside her."
+    },
+    {
+        "second": 10,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1nWTUVlw2yw/output_frames/sec_10_idx_3.jpg",
+        "fps": 24,
+        "explanation": "[8-10] Finally, the picture turns black and white, the woman in jeans continues to dance in the middle of the frame, swaying her hands, and two other women with long hair can be seen dancing beside her."
+    }
+]

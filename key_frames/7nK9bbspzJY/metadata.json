@@ -1,0 +1,121 @@
+[
+    {
+        "second": 0,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7nK9bbspzJY/output_frames/sec_0_idx_9.jpg",
+        "fps": 24,
+        "explanation": "[0-0] A person is standing on a dock, holding a package of Oreo cookies. In front of him is blue water, a wooden pile inserted in the water, and several yachts moored in the distance."
+    },
+    {
+        "second": 1,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7nK9bbspzJY/output_frames/sec_1_idx_0.jpg",
+        "fps": 24,
+        "explanation": "[0-5] Then he turns around with the Oreo cookies, opens the package with both hands, pours a glass of milk, dips an Oreo cookie into the milk, then holds the milk in his left hand and the Oreo cookie in his right hand and starts running forward. He then jumps onto the wooden pile in the water, spilling a lot of milk."
+    },
+    {
+        "second": 2,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7nK9bbspzJY/output_frames/sec_2_idx_9.jpg",
+        "fps": 24,
+        "explanation": "[0-5] Then he turns around with the Oreo cookies, opens the package with both hands, pours a glass of milk, dips an Oreo cookie into the milk, then holds the milk in his left hand and the Oreo cookie in his right hand and starts running forward. He then jumps onto the wooden pile in the water, spilling a lot of milk."
+    },
+    {
+        "second": 3,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7nK9bbspzJY/output_frames/sec_3_idx_0.jpg",
+        "fps": 24,
+        "explanation": "[0-5] Then he turns around with the Oreo cookies, opens the package with both hands, pours a glass of milk, dips an Oreo cookie into the milk, then holds the milk in his left hand and the Oreo cookie in his right hand and starts running forward. He then jumps onto the wooden pile in the water, spilling a lot of milk."
+    },
+    {
+        "second": 4,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7nK9bbspzJY/output_frames/sec_4_idx_0.jpg",
+        "fps": 24,
+        "explanation": "[0-5] Then he turns around with the Oreo cookies, opens the package with both hands, pours a glass of milk, dips an Oreo cookie into the milk, then holds the milk in his left hand and the Oreo cookie in his right hand and starts running forward. He then jumps onto the wooden pile in the water, spilling a lot of milk."
+    },
+    {
+        "second": 5,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7nK9bbspzJY/output_frames/sec_5_idx_23.jpg",
+        "fps": 24,
+        "explanation": "[0-5] Then he turns around with the Oreo cookies, opens the package with both hands, pours a glass of milk, dips an Oreo cookie into the milk, then holds the milk in his left hand and the Oreo cookie in his right hand and starts running forward. He then jumps onto the wooden pile in the water, spilling a lot of milk."
+    },
+    {
+        "second": 6,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7nK9bbspzJY/output_frames/sec_6_idx_9.jpg",
+        "fps": 24,
+        "explanation": "[5-10] He then tries to keep his balance by swinging his arms but ends up falling into the water."
+    },
+    {
+        "second": 7,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7nK9bbspzJY/output_frames/sec_7_idx_6.jpg",
+        "fps": 24,
+        "explanation": "[5-10] He then tries to keep his balance by swinging his arms but ends up falling into the water."
+    },
+    {
+        "second": 8,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7nK9bbspzJY/output_frames/sec_8_idx_20.jpg",
+        "fps": 24,
+        "explanation": "[5-10] He then tries to keep his balance by swinging his arms but ends up falling into the water."
+    },
+    {
+        "second": 9,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7nK9bbspzJY/output_frames/sec_9_idx_10.jpg",
+        "fps": 24,
+        "explanation": "[5-10] He then tries to keep his balance by swinging his arms but ends up falling into the water."
+    },
+    {
+        "second": 10,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7nK9bbspzJY/output_frames/sec_10_idx_14.jpg",
+        "fps": 24,
+        "explanation": "[5-10] He then tries to keep his balance by swinging his arms but ends up falling into the water."
+    },
+    {
+        "second": 11,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7nK9bbspzJY/output_frames/sec_11_idx_5.jpg",
+        "fps": 24,
+        "explanation": "[10-16] Finally, the scene switches to his right hand throwing an Oreo cookie into the water. Suddenly, a shark with a wide-open mouth appears in the picture. Then the screen goes black, showing the words \"YEEEEEEEEAAAAHH\" and \"BAAAAAABBBYYY.\""
+    },
+    {
+        "second": 12,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7nK9bbspzJY/output_frames/sec_12_idx_0.jpg",
+        "fps": 24,
+        "explanation": "[10-16] Finally, the scene switches to his right hand throwing an Oreo cookie into the water. Suddenly, a shark with a wide-open mouth appears in the picture. Then the screen goes black, showing the words \"YEEEEEEEEAAAAHH\" and \"BAAAAAABBBYYY.\""
+    },
+    {
+        "second": 13,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7nK9bbspzJY/output_frames/sec_13_idx_7.jpg",
+        "fps": 24,
+        "explanation": "[10-16] Finally, the scene switches to his right hand throwing an Oreo cookie into the water. Suddenly, a shark with a wide-open mouth appears in the picture. Then the screen goes black, showing the words \"YEEEEEEEEAAAAHH\" and \"BAAAAAABBBYYY.\""
+    },
+    {
+        "second": 14,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7nK9bbspzJY/output_frames/sec_14_idx_23.jpg",
+        "fps": 24,
+        "explanation": "[10-16] Finally, the scene switches to his right hand throwing an Oreo cookie into the water. Suddenly, a shark with a wide-open mouth appears in the picture. Then the screen goes black, showing the words \"YEEEEEEEEAAAAHH\" and \"BAAAAAABBBYYY.\""
+    },
+    {
+        "second": 15,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7nK9bbspzJY/output_frames/sec_15_idx_1.jpg",
+        "fps": 24,
+        "explanation": "[10-16] Finally, the scene switches to his right hand throwing an Oreo cookie into the water. Suddenly, a shark with a wide-open mouth appears in the picture. Then the screen goes black, showing the words \"YEEEEEEEEAAAAHH\" and \"BAAAAAABBBYYY.\""
+    },
+    {
+        "second": 16,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7nK9bbspzJY/output_frames/sec_16_idx_2.jpg",
+        "fps": 24,
+        "explanation": "[10-16] Finally, the scene switches to his right hand throwing an Oreo cookie into the water. Suddenly, a shark with a wide-open mouth appears in the picture. Then the screen goes black, showing the words \"YEEEEEEEEAAAAHH\" and \"BAAAAAABBBYYY.\""
+    }
+]

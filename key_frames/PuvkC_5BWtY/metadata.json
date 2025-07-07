@@ -1,0 +1,366 @@
+[
+    {
+        "second": 1,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PuvkC_5BWtY/output_frames/sec_1_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[0-1] In a zoo, a giant panda is sitting lazily on the ground with a pile of fresh bamboo in front of it. A keeper in a green uniform and a mask is squatting next to the panda, stroking its belly. There are green plants in the background."
+    },
+    {
+        "second": 2,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PuvkC_5BWtY/output_frames/sec_2_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[1-10] After that, the panda holds a carrot in its right hand and eats it from time to time, while the keeper gently massages the panda's belly."
+    },
+    {
+        "second": 3,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PuvkC_5BWtY/output_frames/sec_3_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[1-10] After that, the panda holds a carrot in its right hand and eats it from time to time, while the keeper gently massages the panda's belly."
+    },
+    {
+        "second": 4,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PuvkC_5BWtY/output_frames/sec_4_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[1-10] After that, the panda holds a carrot in its right hand and eats it from time to time, while the keeper gently massages the panda's belly."
+    },
+    {
+        "second": 5,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PuvkC_5BWtY/output_frames/sec_5_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[1-10] After that, the panda holds a carrot in its right hand and eats it from time to time, while the keeper gently massages the panda's belly."
+    },
+    {
+        "second": 6,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PuvkC_5BWtY/output_frames/sec_6_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[1-10] After that, the panda holds a carrot in its right hand and eats it from time to time, while the keeper gently massages the panda's belly."
+    },
+    {
+        "second": 7,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PuvkC_5BWtY/output_frames/sec_7_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[1-10] After that, the panda holds a carrot in its right hand and eats it from time to time, while the keeper gently massages the panda's belly."
+    },
+    {
+        "second": 8,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PuvkC_5BWtY/output_frames/sec_8_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[1-10] After that, the panda holds a carrot in its right hand and eats it from time to time, while the keeper gently massages the panda's belly."
+    },
+    {
+        "second": 9,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PuvkC_5BWtY/output_frames/sec_9_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[1-10] After that, the panda holds a carrot in its right hand and eats it from time to time, while the keeper gently massages the panda's belly."
+    },
+    {
+        "second": 10,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PuvkC_5BWtY/output_frames/sec_10_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[1-10] After that, the panda holds a carrot in its right hand and eats it from time to time, while the keeper gently massages the panda's belly."
+    },
+    {
+        "second": 11,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PuvkC_5BWtY/output_frames/sec_11_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[10-12] Then the keeper massages the panda's belly with the back of his hand."
+    },
+    {
+        "second": 12,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PuvkC_5BWtY/output_frames/sec_12_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[10-12] Then the keeper massages the panda's belly with the back of his hand."
+    },
+    {
+        "second": 13,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PuvkC_5BWtY/output_frames/sec_13_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[12-22] Then the keeper holds the panda's right hand to help it move and massage its arm."
+    },
+    {
+        "second": 14,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PuvkC_5BWtY/output_frames/sec_14_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[12-22] Then the keeper holds the panda's right hand to help it move and massage its arm."
+    },
+    {
+        "second": 15,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PuvkC_5BWtY/output_frames/sec_15_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[12-22] Then the keeper holds the panda's right hand to help it move and massage its arm."
+    },
+    {
+        "second": 16,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PuvkC_5BWtY/output_frames/sec_16_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[12-22] Then the keeper holds the panda's right hand to help it move and massage its arm."
+    },
+    {
+        "second": 17,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PuvkC_5BWtY/output_frames/sec_17_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[12-22] Then the keeper holds the panda's right hand to help it move and massage its arm."
+    },
+    {
+        "second": 18,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PuvkC_5BWtY/output_frames/sec_18_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[12-22] Then the keeper holds the panda's right hand to help it move and massage its arm."
+    },
+    {
+        "second": 19,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PuvkC_5BWtY/output_frames/sec_19_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[12-22] Then the keeper holds the panda's right hand to help it move and massage its arm."
+    },
+    {
+        "second": 20,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PuvkC_5BWtY/output_frames/sec_20_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[12-22] Then the keeper holds the panda's right hand to help it move and massage its arm."
+    },
+    {
+        "second": 21,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PuvkC_5BWtY/output_frames/sec_21_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[12-22] Then the keeper holds the panda's right hand to help it move and massage its arm."
+    },
+    {
+        "second": 22,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PuvkC_5BWtY/output_frames/sec_22_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[12-22] Then the keeper holds the panda's right hand to help it move and massage its arm."
+    },
+    {
+        "second": 23,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PuvkC_5BWtY/output_frames/sec_23_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[22-32] Subsequently, the keeper helps the panda to remove some messy substances and wipes the panda's chin, belly and other body parts."
+    },
+    {
+        "second": 24,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PuvkC_5BWtY/output_frames/sec_24_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[22-32] Subsequently, the keeper helps the panda to remove some messy substances and wipes the panda's chin, belly and other body parts."
+    },
+    {
+        "second": 25,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PuvkC_5BWtY/output_frames/sec_25_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[22-32] Subsequently, the keeper helps the panda to remove some messy substances and wipes the panda's chin, belly and other body parts."
+    },
+    {
+        "second": 26,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PuvkC_5BWtY/output_frames/sec_26_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[22-32] Subsequently, the keeper helps the panda to remove some messy substances and wipes the panda's chin, belly and other body parts."
+    },
+    {
+        "second": 27,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PuvkC_5BWtY/output_frames/sec_27_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[22-32] Subsequently, the keeper helps the panda to remove some messy substances and wipes the panda's chin, belly and other body parts."
+    },
+    {
+        "second": 28,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PuvkC_5BWtY/output_frames/sec_28_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[22-32] Subsequently, the keeper helps the panda to remove some messy substances and wipes the panda's chin, belly and other body parts."
+    },
+    {
+        "second": 29,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PuvkC_5BWtY/output_frames/sec_29_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[22-32] Subsequently, the keeper helps the panda to remove some messy substances and wipes the panda's chin, belly and other body parts."
+    },
+    {
+        "second": 30,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PuvkC_5BWtY/output_frames/sec_30_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[22-32] Subsequently, the keeper helps the panda to remove some messy substances and wipes the panda's chin, belly and other body parts."
+    },
+    {
+        "second": 31,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PuvkC_5BWtY/output_frames/sec_31_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[22-32] Subsequently, the keeper helps the panda to remove some messy substances and wipes the panda's chin, belly and other body parts."
+    },
+    {
+        "second": 32,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PuvkC_5BWtY/output_frames/sec_32_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[22-32] Subsequently, the keeper helps the panda to remove some messy substances and wipes the panda's chin, belly and other body parts."
+    },
+    {
+        "second": 33,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PuvkC_5BWtY/output_frames/sec_33_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[32-44] Then the keeper tidies up and wipes the panda's face, and the panda cooperates with the keeper throughout the whole process."
+    },
+    {
+        "second": 34,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PuvkC_5BWtY/output_frames/sec_34_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[32-44] Then the keeper tidies up and wipes the panda's face, and the panda cooperates with the keeper throughout the whole process."
+    },
+    {
+        "second": 35,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PuvkC_5BWtY/output_frames/sec_35_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[32-44] Then the keeper tidies up and wipes the panda's face, and the panda cooperates with the keeper throughout the whole process."
+    },
+    {
+        "second": 36,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PuvkC_5BWtY/output_frames/sec_36_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[32-44] Then the keeper tidies up and wipes the panda's face, and the panda cooperates with the keeper throughout the whole process."
+    },
+    {
+        "second": 37,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PuvkC_5BWtY/output_frames/sec_37_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[32-44] Then the keeper tidies up and wipes the panda's face, and the panda cooperates with the keeper throughout the whole process."
+    },
+    {
+        "second": 38,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PuvkC_5BWtY/output_frames/sec_38_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[32-44] Then the keeper tidies up and wipes the panda's face, and the panda cooperates with the keeper throughout the whole process."
+    },
+    {
+        "second": 39,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PuvkC_5BWtY/output_frames/sec_39_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[32-44] Then the keeper tidies up and wipes the panda's face, and the panda cooperates with the keeper throughout the whole process."
+    },
+    {
+        "second": 40,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PuvkC_5BWtY/output_frames/sec_40_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[32-44] Then the keeper tidies up and wipes the panda's face, and the panda cooperates with the keeper throughout the whole process."
+    },
+    {
+        "second": 41,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PuvkC_5BWtY/output_frames/sec_41_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[32-44] Then the keeper tidies up and wipes the panda's face, and the panda cooperates with the keeper throughout the whole process."
+    },
+    {
+        "second": 42,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PuvkC_5BWtY/output_frames/sec_42_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[32-44] Then the keeper tidies up and wipes the panda's face, and the panda cooperates with the keeper throughout the whole process."
+    },
+    {
+        "second": 43,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PuvkC_5BWtY/output_frames/sec_43_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[32-44] Then the keeper tidies up and wipes the panda's face, and the panda cooperates with the keeper throughout the whole process."
+    },
+    {
+        "second": 44,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PuvkC_5BWtY/output_frames/sec_44_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[32-44] Then the keeper tidies up and wipes the panda's face, and the panda cooperates with the keeper throughout the whole process."
+    },
+    {
+        "second": 45,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PuvkC_5BWtY/output_frames/sec_45_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[44-52] Then the keeper gets up and leaves, stroking the panda's head before turning around and leaving. The panda continues to sit leisurely and eat."
+    },
+    {
+        "second": 46,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PuvkC_5BWtY/output_frames/sec_46_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[44-52] Then the keeper gets up and leaves, stroking the panda's head before turning around and leaving. The panda continues to sit leisurely and eat."
+    },
+    {
+        "second": 47,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PuvkC_5BWtY/output_frames/sec_47_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[44-52] Then the keeper gets up and leaves, stroking the panda's head before turning around and leaving. The panda continues to sit leisurely and eat."
+    },
+    {
+        "second": 48,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PuvkC_5BWtY/output_frames/sec_48_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[44-52] Then the keeper gets up and leaves, stroking the panda's head before turning around and leaving. The panda continues to sit leisurely and eat."
+    },
+    {
+        "second": 49,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PuvkC_5BWtY/output_frames/sec_49_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[44-52] Then the keeper gets up and leaves, stroking the panda's head before turning around and leaving. The panda continues to sit leisurely and eat."
+    },
+    {
+        "second": 50,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PuvkC_5BWtY/output_frames/sec_50_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[44-52] Then the keeper gets up and leaves, stroking the panda's head before turning around and leaving. The panda continues to sit leisurely and eat."
+    },
+    {
+        "second": 51,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PuvkC_5BWtY/output_frames/sec_51_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[44-52] Then the keeper gets up and leaves, stroking the panda's head before turning around and leaving. The panda continues to sit leisurely and eat."
+    },
+    {
+        "second": 52,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PuvkC_5BWtY/output_frames/sec_52_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[44-52] Then the keeper gets up and leaves, stroking the panda's head before turning around and leaving. The panda continues to sit leisurely and eat."
+    }
+]

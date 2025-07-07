@@ -1,0 +1,100 @@
+[
+    {
+        "second": 0,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5AJFQEZUYxg/output_frames/sec_0_idx_2.jpg",
+        "fps": 25,
+        "explanation": "[0-0] In a blurry background, a street is visible with a house on the left and grass and large trees on the right. Under the sun, a cute gray-white kitten walks down the street, wearing a pink sweater and blue jeans. It's holding a wicker basket in its right hand and looking down at a smartphone in its left hand."
+    },
+    {
+        "second": 1,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5AJFQEZUYxg/output_frames/sec_1_idx_1.jpg",
+        "fps": 25,
+        "explanation": "[0-3] Suddenly, the scene changes, and the kitten is now indoors with a blurred background. It's wearing a colorful dress and a red and green bow on its head. The kitten smiles happily, looking at the smartphone it's holding in its right hand."
+    },
+    {
+        "second": 2,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5AJFQEZUYxg/output_frames/sec_2_idx_5.jpg",
+        "fps": 25,
+        "explanation": "[0-3] Suddenly, the scene changes, and the kitten is now indoors with a blurred background. It's wearing a colorful dress and a red and green bow on its head. The kitten smiles happily, looking at the smartphone it's holding in its right hand."
+    },
+    {
+        "second": 3,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5AJFQEZUYxg/output_frames/sec_3_idx_6.jpg",
+        "fps": 25,
+        "explanation": "[0-3] Suddenly, the scene changes, and the kitten is now indoors with a blurred background. It's wearing a colorful dress and a red and green bow on its head. The kitten smiles happily, looking at the smartphone it's holding in its right hand."
+    },
+    {
+        "second": 4,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5AJFQEZUYxg/output_frames/sec_4_idx_11.jpg",
+        "fps": 25,
+        "explanation": "[3-5] Afterward, the scene changes again. In front of a white wall, the kitten is wearing a pink and blue dress with a pink bow on its head. Its left hand is next to its face, and its right hand holds a smartphone to its ear."
+    },
+    {
+        "second": 5,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5AJFQEZUYxg/output_frames/sec_5_idx_22.jpg",
+        "fps": 25,
+        "explanation": "[3-5] Afterward, the scene changes again. In front of a white wall, the kitten is wearing a pink and blue dress with a pink bow on its head. Its left hand is next to its face, and its right hand holds a smartphone to its ear."
+    },
+    {
+        "second": 6,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5AJFQEZUYxg/output_frames/sec_6_idx_10.jpg",
+        "fps": 25,
+        "explanation": "[5-7] Immediately following, the scene shifts. In a pitch-black room, the kitten lies on the bed, covered with a blanket, looking at its smartphone."
+    },
+    {
+        "second": 7,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5AJFQEZUYxg/output_frames/sec_7_idx_4.jpg",
+        "fps": 25,
+        "explanation": "[5-7] Immediately following, the scene shifts. In a pitch-black room, the kitten lies on the bed, covered with a blanket, looking at its smartphone."
+    },
+    {
+        "second": 8,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5AJFQEZUYxg/output_frames/sec_8_idx_24.jpg",
+        "fps": 25,
+        "explanation": "[7-9] Then, the scene becomes a classroom. In the blurry background, four students are sitting at their desks studying, and many pictures are hanging on the wall at the back of the classroom. The kitten, wearing a suit vest and a white shirt, sits at a desk, happily playing with its smartphone. There is also a book on the table."
+    },
+    {
+        "second": 9,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5AJFQEZUYxg/output_frames/sec_9_idx_2.jpg",
+        "fps": 25,
+        "explanation": "[7-9] Then, the scene becomes a classroom. In the blurry background, four students are sitting at their desks studying, and many pictures are hanging on the wall at the back of the classroom. The kitten, wearing a suit vest and a white shirt, sits at a desk, happily playing with its smartphone. There is also a book on the table."
+    },
+    {
+        "second": 10,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5AJFQEZUYxg/output_frames/sec_10_idx_8.jpg",
+        "fps": 25,
+        "explanation": "[9-13] The scene changes once more. This time, the picture comes to a bathroom. Various toiletries are placed on the washstand. The kitten, wearing blue jeans, sits on the toilet, playing with its smartphone while using it. Finally, the scene switches to the living room, where the kitten, wearing denim overalls and a black and white striped short-sleeved shirt, sits on the sofa, looking at its phone with a ferocious expression. A potted plant can be seen in the blurred background."
+    },
+    {
+        "second": 11,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5AJFQEZUYxg/output_frames/sec_11_idx_0.jpg",
+        "fps": 25,
+        "explanation": "[9-13] The scene changes once more. This time, the picture comes to a bathroom. Various toiletries are placed on the washstand. The kitten, wearing blue jeans, sits on the toilet, playing with its smartphone while using it. Finally, the scene switches to the living room, where the kitten, wearing denim overalls and a black and white striped short-sleeved shirt, sits on the sofa, looking at its phone with a ferocious expression. A potted plant can be seen in the blurred background."
+    },
+    {
+        "second": 12,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5AJFQEZUYxg/output_frames/sec_12_idx_0.jpg",
+        "fps": 25,
+        "explanation": "[9-13] The scene changes once more. This time, the picture comes to a bathroom. Various toiletries are placed on the washstand. The kitten, wearing blue jeans, sits on the toilet, playing with its smartphone while using it. Finally, the scene switches to the living room, where the kitten, wearing denim overalls and a black and white striped short-sleeved shirt, sits on the sofa, looking at its phone with a ferocious expression. A potted plant can be seen in the blurred background."
+    },
+    {
+        "second": 13,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5AJFQEZUYxg/output_frames/sec_13_idx_0.jpg",
+        "fps": 25,
+        "explanation": "[9-13] The scene changes once more. This time, the picture comes to a bathroom. Various toiletries are placed on the washstand. The kitten, wearing blue jeans, sits on the toilet, playing with its smartphone while using it. Finally, the scene switches to the living room, where the kitten, wearing denim overalls and a black and white striped short-sleeved shirt, sits on the sofa, looking at its phone with a ferocious expression. A potted plant can be seen in the blurred background."
+    }
+]

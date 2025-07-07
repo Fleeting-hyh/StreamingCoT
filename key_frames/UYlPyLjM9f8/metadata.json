@@ -1,0 +1,65 @@
+[
+    {
+        "second": 0,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UYlPyLjM9f8/output_frames/sec_0_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[0-0] Two women and a man are standing on the beach. The woman on the left is wearing a brown bikini, the woman in the middle is wearing a blue bath towel around her waist, and a man wearing glasses is standing next to her. There is a black umbrella on the right, a group of people nearby, and white buildings and mountains in the distance."
+    },
+    {
+        "second": 1,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UYlPyLjM9f8/output_frames/sec_1_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Then, the woman in the brown bikini starts to fix her hair while the man next to her is talking. The camera moves to the left, showing a group of people sitting on the beach."
+    },
+    {
+        "second": 2,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UYlPyLjM9f8/output_frames/sec_2_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Then, the woman in the brown bikini starts to fix her hair while the man next to her is talking. The camera moves to the left, showing a group of people sitting on the beach."
+    },
+    {
+        "second": 3,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UYlPyLjM9f8/output_frames/sec_3_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Then, the woman in the brown bikini starts to fix her hair while the man next to her is talking. The camera moves to the left, showing a group of people sitting on the beach."
+    },
+    {
+        "second": 4,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UYlPyLjM9f8/output_frames/sec_4_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Then, the woman in the brown bikini starts to fix her hair while the man next to her is talking. The camera moves to the left, showing a group of people sitting on the beach."
+    },
+    {
+        "second": 5,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UYlPyLjM9f8/output_frames/sec_5_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Then, the woman in the brown bikini starts to fix her hair while the man next to her is talking. The camera moves to the left, showing a group of people sitting on the beach."
+    },
+    {
+        "second": 6,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UYlPyLjM9f8/output_frames/sec_6_idx_24.jpg",
+        "fps": 30,
+        "explanation": "[5-8] Finally, the camera pans across the sitting crowd, showing a man in black clothes sitting on a beach chair and a man in a floral shirt smoking while sitting on another beach chair."
+    },
+    {
+        "second": 7,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UYlPyLjM9f8/output_frames/sec_7_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[5-8] Finally, the camera pans across the sitting crowd, showing a man in black clothes sitting on a beach chair and a man in a floral shirt smoking while sitting on another beach chair."
+    },
+    {
+        "second": 8,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UYlPyLjM9f8/output_frames/sec_8_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[5-8] Finally, the camera pans across the sitting crowd, showing a man in black clothes sitting on a beach chair and a man in a floral shirt smoking while sitting on another beach chair."
+    }
+]

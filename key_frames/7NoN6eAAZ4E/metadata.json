@@ -1,0 +1,58 @@
+[
+    {
+        "second": 0,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7NoN6eAAZ4E/output_frames/sec_0_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-0] Under a blue sky, a man in black clothes and a duckbill cap stands on a rooftop, holding a mop-like tool in his hand. Palm leaves can be seen on both sides."
+    },
+    {
+        "second": 1,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7NoN6eAAZ4E/output_frames/sec_1_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[0-3] First, the camera moves with the man in the duckbill cap as he spreads black material on the rooftop from right to left. Various English subtitles flash at the bottom of the screen."
+    },
+    {
+        "second": 2,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7NoN6eAAZ4E/output_frames/sec_2_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[0-3] First, the camera moves with the man in the duckbill cap as he spreads black material on the rooftop from right to left. Various English subtitles flash at the bottom of the screen."
+    },
+    {
+        "second": 3,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7NoN6eAAZ4E/output_frames/sec_3_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-3] First, the camera moves with the man in the duckbill cap as he spreads black material on the rooftop from right to left. Various English subtitles flash at the bottom of the screen."
+    },
+    {
+        "second": 4,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7NoN6eAAZ4E/output_frames/sec_4_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[3-8] Finally, the man in the duckbill cap spreads black material repeatedly from left to right and right to left. Another man in a green shirt appears on the left. Two palm trees, one tall and one short, appear in the middle of the screen. Various English subtitles flash at the bottom of the screen, and the image freezes."
+    },
+    {
+        "second": 5,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7NoN6eAAZ4E/output_frames/sec_5_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[3-8] Finally, the man in the duckbill cap spreads black material repeatedly from left to right and right to left. Another man in a green shirt appears on the left. Two palm trees, one tall and one short, appear in the middle of the screen. Various English subtitles flash at the bottom of the screen, and the image freezes."
+    },
+    {
+        "second": 6,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7NoN6eAAZ4E/output_frames/sec_6_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[3-8] Finally, the man in the duckbill cap spreads black material repeatedly from left to right and right to left. Another man in a green shirt appears on the left. Two palm trees, one tall and one short, appear in the middle of the screen. Various English subtitles flash at the bottom of the screen, and the image freezes."
+    },
+    {
+        "second": 7,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7NoN6eAAZ4E/output_frames/sec_7_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[3-8] Finally, the man in the duckbill cap spreads black material repeatedly from left to right and right to left. Another man in a green shirt appears on the left. Two palm trees, one tall and one short, appear in the middle of the screen. Various English subtitles flash at the bottom of the screen, and the image freezes."
+    }
+]

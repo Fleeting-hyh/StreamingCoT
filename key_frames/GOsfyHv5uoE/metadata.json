@@ -1,0 +1,51 @@
+[
+    {
+        "second": 0,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GOsfyHv5uoE/output_frames/sec_0_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[0-0] Hulk is standing next to a table with a cup and a bottle of cola on it. Spiderman is sitting under the table, holding a red tube connected to the cup on the table. There's a framed picture of a bear on the brick wall in the background and a potted plant on the floor."
+    },
+    {
+        "second": 1,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GOsfyHv5uoE/output_frames/sec_1_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Hulk picks up the cola and fills the cup."
+    },
+    {
+        "second": 2,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GOsfyHv5uoE/output_frames/sec_2_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Hulk picks up the cola and fills the cup."
+    },
+    {
+        "second": 3,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GOsfyHv5uoE/output_frames/sec_3_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Hulk picks up the cola and fills the cup."
+    },
+    {
+        "second": 4,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GOsfyHv5uoE/output_frames/sec_4_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[3-6] Finally, Hulk puts the cola bottle back on the table. Spiderman finishes the cola in the cup through the tube. Hulk shrugs his shoulders in confusion."
+    },
+    {
+        "second": 5,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GOsfyHv5uoE/output_frames/sec_5_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[3-6] Finally, Hulk puts the cola bottle back on the table. Spiderman finishes the cola in the cup through the tube. Hulk shrugs his shoulders in confusion."
+    },
+    {
+        "second": 6,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GOsfyHv5uoE/output_frames/sec_6_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[3-6] Finally, Hulk puts the cola bottle back on the table. Spiderman finishes the cola in the cup through the tube. Hulk shrugs his shoulders in confusion."
+    }
+]

@@ -1,0 +1,149 @@
+[
+    {
+        "second": 0,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FCxq56KD1dA/output_frames/sec_0_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A man in a black shirt and sunglasses is sitting on a red bench, holding a phone in his right hand. His left hand rests on a wooden table in front of him, on which sits a white drink. Behind the red bench, a man in a green jacket and black hat is holding a long green straw. To the right is a shop full of snacks."
+    },
+    {
+        "second": 1,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FCxq56KD1dA/output_frames/sec_1_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[0-9] Then, the man in the black shirt speaks on the phone, and the man in the green jacket walks forward and puts the green straw into the white drink on the wooden table."
+    },
+    {
+        "second": 2,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FCxq56KD1dA/output_frames/sec_2_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[0-9] Then, the man in the black shirt speaks on the phone, and the man in the green jacket walks forward and puts the green straw into the white drink on the wooden table."
+    },
+    {
+        "second": 3,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FCxq56KD1dA/output_frames/sec_3_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-9] Then, the man in the black shirt speaks on the phone, and the man in the green jacket walks forward and puts the green straw into the white drink on the wooden table."
+    },
+    {
+        "second": 4,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FCxq56KD1dA/output_frames/sec_4_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-9] Then, the man in the black shirt speaks on the phone, and the man in the green jacket walks forward and puts the green straw into the white drink on the wooden table."
+    },
+    {
+        "second": 5,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FCxq56KD1dA/output_frames/sec_5_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[0-9] Then, the man in the black shirt speaks on the phone, and the man in the green jacket walks forward and puts the green straw into the white drink on the wooden table."
+    },
+    {
+        "second": 6,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FCxq56KD1dA/output_frames/sec_6_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-9] Then, the man in the black shirt speaks on the phone, and the man in the green jacket walks forward and puts the green straw into the white drink on the wooden table."
+    },
+    {
+        "second": 7,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FCxq56KD1dA/output_frames/sec_7_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[0-9] Then, the man in the black shirt speaks on the phone, and the man in the green jacket walks forward and puts the green straw into the white drink on the wooden table."
+    },
+    {
+        "second": 8,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FCxq56KD1dA/output_frames/sec_8_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[0-9] Then, the man in the black shirt speaks on the phone, and the man in the green jacket walks forward and puts the green straw into the white drink on the wooden table."
+    },
+    {
+        "second": 9,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FCxq56KD1dA/output_frames/sec_9_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[0-9] Then, the man in the black shirt speaks on the phone, and the man in the green jacket walks forward and puts the green straw into the white drink on the wooden table."
+    },
+    {
+        "second": 10,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FCxq56KD1dA/output_frames/sec_10_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[9-13] Next, the man in the black shirt turns his head and sees the white drink with the green straw in it. Then, he looks back and stands up to look at the man in the green jacket."
+    },
+    {
+        "second": 11,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FCxq56KD1dA/output_frames/sec_11_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[9-13] Next, the man in the black shirt turns his head and sees the white drink with the green straw in it. Then, he looks back and stands up to look at the man in the green jacket."
+    },
+    {
+        "second": 12,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FCxq56KD1dA/output_frames/sec_12_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[9-13] Next, the man in the black shirt turns his head and sees the white drink with the green straw in it. Then, he looks back and stands up to look at the man in the green jacket."
+    },
+    {
+        "second": 13,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FCxq56KD1dA/output_frames/sec_13_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[9-13] Next, the man in the black shirt turns his head and sees the white drink with the green straw in it. Then, he looks back and stands up to look at the man in the green jacket."
+    },
+    {
+        "second": 14,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FCxq56KD1dA/output_frames/sec_14_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[13-16] Then the man in the green jacket takes the green straw out of the white drink and turns to the right. The man in the black shirt points his mobile phone at the white drink with his right hand."
+    },
+    {
+        "second": 15,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FCxq56KD1dA/output_frames/sec_15_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[13-16] Then the man in the green jacket takes the green straw out of the white drink and turns to the right. The man in the black shirt points his mobile phone at the white drink with his right hand."
+    },
+    {
+        "second": 16,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FCxq56KD1dA/output_frames/sec_16_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[13-16] Then the man in the green jacket takes the green straw out of the white drink and turns to the right. The man in the black shirt points his mobile phone at the white drink with his right hand."
+    },
+    {
+        "second": 17,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FCxq56KD1dA/output_frames/sec_17_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[16-20] Subsequently, the man in the green jacket walks away to the left with the green straw, and then the man in the black shirt turns around to look to the left."
+    },
+    {
+        "second": 18,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FCxq56KD1dA/output_frames/sec_18_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[16-20] Subsequently, the man in the green jacket walks away to the left with the green straw, and then the man in the black shirt turns around to look to the left."
+    },
+    {
+        "second": 19,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FCxq56KD1dA/output_frames/sec_19_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[16-20] Subsequently, the man in the green jacket walks away to the left with the green straw, and then the man in the black shirt turns around to look to the left."
+    },
+    {
+        "second": 20,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FCxq56KD1dA/output_frames/sec_20_idx_24.jpg",
+        "fps": 30,
+        "explanation": "[16-20] Subsequently, the man in the green jacket walks away to the left with the green straw, and then the man in the black shirt turns around to look to the left."
+    }
+]

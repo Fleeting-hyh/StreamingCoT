@@ -1,0 +1,86 @@
+[
+    {
+        "second": 0,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Ti4neVnw29o/output_frames/sec_0_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A square piece of wood stands vertically on a beige surface against a background of grayish-blue brick wall."
+    },
+    {
+        "second": 1,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Ti4neVnw29o/output_frames/sec_1_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Next, a hand places white tape on top of the wood and uses a sharp tool to poke two small holes in the tape. Another square piece of wood is placed on top of the drilled wood, and the tape is stuck to the new wood."
+    },
+    {
+        "second": 2,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Ti4neVnw29o/output_frames/sec_2_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Next, a hand places white tape on top of the wood and uses a sharp tool to poke two small holes in the tape. Another square piece of wood is placed on top of the drilled wood, and the tape is stuck to the new wood."
+    },
+    {
+        "second": 3,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Ti4neVnw29o/output_frames/sec_3_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Next, a hand places white tape on top of the wood and uses a sharp tool to poke two small holes in the tape. Another square piece of wood is placed on top of the drilled wood, and the tape is stuck to the new wood."
+    },
+    {
+        "second": 4,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Ti4neVnw29o/output_frames/sec_4_idx_24.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Next, a hand places white tape on top of the wood and uses a sharp tool to poke two small holes in the tape. Another square piece of wood is placed on top of the drilled wood, and the tape is stuck to the new wood."
+    },
+    {
+        "second": 5,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Ti4neVnw29o/output_frames/sec_5_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[4-6] Using the drill again, the holes on the wood with tape are enlarged, and then the tape is torn off."
+    },
+    {
+        "second": 6,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Ti4neVnw29o/output_frames/sec_6_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[4-6] Using the drill again, the holes on the wood with tape are enlarged, and then the tape is torn off."
+    },
+    {
+        "second": 7,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Ti4neVnw29o/output_frames/sec_7_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[6-11] Then the scene switches back to the previous perspective, the drill drills a hole in the standing wood, after drilling, a round wooden tenon is inserted into the hole in the wood. Then use a hammer to knock the two pieces of wood together to complete the splicing. A green check mark appears at the top."
+    },
+    {
+        "second": 8,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Ti4neVnw29o/output_frames/sec_8_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[6-11] Then the scene switches back to the previous perspective, the drill drills a hole in the standing wood, after drilling, a round wooden tenon is inserted into the hole in the wood. Then use a hammer to knock the two pieces of wood together to complete the splicing. A green check mark appears at the top."
+    },
+    {
+        "second": 9,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Ti4neVnw29o/output_frames/sec_9_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[6-11] Then the scene switches back to the previous perspective, the drill drills a hole in the standing wood, after drilling, a round wooden tenon is inserted into the hole in the wood. Then use a hammer to knock the two pieces of wood together to complete the splicing. A green check mark appears at the top."
+    },
+    {
+        "second": 10,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Ti4neVnw29o/output_frames/sec_10_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[6-11] Then the scene switches back to the previous perspective, the drill drills a hole in the standing wood, after drilling, a round wooden tenon is inserted into the hole in the wood. Then use a hammer to knock the two pieces of wood together to complete the splicing. A green check mark appears at the top."
+    },
+    {
+        "second": 11,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Ti4neVnw29o/output_frames/sec_11_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[6-11] Then the scene switches back to the previous perspective, the drill drills a hole in the standing wood, after drilling, a round wooden tenon is inserted into the hole in the wood. Then use a hammer to knock the two pieces of wood together to complete the splicing. A green check mark appears at the top."
+    }
+]

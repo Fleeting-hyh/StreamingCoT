@@ -1,0 +1,156 @@
+[
+    {
+        "second": 0,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/T0_H3U7VNZE/output_frames/sec_0_idx_0.jpg",
+        "fps": 25,
+        "explanation": "[0-0] A giant orange cat leads a small orange cat in an amusement park, each holding an ice cream, mouths open, smiling and looking ahead. There are amusement facilities on both sides, and many people behind them."
+    },
+    {
+        "second": 1,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/T0_H3U7VNZE/output_frames/sec_1_idx_7.jpg",
+        "fps": 25,
+        "explanation": "[0-4] The big orange cat and the small orange cat stand in the middle of the amusement facilities, both of them open their mouths wide and look at each other in surprise. The big orange cat holds ice cream in its mouth. People on both sides look at them in surprise. Then the big orange cat stands next to the Ferris wheel, surrounded by people, and the small orange cat disappears."
+    },
+    {
+        "second": 2,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/T0_H3U7VNZE/output_frames/sec_2_idx_0.jpg",
+        "fps": 25,
+        "explanation": "[0-4] The big orange cat and the small orange cat stand in the middle of the amusement facilities, both of them open their mouths wide and look at each other in surprise. The big orange cat holds ice cream in its mouth. People on both sides look at them in surprise. Then the big orange cat stands next to the Ferris wheel, surrounded by people, and the small orange cat disappears."
+    },
+    {
+        "second": 3,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/T0_H3U7VNZE/output_frames/sec_3_idx_2.jpg",
+        "fps": 25,
+        "explanation": "[0-4] The big orange cat and the small orange cat stand in the middle of the amusement facilities, both of them open their mouths wide and look at each other in surprise. The big orange cat holds ice cream in its mouth. People on both sides look at them in surprise. Then the big orange cat stands next to the Ferris wheel, surrounded by people, and the small orange cat disappears."
+    },
+    {
+        "second": 4,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/T0_H3U7VNZE/output_frames/sec_4_idx_22.jpg",
+        "fps": 25,
+        "explanation": "[0-4] The big orange cat and the small orange cat stand in the middle of the amusement facilities, both of them open their mouths wide and look at each other in surprise. The big orange cat holds ice cream in its mouth. People on both sides look at them in surprise. Then the big orange cat stands next to the Ferris wheel, surrounded by people, and the small orange cat disappears."
+    },
+    {
+        "second": 5,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/T0_H3U7VNZE/output_frames/sec_5_idx_10.jpg",
+        "fps": 25,
+        "explanation": "[4-13] Then the big orange cat came to the city road, the cars on the street were crushed by it, and people were very scared. Then the big orange cat was lying on the ground bound by thick chains, surrounded by people. Then the big orange cat squatted on the road. Its limbs and neck were all controlled by chains, the road was full of people, and police cars were parked. Then the big orange cat was dragged forward with an iron chain, with two helicopters on both sides, and the road was full of police cars and policemen. Then the big orange cat was locked in a huge cage and pulled to other places by a truck, escorted by police cars and helicopters."
+    },
+    {
+        "second": 6,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/T0_H3U7VNZE/output_frames/sec_6_idx_2.jpg",
+        "fps": 25,
+        "explanation": "[4-13] Then the big orange cat came to the city road, the cars on the street were crushed by it, and people were very scared. Then the big orange cat was lying on the ground bound by thick chains, surrounded by people. Then the big orange cat squatted on the road. Its limbs and neck were all controlled by chains, the road was full of people, and police cars were parked. Then the big orange cat was dragged forward with an iron chain, with two helicopters on both sides, and the road was full of police cars and policemen. Then the big orange cat was locked in a huge cage and pulled to other places by a truck, escorted by police cars and helicopters."
+    },
+    {
+        "second": 7,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/T0_H3U7VNZE/output_frames/sec_7_idx_12.jpg",
+        "fps": 25,
+        "explanation": "[4-13] Then the big orange cat came to the city road, the cars on the street were crushed by it, and people were very scared. Then the big orange cat was lying on the ground bound by thick chains, surrounded by people. Then the big orange cat squatted on the road. Its limbs and neck were all controlled by chains, the road was full of people, and police cars were parked. Then the big orange cat was dragged forward with an iron chain, with two helicopters on both sides, and the road was full of police cars and policemen. Then the big orange cat was locked in a huge cage and pulled to other places by a truck, escorted by police cars and helicopters."
+    },
+    {
+        "second": 8,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/T0_H3U7VNZE/output_frames/sec_8_idx_5.jpg",
+        "fps": 25,
+        "explanation": "[4-13] Then the big orange cat came to the city road, the cars on the street were crushed by it, and people were very scared. Then the big orange cat was lying on the ground bound by thick chains, surrounded by people. Then the big orange cat squatted on the road. Its limbs and neck were all controlled by chains, the road was full of people, and police cars were parked. Then the big orange cat was dragged forward with an iron chain, with two helicopters on both sides, and the road was full of police cars and policemen. Then the big orange cat was locked in a huge cage and pulled to other places by a truck, escorted by police cars and helicopters."
+    },
+    {
+        "second": 9,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/T0_H3U7VNZE/output_frames/sec_9_idx_6.jpg",
+        "fps": 25,
+        "explanation": "[4-13] Then the big orange cat came to the city road, the cars on the street were crushed by it, and people were very scared. Then the big orange cat was lying on the ground bound by thick chains, surrounded by people. Then the big orange cat squatted on the road. Its limbs and neck were all controlled by chains, the road was full of people, and police cars were parked. Then the big orange cat was dragged forward with an iron chain, with two helicopters on both sides, and the road was full of police cars and policemen. Then the big orange cat was locked in a huge cage and pulled to other places by a truck, escorted by police cars and helicopters."
+    },
+    {
+        "second": 10,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/T0_H3U7VNZE/output_frames/sec_10_idx_24.jpg",
+        "fps": 25,
+        "explanation": "[4-13] Then the big orange cat came to the city road, the cars on the street were crushed by it, and people were very scared. Then the big orange cat was lying on the ground bound by thick chains, surrounded by people. Then the big orange cat squatted on the road. Its limbs and neck were all controlled by chains, the road was full of people, and police cars were parked. Then the big orange cat was dragged forward with an iron chain, with two helicopters on both sides, and the road was full of police cars and policemen. Then the big orange cat was locked in a huge cage and pulled to other places by a truck, escorted by police cars and helicopters."
+    },
+    {
+        "second": 11,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/T0_H3U7VNZE/output_frames/sec_11_idx_0.jpg",
+        "fps": 25,
+        "explanation": "[4-13] Then the big orange cat came to the city road, the cars on the street were crushed by it, and people were very scared. Then the big orange cat was lying on the ground bound by thick chains, surrounded by people. Then the big orange cat squatted on the road. Its limbs and neck were all controlled by chains, the road was full of people, and police cars were parked. Then the big orange cat was dragged forward with an iron chain, with two helicopters on both sides, and the road was full of police cars and policemen. Then the big orange cat was locked in a huge cage and pulled to other places by a truck, escorted by police cars and helicopters."
+    },
+    {
+        "second": 12,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/T0_H3U7VNZE/output_frames/sec_12_idx_20.jpg",
+        "fps": 25,
+        "explanation": "[4-13] Then the big orange cat came to the city road, the cars on the street were crushed by it, and people were very scared. Then the big orange cat was lying on the ground bound by thick chains, surrounded by people. Then the big orange cat squatted on the road. Its limbs and neck were all controlled by chains, the road was full of people, and police cars were parked. Then the big orange cat was dragged forward with an iron chain, with two helicopters on both sides, and the road was full of police cars and policemen. Then the big orange cat was locked in a huge cage and pulled to other places by a truck, escorted by police cars and helicopters."
+    },
+    {
+        "second": 13,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/T0_H3U7VNZE/output_frames/sec_13_idx_24.jpg",
+        "fps": 25,
+        "explanation": "[4-13] Then the big orange cat came to the city road, the cars on the street were crushed by it, and people were very scared. Then the big orange cat was lying on the ground bound by thick chains, surrounded by people. Then the big orange cat squatted on the road. Its limbs and neck were all controlled by chains, the road was full of people, and police cars were parked. Then the big orange cat was dragged forward with an iron chain, with two helicopters on both sides, and the road was full of police cars and policemen. Then the big orange cat was locked in a huge cage and pulled to other places by a truck, escorted by police cars and helicopters."
+    },
+    {
+        "second": 14,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/T0_H3U7VNZE/output_frames/sec_14_idx_2.jpg",
+        "fps": 25,
+        "explanation": "[13-21] Then the big orange cat is locked in a huge cage. The staff feeds it, and its clothes are tattered. Then I saw the little orange cat kneeling alone on the road, the ice cream fell on the road and cried sadly. Then the big orange cat stood up and broke the cage, opened its mouth wide, revealing its teeth and tongue, with a fierce expression. Then the big orange cat walks on the city road aggressively, and people flee in fear."
+    },
+    {
+        "second": 15,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/T0_H3U7VNZE/output_frames/sec_15_idx_19.jpg",
+        "fps": 25,
+        "explanation": "[13-21] Then the big orange cat is locked in a huge cage. The staff feeds it, and its clothes are tattered. Then I saw the little orange cat kneeling alone on the road, the ice cream fell on the road and cried sadly. Then the big orange cat stood up and broke the cage, opened its mouth wide, revealing its teeth and tongue, with a fierce expression. Then the big orange cat walks on the city road aggressively, and people flee in fear."
+    },
+    {
+        "second": 16,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/T0_H3U7VNZE/output_frames/sec_16_idx_9.jpg",
+        "fps": 25,
+        "explanation": "[13-21] Then the big orange cat is locked in a huge cage. The staff feeds it, and its clothes are tattered. Then I saw the little orange cat kneeling alone on the road, the ice cream fell on the road and cried sadly. Then the big orange cat stood up and broke the cage, opened its mouth wide, revealing its teeth and tongue, with a fierce expression. Then the big orange cat walks on the city road aggressively, and people flee in fear."
+    },
+    {
+        "second": 17,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/T0_H3U7VNZE/output_frames/sec_17_idx_20.jpg",
+        "fps": 25,
+        "explanation": "[13-21] Then the big orange cat is locked in a huge cage. The staff feeds it, and its clothes are tattered. Then I saw the little orange cat kneeling alone on the road, the ice cream fell on the road and cried sadly. Then the big orange cat stood up and broke the cage, opened its mouth wide, revealing its teeth and tongue, with a fierce expression. Then the big orange cat walks on the city road aggressively, and people flee in fear."
+    },
+    {
+        "second": 18,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/T0_H3U7VNZE/output_frames/sec_18_idx_0.jpg",
+        "fps": 25,
+        "explanation": "[13-21] Then the big orange cat is locked in a huge cage. The staff feeds it, and its clothes are tattered. Then I saw the little orange cat kneeling alone on the road, the ice cream fell on the road and cried sadly. Then the big orange cat stood up and broke the cage, opened its mouth wide, revealing its teeth and tongue, with a fierce expression. Then the big orange cat walks on the city road aggressively, and people flee in fear."
+    },
+    {
+        "second": 19,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/T0_H3U7VNZE/output_frames/sec_19_idx_24.jpg",
+        "fps": 25,
+        "explanation": "[13-21] Then the big orange cat is locked in a huge cage. The staff feeds it, and its clothes are tattered. Then I saw the little orange cat kneeling alone on the road, the ice cream fell on the road and cried sadly. Then the big orange cat stood up and broke the cage, opened its mouth wide, revealing its teeth and tongue, with a fierce expression. Then the big orange cat walks on the city road aggressively, and people flee in fear."
+    },
+    {
+        "second": 20,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/T0_H3U7VNZE/output_frames/sec_20_idx_0.jpg",
+        "fps": 25,
+        "explanation": "[13-21] Then the big orange cat is locked in a huge cage. The staff feeds it, and its clothes are tattered. Then I saw the little orange cat kneeling alone on the road, the ice cream fell on the road and cried sadly. Then the big orange cat stood up and broke the cage, opened its mouth wide, revealing its teeth and tongue, with a fierce expression. Then the big orange cat walks on the city road aggressively, and people flee in fear."
+    },
+    {
+        "second": 21,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/T0_H3U7VNZE/output_frames/sec_21_idx_1.jpg",
+        "fps": 25,
+        "explanation": "[13-21] Then the big orange cat is locked in a huge cage. The staff feeds it, and its clothes are tattered. Then I saw the little orange cat kneeling alone on the road, the ice cream fell on the road and cried sadly. Then the big orange cat stood up and broke the cage, opened its mouth wide, revealing its teeth and tongue, with a fierce expression. Then the big orange cat walks on the city road aggressively, and people flee in fear."
+    }
+]

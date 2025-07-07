@@ -1,0 +1,51 @@
+[
+    {
+        "second": 0,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Ls37EhxAqfU/output_frames/sec_0_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-0] An open-top sightseeing car is parked on a dirt road in the wild, with many people on board. A woman in a purple top and gray shorts is beside the car, and a person in a khaki short-sleeved T-shirt and gray shorts is making a gesture of running towards the sightseeing car. There is an elephant in front of the sightseeing car. The background is dense woods and blue sky. There is an icon in the upper left corner of the screen."
+    },
+    {
+        "second": 1,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Ls37EhxAqfU/output_frames/sec_1_idx_24.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Next, the elephant twists its body, and a red circle encircles the elephant's head. The people on the sightseeing car flee, running in a panic towards the camera. The man in the khaki short-sleeved T-shirt runs to the front of the sightseeing car and calls on his companions to run towards the camera together."
+    },
+    {
+        "second": 2,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Ls37EhxAqfU/output_frames/sec_2_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Next, the elephant twists its body, and a red circle encircles the elephant's head. The people on the sightseeing car flee, running in a panic towards the camera. The man in the khaki short-sleeved T-shirt runs to the front of the sightseeing car and calls on his companions to run towards the camera together."
+    },
+    {
+        "second": 3,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Ls37EhxAqfU/output_frames/sec_3_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[2-6] Subsequently, the elephant turns around and runs backwards. A man wearing a hat and a woman with blonde hair in front of the camera also stand up and walk to the left of the camera. A shocked emoji flashes on the screen."
+    },
+    {
+        "second": 4,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Ls37EhxAqfU/output_frames/sec_4_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[2-6] Subsequently, the elephant turns around and runs backwards. A man wearing a hat and a woman with blonde hair in front of the camera also stand up and walk to the left of the camera. A shocked emoji flashes on the screen."
+    },
+    {
+        "second": 5,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Ls37EhxAqfU/output_frames/sec_5_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[2-6] Subsequently, the elephant turns around and runs backwards. A man wearing a hat and a woman with blonde hair in front of the camera also stand up and walk to the left of the camera. A shocked emoji flashes on the screen."
+    },
+    {
+        "second": 6,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Ls37EhxAqfU/output_frames/sec_6_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[2-6] Subsequently, the elephant turns around and runs backwards. A man wearing a hat and a woman with blonde hair in front of the camera also stand up and walk to the left of the camera. A shocked emoji flashes on the screen."
+    }
+]

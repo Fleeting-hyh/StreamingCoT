@@ -1,0 +1,324 @@
+[
+    {
+        "second": 0,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IxDHWCwf3hI/output_frames/sec_0_idx_0.jpg",
+        "fps": 24,
+        "explanation": "[0-0] On a green lawn, there is a translucent green frog toy with a toy car with yellow wheels on top of it."
+    },
+    {
+        "second": 1,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IxDHWCwf3hI/output_frames/sec_1_idx_23.jpg",
+        "fps": 24,
+        "explanation": "[0-4] The toy car moves forward, running over the frog, causing it to flip over. There are some small green balls on the ground. A person wearing pink gloves picks up the frog and places it on a white blanket to carry it away."
+    },
+    {
+        "second": 2,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IxDHWCwf3hI/output_frames/sec_2_idx_8.jpg",
+        "fps": 24,
+        "explanation": "[0-4] The toy car moves forward, running over the frog, causing it to flip over. There are some small green balls on the ground. A person wearing pink gloves picks up the frog and places it on a white blanket to carry it away."
+    },
+    {
+        "second": 3,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IxDHWCwf3hI/output_frames/sec_3_idx_2.jpg",
+        "fps": 24,
+        "explanation": "[0-4] The toy car moves forward, running over the frog, causing it to flip over. There are some small green balls on the ground. A person wearing pink gloves picks up the frog and places it on a white blanket to carry it away."
+    },
+    {
+        "second": 4,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IxDHWCwf3hI/output_frames/sec_4_idx_19.jpg",
+        "fps": 24,
+        "explanation": "[0-4] The toy car moves forward, running over the frog, causing it to flip over. There are some small green balls on the ground. A person wearing pink gloves picks up the frog and places it on a white blanket to carry it away."
+    },
+    {
+        "second": 5,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IxDHWCwf3hI/output_frames/sec_5_idx_15.jpg",
+        "fps": 24,
+        "explanation": "[4-13] The scene changes, and the frog is placed on a blue bed. The person with pink gloves flips the frog over, revealing screws on its belly. The scene shifts to a person in a white outfit and goggles spraying water with a spray bottle. The scene changes again, and after spraying, the person places the spray bottle on a table with tweezers, needles, and a small box. They pick up a scalpel. The scene shifts, and the person in white makes an incision on the frog's belly and removes the screws with tweezers. The scene changes, and the person places the screws in a transparent box."
+    },
+    {
+        "second": 6,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IxDHWCwf3hI/output_frames/sec_6_idx_1.jpg",
+        "fps": 24,
+        "explanation": "[4-13] The scene changes, and the frog is placed on a blue bed. The person with pink gloves flips the frog over, revealing screws on its belly. The scene shifts to a person in a white outfit and goggles spraying water with a spray bottle. The scene changes again, and after spraying, the person places the spray bottle on a table with tweezers, needles, and a small box. They pick up a scalpel. The scene shifts, and the person in white makes an incision on the frog's belly and removes the screws with tweezers. The scene changes, and the person places the screws in a transparent box."
+    },
+    {
+        "second": 7,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IxDHWCwf3hI/output_frames/sec_7_idx_2.jpg",
+        "fps": 24,
+        "explanation": "[4-13] The scene changes, and the frog is placed on a blue bed. The person with pink gloves flips the frog over, revealing screws on its belly. The scene shifts to a person in a white outfit and goggles spraying water with a spray bottle. The scene changes again, and after spraying, the person places the spray bottle on a table with tweezers, needles, and a small box. They pick up a scalpel. The scene shifts, and the person in white makes an incision on the frog's belly and removes the screws with tweezers. The scene changes, and the person places the screws in a transparent box."
+    },
+    {
+        "second": 8,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IxDHWCwf3hI/output_frames/sec_8_idx_13.jpg",
+        "fps": 24,
+        "explanation": "[4-13] The scene changes, and the frog is placed on a blue bed. The person with pink gloves flips the frog over, revealing screws on its belly. The scene shifts to a person in a white outfit and goggles spraying water with a spray bottle. The scene changes again, and after spraying, the person places the spray bottle on a table with tweezers, needles, and a small box. They pick up a scalpel. The scene shifts, and the person in white makes an incision on the frog's belly and removes the screws with tweezers. The scene changes, and the person places the screws in a transparent box."
+    },
+    {
+        "second": 9,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IxDHWCwf3hI/output_frames/sec_9_idx_12.jpg",
+        "fps": 24,
+        "explanation": "[4-13] The scene changes, and the frog is placed on a blue bed. The person with pink gloves flips the frog over, revealing screws on its belly. The scene shifts to a person in a white outfit and goggles spraying water with a spray bottle. The scene changes again, and after spraying, the person places the spray bottle on a table with tweezers, needles, and a small box. They pick up a scalpel. The scene shifts, and the person in white makes an incision on the frog's belly and removes the screws with tweezers. The scene changes, and the person places the screws in a transparent box."
+    },
+    {
+        "second": 10,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IxDHWCwf3hI/output_frames/sec_10_idx_8.jpg",
+        "fps": 24,
+        "explanation": "[4-13] The scene changes, and the frog is placed on a blue bed. The person with pink gloves flips the frog over, revealing screws on its belly. The scene shifts to a person in a white outfit and goggles spraying water with a spray bottle. The scene changes again, and after spraying, the person places the spray bottle on a table with tweezers, needles, and a small box. They pick up a scalpel. The scene shifts, and the person in white makes an incision on the frog's belly and removes the screws with tweezers. The scene changes, and the person places the screws in a transparent box."
+    },
+    {
+        "second": 11,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IxDHWCwf3hI/output_frames/sec_11_idx_16.jpg",
+        "fps": 24,
+        "explanation": "[4-13] The scene changes, and the frog is placed on a blue bed. The person with pink gloves flips the frog over, revealing screws on its belly. The scene shifts to a person in a white outfit and goggles spraying water with a spray bottle. The scene changes again, and after spraying, the person places the spray bottle on a table with tweezers, needles, and a small box. They pick up a scalpel. The scene shifts, and the person in white makes an incision on the frog's belly and removes the screws with tweezers. The scene changes, and the person places the screws in a transparent box."
+    },
+    {
+        "second": 12,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IxDHWCwf3hI/output_frames/sec_12_idx_8.jpg",
+        "fps": 24,
+        "explanation": "[4-13] The scene changes, and the frog is placed on a blue bed. The person with pink gloves flips the frog over, revealing screws on its belly. The scene shifts to a person in a white outfit and goggles spraying water with a spray bottle. The scene changes again, and after spraying, the person places the spray bottle on a table with tweezers, needles, and a small box. They pick up a scalpel. The scene shifts, and the person in white makes an incision on the frog's belly and removes the screws with tweezers. The scene changes, and the person places the screws in a transparent box."
+    },
+    {
+        "second": 13,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IxDHWCwf3hI/output_frames/sec_13_idx_6.jpg",
+        "fps": 24,
+        "explanation": "[4-13] The scene changes, and the frog is placed on a blue bed. The person with pink gloves flips the frog over, revealing screws on its belly. The scene shifts to a person in a white outfit and goggles spraying water with a spray bottle. The scene changes again, and after spraying, the person places the spray bottle on a table with tweezers, needles, and a small box. They pick up a scalpel. The scene shifts, and the person in white makes an incision on the frog's belly and removes the screws with tweezers. The scene changes, and the person places the screws in a transparent box."
+    },
+    {
+        "second": 14,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IxDHWCwf3hI/output_frames/sec_14_idx_5.jpg",
+        "fps": 24,
+        "explanation": "[13-17] The person then removes a long block-like object from the frog's belly."
+    },
+    {
+        "second": 15,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IxDHWCwf3hI/output_frames/sec_15_idx_3.jpg",
+        "fps": 24,
+        "explanation": "[13-17] The person then removes a long block-like object from the frog's belly."
+    },
+    {
+        "second": 16,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IxDHWCwf3hI/output_frames/sec_16_idx_18.jpg",
+        "fps": 24,
+        "explanation": "[13-17] The person then removes a long block-like object from the frog's belly."
+    },
+    {
+        "second": 17,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IxDHWCwf3hI/output_frames/sec_17_idx_11.jpg",
+        "fps": 24,
+        "explanation": "[13-17] The person then removes a long block-like object from the frog's belly."
+    },
+    {
+        "second": 18,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IxDHWCwf3hI/output_frames/sec_18_idx_16.jpg",
+        "fps": 24,
+        "explanation": "[17-25] The scene changes, and the person in white opens a box containing colorful pills. The scene shifts again, and the person places three green pills into the frog's belly."
+    },
+    {
+        "second": 19,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IxDHWCwf3hI/output_frames/sec_19_idx_12.jpg",
+        "fps": 24,
+        "explanation": "[17-25] The scene changes, and the person in white opens a box containing colorful pills. The scene shifts again, and the person places three green pills into the frog's belly."
+    },
+    {
+        "second": 20,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IxDHWCwf3hI/output_frames/sec_20_idx_1.jpg",
+        "fps": 24,
+        "explanation": "[17-25] The scene changes, and the person in white opens a box containing colorful pills. The scene shifts again, and the person places three green pills into the frog's belly."
+    },
+    {
+        "second": 21,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IxDHWCwf3hI/output_frames/sec_21_idx_1.jpg",
+        "fps": 24,
+        "explanation": "[17-25] The scene changes, and the person in white opens a box containing colorful pills. The scene shifts again, and the person places three green pills into the frog's belly."
+    },
+    {
+        "second": 22,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IxDHWCwf3hI/output_frames/sec_22_idx_11.jpg",
+        "fps": 24,
+        "explanation": "[17-25] The scene changes, and the person in white opens a box containing colorful pills. The scene shifts again, and the person places three green pills into the frog's belly."
+    },
+    {
+        "second": 23,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IxDHWCwf3hI/output_frames/sec_23_idx_6.jpg",
+        "fps": 24,
+        "explanation": "[17-25] The scene changes, and the person in white opens a box containing colorful pills. The scene shifts again, and the person places three green pills into the frog's belly."
+    },
+    {
+        "second": 24,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IxDHWCwf3hI/output_frames/sec_24_idx_8.jpg",
+        "fps": 24,
+        "explanation": "[17-25] The scene changes, and the person in white opens a box containing colorful pills. The scene shifts again, and the person places three green pills into the frog's belly."
+    },
+    {
+        "second": 25,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IxDHWCwf3hI/output_frames/sec_25_idx_0.jpg",
+        "fps": 24,
+        "explanation": "[17-25] The scene changes, and the person in white opens a box containing colorful pills. The scene shifts again, and the person places three green pills into the frog's belly."
+    },
+    {
+        "second": 26,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IxDHWCwf3hI/output_frames/sec_26_idx_0.jpg",
+        "fps": 24,
+        "explanation": "[25-30] The scene changes, and the person takes out a cotton swab with iodine. The scene shifts again, and they use the swab to disinfect the frog."
+    },
+    {
+        "second": 27,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IxDHWCwf3hI/output_frames/sec_27_idx_17.jpg",
+        "fps": 24,
+        "explanation": "[25-30] The scene changes, and the person takes out a cotton swab with iodine. The scene shifts again, and they use the swab to disinfect the frog."
+    },
+    {
+        "second": 28,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IxDHWCwf3hI/output_frames/sec_28_idx_23.jpg",
+        "fps": 24,
+        "explanation": "[25-30] The scene changes, and the person takes out a cotton swab with iodine. The scene shifts again, and they use the swab to disinfect the frog."
+    },
+    {
+        "second": 29,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IxDHWCwf3hI/output_frames/sec_29_idx_3.jpg",
+        "fps": 24,
+        "explanation": "[25-30] The scene changes, and the person takes out a cotton swab with iodine. The scene shifts again, and they use the swab to disinfect the frog."
+    },
+    {
+        "second": 30,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IxDHWCwf3hI/output_frames/sec_30_idx_8.jpg",
+        "fps": 24,
+        "explanation": "[25-30] The scene changes, and the person takes out a cotton swab with iodine. The scene shifts again, and they use the swab to disinfect the frog."
+    },
+    {
+        "second": 31,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IxDHWCwf3hI/output_frames/sec_31_idx_13.jpg",
+        "fps": 24,
+        "explanation": "[30-38] The person then stitches up the frog's wound and cuts the thread."
+    },
+    {
+        "second": 32,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IxDHWCwf3hI/output_frames/sec_32_idx_0.jpg",
+        "fps": 24,
+        "explanation": "[30-38] The person then stitches up the frog's wound and cuts the thread."
+    },
+    {
+        "second": 33,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IxDHWCwf3hI/output_frames/sec_33_idx_18.jpg",
+        "fps": 24,
+        "explanation": "[30-38] The person then stitches up the frog's wound and cuts the thread."
+    },
+    {
+        "second": 34,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IxDHWCwf3hI/output_frames/sec_34_idx_19.jpg",
+        "fps": 24,
+        "explanation": "[30-38] The person then stitches up the frog's wound and cuts the thread."
+    },
+    {
+        "second": 35,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IxDHWCwf3hI/output_frames/sec_35_idx_6.jpg",
+        "fps": 24,
+        "explanation": "[30-38] The person then stitches up the frog's wound and cuts the thread."
+    },
+    {
+        "second": 36,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IxDHWCwf3hI/output_frames/sec_36_idx_2.jpg",
+        "fps": 24,
+        "explanation": "[30-38] The person then stitches up the frog's wound and cuts the thread."
+    },
+    {
+        "second": 37,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IxDHWCwf3hI/output_frames/sec_37_idx_17.jpg",
+        "fps": 24,
+        "explanation": "[30-38] The person then stitches up the frog's wound and cuts the thread."
+    },
+    {
+        "second": 38,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IxDHWCwf3hI/output_frames/sec_38_idx_4.jpg",
+        "fps": 24,
+        "explanation": "[30-38] The person then stitches up the frog's wound and cuts the thread."
+    },
+    {
+        "second": 39,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IxDHWCwf3hI/output_frames/sec_39_idx_5.jpg",
+        "fps": 24,
+        "explanation": "[38-45] The scene changes, and the person applies a band-aid to the frog. The scene shifts again, and the person uses a cotton ball to disinfect the frog. Finally, the frog hops away."
+    },
+    {
+        "second": 40,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IxDHWCwf3hI/output_frames/sec_40_idx_9.jpg",
+        "fps": 24,
+        "explanation": "[38-45] The scene changes, and the person applies a band-aid to the frog. The scene shifts again, and the person uses a cotton ball to disinfect the frog. Finally, the frog hops away."
+    },
+    {
+        "second": 41,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IxDHWCwf3hI/output_frames/sec_41_idx_20.jpg",
+        "fps": 24,
+        "explanation": "[38-45] The scene changes, and the person applies a band-aid to the frog. The scene shifts again, and the person uses a cotton ball to disinfect the frog. Finally, the frog hops away."
+    },
+    {
+        "second": 42,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IxDHWCwf3hI/output_frames/sec_42_idx_15.jpg",
+        "fps": 24,
+        "explanation": "[38-45] The scene changes, and the person applies a band-aid to the frog. The scene shifts again, and the person uses a cotton ball to disinfect the frog. Finally, the frog hops away."
+    },
+    {
+        "second": 43,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IxDHWCwf3hI/output_frames/sec_43_idx_18.jpg",
+        "fps": 24,
+        "explanation": "[38-45] The scene changes, and the person applies a band-aid to the frog. The scene shifts again, and the person uses a cotton ball to disinfect the frog. Finally, the frog hops away."
+    },
+    {
+        "second": 44,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IxDHWCwf3hI/output_frames/sec_44_idx_19.jpg",
+        "fps": 24,
+        "explanation": "[38-45] The scene changes, and the person applies a band-aid to the frog. The scene shifts again, and the person uses a cotton ball to disinfect the frog. Finally, the frog hops away."
+    },
+    {
+        "second": 45,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IxDHWCwf3hI/output_frames/sec_45_idx_1.jpg",
+        "fps": 24,
+        "explanation": "[38-45] The scene changes, and the person applies a band-aid to the frog. The scene shifts again, and the person uses a cotton ball to disinfect the frog. Finally, the frog hops away."
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "second": 0,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PL1fJZ-Zs6k/output_frames/sec_0_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[0-0] Against a black background, a wooden fence door is on the right side, made of wooden boards and metal mesh, with a metal U-shaped lock on the door."
+    },
+    {
+        "second": 1,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PL1fJZ-Zs6k/output_frames/sec_1_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Then a metal latch with a spherical handle appears in the picture, slowly moving downwards, hooking onto the U-shaped lock, locking the door. The latch remains in the downward locked position."
+    },
+    {
+        "second": 2,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PL1fJZ-Zs6k/output_frames/sec_2_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Then a metal latch with a spherical handle appears in the picture, slowly moving downwards, hooking onto the U-shaped lock, locking the door. The latch remains in the downward locked position."
+    },
+    {
+        "second": 3,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PL1fJZ-Zs6k/output_frames/sec_3_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Then a metal latch with a spherical handle appears in the picture, slowly moving downwards, hooking onto the U-shaped lock, locking the door. The latch remains in the downward locked position."
+    }
+]

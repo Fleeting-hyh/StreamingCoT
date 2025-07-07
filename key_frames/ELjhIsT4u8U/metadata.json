@@ -1,0 +1,51 @@
+[
+    {
+        "second": 0,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/ELjhIsT4u8U/output_frames/sec_0_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-0] On a machine, a hand wearing a blue glove is holding a steel bar bent into a square frame."
+    },
+    {
+        "second": 1,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/ELjhIsT4u8U/output_frames/sec_1_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[0-7] Then the hand wearing the blue glove pulls the square frame to the right of the screen, and then the machine cuts off the square frame. Subsequently, a steel bar extends from the machine, and then the machine works to bend the steel bar that has just been extended into a square frame."
+    },
+    {
+        "second": 2,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/ELjhIsT4u8U/output_frames/sec_2_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[0-7] Then the hand wearing the blue glove pulls the square frame to the right of the screen, and then the machine cuts off the square frame. Subsequently, a steel bar extends from the machine, and then the machine works to bend the steel bar that has just been extended into a square frame."
+    },
+    {
+        "second": 3,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/ELjhIsT4u8U/output_frames/sec_3_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[0-7] Then the hand wearing the blue glove pulls the square frame to the right of the screen, and then the machine cuts off the square frame. Subsequently, a steel bar extends from the machine, and then the machine works to bend the steel bar that has just been extended into a square frame."
+    },
+    {
+        "second": 4,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/ELjhIsT4u8U/output_frames/sec_4_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[0-7] Then the hand wearing the blue glove pulls the square frame to the right of the screen, and then the machine cuts off the square frame. Subsequently, a steel bar extends from the machine, and then the machine works to bend the steel bar that has just been extended into a square frame."
+    },
+    {
+        "second": 5,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/ELjhIsT4u8U/output_frames/sec_5_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[0-7] Then the hand wearing the blue glove pulls the square frame to the right of the screen, and then the machine cuts off the square frame. Subsequently, a steel bar extends from the machine, and then the machine works to bend the steel bar that has just been extended into a square frame."
+    },
+    {
+        "second": 6,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/ELjhIsT4u8U/output_frames/sec_6_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[0-7] Then the hand wearing the blue glove pulls the square frame to the right of the screen, and then the machine cuts off the square frame. Subsequently, a steel bar extends from the machine, and then the machine works to bend the steel bar that has just been extended into a square frame."
+    }
+]

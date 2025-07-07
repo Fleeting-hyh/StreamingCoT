@@ -1,0 +1,44 @@
+[
+    {
+        "second": 0,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AW5aeGSvJ98/output_frames/sec_0_idx_4.jpg",
+        "fps": 60,
+        "explanation": "[0-0] A person wearing a banana costume is standing at the doorway of a room. The person is wearing a yellow hat and a yellow top, designed like a banana. In the background, a brick wall and some furniture can be seen, including a gray sofa. The door to the room is white with glass panes."
+    },
+    {
+        "second": 1,
+        "frame_index": 40,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AW5aeGSvJ98/output_frames/sec_1_idx_40.jpg",
+        "fps": 60,
+        "explanation": "[0-3] Then the man walks into the room with big strides, then looks up. Immediately the screen switches to the ceiling of the room, a huge black spider appears on the ceiling. Then the screen switches back to the man in the room, he turns and walks out of the room, then walks in carrying a large knife."
+    },
+    {
+        "second": 2,
+        "frame_index": 58,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AW5aeGSvJ98/output_frames/sec_2_idx_58.jpg",
+        "fps": 60,
+        "explanation": "[0-3] Then the man walks into the room with big strides, then looks up. Immediately the screen switches to the ceiling of the room, a huge black spider appears on the ceiling. Then the screen switches back to the man in the room, he turns and walks out of the room, then walks in carrying a large knife."
+    },
+    {
+        "second": 3,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AW5aeGSvJ98/output_frames/sec_3_idx_5.jpg",
+        "fps": 60,
+        "explanation": "[0-3] Then the man walks into the room with big strides, then looks up. Immediately the screen switches to the ceiling of the room, a huge black spider appears on the ceiling. Then the screen switches back to the man in the room, he turns and walks out of the room, then walks in carrying a large knife."
+    },
+    {
+        "second": 4,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AW5aeGSvJ98/output_frames/sec_4_idx_5.jpg",
+        "fps": 60,
+        "explanation": "[3-5] Then the screen cuts to the ceiling again, the spider quickly crawls to the right. Then the picture switches to the man in the room, the man opens his mouth in surprise. Then he throws away the big knife in his hand and runs out the door quickly."
+    },
+    {
+        "second": 5,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AW5aeGSvJ98/output_frames/sec_5_idx_25.jpg",
+        "fps": 60,
+        "explanation": "[3-5] Then the screen cuts to the ceiling again, the spider quickly crawls to the right. Then the picture switches to the man in the room, the man opens his mouth in surprise. Then he throws away the big knife in his hand and runs out the door quickly."
+    }
+]

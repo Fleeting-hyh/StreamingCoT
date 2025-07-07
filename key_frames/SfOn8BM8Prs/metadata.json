@@ -1,0 +1,58 @@
+[
+    {
+        "second": 0,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SfOn8BM8Prs/output_frames/sec_0_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[0-0] Two men are standing on either side of a red rubber road. The man on the left is wearing a hat and a mask, a blue shirt and black pants, and holding a spray gun. The man on the right is wearing a striped short-sleeved shirt and black pants, wearing a mask, and holding a wooden board in his left hand. There are trees and grass beside them."
+    },
+    {
+        "second": 1,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SfOn8BM8Prs/output_frames/sec_1_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Then the man in blue moves the spray gun, and the red paint gradually covers the road surface, forming a sharp contrast with the previously unsprayed gray road surface. The man in the striped short-sleeved shirt walks to the side with the wooden board and places it on the ground."
+    },
+    {
+        "second": 2,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SfOn8BM8Prs/output_frames/sec_2_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Then the man in blue moves the spray gun, and the red paint gradually covers the road surface, forming a sharp contrast with the previously unsprayed gray road surface. The man in the striped short-sleeved shirt walks to the side with the wooden board and places it on the ground."
+    },
+    {
+        "second": 3,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SfOn8BM8Prs/output_frames/sec_3_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Then the man in blue moves the spray gun, and the red paint gradually covers the road surface, forming a sharp contrast with the previously unsprayed gray road surface. The man in the striped short-sleeved shirt walks to the side with the wooden board and places it on the ground."
+    },
+    {
+        "second": 4,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SfOn8BM8Prs/output_frames/sec_4_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Then the man in blue moves the spray gun, and the red paint gradually covers the road surface, forming a sharp contrast with the previously unsprayed gray road surface. The man in the striped short-sleeved shirt walks to the side with the wooden board and places it on the ground."
+    },
+    {
+        "second": 5,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SfOn8BM8Prs/output_frames/sec_5_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[4-8] Finally, the two men cooperate, the man in blue continues to spray the road surface, and the man in the striped short-sleeved shirt uses the wooden board to block the paint."
+    },
+    {
+        "second": 6,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SfOn8BM8Prs/output_frames/sec_6_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[4-8] Finally, the two men cooperate, the man in blue continues to spray the road surface, and the man in the striped short-sleeved shirt uses the wooden board to block the paint."
+    },
+    {
+        "second": 7,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SfOn8BM8Prs/output_frames/sec_7_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[4-8] Finally, the two men cooperate, the man in blue continues to spray the road surface, and the man in the striped short-sleeved shirt uses the wooden board to block the paint."
+    }
+]

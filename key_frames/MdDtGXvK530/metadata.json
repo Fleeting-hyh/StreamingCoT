@@ -1,0 +1,65 @@
+[
+    {
+        "second": 0,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MdDtGXvK530/output_frames/sec_0_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A left hand holds a pink balloon with a small pointed tip at the top. The balloon has a smiley face drawn on it, featuring two black star-shaped eyes, a small mouth, and small black dots on both sides. Below the balloon is a green oval plate placed on a table with blue spots."
+    },
+    {
+        "second": 1,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MdDtGXvK530/output_frames/sec_1_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Next, a right hand holding a pair of scissors with pink handles cuts the top of the pink balloon. The balloon bursts open, spraying pink liquid inside onto the green plate, causing the pink balloon to shrink rapidly."
+    },
+    {
+        "second": 2,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MdDtGXvK530/output_frames/sec_2_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Next, a right hand holding a pair of scissors with pink handles cuts the top of the pink balloon. The balloon bursts open, spraying pink liquid inside onto the green plate, causing the pink balloon to shrink rapidly."
+    },
+    {
+        "second": 3,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MdDtGXvK530/output_frames/sec_3_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Next, a right hand holding a pair of scissors with pink handles cuts the top of the pink balloon. The balloon bursts open, spraying pink liquid inside onto the green plate, causing the pink balloon to shrink rapidly."
+    },
+    {
+        "second": 4,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MdDtGXvK530/output_frames/sec_4_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[3-5] Immediately following, a left hand holds a purple balloon with a small pointed tip at the top. The balloon has a pair of eyes and a mouth drawn on it. The right hand holds the scissors with pink handles, positioning them at the top of the balloon before cutting it open. Blue liquid from within the purple balloon sprays onto the green plate, mixing with the previous pink liquid. The purple balloon shrinks rapidly."
+    },
+    {
+        "second": 5,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MdDtGXvK530/output_frames/sec_5_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[3-5] Immediately following, a left hand holds a purple balloon with a small pointed tip at the top. The balloon has a pair of eyes and a mouth drawn on it. The right hand holds the scissors with pink handles, positioning them at the top of the balloon before cutting it open. Blue liquid from within the purple balloon sprays onto the green plate, mixing with the previous pink liquid. The purple balloon shrinks rapidly."
+    },
+    {
+        "second": 6,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MdDtGXvK530/output_frames/sec_6_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[5-8] Subsequently, a left hand holds an orange balloon with a surprised expression drawn on it, featuring two round eyes and a round mouth. The tip of the balloon has black hair. The right hand, holding the pair of scissors with pink handles, positions them at the top of the balloon and cuts the orange balloon open at the top, followed by another cut at the bottom. Orange liquid from inside the balloon sprays onto the green plate. The deflated orange balloon is then taken away from the left side. The orange liquid mixes with the previous pink and blue liquids, forming a colorful mixture."
+    },
+    {
+        "second": 7,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MdDtGXvK530/output_frames/sec_7_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[5-8] Subsequently, a left hand holds an orange balloon with a surprised expression drawn on it, featuring two round eyes and a round mouth. The tip of the balloon has black hair. The right hand, holding the pair of scissors with pink handles, positions them at the top of the balloon and cuts the orange balloon open at the top, followed by another cut at the bottom. Orange liquid from inside the balloon sprays onto the green plate. The deflated orange balloon is then taken away from the left side. The orange liquid mixes with the previous pink and blue liquids, forming a colorful mixture."
+    },
+    {
+        "second": 8,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MdDtGXvK530/output_frames/sec_8_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[5-8] Subsequently, a left hand holds an orange balloon with a surprised expression drawn on it, featuring two round eyes and a round mouth. The tip of the balloon has black hair. The right hand, holding the pair of scissors with pink handles, positions them at the top of the balloon and cuts the orange balloon open at the top, followed by another cut at the bottom. Orange liquid from inside the balloon sprays onto the green plate. The deflated orange balloon is then taken away from the left side. The orange liquid mixes with the previous pink and blue liquids, forming a colorful mixture."
+    }
+]

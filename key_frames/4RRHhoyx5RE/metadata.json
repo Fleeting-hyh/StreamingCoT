@@ -1,0 +1,107 @@
+[
+    {
+        "second": 0,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4RRHhoyx5RE/output_frames/sec_0_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[0-0] In a room with gray wooden floors and white walls, a boy and a girl stand side by side, facing the camera. The boy is wearing a black short-sleeved T-shirt and black shorts, barefoot. The girl has long brown hair and is wearing a black hoodie and black leggings with white socks. The girl has a smile on her face, with the white caption \"I love you\" displayed above her head. The boy stands expressionless. Above the picture is the white caption \"Nonchalant boy & Overthinker girl\"."
+    },
+    {
+        "second": 1,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4RRHhoyx5RE/output_frames/sec_1_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The girl is dancing, and the white caption \"IIy too\" appears above the boy's head. Then the girl looks at the boy, and the boy imitates the girl's movements."
+    },
+    {
+        "second": 2,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4RRHhoyx5RE/output_frames/sec_2_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The girl is dancing, and the white caption \"IIy too\" appears above the boy's head. Then the girl looks at the boy, and the boy imitates the girl's movements."
+    },
+    {
+        "second": 3,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4RRHhoyx5RE/output_frames/sec_3_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The girl is dancing, and the white caption \"IIy too\" appears above the boy's head. Then the girl looks at the boy, and the boy imitates the girl's movements."
+    },
+    {
+        "second": 4,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4RRHhoyx5RE/output_frames/sec_4_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The girl is dancing, and the white caption \"IIy too\" appears above the boy's head. Then the girl looks at the boy, and the boy imitates the girl's movements."
+    },
+    {
+        "second": 5,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4RRHhoyx5RE/output_frames/sec_5_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[4-7] The captions above their heads disappear, and they look at each other and dance with smiles on their faces."
+    },
+    {
+        "second": 6,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4RRHhoyx5RE/output_frames/sec_6_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[4-7] The captions above their heads disappear, and they look at each other and dance with smiles on their faces."
+    },
+    {
+        "second": 7,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4RRHhoyx5RE/output_frames/sec_7_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[4-7] The captions above their heads disappear, and they look at each other and dance with smiles on their faces."
+    },
+    {
+        "second": 8,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4RRHhoyx5RE/output_frames/sec_8_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[7-10] The white caption \"Wait are you mad at me\" appears above the girl's head. The girl extends her left hand to the boy, and the boy cooperates with the girl by turning his head to the left. They continue to dance with smiles on their faces."
+    },
+    {
+        "second": 9,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4RRHhoyx5RE/output_frames/sec_9_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[7-10] The white caption \"Wait are you mad at me\" appears above the girl's head. The girl extends her left hand to the boy, and the boy cooperates with the girl by turning his head to the left. They continue to dance with smiles on their faces."
+    },
+    {
+        "second": 10,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4RRHhoyx5RE/output_frames/sec_10_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[7-10] The white caption \"Wait are you mad at me\" appears above the girl's head. The girl extends her left hand to the boy, and the boy cooperates with the girl by turning his head to the left. They continue to dance with smiles on their faces."
+    },
+    {
+        "second": 11,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4RRHhoyx5RE/output_frames/sec_11_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[10-15] The white caption \"No why would you think that\" appears above the boy's head. The boy extends his left hand towards the girl, the girl pretends to be angry, crosses her hands over her chest, and then the white caption \"You're mad at me\" and a crying emoji appear above the girl's head. Finally, the girl laughs and swings her arm, and the boy pretends to be knocked away."
+    },
+    {
+        "second": 12,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4RRHhoyx5RE/output_frames/sec_12_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[10-15] The white caption \"No why would you think that\" appears above the boy's head. The boy extends his left hand towards the girl, the girl pretends to be angry, crosses her hands over her chest, and then the white caption \"You're mad at me\" and a crying emoji appear above the girl's head. Finally, the girl laughs and swings her arm, and the boy pretends to be knocked away."
+    },
+    {
+        "second": 13,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4RRHhoyx5RE/output_frames/sec_13_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[10-15] The white caption \"No why would you think that\" appears above the boy's head. The boy extends his left hand towards the girl, the girl pretends to be angry, crosses her hands over her chest, and then the white caption \"You're mad at me\" and a crying emoji appear above the girl's head. Finally, the girl laughs and swings her arm, and the boy pretends to be knocked away."
+    },
+    {
+        "second": 14,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4RRHhoyx5RE/output_frames/sec_14_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[10-15] The white caption \"No why would you think that\" appears above the boy's head. The boy extends his left hand towards the girl, the girl pretends to be angry, crosses her hands over her chest, and then the white caption \"You're mad at me\" and a crying emoji appear above the girl's head. Finally, the girl laughs and swings her arm, and the boy pretends to be knocked away."
+    }
+]

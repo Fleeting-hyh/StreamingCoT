@@ -1,0 +1,233 @@
+[
+    {
+        "second": 0,
+        "frame_index": 46,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Cb4D1qukFPg/output_frames/sec_0_idx_46.jpg",
+        "fps": 50,
+        "explanation": "[0-0] This is a photo of President Modi."
+    },
+    {
+        "second": 1,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Cb4D1qukFPg/output_frames/sec_1_idx_6.jpg",
+        "fps": 50,
+        "explanation": "[0-7] Uniformed Uzbekistan police stand at attention on the tarmac."
+    },
+    {
+        "second": 2,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Cb4D1qukFPg/output_frames/sec_2_idx_9.jpg",
+        "fps": 50,
+        "explanation": "[0-7] Uniformed Uzbekistan police stand at attention on the tarmac."
+    },
+    {
+        "second": 3,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Cb4D1qukFPg/output_frames/sec_3_idx_3.jpg",
+        "fps": 50,
+        "explanation": "[0-7] Uniformed Uzbekistan police stand at attention on the tarmac."
+    },
+    {
+        "second": 4,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Cb4D1qukFPg/output_frames/sec_4_idx_1.jpg",
+        "fps": 50,
+        "explanation": "[0-7] Uniformed Uzbekistan police stand at attention on the tarmac."
+    },
+    {
+        "second": 5,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Cb4D1qukFPg/output_frames/sec_5_idx_2.jpg",
+        "fps": 50,
+        "explanation": "[0-7] Uniformed Uzbekistan police stand at attention on the tarmac."
+    },
+    {
+        "second": 6,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Cb4D1qukFPg/output_frames/sec_6_idx_6.jpg",
+        "fps": 50,
+        "explanation": "[0-7] Uniformed Uzbekistan police stand at attention on the tarmac."
+    },
+    {
+        "second": 7,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Cb4D1qukFPg/output_frames/sec_7_idx_3.jpg",
+        "fps": 50,
+        "explanation": "[0-7] Uniformed Uzbekistan police stand at attention on the tarmac."
+    },
+    {
+        "second": 8,
+        "frame_index": 44,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Cb4D1qukFPg/output_frames/sec_8_idx_44.jpg",
+        "fps": 50,
+        "explanation": "[7-10] Prime Minister Modi appears at the top of the airplane stairs with his hands pressed together in greeting."
+    },
+    {
+        "second": 9,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Cb4D1qukFPg/output_frames/sec_9_idx_27.jpg",
+        "fps": 50,
+        "explanation": "[7-10] Prime Minister Modi appears at the top of the airplane stairs with his hands pressed together in greeting."
+    },
+    {
+        "second": 10,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Cb4D1qukFPg/output_frames/sec_10_idx_0.jpg",
+        "fps": 50,
+        "explanation": "[7-10] Prime Minister Modi appears at the top of the airplane stairs with his hands pressed together in greeting."
+    },
+    {
+        "second": 11,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Cb4D1qukFPg/output_frames/sec_11_idx_9.jpg",
+        "fps": 50,
+        "explanation": "[10-19] Prime Minister Modi shakes hands with Uzbekistani dignitaries at the top of the airplane stairs."
+    },
+    {
+        "second": 12,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Cb4D1qukFPg/output_frames/sec_12_idx_5.jpg",
+        "fps": 50,
+        "explanation": "[10-19] Prime Minister Modi shakes hands with Uzbekistani dignitaries at the top of the airplane stairs."
+    },
+    {
+        "second": 13,
+        "frame_index": 44,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Cb4D1qukFPg/output_frames/sec_13_idx_44.jpg",
+        "fps": 50,
+        "explanation": "[10-19] Prime Minister Modi shakes hands with Uzbekistani dignitaries at the top of the airplane stairs."
+    },
+    {
+        "second": 14,
+        "frame_index": 30,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Cb4D1qukFPg/output_frames/sec_14_idx_30.jpg",
+        "fps": 50,
+        "explanation": "[10-19] Prime Minister Modi shakes hands with Uzbekistani dignitaries at the top of the airplane stairs."
+    },
+    {
+        "second": 15,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Cb4D1qukFPg/output_frames/sec_15_idx_19.jpg",
+        "fps": 50,
+        "explanation": "[10-19] Prime Minister Modi shakes hands with Uzbekistani dignitaries at the top of the airplane stairs."
+    },
+    {
+        "second": 16,
+        "frame_index": 43,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Cb4D1qukFPg/output_frames/sec_16_idx_43.jpg",
+        "fps": 50,
+        "explanation": "[10-19] Prime Minister Modi shakes hands with Uzbekistani dignitaries at the top of the airplane stairs."
+    },
+    {
+        "second": 17,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Cb4D1qukFPg/output_frames/sec_17_idx_7.jpg",
+        "fps": 50,
+        "explanation": "[10-19] Prime Minister Modi shakes hands with Uzbekistani dignitaries at the top of the airplane stairs."
+    },
+    {
+        "second": 18,
+        "frame_index": 33,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Cb4D1qukFPg/output_frames/sec_18_idx_33.jpg",
+        "fps": 50,
+        "explanation": "[10-19] Prime Minister Modi shakes hands with Uzbekistani dignitaries at the top of the airplane stairs."
+    },
+    {
+        "second": 19,
+        "frame_index": 46,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Cb4D1qukFPg/output_frames/sec_19_idx_46.jpg",
+        "fps": 50,
+        "explanation": "[10-19] Prime Minister Modi shakes hands with Uzbekistani dignitaries at the top of the airplane stairs."
+    },
+    {
+        "second": 20,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Cb4D1qukFPg/output_frames/sec_20_idx_2.jpg",
+        "fps": 50,
+        "explanation": "[19-26] Prime Minister Modi walks along a carpet as Uzbekistani military personnel stand at attention on either side of the carpet."
+    },
+    {
+        "second": 21,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Cb4D1qukFPg/output_frames/sec_21_idx_7.jpg",
+        "fps": 50,
+        "explanation": "[19-26] Prime Minister Modi walks along a carpet as Uzbekistani military personnel stand at attention on either side of the carpet."
+    },
+    {
+        "second": 22,
+        "frame_index": 37,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Cb4D1qukFPg/output_frames/sec_22_idx_37.jpg",
+        "fps": 50,
+        "explanation": "[19-26] Prime Minister Modi walks along a carpet as Uzbekistani military personnel stand at attention on either side of the carpet."
+    },
+    {
+        "second": 23,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Cb4D1qukFPg/output_frames/sec_23_idx_12.jpg",
+        "fps": 50,
+        "explanation": "[19-26] Prime Minister Modi walks along a carpet as Uzbekistani military personnel stand at attention on either side of the carpet."
+    },
+    {
+        "second": 24,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Cb4D1qukFPg/output_frames/sec_24_idx_11.jpg",
+        "fps": 50,
+        "explanation": "[19-26] Prime Minister Modi walks along a carpet as Uzbekistani military personnel stand at attention on either side of the carpet."
+    },
+    {
+        "second": 25,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Cb4D1qukFPg/output_frames/sec_25_idx_19.jpg",
+        "fps": 50,
+        "explanation": "[19-26] Prime Minister Modi walks along a carpet as Uzbekistani military personnel stand at attention on either side of the carpet."
+    },
+    {
+        "second": 26,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Cb4D1qukFPg/output_frames/sec_26_idx_1.jpg",
+        "fps": 50,
+        "explanation": "[19-26] Prime Minister Modi walks along a carpet as Uzbekistani military personnel stand at attention on either side of the carpet."
+    },
+    {
+        "second": 27,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Cb4D1qukFPg/output_frames/sec_27_idx_7.jpg",
+        "fps": 50,
+        "explanation": "[26-32] Fireworks explode over city streets with a grassy median."
+    },
+    {
+        "second": 28,
+        "frame_index": 35,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Cb4D1qukFPg/output_frames/sec_28_idx_35.jpg",
+        "fps": 50,
+        "explanation": "[26-32] Fireworks explode over city streets with a grassy median."
+    },
+    {
+        "second": 29,
+        "frame_index": 35,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Cb4D1qukFPg/output_frames/sec_29_idx_35.jpg",
+        "fps": 50,
+        "explanation": "[26-32] Fireworks explode over city streets with a grassy median."
+    },
+    {
+        "second": 30,
+        "frame_index": 30,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Cb4D1qukFPg/output_frames/sec_30_idx_30.jpg",
+        "fps": 50,
+        "explanation": "[26-32] Fireworks explode over city streets with a grassy median."
+    },
+    {
+        "second": 31,
+        "frame_index": 36,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Cb4D1qukFPg/output_frames/sec_31_idx_36.jpg",
+        "fps": 50,
+        "explanation": "[26-32] Fireworks explode over city streets with a grassy median."
+    },
+    {
+        "second": 32,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Cb4D1qukFPg/output_frames/sec_32_idx_14.jpg",
+        "fps": 50,
+        "explanation": "[26-32] Fireworks explode over city streets with a grassy median."
+    }
+]

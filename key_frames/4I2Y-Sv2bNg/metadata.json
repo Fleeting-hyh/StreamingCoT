@@ -1,0 +1,79 @@
+[
+    {
+        "second": 0,
+        "frame_index": 56,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4I2Y-Sv2bNg/output_frames/sec_0_idx_56.jpg",
+        "fps": 60,
+        "explanation": "[0-0] In a room with teal walls, a woman wearing a green top lies on a bed covered with a white blanket. A dark gray pillow rests behind her. She holds a sunflower on her chest and looks at her phone with both hands. A colorful round cushion sits to the right of the bed. The bed is white with a yellow object on the left side of the bed frame. Two white sockets are on the wall, adorned with a yellow-green flower. A white-based painting leans against the wall below, depicting an unfinished flower with a yellow smiling circle in the center. A white ornament with yellow flowers sits in front of the painting. A broom stands to the left. On the grayish-white floor beside the bed, a white power strip and a pile of garbage lie together. Red and yellow wires connect the power strip to the woman's phone."
+    },
+    {
+        "second": 1,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4I2Y-Sv2bNg/output_frames/sec_1_idx_18.jpg",
+        "fps": 60,
+        "explanation": "[0-3] Then, a man wearing a red top and black pants appears from the left, sweeping the floor with a broom. He squats, picks up the white power strip with wires from the garbage, and places it on the yellow object on the left side of the bed. He picks up a pair of scissors with his right hand, cuts the wires on the power strip, and puts down the scissors."
+    },
+    {
+        "second": 2,
+        "frame_index": 59,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4I2Y-Sv2bNg/output_frames/sec_2_idx_59.jpg",
+        "fps": 60,
+        "explanation": "[0-3] Then, a man wearing a red top and black pants appears from the left, sweeping the floor with a broom. He squats, picks up the white power strip with wires from the garbage, and places it on the yellow object on the left side of the bed. He picks up a pair of scissors with his right hand, cuts the wires on the power strip, and puts down the scissors."
+    },
+    {
+        "second": 3,
+        "frame_index": 50,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4I2Y-Sv2bNg/output_frames/sec_3_idx_50.jpg",
+        "fps": 60,
+        "explanation": "[0-3] Then, a man wearing a red top and black pants appears from the left, sweeping the floor with a broom. He squats, picks up the white power strip with wires from the garbage, and places it on the yellow object on the left side of the bed. He picks up a pair of scissors with his right hand, cuts the wires on the power strip, and puts down the scissors."
+    },
+    {
+        "second": 4,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4I2Y-Sv2bNg/output_frames/sec_4_idx_7.jpg",
+        "fps": 60,
+        "explanation": "[3-6] Subsequently, the man stands up and continues bending over to sweep the garbage. Meanwhile, the woman sits up angrily, throwing her phone on the ground, her sunflower falling to the ground as well. The man then extends his left hand to the right, holding some rectangular objects of different colors."
+    },
+    {
+        "second": 5,
+        "frame_index": 48,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4I2Y-Sv2bNg/output_frames/sec_5_idx_48.jpg",
+        "fps": 60,
+        "explanation": "[3-6] Subsequently, the man stands up and continues bending over to sweep the garbage. Meanwhile, the woman sits up angrily, throwing her phone on the ground, her sunflower falling to the ground as well. The man then extends his left hand to the right, holding some rectangular objects of different colors."
+    },
+    {
+        "second": 6,
+        "frame_index": 48,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4I2Y-Sv2bNg/output_frames/sec_6_idx_48.jpg",
+        "fps": 60,
+        "explanation": "[3-6] Subsequently, the man stands up and continues bending over to sweep the garbage. Meanwhile, the woman sits up angrily, throwing her phone on the ground, her sunflower falling to the ground as well. The man then extends his left hand to the right, holding some rectangular objects of different colors."
+    },
+    {
+        "second": 7,
+        "frame_index": 49,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4I2Y-Sv2bNg/output_frames/sec_7_idx_49.jpg",
+        "fps": 60,
+        "explanation": "[6-10] The scene then switches to a tabletop with orange, black, and green rectangular objects. A white flower pot ornament sits on the tabletop, and two yellow-dressed dolls stand to the right. A right hand picks up an orange rectangular object and places it in the left hand. The right hand then moves behind to unpack the rectangular object, which has grooves on both sides. One hand tears off the plastic from the back of the orange rectangular object, and a right hand sticks it to the wall. Then, a right hand holds a white power strip attached to another half of the orange rectangular object and fixes the power strip to the orange rectangular object on the wall."
+    },
+    {
+        "second": 8,
+        "frame_index": 59,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4I2Y-Sv2bNg/output_frames/sec_8_idx_59.jpg",
+        "fps": 60,
+        "explanation": "[6-10] The scene then switches to a tabletop with orange, black, and green rectangular objects. A white flower pot ornament sits on the tabletop, and two yellow-dressed dolls stand to the right. A right hand picks up an orange rectangular object and places it in the left hand. The right hand then moves behind to unpack the rectangular object, which has grooves on both sides. One hand tears off the plastic from the back of the orange rectangular object, and a right hand sticks it to the wall. Then, a right hand holds a white power strip attached to another half of the orange rectangular object and fixes the power strip to the orange rectangular object on the wall."
+    },
+    {
+        "second": 9,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4I2Y-Sv2bNg/output_frames/sec_9_idx_10.jpg",
+        "fps": 60,
+        "explanation": "[6-10] The scene then switches to a tabletop with orange, black, and green rectangular objects. A white flower pot ornament sits on the tabletop, and two yellow-dressed dolls stand to the right. A right hand picks up an orange rectangular object and places it in the left hand. The right hand then moves behind to unpack the rectangular object, which has grooves on both sides. One hand tears off the plastic from the back of the orange rectangular object, and a right hand sticks it to the wall. Then, a right hand holds a white power strip attached to another half of the orange rectangular object and fixes the power strip to the orange rectangular object on the wall."
+    },
+    {
+        "second": 10,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4I2Y-Sv2bNg/output_frames/sec_10_idx_23.jpg",
+        "fps": 60,
+        "explanation": "[6-10] The scene then switches to a tabletop with orange, black, and green rectangular objects. A white flower pot ornament sits on the tabletop, and two yellow-dressed dolls stand to the right. A right hand picks up an orange rectangular object and places it in the left hand. The right hand then moves behind to unpack the rectangular object, which has grooves on both sides. One hand tears off the plastic from the back of the orange rectangular object, and a right hand sticks it to the wall. Then, a right hand holds a white power strip attached to another half of the orange rectangular object and fixes the power strip to the orange rectangular object on the wall."
+    }
+]

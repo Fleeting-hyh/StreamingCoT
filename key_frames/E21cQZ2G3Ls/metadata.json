@@ -1,0 +1,86 @@
+[
+    {
+        "second": 0,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/E21cQZ2G3Ls/output_frames/sec_0_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A stone mortar and pestle is placed on the green grass."
+    },
+    {
+        "second": 1,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/E21cQZ2G3Ls/output_frames/sec_1_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[0-2] A hand lifts the pestle and pours some chocolate with plastic packaging into the mortar."
+    },
+    {
+        "second": 2,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/E21cQZ2G3Ls/output_frames/sec_2_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[0-2] A hand lifts the pestle and pours some chocolate with plastic packaging into the mortar."
+    },
+    {
+        "second": 3,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/E21cQZ2G3Ls/output_frames/sec_3_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[2-5] Then the chocolate packaging in the picture disappears, one hand holds the pestle and starts to pound the chocolate, while the other hand holds the mortar."
+    },
+    {
+        "second": 4,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/E21cQZ2G3Ls/output_frames/sec_4_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[2-5] Then the chocolate packaging in the picture disappears, one hand holds the pestle and starts to pound the chocolate, while the other hand holds the mortar."
+    },
+    {
+        "second": 5,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/E21cQZ2G3Ls/output_frames/sec_5_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[2-5] Then the chocolate packaging in the picture disappears, one hand holds the pestle and starts to pound the chocolate, while the other hand holds the mortar."
+    },
+    {
+        "second": 6,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/E21cQZ2G3Ls/output_frames/sec_6_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[5-11] Then add a piece of white object and continue to pound. Finally, two hands take out the chocolate and roll it into a ball. The picture switches, a man in black clothes picks up the chocolate ball, takes a bite, and gives a thumbs up."
+    },
+    {
+        "second": 7,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/E21cQZ2G3Ls/output_frames/sec_7_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[5-11] Then add a piece of white object and continue to pound. Finally, two hands take out the chocolate and roll it into a ball. The picture switches, a man in black clothes picks up the chocolate ball, takes a bite, and gives a thumbs up."
+    },
+    {
+        "second": 8,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/E21cQZ2G3Ls/output_frames/sec_8_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[5-11] Then add a piece of white object and continue to pound. Finally, two hands take out the chocolate and roll it into a ball. The picture switches, a man in black clothes picks up the chocolate ball, takes a bite, and gives a thumbs up."
+    },
+    {
+        "second": 9,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/E21cQZ2G3Ls/output_frames/sec_9_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[5-11] Then add a piece of white object and continue to pound. Finally, two hands take out the chocolate and roll it into a ball. The picture switches, a man in black clothes picks up the chocolate ball, takes a bite, and gives a thumbs up."
+    },
+    {
+        "second": 10,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/E21cQZ2G3Ls/output_frames/sec_10_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[5-11] Then add a piece of white object and continue to pound. Finally, two hands take out the chocolate and roll it into a ball. The picture switches, a man in black clothes picks up the chocolate ball, takes a bite, and gives a thumbs up."
+    },
+    {
+        "second": 11,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/E21cQZ2G3Ls/output_frames/sec_11_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[5-11] Then add a piece of white object and continue to pound. Finally, two hands take out the chocolate and roll it into a ball. The picture switches, a man in black clothes picks up the chocolate ball, takes a bite, and gives a thumbs up."
+    }
+]

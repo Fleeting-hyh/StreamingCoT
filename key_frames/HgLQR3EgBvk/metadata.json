@@ -1,0 +1,282 @@
+[
+    {
+        "second": 0,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HgLQR3EgBvk/output_frames/sec_0_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[0-0] On a bare hillside, a man in a red shirt and blue jeans stands with his arms raised, looking down at a soccer ball to his right. Beneath his feet is withered yellow grass. In the distance, patches of thin ice and puddles are visible, with green trees further away. The sky is gray with large, dark clouds."
+    },
+    {
+        "second": 1,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HgLQR3EgBvk/output_frames/sec_1_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-5] The man in the red shirt starts juggling the soccer ball with his feet. The ball rolls down the slope to the left, and the man in the red shirt frantically chases after it. At this moment, a man in black clothing runs in from the right side of the frame, swiftly chasing the ball. He stumbles and falls down the slope but gets up and continues to pursue the ball. The man in the red shirt struggles to climb up the slope."
+    },
+    {
+        "second": 2,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HgLQR3EgBvk/output_frames/sec_2_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-5] The man in the red shirt starts juggling the soccer ball with his feet. The ball rolls down the slope to the left, and the man in the red shirt frantically chases after it. At this moment, a man in black clothing runs in from the right side of the frame, swiftly chasing the ball. He stumbles and falls down the slope but gets up and continues to pursue the ball. The man in the red shirt struggles to climb up the slope."
+    },
+    {
+        "second": 3,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HgLQR3EgBvk/output_frames/sec_3_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[0-5] The man in the red shirt starts juggling the soccer ball with his feet. The ball rolls down the slope to the left, and the man in the red shirt frantically chases after it. At this moment, a man in black clothing runs in from the right side of the frame, swiftly chasing the ball. He stumbles and falls down the slope but gets up and continues to pursue the ball. The man in the red shirt struggles to climb up the slope."
+    },
+    {
+        "second": 4,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HgLQR3EgBvk/output_frames/sec_4_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[0-5] The man in the red shirt starts juggling the soccer ball with his feet. The ball rolls down the slope to the left, and the man in the red shirt frantically chases after it. At this moment, a man in black clothing runs in from the right side of the frame, swiftly chasing the ball. He stumbles and falls down the slope but gets up and continues to pursue the ball. The man in the red shirt struggles to climb up the slope."
+    },
+    {
+        "second": 5,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HgLQR3EgBvk/output_frames/sec_5_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[0-5] The man in the red shirt starts juggling the soccer ball with his feet. The ball rolls down the slope to the left, and the man in the red shirt frantically chases after it. At this moment, a man in black clothing runs in from the right side of the frame, swiftly chasing the ball. He stumbles and falls down the slope but gets up and continues to pursue the ball. The man in the red shirt struggles to climb up the slope."
+    },
+    {
+        "second": 6,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HgLQR3EgBvk/output_frames/sec_6_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[5-11] The scene switches to a street. A man in a gray shirt and black pants is running forward. There is a puddle on the street ahead of him. He swings his arms and falls forward. At the same time, a man in black clothing and a white hat appears from the right, carrying a gray mat. He places the mat in front of the man in the gray shirt. The man in the gray shirt falls onto the mat and gets up. The man in black clothing picks up the mat and walks to the right. Snow and leafless trees can be seen in the background, along with some buildings."
+    },
+    {
+        "second": 7,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HgLQR3EgBvk/output_frames/sec_7_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[5-11] The scene switches to a street. A man in a gray shirt and black pants is running forward. There is a puddle on the street ahead of him. He swings his arms and falls forward. At the same time, a man in black clothing and a white hat appears from the right, carrying a gray mat. He places the mat in front of the man in the gray shirt. The man in the gray shirt falls onto the mat and gets up. The man in black clothing picks up the mat and walks to the right. Snow and leafless trees can be seen in the background, along with some buildings."
+    },
+    {
+        "second": 8,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HgLQR3EgBvk/output_frames/sec_8_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[5-11] The scene switches to a street. A man in a gray shirt and black pants is running forward. There is a puddle on the street ahead of him. He swings his arms and falls forward. At the same time, a man in black clothing and a white hat appears from the right, carrying a gray mat. He places the mat in front of the man in the gray shirt. The man in the gray shirt falls onto the mat and gets up. The man in black clothing picks up the mat and walks to the right. Snow and leafless trees can be seen in the background, along with some buildings."
+    },
+    {
+        "second": 9,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HgLQR3EgBvk/output_frames/sec_9_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[5-11] The scene switches to a street. A man in a gray shirt and black pants is running forward. There is a puddle on the street ahead of him. He swings his arms and falls forward. At the same time, a man in black clothing and a white hat appears from the right, carrying a gray mat. He places the mat in front of the man in the gray shirt. The man in the gray shirt falls onto the mat and gets up. The man in black clothing picks up the mat and walks to the right. Snow and leafless trees can be seen in the background, along with some buildings."
+    },
+    {
+        "second": 10,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HgLQR3EgBvk/output_frames/sec_10_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[5-11] The scene switches to a street. A man in a gray shirt and black pants is running forward. There is a puddle on the street ahead of him. He swings his arms and falls forward. At the same time, a man in black clothing and a white hat appears from the right, carrying a gray mat. He places the mat in front of the man in the gray shirt. The man in the gray shirt falls onto the mat and gets up. The man in black clothing picks up the mat and walks to the right. Snow and leafless trees can be seen in the background, along with some buildings."
+    },
+    {
+        "second": 11,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HgLQR3EgBvk/output_frames/sec_11_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[5-11] The scene switches to a street. A man in a gray shirt and black pants is running forward. There is a puddle on the street ahead of him. He swings his arms and falls forward. At the same time, a man in black clothing and a white hat appears from the right, carrying a gray mat. He places the mat in front of the man in the gray shirt. The man in the gray shirt falls onto the mat and gets up. The man in black clothing picks up the mat and walks to the right. Snow and leafless trees can be seen in the background, along with some buildings."
+    },
+    {
+        "second": 12,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HgLQR3EgBvk/output_frames/sec_12_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[11-17] The scene changes. A man in black clothing and a white hat is walking down the road, holding a glass of water in his right hand. He suddenly leans forward, spilling the water from the glass. He looks annoyed. At this moment, a man in a red shirt and blue jeans walks out from the left. He is holding a kettle and approaches the man with the white hat, pouring water into his glass. He then continues walking forward. The man with the white hat looks at the glass in surprise. Behind him are some red and white buildings and streetlights. To the right is a grassy area covered in snow."
+    },
+    {
+        "second": 13,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HgLQR3EgBvk/output_frames/sec_13_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[11-17] The scene changes. A man in black clothing and a white hat is walking down the road, holding a glass of water in his right hand. He suddenly leans forward, spilling the water from the glass. He looks annoyed. At this moment, a man in a red shirt and blue jeans walks out from the left. He is holding a kettle and approaches the man with the white hat, pouring water into his glass. He then continues walking forward. The man with the white hat looks at the glass in surprise. Behind him are some red and white buildings and streetlights. To the right is a grassy area covered in snow."
+    },
+    {
+        "second": 14,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HgLQR3EgBvk/output_frames/sec_14_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[11-17] The scene changes. A man in black clothing and a white hat is walking down the road, holding a glass of water in his right hand. He suddenly leans forward, spilling the water from the glass. He looks annoyed. At this moment, a man in a red shirt and blue jeans walks out from the left. He is holding a kettle and approaches the man with the white hat, pouring water into his glass. He then continues walking forward. The man with the white hat looks at the glass in surprise. Behind him are some red and white buildings and streetlights. To the right is a grassy area covered in snow."
+    },
+    {
+        "second": 15,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HgLQR3EgBvk/output_frames/sec_15_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[11-17] The scene changes. A man in black clothing and a white hat is walking down the road, holding a glass of water in his right hand. He suddenly leans forward, spilling the water from the glass. He looks annoyed. At this moment, a man in a red shirt and blue jeans walks out from the left. He is holding a kettle and approaches the man with the white hat, pouring water into his glass. He then continues walking forward. The man with the white hat looks at the glass in surprise. Behind him are some red and white buildings and streetlights. To the right is a grassy area covered in snow."
+    },
+    {
+        "second": 16,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HgLQR3EgBvk/output_frames/sec_16_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[11-17] The scene changes. A man in black clothing and a white hat is walking down the road, holding a glass of water in his right hand. He suddenly leans forward, spilling the water from the glass. He looks annoyed. At this moment, a man in a red shirt and blue jeans walks out from the left. He is holding a kettle and approaches the man with the white hat, pouring water into his glass. He then continues walking forward. The man with the white hat looks at the glass in surprise. Behind him are some red and white buildings and streetlights. To the right is a grassy area covered in snow."
+    },
+    {
+        "second": 17,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HgLQR3EgBvk/output_frames/sec_17_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[11-17] The scene changes. A man in black clothing and a white hat is walking down the road, holding a glass of water in his right hand. He suddenly leans forward, spilling the water from the glass. He looks annoyed. At this moment, a man in a red shirt and blue jeans walks out from the left. He is holding a kettle and approaches the man with the white hat, pouring water into his glass. He then continues walking forward. The man with the white hat looks at the glass in surprise. Behind him are some red and white buildings and streetlights. To the right is a grassy area covered in snow."
+    },
+    {
+        "second": 18,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HgLQR3EgBvk/output_frames/sec_18_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[17-23] The scene switches again to a lakeside. A man in black clothing and a white hat is standing on the steps by the lake. He turns to his right and leans backward. He swings his arms constantly to keep his balance. At this moment, a man in a red shirt and blue jeans runs out from the right, grabs the clothes of the man in the white hat, and pulls him down from the steps. He then runs to the left. The man in the white hat looks to the left in surprise. In the distance is the green lake water. The red ground is covered in snow, and further away are some buildings."
+    },
+    {
+        "second": 19,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HgLQR3EgBvk/output_frames/sec_19_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[17-23] The scene switches again to a lakeside. A man in black clothing and a white hat is standing on the steps by the lake. He turns to his right and leans backward. He swings his arms constantly to keep his balance. At this moment, a man in a red shirt and blue jeans runs out from the right, grabs the clothes of the man in the white hat, and pulls him down from the steps. He then runs to the left. The man in the white hat looks to the left in surprise. In the distance is the green lake water. The red ground is covered in snow, and further away are some buildings."
+    },
+    {
+        "second": 20,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HgLQR3EgBvk/output_frames/sec_20_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[17-23] The scene switches again to a lakeside. A man in black clothing and a white hat is standing on the steps by the lake. He turns to his right and leans backward. He swings his arms constantly to keep his balance. At this moment, a man in a red shirt and blue jeans runs out from the right, grabs the clothes of the man in the white hat, and pulls him down from the steps. He then runs to the left. The man in the white hat looks to the left in surprise. In the distance is the green lake water. The red ground is covered in snow, and further away are some buildings."
+    },
+    {
+        "second": 21,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HgLQR3EgBvk/output_frames/sec_21_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[17-23] The scene switches again to a lakeside. A man in black clothing and a white hat is standing on the steps by the lake. He turns to his right and leans backward. He swings his arms constantly to keep his balance. At this moment, a man in a red shirt and blue jeans runs out from the right, grabs the clothes of the man in the white hat, and pulls him down from the steps. He then runs to the left. The man in the white hat looks to the left in surprise. In the distance is the green lake water. The red ground is covered in snow, and further away are some buildings."
+    },
+    {
+        "second": 22,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HgLQR3EgBvk/output_frames/sec_22_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[17-23] The scene switches again to a lakeside. A man in black clothing and a white hat is standing on the steps by the lake. He turns to his right and leans backward. He swings his arms constantly to keep his balance. At this moment, a man in a red shirt and blue jeans runs out from the right, grabs the clothes of the man in the white hat, and pulls him down from the steps. He then runs to the left. The man in the white hat looks to the left in surprise. In the distance is the green lake water. The red ground is covered in snow, and further away are some buildings."
+    },
+    {
+        "second": 23,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HgLQR3EgBvk/output_frames/sec_23_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[17-23] The scene switches again to a lakeside. A man in black clothing and a white hat is standing on the steps by the lake. He turns to his right and leans backward. He swings his arms constantly to keep his balance. At this moment, a man in a red shirt and blue jeans runs out from the right, grabs the clothes of the man in the white hat, and pulls him down from the steps. He then runs to the left. The man in the white hat looks to the left in surprise. In the distance is the green lake water. The red ground is covered in snow, and further away are some buildings."
+    },
+    {
+        "second": 24,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HgLQR3EgBvk/output_frames/sec_24_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[23-27] The scene continues to change. A man in black clothing is walking on a path covered in yellow withered grass, holding a water bottle. He drinks from the bottle as he walks. He then closes the bottle. Suddenly, two legs appear from above, with another water bottle clamped between the feet. The man in black clothing looks up, takes the water bottle, and continues walking forward. Behind him are leafless trees."
+    },
+    {
+        "second": 25,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HgLQR3EgBvk/output_frames/sec_25_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[23-27] The scene continues to change. A man in black clothing is walking on a path covered in yellow withered grass, holding a water bottle. He drinks from the bottle as he walks. He then closes the bottle. Suddenly, two legs appear from above, with another water bottle clamped between the feet. The man in black clothing looks up, takes the water bottle, and continues walking forward. Behind him are leafless trees."
+    },
+    {
+        "second": 26,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HgLQR3EgBvk/output_frames/sec_26_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[23-27] The scene continues to change. A man in black clothing is walking on a path covered in yellow withered grass, holding a water bottle. He drinks from the bottle as he walks. He then closes the bottle. Suddenly, two legs appear from above, with another water bottle clamped between the feet. The man in black clothing looks up, takes the water bottle, and continues walking forward. Behind him are leafless trees."
+    },
+    {
+        "second": 27,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HgLQR3EgBvk/output_frames/sec_27_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[23-27] The scene continues to change. A man in black clothing is walking on a path covered in yellow withered grass, holding a water bottle. He drinks from the bottle as he walks. He then closes the bottle. Suddenly, two legs appear from above, with another water bottle clamped between the feet. The man in black clothing looks up, takes the water bottle, and continues walking forward. Behind him are leafless trees."
+    },
+    {
+        "second": 28,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HgLQR3EgBvk/output_frames/sec_28_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[27-32] The scene changes again to a street. A man in black clothing is walking forward and takes off his hat, preparing to put it on. Suddenly, the hat falls backward. The man in black clothing turns around in surprise. At the same time, an arm reaches out from the right, catches the hat, and hands it back to the man in black clothing. On the right are red and white buildings. There are streetlights ahead. On the left are some parked vehicles and a row of beige buildings."
+    },
+    {
+        "second": 29,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HgLQR3EgBvk/output_frames/sec_29_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[27-32] The scene changes again to a street. A man in black clothing is walking forward and takes off his hat, preparing to put it on. Suddenly, the hat falls backward. The man in black clothing turns around in surprise. At the same time, an arm reaches out from the right, catches the hat, and hands it back to the man in black clothing. On the right are red and white buildings. There are streetlights ahead. On the left are some parked vehicles and a row of beige buildings."
+    },
+    {
+        "second": 30,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HgLQR3EgBvk/output_frames/sec_30_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[27-32] The scene changes again to a street. A man in black clothing is walking forward and takes off his hat, preparing to put it on. Suddenly, the hat falls backward. The man in black clothing turns around in surprise. At the same time, an arm reaches out from the right, catches the hat, and hands it back to the man in black clothing. On the right are red and white buildings. There are streetlights ahead. On the left are some parked vehicles and a row of beige buildings."
+    },
+    {
+        "second": 31,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HgLQR3EgBvk/output_frames/sec_31_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[27-32] The scene changes again to a street. A man in black clothing is walking forward and takes off his hat, preparing to put it on. Suddenly, the hat falls backward. The man in black clothing turns around in surprise. At the same time, an arm reaches out from the right, catches the hat, and hands it back to the man in black clothing. On the right are red and white buildings. There are streetlights ahead. On the left are some parked vehicles and a row of beige buildings."
+    },
+    {
+        "second": 32,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HgLQR3EgBvk/output_frames/sec_32_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[27-32] The scene changes again to a street. A man in black clothing is walking forward and takes off his hat, preparing to put it on. Suddenly, the hat falls backward. The man in black clothing turns around in surprise. At the same time, an arm reaches out from the right, catches the hat, and hands it back to the man in black clothing. On the right are red and white buildings. There are streetlights ahead. On the left are some parked vehicles and a row of beige buildings."
+    },
+    {
+        "second": 33,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HgLQR3EgBvk/output_frames/sec_33_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[32-39] The scene changes again. A man in a gray T-shirt and jeans is sitting on a brown sofa, reading a book. Suddenly, the book falls from his hand. The man in the gray T-shirt looks down. At the same time, two hands reach up from under the sofa and catch the book. After handing the book back to the man in the gray T-shirt, the hands disappear under the sofa. The man in the gray T-shirt shakes his head in confusion and continues reading. Behind him, the room has beige walls. There is a picture frame hanging on the right and a door on the left."
+    },
+    {
+        "second": 34,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HgLQR3EgBvk/output_frames/sec_34_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[32-39] The scene changes again. A man in a gray T-shirt and jeans is sitting on a brown sofa, reading a book. Suddenly, the book falls from his hand. The man in the gray T-shirt looks down. At the same time, two hands reach up from under the sofa and catch the book. After handing the book back to the man in the gray T-shirt, the hands disappear under the sofa. The man in the gray T-shirt shakes his head in confusion and continues reading. Behind him, the room has beige walls. There is a picture frame hanging on the right and a door on the left."
+    },
+    {
+        "second": 35,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HgLQR3EgBvk/output_frames/sec_35_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[32-39] The scene changes again. A man in a gray T-shirt and jeans is sitting on a brown sofa, reading a book. Suddenly, the book falls from his hand. The man in the gray T-shirt looks down. At the same time, two hands reach up from under the sofa and catch the book. After handing the book back to the man in the gray T-shirt, the hands disappear under the sofa. The man in the gray T-shirt shakes his head in confusion and continues reading. Behind him, the room has beige walls. There is a picture frame hanging on the right and a door on the left."
+    },
+    {
+        "second": 36,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HgLQR3EgBvk/output_frames/sec_36_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[32-39] The scene changes again. A man in a gray T-shirt and jeans is sitting on a brown sofa, reading a book. Suddenly, the book falls from his hand. The man in the gray T-shirt looks down. At the same time, two hands reach up from under the sofa and catch the book. After handing the book back to the man in the gray T-shirt, the hands disappear under the sofa. The man in the gray T-shirt shakes his head in confusion and continues reading. Behind him, the room has beige walls. There is a picture frame hanging on the right and a door on the left."
+    },
+    {
+        "second": 37,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HgLQR3EgBvk/output_frames/sec_37_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[32-39] The scene changes again. A man in a gray T-shirt and jeans is sitting on a brown sofa, reading a book. Suddenly, the book falls from his hand. The man in the gray T-shirt looks down. At the same time, two hands reach up from under the sofa and catch the book. After handing the book back to the man in the gray T-shirt, the hands disappear under the sofa. The man in the gray T-shirt shakes his head in confusion and continues reading. Behind him, the room has beige walls. There is a picture frame hanging on the right and a door on the left."
+    },
+    {
+        "second": 38,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HgLQR3EgBvk/output_frames/sec_38_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[32-39] The scene changes again. A man in a gray T-shirt and jeans is sitting on a brown sofa, reading a book. Suddenly, the book falls from his hand. The man in the gray T-shirt looks down. At the same time, two hands reach up from under the sofa and catch the book. After handing the book back to the man in the gray T-shirt, the hands disappear under the sofa. The man in the gray T-shirt shakes his head in confusion and continues reading. Behind him, the room has beige walls. There is a picture frame hanging on the right and a door on the left."
+    },
+    {
+        "second": 39,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HgLQR3EgBvk/output_frames/sec_39_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[32-39] The scene changes again. A man in a gray T-shirt and jeans is sitting on a brown sofa, reading a book. Suddenly, the book falls from his hand. The man in the gray T-shirt looks down. At the same time, two hands reach up from under the sofa and catch the book. After handing the book back to the man in the gray T-shirt, the hands disappear under the sofa. The man in the gray T-shirt shakes his head in confusion and continues reading. Behind him, the room has beige walls. There is a picture frame hanging on the right and a door on the left."
+    }
+]

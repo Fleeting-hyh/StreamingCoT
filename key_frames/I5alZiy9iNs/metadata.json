@@ -1,0 +1,37 @@
+[
+    {
+        "second": 0,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/I5alZiy9iNs/output_frames/sec_0_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A left hand with its palm facing forward is shown. There's a light brown worm in the palm, and some green objects and other things are piled below."
+    },
+    {
+        "second": 1,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/I5alZiy9iNs/output_frames/sec_1_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Then the light brown worm continues crawling towards the left side of the palm."
+    },
+    {
+        "second": 2,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/I5alZiy9iNs/output_frames/sec_2_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Then the light brown worm continues crawling towards the left side of the palm."
+    },
+    {
+        "second": 3,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/I5alZiy9iNs/output_frames/sec_3_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[2-4] Immediately, the scene changes to a black millipede with many tiny yellow legs crawling towards the left of the palm. It continues crawling until half of its body is hanging off the left side, with the other half still on the palm."
+    },
+    {
+        "second": 4,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/I5alZiy9iNs/output_frames/sec_4_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[2-4] Immediately, the scene changes to a black millipede with many tiny yellow legs crawling towards the left of the palm. It continues crawling until half of its body is hanging off the left side, with the other half still on the palm."
+    }
+]

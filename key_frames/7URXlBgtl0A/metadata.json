@@ -1,0 +1,170 @@
+[
+    {
+        "second": 0,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7URXlBgtl0A/output_frames/sec_0_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A young man in a red T-shirt is sitting in the back seat of a car holding a bag of marshmallows. He opens his mouth wide, seemingly happy. Through the car window, trees can be seen outside. At the top of the screen, there is white text on a blue background: \"When your parents keepputting their hand out for food in the car\"."
+    },
+    {
+        "second": 1,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7URXlBgtl0A/output_frames/sec_1_idx_24.jpg",
+        "fps": 30,
+        "explanation": "[0-2] The man in red takes out a marshmallow. The scene suddenly switches to a man with glasses sitting in the car. He is wearing a blue headscarf and opens his mouth with his right arm moving backward."
+    },
+    {
+        "second": 2,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7URXlBgtl0A/output_frames/sec_2_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[0-2] The man in red takes out a marshmallow. The scene suddenly switches to a man with glasses sitting in the car. He is wearing a blue headscarf and opens his mouth with his right arm moving backward."
+    },
+    {
+        "second": 3,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7URXlBgtl0A/output_frames/sec_3_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[2-4] The scene cuts back to the man in red sitting in the car. He laughs and is about to put the marshmallow into his mouth when his smile freezes and he hands the marshmallow out."
+    },
+    {
+        "second": 4,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7URXlBgtl0A/output_frames/sec_4_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[2-4] The scene cuts back to the man in red sitting in the car. He laughs and is about to put the marshmallow into his mouth when his smile freezes and he hands the marshmallow out."
+    },
+    {
+        "second": 5,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7URXlBgtl0A/output_frames/sec_5_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[4-7] The scene then switches to the man with glasses, who takes the marshmallow and chews it in his mouth."
+    },
+    {
+        "second": 6,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7URXlBgtl0A/output_frames/sec_6_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[4-7] The scene then switches to the man with glasses, who takes the marshmallow and chews it in his mouth."
+    },
+    {
+        "second": 7,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7URXlBgtl0A/output_frames/sec_7_idx_24.jpg",
+        "fps": 30,
+        "explanation": "[4-7] The scene then switches to the man with glasses, who takes the marshmallow and chews it in his mouth."
+    },
+    {
+        "second": 8,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7URXlBgtl0A/output_frames/sec_8_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[7-11] The scene switches back to the man in red, who laughs again and takes out another marshmallow. The man with glasses puts his hand to his mouth and then reaches back."
+    },
+    {
+        "second": 9,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7URXlBgtl0A/output_frames/sec_9_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[7-11] The scene switches back to the man in red, who laughs again and takes out another marshmallow. The man with glasses puts his hand to his mouth and then reaches back."
+    },
+    {
+        "second": 10,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7URXlBgtl0A/output_frames/sec_10_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[7-11] The scene switches back to the man in red, who laughs again and takes out another marshmallow. The man with glasses puts his hand to his mouth and then reaches back."
+    },
+    {
+        "second": 11,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7URXlBgtl0A/output_frames/sec_11_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[7-11] The scene switches back to the man in red, who laughs again and takes out another marshmallow. The man with glasses puts his hand to his mouth and then reaches back."
+    },
+    {
+        "second": 12,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7URXlBgtl0A/output_frames/sec_12_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[11-16] The man in red then stretches his hand to the left. There is another man in a blue T-shirt sitting in the car. He is holding a tissue in his hand, puts it to his mouth and sneezes, then hands the tissue out. The man in red laughs and takes the tissue and hands it forward."
+    },
+    {
+        "second": 13,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7URXlBgtl0A/output_frames/sec_13_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[11-16] The man in red then stretches his hand to the left. There is another man in a blue T-shirt sitting in the car. He is holding a tissue in his hand, puts it to his mouth and sneezes, then hands the tissue out. The man in red laughs and takes the tissue and hands it forward."
+    },
+    {
+        "second": 14,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7URXlBgtl0A/output_frames/sec_14_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[11-16] The man in red then stretches his hand to the left. There is another man in a blue T-shirt sitting in the car. He is holding a tissue in his hand, puts it to his mouth and sneezes, then hands the tissue out. The man in red laughs and takes the tissue and hands it forward."
+    },
+    {
+        "second": 15,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7URXlBgtl0A/output_frames/sec_15_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[11-16] The man in red then stretches his hand to the left. There is another man in a blue T-shirt sitting in the car. He is holding a tissue in his hand, puts it to his mouth and sneezes, then hands the tissue out. The man in red laughs and takes the tissue and hands it forward."
+    },
+    {
+        "second": 16,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7URXlBgtl0A/output_frames/sec_16_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[11-16] The man in red then stretches his hand to the left. There is another man in a blue T-shirt sitting in the car. He is holding a tissue in his hand, puts it to his mouth and sneezes, then hands the tissue out. The man in red laughs and takes the tissue and hands it forward."
+    },
+    {
+        "second": 17,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7URXlBgtl0A/output_frames/sec_17_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[16-20] The man with glasses takes the tissue and chews it in his mouth, then takes out the tissue with a painful expression and opens his mouth to speak."
+    },
+    {
+        "second": 18,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7URXlBgtl0A/output_frames/sec_18_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[16-20] The man with glasses takes the tissue and chews it in his mouth, then takes out the tissue with a painful expression and opens his mouth to speak."
+    },
+    {
+        "second": 19,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7URXlBgtl0A/output_frames/sec_19_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[16-20] The man with glasses takes the tissue and chews it in his mouth, then takes out the tissue with a painful expression and opens his mouth to speak."
+    },
+    {
+        "second": 20,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7URXlBgtl0A/output_frames/sec_20_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[16-20] The man with glasses takes the tissue and chews it in his mouth, then takes out the tissue with a painful expression and opens his mouth to speak."
+    },
+    {
+        "second": 21,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7URXlBgtl0A/output_frames/sec_21_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[20-24] Finally, the scene switches back to the man in red, who raises his right hand and points forward with a big laugh."
+    },
+    {
+        "second": 22,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7URXlBgtl0A/output_frames/sec_22_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[20-24] Finally, the scene switches back to the man in red, who raises his right hand and points forward with a big laugh."
+    },
+    {
+        "second": 23,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7URXlBgtl0A/output_frames/sec_23_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[20-24] Finally, the scene switches back to the man in red, who raises his right hand and points forward with a big laugh."
+    }
+]

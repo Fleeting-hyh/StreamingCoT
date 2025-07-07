@@ -1,0 +1,44 @@
+[
+    {
+        "second": 0,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/OwhuWCd6Id0/output_frames/sec_0_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A woman in an orange swimsuit is squatting on the right edge of a giant toilet bowl filled with water."
+    },
+    {
+        "second": 1,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/OwhuWCd6Id0/output_frames/sec_1_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Then she stretches out her arms, puts her hands on the edge of the toilet bowl, and jumps into the toilet. The water splashes out, and the woman is completely submerged. She keeps smiling."
+    },
+    {
+        "second": 2,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/OwhuWCd6Id0/output_frames/sec_2_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Then she stretches out her arms, puts her hands on the edge of the toilet bowl, and jumps into the toilet. The water splashes out, and the woman is completely submerged. She keeps smiling."
+    },
+    {
+        "second": 3,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/OwhuWCd6Id0/output_frames/sec_3_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Then she stretches out her arms, puts her hands on the edge of the toilet bowl, and jumps into the toilet. The water splashes out, and the woman is completely submerged. She keeps smiling."
+    },
+    {
+        "second": 4,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/OwhuWCd6Id0/output_frames/sec_4_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Then she stretches out her arms, puts her hands on the edge of the toilet bowl, and jumps into the toilet. The water splashes out, and the woman is completely submerged. She keeps smiling."
+    },
+    {
+        "second": 5,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/OwhuWCd6Id0/output_frames/sec_5_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Then she stretches out her arms, puts her hands on the edge of the toilet bowl, and jumps into the toilet. The water splashes out, and the woman is completely submerged. She keeps smiling."
+    }
+]

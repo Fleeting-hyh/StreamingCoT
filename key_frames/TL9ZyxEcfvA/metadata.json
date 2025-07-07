@@ -1,0 +1,65 @@
+[
+    {
+        "second": 0,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TL9ZyxEcfvA/output_frames/sec_0_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A young woman in a red kimono stands in an open space in front of a tall building, holding a water bottle in both hands, eyes closed, mouth wide open, smiling. To her left stands a man in a blue kimono, his eyes looking at the woman, his mouth slightly open. Behind them is a backdrop of modern buildings and some greenery."
+    },
+    {
+        "second": 1,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TL9ZyxEcfvA/output_frames/sec_1_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Then, the woman in the red kimono, holding the water bottle in both hands, sings, looking straight ahead."
+    },
+    {
+        "second": 2,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TL9ZyxEcfvA/output_frames/sec_2_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Then, the woman in the red kimono, holding the water bottle in both hands, sings, looking straight ahead."
+    },
+    {
+        "second": 3,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TL9ZyxEcfvA/output_frames/sec_3_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Then, the woman in the red kimono, holding the water bottle in both hands, sings, looking straight ahead."
+    },
+    {
+        "second": 4,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TL9ZyxEcfvA/output_frames/sec_4_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[3-5] Next, the woman moves the water bottle in front of the man on the left. The man opens his mouth, looks at the water bottle in the woman's hand, and then starts to sing."
+    },
+    {
+        "second": 5,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TL9ZyxEcfvA/output_frames/sec_5_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[3-5] Next, the woman moves the water bottle in front of the man on the left. The man opens his mouth, looks at the water bottle in the woman's hand, and then starts to sing."
+    },
+    {
+        "second": 6,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TL9ZyxEcfvA/output_frames/sec_6_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[5-8] Subsequently, the woman in the red kimono suddenly splashes the water from the bottle onto the man. Caught off guard, the man is splashed in the face with water and has a surprised expression. Then they both laugh happily, and then the man opens the collar of his shirt with both hands."
+    },
+    {
+        "second": 7,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TL9ZyxEcfvA/output_frames/sec_7_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[5-8] Subsequently, the woman in the red kimono suddenly splashes the water from the bottle onto the man. Caught off guard, the man is splashed in the face with water and has a surprised expression. Then they both laugh happily, and then the man opens the collar of his shirt with both hands."
+    },
+    {
+        "second": 8,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TL9ZyxEcfvA/output_frames/sec_8_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[5-8] Subsequently, the woman in the red kimono suddenly splashes the water from the bottle onto the man. Caught off guard, the man is splashed in the face with water and has a surprised expression. Then they both laugh happily, and then the man opens the collar of his shirt with both hands."
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "second": 0,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GkqWKEmmH4A/output_frames/sec_0_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A group of women are standing in an auditorium, facing left. The ceiling is gray with blue stripes, and blue and white cloths are hanging on the left side. Light shines into the auditorium from the left."
+    },
+    {
+        "second": 1,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GkqWKEmmH4A/output_frames/sec_1_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[0-2] The women excitedly blow kisses to the left. The camera moves to the left, where a man with curly hair wearing a white shirt and yellow pants is dancing on a stage with a red carpet, swaying his body and waving his arms."
+    },
+    {
+        "second": 2,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GkqWKEmmH4A/output_frames/sec_2_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[0-2] The women excitedly blow kisses to the left. The camera moves to the left, where a man with curly hair wearing a white shirt and yellow pants is dancing on a stage with a red carpet, swaying his body and waving his arms."
+    },
+    {
+        "second": 3,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GkqWKEmmH4A/output_frames/sec_3_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[2-4] The camera cuts back to the group of women, who are excitedly waving their arms and dancing."
+    },
+    {
+        "second": 4,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GkqWKEmmH4A/output_frames/sec_4_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[2-4] The camera cuts back to the group of women, who are excitedly waving their arms and dancing."
+    },
+    {
+        "second": 5,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GkqWKEmmH4A/output_frames/sec_5_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[4-7] The man in the white shirt shakes his body and smiles, pointing at the crowd with alternating hands. The women below the stage sway their bodies, wave their arms, and dance happily."
+    },
+    {
+        "second": 6,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GkqWKEmmH4A/output_frames/sec_6_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[4-7] The man in the white shirt shakes his body and smiles, pointing at the crowd with alternating hands. The women below the stage sway their bodies, wave their arms, and dance happily."
+    },
+    {
+        "second": 7,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GkqWKEmmH4A/output_frames/sec_7_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[4-7] The man in the white shirt shakes his body and smiles, pointing at the crowd with alternating hands. The women below the stage sway their bodies, wave their arms, and dance happily."
+    }
+]

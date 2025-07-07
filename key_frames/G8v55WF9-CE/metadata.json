@@ -1,0 +1,44 @@
+[
+    {
+        "second": 0,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/G8v55WF9-CE/output_frames/sec_0_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-0] In front of a colorful background, on the left, a female doll with long hair is wearing a printed top and jeans, leaning on a white barber chair and looking forward. On the right, a male doll is shirtless, wearing blue shorts, raising his right hand, and looking at the female doll."
+    },
+    {
+        "second": 1,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/G8v55WF9-CE/output_frames/sec_1_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[0-2] The male doll first pats the female doll's butt with his right hand, then places it on his chest. The female doll turns around, extends her left hand to pat the male doll's shorts, then crosses her arms in front of her chest. The male doll lowers his head, placing his hands on his shorts."
+    },
+    {
+        "second": 2,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/G8v55WF9-CE/output_frames/sec_2_idx_24.jpg",
+        "fps": 30,
+        "explanation": "[0-2] The male doll first pats the female doll's butt with his right hand, then places it on his chest. The female doll turns around, extends her left hand to pat the male doll's shorts, then crosses her arms in front of her chest. The male doll lowers his head, placing his hands on his shorts."
+    },
+    {
+        "second": 3,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/G8v55WF9-CE/output_frames/sec_3_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[2-5] Finally, the male doll keeps his hands on his shorts, shaking his body while walking downward."
+    },
+    {
+        "second": 4,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/G8v55WF9-CE/output_frames/sec_4_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[2-5] Finally, the male doll keeps his hands on his shorts, shaking his body while walking downward."
+    },
+    {
+        "second": 5,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/G8v55WF9-CE/output_frames/sec_5_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[2-5] Finally, the male doll keeps his hands on his shorts, shaking his body while walking downward."
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "second": 0,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TUt27RGODLU/output_frames/sec_0_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A yellow excavator is on a muddy construction site with piles of earth around it. One side of the earth pile has been dug into steps. In the distance, there are green trees and vegetation, as well as some building structures. The sky is gray."
+    },
+    {
+        "second": 1,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TUt27RGODLU/output_frames/sec_1_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[0-7] The excavator moves to the left, digging a pile of earth into steps. There are some black and dark blue pipes next to it. Next to the pipes, a person wearing a yellow-green vest and gray pants is sitting on a stool. This person is wearing a light brown straw hat. There is an orange cylinder next to him. The camera zooms out to reveal a gray pipe erected on the edge of the grass."
+    },
+    {
+        "second": 2,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TUt27RGODLU/output_frames/sec_2_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-7] The excavator moves to the left, digging a pile of earth into steps. There are some black and dark blue pipes next to it. Next to the pipes, a person wearing a yellow-green vest and gray pants is sitting on a stool. This person is wearing a light brown straw hat. There is an orange cylinder next to him. The camera zooms out to reveal a gray pipe erected on the edge of the grass."
+    },
+    {
+        "second": 3,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TUt27RGODLU/output_frames/sec_3_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[0-7] The excavator moves to the left, digging a pile of earth into steps. There are some black and dark blue pipes next to it. Next to the pipes, a person wearing a yellow-green vest and gray pants is sitting on a stool. This person is wearing a light brown straw hat. There is an orange cylinder next to him. The camera zooms out to reveal a gray pipe erected on the edge of the grass."
+    },
+    {
+        "second": 4,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TUt27RGODLU/output_frames/sec_4_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[0-7] The excavator moves to the left, digging a pile of earth into steps. There are some black and dark blue pipes next to it. Next to the pipes, a person wearing a yellow-green vest and gray pants is sitting on a stool. This person is wearing a light brown straw hat. There is an orange cylinder next to him. The camera zooms out to reveal a gray pipe erected on the edge of the grass."
+    },
+    {
+        "second": 5,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TUt27RGODLU/output_frames/sec_5_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[0-7] The excavator moves to the left, digging a pile of earth into steps. There are some black and dark blue pipes next to it. Next to the pipes, a person wearing a yellow-green vest and gray pants is sitting on a stool. This person is wearing a light brown straw hat. There is an orange cylinder next to him. The camera zooms out to reveal a gray pipe erected on the edge of the grass."
+    },
+    {
+        "second": 6,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TUt27RGODLU/output_frames/sec_6_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-7] The excavator moves to the left, digging a pile of earth into steps. There are some black and dark blue pipes next to it. Next to the pipes, a person wearing a yellow-green vest and gray pants is sitting on a stool. This person is wearing a light brown straw hat. There is an orange cylinder next to him. The camera zooms out to reveal a gray pipe erected on the edge of the grass."
+    },
+    {
+        "second": 7,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TUt27RGODLU/output_frames/sec_7_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[0-7] The excavator moves to the left, digging a pile of earth into steps. There are some black and dark blue pipes next to it. Next to the pipes, a person wearing a yellow-green vest and gray pants is sitting on a stool. This person is wearing a light brown straw hat. There is an orange cylinder next to him. The camera zooms out to reveal a gray pipe erected on the edge of the grass."
+    }
+]

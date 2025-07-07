@@ -1,0 +1,142 @@
+[
+    {
+        "second": 0,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Sw7S1bi_jYM/output_frames/sec_0_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[0-0] In an indoor setting, a man wearing a black turtleneck sweater, sunglasses, and a gold necklace stands by a table on the left. On the table are a plate of dog food, a plastic bag containing dog food, an electronic scale, and some green objects. The man in sunglasses is looking down at the dog food, holding a card in his right hand. To his right is a Labrador Retriever wearing sunglasses and a black outfit. Behind them is an open door, the walls of the room are coffee-colored. The English subtitle \"When you start working as a dog food dealer\" appears above."
+    },
+    {
+        "second": 1,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Sw7S1bi_jYM/output_frames/sec_1_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[0-8] First, the man in sunglasses uses the card to stir the dog food on the plate, then picks up a piece of dog food from the plate and puts it in a plastic bag, then puts the plastic bag on the electronic scale."
+    },
+    {
+        "second": 2,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Sw7S1bi_jYM/output_frames/sec_2_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[0-8] First, the man in sunglasses uses the card to stir the dog food on the plate, then picks up a piece of dog food from the plate and puts it in a plastic bag, then puts the plastic bag on the electronic scale."
+    },
+    {
+        "second": 3,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Sw7S1bi_jYM/output_frames/sec_3_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[0-8] First, the man in sunglasses uses the card to stir the dog food on the plate, then picks up a piece of dog food from the plate and puts it in a plastic bag, then puts the plastic bag on the electronic scale."
+    },
+    {
+        "second": 4,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Sw7S1bi_jYM/output_frames/sec_4_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-8] First, the man in sunglasses uses the card to stir the dog food on the plate, then picks up a piece of dog food from the plate and puts it in a plastic bag, then puts the plastic bag on the electronic scale."
+    },
+    {
+        "second": 5,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Sw7S1bi_jYM/output_frames/sec_5_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[0-8] First, the man in sunglasses uses the card to stir the dog food on the plate, then picks up a piece of dog food from the plate and puts it in a plastic bag, then puts the plastic bag on the electronic scale."
+    },
+    {
+        "second": 6,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Sw7S1bi_jYM/output_frames/sec_6_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[0-8] First, the man in sunglasses uses the card to stir the dog food on the plate, then picks up a piece of dog food from the plate and puts it in a plastic bag, then puts the plastic bag on the electronic scale."
+    },
+    {
+        "second": 7,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Sw7S1bi_jYM/output_frames/sec_7_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[0-8] First, the man in sunglasses uses the card to stir the dog food on the plate, then picks up a piece of dog food from the plate and puts it in a plastic bag, then puts the plastic bag on the electronic scale."
+    },
+    {
+        "second": 8,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Sw7S1bi_jYM/output_frames/sec_8_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[0-8] First, the man in sunglasses uses the card to stir the dog food on the plate, then picks up a piece of dog food from the plate and puts it in a plastic bag, then puts the plastic bag on the electronic scale."
+    },
+    {
+        "second": 9,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Sw7S1bi_jYM/output_frames/sec_9_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[8-12] Then he picks up a green object with his left hand and wraps a rubber band around the green object twice with his right hand, then puts the green object out from the left side."
+    },
+    {
+        "second": 10,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Sw7S1bi_jYM/output_frames/sec_10_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[8-12] Then he picks up a green object with his left hand and wraps a rubber band around the green object twice with his right hand, then puts the green object out from the left side."
+    },
+    {
+        "second": 11,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Sw7S1bi_jYM/output_frames/sec_11_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[8-12] Then he picks up a green object with his left hand and wraps a rubber band around the green object twice with his right hand, then puts the green object out from the left side."
+    },
+    {
+        "second": 12,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Sw7S1bi_jYM/output_frames/sec_12_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[8-12] Then he picks up a green object with his left hand and wraps a rubber band around the green object twice with his right hand, then puts the green object out from the left side."
+    },
+    {
+        "second": 13,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Sw7S1bi_jYM/output_frames/sec_13_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[12-16] Then he takes out a white bag from the left side with a black dollar sign printed on it, and puts the bag on the left."
+    },
+    {
+        "second": 14,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Sw7S1bi_jYM/output_frames/sec_14_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[12-16] Then he takes out a white bag from the left side with a black dollar sign printed on it, and puts the bag on the left."
+    },
+    {
+        "second": 15,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Sw7S1bi_jYM/output_frames/sec_15_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[12-16] Then he takes out a white bag from the left side with a black dollar sign printed on it, and puts the bag on the left."
+    },
+    {
+        "second": 16,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Sw7S1bi_jYM/output_frames/sec_16_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[12-16] Then he takes out a white bag from the left side with a black dollar sign printed on it, and puts the bag on the left."
+    },
+    {
+        "second": 17,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Sw7S1bi_jYM/output_frames/sec_17_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[16-19] Finally, he picks up a piece of dog food from a plate of dog food with his right hand and feeds it to the dog."
+    },
+    {
+        "second": 18,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Sw7S1bi_jYM/output_frames/sec_18_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[16-19] Finally, he picks up a piece of dog food from a plate of dog food with his right hand and feeds it to the dog."
+    },
+    {
+        "second": 19,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Sw7S1bi_jYM/output_frames/sec_19_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[16-19] Finally, he picks up a piece of dog food from a plate of dog food with his right hand and feeds it to the dog."
+    }
+]

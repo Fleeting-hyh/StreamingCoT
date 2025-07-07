@@ -1,0 +1,114 @@
+[
+    {
+        "second": 0,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5K8mXZYTdjI/output_frames/sec_0_idx_10.jpg",
+        "fps": 24,
+        "explanation": "[0-0] A person on a boat holds a test tube filled with brown water. The water under the boat is clearly divided into two parts, one part is dark gray water, and the other part is light brown water."
+    },
+    {
+        "second": 1,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5K8mXZYTdjI/output_frames/sec_1_idx_4.jpg",
+        "fps": 24,
+        "explanation": "[0-5] Then, the person holding the test tube repeatedly inverts the test tube up and down."
+    },
+    {
+        "second": 2,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5K8mXZYTdjI/output_frames/sec_2_idx_17.jpg",
+        "fps": 24,
+        "explanation": "[0-5] Then, the person holding the test tube repeatedly inverts the test tube up and down."
+    },
+    {
+        "second": 3,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5K8mXZYTdjI/output_frames/sec_3_idx_9.jpg",
+        "fps": 24,
+        "explanation": "[0-5] Then, the person holding the test tube repeatedly inverts the test tube up and down."
+    },
+    {
+        "second": 4,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5K8mXZYTdjI/output_frames/sec_4_idx_0.jpg",
+        "fps": 24,
+        "explanation": "[0-5] Then, the person holding the test tube repeatedly inverts the test tube up and down."
+    },
+    {
+        "second": 5,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5K8mXZYTdjI/output_frames/sec_5_idx_23.jpg",
+        "fps": 24,
+        "explanation": "[0-5] Then, the person holding the test tube repeatedly inverts the test tube up and down."
+    },
+    {
+        "second": 6,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5K8mXZYTdjI/output_frames/sec_6_idx_5.jpg",
+        "fps": 24,
+        "explanation": "[5-15] Next, the brown liquid in the test tube gradually falls, and finally occupies a very small part in the test tube, with clear liquid in the upper part."
+    },
+    {
+        "second": 7,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5K8mXZYTdjI/output_frames/sec_7_idx_4.jpg",
+        "fps": 24,
+        "explanation": "[5-15] Next, the brown liquid in the test tube gradually falls, and finally occupies a very small part in the test tube, with clear liquid in the upper part."
+    },
+    {
+        "second": 8,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5K8mXZYTdjI/output_frames/sec_8_idx_13.jpg",
+        "fps": 24,
+        "explanation": "[5-15] Next, the brown liquid in the test tube gradually falls, and finally occupies a very small part in the test tube, with clear liquid in the upper part."
+    },
+    {
+        "second": 9,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5K8mXZYTdjI/output_frames/sec_9_idx_10.jpg",
+        "fps": 24,
+        "explanation": "[5-15] Next, the brown liquid in the test tube gradually falls, and finally occupies a very small part in the test tube, with clear liquid in the upper part."
+    },
+    {
+        "second": 10,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5K8mXZYTdjI/output_frames/sec_10_idx_20.jpg",
+        "fps": 24,
+        "explanation": "[5-15] Next, the brown liquid in the test tube gradually falls, and finally occupies a very small part in the test tube, with clear liquid in the upper part."
+    },
+    {
+        "second": 11,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5K8mXZYTdjI/output_frames/sec_11_idx_19.jpg",
+        "fps": 24,
+        "explanation": "[5-15] Next, the brown liquid in the test tube gradually falls, and finally occupies a very small part in the test tube, with clear liquid in the upper part."
+    },
+    {
+        "second": 12,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5K8mXZYTdjI/output_frames/sec_12_idx_11.jpg",
+        "fps": 24,
+        "explanation": "[5-15] Next, the brown liquid in the test tube gradually falls, and finally occupies a very small part in the test tube, with clear liquid in the upper part."
+    },
+    {
+        "second": 13,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5K8mXZYTdjI/output_frames/sec_13_idx_1.jpg",
+        "fps": 24,
+        "explanation": "[5-15] Next, the brown liquid in the test tube gradually falls, and finally occupies a very small part in the test tube, with clear liquid in the upper part."
+    },
+    {
+        "second": 14,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5K8mXZYTdjI/output_frames/sec_14_idx_1.jpg",
+        "fps": 24,
+        "explanation": "[5-15] Next, the brown liquid in the test tube gradually falls, and finally occupies a very small part in the test tube, with clear liquid in the upper part."
+    },
+    {
+        "second": 15,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5K8mXZYTdjI/output_frames/sec_15_idx_1.jpg",
+        "fps": 24,
+        "explanation": "[5-15] Next, the brown liquid in the test tube gradually falls, and finally occupies a very small part in the test tube, with clear liquid in the upper part."
+    }
+]

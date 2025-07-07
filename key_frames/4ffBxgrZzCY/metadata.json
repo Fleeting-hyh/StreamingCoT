@@ -1,0 +1,79 @@
+[
+    {
+        "second": 0,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4ffBxgrZzCY/output_frames/sec_0_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-0] On a wooden board, there is a round hole. Next to it is a grey wall."
+    },
+    {
+        "second": 1,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4ffBxgrZzCY/output_frames/sec_1_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[0-3] A hand holding an electric drill with a hole saw is ready to drill, but the hole saw slides down. At this time, a red cross appears on the screen."
+    },
+    {
+        "second": 2,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4ffBxgrZzCY/output_frames/sec_2_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-3] A hand holding an electric drill with a hole saw is ready to drill, but the hole saw slides down. At this time, a red cross appears on the screen."
+    },
+    {
+        "second": 3,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4ffBxgrZzCY/output_frames/sec_3_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-3] A hand holding an electric drill with a hole saw is ready to drill, but the hole saw slides down. At this time, a red cross appears on the screen."
+    },
+    {
+        "second": 4,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4ffBxgrZzCY/output_frames/sec_4_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[3-10] Then the picture zooms in. The left hand holds the head of a hole saw, the right hand installs a hole saw and then installs a larger hole saw, and then installs it on the electric drill. The picture turns, this hand uses the installed electric drill to drill again, the hole in the wood board is successfully expanded. A green check mark appears on the screen."
+    },
+    {
+        "second": 5,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4ffBxgrZzCY/output_frames/sec_5_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[3-10] Then the picture zooms in. The left hand holds the head of a hole saw, the right hand installs a hole saw and then installs a larger hole saw, and then installs it on the electric drill. The picture turns, this hand uses the installed electric drill to drill again, the hole in the wood board is successfully expanded. A green check mark appears on the screen."
+    },
+    {
+        "second": 6,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4ffBxgrZzCY/output_frames/sec_6_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[3-10] Then the picture zooms in. The left hand holds the head of a hole saw, the right hand installs a hole saw and then installs a larger hole saw, and then installs it on the electric drill. The picture turns, this hand uses the installed electric drill to drill again, the hole in the wood board is successfully expanded. A green check mark appears on the screen."
+    },
+    {
+        "second": 7,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4ffBxgrZzCY/output_frames/sec_7_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[3-10] Then the picture zooms in. The left hand holds the head of a hole saw, the right hand installs a hole saw and then installs a larger hole saw, and then installs it on the electric drill. The picture turns, this hand uses the installed electric drill to drill again, the hole in the wood board is successfully expanded. A green check mark appears on the screen."
+    },
+    {
+        "second": 8,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4ffBxgrZzCY/output_frames/sec_8_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[3-10] Then the picture zooms in. The left hand holds the head of a hole saw, the right hand installs a hole saw and then installs a larger hole saw, and then installs it on the electric drill. The picture turns, this hand uses the installed electric drill to drill again, the hole in the wood board is successfully expanded. A green check mark appears on the screen."
+    },
+    {
+        "second": 9,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4ffBxgrZzCY/output_frames/sec_9_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[3-10] Then the picture zooms in. The left hand holds the head of a hole saw, the right hand installs a hole saw and then installs a larger hole saw, and then installs it on the electric drill. The picture turns, this hand uses the installed electric drill to drill again, the hole in the wood board is successfully expanded. A green check mark appears on the screen."
+    },
+    {
+        "second": 10,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4ffBxgrZzCY/output_frames/sec_10_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[3-10] Then the picture zooms in. The left hand holds the head of a hole saw, the right hand installs a hole saw and then installs a larger hole saw, and then installs it on the electric drill. The picture turns, this hand uses the installed electric drill to drill again, the hole in the wood board is successfully expanded. A green check mark appears on the screen."
+    }
+]

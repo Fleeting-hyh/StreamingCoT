@@ -1,0 +1,79 @@
+[
+    {
+        "second": 0,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CeaO3aeKLSo/output_frames/sec_0_idx_0.jpg",
+        "fps": 24,
+        "explanation": "[0-0] Inside a bathroom with rectangular yellow and gray floor tiles, Iron Man, Spider-Man, and Captain America are facing right, each sitting on a brown-red, red, and gray toilet respectively. Iron Man is raising both hands to the right, while Spider-Man and Captain America have their hands on their knees. On the left is a blue wall with red markings, on which hang three orange-framed picture frames."
+    },
+    {
+        "second": 1,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CeaO3aeKLSo/output_frames/sec_1_idx_5.jpg",
+        "fps": 24,
+        "explanation": "[0-2] Then, Iron Man raises his limbs and rises upward, then sits back on the toilet and looks left."
+    },
+    {
+        "second": 2,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CeaO3aeKLSo/output_frames/sec_2_idx_10.jpg",
+        "fps": 24,
+        "explanation": "[0-2] Then, Iron Man raises his limbs and rises upward, then sits back on the toilet and looks left."
+    },
+    {
+        "second": 3,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CeaO3aeKLSo/output_frames/sec_3_idx_22.jpg",
+        "fps": 24,
+        "explanation": "[2-5] Subsequently, Spider-Man raises his arms, swings his body upward, then turns his back to the wall, sticks his limbs to the wall on the left, and looks to the left."
+    },
+    {
+        "second": 4,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CeaO3aeKLSo/output_frames/sec_4_idx_4.jpg",
+        "fps": 24,
+        "explanation": "[2-5] Subsequently, Spider-Man raises his arms, swings his body upward, then turns his back to the wall, sticks his limbs to the wall on the left, and looks to the left."
+    },
+    {
+        "second": 5,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CeaO3aeKLSo/output_frames/sec_5_idx_5.jpg",
+        "fps": 24,
+        "explanation": "[2-5] Subsequently, Spider-Man raises his arms, swings his body upward, then turns his back to the wall, sticks his limbs to the wall on the left, and looks to the left."
+    },
+    {
+        "second": 6,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CeaO3aeKLSo/output_frames/sec_6_idx_15.jpg",
+        "fps": 24,
+        "explanation": "[5-10] Afterward, Captain America raises both his arms and swings his body upward. Immediately, he straightens up, spins, and falls into the toilet and disappears."
+    },
+    {
+        "second": 7,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CeaO3aeKLSo/output_frames/sec_7_idx_12.jpg",
+        "fps": 24,
+        "explanation": "[5-10] Afterward, Captain America raises both his arms and swings his body upward. Immediately, he straightens up, spins, and falls into the toilet and disappears."
+    },
+    {
+        "second": 8,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CeaO3aeKLSo/output_frames/sec_8_idx_20.jpg",
+        "fps": 24,
+        "explanation": "[5-10] Afterward, Captain America raises both his arms and swings his body upward. Immediately, he straightens up, spins, and falls into the toilet and disappears."
+    },
+    {
+        "second": 9,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CeaO3aeKLSo/output_frames/sec_9_idx_0.jpg",
+        "fps": 24,
+        "explanation": "[5-10] Afterward, Captain America raises both his arms and swings his body upward. Immediately, he straightens up, spins, and falls into the toilet and disappears."
+    },
+    {
+        "second": 10,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CeaO3aeKLSo/output_frames/sec_10_idx_0.jpg",
+        "fps": 24,
+        "explanation": "[5-10] Afterward, Captain America raises both his arms and swings his body upward. Immediately, he straightens up, spins, and falls into the toilet and disappears."
+    }
+]

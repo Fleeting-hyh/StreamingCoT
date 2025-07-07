@@ -1,0 +1,79 @@
+[
+    {
+        "second": 0,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3Z_zCjZvlNE/output_frames/sec_0_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[0-0] The video begins with a woman standing in a hallway. She's wearing a pink short-sleeved top and gray jeans, with long black hair down, and a gold bracelet on her right wrist. She looks at the camera with a confused expression. Her left index finger is on a white switch on the wall. There are paintings hanging on the white wall."
+    },
+    {
+        "second": 1,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3Z_zCjZvlNE/output_frames/sec_1_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-7] Then, the woman flips the light switch up and down several times, immediately turns her head to the left, looks up, turns her head to the right, and then looks to the left from the side."
+    },
+    {
+        "second": 2,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3Z_zCjZvlNE/output_frames/sec_2_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-7] Then, the woman flips the light switch up and down several times, immediately turns her head to the left, looks up, turns her head to the right, and then looks to the left from the side."
+    },
+    {
+        "second": 3,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3Z_zCjZvlNE/output_frames/sec_3_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[0-7] Then, the woman flips the light switch up and down several times, immediately turns her head to the left, looks up, turns her head to the right, and then looks to the left from the side."
+    },
+    {
+        "second": 4,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3Z_zCjZvlNE/output_frames/sec_4_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[0-7] Then, the woman flips the light switch up and down several times, immediately turns her head to the left, looks up, turns her head to the right, and then looks to the left from the side."
+    },
+    {
+        "second": 5,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3Z_zCjZvlNE/output_frames/sec_5_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[0-7] Then, the woman flips the light switch up and down several times, immediately turns her head to the left, looks up, turns her head to the right, and then looks to the left from the side."
+    },
+    {
+        "second": 6,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3Z_zCjZvlNE/output_frames/sec_6_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-7] Then, the woman flips the light switch up and down several times, immediately turns her head to the left, looks up, turns her head to the right, and then looks to the left from the side."
+    },
+    {
+        "second": 7,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3Z_zCjZvlNE/output_frames/sec_7_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[0-7] Then, the woman flips the light switch up and down several times, immediately turns her head to the left, looks up, turns her head to the right, and then looks to the left from the side."
+    },
+    {
+        "second": 8,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3Z_zCjZvlNE/output_frames/sec_8_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[7-10] At this moment, a woman wrapped in a blanket is sitting in the living room, the light flickering, sometimes bright, sometimes dark, with a scared expression on her face. At the top of the screen are the white words \"My neighbour next door\"."
+    },
+    {
+        "second": 9,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3Z_zCjZvlNE/output_frames/sec_9_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[7-10] At this moment, a woman wrapped in a blanket is sitting in the living room, the light flickering, sometimes bright, sometimes dark, with a scared expression on her face. At the top of the screen are the white words \"My neighbour next door\"."
+    },
+    {
+        "second": 10,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3Z_zCjZvlNE/output_frames/sec_10_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[7-10] At this moment, a woman wrapped in a blanket is sitting in the living room, the light flickering, sometimes bright, sometimes dark, with a scared expression on her face. At the top of the screen are the white words \"My neighbour next door\"."
+    }
+]

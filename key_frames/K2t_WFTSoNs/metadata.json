@@ -1,0 +1,79 @@
+[
+    {
+        "second": 0,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/K2t_WFTSoNs/output_frames/sec_0_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[0-0] In a grassy field, a person is kneeling on the ground, body lying down. His right hand is in a hole, and his left hand, wearing an orange glove, is holding a wooden handle inserted into a pit in the ground. There is a horizontal piece of wood above the pit."
+    },
+    {
+        "second": 1,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/K2t_WFTSoNs/output_frames/sec_1_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[0-8] The man then shakes his body and pulls out a rabbit from the hole with his right hand. He lets go of the handle with his left hand and straightens up, kneeling on the grass with the struggling rabbit in his hands."
+    },
+    {
+        "second": 2,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/K2t_WFTSoNs/output_frames/sec_2_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[0-8] The man then shakes his body and pulls out a rabbit from the hole with his right hand. He lets go of the handle with his left hand and straightens up, kneeling on the grass with the struggling rabbit in his hands."
+    },
+    {
+        "second": 3,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/K2t_WFTSoNs/output_frames/sec_3_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[0-8] The man then shakes his body and pulls out a rabbit from the hole with his right hand. He lets go of the handle with his left hand and straightens up, kneeling on the grass with the struggling rabbit in his hands."
+    },
+    {
+        "second": 4,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/K2t_WFTSoNs/output_frames/sec_4_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[0-8] The man then shakes his body and pulls out a rabbit from the hole with his right hand. He lets go of the handle with his left hand and straightens up, kneeling on the grass with the struggling rabbit in his hands."
+    },
+    {
+        "second": 5,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/K2t_WFTSoNs/output_frames/sec_5_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-8] The man then shakes his body and pulls out a rabbit from the hole with his right hand. He lets go of the handle with his left hand and straightens up, kneeling on the grass with the struggling rabbit in his hands."
+    },
+    {
+        "second": 6,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/K2t_WFTSoNs/output_frames/sec_6_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-8] The man then shakes his body and pulls out a rabbit from the hole with his right hand. He lets go of the handle with his left hand and straightens up, kneeling on the grass with the struggling rabbit in his hands."
+    },
+    {
+        "second": 7,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/K2t_WFTSoNs/output_frames/sec_7_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[0-8] The man then shakes his body and pulls out a rabbit from the hole with his right hand. He lets go of the handle with his left hand and straightens up, kneeling on the grass with the struggling rabbit in his hands."
+    },
+    {
+        "second": 8,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/K2t_WFTSoNs/output_frames/sec_8_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[0-8] The man then shakes his body and pulls out a rabbit from the hole with his right hand. He lets go of the handle with his left hand and straightens up, kneeling on the grass with the struggling rabbit in his hands."
+    },
+    {
+        "second": 9,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/K2t_WFTSoNs/output_frames/sec_9_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[8-10] He then places the rabbit on the grass beside him, leans forward, supporting himself with his left hand while holding the wooden handle with his right hand."
+    },
+    {
+        "second": 10,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/K2t_WFTSoNs/output_frames/sec_10_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[8-10] He then places the rabbit on the grass beside him, leans forward, supporting himself with his left hand while holding the wooden handle with his right hand."
+    }
+]

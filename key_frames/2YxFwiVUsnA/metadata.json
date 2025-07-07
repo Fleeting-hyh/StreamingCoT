@@ -1,0 +1,58 @@
+[
+    {
+        "second": 0,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2YxFwiVUsnA/output_frames/sec_0_idx_23.jpg",
+        "fps": 25,
+        "explanation": "[0-0] On a green soccer field, a match is underway. The frame shows two players in red jerseys and two in blue jerseys. In the upper right corner, there's a goalkeeper in a green jersey, with a white goal behind him. The fences are red, and the stands are filled with spectators. There's a white watermark in the upper right corner."
+    },
+    {
+        "second": 1,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2YxFwiVUsnA/output_frames/sec_1_idx_10.jpg",
+        "fps": 25,
+        "explanation": "[0-7] The player in the red jersey with the number 17 is dribbling the ball, with three players in blue jerseys closing in on him. Facing the blockade, player number 17 turns and passes the ball to player number 7 in a red jersey, who is rushing in from the right and preparing to shoot. In the final frame, there are five players in blue jerseys and three in red jerseys, with the goalkeeper in the green jersey doing a half-squat, ready to defend."
+    },
+    {
+        "second": 2,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2YxFwiVUsnA/output_frames/sec_2_idx_23.jpg",
+        "fps": 25,
+        "explanation": "[0-7] The player in the red jersey with the number 17 is dribbling the ball, with three players in blue jerseys closing in on him. Facing the blockade, player number 17 turns and passes the ball to player number 7 in a red jersey, who is rushing in from the right and preparing to shoot. In the final frame, there are five players in blue jerseys and three in red jerseys, with the goalkeeper in the green jersey doing a half-squat, ready to defend."
+    },
+    {
+        "second": 3,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2YxFwiVUsnA/output_frames/sec_3_idx_4.jpg",
+        "fps": 25,
+        "explanation": "[0-7] The player in the red jersey with the number 17 is dribbling the ball, with three players in blue jerseys closing in on him. Facing the blockade, player number 17 turns and passes the ball to player number 7 in a red jersey, who is rushing in from the right and preparing to shoot. In the final frame, there are five players in blue jerseys and three in red jerseys, with the goalkeeper in the green jersey doing a half-squat, ready to defend."
+    },
+    {
+        "second": 4,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2YxFwiVUsnA/output_frames/sec_4_idx_12.jpg",
+        "fps": 25,
+        "explanation": "[0-7] The player in the red jersey with the number 17 is dribbling the ball, with three players in blue jerseys closing in on him. Facing the blockade, player number 17 turns and passes the ball to player number 7 in a red jersey, who is rushing in from the right and preparing to shoot. In the final frame, there are five players in blue jerseys and three in red jerseys, with the goalkeeper in the green jersey doing a half-squat, ready to defend."
+    },
+    {
+        "second": 5,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2YxFwiVUsnA/output_frames/sec_5_idx_6.jpg",
+        "fps": 25,
+        "explanation": "[0-7] The player in the red jersey with the number 17 is dribbling the ball, with three players in blue jerseys closing in on him. Facing the blockade, player number 17 turns and passes the ball to player number 7 in a red jersey, who is rushing in from the right and preparing to shoot. In the final frame, there are five players in blue jerseys and three in red jerseys, with the goalkeeper in the green jersey doing a half-squat, ready to defend."
+    },
+    {
+        "second": 6,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2YxFwiVUsnA/output_frames/sec_6_idx_17.jpg",
+        "fps": 25,
+        "explanation": "[0-7] The player in the red jersey with the number 17 is dribbling the ball, with three players in blue jerseys closing in on him. Facing the blockade, player number 17 turns and passes the ball to player number 7 in a red jersey, who is rushing in from the right and preparing to shoot. In the final frame, there are five players in blue jerseys and three in red jerseys, with the goalkeeper in the green jersey doing a half-squat, ready to defend."
+    },
+    {
+        "second": 7,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2YxFwiVUsnA/output_frames/sec_7_idx_2.jpg",
+        "fps": 25,
+        "explanation": "[0-7] The player in the red jersey with the number 17 is dribbling the ball, with three players in blue jerseys closing in on him. Facing the blockade, player number 17 turns and passes the ball to player number 7 in a red jersey, who is rushing in from the right and preparing to shoot. In the final frame, there are five players in blue jerseys and three in red jerseys, with the goalkeeper in the green jersey doing a half-squat, ready to defend."
+    }
+]

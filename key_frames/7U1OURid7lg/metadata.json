@@ -1,0 +1,51 @@
+[
+    {
+        "second": 0,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7U1OURid7lg/output_frames/sec_0_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-0] The upper part of the screen is black, and a red cartoon worm is looking up against a white background in the lower part of the screen."
+    },
+    {
+        "second": 1,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7U1OURid7lg/output_frames/sec_1_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Then a small, thin kitten in a purple cage appears at the top of the screen, standing with a broken heart emoji."
+    },
+    {
+        "second": 2,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7U1OURid7lg/output_frames/sec_2_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Then a small, thin kitten in a purple cage appears at the top of the screen, standing with a broken heart emoji."
+    },
+    {
+        "second": 3,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7U1OURid7lg/output_frames/sec_3_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[2-6] Immediately afterward, a muscular cat with a bandaged heart emoji appears at the top of the screen, while the red cartoon worm at the bottom stares ahead with wide eyes."
+    },
+    {
+        "second": 4,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7U1OURid7lg/output_frames/sec_4_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[2-6] Immediately afterward, a muscular cat with a bandaged heart emoji appears at the top of the screen, while the red cartoon worm at the bottom stares ahead with wide eyes."
+    },
+    {
+        "second": 5,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7U1OURid7lg/output_frames/sec_5_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[2-6] Immediately afterward, a muscular cat with a bandaged heart emoji appears at the top of the screen, while the red cartoon worm at the bottom stares ahead with wide eyes."
+    },
+    {
+        "second": 6,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7U1OURid7lg/output_frames/sec_6_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[2-6] Immediately afterward, a muscular cat with a bandaged heart emoji appears at the top of the screen, while the red cartoon worm at the bottom stares ahead with wide eyes."
+    }
+]

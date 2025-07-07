@@ -1,0 +1,86 @@
+[
+    {
+        "second": 0,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0gOEFiwgqFs/output_frames/sec_0_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A woman in black clothing stands in a living room with a troubled expression. On the TV screen to her left is a blue heart. Behind her are white curtains and a pink doll. Above her head is pink text that reads \"DO THE TYLA DANCE OR ASK HIM OUT\"."
+    },
+    {
+        "second": 1,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0gOEFiwgqFs/output_frames/sec_1_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The woman in black looks upward, then lowers her head with her hands on her hips, shaking her head. She drops her hands and stretches her left hand backward. The heart on the TV screen keeps changing."
+    },
+    {
+        "second": 2,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0gOEFiwgqFs/output_frames/sec_2_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The woman in black looks upward, then lowers her head with her hands on her hips, shaking her head. She drops her hands and stretches her left hand backward. The heart on the TV screen keeps changing."
+    },
+    {
+        "second": 3,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0gOEFiwgqFs/output_frames/sec_3_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The woman in black looks upward, then lowers her head with her hands on her hips, shaking her head. She drops her hands and stretches her left hand backward. The heart on the TV screen keeps changing."
+    },
+    {
+        "second": 4,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0gOEFiwgqFs/output_frames/sec_4_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The woman in black looks upward, then lowers her head with her hands on her hips, shaking her head. She drops her hands and stretches her left hand backward. The heart on the TV screen keeps changing."
+    },
+    {
+        "second": 5,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0gOEFiwgqFs/output_frames/sec_5_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[4-11] Subsequently, the woman in black turns her head, her hair falling down. With a smile on her face, she starts dancing and then turns around, moving her body to the rhythm."
+    },
+    {
+        "second": 6,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0gOEFiwgqFs/output_frames/sec_6_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[4-11] Subsequently, the woman in black turns her head, her hair falling down. With a smile on her face, she starts dancing and then turns around, moving her body to the rhythm."
+    },
+    {
+        "second": 7,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0gOEFiwgqFs/output_frames/sec_7_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[4-11] Subsequently, the woman in black turns her head, her hair falling down. With a smile on her face, she starts dancing and then turns around, moving her body to the rhythm."
+    },
+    {
+        "second": 8,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0gOEFiwgqFs/output_frames/sec_8_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[4-11] Subsequently, the woman in black turns her head, her hair falling down. With a smile on her face, she starts dancing and then turns around, moving her body to the rhythm."
+    },
+    {
+        "second": 9,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0gOEFiwgqFs/output_frames/sec_9_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[4-11] Subsequently, the woman in black turns her head, her hair falling down. With a smile on her face, she starts dancing and then turns around, moving her body to the rhythm."
+    },
+    {
+        "second": 10,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0gOEFiwgqFs/output_frames/sec_10_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[4-11] Subsequently, the woman in black turns her head, her hair falling down. With a smile on her face, she starts dancing and then turns around, moving her body to the rhythm."
+    },
+    {
+        "second": 11,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0gOEFiwgqFs/output_frames/sec_11_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[4-11] Subsequently, the woman in black turns her head, her hair falling down. With a smile on her face, she starts dancing and then turns around, moving her body to the rhythm."
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "second": 0,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/BbDWROesz_A/output_frames/sec_0_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A bottle of strawberry jam with a red cap is placed on the white snow, the red cap is already open. A hand wearing a black glove inserts an ice cream cone into the snow in front of the strawberry jam bottle. The background is trees covered with white snow and blue sky in the distance."
+    },
+    {
+        "second": 1,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/BbDWROesz_A/output_frames/sec_1_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Then a red snowball mold appears in the picture, the hand wearing the glove holds it to scoop up the snow from the ground, then uses the hand to tidy up the excess snow, then puts it on the ice cream cone, takes away the mold, revealing a white spiral snowball."
+    },
+    {
+        "second": 2,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/BbDWROesz_A/output_frames/sec_2_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Then a red snowball mold appears in the picture, the hand wearing the glove holds it to scoop up the snow from the ground, then uses the hand to tidy up the excess snow, then puts it on the ice cream cone, takes away the mold, revealing a white spiral snowball."
+    },
+    {
+        "second": 3,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/BbDWROesz_A/output_frames/sec_3_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Then a red snowball mold appears in the picture, the hand wearing the glove holds it to scoop up the snow from the ground, then uses the hand to tidy up the excess snow, then puts it on the ice cream cone, takes away the mold, revealing a white spiral snowball."
+    },
+    {
+        "second": 4,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/BbDWROesz_A/output_frames/sec_4_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Then a red snowball mold appears in the picture, the hand wearing the glove holds it to scoop up the snow from the ground, then uses the hand to tidy up the excess snow, then puts it on the ice cream cone, takes away the mold, revealing a white spiral snowball."
+    },
+    {
+        "second": 5,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/BbDWROesz_A/output_frames/sec_5_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[4-7] Subsequently, the gloved hand picks up the strawberry jam and pours it onto the white snowball, a complete snow ice cream cone with strawberry jam is made."
+    },
+    {
+        "second": 6,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/BbDWROesz_A/output_frames/sec_6_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[4-7] Subsequently, the gloved hand picks up the strawberry jam and pours it onto the white snowball, a complete snow ice cream cone with strawberry jam is made."
+    },
+    {
+        "second": 7,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/BbDWROesz_A/output_frames/sec_7_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[4-7] Subsequently, the gloved hand picks up the strawberry jam and pours it onto the white snowball, a complete snow ice cream cone with strawberry jam is made."
+    },
+    {
+        "second": 8,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/BbDWROesz_A/output_frames/sec_8_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[7-11] The hand wearing gloves picks up the ice cream cone from the snow and shows it."
+    },
+    {
+        "second": 9,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/BbDWROesz_A/output_frames/sec_9_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[7-11] The hand wearing gloves picks up the ice cream cone from the snow and shows it."
+    },
+    {
+        "second": 10,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/BbDWROesz_A/output_frames/sec_10_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[7-11] The hand wearing gloves picks up the ice cream cone from the snow and shows it."
+    },
+    {
+        "second": 11,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/BbDWROesz_A/output_frames/sec_11_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[7-11] The hand wearing gloves picks up the ice cream cone from the snow and shows it."
+    }
+]

@@ -1,0 +1,184 @@
+[
+    {
+        "second": 0,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CnvkTD-g1QE/output_frames/sec_0_idx_0.jpg",
+        "fps": 25,
+        "explanation": "[0-0] A small red character with two horns on its head and a small blue character are sitting at a pink table, staring intently at a bottle of water held by the blue character. A pizza, sliced into six pieces, is placed on the table in front of them."
+    },
+    {
+        "second": 1,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CnvkTD-g1QE/output_frames/sec_1_idx_13.jpg",
+        "fps": 25,
+        "explanation": "[0-6] Subsequently, the camera pans out, the blue character throws the bottle, the bottle lands and stands steadily on the table. The blue character opens its mouth wide, claps its hands, and laughs happily. At this moment, a hand appears from the right, giving a bottle to the red character, then picks up a slice of pizza and feeds it to the blue character."
+    },
+    {
+        "second": 2,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CnvkTD-g1QE/output_frames/sec_2_idx_24.jpg",
+        "fps": 25,
+        "explanation": "[0-6] Subsequently, the camera pans out, the blue character throws the bottle, the bottle lands and stands steadily on the table. The blue character opens its mouth wide, claps its hands, and laughs happily. At this moment, a hand appears from the right, giving a bottle to the red character, then picks up a slice of pizza and feeds it to the blue character."
+    },
+    {
+        "second": 3,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CnvkTD-g1QE/output_frames/sec_3_idx_0.jpg",
+        "fps": 25,
+        "explanation": "[0-6] Subsequently, the camera pans out, the blue character throws the bottle, the bottle lands and stands steadily on the table. The blue character opens its mouth wide, claps its hands, and laughs happily. At this moment, a hand appears from the right, giving a bottle to the red character, then picks up a slice of pizza and feeds it to the blue character."
+    },
+    {
+        "second": 4,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CnvkTD-g1QE/output_frames/sec_4_idx_21.jpg",
+        "fps": 25,
+        "explanation": "[0-6] Subsequently, the camera pans out, the blue character throws the bottle, the bottle lands and stands steadily on the table. The blue character opens its mouth wide, claps its hands, and laughs happily. At this moment, a hand appears from the right, giving a bottle to the red character, then picks up a slice of pizza and feeds it to the blue character."
+    },
+    {
+        "second": 5,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CnvkTD-g1QE/output_frames/sec_5_idx_1.jpg",
+        "fps": 25,
+        "explanation": "[0-6] Subsequently, the camera pans out, the blue character throws the bottle, the bottle lands and stands steadily on the table. The blue character opens its mouth wide, claps its hands, and laughs happily. At this moment, a hand appears from the right, giving a bottle to the red character, then picks up a slice of pizza and feeds it to the blue character."
+    },
+    {
+        "second": 6,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CnvkTD-g1QE/output_frames/sec_6_idx_1.jpg",
+        "fps": 25,
+        "explanation": "[0-6] Subsequently, the camera pans out, the blue character throws the bottle, the bottle lands and stands steadily on the table. The blue character opens its mouth wide, claps its hands, and laughs happily. At this moment, a hand appears from the right, giving a bottle to the red character, then picks up a slice of pizza and feeds it to the blue character."
+    },
+    {
+        "second": 7,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CnvkTD-g1QE/output_frames/sec_7_idx_21.jpg",
+        "fps": 25,
+        "explanation": "[6-15] Following that, the red character starts throwing the bottle repeatedly, but fails to make it stand on the table. A hand extends from the right, picks up a slice of pizza, and hands it to the blue character, who eats it happily."
+    },
+    {
+        "second": 8,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CnvkTD-g1QE/output_frames/sec_8_idx_20.jpg",
+        "fps": 25,
+        "explanation": "[6-15] Following that, the red character starts throwing the bottle repeatedly, but fails to make it stand on the table. A hand extends from the right, picks up a slice of pizza, and hands it to the blue character, who eats it happily."
+    },
+    {
+        "second": 9,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CnvkTD-g1QE/output_frames/sec_9_idx_3.jpg",
+        "fps": 25,
+        "explanation": "[6-15] Following that, the red character starts throwing the bottle repeatedly, but fails to make it stand on the table. A hand extends from the right, picks up a slice of pizza, and hands it to the blue character, who eats it happily."
+    },
+    {
+        "second": 10,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CnvkTD-g1QE/output_frames/sec_10_idx_15.jpg",
+        "fps": 25,
+        "explanation": "[6-15] Following that, the red character starts throwing the bottle repeatedly, but fails to make it stand on the table. A hand extends from the right, picks up a slice of pizza, and hands it to the blue character, who eats it happily."
+    },
+    {
+        "second": 11,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CnvkTD-g1QE/output_frames/sec_11_idx_21.jpg",
+        "fps": 25,
+        "explanation": "[6-15] Following that, the red character starts throwing the bottle repeatedly, but fails to make it stand on the table. A hand extends from the right, picks up a slice of pizza, and hands it to the blue character, who eats it happily."
+    },
+    {
+        "second": 12,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CnvkTD-g1QE/output_frames/sec_12_idx_19.jpg",
+        "fps": 25,
+        "explanation": "[6-15] Following that, the red character starts throwing the bottle repeatedly, but fails to make it stand on the table. A hand extends from the right, picks up a slice of pizza, and hands it to the blue character, who eats it happily."
+    },
+    {
+        "second": 13,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CnvkTD-g1QE/output_frames/sec_13_idx_3.jpg",
+        "fps": 25,
+        "explanation": "[6-15] Following that, the red character starts throwing the bottle repeatedly, but fails to make it stand on the table. A hand extends from the right, picks up a slice of pizza, and hands it to the blue character, who eats it happily."
+    },
+    {
+        "second": 14,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CnvkTD-g1QE/output_frames/sec_14_idx_5.jpg",
+        "fps": 25,
+        "explanation": "[6-15] Following that, the red character starts throwing the bottle repeatedly, but fails to make it stand on the table. A hand extends from the right, picks up a slice of pizza, and hands it to the blue character, who eats it happily."
+    },
+    {
+        "second": 15,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CnvkTD-g1QE/output_frames/sec_15_idx_21.jpg",
+        "fps": 25,
+        "explanation": "[6-15] Following that, the red character starts throwing the bottle repeatedly, but fails to make it stand on the table. A hand extends from the right, picks up a slice of pizza, and hands it to the blue character, who eats it happily."
+    },
+    {
+        "second": 16,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CnvkTD-g1QE/output_frames/sec_16_idx_17.jpg",
+        "fps": 25,
+        "explanation": "[15-25] Finally, the red character succeeds. She celebrates with great joy. At the same time, a right hand picks up the last piece of pizza and puts it into the blue character's mouth. The red character realizes that the pizza has been eaten by the blue character and bursts into tears, while the blue character smiles with satisfaction."
+    },
+    {
+        "second": 17,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CnvkTD-g1QE/output_frames/sec_17_idx_0.jpg",
+        "fps": 25,
+        "explanation": "[15-25] Finally, the red character succeeds. She celebrates with great joy. At the same time, a right hand picks up the last piece of pizza and puts it into the blue character's mouth. The red character realizes that the pizza has been eaten by the blue character and bursts into tears, while the blue character smiles with satisfaction."
+    },
+    {
+        "second": 18,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CnvkTD-g1QE/output_frames/sec_18_idx_11.jpg",
+        "fps": 25,
+        "explanation": "[15-25] Finally, the red character succeeds. She celebrates with great joy. At the same time, a right hand picks up the last piece of pizza and puts it into the blue character's mouth. The red character realizes that the pizza has been eaten by the blue character and bursts into tears, while the blue character smiles with satisfaction."
+    },
+    {
+        "second": 19,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CnvkTD-g1QE/output_frames/sec_19_idx_14.jpg",
+        "fps": 25,
+        "explanation": "[15-25] Finally, the red character succeeds. She celebrates with great joy. At the same time, a right hand picks up the last piece of pizza and puts it into the blue character's mouth. The red character realizes that the pizza has been eaten by the blue character and bursts into tears, while the blue character smiles with satisfaction."
+    },
+    {
+        "second": 20,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CnvkTD-g1QE/output_frames/sec_20_idx_6.jpg",
+        "fps": 25,
+        "explanation": "[15-25] Finally, the red character succeeds. She celebrates with great joy. At the same time, a right hand picks up the last piece of pizza and puts it into the blue character's mouth. The red character realizes that the pizza has been eaten by the blue character and bursts into tears, while the blue character smiles with satisfaction."
+    },
+    {
+        "second": 21,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CnvkTD-g1QE/output_frames/sec_21_idx_23.jpg",
+        "fps": 25,
+        "explanation": "[15-25] Finally, the red character succeeds. She celebrates with great joy. At the same time, a right hand picks up the last piece of pizza and puts it into the blue character's mouth. The red character realizes that the pizza has been eaten by the blue character and bursts into tears, while the blue character smiles with satisfaction."
+    },
+    {
+        "second": 22,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CnvkTD-g1QE/output_frames/sec_22_idx_3.jpg",
+        "fps": 25,
+        "explanation": "[15-25] Finally, the red character succeeds. She celebrates with great joy. At the same time, a right hand picks up the last piece of pizza and puts it into the blue character's mouth. The red character realizes that the pizza has been eaten by the blue character and bursts into tears, while the blue character smiles with satisfaction."
+    },
+    {
+        "second": 23,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CnvkTD-g1QE/output_frames/sec_23_idx_17.jpg",
+        "fps": 25,
+        "explanation": "[15-25] Finally, the red character succeeds. She celebrates with great joy. At the same time, a right hand picks up the last piece of pizza and puts it into the blue character's mouth. The red character realizes that the pizza has been eaten by the blue character and bursts into tears, while the blue character smiles with satisfaction."
+    },
+    {
+        "second": 24,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CnvkTD-g1QE/output_frames/sec_24_idx_0.jpg",
+        "fps": 25,
+        "explanation": "[15-25] Finally, the red character succeeds. She celebrates with great joy. At the same time, a right hand picks up the last piece of pizza and puts it into the blue character's mouth. The red character realizes that the pizza has been eaten by the blue character and bursts into tears, while the blue character smiles with satisfaction."
+    },
+    {
+        "second": 25,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CnvkTD-g1QE/output_frames/sec_25_idx_0.jpg",
+        "fps": 25,
+        "explanation": "[15-25] Finally, the red character succeeds. She celebrates with great joy. At the same time, a right hand picks up the last piece of pizza and puts it into the blue character's mouth. The red character realizes that the pizza has been eaten by the blue character and bursts into tears, while the blue character smiles with satisfaction."
+    }
+]

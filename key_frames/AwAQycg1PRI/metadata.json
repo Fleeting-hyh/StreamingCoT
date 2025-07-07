@@ -1,0 +1,79 @@
+[
+    {
+        "second": 0,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AwAQycg1PRI/output_frames/sec_0_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A blond woman with a side part sits at a wooden table in a room with a wooden ceiling and stone walls, wearing a black and white patterned shirt. She has a plate of salad and a piece of toast in front of her. She is using a fork to pick up a piece of vegetable."
+    },
+    {
+        "second": 1,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AwAQycg1PRI/output_frames/sec_1_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Now, a hand appears from the left and takes the salad away, while another hand brings in a small two-tier cake with a lit candle on it from the right. A person off-screen holds a bunch of colorful balloons behind the woman and puts a cute headband on her. The woman blows out the candle."
+    },
+    {
+        "second": 2,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AwAQycg1PRI/output_frames/sec_2_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Now, a hand appears from the left and takes the salad away, while another hand brings in a small two-tier cake with a lit candle on it from the right. A person off-screen holds a bunch of colorful balloons behind the woman and puts a cute headband on her. The woman blows out the candle."
+    },
+    {
+        "second": 3,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AwAQycg1PRI/output_frames/sec_3_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Now, a hand appears from the left and takes the salad away, while another hand brings in a small two-tier cake with a lit candle on it from the right. A person off-screen holds a bunch of colorful balloons behind the woman and puts a cute headband on her. The woman blows out the candle."
+    },
+    {
+        "second": 4,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AwAQycg1PRI/output_frames/sec_4_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Now, a hand appears from the left and takes the salad away, while another hand brings in a small two-tier cake with a lit candle on it from the right. A person off-screen holds a bunch of colorful balloons behind the woman and puts a cute headband on her. The woman blows out the candle."
+    },
+    {
+        "second": 5,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AwAQycg1PRI/output_frames/sec_5_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[4-10] The off-screen person withdraws the small cake, the headband, and the balloons. The woman continues eating her salad with a helpless expression."
+    },
+    {
+        "second": 6,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AwAQycg1PRI/output_frames/sec_6_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[4-10] The off-screen person withdraws the small cake, the headband, and the balloons. The woman continues eating her salad with a helpless expression."
+    },
+    {
+        "second": 7,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AwAQycg1PRI/output_frames/sec_7_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[4-10] The off-screen person withdraws the small cake, the headband, and the balloons. The woman continues eating her salad with a helpless expression."
+    },
+    {
+        "second": 8,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AwAQycg1PRI/output_frames/sec_8_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[4-10] The off-screen person withdraws the small cake, the headband, and the balloons. The woman continues eating her salad with a helpless expression."
+    },
+    {
+        "second": 9,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AwAQycg1PRI/output_frames/sec_9_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[4-10] The off-screen person withdraws the small cake, the headband, and the balloons. The woman continues eating her salad with a helpless expression."
+    },
+    {
+        "second": 10,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AwAQycg1PRI/output_frames/sec_10_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[4-10] The off-screen person withdraws the small cake, the headband, and the balloons. The woman continues eating her salad with a helpless expression."
+    }
+]

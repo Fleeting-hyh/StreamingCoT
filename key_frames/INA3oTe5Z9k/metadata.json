@@ -1,0 +1,289 @@
+[
+    {
+        "second": 0,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/INA3oTe5Z9k/output_frames/sec_0_idx_24.jpg",
+        "fps": 25,
+        "explanation": "[0-0] On a stove in the kitchen, a hand holds a blue plastic bag filled with dough over a black electric skillet, while the other hand holds a knife under the bag. A silver pot is placed on the right side."
+    },
+    {
+        "second": 1,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/INA3oTe5Z9k/output_frames/sec_1_idx_8.jpg",
+        "fps": 25,
+        "explanation": "[0-9] After cutting the plastic bag with the knife, both hands squeeze the light yellow dough out of the bag and onto the skillet."
+    },
+    {
+        "second": 2,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/INA3oTe5Z9k/output_frames/sec_2_idx_1.jpg",
+        "fps": 25,
+        "explanation": "[0-9] After cutting the plastic bag with the knife, both hands squeeze the light yellow dough out of the bag and onto the skillet."
+    },
+    {
+        "second": 3,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/INA3oTe5Z9k/output_frames/sec_3_idx_5.jpg",
+        "fps": 25,
+        "explanation": "[0-9] After cutting the plastic bag with the knife, both hands squeeze the light yellow dough out of the bag and onto the skillet."
+    },
+    {
+        "second": 4,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/INA3oTe5Z9k/output_frames/sec_4_idx_0.jpg",
+        "fps": 25,
+        "explanation": "[0-9] After cutting the plastic bag with the knife, both hands squeeze the light yellow dough out of the bag and onto the skillet."
+    },
+    {
+        "second": 5,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/INA3oTe5Z9k/output_frames/sec_5_idx_22.jpg",
+        "fps": 25,
+        "explanation": "[0-9] After cutting the plastic bag with the knife, both hands squeeze the light yellow dough out of the bag and onto the skillet."
+    },
+    {
+        "second": 6,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/INA3oTe5Z9k/output_frames/sec_6_idx_5.jpg",
+        "fps": 25,
+        "explanation": "[0-9] After cutting the plastic bag with the knife, both hands squeeze the light yellow dough out of the bag and onto the skillet."
+    },
+    {
+        "second": 7,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/INA3oTe5Z9k/output_frames/sec_7_idx_14.jpg",
+        "fps": 25,
+        "explanation": "[0-9] After cutting the plastic bag with the knife, both hands squeeze the light yellow dough out of the bag and onto the skillet."
+    },
+    {
+        "second": 8,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/INA3oTe5Z9k/output_frames/sec_8_idx_20.jpg",
+        "fps": 25,
+        "explanation": "[0-9] After cutting the plastic bag with the knife, both hands squeeze the light yellow dough out of the bag and onto the skillet."
+    },
+    {
+        "second": 9,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/INA3oTe5Z9k/output_frames/sec_9_idx_2.jpg",
+        "fps": 25,
+        "explanation": "[0-9] After cutting the plastic bag with the knife, both hands squeeze the light yellow dough out of the bag and onto the skillet."
+    },
+    {
+        "second": 10,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/INA3oTe5Z9k/output_frames/sec_10_idx_1.jpg",
+        "fps": 25,
+        "explanation": "[9-17] Then, a pair of hands flatten the dough in the pan. Next, the right hand takes a plastic bag containing a yellow liquid, while the left hand uses two toothpicks to pierce the bag, letting the yellow liquid flow onto the dough. Subsequently, both hands press the dough."
+    },
+    {
+        "second": 11,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/INA3oTe5Z9k/output_frames/sec_11_idx_17.jpg",
+        "fps": 25,
+        "explanation": "[9-17] Then, a pair of hands flatten the dough in the pan. Next, the right hand takes a plastic bag containing a yellow liquid, while the left hand uses two toothpicks to pierce the bag, letting the yellow liquid flow onto the dough. Subsequently, both hands press the dough."
+    },
+    {
+        "second": 12,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/INA3oTe5Z9k/output_frames/sec_12_idx_6.jpg",
+        "fps": 25,
+        "explanation": "[9-17] Then, a pair of hands flatten the dough in the pan. Next, the right hand takes a plastic bag containing a yellow liquid, while the left hand uses two toothpicks to pierce the bag, letting the yellow liquid flow onto the dough. Subsequently, both hands press the dough."
+    },
+    {
+        "second": 13,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/INA3oTe5Z9k/output_frames/sec_13_idx_4.jpg",
+        "fps": 25,
+        "explanation": "[9-17] Then, a pair of hands flatten the dough in the pan. Next, the right hand takes a plastic bag containing a yellow liquid, while the left hand uses two toothpicks to pierce the bag, letting the yellow liquid flow onto the dough. Subsequently, both hands press the dough."
+    },
+    {
+        "second": 14,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/INA3oTe5Z9k/output_frames/sec_14_idx_24.jpg",
+        "fps": 25,
+        "explanation": "[9-17] Then, a pair of hands flatten the dough in the pan. Next, the right hand takes a plastic bag containing a yellow liquid, while the left hand uses two toothpicks to pierce the bag, letting the yellow liquid flow onto the dough. Subsequently, both hands press the dough."
+    },
+    {
+        "second": 15,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/INA3oTe5Z9k/output_frames/sec_15_idx_14.jpg",
+        "fps": 25,
+        "explanation": "[9-17] Then, a pair of hands flatten the dough in the pan. Next, the right hand takes a plastic bag containing a yellow liquid, while the left hand uses two toothpicks to pierce the bag, letting the yellow liquid flow onto the dough. Subsequently, both hands press the dough."
+    },
+    {
+        "second": 16,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/INA3oTe5Z9k/output_frames/sec_16_idx_9.jpg",
+        "fps": 25,
+        "explanation": "[9-17] Then, a pair of hands flatten the dough in the pan. Next, the right hand takes a plastic bag containing a yellow liquid, while the left hand uses two toothpicks to pierce the bag, letting the yellow liquid flow onto the dough. Subsequently, both hands press the dough."
+    },
+    {
+        "second": 17,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/INA3oTe5Z9k/output_frames/sec_17_idx_5.jpg",
+        "fps": 25,
+        "explanation": "[9-17] Then, a pair of hands flatten the dough in the pan. Next, the right hand takes a plastic bag containing a yellow liquid, while the left hand uses two toothpicks to pierce the bag, letting the yellow liquid flow onto the dough. Subsequently, both hands press the dough."
+    },
+    {
+        "second": 18,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/INA3oTe5Z9k/output_frames/sec_18_idx_18.jpg",
+        "fps": 25,
+        "explanation": "[17-27] Afterwards, the right hand uses a knife to cut a grid pattern on the surface of the dough."
+    },
+    {
+        "second": 19,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/INA3oTe5Z9k/output_frames/sec_19_idx_0.jpg",
+        "fps": 25,
+        "explanation": "[17-27] Afterwards, the right hand uses a knife to cut a grid pattern on the surface of the dough."
+    },
+    {
+        "second": 20,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/INA3oTe5Z9k/output_frames/sec_20_idx_23.jpg",
+        "fps": 25,
+        "explanation": "[17-27] Afterwards, the right hand uses a knife to cut a grid pattern on the surface of the dough."
+    },
+    {
+        "second": 21,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/INA3oTe5Z9k/output_frames/sec_21_idx_0.jpg",
+        "fps": 25,
+        "explanation": "[17-27] Afterwards, the right hand uses a knife to cut a grid pattern on the surface of the dough."
+    },
+    {
+        "second": 22,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/INA3oTe5Z9k/output_frames/sec_22_idx_10.jpg",
+        "fps": 25,
+        "explanation": "[17-27] Afterwards, the right hand uses a knife to cut a grid pattern on the surface of the dough."
+    },
+    {
+        "second": 23,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/INA3oTe5Z9k/output_frames/sec_23_idx_13.jpg",
+        "fps": 25,
+        "explanation": "[17-27] Afterwards, the right hand uses a knife to cut a grid pattern on the surface of the dough."
+    },
+    {
+        "second": 24,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/INA3oTe5Z9k/output_frames/sec_24_idx_19.jpg",
+        "fps": 25,
+        "explanation": "[17-27] Afterwards, the right hand uses a knife to cut a grid pattern on the surface of the dough."
+    },
+    {
+        "second": 25,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/INA3oTe5Z9k/output_frames/sec_25_idx_21.jpg",
+        "fps": 25,
+        "explanation": "[17-27] Afterwards, the right hand uses a knife to cut a grid pattern on the surface of the dough."
+    },
+    {
+        "second": 26,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/INA3oTe5Z9k/output_frames/sec_26_idx_18.jpg",
+        "fps": 25,
+        "explanation": "[17-27] Afterwards, the right hand uses a knife to cut a grid pattern on the surface of the dough."
+    },
+    {
+        "second": 27,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/INA3oTe5Z9k/output_frames/sec_27_idx_11.jpg",
+        "fps": 25,
+        "explanation": "[17-27] Afterwards, the right hand uses a knife to cut a grid pattern on the surface of the dough."
+    },
+    {
+        "second": 28,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/INA3oTe5Z9k/output_frames/sec_28_idx_13.jpg",
+        "fps": 25,
+        "explanation": "[27-35] Then, both hands place three eggs on the dough. The right hand holds the knife to crack a slit in each egg, and both hands spread the eggs on the dough."
+    },
+    {
+        "second": 29,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/INA3oTe5Z9k/output_frames/sec_29_idx_0.jpg",
+        "fps": 25,
+        "explanation": "[27-35] Then, both hands place three eggs on the dough. The right hand holds the knife to crack a slit in each egg, and both hands spread the eggs on the dough."
+    },
+    {
+        "second": 30,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/INA3oTe5Z9k/output_frames/sec_30_idx_10.jpg",
+        "fps": 25,
+        "explanation": "[27-35] Then, both hands place three eggs on the dough. The right hand holds the knife to crack a slit in each egg, and both hands spread the eggs on the dough."
+    },
+    {
+        "second": 31,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/INA3oTe5Z9k/output_frames/sec_31_idx_9.jpg",
+        "fps": 25,
+        "explanation": "[27-35] Then, both hands place three eggs on the dough. The right hand holds the knife to crack a slit in each egg, and both hands spread the eggs on the dough."
+    },
+    {
+        "second": 32,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/INA3oTe5Z9k/output_frames/sec_32_idx_3.jpg",
+        "fps": 25,
+        "explanation": "[27-35] Then, both hands place three eggs on the dough. The right hand holds the knife to crack a slit in each egg, and both hands spread the eggs on the dough."
+    },
+    {
+        "second": 33,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/INA3oTe5Z9k/output_frames/sec_33_idx_17.jpg",
+        "fps": 25,
+        "explanation": "[27-35] Then, both hands place three eggs on the dough. The right hand holds the knife to crack a slit in each egg, and both hands spread the eggs on the dough."
+    },
+    {
+        "second": 34,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/INA3oTe5Z9k/output_frames/sec_34_idx_3.jpg",
+        "fps": 25,
+        "explanation": "[27-35] Then, both hands place three eggs on the dough. The right hand holds the knife to crack a slit in each egg, and both hands spread the eggs on the dough."
+    },
+    {
+        "second": 35,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/INA3oTe5Z9k/output_frames/sec_35_idx_8.jpg",
+        "fps": 25,
+        "explanation": "[27-35] Then, both hands place three eggs on the dough. The right hand holds the knife to crack a slit in each egg, and both hands spread the eggs on the dough."
+    },
+    {
+        "second": 36,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/INA3oTe5Z9k/output_frames/sec_36_idx_8.jpg",
+        "fps": 25,
+        "explanation": "[35-40] Subsequently, the right hand holds a knife and the left hand sprinkles chopped green onions from the knife onto the dough. Next, the left hand lifts a bowl from the table, and the right hand sprinkles the red ingredient from the bowl onto the dough."
+    },
+    {
+        "second": 37,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/INA3oTe5Z9k/output_frames/sec_37_idx_0.jpg",
+        "fps": 25,
+        "explanation": "[35-40] Subsequently, the right hand holds a knife and the left hand sprinkles chopped green onions from the knife onto the dough. Next, the left hand lifts a bowl from the table, and the right hand sprinkles the red ingredient from the bowl onto the dough."
+    },
+    {
+        "second": 38,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/INA3oTe5Z9k/output_frames/sec_38_idx_23.jpg",
+        "fps": 25,
+        "explanation": "[35-40] Subsequently, the right hand holds a knife and the left hand sprinkles chopped green onions from the knife onto the dough. Next, the left hand lifts a bowl from the table, and the right hand sprinkles the red ingredient from the bowl onto the dough."
+    },
+    {
+        "second": 39,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/INA3oTe5Z9k/output_frames/sec_39_idx_1.jpg",
+        "fps": 25,
+        "explanation": "[35-40] Subsequently, the right hand holds a knife and the left hand sprinkles chopped green onions from the knife onto the dough. Next, the left hand lifts a bowl from the table, and the right hand sprinkles the red ingredient from the bowl onto the dough."
+    },
+    {
+        "second": 40,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/INA3oTe5Z9k/output_frames/sec_40_idx_0.jpg",
+        "fps": 25,
+        "explanation": "[35-40] Subsequently, the right hand holds a knife and the left hand sprinkles chopped green onions from the knife onto the dough. Next, the left hand lifts a bowl from the table, and the right hand sprinkles the red ingredient from the bowl onto the dough."
+    }
+]

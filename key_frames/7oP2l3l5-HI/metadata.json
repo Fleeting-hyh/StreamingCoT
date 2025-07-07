@@ -1,0 +1,79 @@
+[
+    {
+        "second": 0,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7oP2l3l5-HI/output_frames/sec_0_idx_8.jpg",
+        "fps": 24,
+        "explanation": "[0-0] The video starts with a blurred view of some light blue horizontal bars."
+    },
+    {
+        "second": 1,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7oP2l3l5-HI/output_frames/sec_1_idx_2.jpg",
+        "fps": 24,
+        "explanation": "[0-2] The blur continues as the camera moves upward quickly. Some buildings appear. You can see gray rooftops and what looks like some chimneys. Then the camera pans down, showing a leg wearing black and red clothing with pink buildings in the lower right."
+    },
+    {
+        "second": 2,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7oP2l3l5-HI/output_frames/sec_2_idx_4.jpg",
+        "fps": 24,
+        "explanation": "[0-2] The blur continues as the camera moves upward quickly. Some buildings appear. You can see gray rooftops and what looks like some chimneys. Then the camera pans down, showing a leg wearing black and red clothing with pink buildings in the lower right."
+    },
+    {
+        "second": 3,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7oP2l3l5-HI/output_frames/sec_3_idx_10.jpg",
+        "fps": 24,
+        "explanation": "[2-10] Legs wearing black and red pants quickly stride onto a gray rooftop, followed by a girl in a black and red jumpsuit and a black and red eye mask appearing on the gray roof. She continues to run and jump across the rooftops, her movements fluid and agile. Then the camera cuts to the girl's back, showing her with her hair in pigtails as she continues to jump and run across the rooftops. She jumps forward, over a pink chimney from the roof of a yellow building, and lands on a blue roof, where she continues to run. Finally, the girl stops, looks ahead, and reveals a surprised expression."
+    },
+    {
+        "second": 4,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7oP2l3l5-HI/output_frames/sec_4_idx_10.jpg",
+        "fps": 24,
+        "explanation": "[2-10] Legs wearing black and red pants quickly stride onto a gray rooftop, followed by a girl in a black and red jumpsuit and a black and red eye mask appearing on the gray roof. She continues to run and jump across the rooftops, her movements fluid and agile. Then the camera cuts to the girl's back, showing her with her hair in pigtails as she continues to jump and run across the rooftops. She jumps forward, over a pink chimney from the roof of a yellow building, and lands on a blue roof, where she continues to run. Finally, the girl stops, looks ahead, and reveals a surprised expression."
+    },
+    {
+        "second": 5,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7oP2l3l5-HI/output_frames/sec_5_idx_0.jpg",
+        "fps": 24,
+        "explanation": "[2-10] Legs wearing black and red pants quickly stride onto a gray rooftop, followed by a girl in a black and red jumpsuit and a black and red eye mask appearing on the gray roof. She continues to run and jump across the rooftops, her movements fluid and agile. Then the camera cuts to the girl's back, showing her with her hair in pigtails as she continues to jump and run across the rooftops. She jumps forward, over a pink chimney from the roof of a yellow building, and lands on a blue roof, where she continues to run. Finally, the girl stops, looks ahead, and reveals a surprised expression."
+    },
+    {
+        "second": 6,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7oP2l3l5-HI/output_frames/sec_6_idx_17.jpg",
+        "fps": 24,
+        "explanation": "[2-10] Legs wearing black and red pants quickly stride onto a gray rooftop, followed by a girl in a black and red jumpsuit and a black and red eye mask appearing on the gray roof. She continues to run and jump across the rooftops, her movements fluid and agile. Then the camera cuts to the girl's back, showing her with her hair in pigtails as she continues to jump and run across the rooftops. She jumps forward, over a pink chimney from the roof of a yellow building, and lands on a blue roof, where she continues to run. Finally, the girl stops, looks ahead, and reveals a surprised expression."
+    },
+    {
+        "second": 7,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7oP2l3l5-HI/output_frames/sec_7_idx_3.jpg",
+        "fps": 24,
+        "explanation": "[2-10] Legs wearing black and red pants quickly stride onto a gray rooftop, followed by a girl in a black and red jumpsuit and a black and red eye mask appearing on the gray roof. She continues to run and jump across the rooftops, her movements fluid and agile. Then the camera cuts to the girl's back, showing her with her hair in pigtails as she continues to jump and run across the rooftops. She jumps forward, over a pink chimney from the roof of a yellow building, and lands on a blue roof, where she continues to run. Finally, the girl stops, looks ahead, and reveals a surprised expression."
+    },
+    {
+        "second": 8,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7oP2l3l5-HI/output_frames/sec_8_idx_23.jpg",
+        "fps": 24,
+        "explanation": "[2-10] Legs wearing black and red pants quickly stride onto a gray rooftop, followed by a girl in a black and red jumpsuit and a black and red eye mask appearing on the gray roof. She continues to run and jump across the rooftops, her movements fluid and agile. Then the camera cuts to the girl's back, showing her with her hair in pigtails as she continues to jump and run across the rooftops. She jumps forward, over a pink chimney from the roof of a yellow building, and lands on a blue roof, where she continues to run. Finally, the girl stops, looks ahead, and reveals a surprised expression."
+    },
+    {
+        "second": 9,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7oP2l3l5-HI/output_frames/sec_9_idx_0.jpg",
+        "fps": 24,
+        "explanation": "[2-10] Legs wearing black and red pants quickly stride onto a gray rooftop, followed by a girl in a black and red jumpsuit and a black and red eye mask appearing on the gray roof. She continues to run and jump across the rooftops, her movements fluid and agile. Then the camera cuts to the girl's back, showing her with her hair in pigtails as she continues to jump and run across the rooftops. She jumps forward, over a pink chimney from the roof of a yellow building, and lands on a blue roof, where she continues to run. Finally, the girl stops, looks ahead, and reveals a surprised expression."
+    },
+    {
+        "second": 10,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7oP2l3l5-HI/output_frames/sec_10_idx_0.jpg",
+        "fps": 24,
+        "explanation": "[2-10] Legs wearing black and red pants quickly stride onto a gray rooftop, followed by a girl in a black and red jumpsuit and a black and red eye mask appearing on the gray roof. She continues to run and jump across the rooftops, her movements fluid and agile. Then the camera cuts to the girl's back, showing her with her hair in pigtails as she continues to jump and run across the rooftops. She jumps forward, over a pink chimney from the roof of a yellow building, and lands on a blue roof, where she continues to run. Finally, the girl stops, looks ahead, and reveals a surprised expression."
+    }
+]

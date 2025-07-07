@@ -1,0 +1,373 @@
+[
+    {
+        "second": 0,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HjFJG1pg_YM/output_frames/sec_0_idx_19.jpg",
+        "fps": 60,
+        "explanation": "[0-0] A yellow excavator places its bucket on the ground. The driver, wearing a red shirt, is in the excavator. In front of the excavator is a pile of coal, and behind it are many white trucks."
+    },
+    {
+        "second": 1,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HjFJG1pg_YM/output_frames/sec_1_idx_4.jpg",
+        "fps": 60,
+        "explanation": "[0-7] The excavator starts to move forward, scooping coal into its bucket. At this time, the front of a white truck appears behind the excavator. The truck continuously moves to the left. The excavator driver lowers his head as the bucket swings."
+    },
+    {
+        "second": 2,
+        "frame_index": 36,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HjFJG1pg_YM/output_frames/sec_2_idx_36.jpg",
+        "fps": 60,
+        "explanation": "[0-7] The excavator starts to move forward, scooping coal into its bucket. At this time, the front of a white truck appears behind the excavator. The truck continuously moves to the left. The excavator driver lowers his head as the bucket swings."
+    },
+    {
+        "second": 3,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HjFJG1pg_YM/output_frames/sec_3_idx_7.jpg",
+        "fps": 60,
+        "explanation": "[0-7] The excavator starts to move forward, scooping coal into its bucket. At this time, the front of a white truck appears behind the excavator. The truck continuously moves to the left. The excavator driver lowers his head as the bucket swings."
+    },
+    {
+        "second": 4,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HjFJG1pg_YM/output_frames/sec_4_idx_5.jpg",
+        "fps": 60,
+        "explanation": "[0-7] The excavator starts to move forward, scooping coal into its bucket. At this time, the front of a white truck appears behind the excavator. The truck continuously moves to the left. The excavator driver lowers his head as the bucket swings."
+    },
+    {
+        "second": 5,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HjFJG1pg_YM/output_frames/sec_5_idx_16.jpg",
+        "fps": 60,
+        "explanation": "[0-7] The excavator starts to move forward, scooping coal into its bucket. At this time, the front of a white truck appears behind the excavator. The truck continuously moves to the left. The excavator driver lowers his head as the bucket swings."
+    },
+    {
+        "second": 6,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HjFJG1pg_YM/output_frames/sec_6_idx_26.jpg",
+        "fps": 60,
+        "explanation": "[0-7] The excavator starts to move forward, scooping coal into its bucket. At this time, the front of a white truck appears behind the excavator. The truck continuously moves to the left. The excavator driver lowers his head as the bucket swings."
+    },
+    {
+        "second": 7,
+        "frame_index": 31,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HjFJG1pg_YM/output_frames/sec_7_idx_31.jpg",
+        "fps": 60,
+        "explanation": "[0-7] The excavator starts to move forward, scooping coal into its bucket. At this time, the front of a white truck appears behind the excavator. The truck continuously moves to the left. The excavator driver lowers his head as the bucket swings."
+    },
+    {
+        "second": 8,
+        "frame_index": 40,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HjFJG1pg_YM/output_frames/sec_8_idx_40.jpg",
+        "fps": 60,
+        "explanation": "[7-14] The bucket is slowly raised, scooping more coal into it. The truck behind the excavator disappears from the left."
+    },
+    {
+        "second": 9,
+        "frame_index": 32,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HjFJG1pg_YM/output_frames/sec_9_idx_32.jpg",
+        "fps": 60,
+        "explanation": "[7-14] The bucket is slowly raised, scooping more coal into it. The truck behind the excavator disappears from the left."
+    },
+    {
+        "second": 10,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HjFJG1pg_YM/output_frames/sec_10_idx_11.jpg",
+        "fps": 60,
+        "explanation": "[7-14] The bucket is slowly raised, scooping more coal into it. The truck behind the excavator disappears from the left."
+    },
+    {
+        "second": 11,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HjFJG1pg_YM/output_frames/sec_11_idx_4.jpg",
+        "fps": 60,
+        "explanation": "[7-14] The bucket is slowly raised, scooping more coal into it. The truck behind the excavator disappears from the left."
+    },
+    {
+        "second": 12,
+        "frame_index": 58,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HjFJG1pg_YM/output_frames/sec_12_idx_58.jpg",
+        "fps": 60,
+        "explanation": "[7-14] The bucket is slowly raised, scooping more coal into it. The truck behind the excavator disappears from the left."
+    },
+    {
+        "second": 13,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HjFJG1pg_YM/output_frames/sec_13_idx_21.jpg",
+        "fps": 60,
+        "explanation": "[7-14] The bucket is slowly raised, scooping more coal into it. The truck behind the excavator disappears from the left."
+    },
+    {
+        "second": 14,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HjFJG1pg_YM/output_frames/sec_14_idx_3.jpg",
+        "fps": 60,
+        "explanation": "[7-14] The bucket is slowly raised, scooping more coal into it. The truck behind the excavator disappears from the left."
+    },
+    {
+        "second": 15,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HjFJG1pg_YM/output_frames/sec_15_idx_21.jpg",
+        "fps": 60,
+        "explanation": "[14-24] As the bucket gradually fills with coal, the driver slowly moves the excavator backward. A white truck appears behind the excavator. When the bucket is completely out of the coal pile, large chunks of coal tumble down from it."
+    },
+    {
+        "second": 16,
+        "frame_index": 41,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HjFJG1pg_YM/output_frames/sec_16_idx_41.jpg",
+        "fps": 60,
+        "explanation": "[14-24] As the bucket gradually fills with coal, the driver slowly moves the excavator backward. A white truck appears behind the excavator. When the bucket is completely out of the coal pile, large chunks of coal tumble down from it."
+    },
+    {
+        "second": 17,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HjFJG1pg_YM/output_frames/sec_17_idx_10.jpg",
+        "fps": 60,
+        "explanation": "[14-24] As the bucket gradually fills with coal, the driver slowly moves the excavator backward. A white truck appears behind the excavator. When the bucket is completely out of the coal pile, large chunks of coal tumble down from it."
+    },
+    {
+        "second": 18,
+        "frame_index": 48,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HjFJG1pg_YM/output_frames/sec_18_idx_48.jpg",
+        "fps": 60,
+        "explanation": "[14-24] As the bucket gradually fills with coal, the driver slowly moves the excavator backward. A white truck appears behind the excavator. When the bucket is completely out of the coal pile, large chunks of coal tumble down from it."
+    },
+    {
+        "second": 19,
+        "frame_index": 32,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HjFJG1pg_YM/output_frames/sec_19_idx_32.jpg",
+        "fps": 60,
+        "explanation": "[14-24] As the bucket gradually fills with coal, the driver slowly moves the excavator backward. A white truck appears behind the excavator. When the bucket is completely out of the coal pile, large chunks of coal tumble down from it."
+    },
+    {
+        "second": 20,
+        "frame_index": 51,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HjFJG1pg_YM/output_frames/sec_20_idx_51.jpg",
+        "fps": 60,
+        "explanation": "[14-24] As the bucket gradually fills with coal, the driver slowly moves the excavator backward. A white truck appears behind the excavator. When the bucket is completely out of the coal pile, large chunks of coal tumble down from it."
+    },
+    {
+        "second": 21,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HjFJG1pg_YM/output_frames/sec_21_idx_5.jpg",
+        "fps": 60,
+        "explanation": "[14-24] As the bucket gradually fills with coal, the driver slowly moves the excavator backward. A white truck appears behind the excavator. When the bucket is completely out of the coal pile, large chunks of coal tumble down from it."
+    },
+    {
+        "second": 22,
+        "frame_index": 34,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HjFJG1pg_YM/output_frames/sec_22_idx_34.jpg",
+        "fps": 60,
+        "explanation": "[14-24] As the bucket gradually fills with coal, the driver slowly moves the excavator backward. A white truck appears behind the excavator. When the bucket is completely out of the coal pile, large chunks of coal tumble down from it."
+    },
+    {
+        "second": 23,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HjFJG1pg_YM/output_frames/sec_23_idx_23.jpg",
+        "fps": 60,
+        "explanation": "[14-24] As the bucket gradually fills with coal, the driver slowly moves the excavator backward. A white truck appears behind the excavator. When the bucket is completely out of the coal pile, large chunks of coal tumble down from it."
+    },
+    {
+        "second": 24,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HjFJG1pg_YM/output_frames/sec_24_idx_21.jpg",
+        "fps": 60,
+        "explanation": "[14-24] As the bucket gradually fills with coal, the driver slowly moves the excavator backward. A white truck appears behind the excavator. When the bucket is completely out of the coal pile, large chunks of coal tumble down from it."
+    },
+    {
+        "second": 25,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HjFJG1pg_YM/output_frames/sec_25_idx_19.jpg",
+        "fps": 60,
+        "explanation": "[24-34] As the excavator moves backward, it becomes apparent that the coal yard is very large. A green conveyor belt on the left extends into the distance. The excavator stops, slowly raises its bucket to its highest point, and a white truck reverses under the bucket. Behind them, another white truck is approaching."
+    },
+    {
+        "second": 26,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HjFJG1pg_YM/output_frames/sec_26_idx_2.jpg",
+        "fps": 60,
+        "explanation": "[24-34] As the excavator moves backward, it becomes apparent that the coal yard is very large. A green conveyor belt on the left extends into the distance. The excavator stops, slowly raises its bucket to its highest point, and a white truck reverses under the bucket. Behind them, another white truck is approaching."
+    },
+    {
+        "second": 27,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HjFJG1pg_YM/output_frames/sec_27_idx_28.jpg",
+        "fps": 60,
+        "explanation": "[24-34] As the excavator moves backward, it becomes apparent that the coal yard is very large. A green conveyor belt on the left extends into the distance. The excavator stops, slowly raises its bucket to its highest point, and a white truck reverses under the bucket. Behind them, another white truck is approaching."
+    },
+    {
+        "second": 28,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HjFJG1pg_YM/output_frames/sec_28_idx_5.jpg",
+        "fps": 60,
+        "explanation": "[24-34] As the excavator moves backward, it becomes apparent that the coal yard is very large. A green conveyor belt on the left extends into the distance. The excavator stops, slowly raises its bucket to its highest point, and a white truck reverses under the bucket. Behind them, another white truck is approaching."
+    },
+    {
+        "second": 29,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HjFJG1pg_YM/output_frames/sec_29_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[24-34] As the excavator moves backward, it becomes apparent that the coal yard is very large. A green conveyor belt on the left extends into the distance. The excavator stops, slowly raises its bucket to its highest point, and a white truck reverses under the bucket. Behind them, another white truck is approaching."
+    },
+    {
+        "second": 30,
+        "frame_index": 53,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HjFJG1pg_YM/output_frames/sec_30_idx_53.jpg",
+        "fps": 60,
+        "explanation": "[24-34] As the excavator moves backward, it becomes apparent that the coal yard is very large. A green conveyor belt on the left extends into the distance. The excavator stops, slowly raises its bucket to its highest point, and a white truck reverses under the bucket. Behind them, another white truck is approaching."
+    },
+    {
+        "second": 31,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HjFJG1pg_YM/output_frames/sec_31_idx_1.jpg",
+        "fps": 60,
+        "explanation": "[24-34] As the excavator moves backward, it becomes apparent that the coal yard is very large. A green conveyor belt on the left extends into the distance. The excavator stops, slowly raises its bucket to its highest point, and a white truck reverses under the bucket. Behind them, another white truck is approaching."
+    },
+    {
+        "second": 32,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HjFJG1pg_YM/output_frames/sec_32_idx_1.jpg",
+        "fps": 60,
+        "explanation": "[24-34] As the excavator moves backward, it becomes apparent that the coal yard is very large. A green conveyor belt on the left extends into the distance. The excavator stops, slowly raises its bucket to its highest point, and a white truck reverses under the bucket. Behind them, another white truck is approaching."
+    },
+    {
+        "second": 33,
+        "frame_index": 58,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HjFJG1pg_YM/output_frames/sec_33_idx_58.jpg",
+        "fps": 60,
+        "explanation": "[24-34] As the excavator moves backward, it becomes apparent that the coal yard is very large. A green conveyor belt on the left extends into the distance. The excavator stops, slowly raises its bucket to its highest point, and a white truck reverses under the bucket. Behind them, another white truck is approaching."
+    },
+    {
+        "second": 34,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HjFJG1pg_YM/output_frames/sec_34_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[24-34] As the excavator moves backward, it becomes apparent that the coal yard is very large. A green conveyor belt on the left extends into the distance. The excavator stops, slowly raises its bucket to its highest point, and a white truck reverses under the bucket. Behind them, another white truck is approaching."
+    },
+    {
+        "second": 35,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HjFJG1pg_YM/output_frames/sec_35_idx_11.jpg",
+        "fps": 60,
+        "explanation": "[34-38] Seeing the white truck in position, the excavator operator lowers the bucket, pouring the coal into the truck bed. The white truck behind it disappears from the right."
+    },
+    {
+        "second": 36,
+        "frame_index": 50,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HjFJG1pg_YM/output_frames/sec_36_idx_50.jpg",
+        "fps": 60,
+        "explanation": "[34-38] Seeing the white truck in position, the excavator operator lowers the bucket, pouring the coal into the truck bed. The white truck behind it disappears from the right."
+    },
+    {
+        "second": 37,
+        "frame_index": 53,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HjFJG1pg_YM/output_frames/sec_37_idx_53.jpg",
+        "fps": 60,
+        "explanation": "[34-38] Seeing the white truck in position, the excavator operator lowers the bucket, pouring the coal into the truck bed. The white truck behind it disappears from the right."
+    },
+    {
+        "second": 38,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HjFJG1pg_YM/output_frames/sec_38_idx_3.jpg",
+        "fps": 60,
+        "explanation": "[34-38] Seeing the white truck in position, the excavator operator lowers the bucket, pouring the coal into the truck bed. The white truck behind it disappears from the right."
+    },
+    {
+        "second": 39,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HjFJG1pg_YM/output_frames/sec_39_idx_14.jpg",
+        "fps": 60,
+        "explanation": "[38-48] A large amount of coal is dumped from the bucket into the truck bed. Then, the bucket is empty."
+    },
+    {
+        "second": 40,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HjFJG1pg_YM/output_frames/sec_40_idx_10.jpg",
+        "fps": 60,
+        "explanation": "[38-48] A large amount of coal is dumped from the bucket into the truck bed. Then, the bucket is empty."
+    },
+    {
+        "second": 41,
+        "frame_index": 33,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HjFJG1pg_YM/output_frames/sec_41_idx_33.jpg",
+        "fps": 60,
+        "explanation": "[38-48] A large amount of coal is dumped from the bucket into the truck bed. Then, the bucket is empty."
+    },
+    {
+        "second": 42,
+        "frame_index": 42,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HjFJG1pg_YM/output_frames/sec_42_idx_42.jpg",
+        "fps": 60,
+        "explanation": "[38-48] A large amount of coal is dumped from the bucket into the truck bed. Then, the bucket is empty."
+    },
+    {
+        "second": 43,
+        "frame_index": 30,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HjFJG1pg_YM/output_frames/sec_43_idx_30.jpg",
+        "fps": 60,
+        "explanation": "[38-48] A large amount of coal is dumped from the bucket into the truck bed. Then, the bucket is empty."
+    },
+    {
+        "second": 44,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HjFJG1pg_YM/output_frames/sec_44_idx_8.jpg",
+        "fps": 60,
+        "explanation": "[38-48] A large amount of coal is dumped from the bucket into the truck bed. Then, the bucket is empty."
+    },
+    {
+        "second": 45,
+        "frame_index": 42,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HjFJG1pg_YM/output_frames/sec_45_idx_42.jpg",
+        "fps": 60,
+        "explanation": "[38-48] A large amount of coal is dumped from the bucket into the truck bed. Then, the bucket is empty."
+    },
+    {
+        "second": 46,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HjFJG1pg_YM/output_frames/sec_46_idx_11.jpg",
+        "fps": 60,
+        "explanation": "[38-48] A large amount of coal is dumped from the bucket into the truck bed. Then, the bucket is empty."
+    },
+    {
+        "second": 47,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HjFJG1pg_YM/output_frames/sec_47_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[38-48] A large amount of coal is dumped from the bucket into the truck bed. Then, the bucket is empty."
+    },
+    {
+        "second": 48,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HjFJG1pg_YM/output_frames/sec_48_idx_12.jpg",
+        "fps": 60,
+        "explanation": "[38-48] A large amount of coal is dumped from the bucket into the truck bed. Then, the bucket is empty."
+    },
+    {
+        "second": 49,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HjFJG1pg_YM/output_frames/sec_49_idx_9.jpg",
+        "fps": 60,
+        "explanation": "[48-52] Finally, the white truck drives away, and the excavator reverses to prepare for the next round of work."
+    },
+    {
+        "second": 50,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HjFJG1pg_YM/output_frames/sec_50_idx_12.jpg",
+        "fps": 60,
+        "explanation": "[48-52] Finally, the white truck drives away, and the excavator reverses to prepare for the next round of work."
+    },
+    {
+        "second": 51,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HjFJG1pg_YM/output_frames/sec_51_idx_12.jpg",
+        "fps": 60,
+        "explanation": "[48-52] Finally, the white truck drives away, and the excavator reverses to prepare for the next round of work."
+    },
+    {
+        "second": 52,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HjFJG1pg_YM/output_frames/sec_52_idx_4.jpg",
+        "fps": 60,
+        "explanation": "[48-52] Finally, the white truck drives away, and the excavator reverses to prepare for the next round of work."
+    }
+]

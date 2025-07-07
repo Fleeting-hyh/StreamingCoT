@@ -1,0 +1,58 @@
+[
+    {
+        "second": 0,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3TdO3fvDuXo/output_frames/sec_0_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A hand with a yellow bracelet approaches a door. The door is made of dark wood and adorned with delicate decorative patterns. The gold door handle is on the left side of the door. At the top of the screen are the white letters \"GH'S.\""
+    },
+    {
+        "second": 1,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3TdO3fvDuXo/output_frames/sec_1_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-3] The hand then grabs the doorknob and opens the door. Inside is a classroom with a girl with white hair and several cartoon characters. The girl stands in front of a blackboard, on which is written the arithmetic problem \"2+2*2=?,\" and she points at the blackboard with a pointer in her hand. Then, a hand reaches up from the bottom of the screen with a note that reads \"8.\" The girl looks at the note, frowns, and her expression turns serious. The girl then angrily bends the pointer, after which a hand closes the wooden door."
+    },
+    {
+        "second": 2,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3TdO3fvDuXo/output_frames/sec_2_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-3] The hand then grabs the doorknob and opens the door. Inside is a classroom with a girl with white hair and several cartoon characters. The girl stands in front of a blackboard, on which is written the arithmetic problem \"2+2*2=?,\" and she points at the blackboard with a pointer in her hand. Then, a hand reaches up from the bottom of the screen with a note that reads \"8.\" The girl looks at the note, frowns, and her expression turns serious. The girl then angrily bends the pointer, after which a hand closes the wooden door."
+    },
+    {
+        "second": 3,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3TdO3fvDuXo/output_frames/sec_3_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[0-3] The hand then grabs the doorknob and opens the door. Inside is a classroom with a girl with white hair and several cartoon characters. The girl stands in front of a blackboard, on which is written the arithmetic problem \"2+2*2=?,\" and she points at the blackboard with a pointer in her hand. Then, a hand reaches up from the bottom of the screen with a note that reads \"8.\" The girl looks at the note, frowns, and her expression turns serious. The girl then angrily bends the pointer, after which a hand closes the wooden door."
+    },
+    {
+        "second": 4,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3TdO3fvDuXo/output_frames/sec_4_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[3-8] Immediately, a hand opens the door, and a white cartoon character with a bow appears in the picture. Its eyes are red, and it is holding a red card with the number \"6\" on it."
+    },
+    {
+        "second": 5,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3TdO3fvDuXo/output_frames/sec_5_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[3-8] Immediately, a hand opens the door, and a white cartoon character with a bow appears in the picture. Its eyes are red, and it is holding a red card with the number \"6\" on it."
+    },
+    {
+        "second": 6,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3TdO3fvDuXo/output_frames/sec_6_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[3-8] Immediately, a hand opens the door, and a white cartoon character with a bow appears in the picture. Its eyes are red, and it is holding a red card with the number \"6\" on it."
+    },
+    {
+        "second": 7,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3TdO3fvDuXo/output_frames/sec_7_idx_24.jpg",
+        "fps": 30,
+        "explanation": "[3-8] Immediately, a hand opens the door, and a white cartoon character with a bow appears in the picture. Its eyes are red, and it is holding a red card with the number \"6\" on it."
+    }
+]

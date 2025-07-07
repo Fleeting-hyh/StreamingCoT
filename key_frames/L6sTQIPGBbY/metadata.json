@@ -1,0 +1,205 @@
+[
+    {
+        "second": 0,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/L6sTQIPGBbY/output_frames/sec_0_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A person in a Spider-Man costume is crouching in front of an open door indoors, holding the door frame with both hands. The floor of the room is grey, with a grey balance board on it. A thick rope hangs on the grey wall, with a yellow wall above and a green sign on it. There are some trees in the background."
+    },
+    {
+        "second": 1,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/L6sTQIPGBbY/output_frames/sec_1_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-3] The camera moves as the person runs, jumping from the balance board onto a blue mat in front of them. The mat is propped up by wooden cabinets, a long table, and red pillars to form a slope. The person runs up the mat against a backdrop of a climbing wall."
+    },
+    {
+        "second": 2,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/L6sTQIPGBbY/output_frames/sec_2_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-3] The camera moves as the person runs, jumping from the balance board onto a blue mat in front of them. The mat is propped up by wooden cabinets, a long table, and red pillars to form a slope. The person runs up the mat against a backdrop of a climbing wall."
+    },
+    {
+        "second": 3,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/L6sTQIPGBbY/output_frames/sec_3_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[0-3] The camera moves as the person runs, jumping from the balance board onto a blue mat in front of them. The mat is propped up by wooden cabinets, a long table, and red pillars to form a slope. The person runs up the mat against a backdrop of a climbing wall."
+    },
+    {
+        "second": 4,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/L6sTQIPGBbY/output_frames/sec_4_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[3-6] The person then jumps from the top of the blue mat to another dark blue mat with \"mayer\" printed on the side. In the background, there is a standing mat and a basketball hoop on the wall. The person walks across the dark blue mat and jumps onto two pieces of cloth."
+    },
+    {
+        "second": 5,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/L6sTQIPGBbY/output_frames/sec_5_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[3-6] The person then jumps from the top of the blue mat to another dark blue mat with \"mayer\" printed on the side. In the background, there is a standing mat and a basketball hoop on the wall. The person walks across the dark blue mat and jumps onto two pieces of cloth."
+    },
+    {
+        "second": 6,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/L6sTQIPGBbY/output_frames/sec_6_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[3-6] The person then jumps from the top of the blue mat to another dark blue mat with \"mayer\" printed on the side. In the background, there is a standing mat and a basketball hoop on the wall. The person walks across the dark blue mat and jumps onto two pieces of cloth."
+    },
+    {
+        "second": 7,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/L6sTQIPGBbY/output_frames/sec_7_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[6-8] The person then alternates stepping on the two pieces of cloth to move around the room."
+    },
+    {
+        "second": 8,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/L6sTQIPGBbY/output_frames/sec_8_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[6-8] The person then alternates stepping on the two pieces of cloth to move around the room."
+    },
+    {
+        "second": 9,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/L6sTQIPGBbY/output_frames/sec_9_idx_24.jpg",
+        "fps": 30,
+        "explanation": "[8-12] Next, the person bends down and picks up a red ball from the floor while keeping their feet on the two pieces of cloth and throws the ball towards a yellow obstacle in front."
+    },
+    {
+        "second": 10,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/L6sTQIPGBbY/output_frames/sec_10_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[8-12] Next, the person bends down and picks up a red ball from the floor while keeping their feet on the two pieces of cloth and throws the ball towards a yellow obstacle in front."
+    },
+    {
+        "second": 11,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/L6sTQIPGBbY/output_frames/sec_11_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[8-12] Next, the person bends down and picks up a red ball from the floor while keeping their feet on the two pieces of cloth and throws the ball towards a yellow obstacle in front."
+    },
+    {
+        "second": 12,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/L6sTQIPGBbY/output_frames/sec_12_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[8-12] Next, the person bends down and picks up a red ball from the floor while keeping their feet on the two pieces of cloth and throws the ball towards a yellow obstacle in front."
+    },
+    {
+        "second": 13,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/L6sTQIPGBbY/output_frames/sec_13_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[12-14] The person continues to alternate stepping on the two pieces of cloth to move around the room before jumping onto a wooden box."
+    },
+    {
+        "second": 14,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/L6sTQIPGBbY/output_frames/sec_14_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[12-14] The person continues to alternate stepping on the two pieces of cloth to move around the room before jumping onto a wooden box."
+    },
+    {
+        "second": 15,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/L6sTQIPGBbY/output_frames/sec_15_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[14-18] The person then jumps from the wooden box onto a blue trampoline and then from the trampoline onto a blue mat."
+    },
+    {
+        "second": 16,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/L6sTQIPGBbY/output_frames/sec_16_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[14-18] The person then jumps from the wooden box onto a blue trampoline and then from the trampoline onto a blue mat."
+    },
+    {
+        "second": 17,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/L6sTQIPGBbY/output_frames/sec_17_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[14-18] The person then jumps from the wooden box onto a blue trampoline and then from the trampoline onto a blue mat."
+    },
+    {
+        "second": 18,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/L6sTQIPGBbY/output_frames/sec_18_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[14-18] The person then jumps from the wooden box onto a blue trampoline and then from the trampoline onto a blue mat."
+    },
+    {
+        "second": 19,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/L6sTQIPGBbY/output_frames/sec_19_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[18-22] Afterward, the person jumps onto the wooden box again, jumps from the box onto a blue mat, and then lies on a wooden board with four wheels in front and slides forward."
+    },
+    {
+        "second": 20,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/L6sTQIPGBbY/output_frames/sec_20_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[18-22] Afterward, the person jumps onto the wooden box again, jumps from the box onto a blue mat, and then lies on a wooden board with four wheels in front and slides forward."
+    },
+    {
+        "second": 21,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/L6sTQIPGBbY/output_frames/sec_21_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[18-22] Afterward, the person jumps onto the wooden box again, jumps from the box onto a blue mat, and then lies on a wooden board with four wheels in front and slides forward."
+    },
+    {
+        "second": 22,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/L6sTQIPGBbY/output_frames/sec_22_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[18-22] Afterward, the person jumps onto the wooden box again, jumps from the box onto a blue mat, and then lies on a wooden board with four wheels in front and slides forward."
+    },
+    {
+        "second": 23,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/L6sTQIPGBbY/output_frames/sec_23_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[22-25] The person then slides from the board onto the blue mat, stands up and jumps onto the wooden box."
+    },
+    {
+        "second": 24,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/L6sTQIPGBbY/output_frames/sec_24_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[22-25] The person then slides from the board onto the blue mat, stands up and jumps onto the wooden box."
+    },
+    {
+        "second": 25,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/L6sTQIPGBbY/output_frames/sec_25_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[22-25] The person then slides from the board onto the blue mat, stands up and jumps onto the wooden box."
+    },
+    {
+        "second": 26,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/L6sTQIPGBbY/output_frames/sec_26_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[25-28] Finally, the person jumps from the wooden box onto a set of parallel bars and slides into a passage."
+    },
+    {
+        "second": 27,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/L6sTQIPGBbY/output_frames/sec_27_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[25-28] Finally, the person jumps from the wooden box onto a set of parallel bars and slides into a passage."
+    },
+    {
+        "second": 28,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/L6sTQIPGBbY/output_frames/sec_28_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[25-28] Finally, the person jumps from the wooden box onto a set of parallel bars and slides into a passage."
+    }
+]

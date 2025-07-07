@@ -1,0 +1,65 @@
+[
+    {
+        "second": 0,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AkVnoUir8SU/output_frames/sec_0_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A hand is holding a mobile phone, the screen displays Korean text, the ground is paved with dark red bricks, and the shadow is reflected on the ground."
+    },
+    {
+        "second": 1,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AkVnoUir8SU/output_frames/sec_1_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[0-2] The phone is snatched away, the camera moves upward, a cartoon character in a cyan dress is running forward with the phone, there are trees and streetlights on the road."
+    },
+    {
+        "second": 2,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AkVnoUir8SU/output_frames/sec_2_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[0-2] The phone is snatched away, the camera moves upward, a cartoon character in a cyan dress is running forward with the phone, there are trees and streetlights on the road."
+    },
+    {
+        "second": 3,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AkVnoUir8SU/output_frames/sec_3_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[2-8] Then the scene switches to a person wearing white socks, there are two pairs of grey hole shoes on the ground, the right hand stretches forward to pull the straps of the two pairs of shoes back, and then puts on the shoes. Then the camera moves upward, the cartoon character in the cyan dress continues to move forward. Then the camera moves forward quickly, the cartoon character is so scared that its eyes widen and turns its head back."
+    },
+    {
+        "second": 4,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AkVnoUir8SU/output_frames/sec_4_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[2-8] Then the scene switches to a person wearing white socks, there are two pairs of grey hole shoes on the ground, the right hand stretches forward to pull the straps of the two pairs of shoes back, and then puts on the shoes. Then the camera moves upward, the cartoon character in the cyan dress continues to move forward. Then the camera moves forward quickly, the cartoon character is so scared that its eyes widen and turns its head back."
+    },
+    {
+        "second": 5,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AkVnoUir8SU/output_frames/sec_5_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[2-8] Then the scene switches to a person wearing white socks, there are two pairs of grey hole shoes on the ground, the right hand stretches forward to pull the straps of the two pairs of shoes back, and then puts on the shoes. Then the camera moves upward, the cartoon character in the cyan dress continues to move forward. Then the camera moves forward quickly, the cartoon character is so scared that its eyes widen and turns its head back."
+    },
+    {
+        "second": 6,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AkVnoUir8SU/output_frames/sec_6_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[2-8] Then the scene switches to a person wearing white socks, there are two pairs of grey hole shoes on the ground, the right hand stretches forward to pull the straps of the two pairs of shoes back, and then puts on the shoes. Then the camera moves upward, the cartoon character in the cyan dress continues to move forward. Then the camera moves forward quickly, the cartoon character is so scared that its eyes widen and turns its head back."
+    },
+    {
+        "second": 7,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AkVnoUir8SU/output_frames/sec_7_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[2-8] Then the scene switches to a person wearing white socks, there are two pairs of grey hole shoes on the ground, the right hand stretches forward to pull the straps of the two pairs of shoes back, and then puts on the shoes. Then the camera moves upward, the cartoon character in the cyan dress continues to move forward. Then the camera moves forward quickly, the cartoon character is so scared that its eyes widen and turns its head back."
+    },
+    {
+        "second": 8,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AkVnoUir8SU/output_frames/sec_8_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[2-8] Then the scene switches to a person wearing white socks, there are two pairs of grey hole shoes on the ground, the right hand stretches forward to pull the straps of the two pairs of shoes back, and then puts on the shoes. Then the camera moves upward, the cartoon character in the cyan dress continues to move forward. Then the camera moves forward quickly, the cartoon character is so scared that its eyes widen and turns its head back."
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "second": 0,
+        "frame_index": 58,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/NMe8fZgwVBk/output_frames/sec_0_idx_58.jpg",
+        "fps": 60,
+        "explanation": "[0-0] A woman with her eyes closed is sitting at a white table, wearing a yellow jacket. Behind the woman is a white cabinet with yellow dolls and decorations on it, and there are purple lights behind the cabinet. On the white table is a light blue plate with a pile of sprinkles and a pile of chocolate sauce."
+    },
+    {
+        "second": 1,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/NMe8fZgwVBk/output_frames/sec_1_idx_1.jpg",
+        "fps": 60,
+        "explanation": "[0-2] The woman leans down and dips her mouth into the chocolate sauce, then puts her chocolate-covered mouth on the sprinkles next to it. Then, the woman looks up."
+    },
+    {
+        "second": 2,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/NMe8fZgwVBk/output_frames/sec_2_idx_9.jpg",
+        "fps": 60,
+        "explanation": "[0-2] The woman leans down and dips her mouth into the chocolate sauce, then puts her chocolate-covered mouth on the sprinkles next to it. Then, the woman looks up."
+    },
+    {
+        "second": 3,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/NMe8fZgwVBk/output_frames/sec_3_idx_8.jpg",
+        "fps": 60,
+        "explanation": "[2-9] Subsequently, the woman removes the chocolate with sprinkles from her mouth, takes out an ice cream from the right side, and inserts the chocolate with sprinkles into the ice cream. Afterward, the woman takes a bite of the ice cream, takes the ice cream out from the right side, looks up, and chews the ice cream, dropping a piece from her mouth. Finally, the woman looks forward and raises her eyebrows."
+    },
+    {
+        "second": 4,
+        "frame_index": 40,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/NMe8fZgwVBk/output_frames/sec_4_idx_40.jpg",
+        "fps": 60,
+        "explanation": "[2-9] Subsequently, the woman removes the chocolate with sprinkles from her mouth, takes out an ice cream from the right side, and inserts the chocolate with sprinkles into the ice cream. Afterward, the woman takes a bite of the ice cream, takes the ice cream out from the right side, looks up, and chews the ice cream, dropping a piece from her mouth. Finally, the woman looks forward and raises her eyebrows."
+    },
+    {
+        "second": 5,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/NMe8fZgwVBk/output_frames/sec_5_idx_2.jpg",
+        "fps": 60,
+        "explanation": "[2-9] Subsequently, the woman removes the chocolate with sprinkles from her mouth, takes out an ice cream from the right side, and inserts the chocolate with sprinkles into the ice cream. Afterward, the woman takes a bite of the ice cream, takes the ice cream out from the right side, looks up, and chews the ice cream, dropping a piece from her mouth. Finally, the woman looks forward and raises her eyebrows."
+    },
+    {
+        "second": 6,
+        "frame_index": 48,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/NMe8fZgwVBk/output_frames/sec_6_idx_48.jpg",
+        "fps": 60,
+        "explanation": "[2-9] Subsequently, the woman removes the chocolate with sprinkles from her mouth, takes out an ice cream from the right side, and inserts the chocolate with sprinkles into the ice cream. Afterward, the woman takes a bite of the ice cream, takes the ice cream out from the right side, looks up, and chews the ice cream, dropping a piece from her mouth. Finally, the woman looks forward and raises her eyebrows."
+    },
+    {
+        "second": 7,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/NMe8fZgwVBk/output_frames/sec_7_idx_1.jpg",
+        "fps": 60,
+        "explanation": "[2-9] Subsequently, the woman removes the chocolate with sprinkles from her mouth, takes out an ice cream from the right side, and inserts the chocolate with sprinkles into the ice cream. Afterward, the woman takes a bite of the ice cream, takes the ice cream out from the right side, looks up, and chews the ice cream, dropping a piece from her mouth. Finally, the woman looks forward and raises her eyebrows."
+    },
+    {
+        "second": 8,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/NMe8fZgwVBk/output_frames/sec_8_idx_3.jpg",
+        "fps": 60,
+        "explanation": "[2-9] Subsequently, the woman removes the chocolate with sprinkles from her mouth, takes out an ice cream from the right side, and inserts the chocolate with sprinkles into the ice cream. Afterward, the woman takes a bite of the ice cream, takes the ice cream out from the right side, looks up, and chews the ice cream, dropping a piece from her mouth. Finally, the woman looks forward and raises her eyebrows."
+    },
+    {
+        "second": 9,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/NMe8fZgwVBk/output_frames/sec_9_idx_10.jpg",
+        "fps": 60,
+        "explanation": "[2-9] Subsequently, the woman removes the chocolate with sprinkles from her mouth, takes out an ice cream from the right side, and inserts the chocolate with sprinkles into the ice cream. Afterward, the woman takes a bite of the ice cream, takes the ice cream out from the right side, looks up, and chews the ice cream, dropping a piece from her mouth. Finally, the woman looks forward and raises her eyebrows."
+    }
+]

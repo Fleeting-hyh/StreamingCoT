@@ -1,0 +1,58 @@
+[
+    {
+        "second": 0,
+        "frame_index": 54,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/O60c_QiCe-k/output_frames/sec_0_idx_54.jpg",
+        "fps": 60,
+        "explanation": "[0-0] A little girl wearing a pink shirt, floral pants, and a mask stands at the doorway between the kitchen and the hallway. To her left, around the corner, is a metallic-looking refrigerator. The room has wooden floors and white walls."
+    },
+    {
+        "second": 1,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/O60c_QiCe-k/output_frames/sec_1_idx_8.jpg",
+        "fps": 60,
+        "explanation": "[0-4] The little girl in pink tiptoes into the kitchen, where a woman in a white shirt is standing with her back to the girl at the kitchen counter. The girl reaches out to tap the woman on the bottom and then slowly backs away."
+    },
+    {
+        "second": 2,
+        "frame_index": 52,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/O60c_QiCe-k/output_frames/sec_2_idx_52.jpg",
+        "fps": 60,
+        "explanation": "[0-4] The little girl in pink tiptoes into the kitchen, where a woman in a white shirt is standing with her back to the girl at the kitchen counter. The girl reaches out to tap the woman on the bottom and then slowly backs away."
+    },
+    {
+        "second": 3,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/O60c_QiCe-k/output_frames/sec_3_idx_6.jpg",
+        "fps": 60,
+        "explanation": "[0-4] The little girl in pink tiptoes into the kitchen, where a woman in a white shirt is standing with her back to the girl at the kitchen counter. The girl reaches out to tap the woman on the bottom and then slowly backs away."
+    },
+    {
+        "second": 4,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/O60c_QiCe-k/output_frames/sec_4_idx_9.jpg",
+        "fps": 60,
+        "explanation": "[0-4] The little girl in pink tiptoes into the kitchen, where a woman in a white shirt is standing with her back to the girl at the kitchen counter. The girl reaches out to tap the woman on the bottom and then slowly backs away."
+    },
+    {
+        "second": 5,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/O60c_QiCe-k/output_frames/sec_5_idx_16.jpg",
+        "fps": 60,
+        "explanation": "[4-8] The woman in white turns around, startled, and accidentally spills a pot of spaghetti onto the floor."
+    },
+    {
+        "second": 6,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/O60c_QiCe-k/output_frames/sec_6_idx_6.jpg",
+        "fps": 60,
+        "explanation": "[4-8] The woman in white turns around, startled, and accidentally spills a pot of spaghetti onto the floor."
+    },
+    {
+        "second": 7,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/O60c_QiCe-k/output_frames/sec_7_idx_10.jpg",
+        "fps": 60,
+        "explanation": "[4-8] The woman in white turns around, startled, and accidentally spills a pot of spaghetti onto the floor."
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "second": 0,
+        "frame_index": 57,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MJa4waNLJKQ/output_frames/sec_0_idx_57.jpg",
+        "fps": 60,
+        "explanation": "[0-0] The image shows a stainless steel refrigerator with two long bar-shaped handles on the door. Next to the refrigerator is a white door with a painting hanging on the wall beside it. The painting depicts a baby wearing pink clothes. The floor is light-colored wood, and the walls are light gray. Half of a person's body is visible on the left side of the frame."
+    },
+    {
+        "second": 1,
+        "frame_index": 31,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MJa4waNLJKQ/output_frames/sec_1_idx_31.jpg",
+        "fps": 60,
+        "explanation": "[0-2] Then, a man wearing a blue T-shirt and dark shorts walks closer to the refrigerator from the left side of the frame, opens the refrigerator door, revealing various condiments and drinks inside."
+    },
+    {
+        "second": 2,
+        "frame_index": 43,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MJa4waNLJKQ/output_frames/sec_2_idx_43.jpg",
+        "fps": 60,
+        "explanation": "[0-2] Then, a man wearing a blue T-shirt and dark shorts walks closer to the refrigerator from the left side of the frame, opens the refrigerator door, revealing various condiments and drinks inside."
+    },
+    {
+        "second": 3,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MJa4waNLJKQ/output_frames/sec_3_idx_18.jpg",
+        "fps": 60,
+        "explanation": "[2-4] The man then takes something out of the refrigerator and closes the door. A woman wearing a Morty mask jumps out from behind the refrigerator door, startling the man, who runs out of the frame."
+    },
+    {
+        "second": 4,
+        "frame_index": 44,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MJa4waNLJKQ/output_frames/sec_4_idx_44.jpg",
+        "fps": 60,
+        "explanation": "[2-4] The man then takes something out of the refrigerator and closes the door. A woman wearing a Morty mask jumps out from behind the refrigerator door, startling the man, who runs out of the frame."
+    }
+]

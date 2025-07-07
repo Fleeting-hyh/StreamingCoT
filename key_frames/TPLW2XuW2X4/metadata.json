@@ -1,0 +1,65 @@
+[
+    {
+        "second": 0,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TPLW2XuW2X4/output_frames/sec_0_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[0-0] In an outdoor setting, four soda bottles with their caps unscrewed are neatly arranged on a brick pavement. From left to right are Mountain Dew, Pepsi, Fanta, and Coca-Cola. The background features green trees and a metal mesh fence."
+    },
+    {
+        "second": 1,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TPLW2XuW2X4/output_frames/sec_1_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Next, four hands appear at the top of the screen, each holding a string of connected Mentos candies. Then, the four hands pull the candies upwards, disappearing from the screen."
+    },
+    {
+        "second": 2,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TPLW2XuW2X4/output_frames/sec_2_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Next, four hands appear at the top of the screen, each holding a string of connected Mentos candies. Then, the four hands pull the candies upwards, disappearing from the screen."
+    },
+    {
+        "second": 3,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TPLW2XuW2X4/output_frames/sec_3_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[2-4] Immediately, four hands holding strings of white Mentos candies appear again at the top of the screen. The four hands simultaneously extend the Mentos towards the four soda bottles on the ground and hover them over the mouths of the bottles."
+    },
+    {
+        "second": 4,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TPLW2XuW2X4/output_frames/sec_4_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[2-4] Immediately, four hands holding strings of white Mentos candies appear again at the top of the screen. The four hands simultaneously extend the Mentos towards the four soda bottles on the ground and hover them over the mouths of the bottles."
+    },
+    {
+        "second": 5,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TPLW2XuW2X4/output_frames/sec_5_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[4-8] Subsequently, the four hands holding the Mentos release them simultaneously, causing the candies to fall rapidly into the soda bottles. The Pepsi bottle on the ground is the first to erupt with a large amount of foam, followed closely by the Coca-Cola bottle. Then, the Mountain Dew and Fanta bottles also start to gush foam, but not as violently as the Pepsi and Coca-Cola bottles. Finally, the foam in all the soda bottles gradually diminishes and eventually stops erupting, leaving a mess on the brick pavement."
+    },
+    {
+        "second": 6,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TPLW2XuW2X4/output_frames/sec_6_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[4-8] Subsequently, the four hands holding the Mentos release them simultaneously, causing the candies to fall rapidly into the soda bottles. The Pepsi bottle on the ground is the first to erupt with a large amount of foam, followed closely by the Coca-Cola bottle. Then, the Mountain Dew and Fanta bottles also start to gush foam, but not as violently as the Pepsi and Coca-Cola bottles. Finally, the foam in all the soda bottles gradually diminishes and eventually stops erupting, leaving a mess on the brick pavement."
+    },
+    {
+        "second": 7,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TPLW2XuW2X4/output_frames/sec_7_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[4-8] Subsequently, the four hands holding the Mentos release them simultaneously, causing the candies to fall rapidly into the soda bottles. The Pepsi bottle on the ground is the first to erupt with a large amount of foam, followed closely by the Coca-Cola bottle. Then, the Mountain Dew and Fanta bottles also start to gush foam, but not as violently as the Pepsi and Coca-Cola bottles. Finally, the foam in all the soda bottles gradually diminishes and eventually stops erupting, leaving a mess on the brick pavement."
+    },
+    {
+        "second": 8,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TPLW2XuW2X4/output_frames/sec_8_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[4-8] Subsequently, the four hands holding the Mentos release them simultaneously, causing the candies to fall rapidly into the soda bottles. The Pepsi bottle on the ground is the first to erupt with a large amount of foam, followed closely by the Coca-Cola bottle. Then, the Mountain Dew and Fanta bottles also start to gush foam, but not as violently as the Pepsi and Coca-Cola bottles. Finally, the foam in all the soda bottles gradually diminishes and eventually stops erupting, leaving a mess on the brick pavement."
+    }
+]

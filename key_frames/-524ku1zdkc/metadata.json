@@ -1,0 +1,65 @@
+[
+    {
+        "second": 0,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-524ku1zdkc/output_frames/sec_0_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-0] On a basketball court, a player wearing a black jersey with the number 3 jumps to catch the ball, his body fully extended, left hand holding the basketball and reaching upwards, right hand trailing behind. Behind him, a player in a light blue jersey looks back at him. On the left side of the video, a player in a black jersey is seen rushing towards the basketball. The court is surrounded by spectators."
+    },
+    {
+        "second": 1,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-524ku1zdkc/output_frames/sec_1_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The player in the black number 3 jersey catches the ball and turns around, as a player in a light blue jersey defends in front of him. The black number 3 player quickly passes the ball to his teammate wearing number 1 on the other side of the court. The black number 1 player catches the ball, turns around swiftly, and immediately jumps to shoot. A player wearing a light blue jersey with the number 12 also jumps in front of him, attempting to block the shot."
+    },
+    {
+        "second": 2,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-524ku1zdkc/output_frames/sec_2_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The player in the black number 3 jersey catches the ball and turns around, as a player in a light blue jersey defends in front of him. The black number 3 player quickly passes the ball to his teammate wearing number 1 on the other side of the court. The black number 1 player catches the ball, turns around swiftly, and immediately jumps to shoot. A player wearing a light blue jersey with the number 12 also jumps in front of him, attempting to block the shot."
+    },
+    {
+        "second": 3,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-524ku1zdkc/output_frames/sec_3_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The player in the black number 3 jersey catches the ball and turns around, as a player in a light blue jersey defends in front of him. The black number 3 player quickly passes the ball to his teammate wearing number 1 on the other side of the court. The black number 1 player catches the ball, turns around swiftly, and immediately jumps to shoot. A player wearing a light blue jersey with the number 12 also jumps in front of him, attempting to block the shot."
+    },
+    {
+        "second": 4,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-524ku1zdkc/output_frames/sec_4_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The player in the black number 3 jersey catches the ball and turns around, as a player in a light blue jersey defends in front of him. The black number 3 player quickly passes the ball to his teammate wearing number 1 on the other side of the court. The black number 1 player catches the ball, turns around swiftly, and immediately jumps to shoot. A player wearing a light blue jersey with the number 12 also jumps in front of him, attempting to block the shot."
+    },
+    {
+        "second": 5,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-524ku1zdkc/output_frames/sec_5_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[4-8] Finally, the picture slows down. The basketball is shot by the black number 1 player. The player in the light blue number 12 jersey hangs in the air, failing to block the shot. The court is surrounded by spectators."
+    },
+    {
+        "second": 6,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-524ku1zdkc/output_frames/sec_6_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[4-8] Finally, the picture slows down. The basketball is shot by the black number 1 player. The player in the light blue number 12 jersey hangs in the air, failing to block the shot. The court is surrounded by spectators."
+    },
+    {
+        "second": 7,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-524ku1zdkc/output_frames/sec_7_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[4-8] Finally, the picture slows down. The basketball is shot by the black number 1 player. The player in the light blue number 12 jersey hangs in the air, failing to block the shot. The court is surrounded by spectators."
+    },
+    {
+        "second": 8,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-524ku1zdkc/output_frames/sec_8_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[4-8] Finally, the picture slows down. The basketball is shot by the black number 1 player. The player in the light blue number 12 jersey hangs in the air, failing to block the shot. The court is surrounded by spectators."
+    }
+]

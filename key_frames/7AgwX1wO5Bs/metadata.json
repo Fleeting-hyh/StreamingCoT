@@ -1,0 +1,44 @@
+[
+    {
+        "second": 0,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7AgwX1wO5Bs/output_frames/sec_0_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[0-0] The picture is a close-up of a man's face, his eyeballs looking to the other side, with some stubble on his mouth. There is a subtitle in the middle of the picture: \"lf you choke on an ice cube, how would they know how you died??\u201d"
+    },
+    {
+        "second": 1,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7AgwX1wO5Bs/output_frames/sec_1_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[0-5] The man's brown eyeballs slowly turn towards the camera and look at the camera."
+    },
+    {
+        "second": 2,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7AgwX1wO5Bs/output_frames/sec_2_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[0-5] The man's brown eyeballs slowly turn towards the camera and look at the camera."
+    },
+    {
+        "second": 3,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7AgwX1wO5Bs/output_frames/sec_3_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[0-5] The man's brown eyeballs slowly turn towards the camera and look at the camera."
+    },
+    {
+        "second": 4,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7AgwX1wO5Bs/output_frames/sec_4_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-5] The man's brown eyeballs slowly turn towards the camera and look at the camera."
+    },
+    {
+        "second": 5,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7AgwX1wO5Bs/output_frames/sec_5_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-5] The man's brown eyeballs slowly turn towards the camera and look at the camera."
+    }
+]

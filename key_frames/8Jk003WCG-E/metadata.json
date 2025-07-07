@@ -1,0 +1,51 @@
+[
+    {
+        "second": 0,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8Jk003WCG-E/output_frames/sec_0_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[0-0] In a gym filled with various fitness equipment, a woman wearing a white top and blue leggings is looking down at the mobile phone she's holding with both hands. Behind the woman in white, there is a man in a yellow short-sleeved shirt and another man in a cyan short-sleeved shirt."
+    },
+    {
+        "second": 1,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8Jk003WCG-E/output_frames/sec_1_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[0-3] While walking and looking at her phone, the woman in white trips over a piece of equipment with her left foot. She grabs her left foot with her right hand, her mouth wide open, eyes closed, and a painful expression on her face. Her right foot bounces to the right. Looking forward, the woman in white smiles and stands to the side of a barbell. Holding barbell plates in both hands, she proceeds to load them onto the bar. Subsequently, a plate pinches her right hand, causing her to open her mouth, shake her right hand, look down at it, and reveal a pained expression."
+    },
+    {
+        "second": 2,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8Jk003WCG-E/output_frames/sec_2_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[0-3] While walking and looking at her phone, the woman in white trips over a piece of equipment with her left foot. She grabs her left foot with her right hand, her mouth wide open, eyes closed, and a painful expression on her face. Her right foot bounces to the right. Looking forward, the woman in white smiles and stands to the side of a barbell. Holding barbell plates in both hands, she proceeds to load them onto the bar. Subsequently, a plate pinches her right hand, causing her to open her mouth, shake her right hand, look down at it, and reveal a pained expression."
+    },
+    {
+        "second": 3,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8Jk003WCG-E/output_frames/sec_3_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-3] While walking and looking at her phone, the woman in white trips over a piece of equipment with her left foot. She grabs her left foot with her right hand, her mouth wide open, eyes closed, and a painful expression on her face. Her right foot bounces to the right. Looking forward, the woman in white smiles and stands to the side of a barbell. Holding barbell plates in both hands, she proceeds to load them onto the bar. Subsequently, a plate pinches her right hand, causing her to open her mouth, shake her right hand, look down at it, and reveal a pained expression."
+    },
+    {
+        "second": 4,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8Jk003WCG-E/output_frames/sec_4_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[3-7] Afterwards, the woman in white lies down on a machine, holding dumbbells in both hands and lowering them. Her right hand gets hit by a dumbbell, causing her to open her mouth wide, sit up, shake her right hand, and make a painful expression."
+    },
+    {
+        "second": 5,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8Jk003WCG-E/output_frames/sec_5_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[3-7] Afterwards, the woman in white lies down on a machine, holding dumbbells in both hands and lowering them. Her right hand gets hit by a dumbbell, causing her to open her mouth wide, sit up, shake her right hand, and make a painful expression."
+    },
+    {
+        "second": 6,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8Jk003WCG-E/output_frames/sec_6_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[3-7] Afterwards, the woman in white lies down on a machine, holding dumbbells in both hands and lowering them. Her right hand gets hit by a dumbbell, causing her to open her mouth wide, sit up, shake her right hand, and make a painful expression."
+    }
+]

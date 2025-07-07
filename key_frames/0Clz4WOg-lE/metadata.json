@@ -1,0 +1,72 @@
+[
+    {
+        "second": 0,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0Clz4WOg-lE/output_frames/sec_0_idx_6.jpg",
+        "fps": 60,
+        "explanation": "[0-0] In a long, narrow room with pale yellow walls decorated with light gray arrow patterns and a brown floor, Princess Peach stands in a corner, her back against the wall. A giant Mario head floats on the opposite side of the room."
+    },
+    {
+        "second": 1,
+        "frame_index": 58,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0Clz4WOg-lE/output_frames/sec_1_idx_58.jpg",
+        "fps": 60,
+        "explanation": "[0-4] The Mario head moves forward rapidly. Princess Peach keeps her eyes tightly shut and leans against the wall. The Mario head opens its mouth, turns its head, and quickly moves inward."
+    },
+    {
+        "second": 2,
+        "frame_index": 56,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0Clz4WOg-lE/output_frames/sec_2_idx_56.jpg",
+        "fps": 60,
+        "explanation": "[0-4] The Mario head moves forward rapidly. Princess Peach keeps her eyes tightly shut and leans against the wall. The Mario head opens its mouth, turns its head, and quickly moves inward."
+    },
+    {
+        "second": 3,
+        "frame_index": 55,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0Clz4WOg-lE/output_frames/sec_3_idx_55.jpg",
+        "fps": 60,
+        "explanation": "[0-4] The Mario head moves forward rapidly. Princess Peach keeps her eyes tightly shut and leans against the wall. The Mario head opens its mouth, turns its head, and quickly moves inward."
+    },
+    {
+        "second": 4,
+        "frame_index": 42,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0Clz4WOg-lE/output_frames/sec_4_idx_42.jpg",
+        "fps": 60,
+        "explanation": "[0-4] The Mario head moves forward rapidly. Princess Peach keeps her eyes tightly shut and leans against the wall. The Mario head opens its mouth, turns its head, and quickly moves inward."
+    },
+    {
+        "second": 5,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0Clz4WOg-lE/output_frames/sec_5_idx_5.jpg",
+        "fps": 60,
+        "explanation": "[4-9] Subsequently, the camera moves, and Princess Peach opens her eyes and looks around. Then the camera moves to show the Mario head talking."
+    },
+    {
+        "second": 6,
+        "frame_index": 49,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0Clz4WOg-lE/output_frames/sec_6_idx_49.jpg",
+        "fps": 60,
+        "explanation": "[4-9] Subsequently, the camera moves, and Princess Peach opens her eyes and looks around. Then the camera moves to show the Mario head talking."
+    },
+    {
+        "second": 7,
+        "frame_index": 47,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0Clz4WOg-lE/output_frames/sec_7_idx_47.jpg",
+        "fps": 60,
+        "explanation": "[4-9] Subsequently, the camera moves, and Princess Peach opens her eyes and looks around. Then the camera moves to show the Mario head talking."
+    },
+    {
+        "second": 8,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0Clz4WOg-lE/output_frames/sec_8_idx_17.jpg",
+        "fps": 60,
+        "explanation": "[4-9] Subsequently, the camera moves, and Princess Peach opens her eyes and looks around. Then the camera moves to show the Mario head talking."
+    },
+    {
+        "second": 9,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0Clz4WOg-lE/output_frames/sec_9_idx_4.jpg",
+        "fps": 60,
+        "explanation": "[4-9] Subsequently, the camera moves, and Princess Peach opens her eyes and looks around. Then the camera moves to show the Mario head talking."
+    }
+]

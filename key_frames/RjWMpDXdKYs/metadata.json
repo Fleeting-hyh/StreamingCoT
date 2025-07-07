@@ -1,0 +1,37 @@
+[
+    {
+        "second": 0,
+        "frame_index": 51,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RjWMpDXdKYs/output_frames/sec_0_idx_51.jpg",
+        "fps": 60,
+        "explanation": "[0-0] A soldier in camouflage uniform and helmet is kneeling on a patch of grassy land, handling a black package. There is a green object on the ground beside him. In the distance is a vast expanse of grassland under a blue sky."
+    },
+    {
+        "second": 1,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RjWMpDXdKYs/output_frames/sec_1_idx_13.jpg",
+        "fps": 60,
+        "explanation": "[0-4] The soldier flips the package twice, then turns around to pick up the green object from the ground."
+    },
+    {
+        "second": 2,
+        "frame_index": 31,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RjWMpDXdKYs/output_frames/sec_2_idx_31.jpg",
+        "fps": 60,
+        "explanation": "[0-4] The soldier flips the package twice, then turns around to pick up the green object from the ground."
+    },
+    {
+        "second": 3,
+        "frame_index": 47,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RjWMpDXdKYs/output_frames/sec_3_idx_47.jpg",
+        "fps": 60,
+        "explanation": "[0-4] The soldier flips the package twice, then turns around to pick up the green object from the ground."
+    },
+    {
+        "second": 4,
+        "frame_index": 47,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RjWMpDXdKYs/output_frames/sec_4_idx_47.jpg",
+        "fps": 60,
+        "explanation": "[0-4] The soldier flips the package twice, then turns around to pick up the green object from the ground."
+    }
+]

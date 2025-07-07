@@ -1,0 +1,37 @@
+[
+    {
+        "second": 0,
+        "frame_index": 58,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8x9d0JgZPOY/output_frames/sec_0_idx_58.jpg",
+        "fps": 60,
+        "explanation": "[0-0] A person in a Chewbacca costume is sitting on an armchair in the living room, with a white wall behind and a sofa next to it."
+    },
+    {
+        "second": 1,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8x9d0JgZPOY/output_frames/sec_1_idx_9.jpg",
+        "fps": 60,
+        "explanation": "[0-2] Then a man in a black T-shirt opens the front door, a little girl in pink clothes walks towards him from inside the house, the man walks into the living room and walks towards the seated person with a smile."
+    },
+    {
+        "second": 2,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8x9d0JgZPOY/output_frames/sec_2_idx_8.jpg",
+        "fps": 60,
+        "explanation": "[0-2] Then a man in a black T-shirt opens the front door, a little girl in pink clothes walks towards him from inside the house, the man walks into the living room and walks towards the seated person with a smile."
+    },
+    {
+        "second": 3,
+        "frame_index": 50,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8x9d0JgZPOY/output_frames/sec_3_idx_50.jpg",
+        "fps": 60,
+        "explanation": "[2-5] Then the man walks up to the seated person, pats the shoulder of the person on the sofa, the person on the sofa turns around and reaches out to frighten the man, the man is startled by the person on the sofa, the seated person shrinks back, and the man steps back."
+    },
+    {
+        "second": 4,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8x9d0JgZPOY/output_frames/sec_4_idx_27.jpg",
+        "fps": 60,
+        "explanation": "[2-5] Then the man walks up to the seated person, pats the shoulder of the person on the sofa, the person on the sofa turns around and reaches out to frighten the man, the man is startled by the person on the sofa, the seated person shrinks back, and the man steps back."
+    }
+]

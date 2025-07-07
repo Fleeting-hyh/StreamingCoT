@@ -1,0 +1,163 @@
+[
+    {
+        "second": 0,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/ADS5WmAE3Uw/output_frames/sec_0_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[0-0] On a street side, a man wearing a gray T-shirt, a colorful apron, and a black mask is standing at his fruit cart. He is holding a red apple and is about to peel it with a knife. There are various fruits on the cart, including watermelons and apples. A metal bowl is placed on the fruit cart."
+    },
+    {
+        "second": 1,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/ADS5WmAE3Uw/output_frames/sec_1_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Immediately, the man turns to the right and peels off a slice of apple skin."
+    },
+    {
+        "second": 2,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/ADS5WmAE3Uw/output_frames/sec_2_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Immediately, the man turns to the right and peels off a slice of apple skin."
+    },
+    {
+        "second": 3,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/ADS5WmAE3Uw/output_frames/sec_3_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[2-10] Subsequently, the man slices the apple into pieces over the bowl, placing them inside."
+    },
+    {
+        "second": 4,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/ADS5WmAE3Uw/output_frames/sec_4_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[2-10] Subsequently, the man slices the apple into pieces over the bowl, placing them inside."
+    },
+    {
+        "second": 5,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/ADS5WmAE3Uw/output_frames/sec_5_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[2-10] Subsequently, the man slices the apple into pieces over the bowl, placing them inside."
+    },
+    {
+        "second": 6,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/ADS5WmAE3Uw/output_frames/sec_6_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[2-10] Subsequently, the man slices the apple into pieces over the bowl, placing them inside."
+    },
+    {
+        "second": 7,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/ADS5WmAE3Uw/output_frames/sec_7_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[2-10] Subsequently, the man slices the apple into pieces over the bowl, placing them inside."
+    },
+    {
+        "second": 8,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/ADS5WmAE3Uw/output_frames/sec_8_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[2-10] Subsequently, the man slices the apple into pieces over the bowl, placing them inside."
+    },
+    {
+        "second": 9,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/ADS5WmAE3Uw/output_frames/sec_9_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[2-10] Subsequently, the man slices the apple into pieces over the bowl, placing them inside."
+    },
+    {
+        "second": 10,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/ADS5WmAE3Uw/output_frames/sec_10_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[2-10] Subsequently, the man slices the apple into pieces over the bowl, placing them inside."
+    },
+    {
+        "second": 11,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/ADS5WmAE3Uw/output_frames/sec_11_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[10-20] The man then continues to slice the apple piece by piece until it's completely cut, leaving only the core."
+    },
+    {
+        "second": 12,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/ADS5WmAE3Uw/output_frames/sec_12_idx_24.jpg",
+        "fps": 30,
+        "explanation": "[10-20] The man then continues to slice the apple piece by piece until it's completely cut, leaving only the core."
+    },
+    {
+        "second": 13,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/ADS5WmAE3Uw/output_frames/sec_13_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[10-20] The man then continues to slice the apple piece by piece until it's completely cut, leaving only the core."
+    },
+    {
+        "second": 14,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/ADS5WmAE3Uw/output_frames/sec_14_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[10-20] The man then continues to slice the apple piece by piece until it's completely cut, leaving only the core."
+    },
+    {
+        "second": 15,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/ADS5WmAE3Uw/output_frames/sec_15_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[10-20] The man then continues to slice the apple piece by piece until it's completely cut, leaving only the core."
+    },
+    {
+        "second": 16,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/ADS5WmAE3Uw/output_frames/sec_16_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[10-20] The man then continues to slice the apple piece by piece until it's completely cut, leaving only the core."
+    },
+    {
+        "second": 17,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/ADS5WmAE3Uw/output_frames/sec_17_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[10-20] The man then continues to slice the apple piece by piece until it's completely cut, leaving only the core."
+    },
+    {
+        "second": 18,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/ADS5WmAE3Uw/output_frames/sec_18_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[10-20] The man then continues to slice the apple piece by piece until it's completely cut, leaving only the core."
+    },
+    {
+        "second": 19,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/ADS5WmAE3Uw/output_frames/sec_19_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[10-20] The man then continues to slice the apple piece by piece until it's completely cut, leaving only the core."
+    },
+    {
+        "second": 20,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/ADS5WmAE3Uw/output_frames/sec_20_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[10-20] The man then continues to slice the apple piece by piece until it's completely cut, leaving only the core."
+    },
+    {
+        "second": 21,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/ADS5WmAE3Uw/output_frames/sec_21_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[20-22] Immediately, the man puts the knife in his hand into the fruit cart."
+    },
+    {
+        "second": 22,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/ADS5WmAE3Uw/output_frames/sec_22_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[20-22] Immediately, the man puts the knife in his hand into the fruit cart."
+    }
+]

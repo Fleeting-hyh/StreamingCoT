@@ -1,0 +1,65 @@
+[
+    {
+        "second": 0,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DXjM5KjMBtM/output_frames/sec_0_idx_20.jpg",
+        "fps": 60,
+        "explanation": "[0-0] In an indoor setting, two female workers are packing round eggplants. The worker wearing a headscarf is taking an eggplant from a bucket, preparing to pack it. The worker on the right, wearing white, is organizing a plastic basket full of wrapping paper, ready to receive the packed eggplants. Behind them are rows of buckets filled with eggplants."
+    },
+    {
+        "second": 1,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DXjM5KjMBtM/output_frames/sec_1_idx_6.jpg",
+        "fps": 60,
+        "explanation": "[0-8] Subsequently, the worker wearing a headscarf places the eggplant on the white wrapping paper. The worker in white wraps the eggplant with the paper and puts it in the plastic basket. The two workers continue packing, their movements skilled and methodical. Soon, a bucket is filled, and the worker in white kicks it aside with her foot."
+    },
+    {
+        "second": 2,
+        "frame_index": 56,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DXjM5KjMBtM/output_frames/sec_2_idx_56.jpg",
+        "fps": 60,
+        "explanation": "[0-8] Subsequently, the worker wearing a headscarf places the eggplant on the white wrapping paper. The worker in white wraps the eggplant with the paper and puts it in the plastic basket. The two workers continue packing, their movements skilled and methodical. Soon, a bucket is filled, and the worker in white kicks it aside with her foot."
+    },
+    {
+        "second": 3,
+        "frame_index": 53,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DXjM5KjMBtM/output_frames/sec_3_idx_53.jpg",
+        "fps": 60,
+        "explanation": "[0-8] Subsequently, the worker wearing a headscarf places the eggplant on the white wrapping paper. The worker in white wraps the eggplant with the paper and puts it in the plastic basket. The two workers continue packing, their movements skilled and methodical. Soon, a bucket is filled, and the worker in white kicks it aside with her foot."
+    },
+    {
+        "second": 4,
+        "frame_index": 52,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DXjM5KjMBtM/output_frames/sec_4_idx_52.jpg",
+        "fps": 60,
+        "explanation": "[0-8] Subsequently, the worker wearing a headscarf places the eggplant on the white wrapping paper. The worker in white wraps the eggplant with the paper and puts it in the plastic basket. The two workers continue packing, their movements skilled and methodical. Soon, a bucket is filled, and the worker in white kicks it aside with her foot."
+    },
+    {
+        "second": 5,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DXjM5KjMBtM/output_frames/sec_5_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[0-8] Subsequently, the worker wearing a headscarf places the eggplant on the white wrapping paper. The worker in white wraps the eggplant with the paper and puts it in the plastic basket. The two workers continue packing, their movements skilled and methodical. Soon, a bucket is filled, and the worker in white kicks it aside with her foot."
+    },
+    {
+        "second": 6,
+        "frame_index": 39,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DXjM5KjMBtM/output_frames/sec_6_idx_39.jpg",
+        "fps": 60,
+        "explanation": "[0-8] Subsequently, the worker wearing a headscarf places the eggplant on the white wrapping paper. The worker in white wraps the eggplant with the paper and puts it in the plastic basket. The two workers continue packing, their movements skilled and methodical. Soon, a bucket is filled, and the worker in white kicks it aside with her foot."
+    },
+    {
+        "second": 7,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DXjM5KjMBtM/output_frames/sec_7_idx_2.jpg",
+        "fps": 60,
+        "explanation": "[0-8] Subsequently, the worker wearing a headscarf places the eggplant on the white wrapping paper. The worker in white wraps the eggplant with the paper and puts it in the plastic basket. The two workers continue packing, their movements skilled and methodical. Soon, a bucket is filled, and the worker in white kicks it aside with her foot."
+    },
+    {
+        "second": 8,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DXjM5KjMBtM/output_frames/sec_8_idx_2.jpg",
+        "fps": 60,
+        "explanation": "[0-8] Subsequently, the worker wearing a headscarf places the eggplant on the white wrapping paper. The worker in white wraps the eggplant with the paper and puts it in the plastic basket. The two workers continue packing, their movements skilled and methodical. Soon, a bucket is filled, and the worker in white kicks it aside with her foot."
+    }
+]

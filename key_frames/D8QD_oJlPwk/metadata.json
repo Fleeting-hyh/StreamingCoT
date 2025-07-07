@@ -1,0 +1,58 @@
+[
+    {
+        "second": 0,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/D8QD_oJlPwk/output_frames/sec_0_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A white duck is on the beach, its mouth open within a white outline. The background is blue sky and sea, with a white watermark on the right side of the frame."
+    },
+    {
+        "second": 1,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/D8QD_oJlPwk/output_frames/sec_1_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[0-2] The duck then runs on the beach and stops, holding the pose within the white outline."
+    },
+    {
+        "second": 2,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/D8QD_oJlPwk/output_frames/sec_2_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[0-2] The duck then runs on the beach and stops, holding the pose within the white outline."
+    },
+    {
+        "second": 3,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/D8QD_oJlPwk/output_frames/sec_3_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[2-4] Subsequently, the scene switches to a parking lot with a puddle reflecting trees and cars. The ground is covered in fallen leaves. A white outline appears over the puddle, and the duck suddenly appears running in the puddle. It runs into the white outline and strikes a pose, remaining within the outline. The scene then switches to a city marathon with people running on the street. The white outline reappears, and the duck appears among the runners, running on the road. It reaches the white outline and pauses again, holding the same pose."
+    },
+    {
+        "second": 4,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/D8QD_oJlPwk/output_frames/sec_4_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[2-4] Subsequently, the scene switches to a parking lot with a puddle reflecting trees and cars. The ground is covered in fallen leaves. A white outline appears over the puddle, and the duck suddenly appears running in the puddle. It runs into the white outline and strikes a pose, remaining within the outline. The scene then switches to a city marathon with people running on the street. The white outline reappears, and the duck appears among the runners, running on the road. It reaches the white outline and pauses again, holding the same pose."
+    },
+    {
+        "second": 5,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/D8QD_oJlPwk/output_frames/sec_5_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[4-7] Next, the scene changes to an indoor corridor. The white outline appears again, and the duck runs down the corridor with its wings outstretched. It reaches the white outline and again stops, holding its pose within the outline."
+    },
+    {
+        "second": 6,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/D8QD_oJlPwk/output_frames/sec_6_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[4-7] Next, the scene changes to an indoor corridor. The white outline appears again, and the duck runs down the corridor with its wings outstretched. It reaches the white outline and again stops, holding its pose within the outline."
+    },
+    {
+        "second": 7,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/D8QD_oJlPwk/output_frames/sec_7_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[4-7] Next, the scene changes to an indoor corridor. The white outline appears again, and the duck runs down the corridor with its wings outstretched. It reaches the white outline and again stops, holding its pose within the outline."
+    }
+]

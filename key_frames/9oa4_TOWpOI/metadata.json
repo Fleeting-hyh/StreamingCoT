@@ -1,0 +1,65 @@
+[
+    {
+        "second": 0,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9oa4_TOWpOI/output_frames/sec_0_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A blond man with glasses wearing a black T-shirt is standing in a bathroom, comparing his hand size with someone off-screen. The text \"Two people begin to measure their hands\" is displayed at the top of the screen."
+    },
+    {
+        "second": 1,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9oa4_TOWpOI/output_frames/sec_1_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[0-8] The blond man puts his hands together and says something, then interlocks his fingers."
+    },
+    {
+        "second": 2,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9oa4_TOWpOI/output_frames/sec_2_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[0-8] The blond man puts his hands together and says something, then interlocks his fingers."
+    },
+    {
+        "second": 3,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9oa4_TOWpOI/output_frames/sec_3_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-8] The blond man puts his hands together and says something, then interlocks his fingers."
+    },
+    {
+        "second": 4,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9oa4_TOWpOI/output_frames/sec_4_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[0-8] The blond man puts his hands together and says something, then interlocks his fingers."
+    },
+    {
+        "second": 5,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9oa4_TOWpOI/output_frames/sec_5_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[0-8] The blond man puts his hands together and says something, then interlocks his fingers."
+    },
+    {
+        "second": 6,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9oa4_TOWpOI/output_frames/sec_6_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[0-8] The blond man puts his hands together and says something, then interlocks his fingers."
+    },
+    {
+        "second": 7,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9oa4_TOWpOI/output_frames/sec_7_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[0-8] The blond man puts his hands together and says something, then interlocks his fingers."
+    },
+    {
+        "second": 8,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9oa4_TOWpOI/output_frames/sec_8_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[0-8] The blond man puts his hands together and says something, then interlocks his fingers."
+    }
+]

@@ -1,0 +1,93 @@
+[
+    {
+        "second": 0,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8kYKFPLVPr4/output_frames/sec_0_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A person wearing a black top places their left hand on a white tube inside a metal machine on their right. The white tube breaks into two pieces. On the left side, there is a white machine with a hole in it."
+    },
+    {
+        "second": 1,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8kYKFPLVPr4/output_frames/sec_1_idx_24.jpg",
+        "fps": 30,
+        "explanation": "[0-5] The person in black then uses another white tube to push the broken tube out of the metal machine and onto the floor. The metal machine continues to dispense white tubes, which bend upon hitting the white machine on the left. The man in the black top then pushes the bent white tube to the floor."
+    },
+    {
+        "second": 2,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8kYKFPLVPr4/output_frames/sec_2_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-5] The person in black then uses another white tube to push the broken tube out of the metal machine and onto the floor. The metal machine continues to dispense white tubes, which bend upon hitting the white machine on the left. The man in the black top then pushes the bent white tube to the floor."
+    },
+    {
+        "second": 3,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8kYKFPLVPr4/output_frames/sec_3_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-5] The person in black then uses another white tube to push the broken tube out of the metal machine and onto the floor. The metal machine continues to dispense white tubes, which bend upon hitting the white machine on the left. The man in the black top then pushes the bent white tube to the floor."
+    },
+    {
+        "second": 4,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8kYKFPLVPr4/output_frames/sec_4_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[0-5] The person in black then uses another white tube to push the broken tube out of the metal machine and onto the floor. The metal machine continues to dispense white tubes, which bend upon hitting the white machine on the left. The man in the black top then pushes the bent white tube to the floor."
+    },
+    {
+        "second": 5,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8kYKFPLVPr4/output_frames/sec_5_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[0-5] The person in black then uses another white tube to push the broken tube out of the metal machine and onto the floor. The metal machine continues to dispense white tubes, which bend upon hitting the white machine on the left. The man in the black top then pushes the bent white tube to the floor."
+    },
+    {
+        "second": 6,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8kYKFPLVPr4/output_frames/sec_6_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[5-8] Subsequently, the white tube dispensed from the metal machine enters the hole of the white machine on the left."
+    },
+    {
+        "second": 7,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8kYKFPLVPr4/output_frames/sec_7_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[5-8] Subsequently, the white tube dispensed from the metal machine enters the hole of the white machine on the left."
+    },
+    {
+        "second": 8,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8kYKFPLVPr4/output_frames/sec_8_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[5-8] Subsequently, the white tube dispensed from the metal machine enters the hole of the white machine on the left."
+    },
+    {
+        "second": 9,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8kYKFPLVPr4/output_frames/sec_9_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[8-12] The scene then changes to an orange-white transport machine pushing a white tube onto a pile of white tubes."
+    },
+    {
+        "second": 10,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8kYKFPLVPr4/output_frames/sec_10_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[8-12] The scene then changes to an orange-white transport machine pushing a white tube onto a pile of white tubes."
+    },
+    {
+        "second": 11,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8kYKFPLVPr4/output_frames/sec_11_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[8-12] The scene then changes to an orange-white transport machine pushing a white tube onto a pile of white tubes."
+    },
+    {
+        "second": 12,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8kYKFPLVPr4/output_frames/sec_12_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[8-12] The scene then changes to an orange-white transport machine pushing a white tube onto a pile of white tubes."
+    }
+]

@@ -1,0 +1,170 @@
+[
+    {
+        "second": 0,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Qg6yeRA8szo/output_frames/sec_0_idx_20.jpg",
+        "fps": 60,
+        "explanation": "[0-0] A hand on the left holds a piece of bread, with another piece of bread on the right, set around a sea race track. Ahead are blue and red squares, respectively marked with white numbers and symbols: plus 9, plus 6, times 3, divided by 2, divided by 1, and times 2. In the distance is a pink giant with a wide-open mouth, set against a blue sky with white clouds."
+    },
+    {
+        "second": 1,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Qg6yeRA8szo/output_frames/sec_1_idx_19.jpg",
+        "fps": 60,
+        "explanation": "[0-4] Then, the hand starts to move forward, passing the \"plus 9\" and \"plus 6\" blocks, the bread in the hand turns into a burger. The left bread has two layers of cheese, two layers of tomato slices, two layers of green vegetables, and one layer of meat patty. The bread on the right has two layers of cheese, one layer of meat patty, one layer of tomato slices, and one layer of vegetables. As they continue moving forward, the food on the right bread is placed on the left bread."
+    },
+    {
+        "second": 2,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Qg6yeRA8szo/output_frames/sec_2_idx_24.jpg",
+        "fps": 60,
+        "explanation": "[0-4] Then, the hand starts to move forward, passing the \"plus 9\" and \"plus 6\" blocks, the bread in the hand turns into a burger. The left bread has two layers of cheese, two layers of tomato slices, two layers of green vegetables, and one layer of meat patty. The bread on the right has two layers of cheese, one layer of meat patty, one layer of tomato slices, and one layer of vegetables. As they continue moving forward, the food on the right bread is placed on the left bread."
+    },
+    {
+        "second": 3,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Qg6yeRA8szo/output_frames/sec_3_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[0-4] Then, the hand starts to move forward, passing the \"plus 9\" and \"plus 6\" blocks, the bread in the hand turns into a burger. The left bread has two layers of cheese, two layers of tomato slices, two layers of green vegetables, and one layer of meat patty. The bread on the right has two layers of cheese, one layer of meat patty, one layer of tomato slices, and one layer of vegetables. As they continue moving forward, the food on the right bread is placed on the left bread."
+    },
+    {
+        "second": 4,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Qg6yeRA8szo/output_frames/sec_4_idx_17.jpg",
+        "fps": 60,
+        "explanation": "[0-4] Then, the hand starts to move forward, passing the \"plus 9\" and \"plus 6\" blocks, the bread in the hand turns into a burger. The left bread has two layers of cheese, two layers of tomato slices, two layers of green vegetables, and one layer of meat patty. The bread on the right has two layers of cheese, one layer of meat patty, one layer of tomato slices, and one layer of vegetables. As they continue moving forward, the food on the right bread is placed on the left bread."
+    },
+    {
+        "second": 5,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Qg6yeRA8szo/output_frames/sec_5_idx_9.jpg",
+        "fps": 60,
+        "explanation": "[4-9] Next, after passing the \"times 3\" and \"divided by 2\" blocks, there are a lot more ingredients, and the ingredients on the left bread are placed on the right. They are approaching a pink giant with a huge mouth and an exaggerated expression."
+    },
+    {
+        "second": 6,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Qg6yeRA8szo/output_frames/sec_6_idx_20.jpg",
+        "fps": 60,
+        "explanation": "[4-9] Next, after passing the \"times 3\" and \"divided by 2\" blocks, there are a lot more ingredients, and the ingredients on the left bread are placed on the right. They are approaching a pink giant with a huge mouth and an exaggerated expression."
+    },
+    {
+        "second": 7,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Qg6yeRA8szo/output_frames/sec_7_idx_14.jpg",
+        "fps": 60,
+        "explanation": "[4-9] Next, after passing the \"times 3\" and \"divided by 2\" blocks, there are a lot more ingredients, and the ingredients on the left bread are placed on the right. They are approaching a pink giant with a huge mouth and an exaggerated expression."
+    },
+    {
+        "second": 8,
+        "frame_index": 40,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Qg6yeRA8szo/output_frames/sec_8_idx_40.jpg",
+        "fps": 60,
+        "explanation": "[4-9] Next, after passing the \"times 3\" and \"divided by 2\" blocks, there are a lot more ingredients, and the ingredients on the left bread are placed on the right. They are approaching a pink giant with a huge mouth and an exaggerated expression."
+    },
+    {
+        "second": 9,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Qg6yeRA8szo/output_frames/sec_9_idx_15.jpg",
+        "fps": 60,
+        "explanation": "[4-9] Next, after passing the \"times 3\" and \"divided by 2\" blocks, there are a lot more ingredients, and the ingredients on the left bread are placed on the right. They are approaching a pink giant with a huge mouth and an exaggerated expression."
+    },
+    {
+        "second": 10,
+        "frame_index": 49,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Qg6yeRA8szo/output_frames/sec_10_idx_49.jpg",
+        "fps": 60,
+        "explanation": "[9-14] Subsequently, after passing the \"divided by 1\" and \"times 2\" blocks, most of the ingredients on the right bread are placed back on the left, crossing a black and white checkered line."
+    },
+    {
+        "second": 11,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Qg6yeRA8szo/output_frames/sec_11_idx_6.jpg",
+        "fps": 60,
+        "explanation": "[9-14] Subsequently, after passing the \"divided by 1\" and \"times 2\" blocks, most of the ingredients on the right bread are placed back on the left, crossing a black and white checkered line."
+    },
+    {
+        "second": 12,
+        "frame_index": 31,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Qg6yeRA8szo/output_frames/sec_12_idx_31.jpg",
+        "fps": 60,
+        "explanation": "[9-14] Subsequently, after passing the \"divided by 1\" and \"times 2\" blocks, most of the ingredients on the right bread are placed back on the left, crossing a black and white checkered line."
+    },
+    {
+        "second": 13,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Qg6yeRA8szo/output_frames/sec_13_idx_4.jpg",
+        "fps": 60,
+        "explanation": "[9-14] Subsequently, after passing the \"divided by 1\" and \"times 2\" blocks, most of the ingredients on the right bread are placed back on the left, crossing a black and white checkered line."
+    },
+    {
+        "second": 14,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Qg6yeRA8szo/output_frames/sec_14_idx_8.jpg",
+        "fps": 60,
+        "explanation": "[9-14] Subsequently, after passing the \"divided by 1\" and \"times 2\" blocks, most of the ingredients on the right bread are placed back on the left, crossing a black and white checkered line."
+    },
+    {
+        "second": 15,
+        "frame_index": 56,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Qg6yeRA8szo/output_frames/sec_15_idx_56.jpg",
+        "fps": 60,
+        "explanation": "[14-18] Afterwards, the food on the left bread, along with the bread itself, is placed on the right piece of bread."
+    },
+    {
+        "second": 16,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Qg6yeRA8szo/output_frames/sec_16_idx_15.jpg",
+        "fps": 60,
+        "explanation": "[14-18] Afterwards, the food on the left bread, along with the bread itself, is placed on the right piece of bread."
+    },
+    {
+        "second": 17,
+        "frame_index": 40,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Qg6yeRA8szo/output_frames/sec_17_idx_40.jpg",
+        "fps": 60,
+        "explanation": "[14-18] Afterwards, the food on the left bread, along with the bread itself, is placed on the right piece of bread."
+    },
+    {
+        "second": 18,
+        "frame_index": 42,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Qg6yeRA8szo/output_frames/sec_18_idx_42.jpg",
+        "fps": 60,
+        "explanation": "[14-18] Afterwards, the food on the left bread, along with the bread itself, is placed on the right piece of bread."
+    },
+    {
+        "second": 19,
+        "frame_index": 59,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Qg6yeRA8szo/output_frames/sec_19_idx_59.jpg",
+        "fps": 60,
+        "explanation": "[18-23] Finally, the camera gradually zooms out and rises, all the food is placed into the giant's mouth, the giant's mouth gradually widens, and the scale on the right changes from 1 to 10."
+    },
+    {
+        "second": 20,
+        "frame_index": 48,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Qg6yeRA8szo/output_frames/sec_20_idx_48.jpg",
+        "fps": 60,
+        "explanation": "[18-23] Finally, the camera gradually zooms out and rises, all the food is placed into the giant's mouth, the giant's mouth gradually widens, and the scale on the right changes from 1 to 10."
+    },
+    {
+        "second": 21,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Qg6yeRA8szo/output_frames/sec_21_idx_23.jpg",
+        "fps": 60,
+        "explanation": "[18-23] Finally, the camera gradually zooms out and rises, all the food is placed into the giant's mouth, the giant's mouth gradually widens, and the scale on the right changes from 1 to 10."
+    },
+    {
+        "second": 22,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Qg6yeRA8szo/output_frames/sec_22_idx_6.jpg",
+        "fps": 60,
+        "explanation": "[18-23] Finally, the camera gradually zooms out and rises, all the food is placed into the giant's mouth, the giant's mouth gradually widens, and the scale on the right changes from 1 to 10."
+    },
+    {
+        "second": 23,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Qg6yeRA8szo/output_frames/sec_23_idx_9.jpg",
+        "fps": 60,
+        "explanation": "[18-23] Finally, the camera gradually zooms out and rises, all the food is placed into the giant's mouth, the giant's mouth gradually widens, and the scale on the right changes from 1 to 10."
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "second": 0,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8xcKH54Q7MQ/output_frames/sec_0_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[0-0] On the beach, there are many people. Some people have set up beach umbrellas on the sand and are sitting on beach chairs under the umbrellas. There are also some people lying on blankets. There is a white building in the back. There are also some shoes and clothes scattered on the beach."
+    },
+    {
+        "second": 1,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8xcKH54Q7MQ/output_frames/sec_1_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-7] Then the person moves forward, a girl in a black bikini and a girl in a brown bikini walk towards the beach. Groups of people are chatting together."
+    },
+    {
+        "second": 2,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8xcKH54Q7MQ/output_frames/sec_2_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-7] Then the person moves forward, a girl in a black bikini and a girl in a brown bikini walk towards the beach. Groups of people are chatting together."
+    },
+    {
+        "second": 3,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8xcKH54Q7MQ/output_frames/sec_3_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[0-7] Then the person moves forward, a girl in a black bikini and a girl in a brown bikini walk towards the beach. Groups of people are chatting together."
+    },
+    {
+        "second": 4,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8xcKH54Q7MQ/output_frames/sec_4_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[0-7] Then the person moves forward, a girl in a black bikini and a girl in a brown bikini walk towards the beach. Groups of people are chatting together."
+    },
+    {
+        "second": 5,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8xcKH54Q7MQ/output_frames/sec_5_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[0-7] Then the person moves forward, a girl in a black bikini and a girl in a brown bikini walk towards the beach. Groups of people are chatting together."
+    },
+    {
+        "second": 6,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8xcKH54Q7MQ/output_frames/sec_6_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[0-7] Then the person moves forward, a girl in a black bikini and a girl in a brown bikini walk towards the beach. Groups of people are chatting together."
+    },
+    {
+        "second": 7,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8xcKH54Q7MQ/output_frames/sec_7_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-7] Then the person moves forward, a girl in a black bikini and a girl in a brown bikini walk towards the beach. Groups of people are chatting together."
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "second": 0,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/61Zjc3W4wrY/output_frames/sec_0_idx_18.jpg",
+        "fps": 25,
+        "explanation": "[0-0] On a roadside with a grassy lawn beside it, there are several people. On the left, a woman in grey clothes and a black headscarf stands with a girl in pink. On the right, a woman in green clothes and a brown headscarf sits with a girl in pink clothes and a pink headscarf. They are all looking at a person in blue clothes on the right side. There are also a few trees on the lawn behind them. There are white subtitles in the middle."
+    },
+    {
+        "second": 1,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/61Zjc3W4wrY/output_frames/sec_1_idx_21.jpg",
+        "fps": 25,
+        "explanation": "[0-9] The woman in blue is dancing to music as the people standing and sitting by the road watch her."
+    },
+    {
+        "second": 2,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/61Zjc3W4wrY/output_frames/sec_2_idx_15.jpg",
+        "fps": 25,
+        "explanation": "[0-9] The woman in blue is dancing to music as the people standing and sitting by the road watch her."
+    },
+    {
+        "second": 3,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/61Zjc3W4wrY/output_frames/sec_3_idx_1.jpg",
+        "fps": 25,
+        "explanation": "[0-9] The woman in blue is dancing to music as the people standing and sitting by the road watch her."
+    },
+    {
+        "second": 4,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/61Zjc3W4wrY/output_frames/sec_4_idx_19.jpg",
+        "fps": 25,
+        "explanation": "[0-9] The woman in blue is dancing to music as the people standing and sitting by the road watch her."
+    },
+    {
+        "second": 5,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/61Zjc3W4wrY/output_frames/sec_5_idx_2.jpg",
+        "fps": 25,
+        "explanation": "[0-9] The woman in blue is dancing to music as the people standing and sitting by the road watch her."
+    },
+    {
+        "second": 6,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/61Zjc3W4wrY/output_frames/sec_6_idx_7.jpg",
+        "fps": 25,
+        "explanation": "[0-9] The woman in blue is dancing to music as the people standing and sitting by the road watch her."
+    },
+    {
+        "second": 7,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/61Zjc3W4wrY/output_frames/sec_7_idx_8.jpg",
+        "fps": 25,
+        "explanation": "[0-9] The woman in blue is dancing to music as the people standing and sitting by the road watch her."
+    },
+    {
+        "second": 8,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/61Zjc3W4wrY/output_frames/sec_8_idx_15.jpg",
+        "fps": 25,
+        "explanation": "[0-9] The woman in blue is dancing to music as the people standing and sitting by the road watch her."
+    },
+    {
+        "second": 9,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/61Zjc3W4wrY/output_frames/sec_9_idx_1.jpg",
+        "fps": 25,
+        "explanation": "[0-9] The woman in blue is dancing to music as the people standing and sitting by the road watch her."
+    }
+]

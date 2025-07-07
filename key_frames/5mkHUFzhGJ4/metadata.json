@@ -1,0 +1,65 @@
+[
+    {
+        "second": 0,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5mkHUFzhGJ4/output_frames/sec_0_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[0-0] Two baby Peach princesses and an Anubis are standing behind a box, with a background of buildings, greenery, and a gray night sky."
+    },
+    {
+        "second": 1,
+        "frame_index": 33,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5mkHUFzhGJ4/output_frames/sec_1_idx_33.jpg",
+        "fps": 60,
+        "explanation": "[0-2] Then, the two baby Peach princesses start clapping their hands and shaking their heads, Anubis opens its mouth and shakes its head too."
+    },
+    {
+        "second": 2,
+        "frame_index": 44,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5mkHUFzhGJ4/output_frames/sec_2_idx_44.jpg",
+        "fps": 60,
+        "explanation": "[0-2] Then, the two baby Peach princesses start clapping their hands and shaking their heads, Anubis opens its mouth and shakes its head too."
+    },
+    {
+        "second": 3,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5mkHUFzhGJ4/output_frames/sec_3_idx_28.jpg",
+        "fps": 60,
+        "explanation": "[2-4] Next, the scene cuts to a man standing on a porch, wearing a red dress, blue overalls, and a red hat, holding a bottle of beer. The man opens his mouth to say a few words and throws the beer bottle in his hand."
+    },
+    {
+        "second": 4,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5mkHUFzhGJ4/output_frames/sec_4_idx_10.jpg",
+        "fps": 60,
+        "explanation": "[2-4] Next, the scene cuts to a man standing on a porch, wearing a red dress, blue overalls, and a red hat, holding a bottle of beer. The man opens his mouth to say a few words and throws the beer bottle in his hand."
+    },
+    {
+        "second": 5,
+        "frame_index": 38,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5mkHUFzhGJ4/output_frames/sec_5_idx_38.jpg",
+        "fps": 60,
+        "explanation": "[4-8] Subsequently, the scene cuts back to the baby Peach princesses and Anubis, who are still dancing. The beer bottle knocks Anubis down, and the two baby Peach princesses look at Anubis on the ground."
+    },
+    {
+        "second": 6,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5mkHUFzhGJ4/output_frames/sec_6_idx_2.jpg",
+        "fps": 60,
+        "explanation": "[4-8] Subsequently, the scene cuts back to the baby Peach princesses and Anubis, who are still dancing. The beer bottle knocks Anubis down, and the two baby Peach princesses look at Anubis on the ground."
+    },
+    {
+        "second": 7,
+        "frame_index": 54,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5mkHUFzhGJ4/output_frames/sec_7_idx_54.jpg",
+        "fps": 60,
+        "explanation": "[4-8] Subsequently, the scene cuts back to the baby Peach princesses and Anubis, who are still dancing. The beer bottle knocks Anubis down, and the two baby Peach princesses look at Anubis on the ground."
+    },
+    {
+        "second": 8,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5mkHUFzhGJ4/output_frames/sec_8_idx_2.jpg",
+        "fps": 60,
+        "explanation": "[4-8] Subsequently, the scene cuts back to the baby Peach princesses and Anubis, who are still dancing. The beer bottle knocks Anubis down, and the two baby Peach princesses look at Anubis on the ground."
+    }
+]

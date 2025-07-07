@@ -1,0 +1,184 @@
+[
+    {
+        "second": 0,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HzpbL32c6gc/output_frames/sec_0_idx_0.jpg",
+        "fps": 25,
+        "explanation": "[0-0] A woman with short black hair and red lipstick sits at a wooden table. She wears a black top with some writing and a hand gesture pattern. She holds a bottle of soda in her right hand."
+    },
+    {
+        "second": 1,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HzpbL32c6gc/output_frames/sec_1_idx_23.jpg",
+        "fps": 25,
+        "explanation": "[0-2] The woman places the soda bottle on the table. The camera follows the bottle as she opens the plastic seal on the top."
+    },
+    {
+        "second": 2,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HzpbL32c6gc/output_frames/sec_2_idx_13.jpg",
+        "fps": 25,
+        "explanation": "[0-2] The woman places the soda bottle on the table. The camera follows the bottle as she opens the plastic seal on the top."
+    },
+    {
+        "second": 3,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HzpbL32c6gc/output_frames/sec_3_idx_20.jpg",
+        "fps": 25,
+        "explanation": "[2-8] The camera cuts to the woman as she removes the pink object from the top of the bottle cap and starts to twist it open, using considerable force. The camera cuts back to the woman as she picks up the bottle with her left hand and pours the soda into her mouth."
+    },
+    {
+        "second": 4,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HzpbL32c6gc/output_frames/sec_4_idx_16.jpg",
+        "fps": 25,
+        "explanation": "[2-8] The camera cuts to the woman as she removes the pink object from the top of the bottle cap and starts to twist it open, using considerable force. The camera cuts back to the woman as she picks up the bottle with her left hand and pours the soda into her mouth."
+    },
+    {
+        "second": 5,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HzpbL32c6gc/output_frames/sec_5_idx_7.jpg",
+        "fps": 25,
+        "explanation": "[2-8] The camera cuts to the woman as she removes the pink object from the top of the bottle cap and starts to twist it open, using considerable force. The camera cuts back to the woman as she picks up the bottle with her left hand and pours the soda into her mouth."
+    },
+    {
+        "second": 6,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HzpbL32c6gc/output_frames/sec_6_idx_4.jpg",
+        "fps": 25,
+        "explanation": "[2-8] The camera cuts to the woman as she removes the pink object from the top of the bottle cap and starts to twist it open, using considerable force. The camera cuts back to the woman as she picks up the bottle with her left hand and pours the soda into her mouth."
+    },
+    {
+        "second": 7,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HzpbL32c6gc/output_frames/sec_7_idx_24.jpg",
+        "fps": 25,
+        "explanation": "[2-8] The camera cuts to the woman as she removes the pink object from the top of the bottle cap and starts to twist it open, using considerable force. The camera cuts back to the woman as she picks up the bottle with her left hand and pours the soda into her mouth."
+    },
+    {
+        "second": 8,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HzpbL32c6gc/output_frames/sec_8_idx_16.jpg",
+        "fps": 25,
+        "explanation": "[2-8] The camera cuts to the woman as she removes the pink object from the top of the bottle cap and starts to twist it open, using considerable force. The camera cuts back to the woman as she picks up the bottle with her left hand and pours the soda into her mouth."
+    },
+    {
+        "second": 9,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HzpbL32c6gc/output_frames/sec_9_idx_0.jpg",
+        "fps": 25,
+        "explanation": "[8-12] The camera focuses on the bottle's mouth, showing a glass marble. The woman pokes the marble with her right index finger. The camera cuts back to the woman as she takes apart the pink object from the bottle cap and places the separated pieces onto the bottle's mouth."
+    },
+    {
+        "second": 10,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HzpbL32c6gc/output_frames/sec_10_idx_13.jpg",
+        "fps": 25,
+        "explanation": "[8-12] The camera focuses on the bottle's mouth, showing a glass marble. The woman pokes the marble with her right index finger. The camera cuts back to the woman as she takes apart the pink object from the bottle cap and places the separated pieces onto the bottle's mouth."
+    },
+    {
+        "second": 11,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HzpbL32c6gc/output_frames/sec_11_idx_24.jpg",
+        "fps": 25,
+        "explanation": "[8-12] The camera focuses on the bottle's mouth, showing a glass marble. The woman pokes the marble with her right index finger. The camera cuts back to the woman as she takes apart the pink object from the bottle cap and places the separated pieces onto the bottle's mouth."
+    },
+    {
+        "second": 12,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HzpbL32c6gc/output_frames/sec_12_idx_2.jpg",
+        "fps": 25,
+        "explanation": "[8-12] The camera focuses on the bottle's mouth, showing a glass marble. The woman pokes the marble with her right index finger. The camera cuts back to the woman as she takes apart the pink object from the bottle cap and places the separated pieces onto the bottle's mouth."
+    },
+    {
+        "second": 13,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HzpbL32c6gc/output_frames/sec_13_idx_21.jpg",
+        "fps": 25,
+        "explanation": "[12-15] The woman places her right hand on top of the bottle and then places her left hand over her right, pressing down firmly on the bottle."
+    },
+    {
+        "second": 14,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HzpbL32c6gc/output_frames/sec_14_idx_0.jpg",
+        "fps": 25,
+        "explanation": "[12-15] The woman places her right hand on top of the bottle and then places her left hand over her right, pressing down firmly on the bottle."
+    },
+    {
+        "second": 15,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HzpbL32c6gc/output_frames/sec_15_idx_21.jpg",
+        "fps": 25,
+        "explanation": "[12-15] The woman places her right hand on top of the bottle and then places her left hand over her right, pressing down firmly on the bottle."
+    },
+    {
+        "second": 16,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HzpbL32c6gc/output_frames/sec_16_idx_23.jpg",
+        "fps": 25,
+        "explanation": "[15-20] The camera cuts to the soda bottle as the marbles inside drop, and gas bubbles up within the liquid. The camera cuts to the woman, who smiles as she pours the soda into a glass."
+    },
+    {
+        "second": 17,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HzpbL32c6gc/output_frames/sec_17_idx_15.jpg",
+        "fps": 25,
+        "explanation": "[15-20] The camera cuts to the soda bottle as the marbles inside drop, and gas bubbles up within the liquid. The camera cuts to the woman, who smiles as she pours the soda into a glass."
+    },
+    {
+        "second": 18,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HzpbL32c6gc/output_frames/sec_18_idx_6.jpg",
+        "fps": 25,
+        "explanation": "[15-20] The camera cuts to the soda bottle as the marbles inside drop, and gas bubbles up within the liquid. The camera cuts to the woman, who smiles as she pours the soda into a glass."
+    },
+    {
+        "second": 19,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HzpbL32c6gc/output_frames/sec_19_idx_11.jpg",
+        "fps": 25,
+        "explanation": "[15-20] The camera cuts to the soda bottle as the marbles inside drop, and gas bubbles up within the liquid. The camera cuts to the woman, who smiles as she pours the soda into a glass."
+    },
+    {
+        "second": 20,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HzpbL32c6gc/output_frames/sec_20_idx_17.jpg",
+        "fps": 25,
+        "explanation": "[15-20] The camera cuts to the soda bottle as the marbles inside drop, and gas bubbles up within the liquid. The camera cuts to the woman, who smiles as she pours the soda into a glass."
+    },
+    {
+        "second": 21,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HzpbL32c6gc/output_frames/sec_21_idx_5.jpg",
+        "fps": 25,
+        "explanation": "[20-23] The camera cuts back to the woman as she picks up the glass with her right hand and takes a drink."
+    },
+    {
+        "second": 22,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HzpbL32c6gc/output_frames/sec_22_idx_24.jpg",
+        "fps": 25,
+        "explanation": "[20-23] The camera cuts back to the woman as she picks up the glass with her right hand and takes a drink."
+    },
+    {
+        "second": 23,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HzpbL32c6gc/output_frames/sec_23_idx_0.jpg",
+        "fps": 25,
+        "explanation": "[20-23] The camera cuts back to the woman as she picks up the glass with her right hand and takes a drink."
+    },
+    {
+        "second": 24,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HzpbL32c6gc/output_frames/sec_24_idx_18.jpg",
+        "fps": 25,
+        "explanation": "[23-25] Finally, the camera focuses on the soda bottle as the woman shakes it, causing the marbles inside to rattle. The camera cuts back to the woman as she drinks from the glass and smiles, giving a thumbs-up with her left hand towards the camera."
+    },
+    {
+        "second": 25,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HzpbL32c6gc/output_frames/sec_25_idx_8.jpg",
+        "fps": 25,
+        "explanation": "[23-25] Finally, the camera focuses on the soda bottle as the woman shakes it, causing the marbles inside to rattle. The camera cuts back to the woman as she drinks from the glass and smiles, giving a thumbs-up with her left hand towards the camera."
+    }
+]

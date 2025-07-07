@@ -1,0 +1,37 @@
+[
+    {
+        "second": 0,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/J54RU0CaCk4/output_frames/sec_0_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[0-0] The video begins from the perspective of a car's driver's seat. Above it are the white words: Take your drive-thru game to the next level..."
+    },
+    {
+        "second": 1,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/J54RU0CaCk4/output_frames/sec_1_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Then the steering wheel begins to rotate upwards, followed by a black board flying in to cover the steering wheel, transforming it into a small table. Finally, a cup of drink and a portion of food are placed on the table."
+    },
+    {
+        "second": 2,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/J54RU0CaCk4/output_frames/sec_2_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Then the steering wheel begins to rotate upwards, followed by a black board flying in to cover the steering wheel, transforming it into a small table. Finally, a cup of drink and a portion of food are placed on the table."
+    },
+    {
+        "second": 3,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/J54RU0CaCk4/output_frames/sec_3_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Then the steering wheel begins to rotate upwards, followed by a black board flying in to cover the steering wheel, transforming it into a small table. Finally, a cup of drink and a portion of food are placed on the table."
+    },
+    {
+        "second": 4,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/J54RU0CaCk4/output_frames/sec_4_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Then the steering wheel begins to rotate upwards, followed by a black board flying in to cover the steering wheel, transforming it into a small table. Finally, a cup of drink and a portion of food are placed on the table."
+    }
+]

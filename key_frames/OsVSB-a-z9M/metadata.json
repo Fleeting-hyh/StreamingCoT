@@ -1,0 +1,93 @@
+[
+    {
+        "second": 0,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/OsVSB-a-z9M/output_frames/sec_0_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A person wearing gray clothes holds a stack of papers and places them on a binding machine."
+    },
+    {
+        "second": 1,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/OsVSB-a-z9M/output_frames/sec_1_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Then the person puts the stack of papers into the binding slot of the machine and puts a white sheet of paper on the other side of the binding machine. Then they press the start button."
+    },
+    {
+        "second": 2,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/OsVSB-a-z9M/output_frames/sec_2_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Then the person puts the stack of papers into the binding slot of the machine and puts a white sheet of paper on the other side of the binding machine. Then they press the start button."
+    },
+    {
+        "second": 3,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/OsVSB-a-z9M/output_frames/sec_3_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Then the person puts the stack of papers into the binding slot of the machine and puts a white sheet of paper on the other side of the binding machine. Then they press the start button."
+    },
+    {
+        "second": 4,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/OsVSB-a-z9M/output_frames/sec_4_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Then the person puts the stack of papers into the binding slot of the machine and puts a white sheet of paper on the other side of the binding machine. Then they press the start button."
+    },
+    {
+        "second": 5,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/OsVSB-a-z9M/output_frames/sec_5_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[4-13] At this time, the binding machine starts, and the paper starts to be bound as the machine runs. Finally, the last book is bound."
+    },
+    {
+        "second": 6,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/OsVSB-a-z9M/output_frames/sec_6_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[4-13] At this time, the binding machine starts, and the paper starts to be bound as the machine runs. Finally, the last book is bound."
+    },
+    {
+        "second": 7,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/OsVSB-a-z9M/output_frames/sec_7_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[4-13] At this time, the binding machine starts, and the paper starts to be bound as the machine runs. Finally, the last book is bound."
+    },
+    {
+        "second": 8,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/OsVSB-a-z9M/output_frames/sec_8_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[4-13] At this time, the binding machine starts, and the paper starts to be bound as the machine runs. Finally, the last book is bound."
+    },
+    {
+        "second": 9,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/OsVSB-a-z9M/output_frames/sec_9_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[4-13] At this time, the binding machine starts, and the paper starts to be bound as the machine runs. Finally, the last book is bound."
+    },
+    {
+        "second": 10,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/OsVSB-a-z9M/output_frames/sec_10_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[4-13] At this time, the binding machine starts, and the paper starts to be bound as the machine runs. Finally, the last book is bound."
+    },
+    {
+        "second": 11,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/OsVSB-a-z9M/output_frames/sec_11_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[4-13] At this time, the binding machine starts, and the paper starts to be bound as the machine runs. Finally, the last book is bound."
+    },
+    {
+        "second": 12,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/OsVSB-a-z9M/output_frames/sec_12_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[4-13] At this time, the binding machine starts, and the paper starts to be bound as the machine runs. Finally, the last book is bound."
+    }
+]

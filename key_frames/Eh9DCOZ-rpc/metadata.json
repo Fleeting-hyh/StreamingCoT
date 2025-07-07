@@ -1,0 +1,51 @@
+[
+    {
+        "second": 0,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Eh9DCOZ-rpc/output_frames/sec_0_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A red cartoon caterpillar is at the bottom. Surrounded by a white background, it smiles and looks upward, where a picture shows a black and white dog in front of a fence, with a heartbroken emoji at the bottom of the frame."
+    },
+    {
+        "second": 1,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Eh9DCOZ-rpc/output_frames/sec_1_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[0-6] The puppy walks into the closed fence and then straight out through the closed bars. The red caterpillar also changes, becoming smug. Then the picture in the frame changes, showing a kitten with wide eyes, looking surprised."
+    },
+    {
+        "second": 2,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Eh9DCOZ-rpc/output_frames/sec_2_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[0-6] The puppy walks into the closed fence and then straight out through the closed bars. The red caterpillar also changes, becoming smug. Then the picture in the frame changes, showing a kitten with wide eyes, looking surprised."
+    },
+    {
+        "second": 3,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Eh9DCOZ-rpc/output_frames/sec_3_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[0-6] The puppy walks into the closed fence and then straight out through the closed bars. The red caterpillar also changes, becoming smug. Then the picture in the frame changes, showing a kitten with wide eyes, looking surprised."
+    },
+    {
+        "second": 4,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Eh9DCOZ-rpc/output_frames/sec_4_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[0-6] The puppy walks into the closed fence and then straight out through the closed bars. The red caterpillar also changes, becoming smug. Then the picture in the frame changes, showing a kitten with wide eyes, looking surprised."
+    },
+    {
+        "second": 5,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Eh9DCOZ-rpc/output_frames/sec_5_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-6] The puppy walks into the closed fence and then straight out through the closed bars. The red caterpillar also changes, becoming smug. Then the picture in the frame changes, showing a kitten with wide eyes, looking surprised."
+    },
+    {
+        "second": 6,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Eh9DCOZ-rpc/output_frames/sec_6_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[0-6] The puppy walks into the closed fence and then straight out through the closed bars. The red caterpillar also changes, becoming smug. Then the picture in the frame changes, showing a kitten with wide eyes, looking surprised."
+    }
+]

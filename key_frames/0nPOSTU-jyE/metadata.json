@@ -1,0 +1,86 @@
+[
+    {
+        "second": 0,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0nPOSTU-jyE/output_frames/sec_0_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[0-0] On a countertop, a pair of hands reach into a bowl filled with soapy water."
+    },
+    {
+        "second": 1,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0nPOSTU-jyE/output_frames/sec_1_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-3] The hands take out many bottle caps from the soapy water. The scene then switches to a wooden chopping board, where a hand places the cleaned metal bottle caps one by one. Then, a piece of dough is taken out and placed on top of the bottle caps. A rolling pin appears and rolls over the dough from top to bottom."
+    },
+    {
+        "second": 2,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0nPOSTU-jyE/output_frames/sec_2_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[0-3] The hands take out many bottle caps from the soapy water. The scene then switches to a wooden chopping board, where a hand places the cleaned metal bottle caps one by one. Then, a piece of dough is taken out and placed on top of the bottle caps. A rolling pin appears and rolls over the dough from top to bottom."
+    },
+    {
+        "second": 3,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0nPOSTU-jyE/output_frames/sec_3_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[0-3] The hands take out many bottle caps from the soapy water. The scene then switches to a wooden chopping board, where a hand places the cleaned metal bottle caps one by one. Then, a piece of dough is taken out and placed on top of the bottle caps. A rolling pin appears and rolls over the dough from top to bottom."
+    },
+    {
+        "second": 4,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0nPOSTU-jyE/output_frames/sec_4_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[3-11] The rolling pin is then removed, leaving a clear bottle cap-shaped imprint on the dough. Then, a piping bag is taken out, and red sauce is squeezed onto the dough, with a dollop of sauce in each bottle cap imprint. Subsequently, another piece of dough is placed on top, rolled over once with a rolling pin, and the prepared bottle cap-shaped dough is removed from the bottle cap using a toothpick."
+    },
+    {
+        "second": 5,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0nPOSTU-jyE/output_frames/sec_5_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[3-11] The rolling pin is then removed, leaving a clear bottle cap-shaped imprint on the dough. Then, a piping bag is taken out, and red sauce is squeezed onto the dough, with a dollop of sauce in each bottle cap imprint. Subsequently, another piece of dough is placed on top, rolled over once with a rolling pin, and the prepared bottle cap-shaped dough is removed from the bottle cap using a toothpick."
+    },
+    {
+        "second": 6,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0nPOSTU-jyE/output_frames/sec_6_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[3-11] The rolling pin is then removed, leaving a clear bottle cap-shaped imprint on the dough. Then, a piping bag is taken out, and red sauce is squeezed onto the dough, with a dollop of sauce in each bottle cap imprint. Subsequently, another piece of dough is placed on top, rolled over once with a rolling pin, and the prepared bottle cap-shaped dough is removed from the bottle cap using a toothpick."
+    },
+    {
+        "second": 7,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0nPOSTU-jyE/output_frames/sec_7_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[3-11] The rolling pin is then removed, leaving a clear bottle cap-shaped imprint on the dough. Then, a piping bag is taken out, and red sauce is squeezed onto the dough, with a dollop of sauce in each bottle cap imprint. Subsequently, another piece of dough is placed on top, rolled over once with a rolling pin, and the prepared bottle cap-shaped dough is removed from the bottle cap using a toothpick."
+    },
+    {
+        "second": 8,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0nPOSTU-jyE/output_frames/sec_8_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[3-11] The rolling pin is then removed, leaving a clear bottle cap-shaped imprint on the dough. Then, a piping bag is taken out, and red sauce is squeezed onto the dough, with a dollop of sauce in each bottle cap imprint. Subsequently, another piece of dough is placed on top, rolled over once with a rolling pin, and the prepared bottle cap-shaped dough is removed from the bottle cap using a toothpick."
+    },
+    {
+        "second": 9,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0nPOSTU-jyE/output_frames/sec_9_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[3-11] The rolling pin is then removed, leaving a clear bottle cap-shaped imprint on the dough. Then, a piping bag is taken out, and red sauce is squeezed onto the dough, with a dollop of sauce in each bottle cap imprint. Subsequently, another piece of dough is placed on top, rolled over once with a rolling pin, and the prepared bottle cap-shaped dough is removed from the bottle cap using a toothpick."
+    },
+    {
+        "second": 10,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0nPOSTU-jyE/output_frames/sec_10_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[3-11] The rolling pin is then removed, leaving a clear bottle cap-shaped imprint on the dough. Then, a piping bag is taken out, and red sauce is squeezed onto the dough, with a dollop of sauce in each bottle cap imprint. Subsequently, another piece of dough is placed on top, rolled over once with a rolling pin, and the prepared bottle cap-shaped dough is removed from the bottle cap using a toothpick."
+    },
+    {
+        "second": 11,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0nPOSTU-jyE/output_frames/sec_11_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[3-11] The rolling pin is then removed, leaving a clear bottle cap-shaped imprint on the dough. Then, a piping bag is taken out, and red sauce is squeezed onto the dough, with a dollop of sauce in each bottle cap imprint. Subsequently, another piece of dough is placed on top, rolled over once with a rolling pin, and the prepared bottle cap-shaped dough is removed from the bottle cap using a toothpick."
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "second": 0,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8ttpilHbk8I/output_frames/sec_0_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-0] Against a backdrop of a pink wall and blue floor, there are two cube-shaped figures. The yellow cube figure leans against the pink wall, while the green one stands on the blue floor. A smaller purple cube is positioned between them in the front. Another purple cube is on the pink wall. Both the yellow and green cube figures have eyes and sharp teeth, giving them a menacing appearance."
+    },
+    {
+        "second": 1,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8ttpilHbk8I/output_frames/sec_1_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[0-5] The yellow cube opens its mouth, revealing a dark void within. It collapses to the ground, gradually shrinking and covering the purple cube. The green cube watches it fall and then opens its mouth, also revealing a dark void. It too collapses and shrinks, covering the yellow cube. Green and yellow stripes are left on the floor, and only a green cube remains."
+    },
+    {
+        "second": 2,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8ttpilHbk8I/output_frames/sec_2_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[0-5] The yellow cube opens its mouth, revealing a dark void within. It collapses to the ground, gradually shrinking and covering the purple cube. The green cube watches it fall and then opens its mouth, also revealing a dark void. It too collapses and shrinks, covering the yellow cube. Green and yellow stripes are left on the floor, and only a green cube remains."
+    },
+    {
+        "second": 3,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8ttpilHbk8I/output_frames/sec_3_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[0-5] The yellow cube opens its mouth, revealing a dark void within. It collapses to the ground, gradually shrinking and covering the purple cube. The green cube watches it fall and then opens its mouth, also revealing a dark void. It too collapses and shrinks, covering the yellow cube. Green and yellow stripes are left on the floor, and only a green cube remains."
+    },
+    {
+        "second": 4,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8ttpilHbk8I/output_frames/sec_4_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[0-5] The yellow cube opens its mouth, revealing a dark void within. It collapses to the ground, gradually shrinking and covering the purple cube. The green cube watches it fall and then opens its mouth, also revealing a dark void. It too collapses and shrinks, covering the yellow cube. Green and yellow stripes are left on the floor, and only a green cube remains."
+    },
+    {
+        "second": 5,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8ttpilHbk8I/output_frames/sec_5_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[0-5] The yellow cube opens its mouth, revealing a dark void within. It collapses to the ground, gradually shrinking and covering the purple cube. The green cube watches it fall and then opens its mouth, also revealing a dark void. It too collapses and shrinks, covering the yellow cube. Green and yellow stripes are left on the floor, and only a green cube remains."
+    },
+    {
+        "second": 6,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8ttpilHbk8I/output_frames/sec_6_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[5-10] Next, the purple cube on the wall extends outwards, transforming into a rectangular shape. It falls from the wall, turning into a purple cube figure. It then opens its mouth, collapses, shrinks gradually, and covers the green cube, becoming the original purple cube. Finally, the green and yellow cube figures also emerge, their eyes spinning as they return to their initial positions from the beginning of the scene."
+    },
+    {
+        "second": 7,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8ttpilHbk8I/output_frames/sec_7_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[5-10] Next, the purple cube on the wall extends outwards, transforming into a rectangular shape. It falls from the wall, turning into a purple cube figure. It then opens its mouth, collapses, shrinks gradually, and covers the green cube, becoming the original purple cube. Finally, the green and yellow cube figures also emerge, their eyes spinning as they return to their initial positions from the beginning of the scene."
+    },
+    {
+        "second": 8,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8ttpilHbk8I/output_frames/sec_8_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[5-10] Next, the purple cube on the wall extends outwards, transforming into a rectangular shape. It falls from the wall, turning into a purple cube figure. It then opens its mouth, collapses, shrinks gradually, and covers the green cube, becoming the original purple cube. Finally, the green and yellow cube figures also emerge, their eyes spinning as they return to their initial positions from the beginning of the scene."
+    },
+    {
+        "second": 9,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8ttpilHbk8I/output_frames/sec_9_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[5-10] Next, the purple cube on the wall extends outwards, transforming into a rectangular shape. It falls from the wall, turning into a purple cube figure. It then opens its mouth, collapses, shrinks gradually, and covers the green cube, becoming the original purple cube. Finally, the green and yellow cube figures also emerge, their eyes spinning as they return to their initial positions from the beginning of the scene."
+    },
+    {
+        "second": 10,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8ttpilHbk8I/output_frames/sec_10_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[5-10] Next, the purple cube on the wall extends outwards, transforming into a rectangular shape. It falls from the wall, turning into a purple cube figure. It then opens its mouth, collapses, shrinks gradually, and covers the green cube, becoming the original purple cube. Finally, the green and yellow cube figures also emerge, their eyes spinning as they return to their initial positions from the beginning of the scene."
+    }
+]

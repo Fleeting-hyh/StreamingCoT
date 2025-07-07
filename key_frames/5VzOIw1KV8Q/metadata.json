@@ -1,0 +1,65 @@
+[
+    {
+        "second": 0,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5VzOIw1KV8Q/output_frames/sec_0_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A person riding a motorcycle stops on the road. Seen from behind, the person wears a black helmet with the red text \"#MOTOTAHR\". The person has long brown hair and wears a black bodysuit. The motorcycle is red and black and has two black rearview mirrors. There is a pair of hands wearing black gloves behind."
+    },
+    {
+        "second": 1,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5VzOIw1KV8Q/output_frames/sec_1_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Then the hands wearing black gloves are slowly placed on the shoulders of the person in the black bodysuit. Then the hands slowly move down, resting on the waist of the person in the black bodysuit, and then the hands are lowered."
+    },
+    {
+        "second": 2,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5VzOIw1KV8Q/output_frames/sec_2_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Then the hands wearing black gloves are slowly placed on the shoulders of the person in the black bodysuit. Then the hands slowly move down, resting on the waist of the person in the black bodysuit, and then the hands are lowered."
+    },
+    {
+        "second": 3,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5VzOIw1KV8Q/output_frames/sec_3_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Then the hands wearing black gloves are slowly placed on the shoulders of the person in the black bodysuit. Then the hands slowly move down, resting on the waist of the person in the black bodysuit, and then the hands are lowered."
+    },
+    {
+        "second": 4,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5VzOIw1KV8Q/output_frames/sec_4_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Then the hands wearing black gloves are slowly placed on the shoulders of the person in the black bodysuit. Then the hands slowly move down, resting on the waist of the person in the black bodysuit, and then the hands are lowered."
+    },
+    {
+        "second": 5,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5VzOIw1KV8Q/output_frames/sec_5_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[4-8] Then the person in the black bodysuit looks back to the right, her eyes looking behind. Then the picture gradually darkens, showing a red tone flickering twice."
+    },
+    {
+        "second": 6,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5VzOIw1KV8Q/output_frames/sec_6_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[4-8] Then the person in the black bodysuit looks back to the right, her eyes looking behind. Then the picture gradually darkens, showing a red tone flickering twice."
+    },
+    {
+        "second": 7,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5VzOIw1KV8Q/output_frames/sec_7_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[4-8] Then the person in the black bodysuit looks back to the right, her eyes looking behind. Then the picture gradually darkens, showing a red tone flickering twice."
+    },
+    {
+        "second": 8,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5VzOIw1KV8Q/output_frames/sec_8_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[4-8] Then the person in the black bodysuit looks back to the right, her eyes looking behind. Then the picture gradually darkens, showing a red tone flickering twice."
+    }
+]

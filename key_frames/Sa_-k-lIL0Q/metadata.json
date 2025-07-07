@@ -1,0 +1,51 @@
+[
+    {
+        "second": 0,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Sa_-k-lIL0Q/output_frames/sec_0_idx_24.jpg",
+        "fps": 30,
+        "explanation": "[0-0] The video begins with an aerial view of a river, with a large number of crocodiles densely packed on the bank."
+    },
+    {
+        "second": 1,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Sa_-k-lIL0Q/output_frames/sec_1_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-6] As the camera zooms in, a capybara appears in the frame and starts walking towards the river, the crocodiles are right next to it. The capybara reaches the riverbank, lowers its head and starts drinking water, while the crocodiles remain motionless. Then, the capybara finishes drinking and starts walking along the riverbank, the crocodiles still show no intention of attacking."
+    },
+    {
+        "second": 2,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Sa_-k-lIL0Q/output_frames/sec_2_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[0-6] As the camera zooms in, a capybara appears in the frame and starts walking towards the river, the crocodiles are right next to it. The capybara reaches the riverbank, lowers its head and starts drinking water, while the crocodiles remain motionless. Then, the capybara finishes drinking and starts walking along the riverbank, the crocodiles still show no intention of attacking."
+    },
+    {
+        "second": 3,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Sa_-k-lIL0Q/output_frames/sec_3_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-6] As the camera zooms in, a capybara appears in the frame and starts walking towards the river, the crocodiles are right next to it. The capybara reaches the riverbank, lowers its head and starts drinking water, while the crocodiles remain motionless. Then, the capybara finishes drinking and starts walking along the riverbank, the crocodiles still show no intention of attacking."
+    },
+    {
+        "second": 4,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Sa_-k-lIL0Q/output_frames/sec_4_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[0-6] As the camera zooms in, a capybara appears in the frame and starts walking towards the river, the crocodiles are right next to it. The capybara reaches the riverbank, lowers its head and starts drinking water, while the crocodiles remain motionless. Then, the capybara finishes drinking and starts walking along the riverbank, the crocodiles still show no intention of attacking."
+    },
+    {
+        "second": 5,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Sa_-k-lIL0Q/output_frames/sec_5_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[0-6] As the camera zooms in, a capybara appears in the frame and starts walking towards the river, the crocodiles are right next to it. The capybara reaches the riverbank, lowers its head and starts drinking water, while the crocodiles remain motionless. Then, the capybara finishes drinking and starts walking along the riverbank, the crocodiles still show no intention of attacking."
+    },
+    {
+        "second": 6,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Sa_-k-lIL0Q/output_frames/sec_6_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[0-6] As the camera zooms in, a capybara appears in the frame and starts walking towards the river, the crocodiles are right next to it. The capybara reaches the riverbank, lowers its head and starts drinking water, while the crocodiles remain motionless. Then, the capybara finishes drinking and starts walking along the riverbank, the crocodiles still show no intention of attacking."
+    }
+]

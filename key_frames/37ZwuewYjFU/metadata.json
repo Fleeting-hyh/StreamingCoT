@@ -1,0 +1,93 @@
+[
+    {
+        "second": 0,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/37ZwuewYjFU/output_frames/sec_0_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A shirtless man rides a pink motorcycle on a gray road. There are green plants on the left side of the road, and a streetlight and several houses on the right side. The houses are surrounded by green trees and grass. White clouds float in the blue sky."
+    },
+    {
+        "second": 1,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/37ZwuewYjFU/output_frames/sec_1_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The man wears a mask and yellow gloves while riding the motorcycle. He is wearing black pants, white socks, and black shoes. He slows down, takes his right foot off the motorcycle, and parks it next to two other motorcycles. Behind him is a yellow hillside."
+    },
+    {
+        "second": 2,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/37ZwuewYjFU/output_frames/sec_2_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The man wears a mask and yellow gloves while riding the motorcycle. He is wearing black pants, white socks, and black shoes. He slows down, takes his right foot off the motorcycle, and parks it next to two other motorcycles. Behind him is a yellow hillside."
+    },
+    {
+        "second": 3,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/37ZwuewYjFU/output_frames/sec_3_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The man wears a mask and yellow gloves while riding the motorcycle. He is wearing black pants, white socks, and black shoes. He slows down, takes his right foot off the motorcycle, and parks it next to two other motorcycles. Behind him is a yellow hillside."
+    },
+    {
+        "second": 4,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/37ZwuewYjFU/output_frames/sec_4_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The man wears a mask and yellow gloves while riding the motorcycle. He is wearing black pants, white socks, and black shoes. He slows down, takes his right foot off the motorcycle, and parks it next to two other motorcycles. Behind him is a yellow hillside."
+    },
+    {
+        "second": 5,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/37ZwuewYjFU/output_frames/sec_5_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[4-6] The man lowers his head to support the motorcycle on the ground, gets off the pink motorcycle, and turns around."
+    },
+    {
+        "second": 6,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/37ZwuewYjFU/output_frames/sec_6_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[4-6] The man lowers his head to support the motorcycle on the ground, gets off the pink motorcycle, and turns around."
+    },
+    {
+        "second": 7,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/37ZwuewYjFU/output_frames/sec_7_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[6-9] The camera follows him as he walks to a green motorcycle and gets on it. To the man's right is a blue motorcycle, and behind him is a black iron fence gate. In the distance are green hills and blue sky."
+    },
+    {
+        "second": 8,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/37ZwuewYjFU/output_frames/sec_8_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[6-9] The camera follows him as he walks to a green motorcycle and gets on it. To the man's right is a blue motorcycle, and behind him is a black iron fence gate. In the distance are green hills and blue sky."
+    },
+    {
+        "second": 9,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/37ZwuewYjFU/output_frames/sec_9_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[6-9] The camera follows him as he walks to a green motorcycle and gets on it. To the man's right is a blue motorcycle, and behind him is a black iron fence gate. In the distance are green hills and blue sky."
+    },
+    {
+        "second": 10,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/37ZwuewYjFU/output_frames/sec_10_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[9-12] The man then uses his foot to kick up the motorcycle's kickstand and starts it. In front of the yellow building's door are some cluttered items and a green plant. A pink car is parked inside the garage."
+    },
+    {
+        "second": 11,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/37ZwuewYjFU/output_frames/sec_11_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[9-12] The man then uses his foot to kick up the motorcycle's kickstand and starts it. In front of the yellow building's door are some cluttered items and a green plant. A pink car is parked inside the garage."
+    },
+    {
+        "second": 12,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/37ZwuewYjFU/output_frames/sec_12_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[9-12] The man then uses his foot to kick up the motorcycle's kickstand and starts it. In front of the yellow building's door are some cluttered items and a green plant. A pink car is parked inside the garage."
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "second": 0,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FNEARVJHJ00/output_frames/sec_0_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A man wearing khaki overalls, a white hat, and sporting a beard is lying on the ground. A brightly colored chameleon perches on a stone in front of him. The man has a green insect in his mouth. They are surrounded by gray stones."
+    },
+    {
+        "second": 1,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FNEARVJHJ00/output_frames/sec_1_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[0-5] The man raises his head, and the chameleon suddenly shoots out its long tongue, curls it around the insect, and carries it into its mouth. The man watches the chameleon eat the insect, a surprised and delighted smile spreading across his face."
+    },
+    {
+        "second": 2,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FNEARVJHJ00/output_frames/sec_2_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[0-5] The man raises his head, and the chameleon suddenly shoots out its long tongue, curls it around the insect, and carries it into its mouth. The man watches the chameleon eat the insect, a surprised and delighted smile spreading across his face."
+    },
+    {
+        "second": 3,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FNEARVJHJ00/output_frames/sec_3_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[0-5] The man raises his head, and the chameleon suddenly shoots out its long tongue, curls it around the insect, and carries it into its mouth. The man watches the chameleon eat the insect, a surprised and delighted smile spreading across his face."
+    },
+    {
+        "second": 4,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FNEARVJHJ00/output_frames/sec_4_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-5] The man raises his head, and the chameleon suddenly shoots out its long tongue, curls it around the insect, and carries it into its mouth. The man watches the chameleon eat the insect, a surprised and delighted smile spreading across his face."
+    },
+    {
+        "second": 5,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FNEARVJHJ00/output_frames/sec_5_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-5] The man raises his head, and the chameleon suddenly shoots out its long tongue, curls it around the insect, and carries it into its mouth. The man watches the chameleon eat the insect, a surprised and delighted smile spreading across his face."
+    }
+]

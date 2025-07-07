@@ -1,0 +1,51 @@
+[
+    {
+        "second": 0,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5v9jT7ufjyk/output_frames/sec_0_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[0-0] Five people are standing on green grass, each holding a colorful basketball. They are lined up in front of a basketball hoop supported by a wooden pole. Above their heads, from left to right, are the yellow numbers 1, 2, 3, 4, and 5. Everyone has a focused expression. Behind them are trees and some buildings. At the top of the screen is a yellow Chinese caption \"\u8bf7\u95ee\u662f\u8c01\u6295\u4e2d\u7684?\" (Translation: Who made the shot?)."
+    },
+    {
+        "second": 1,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5v9jT7ufjyk/output_frames/sec_1_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Next, they squat slightly and then jump up, throwing the basketballs in their hands towards the hoop. One basketball falls into the hoop, and another spins above the hoop before falling off to the left. The five people twist their bodies happily."
+    },
+    {
+        "second": 2,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5v9jT7ufjyk/output_frames/sec_2_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Next, they squat slightly and then jump up, throwing the basketballs in their hands towards the hoop. One basketball falls into the hoop, and another spins above the hoop before falling off to the left. The five people twist their bodies happily."
+    },
+    {
+        "second": 3,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5v9jT7ufjyk/output_frames/sec_3_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Next, they squat slightly and then jump up, throwing the basketballs in their hands towards the hoop. One basketball falls into the hoop, and another spins above the hoop before falling off to the left. The five people twist their bodies happily."
+    },
+    {
+        "second": 4,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5v9jT7ufjyk/output_frames/sec_4_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Next, they squat slightly and then jump up, throwing the basketballs in their hands towards the hoop. One basketball falls into the hoop, and another spins above the hoop before falling off to the left. The five people twist their bodies happily."
+    },
+    {
+        "second": 5,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5v9jT7ufjyk/output_frames/sec_5_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[4-6] They continue to twist their bodies happily. The person with the number 3 above their head jumps up happily and laughs."
+    },
+    {
+        "second": 6,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5v9jT7ufjyk/output_frames/sec_6_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[4-6] They continue to twist their bodies happily. The person with the number 3 above their head jumps up happily and laughs."
+    }
+]

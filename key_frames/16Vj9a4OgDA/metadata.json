@@ -1,0 +1,135 @@
+[
+    {
+        "second": 0,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/16Vj9a4OgDA/output_frames/sec_0_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[0-0] In a kitchen, two women are sitting by a dining table. On the left sits a young woman with blue hair, wearing a blue top. She raises her left arm, resting a pink and black toy hammer on it. Her right hand rests on top of the hammer as she lowers her head slightly, smiling. On the right sits a middle-aged woman in a white top, with red hair. She looks forward, frowning slightly. A tablecloth with a floral pattern covers the table in front of them. The background is a well-decorated kitchen with wooden cabinets and chandeliers."
+    },
+    {
+        "second": 1,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/16Vj9a4OgDA/output_frames/sec_1_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[0-3] The young woman with blue hair then touches the pink hammer on her left arm with her right hand. The middle-aged woman with red hair next to her reaches out with her left hand and slams the hammer hard. The blue-haired woman immediately places the hammer to her right, pouting and frowning as she looks forward."
+    },
+    {
+        "second": 2,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/16Vj9a4OgDA/output_frames/sec_2_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-3] The young woman with blue hair then touches the pink hammer on her left arm with her right hand. The middle-aged woman with red hair next to her reaches out with her left hand and slams the hammer hard. The blue-haired woman immediately places the hammer to her right, pouting and frowning as she looks forward."
+    },
+    {
+        "second": 3,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/16Vj9a4OgDA/output_frames/sec_3_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[0-3] The young woman with blue hair then touches the pink hammer on her left arm with her right hand. The middle-aged woman with red hair next to her reaches out with her left hand and slams the hammer hard. The blue-haired woman immediately places the hammer to her right, pouting and frowning as she looks forward."
+    },
+    {
+        "second": 4,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/16Vj9a4OgDA/output_frames/sec_4_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[3-5] Next, the middle-aged woman with red hair picks up a red beverage bottle from her right side. Holding the bottle in her left hand, she places her right hand over the cap. She opens her mouth wide and looks forward, then puts the drink away."
+    },
+    {
+        "second": 5,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/16Vj9a4OgDA/output_frames/sec_5_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[3-5] Next, the middle-aged woman with red hair picks up a red beverage bottle from her right side. Holding the bottle in her left hand, she places her right hand over the cap. She opens her mouth wide and looks forward, then puts the drink away."
+    },
+    {
+        "second": 6,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/16Vj9a4OgDA/output_frames/sec_6_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[5-7] The young woman with blue hair then picks up a blue beverage bottle from her left side. She holds the bottom of the bottle with her right hand and places her left hand on the cap, opening and closing her mouth repeatedly. She then places the bottle back to her left."
+    },
+    {
+        "second": 7,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/16Vj9a4OgDA/output_frames/sec_7_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[5-7] The young woman with blue hair then picks up a blue beverage bottle from her left side. She holds the bottom of the bottle with her right hand and places her left hand on the cap, opening and closing her mouth repeatedly. She then places the bottle back to her left."
+    },
+    {
+        "second": 8,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/16Vj9a4OgDA/output_frames/sec_8_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[7-9] The middle-aged woman with red hair then picks up a pink lollipop with her right hand. She puts the lollipop in her mouth, opening and closing her mouth repeatedly. She then extends her right arm and shows the lollipop forward."
+    },
+    {
+        "second": 9,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/16Vj9a4OgDA/output_frames/sec_9_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[7-9] The middle-aged woman with red hair then picks up a pink lollipop with her right hand. She puts the lollipop in her mouth, opening and closing her mouth repeatedly. She then extends her right arm and shows the lollipop forward."
+    },
+    {
+        "second": 10,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/16Vj9a4OgDA/output_frames/sec_10_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[9-11] The young woman with blue hair then holds a blue lollipop in her left hand in front of her. She opens and closes her mouth repeatedly, then puts the blue lollipop to her left."
+    },
+    {
+        "second": 11,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/16Vj9a4OgDA/output_frames/sec_11_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[9-11] The young woman with blue hair then holds a blue lollipop in her left hand in front of her. She opens and closes her mouth repeatedly, then puts the blue lollipop to her left."
+    },
+    {
+        "second": 12,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/16Vj9a4OgDA/output_frames/sec_12_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[11-13] The middle-aged woman with red hair then takes out a yellow can from her right side and places it in front of her. She holds the can in her right hand, while her left hand moves continuously."
+    },
+    {
+        "second": 13,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/16Vj9a4OgDA/output_frames/sec_13_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[11-13] The middle-aged woman with red hair then takes out a yellow can from her right side and places it in front of her. She holds the can in her right hand, while her left hand moves continuously."
+    },
+    {
+        "second": 14,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/16Vj9a4OgDA/output_frames/sec_14_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[13-18] Finally, the young woman with blue hair takes out a red firecracker with a fuse from her right side. The middle-aged woman with red hair next to her opens her mouth in surprise. The young woman with blue hair holds the firecracker with both hands and opens and closes her mouth repeatedly. The middle-aged woman with red hair runs to the right."
+    },
+    {
+        "second": 15,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/16Vj9a4OgDA/output_frames/sec_15_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[13-18] Finally, the young woman with blue hair takes out a red firecracker with a fuse from her right side. The middle-aged woman with red hair next to her opens her mouth in surprise. The young woman with blue hair holds the firecracker with both hands and opens and closes her mouth repeatedly. The middle-aged woman with red hair runs to the right."
+    },
+    {
+        "second": 16,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/16Vj9a4OgDA/output_frames/sec_16_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[13-18] Finally, the young woman with blue hair takes out a red firecracker with a fuse from her right side. The middle-aged woman with red hair next to her opens her mouth in surprise. The young woman with blue hair holds the firecracker with both hands and opens and closes her mouth repeatedly. The middle-aged woman with red hair runs to the right."
+    },
+    {
+        "second": 17,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/16Vj9a4OgDA/output_frames/sec_17_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[13-18] Finally, the young woman with blue hair takes out a red firecracker with a fuse from her right side. The middle-aged woman with red hair next to her opens her mouth in surprise. The young woman with blue hair holds the firecracker with both hands and opens and closes her mouth repeatedly. The middle-aged woman with red hair runs to the right."
+    },
+    {
+        "second": 18,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/16Vj9a4OgDA/output_frames/sec_18_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[13-18] Finally, the young woman with blue hair takes out a red firecracker with a fuse from her right side. The middle-aged woman with red hair next to her opens her mouth in surprise. The young woman with blue hair holds the firecracker with both hands and opens and closes her mouth repeatedly. The middle-aged woman with red hair runs to the right."
+    }
+]

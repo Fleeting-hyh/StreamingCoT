@@ -1,0 +1,65 @@
+[
+    {
+        "second": 0,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/D8HeCcmMGpI/output_frames/sec_0_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A lioness is on a tree, surrounded by yellowish-brown land and some greenery, with white clouds floating in the blue sky."
+    },
+    {
+        "second": 1,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/D8HeCcmMGpI/output_frames/sec_1_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-8] Then, a small monkey jumps down first, followed by the lioness. Afterward, the lioness and the monkey repeatedly chase each other. In the upper left corner, there is a green square with a black and white lion head inside."
+    },
+    {
+        "second": 2,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/D8HeCcmMGpI/output_frames/sec_2_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[0-8] Then, a small monkey jumps down first, followed by the lioness. Afterward, the lioness and the monkey repeatedly chase each other. In the upper left corner, there is a green square with a black and white lion head inside."
+    },
+    {
+        "second": 3,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/D8HeCcmMGpI/output_frames/sec_3_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[0-8] Then, a small monkey jumps down first, followed by the lioness. Afterward, the lioness and the monkey repeatedly chase each other. In the upper left corner, there is a green square with a black and white lion head inside."
+    },
+    {
+        "second": 4,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/D8HeCcmMGpI/output_frames/sec_4_idx_24.jpg",
+        "fps": 30,
+        "explanation": "[0-8] Then, a small monkey jumps down first, followed by the lioness. Afterward, the lioness and the monkey repeatedly chase each other. In the upper left corner, there is a green square with a black and white lion head inside."
+    },
+    {
+        "second": 5,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/D8HeCcmMGpI/output_frames/sec_5_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[0-8] Then, a small monkey jumps down first, followed by the lioness. Afterward, the lioness and the monkey repeatedly chase each other. In the upper left corner, there is a green square with a black and white lion head inside."
+    },
+    {
+        "second": 6,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/D8HeCcmMGpI/output_frames/sec_6_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[0-8] Then, a small monkey jumps down first, followed by the lioness. Afterward, the lioness and the monkey repeatedly chase each other. In the upper left corner, there is a green square with a black and white lion head inside."
+    },
+    {
+        "second": 7,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/D8HeCcmMGpI/output_frames/sec_7_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[0-8] Then, a small monkey jumps down first, followed by the lioness. Afterward, the lioness and the monkey repeatedly chase each other. In the upper left corner, there is a green square with a black and white lion head inside."
+    },
+    {
+        "second": 8,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/D8HeCcmMGpI/output_frames/sec_8_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[0-8] Then, a small monkey jumps down first, followed by the lioness. Afterward, the lioness and the monkey repeatedly chase each other. In the upper left corner, there is a green square with a black and white lion head inside."
+    }
+]

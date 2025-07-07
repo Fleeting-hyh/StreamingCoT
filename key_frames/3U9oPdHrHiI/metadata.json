@@ -1,0 +1,72 @@
+[
+    {
+        "second": 0,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3U9oPdHrHiI/output_frames/sec_0_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A man wearing a light brown T-shirt and blue jeans is bending over in front of a TV, holding a black pan in his hand. On the TV, a male reporter in a blue jacket, holding a microphone, is reporting the news. The floor is covered with a light brown, white, and brown carpet, and the wall is decorated with patterned wallpaper."
+    },
+    {
+        "second": 1,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3U9oPdHrHiI/output_frames/sec_1_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The man looks at the TV and turns the pan, then points his right hand to the right, and then turns the pan again. The male reporter on TV keeps talking and looking at the man."
+    },
+    {
+        "second": 2,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3U9oPdHrHiI/output_frames/sec_2_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The man looks at the TV and turns the pan, then points his right hand to the right, and then turns the pan again. The male reporter on TV keeps talking and looking at the man."
+    },
+    {
+        "second": 3,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3U9oPdHrHiI/output_frames/sec_3_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The man looks at the TV and turns the pan, then points his right hand to the right, and then turns the pan again. The male reporter on TV keeps talking and looking at the man."
+    },
+    {
+        "second": 4,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3U9oPdHrHiI/output_frames/sec_4_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The man looks at the TV and turns the pan, then points his right hand to the right, and then turns the pan again. The male reporter on TV keeps talking and looking at the man."
+    },
+    {
+        "second": 5,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3U9oPdHrHiI/output_frames/sec_5_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[4-9] Then the man waves the pan and turns it again. The male reporter on TV looks forward twice and then walks to the right. The man also walks to the right with the pan, following the male reporter on TV."
+    },
+    {
+        "second": 6,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3U9oPdHrHiI/output_frames/sec_6_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[4-9] Then the man waves the pan and turns it again. The male reporter on TV looks forward twice and then walks to the right. The man also walks to the right with the pan, following the male reporter on TV."
+    },
+    {
+        "second": 7,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3U9oPdHrHiI/output_frames/sec_7_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[4-9] Then the man waves the pan and turns it again. The male reporter on TV looks forward twice and then walks to the right. The man also walks to the right with the pan, following the male reporter on TV."
+    },
+    {
+        "second": 8,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3U9oPdHrHiI/output_frames/sec_8_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[4-9] Then the man waves the pan and turns it again. The male reporter on TV looks forward twice and then walks to the right. The man also walks to the right with the pan, following the male reporter on TV."
+    },
+    {
+        "second": 9,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3U9oPdHrHiI/output_frames/sec_9_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[4-9] Then the man waves the pan and turns it again. The male reporter on TV looks forward twice and then walks to the right. The man also walks to the right with the pan, following the male reporter on TV."
+    }
+]

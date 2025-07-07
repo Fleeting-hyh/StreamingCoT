@@ -1,0 +1,72 @@
+[
+    {
+        "second": 0,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7WWW3Ly4p54/output_frames/sec_0_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[0-0] Inside a room, a man wearing a white short-sleeved shirt and brown sweatpants is smiling and pointing forward with his left hand, with a stack of cushions in front of him."
+    },
+    {
+        "second": 1,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7WWW3Ly4p54/output_frames/sec_1_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[0-7] Then the man steps onto the cushions and puts the hood of his sweatshirt over his head, then puts both arms into the sleeves."
+    },
+    {
+        "second": 2,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7WWW3Ly4p54/output_frames/sec_2_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[0-7] Then the man steps onto the cushions and puts the hood of his sweatshirt over his head, then puts both arms into the sleeves."
+    },
+    {
+        "second": 3,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7WWW3Ly4p54/output_frames/sec_3_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-7] Then the man steps onto the cushions and puts the hood of his sweatshirt over his head, then puts both arms into the sleeves."
+    },
+    {
+        "second": 4,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7WWW3Ly4p54/output_frames/sec_4_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[0-7] Then the man steps onto the cushions and puts the hood of his sweatshirt over his head, then puts both arms into the sleeves."
+    },
+    {
+        "second": 5,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7WWW3Ly4p54/output_frames/sec_5_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[0-7] Then the man steps onto the cushions and puts the hood of his sweatshirt over his head, then puts both arms into the sleeves."
+    },
+    {
+        "second": 6,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7WWW3Ly4p54/output_frames/sec_6_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[0-7] Then the man steps onto the cushions and puts the hood of his sweatshirt over his head, then puts both arms into the sleeves."
+    },
+    {
+        "second": 7,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7WWW3Ly4p54/output_frames/sec_7_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[0-7] Then the man steps onto the cushions and puts the hood of his sweatshirt over his head, then puts both arms into the sleeves."
+    },
+    {
+        "second": 8,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7WWW3Ly4p54/output_frames/sec_8_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[7-10] Subsequently, the man smiles and jumps on the cushions, eventually falling off the cushions."
+    },
+    {
+        "second": 9,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7WWW3Ly4p54/output_frames/sec_9_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[7-10] Subsequently, the man smiles and jumps on the cushions, eventually falling off the cushions."
+    }
+]

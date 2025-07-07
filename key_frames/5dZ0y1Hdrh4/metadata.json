@@ -1,0 +1,93 @@
+[
+    {
+        "second": 0,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5dZ0y1Hdrh4/output_frames/sec_0_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[0-0] The video starts with a pair of hands holding a colorful chain toy, shaped like an uneven circle. On the black surface at the top of the screen, there is a cartoon letter \"A\" with a question mark next to it. The background wall is green."
+    },
+    {
+        "second": 1,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5dZ0y1Hdrh4/output_frames/sec_1_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[0-3] The hands begin to manipulate the chain toy, changing its shape. The pattern on the surface continuously changes, with the word \"FLUFFY\" appearing below the pattern."
+    },
+    {
+        "second": 2,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5dZ0y1Hdrh4/output_frames/sec_2_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[0-3] The hands begin to manipulate the chain toy, changing its shape. The pattern on the surface continuously changes, with the word \"FLUFFY\" appearing below the pattern."
+    },
+    {
+        "second": 3,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5dZ0y1Hdrh4/output_frames/sec_3_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[0-3] The hands begin to manipulate the chain toy, changing its shape. The pattern on the surface continuously changes, with the word \"FLUFFY\" appearing below the pattern."
+    },
+    {
+        "second": 4,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5dZ0y1Hdrh4/output_frames/sec_4_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[3-13] The toy in the hands keeps changing shapes, and the pattern on the surface keeps changing as well. Finally, the toy forms the shape of a \"T,\" and the pattern on the surface stops changing, settling on a gray cartoon \"T.\" The hands hold the toy upright, facing the camera."
+    },
+    {
+        "second": 5,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5dZ0y1Hdrh4/output_frames/sec_5_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[3-13] The toy in the hands keeps changing shapes, and the pattern on the surface keeps changing as well. Finally, the toy forms the shape of a \"T,\" and the pattern on the surface stops changing, settling on a gray cartoon \"T.\" The hands hold the toy upright, facing the camera."
+    },
+    {
+        "second": 6,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5dZ0y1Hdrh4/output_frames/sec_6_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[3-13] The toy in the hands keeps changing shapes, and the pattern on the surface keeps changing as well. Finally, the toy forms the shape of a \"T,\" and the pattern on the surface stops changing, settling on a gray cartoon \"T.\" The hands hold the toy upright, facing the camera."
+    },
+    {
+        "second": 7,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5dZ0y1Hdrh4/output_frames/sec_7_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[3-13] The toy in the hands keeps changing shapes, and the pattern on the surface keeps changing as well. Finally, the toy forms the shape of a \"T,\" and the pattern on the surface stops changing, settling on a gray cartoon \"T.\" The hands hold the toy upright, facing the camera."
+    },
+    {
+        "second": 8,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5dZ0y1Hdrh4/output_frames/sec_8_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[3-13] The toy in the hands keeps changing shapes, and the pattern on the surface keeps changing as well. Finally, the toy forms the shape of a \"T,\" and the pattern on the surface stops changing, settling on a gray cartoon \"T.\" The hands hold the toy upright, facing the camera."
+    },
+    {
+        "second": 9,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5dZ0y1Hdrh4/output_frames/sec_9_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[3-13] The toy in the hands keeps changing shapes, and the pattern on the surface keeps changing as well. Finally, the toy forms the shape of a \"T,\" and the pattern on the surface stops changing, settling on a gray cartoon \"T.\" The hands hold the toy upright, facing the camera."
+    },
+    {
+        "second": 10,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5dZ0y1Hdrh4/output_frames/sec_10_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[3-13] The toy in the hands keeps changing shapes, and the pattern on the surface keeps changing as well. Finally, the toy forms the shape of a \"T,\" and the pattern on the surface stops changing, settling on a gray cartoon \"T.\" The hands hold the toy upright, facing the camera."
+    },
+    {
+        "second": 11,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5dZ0y1Hdrh4/output_frames/sec_11_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[3-13] The toy in the hands keeps changing shapes, and the pattern on the surface keeps changing as well. Finally, the toy forms the shape of a \"T,\" and the pattern on the surface stops changing, settling on a gray cartoon \"T.\" The hands hold the toy upright, facing the camera."
+    },
+    {
+        "second": 12,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5dZ0y1Hdrh4/output_frames/sec_12_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[3-13] The toy in the hands keeps changing shapes, and the pattern on the surface keeps changing as well. Finally, the toy forms the shape of a \"T,\" and the pattern on the surface stops changing, settling on a gray cartoon \"T.\" The hands hold the toy upright, facing the camera."
+    }
+]

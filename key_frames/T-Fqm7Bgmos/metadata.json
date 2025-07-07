@@ -1,0 +1,58 @@
+[
+    {
+        "second": 0,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/T-Fqm7Bgmos/output_frames/sec_0_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[0-0] In the frame, a cartoon Luigi, wearing blue overalls and a green shirt, stands on a black and white checkered floor. Luigi has a confused expression with his hands open downwards. The background is a cartoon blue sky and white clouds. At the top of the frame, there's a line of black text: \"Mario Characters react to your face.\""
+    },
+    {
+        "second": 1,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/T-Fqm7Bgmos/output_frames/sec_1_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Then, the camera zooms out, and suddenly, cartoon Luigi's eyes widen, his mouth opens in shock. At the same time, he waves his limbs randomly and runs quickly to the right side of the frame, disappearing out of sight. The shot then changes, and Princess Peach, a cartoon character in a pink dress, stands on a brick platform against a backdrop of blue sky and white clouds. Her expression is surprised, with her hands clasped over her mouth. Suddenly, the cartoon Princess Peach screams and waves her hands, disappearing from the frame."
+    },
+    {
+        "second": 2,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/T-Fqm7Bgmos/output_frames/sec_2_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Then, the camera zooms out, and suddenly, cartoon Luigi's eyes widen, his mouth opens in shock. At the same time, he waves his limbs randomly and runs quickly to the right side of the frame, disappearing out of sight. The shot then changes, and Princess Peach, a cartoon character in a pink dress, stands on a brick platform against a backdrop of blue sky and white clouds. Her expression is surprised, with her hands clasped over her mouth. Suddenly, the cartoon Princess Peach screams and waves her hands, disappearing from the frame."
+    },
+    {
+        "second": 3,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/T-Fqm7Bgmos/output_frames/sec_3_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[2-4] The shot changes again, and the cartoon Princess Daisy, wearing a yellow dress, stares straight ahead with her hands at her sides. A brick wall stands behind her. Suddenly, her head twists, her hands wave randomly in the air, and she disappears from the frame."
+    },
+    {
+        "second": 4,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/T-Fqm7Bgmos/output_frames/sec_4_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[2-4] The shot changes again, and the cartoon Princess Daisy, wearing a yellow dress, stares straight ahead with her hands at her sides. A brick wall stands behind her. Suddenly, her head twists, her hands wave randomly in the air, and she disappears from the frame."
+    },
+    {
+        "second": 5,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/T-Fqm7Bgmos/output_frames/sec_5_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[4-7] The shot then changes, and a cartoon Mario, wearing a red shirt and blue overalls, stands sideways facing the front of the frame. Suddenly, Mario's eyes widen, his head enlarges while his body shrinks, his tongue sticks out, and his limbs flail in the air, creating a comical sight. Then, he quickly moves to the right side of the frame and disappears. On the brick wall behind him hangs a mural of a female cartoon character in a pink dress."
+    },
+    {
+        "second": 6,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/T-Fqm7Bgmos/output_frames/sec_6_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[4-7] The shot then changes, and a cartoon Mario, wearing a red shirt and blue overalls, stands sideways facing the front of the frame. Suddenly, Mario's eyes widen, his head enlarges while his body shrinks, his tongue sticks out, and his limbs flail in the air, creating a comical sight. Then, he quickly moves to the right side of the frame and disappears. On the brick wall behind him hangs a mural of a female cartoon character in a pink dress."
+    },
+    {
+        "second": 7,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/T-Fqm7Bgmos/output_frames/sec_7_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[4-7] The shot then changes, and a cartoon Mario, wearing a red shirt and blue overalls, stands sideways facing the front of the frame. Suddenly, Mario's eyes widen, his head enlarges while his body shrinks, his tongue sticks out, and his limbs flail in the air, creating a comical sight. Then, he quickly moves to the right side of the frame and disappears. On the brick wall behind him hangs a mural of a female cartoon character in a pink dress."
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "second": 0,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2XVur0Tezg4/output_frames/sec_0_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[0-0] The scene is animated. On the left is a thick arm wearing a yellow sleeve, and on the right is a pink doll with wide eyes and an open mouth in a surprised expression. The doll has pink hair styled in two pigtails. The white text \"GH'S\" is displayed on the screen."
+    },
+    {
+        "second": 1,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2XVur0Tezg4/output_frames/sec_1_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Then, the pink doll's expression turns charming as it places its hands behind its back. The scene switches to a room, where the doll's face becomes angular. It is holding a bouquet of yellow and white flowers. Next, it appears from above, beside a man wearing a mask, a yellow T-shirt, and brown pants. They look at each other."
+    },
+    {
+        "second": 2,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2XVur0Tezg4/output_frames/sec_2_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Then, the pink doll's expression turns charming as it places its hands behind its back. The scene switches to a room, where the doll's face becomes angular. It is holding a bouquet of yellow and white flowers. Next, it appears from above, beside a man wearing a mask, a yellow T-shirt, and brown pants. They look at each other."
+    },
+    {
+        "second": 3,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2XVur0Tezg4/output_frames/sec_3_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Then, the pink doll's expression turns charming as it places its hands behind its back. The scene switches to a room, where the doll's face becomes angular. It is holding a bouquet of yellow and white flowers. Next, it appears from above, beside a man wearing a mask, a yellow T-shirt, and brown pants. They look at each other."
+    },
+    {
+        "second": 4,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2XVur0Tezg4/output_frames/sec_4_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[3-5] Immediately, the scene changes to a corridor, where the man is running forward quickly. The pink doll chases after him, her eyes wide open, mouth open in a smile. The man's mask gets caught on a doorknob. Subsequently, the man stands in front of a metal gate, with the pink doll behind him, holding the bouquet."
+    },
+    {
+        "second": 5,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2XVur0Tezg4/output_frames/sec_5_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[3-5] Immediately, the scene changes to a corridor, where the man is running forward quickly. The pink doll chases after him, her eyes wide open, mouth open in a smile. The man's mask gets caught on a doorknob. Subsequently, the man stands in front of a metal gate, with the pink doll behind him, holding the bouquet."
+    },
+    {
+        "second": 6,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2XVur0Tezg4/output_frames/sec_6_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[5-8] Then, the man turns around. His face is stretched and distorted, surrounded by red and pink roses. The scene shifts again to the pink doll with wide, surprised eyes. The flowers in her hand wither and fall to the ground."
+    },
+    {
+        "second": 7,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2XVur0Tezg4/output_frames/sec_7_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[5-8] Then, the man turns around. His face is stretched and distorted, surrounded by red and pink roses. The scene shifts again to the pink doll with wide, surprised eyes. The flowers in her hand wither and fall to the ground."
+    },
+    {
+        "second": 8,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2XVur0Tezg4/output_frames/sec_8_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[5-8] Then, the man turns around. His face is stretched and distorted, surrounded by red and pink roses. The scene shifts again to the pink doll with wide, surprised eyes. The flowers in her hand wither and fall to the ground."
+    },
+    {
+        "second": 9,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2XVur0Tezg4/output_frames/sec_9_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[8-10] Finally, the scene changes to a room with a photo of the man hanging on the wall. A pair of hands holding a pink plush toy is hitting the photo."
+    },
+    {
+        "second": 10,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2XVur0Tezg4/output_frames/sec_10_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[8-10] Finally, the scene changes to a room with a photo of the man hanging on the wall. A pair of hands holding a pink plush toy is hitting the photo."
+    }
+]

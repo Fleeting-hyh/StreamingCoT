@@ -1,0 +1,51 @@
+[
+    {
+        "second": 0,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Fz_cvdvr_pQ/output_frames/sec_0_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-0] The screen is divided into upper and lower parts. The upper part is a black frame, and the lower part is an animated figure with a red and yellow body, looking upward with a smile."
+    },
+    {
+        "second": 1,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Fz_cvdvr_pQ/output_frames/sec_1_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[0-2] A bull with horns appears in the upper part, on a grassy field. The word \"FAKE\" is written in white subtitles on the bull's horns. Below the bull, there is a broken heart symbol. The animation in the lower part remains unchanged."
+    },
+    {
+        "second": 2,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Fz_cvdvr_pQ/output_frames/sec_2_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[0-2] A bull with horns appears in the upper part, on a grassy field. The word \"FAKE\" is written in white subtitles on the bull's horns. Below the bull, there is a broken heart symbol. The animation in the lower part remains unchanged."
+    },
+    {
+        "second": 3,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Fz_cvdvr_pQ/output_frames/sec_3_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[2-6] Afterward, the scene in the upper part switches to a dark-skinned man with horns on his forehead. Above the man, there are white subtitles that read \"REAL.\" He is shirtless, with a heart symbol on his chest. His eyes are looking to the left, and his mouth is constantly talking. There is a caption on his chest that reads \"LORDSAMURAI.\" The animated figure in the lower part changes to another one, with closed mouth and wide eyes looking forward."
+    },
+    {
+        "second": 4,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Fz_cvdvr_pQ/output_frames/sec_4_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[2-6] Afterward, the scene in the upper part switches to a dark-skinned man with horns on his forehead. Above the man, there are white subtitles that read \"REAL.\" He is shirtless, with a heart symbol on his chest. His eyes are looking to the left, and his mouth is constantly talking. There is a caption on his chest that reads \"LORDSAMURAI.\" The animated figure in the lower part changes to another one, with closed mouth and wide eyes looking forward."
+    },
+    {
+        "second": 5,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Fz_cvdvr_pQ/output_frames/sec_5_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[2-6] Afterward, the scene in the upper part switches to a dark-skinned man with horns on his forehead. Above the man, there are white subtitles that read \"REAL.\" He is shirtless, with a heart symbol on his chest. His eyes are looking to the left, and his mouth is constantly talking. There is a caption on his chest that reads \"LORDSAMURAI.\" The animated figure in the lower part changes to another one, with closed mouth and wide eyes looking forward."
+    },
+    {
+        "second": 6,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Fz_cvdvr_pQ/output_frames/sec_6_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[2-6] Afterward, the scene in the upper part switches to a dark-skinned man with horns on his forehead. Above the man, there are white subtitles that read \"REAL.\" He is shirtless, with a heart symbol on his chest. His eyes are looking to the left, and his mouth is constantly talking. There is a caption on his chest that reads \"LORDSAMURAI.\" The animated figure in the lower part changes to another one, with closed mouth and wide eyes looking forward."
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "second": 0,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QDZcg9B7NhY/output_frames/sec_0_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A young man appears in a supermarket, wearing a black hoodie and looking down."
+    },
+    {
+        "second": 1,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QDZcg9B7NhY/output_frames/sec_1_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[0-7] Then the scene switches to the bulk food section of the supermarket, showing orange shelves and different grains inside. The man puts a blue spoon into the grains."
+    },
+    {
+        "second": 2,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QDZcg9B7NhY/output_frames/sec_2_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[0-7] Then the scene switches to the bulk food section of the supermarket, showing orange shelves and different grains inside. The man puts a blue spoon into the grains."
+    },
+    {
+        "second": 3,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QDZcg9B7NhY/output_frames/sec_3_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[0-7] Then the scene switches to the bulk food section of the supermarket, showing orange shelves and different grains inside. The man puts a blue spoon into the grains."
+    },
+    {
+        "second": 4,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QDZcg9B7NhY/output_frames/sec_4_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[0-7] Then the scene switches to the bulk food section of the supermarket, showing orange shelves and different grains inside. The man puts a blue spoon into the grains."
+    },
+    {
+        "second": 5,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QDZcg9B7NhY/output_frames/sec_5_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[0-7] Then the scene switches to the bulk food section of the supermarket, showing orange shelves and different grains inside. The man puts a blue spoon into the grains."
+    },
+    {
+        "second": 6,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QDZcg9B7NhY/output_frames/sec_6_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[0-7] Then the scene switches to the bulk food section of the supermarket, showing orange shelves and different grains inside. The man puts a blue spoon into the grains."
+    },
+    {
+        "second": 7,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QDZcg9B7NhY/output_frames/sec_7_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[0-7] Then the scene switches to the bulk food section of the supermarket, showing orange shelves and different grains inside. The man puts a blue spoon into the grains."
+    },
+    {
+        "second": 8,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QDZcg9B7NhY/output_frames/sec_8_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[7-11] Subsequently, the young man puts on a hat. He continues to walk around the supermarket, looking around."
+    },
+    {
+        "second": 9,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QDZcg9B7NhY/output_frames/sec_9_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[7-11] Subsequently, the young man puts on a hat. He continues to walk around the supermarket, looking around."
+    },
+    {
+        "second": 10,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QDZcg9B7NhY/output_frames/sec_10_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[7-11] Subsequently, the young man puts on a hat. He continues to walk around the supermarket, looking around."
+    },
+    {
+        "second": 11,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QDZcg9B7NhY/output_frames/sec_11_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[7-11] Subsequently, the young man puts on a hat. He continues to walk around the supermarket, looking around."
+    }
+]

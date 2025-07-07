@@ -1,0 +1,93 @@
+[
+    {
+        "second": 0,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PHcIfk4OZs4/output_frames/sec_0_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[0-0] Outside a building with grey walls, a player in a red and blue Barcelona jersey is holding a pen in his right hand, with another player in a white Barcelona jersey to his left. Behind them stand two men, one in a white shirt and the other in black."
+    },
+    {
+        "second": 1,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PHcIfk4OZs4/output_frames/sec_1_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[0-9] Next, the man in the red and blue jersey pulls the white-shirted man's clothes with his left hand and lowers his head to sign for him. After signing, the man in white laughs and pats the chest of the man in the red and blue jersey."
+    },
+    {
+        "second": 2,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PHcIfk4OZs4/output_frames/sec_2_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[0-9] Next, the man in the red and blue jersey pulls the white-shirted man's clothes with his left hand and lowers his head to sign for him. After signing, the man in white laughs and pats the chest of the man in the red and blue jersey."
+    },
+    {
+        "second": 3,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PHcIfk4OZs4/output_frames/sec_3_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[0-9] Next, the man in the red and blue jersey pulls the white-shirted man's clothes with his left hand and lowers his head to sign for him. After signing, the man in white laughs and pats the chest of the man in the red and blue jersey."
+    },
+    {
+        "second": 4,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PHcIfk4OZs4/output_frames/sec_4_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[0-9] Next, the man in the red and blue jersey pulls the white-shirted man's clothes with his left hand and lowers his head to sign for him. After signing, the man in white laughs and pats the chest of the man in the red and blue jersey."
+    },
+    {
+        "second": 5,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PHcIfk4OZs4/output_frames/sec_5_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[0-9] Next, the man in the red and blue jersey pulls the white-shirted man's clothes with his left hand and lowers his head to sign for him. After signing, the man in white laughs and pats the chest of the man in the red and blue jersey."
+    },
+    {
+        "second": 6,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PHcIfk4OZs4/output_frames/sec_6_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[0-9] Next, the man in the red and blue jersey pulls the white-shirted man's clothes with his left hand and lowers his head to sign for him. After signing, the man in white laughs and pats the chest of the man in the red and blue jersey."
+    },
+    {
+        "second": 7,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PHcIfk4OZs4/output_frames/sec_7_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[0-9] Next, the man in the red and blue jersey pulls the white-shirted man's clothes with his left hand and lowers his head to sign for him. After signing, the man in white laughs and pats the chest of the man in the red and blue jersey."
+    },
+    {
+        "second": 8,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PHcIfk4OZs4/output_frames/sec_8_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[0-9] Next, the man in the red and blue jersey pulls the white-shirted man's clothes with his left hand and lowers his head to sign for him. After signing, the man in white laughs and pats the chest of the man in the red and blue jersey."
+    },
+    {
+        "second": 9,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PHcIfk4OZs4/output_frames/sec_9_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[0-9] Next, the man in the red and blue jersey pulls the white-shirted man's clothes with his left hand and lowers his head to sign for him. After signing, the man in white laughs and pats the chest of the man in the red and blue jersey."
+    },
+    {
+        "second": 10,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PHcIfk4OZs4/output_frames/sec_10_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[9-12] Finally, the man in the red and blue jersey turns around and extends his right hand. The man in white turns and walks towards the two men behind him."
+    },
+    {
+        "second": 11,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PHcIfk4OZs4/output_frames/sec_11_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[9-12] Finally, the man in the red and blue jersey turns around and extends his right hand. The man in white turns and walks towards the two men behind him."
+    },
+    {
+        "second": 12,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PHcIfk4OZs4/output_frames/sec_12_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[9-12] Finally, the man in the red and blue jersey turns around and extends his right hand. The man in white turns and walks towards the two men behind him."
+    }
+]

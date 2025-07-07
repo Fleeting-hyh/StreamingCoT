@@ -1,0 +1,58 @@
+[
+    {
+        "second": 0,
+        "frame_index": 56,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3nxKaQCKbac/output_frames/sec_0_idx_56.jpg",
+        "fps": 60,
+        "explanation": "[0-0] A person dressed as Kissy Missy is standing in a kitchen, with dolls and snacks placed on the kitchen table."
+    },
+    {
+        "second": 1,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3nxKaQCKbac/output_frames/sec_1_idx_12.jpg",
+        "fps": 60,
+        "explanation": "[0-3] Then, Kissy Missy opens the cabinet door on the right side of the frame, revealing a Huggy Wuggy head inside. Kissy Missy starts running away."
+    },
+    {
+        "second": 2,
+        "frame_index": 53,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3nxKaQCKbac/output_frames/sec_2_idx_53.jpg",
+        "fps": 60,
+        "explanation": "[0-3] Then, Kissy Missy opens the cabinet door on the right side of the frame, revealing a Huggy Wuggy head inside. Kissy Missy starts running away."
+    },
+    {
+        "second": 3,
+        "frame_index": 45,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3nxKaQCKbac/output_frames/sec_3_idx_45.jpg",
+        "fps": 60,
+        "explanation": "[0-3] Then, Kissy Missy opens the cabinet door on the right side of the frame, revealing a Huggy Wuggy head inside. Kissy Missy starts running away."
+    },
+    {
+        "second": 4,
+        "frame_index": 31,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3nxKaQCKbac/output_frames/sec_4_idx_31.jpg",
+        "fps": 60,
+        "explanation": "[3-7] Huggy Wuggy then walks out of the kitchen, approaches a door, and walks in. After closing the door, Huggy Wuggy lifts one foot, and a puff of yellow fog appears from behind."
+    },
+    {
+        "second": 5,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3nxKaQCKbac/output_frames/sec_5_idx_27.jpg",
+        "fps": 60,
+        "explanation": "[3-7] Huggy Wuggy then walks out of the kitchen, approaches a door, and walks in. After closing the door, Huggy Wuggy lifts one foot, and a puff of yellow fog appears from behind."
+    },
+    {
+        "second": 6,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3nxKaQCKbac/output_frames/sec_6_idx_2.jpg",
+        "fps": 60,
+        "explanation": "[3-7] Huggy Wuggy then walks out of the kitchen, approaches a door, and walks in. After closing the door, Huggy Wuggy lifts one foot, and a puff of yellow fog appears from behind."
+    },
+    {
+        "second": 7,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3nxKaQCKbac/output_frames/sec_7_idx_10.jpg",
+        "fps": 60,
+        "explanation": "[3-7] Huggy Wuggy then walks out of the kitchen, approaches a door, and walks in. After closing the door, Huggy Wuggy lifts one foot, and a puff of yellow fog appears from behind."
+    }
+]

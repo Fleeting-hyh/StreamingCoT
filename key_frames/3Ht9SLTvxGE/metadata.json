@@ -1,0 +1,44 @@
+[
+    {
+        "second": 0,
+        "frame_index": 53,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3Ht9SLTvxGE/output_frames/sec_0_idx_53.jpg",
+        "fps": 60,
+        "explanation": "[0-0] A man wearing a black top sits next to a woman wearing a yellow top and brown pants. The woman is holding a phone. In front of them is a white table, next to a gray sofa. The wall is white with a gray curtain, and there is a white window behind them. There is a yellow subtitle at the top of the screen."
+    },
+    {
+        "second": 1,
+        "frame_index": 43,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3Ht9SLTvxGE/output_frames/sec_1_idx_43.jpg",
+        "fps": 60,
+        "explanation": "[0-5] The man touches the woman's face with his hand. The woman turns her head and tries to slap the man's mouth, but he blocks it with his hand. She then tries to slap his face, but he blocks it again. Each subsequent attempt to hit him is blocked by the man. Suddenly, the man seizes the opportunity and kisses the woman on the mouth."
+    },
+    {
+        "second": 2,
+        "frame_index": 47,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3Ht9SLTvxGE/output_frames/sec_2_idx_47.jpg",
+        "fps": 60,
+        "explanation": "[0-5] The man touches the woman's face with his hand. The woman turns her head and tries to slap the man's mouth, but he blocks it with his hand. She then tries to slap his face, but he blocks it again. Each subsequent attempt to hit him is blocked by the man. Suddenly, the man seizes the opportunity and kisses the woman on the mouth."
+    },
+    {
+        "second": 3,
+        "frame_index": 42,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3Ht9SLTvxGE/output_frames/sec_3_idx_42.jpg",
+        "fps": 60,
+        "explanation": "[0-5] The man touches the woman's face with his hand. The woman turns her head and tries to slap the man's mouth, but he blocks it with his hand. She then tries to slap his face, but he blocks it again. Each subsequent attempt to hit him is blocked by the man. Suddenly, the man seizes the opportunity and kisses the woman on the mouth."
+    },
+    {
+        "second": 4,
+        "frame_index": 42,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3Ht9SLTvxGE/output_frames/sec_4_idx_42.jpg",
+        "fps": 60,
+        "explanation": "[0-5] The man touches the woman's face with his hand. The woman turns her head and tries to slap the man's mouth, but he blocks it with his hand. She then tries to slap his face, but he blocks it again. Each subsequent attempt to hit him is blocked by the man. Suddenly, the man seizes the opportunity and kisses the woman on the mouth."
+    },
+    {
+        "second": 5,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3Ht9SLTvxGE/output_frames/sec_5_idx_1.jpg",
+        "fps": 60,
+        "explanation": "[0-5] The man touches the woman's face with his hand. The woman turns her head and tries to slap the man's mouth, but he blocks it with his hand. She then tries to slap his face, but he blocks it again. Each subsequent attempt to hit him is blocked by the man. Suddenly, the man seizes the opportunity and kisses the woman on the mouth."
+    }
+]

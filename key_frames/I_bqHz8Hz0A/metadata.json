@@ -1,0 +1,86 @@
+[
+    {
+        "second": 0,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/I_bqHz8Hz0A/output_frames/sec_0_idx_2.jpg",
+        "fps": 25,
+        "explanation": "[0-0] On a gray asphalt road, a person wearing a helmet and a black leather jacket is riding a red motorcycle. There are white lines on the roadside, some poles erected in the distance, and a person carrying a bag on the left."
+    },
+    {
+        "second": 1,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/I_bqHz8Hz0A/output_frames/sec_1_idx_9.jpg",
+        "fps": 25,
+        "explanation": "[0-2] Then the motorcycle speeds to the left. The person wearing a black leather jacket on the motorcycle is a woman with long hair. There is a bridge behind the motorcycle, railings and some buildings on the right."
+    },
+    {
+        "second": 2,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/I_bqHz8Hz0A/output_frames/sec_2_idx_0.jpg",
+        "fps": 25,
+        "explanation": "[0-2] Then the motorcycle speeds to the left. The person wearing a black leather jacket on the motorcycle is a woman with long hair. There is a bridge behind the motorcycle, railings and some buildings on the right."
+    },
+    {
+        "second": 3,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/I_bqHz8Hz0A/output_frames/sec_3_idx_7.jpg",
+        "fps": 25,
+        "explanation": "[2-4] Subsequently, the motorcycle continues to drive to the left. The picture switches, and the motorcycle stops on the gray road. A woman in a leather jacket is sitting on the motorcycle, facing right, without a helmet. On the right side of the gray road is a brick red road, and on the right side of the road are many gray pillars."
+    },
+    {
+        "second": 4,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/I_bqHz8Hz0A/output_frames/sec_4_idx_1.jpg",
+        "fps": 25,
+        "explanation": "[2-4] Subsequently, the motorcycle continues to drive to the left. The picture switches, and the motorcycle stops on the gray road. A woman in a leather jacket is sitting on the motorcycle, facing right, without a helmet. On the right side of the gray road is a brick red road, and on the right side of the road are many gray pillars."
+    },
+    {
+        "second": 5,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/I_bqHz8Hz0A/output_frames/sec_5_idx_24.jpg",
+        "fps": 25,
+        "explanation": "[4-6] After that, the picture switches again. A woman in a yellow bikini is lying on the off-white sand beach with her arms crossed over her face, covering her eyes. A red and black motorcycle is parked on the right. Then the screen switches to the seaside again. A woman wearing a short denim jacket, black pants, and a black helmet stretches her arm to the right and sits on the motorcycle facing the right. There is green grass on the ground in front, and the sea with waves in the distance. On the left is a railing of a bridge, and in the distance are the orange sun and sky. The picture continues to switch to the city streets. A woman wearing a black leather jacket and a black helmet is riding a motorcycle. There is a thick gray pillar on the left, and a person wearing a brown hoodie and carrying a bag is standing with his back to the right. In the distance are green trees."
+    },
+    {
+        "second": 6,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/I_bqHz8Hz0A/output_frames/sec_6_idx_11.jpg",
+        "fps": 25,
+        "explanation": "[4-6] After that, the picture switches again. A woman in a yellow bikini is lying on the off-white sand beach with her arms crossed over her face, covering her eyes. A red and black motorcycle is parked on the right. Then the screen switches to the seaside again. A woman wearing a short denim jacket, black pants, and a black helmet stretches her arm to the right and sits on the motorcycle facing the right. There is green grass on the ground in front, and the sea with waves in the distance. On the left is a railing of a bridge, and in the distance are the orange sun and sky. The picture continues to switch to the city streets. A woman wearing a black leather jacket and a black helmet is riding a motorcycle. There is a thick gray pillar on the left, and a person wearing a brown hoodie and carrying a bag is standing with his back to the right. In the distance are green trees."
+    },
+    {
+        "second": 7,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/I_bqHz8Hz0A/output_frames/sec_7_idx_18.jpg",
+        "fps": 25,
+        "explanation": "[6-8] Then the picture switches to a road again, a lady wearing a white lace top, black bottoming shirt and black shorts, sitting on the motorcycle facing forward with her left leg on the ground. There are gray railings on her right, and green trees and tall buildings in the distance. The sun is shining, and there is a shadow under the motorcycle. The picture continues to switch. A woman wearing a black top, black pants, and carrying a black bag is wearing a helmet and riding a motorcycle facing left. On the right are white pillars and green trees. The picture switches to a grassland again, where a woman in black clothes and black pants, wearing a red helmet and two braids, sits on the grass with her arms stretched out in front of her, facing left. The motorcycle is parked on her left, and in front of her are green trees and brown buildings."
+    },
+    {
+        "second": 8,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/I_bqHz8Hz0A/output_frames/sec_8_idx_23.jpg",
+        "fps": 25,
+        "explanation": "[6-8] Then the picture switches to a road again, a lady wearing a white lace top, black bottoming shirt and black shorts, sitting on the motorcycle facing forward with her left leg on the ground. There are gray railings on her right, and green trees and tall buildings in the distance. The sun is shining, and there is a shadow under the motorcycle. The picture continues to switch. A woman wearing a black top, black pants, and carrying a black bag is wearing a helmet and riding a motorcycle facing left. On the right are white pillars and green trees. The picture switches to a grassland again, where a woman in black clothes and black pants, wearing a red helmet and two braids, sits on the grass with her arms stretched out in front of her, facing left. The motorcycle is parked on her left, and in front of her are green trees and brown buildings."
+    },
+    {
+        "second": 9,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/I_bqHz8Hz0A/output_frames/sec_9_idx_2.jpg",
+        "fps": 25,
+        "explanation": "[8-11] Then the picture switches to a road again, a woman in black clothes and black shorts, wearing a black helmet, sits on the motorcycle facing right. There is a black bag behind the motorcycle with a pair of blue slippers on it, and the woman looks down at it. There is a blue boat and some short green plants on her left, green trees in the distance, and a black pole on the left of the motorcycle. The picture switches again, a woman wearing black clothes and black pants, wearing a red Santa hat and a black mask, riding a motorcycle facing right. In front of her are some buildings and leafless trees. The picture switches to the seaside, where a woman wearing a black top and denim shorts is doing a yoga pose on a motorcycle. In the distance is the green seaside and the turquoise sky. The picture switches again. A woman wearing a black top and black pants and a black helmet is riding a motorcycle facing left. There is only a gray afterimage of the roadside railing in front of her. The picture continues to switch to the city streets. A woman in a black sequined skirt is standing next to her motorcycle, looking ahead, her long hair covering half of her face. Behind her are some buildings and black railings."
+    },
+    {
+        "second": 10,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/I_bqHz8Hz0A/output_frames/sec_10_idx_6.jpg",
+        "fps": 25,
+        "explanation": "[8-11] Then the picture switches to a road again, a woman in black clothes and black shorts, wearing a black helmet, sits on the motorcycle facing right. There is a black bag behind the motorcycle with a pair of blue slippers on it, and the woman looks down at it. There is a blue boat and some short green plants on her left, green trees in the distance, and a black pole on the left of the motorcycle. The picture switches again, a woman wearing black clothes and black pants, wearing a red Santa hat and a black mask, riding a motorcycle facing right. In front of her are some buildings and leafless trees. The picture switches to the seaside, where a woman wearing a black top and denim shorts is doing a yoga pose on a motorcycle. In the distance is the green seaside and the turquoise sky. The picture switches again. A woman wearing a black top and black pants and a black helmet is riding a motorcycle facing left. There is only a gray afterimage of the roadside railing in front of her. The picture continues to switch to the city streets. A woman in a black sequined skirt is standing next to her motorcycle, looking ahead, her long hair covering half of her face. Behind her are some buildings and black railings."
+    },
+    {
+        "second": 11,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/I_bqHz8Hz0A/output_frames/sec_11_idx_4.jpg",
+        "fps": 25,
+        "explanation": "[8-11] Then the picture switches to a road again, a woman in black clothes and black shorts, wearing a black helmet, sits on the motorcycle facing right. There is a black bag behind the motorcycle with a pair of blue slippers on it, and the woman looks down at it. There is a blue boat and some short green plants on her left, green trees in the distance, and a black pole on the left of the motorcycle. The picture switches again, a woman wearing black clothes and black pants, wearing a red Santa hat and a black mask, riding a motorcycle facing right. In front of her are some buildings and leafless trees. The picture switches to the seaside, where a woman wearing a black top and denim shorts is doing a yoga pose on a motorcycle. In the distance is the green seaside and the turquoise sky. The picture switches again. A woman wearing a black top and black pants and a black helmet is riding a motorcycle facing left. There is only a gray afterimage of the roadside railing in front of her. The picture continues to switch to the city streets. A woman in a black sequined skirt is standing next to her motorcycle, looking ahead, her long hair covering half of her face. Behind her are some buildings and black railings."
+    }
+]

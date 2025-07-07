@@ -1,0 +1,65 @@
+[
+    {
+        "second": 0,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/14imEB9j0W4/output_frames/sec_0_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[0-0] Inside a wooden house, a pink doll is standing on the left, while four dolls are lying on the bed. Two differently colored Barnies are on each side, with Pikachu and Bendy in the middle. They are all covered with the same blue blanket. A picture of Pikachu is hanging on the wall with white English text underneath."
+    },
+    {
+        "second": 1,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/14imEB9j0W4/output_frames/sec_1_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-2] First, the pink doll walks out the door and closes it. Bendy burrows into the sheet, causing it to ripple like water. Blue Barney turns around and plays with a mobile phone, Pink Barney opens its eyes, and Pikachu remains motionless."
+    },
+    {
+        "second": 2,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/14imEB9j0W4/output_frames/sec_2_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[0-2] First, the pink doll walks out the door and closes it. Bendy burrows into the sheet, causing it to ripple like water. Blue Barney turns around and plays with a mobile phone, Pink Barney opens its eyes, and Pikachu remains motionless."
+    },
+    {
+        "second": 3,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/14imEB9j0W4/output_frames/sec_3_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[2-4] Next, the door opens, and the pink doll walks back in. The characters on the bed remain in their initial positions, lying on the bed."
+    },
+    {
+        "second": 4,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/14imEB9j0W4/output_frames/sec_4_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[2-4] Next, the door opens, and the pink doll walks back in. The characters on the bed remain in their initial positions, lying on the bed."
+    },
+    {
+        "second": 5,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/14imEB9j0W4/output_frames/sec_5_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[4-6] Then the pink doll leaves, and the door closes. Bendy burrows into the sheet again, making it ripple like water. Blue Barney continues to turn and play with the mobile phone, while the other dolls remain still."
+    },
+    {
+        "second": 6,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/14imEB9j0W4/output_frames/sec_6_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[4-6] Then the pink doll leaves, and the door closes. Bendy burrows into the sheet again, making it ripple like water. Blue Barney continues to turn and play with the mobile phone, while the other dolls remain still."
+    },
+    {
+        "second": 7,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/14imEB9j0W4/output_frames/sec_7_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[6-8] Afterward, the door quickly opens, and everyone returns to their previous state. After the door closes, Bendy burrows into the sheet, causing the blanket to ripple like water for the third time. Blue Barney continues to turn and play with his mobile phone. Finally, the door opens, and the scene returns to its initial state."
+    },
+    {
+        "second": 8,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/14imEB9j0W4/output_frames/sec_8_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[6-8] Afterward, the door quickly opens, and everyone returns to their previous state. After the door closes, Bendy burrows into the sheet, causing the blanket to ripple like water for the third time. Blue Barney continues to turn and play with his mobile phone. Finally, the door opens, and the scene returns to its initial state."
+    }
+]

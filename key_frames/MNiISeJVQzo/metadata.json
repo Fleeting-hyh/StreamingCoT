@@ -1,0 +1,51 @@
+[
+    {
+        "second": 0,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MNiISeJVQzo/output_frames/sec_0_idx_24.jpg",
+        "fps": 30,
+        "explanation": "[0-0] On a go-kart track, a person wearing a helmet sits in a go-kart, dragging a long blue rope behind them. The rope snakes around the track with the text \"Table WHIP Challenge\" on it. There is grass on both sides and a house in the distance."
+    },
+    {
+        "second": 1,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MNiISeJVQzo/output_frames/sec_1_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[0-2] The person drives the go-kart, and the blue rope starts to straighten as the go-kart moves forward. The camera pans to the right, showing the blue rope tied to a blue cloth on a table. A person wearing a helmet and a red and white racing suit sits at the table. A row of dominoes is arranged on the table. Tall utility poles and grass are visible in the background."
+    },
+    {
+        "second": 2,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MNiISeJVQzo/output_frames/sec_2_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[0-2] The person drives the go-kart, and the blue rope starts to straighten as the go-kart moves forward. The camera pans to the right, showing the blue rope tied to a blue cloth on a table. A person wearing a helmet and a red and white racing suit sits at the table. A row of dominoes is arranged on the table. Tall utility poles and grass are visible in the background."
+    },
+    {
+        "second": 3,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MNiISeJVQzo/output_frames/sec_3_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[2-4] The person in the racing suit then pushes the first domino on the table. As the first domino falls, it knocks over the row of dominoes. The person then raises a hand and gives a thumbs-up gesture. The blue cloth is then pulled away from the table by the rope, revealing a white tabletop. Some dominoes have fallen to the ground, while the rest remain on the table."
+    },
+    {
+        "second": 4,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MNiISeJVQzo/output_frames/sec_4_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[2-4] The person in the racing suit then pushes the first domino on the table. As the first domino falls, it knocks over the row of dominoes. The person then raises a hand and gives a thumbs-up gesture. The blue cloth is then pulled away from the table by the rope, revealing a white tabletop. Some dominoes have fallen to the ground, while the rest remain on the table."
+    },
+    {
+        "second": 5,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MNiISeJVQzo/output_frames/sec_5_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[4-6] Finally, the person in the racing suit looks down, then stands up and looks forward."
+    },
+    {
+        "second": 6,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MNiISeJVQzo/output_frames/sec_6_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[4-6] Finally, the person in the racing suit looks down, then stands up and looks forward."
+    }
+]

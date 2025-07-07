@@ -1,0 +1,107 @@
+[
+    {
+        "second": 0,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Dcw0BGVBlzU/output_frames/sec_0_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[0-0] This is an animated scene, a boy with blue clothes and brown hair is standing behind a purple sofa, holding a red laser pointer in his hand. Behind him is a gray shutter door, and next to the shutter door is a rolled-up red curtain."
+    },
+    {
+        "second": 1,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Dcw0BGVBlzU/output_frames/sec_1_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[0-7] A red robot wolf passes by the camera, and the brown-haired boy points the laser pointer at it. At this time, the shutter door opens, and a robot appears next to the boy. It has a round head, a yellow body, a hat on its head, and the letter \"i\" on its chest. Then it takes out a photo, and the brown-haired boy looks back at it."
+    },
+    {
+        "second": 2,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Dcw0BGVBlzU/output_frames/sec_2_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[0-7] A red robot wolf passes by the camera, and the brown-haired boy points the laser pointer at it. At this time, the shutter door opens, and a robot appears next to the boy. It has a round head, a yellow body, a hat on its head, and the letter \"i\" on its chest. Then it takes out a photo, and the brown-haired boy looks back at it."
+    },
+    {
+        "second": 3,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Dcw0BGVBlzU/output_frames/sec_3_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[0-7] A red robot wolf passes by the camera, and the brown-haired boy points the laser pointer at it. At this time, the shutter door opens, and a robot appears next to the boy. It has a round head, a yellow body, a hat on its head, and the letter \"i\" on its chest. Then it takes out a photo, and the brown-haired boy looks back at it."
+    },
+    {
+        "second": 4,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Dcw0BGVBlzU/output_frames/sec_4_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[0-7] A red robot wolf passes by the camera, and the brown-haired boy points the laser pointer at it. At this time, the shutter door opens, and a robot appears next to the boy. It has a round head, a yellow body, a hat on its head, and the letter \"i\" on its chest. Then it takes out a photo, and the brown-haired boy looks back at it."
+    },
+    {
+        "second": 5,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Dcw0BGVBlzU/output_frames/sec_5_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-7] A red robot wolf passes by the camera, and the brown-haired boy points the laser pointer at it. At this time, the shutter door opens, and a robot appears next to the boy. It has a round head, a yellow body, a hat on its head, and the letter \"i\" on its chest. Then it takes out a photo, and the brown-haired boy looks back at it."
+    },
+    {
+        "second": 6,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Dcw0BGVBlzU/output_frames/sec_6_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[0-7] A red robot wolf passes by the camera, and the brown-haired boy points the laser pointer at it. At this time, the shutter door opens, and a robot appears next to the boy. It has a round head, a yellow body, a hat on its head, and the letter \"i\" on its chest. Then it takes out a photo, and the brown-haired boy looks back at it."
+    },
+    {
+        "second": 7,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Dcw0BGVBlzU/output_frames/sec_7_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-7] A red robot wolf passes by the camera, and the brown-haired boy points the laser pointer at it. At this time, the shutter door opens, and a robot appears next to the boy. It has a round head, a yellow body, a hat on its head, and the letter \"i\" on its chest. Then it takes out a photo, and the brown-haired boy looks back at it."
+    },
+    {
+        "second": 8,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Dcw0BGVBlzU/output_frames/sec_8_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[7-14] Then the robot and the brown-haired boy look at each other, and finally the scene switches to the robot and the boy pointing the laser pointer at the robot wolf together."
+    },
+    {
+        "second": 9,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Dcw0BGVBlzU/output_frames/sec_9_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[7-14] Then the robot and the brown-haired boy look at each other, and finally the scene switches to the robot and the boy pointing the laser pointer at the robot wolf together."
+    },
+    {
+        "second": 10,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Dcw0BGVBlzU/output_frames/sec_10_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[7-14] Then the robot and the brown-haired boy look at each other, and finally the scene switches to the robot and the boy pointing the laser pointer at the robot wolf together."
+    },
+    {
+        "second": 11,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Dcw0BGVBlzU/output_frames/sec_11_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[7-14] Then the robot and the brown-haired boy look at each other, and finally the scene switches to the robot and the boy pointing the laser pointer at the robot wolf together."
+    },
+    {
+        "second": 12,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Dcw0BGVBlzU/output_frames/sec_12_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[7-14] Then the robot and the brown-haired boy look at each other, and finally the scene switches to the robot and the boy pointing the laser pointer at the robot wolf together."
+    },
+    {
+        "second": 13,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Dcw0BGVBlzU/output_frames/sec_13_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[7-14] Then the robot and the brown-haired boy look at each other, and finally the scene switches to the robot and the boy pointing the laser pointer at the robot wolf together."
+    },
+    {
+        "second": 14,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Dcw0BGVBlzU/output_frames/sec_14_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[7-14] Then the robot and the brown-haired boy look at each other, and finally the scene switches to the robot and the boy pointing the laser pointer at the robot wolf together."
+    }
+]

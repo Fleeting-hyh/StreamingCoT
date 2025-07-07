@@ -1,0 +1,37 @@
+[
+    {
+        "second": 0,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/NgYKWf3DTAQ/output_frames/sec_0_idx_6.jpg",
+        "fps": 24,
+        "explanation": "[0-0] A person's arm is outstretched to the left, holding a black tactical shovel. In the background, two wooden targets can be seen with bullet holes in them. Behind the targets are some trees and buildings. There is black text on a white background at the top of the screen."
+    },
+    {
+        "second": 1,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/NgYKWf3DTAQ/output_frames/sec_1_idx_22.jpg",
+        "fps": 24,
+        "explanation": "[0-2] Next, the hand throws the shovel forward forcefully. The shovel hits the target in front of it, then bounces back and is caught by a hand."
+    },
+    {
+        "second": 2,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/NgYKWf3DTAQ/output_frames/sec_2_idx_9.jpg",
+        "fps": 24,
+        "explanation": "[0-2] Next, the hand throws the shovel forward forcefully. The shovel hits the target in front of it, then bounces back and is caught by a hand."
+    },
+    {
+        "second": 3,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/NgYKWf3DTAQ/output_frames/sec_3_idx_23.jpg",
+        "fps": 24,
+        "explanation": "[2-4] Immediately, the hand throws the shovel forcefully again. This time, the shovel successfully nails itself to the target."
+    },
+    {
+        "second": 4,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/NgYKWf3DTAQ/output_frames/sec_4_idx_0.jpg",
+        "fps": 24,
+        "explanation": "[2-4] Immediately, the hand throws the shovel forcefully again. This time, the shovel successfully nails itself to the target."
+    }
+]

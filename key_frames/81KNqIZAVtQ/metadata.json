@@ -1,0 +1,44 @@
+[
+    {
+        "second": 0,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/81KNqIZAVtQ/output_frames/sec_0_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[0-0] In the living room, a woman wearing a gray hoodie is sitting on the sofa, holding a can of potato chips. Above the image is a purple box containing emoji hand gestures: a palm, a fist, a raised index finger, a peace sign, and a heart."
+    },
+    {
+        "second": 1,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/81KNqIZAVtQ/output_frames/sec_1_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Then a man wearing red and black pants and a dark green short-sleeved shirt sits down on the sofa and takes the potato chips from the woman's hand, putting them in his mouth. The man smiles and makes hand gestures according to the emojis above the image, and finally the woman looks at the man with a smile."
+    },
+    {
+        "second": 2,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/81KNqIZAVtQ/output_frames/sec_2_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Then a man wearing red and black pants and a dark green short-sleeved shirt sits down on the sofa and takes the potato chips from the woman's hand, putting them in his mouth. The man smiles and makes hand gestures according to the emojis above the image, and finally the woman looks at the man with a smile."
+    },
+    {
+        "second": 3,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/81KNqIZAVtQ/output_frames/sec_3_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Then a man wearing red and black pants and a dark green short-sleeved shirt sits down on the sofa and takes the potato chips from the woman's hand, putting them in his mouth. The man smiles and makes hand gestures according to the emojis above the image, and finally the woman looks at the man with a smile."
+    },
+    {
+        "second": 4,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/81KNqIZAVtQ/output_frames/sec_4_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Then a man wearing red and black pants and a dark green short-sleeved shirt sits down on the sofa and takes the potato chips from the woman's hand, putting them in his mouth. The man smiles and makes hand gestures according to the emojis above the image, and finally the woman looks at the man with a smile."
+    },
+    {
+        "second": 5,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/81KNqIZAVtQ/output_frames/sec_5_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Then a man wearing red and black pants and a dark green short-sleeved shirt sits down on the sofa and takes the potato chips from the woman's hand, putting them in his mouth. The man smiles and makes hand gestures according to the emojis above the image, and finally the woman looks at the man with a smile."
+    }
+]

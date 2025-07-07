@@ -1,0 +1,65 @@
+[
+    {
+        "second": 0,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RTphPwh3R7s/output_frames/sec_0_idx_10.jpg",
+        "fps": 60,
+        "explanation": "[0-0] A box of Tic Tac mints is placed in front of the camera, containing numerous orange candies. On top of the box lies a single yellow candy. The ground is gray, and the blurred background reveals several toy cars parked at the edge. A comment bubble appears in the upper left corner of the screen."
+    },
+    {
+        "second": 1,
+        "frame_index": 40,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RTphPwh3R7s/output_frames/sec_1_idx_40.jpg",
+        "fps": 60,
+        "explanation": "[0-4] An orange and green toy race car enters from the right side of the screen, its rear wing narrowly missing the candy atop the box. A red cross mark appears in the middle of the screen, and the car drives off to the right. Then, the toy car returns and stops beside the box as an arrow symbol appears on screen, prompting its rear wing to lower. The car then exits the frame."
+    },
+    {
+        "second": 2,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RTphPwh3R7s/output_frames/sec_2_idx_26.jpg",
+        "fps": 60,
+        "explanation": "[0-4] An orange and green toy race car enters from the right side of the screen, its rear wing narrowly missing the candy atop the box. A red cross mark appears in the middle of the screen, and the car drives off to the right. Then, the toy car returns and stops beside the box as an arrow symbol appears on screen, prompting its rear wing to lower. The car then exits the frame."
+    },
+    {
+        "second": 3,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RTphPwh3R7s/output_frames/sec_3_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[0-4] An orange and green toy race car enters from the right side of the screen, its rear wing narrowly missing the candy atop the box. A red cross mark appears in the middle of the screen, and the car drives off to the right. Then, the toy car returns and stops beside the box as an arrow symbol appears on screen, prompting its rear wing to lower. The car then exits the frame."
+    },
+    {
+        "second": 4,
+        "frame_index": 34,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RTphPwh3R7s/output_frames/sec_4_idx_34.jpg",
+        "fps": 60,
+        "explanation": "[0-4] An orange and green toy race car enters from the right side of the screen, its rear wing narrowly missing the candy atop the box. A red cross mark appears in the middle of the screen, and the car drives off to the right. Then, the toy car returns and stops beside the box as an arrow symbol appears on screen, prompting its rear wing to lower. The car then exits the frame."
+    },
+    {
+        "second": 5,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RTphPwh3R7s/output_frames/sec_5_idx_19.jpg",
+        "fps": 60,
+        "explanation": "[4-8] For the final attempt, the toy car drives in and successfully knocks the candy off the box with its rear wing. A green check mark appears on the screen."
+    },
+    {
+        "second": 6,
+        "frame_index": 48,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RTphPwh3R7s/output_frames/sec_6_idx_48.jpg",
+        "fps": 60,
+        "explanation": "[4-8] For the final attempt, the toy car drives in and successfully knocks the candy off the box with its rear wing. A green check mark appears on the screen."
+    },
+    {
+        "second": 7,
+        "frame_index": 47,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RTphPwh3R7s/output_frames/sec_7_idx_47.jpg",
+        "fps": 60,
+        "explanation": "[4-8] For the final attempt, the toy car drives in and successfully knocks the candy off the box with its rear wing. A green check mark appears on the screen."
+    },
+    {
+        "second": 8,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RTphPwh3R7s/output_frames/sec_8_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[4-8] For the final attempt, the toy car drives in and successfully knocks the candy off the box with its rear wing. A green check mark appears on the screen."
+    }
+]

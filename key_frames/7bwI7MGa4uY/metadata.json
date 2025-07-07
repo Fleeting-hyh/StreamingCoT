@@ -1,0 +1,58 @@
+[
+    {
+        "second": 0,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7bwI7MGa4uY/output_frames/sec_0_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A wooden lock is situated in a dark environment. Above the image is a black comment box, while in the upper left corner, there is a green logo containing white text."
+    },
+    {
+        "second": 1,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7bwI7MGa4uY/output_frames/sec_1_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Subsequently, the shackle of the wooden lock falls, revealing the interior of the lock."
+    },
+    {
+        "second": 2,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7bwI7MGa4uY/output_frames/sec_2_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Subsequently, the shackle of the wooden lock falls, revealing the interior of the lock."
+    },
+    {
+        "second": 3,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7bwI7MGa4uY/output_frames/sec_3_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[2-7] Immediately following, a silver key is inserted into the wooden lock and turned to the right, unlocking the shackle."
+    },
+    {
+        "second": 4,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7bwI7MGa4uY/output_frames/sec_4_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[2-7] Immediately following, a silver key is inserted into the wooden lock and turned to the right, unlocking the shackle."
+    },
+    {
+        "second": 5,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7bwI7MGa4uY/output_frames/sec_5_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[2-7] Immediately following, a silver key is inserted into the wooden lock and turned to the right, unlocking the shackle."
+    },
+    {
+        "second": 6,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7bwI7MGa4uY/output_frames/sec_6_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[2-7] Immediately following, a silver key is inserted into the wooden lock and turned to the right, unlocking the shackle."
+    },
+    {
+        "second": 7,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7bwI7MGa4uY/output_frames/sec_7_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[2-7] Immediately following, a silver key is inserted into the wooden lock and turned to the right, unlocking the shackle."
+    }
+]

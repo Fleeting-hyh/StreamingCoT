@@ -1,0 +1,107 @@
+[
+    {
+        "second": 0,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/R1AgVeYTyPQ/output_frames/sec_0_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[0-0] The video starts with a hand wearing a black glove holding a piece of coconut candy, approaching a pink teeth model with braces. The background is blue, with subtitles at the top and bottom of the screen. In the middle, there is a caption \"La yapa\" with a red cross mark next to it."
+    },
+    {
+        "second": 1,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/R1AgVeYTyPQ/output_frames/sec_1_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The coconut candy is placed between the teeth of the model and squeezed twice, breaking it in half. Then a piece of milk caramel candy is placed on the teeth of the model. The caption in the middle changes to \"vauquita\" with a green check mark next to it. The teeth model easily tears off a piece of the milk caramel candy."
+    },
+    {
+        "second": 2,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/R1AgVeYTyPQ/output_frames/sec_2_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The coconut candy is placed between the teeth of the model and squeezed twice, breaking it in half. Then a piece of milk caramel candy is placed on the teeth of the model. The caption in the middle changes to \"vauquita\" with a green check mark next to it. The teeth model easily tears off a piece of the milk caramel candy."
+    },
+    {
+        "second": 3,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/R1AgVeYTyPQ/output_frames/sec_3_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The coconut candy is placed between the teeth of the model and squeezed twice, breaking it in half. Then a piece of milk caramel candy is placed on the teeth of the model. The caption in the middle changes to \"vauquita\" with a green check mark next to it. The teeth model easily tears off a piece of the milk caramel candy."
+    },
+    {
+        "second": 4,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/R1AgVeYTyPQ/output_frames/sec_4_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The coconut candy is placed between the teeth of the model and squeezed twice, breaking it in half. Then a piece of milk caramel candy is placed on the teeth of the model. The caption in the middle changes to \"vauquita\" with a green check mark next to it. The teeth model easily tears off a piece of the milk caramel candy."
+    },
+    {
+        "second": 5,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/R1AgVeYTyPQ/output_frames/sec_5_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[4-7] Next, an orange lollipop is held close to the teeth of the model. The caption in the middle changes to \"Mister pops\" with a red \"X\" mark next to it. After squeezing twice, there is no change. Then the gloved hand stuffs a piece of croissant into the mouth of the teeth model. The caption \"Factura media luna\" is displayed in the lower left corner of the screen with a green check mark next to it. The teeth model easily tears off a piece of the croissant."
+    },
+    {
+        "second": 6,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/R1AgVeYTyPQ/output_frames/sec_6_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[4-7] Next, an orange lollipop is held close to the teeth of the model. The caption in the middle changes to \"Mister pops\" with a red \"X\" mark next to it. After squeezing twice, there is no change. Then the gloved hand stuffs a piece of croissant into the mouth of the teeth model. The caption \"Factura media luna\" is displayed in the lower left corner of the screen with a green check mark next to it. The teeth model easily tears off a piece of the croissant."
+    },
+    {
+        "second": 7,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/R1AgVeYTyPQ/output_frames/sec_7_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[4-7] Next, an orange lollipop is held close to the teeth of the model. The caption in the middle changes to \"Mister pops\" with a red \"X\" mark next to it. After squeezing twice, there is no change. Then the gloved hand stuffs a piece of croissant into the mouth of the teeth model. The caption \"Factura media luna\" is displayed in the lower left corner of the screen with a green check mark next to it. The teeth model easily tears off a piece of the croissant."
+    },
+    {
+        "second": 8,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/R1AgVeYTyPQ/output_frames/sec_8_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[7-14] Immediately afterwards, the gloved hand holds a chocolate bar close to the teeth of the model. The caption \"Paraguitas\" is displayed in the lower left corner of the screen with a red \"X\" mark next to it. When the chocolate bar is placed between the teeth of the model, only a mark is left after squeezing. Then, a piece of sandwich cookie is stuffed into the mouth of the teeth model. The caption \"Guaymallen (Alfajor)\" is displayed in the lower left corner of the screen with a green check mark next to it. It is easily torn off. A piece of chocolate-covered marshmallow candy is held near the teeth of the model. The caption \"Marroc (bocadito)\" is displayed in the lower left corner of the screen with a red \"X\" mark next to it. The teeth model does not move. Finally, a stick of fruit gummy candy is placed on the teeth of the model. The caption \"Palitos de la selva\" is displayed in the lower left corner of the screen with a green check mark next to it. It is easily torn off."
+    },
+    {
+        "second": 9,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/R1AgVeYTyPQ/output_frames/sec_9_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[7-14] Immediately afterwards, the gloved hand holds a chocolate bar close to the teeth of the model. The caption \"Paraguitas\" is displayed in the lower left corner of the screen with a red \"X\" mark next to it. When the chocolate bar is placed between the teeth of the model, only a mark is left after squeezing. Then, a piece of sandwich cookie is stuffed into the mouth of the teeth model. The caption \"Guaymallen (Alfajor)\" is displayed in the lower left corner of the screen with a green check mark next to it. It is easily torn off. A piece of chocolate-covered marshmallow candy is held near the teeth of the model. The caption \"Marroc (bocadito)\" is displayed in the lower left corner of the screen with a red \"X\" mark next to it. The teeth model does not move. Finally, a stick of fruit gummy candy is placed on the teeth of the model. The caption \"Palitos de la selva\" is displayed in the lower left corner of the screen with a green check mark next to it. It is easily torn off."
+    },
+    {
+        "second": 10,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/R1AgVeYTyPQ/output_frames/sec_10_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[7-14] Immediately afterwards, the gloved hand holds a chocolate bar close to the teeth of the model. The caption \"Paraguitas\" is displayed in the lower left corner of the screen with a red \"X\" mark next to it. When the chocolate bar is placed between the teeth of the model, only a mark is left after squeezing. Then, a piece of sandwich cookie is stuffed into the mouth of the teeth model. The caption \"Guaymallen (Alfajor)\" is displayed in the lower left corner of the screen with a green check mark next to it. It is easily torn off. A piece of chocolate-covered marshmallow candy is held near the teeth of the model. The caption \"Marroc (bocadito)\" is displayed in the lower left corner of the screen with a red \"X\" mark next to it. The teeth model does not move. Finally, a stick of fruit gummy candy is placed on the teeth of the model. The caption \"Palitos de la selva\" is displayed in the lower left corner of the screen with a green check mark next to it. It is easily torn off."
+    },
+    {
+        "second": 11,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/R1AgVeYTyPQ/output_frames/sec_11_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[7-14] Immediately afterwards, the gloved hand holds a chocolate bar close to the teeth of the model. The caption \"Paraguitas\" is displayed in the lower left corner of the screen with a red \"X\" mark next to it. When the chocolate bar is placed between the teeth of the model, only a mark is left after squeezing. Then, a piece of sandwich cookie is stuffed into the mouth of the teeth model. The caption \"Guaymallen (Alfajor)\" is displayed in the lower left corner of the screen with a green check mark next to it. It is easily torn off. A piece of chocolate-covered marshmallow candy is held near the teeth of the model. The caption \"Marroc (bocadito)\" is displayed in the lower left corner of the screen with a red \"X\" mark next to it. The teeth model does not move. Finally, a stick of fruit gummy candy is placed on the teeth of the model. The caption \"Palitos de la selva\" is displayed in the lower left corner of the screen with a green check mark next to it. It is easily torn off."
+    },
+    {
+        "second": 12,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/R1AgVeYTyPQ/output_frames/sec_12_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[7-14] Immediately afterwards, the gloved hand holds a chocolate bar close to the teeth of the model. The caption \"Paraguitas\" is displayed in the lower left corner of the screen with a red \"X\" mark next to it. When the chocolate bar is placed between the teeth of the model, only a mark is left after squeezing. Then, a piece of sandwich cookie is stuffed into the mouth of the teeth model. The caption \"Guaymallen (Alfajor)\" is displayed in the lower left corner of the screen with a green check mark next to it. It is easily torn off. A piece of chocolate-covered marshmallow candy is held near the teeth of the model. The caption \"Marroc (bocadito)\" is displayed in the lower left corner of the screen with a red \"X\" mark next to it. The teeth model does not move. Finally, a stick of fruit gummy candy is placed on the teeth of the model. The caption \"Palitos de la selva\" is displayed in the lower left corner of the screen with a green check mark next to it. It is easily torn off."
+    },
+    {
+        "second": 13,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/R1AgVeYTyPQ/output_frames/sec_13_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[7-14] Immediately afterwards, the gloved hand holds a chocolate bar close to the teeth of the model. The caption \"Paraguitas\" is displayed in the lower left corner of the screen with a red \"X\" mark next to it. When the chocolate bar is placed between the teeth of the model, only a mark is left after squeezing. Then, a piece of sandwich cookie is stuffed into the mouth of the teeth model. The caption \"Guaymallen (Alfajor)\" is displayed in the lower left corner of the screen with a green check mark next to it. It is easily torn off. A piece of chocolate-covered marshmallow candy is held near the teeth of the model. The caption \"Marroc (bocadito)\" is displayed in the lower left corner of the screen with a red \"X\" mark next to it. The teeth model does not move. Finally, a stick of fruit gummy candy is placed on the teeth of the model. The caption \"Palitos de la selva\" is displayed in the lower left corner of the screen with a green check mark next to it. It is easily torn off."
+    },
+    {
+        "second": 14,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/R1AgVeYTyPQ/output_frames/sec_14_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[7-14] Immediately afterwards, the gloved hand holds a chocolate bar close to the teeth of the model. The caption \"Paraguitas\" is displayed in the lower left corner of the screen with a red \"X\" mark next to it. When the chocolate bar is placed between the teeth of the model, only a mark is left after squeezing. Then, a piece of sandwich cookie is stuffed into the mouth of the teeth model. The caption \"Guaymallen (Alfajor)\" is displayed in the lower left corner of the screen with a green check mark next to it. It is easily torn off. A piece of chocolate-covered marshmallow candy is held near the teeth of the model. The caption \"Marroc (bocadito)\" is displayed in the lower left corner of the screen with a red \"X\" mark next to it. The teeth model does not move. Finally, a stick of fruit gummy candy is placed on the teeth of the model. The caption \"Palitos de la selva\" is displayed in the lower left corner of the screen with a green check mark next to it. It is easily torn off."
+    }
+]

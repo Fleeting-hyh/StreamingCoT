@@ -1,0 +1,156 @@
+[
+    {
+        "second": 0,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Id2Z9mGn5F0/output_frames/sec_0_idx_15.jpg",
+        "fps": 60,
+        "explanation": "[0-0] A man in a black chef's uniform appears on the left side of the screen, wearing a black top with white text on the left side. On the right side of the screen, there are two baskets of oranges and a bucket of orange pulp. One hand holds a spoon over the bucket, and the other hand holds an orange in a basket."
+    },
+    {
+        "second": 1,
+        "frame_index": 56,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Id2Z9mGn5F0/output_frames/sec_1_idx_56.jpg",
+        "fps": 60,
+        "explanation": "[0-3] The person on the right side of the screen inserts a spoon between the orange peel and pulp, draws a circle with the spoon, and then scoops the pulp into the bucket."
+    },
+    {
+        "second": 2,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Id2Z9mGn5F0/output_frames/sec_2_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[0-3] The person on the right side of the screen inserts a spoon between the orange peel and pulp, draws a circle with the spoon, and then scoops the pulp into the bucket."
+    },
+    {
+        "second": 3,
+        "frame_index": 57,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Id2Z9mGn5F0/output_frames/sec_3_idx_57.jpg",
+        "fps": 60,
+        "explanation": "[0-3] The person on the right side of the screen inserts a spoon between the orange peel and pulp, draws a circle with the spoon, and then scoops the pulp into the bucket."
+    },
+    {
+        "second": 4,
+        "frame_index": 49,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Id2Z9mGn5F0/output_frames/sec_4_idx_49.jpg",
+        "fps": 60,
+        "explanation": "[3-7] The scene changes to the man in the black chef's uniform walking forward in the kitchen, looking ahead. The camera zooms in on a hand taking an orange from the basket. The scene changes to the man in the black chef's uniform standing in the kitchen, holding an orange in his left hand and a spoon in his right hand, looking ahead."
+    },
+    {
+        "second": 5,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Id2Z9mGn5F0/output_frames/sec_5_idx_10.jpg",
+        "fps": 60,
+        "explanation": "[3-7] The scene changes to the man in the black chef's uniform walking forward in the kitchen, looking ahead. The camera zooms in on a hand taking an orange from the basket. The scene changes to the man in the black chef's uniform standing in the kitchen, holding an orange in his left hand and a spoon in his right hand, looking ahead."
+    },
+    {
+        "second": 6,
+        "frame_index": 44,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Id2Z9mGn5F0/output_frames/sec_6_idx_44.jpg",
+        "fps": 60,
+        "explanation": "[3-7] The scene changes to the man in the black chef's uniform walking forward in the kitchen, looking ahead. The camera zooms in on a hand taking an orange from the basket. The scene changes to the man in the black chef's uniform standing in the kitchen, holding an orange in his left hand and a spoon in his right hand, looking ahead."
+    },
+    {
+        "second": 7,
+        "frame_index": 58,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Id2Z9mGn5F0/output_frames/sec_7_idx_58.jpg",
+        "fps": 60,
+        "explanation": "[3-7] The scene changes to the man in the black chef's uniform walking forward in the kitchen, looking ahead. The camera zooms in on a hand taking an orange from the basket. The scene changes to the man in the black chef's uniform standing in the kitchen, holding an orange in his left hand and a spoon in his right hand, looking ahead."
+    },
+    {
+        "second": 8,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Id2Z9mGn5F0/output_frames/sec_8_idx_26.jpg",
+        "fps": 60,
+        "explanation": "[7-17] Then, the man inserts the spoon between the orange peel and pulp, some liquid sprays out of the orange, and the man draws a circle with the spoon."
+    },
+    {
+        "second": 9,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Id2Z9mGn5F0/output_frames/sec_9_idx_10.jpg",
+        "fps": 60,
+        "explanation": "[7-17] Then, the man inserts the spoon between the orange peel and pulp, some liquid sprays out of the orange, and the man draws a circle with the spoon."
+    },
+    {
+        "second": 10,
+        "frame_index": 30,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Id2Z9mGn5F0/output_frames/sec_10_idx_30.jpg",
+        "fps": 60,
+        "explanation": "[7-17] Then, the man inserts the spoon between the orange peel and pulp, some liquid sprays out of the orange, and the man draws a circle with the spoon."
+    },
+    {
+        "second": 11,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Id2Z9mGn5F0/output_frames/sec_11_idx_26.jpg",
+        "fps": 60,
+        "explanation": "[7-17] Then, the man inserts the spoon between the orange peel and pulp, some liquid sprays out of the orange, and the man draws a circle with the spoon."
+    },
+    {
+        "second": 12,
+        "frame_index": 36,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Id2Z9mGn5F0/output_frames/sec_12_idx_36.jpg",
+        "fps": 60,
+        "explanation": "[7-17] Then, the man inserts the spoon between the orange peel and pulp, some liquid sprays out of the orange, and the man draws a circle with the spoon."
+    },
+    {
+        "second": 13,
+        "frame_index": 55,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Id2Z9mGn5F0/output_frames/sec_13_idx_55.jpg",
+        "fps": 60,
+        "explanation": "[7-17] Then, the man inserts the spoon between the orange peel and pulp, some liquid sprays out of the orange, and the man draws a circle with the spoon."
+    },
+    {
+        "second": 14,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Id2Z9mGn5F0/output_frames/sec_14_idx_28.jpg",
+        "fps": 60,
+        "explanation": "[7-17] Then, the man inserts the spoon between the orange peel and pulp, some liquid sprays out of the orange, and the man draws a circle with the spoon."
+    },
+    {
+        "second": 15,
+        "frame_index": 46,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Id2Z9mGn5F0/output_frames/sec_15_idx_46.jpg",
+        "fps": 60,
+        "explanation": "[7-17] Then, the man inserts the spoon between the orange peel and pulp, some liquid sprays out of the orange, and the man draws a circle with the spoon."
+    },
+    {
+        "second": 16,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Id2Z9mGn5F0/output_frames/sec_16_idx_15.jpg",
+        "fps": 60,
+        "explanation": "[7-17] Then, the man inserts the spoon between the orange peel and pulp, some liquid sprays out of the orange, and the man draws a circle with the spoon."
+    },
+    {
+        "second": 17,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Id2Z9mGn5F0/output_frames/sec_17_idx_8.jpg",
+        "fps": 60,
+        "explanation": "[7-17] Then, the man inserts the spoon between the orange peel and pulp, some liquid sprays out of the orange, and the man draws a circle with the spoon."
+    },
+    {
+        "second": 18,
+        "frame_index": 44,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Id2Z9mGn5F0/output_frames/sec_18_idx_44.jpg",
+        "fps": 60,
+        "explanation": "[17-21] Subsequently, the man inserts the spoon under the pulp to separate it from the peel, then scoops out the orange pulp. Finally, the man holds the orange pulp in his left hand and smiles, showing it to the front."
+    },
+    {
+        "second": 19,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Id2Z9mGn5F0/output_frames/sec_19_idx_21.jpg",
+        "fps": 60,
+        "explanation": "[17-21] Subsequently, the man inserts the spoon under the pulp to separate it from the peel, then scoops out the orange pulp. Finally, the man holds the orange pulp in his left hand and smiles, showing it to the front."
+    },
+    {
+        "second": 20,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Id2Z9mGn5F0/output_frames/sec_20_idx_7.jpg",
+        "fps": 60,
+        "explanation": "[17-21] Subsequently, the man inserts the spoon under the pulp to separate it from the peel, then scoops out the orange pulp. Finally, the man holds the orange pulp in his left hand and smiles, showing it to the front."
+    },
+    {
+        "second": 21,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Id2Z9mGn5F0/output_frames/sec_21_idx_1.jpg",
+        "fps": 60,
+        "explanation": "[17-21] Subsequently, the man inserts the spoon under the pulp to separate it from the peel, then scoops out the orange pulp. Finally, the man holds the orange pulp in his left hand and smiles, showing it to the front."
+    }
+]

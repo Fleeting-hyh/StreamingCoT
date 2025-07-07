@@ -1,0 +1,58 @@
+[
+    {
+        "second": 0,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8L1liW3oeK0/output_frames/sec_0_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[0-0] On a rural road, a mongoose and a cobra are facing off, surrounded by a group of people. The mongoose is facing the cobra, which has its body raised high. There are many trees beside the road."
+    },
+    {
+        "second": 1,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8L1liW3oeK0/output_frames/sec_1_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[0-3] The mongoose turns its head and then launches an attack towards the cobra. The cobra also attempts to attack the mongoose."
+    },
+    {
+        "second": 2,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8L1liW3oeK0/output_frames/sec_2_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[0-3] The mongoose turns its head and then launches an attack towards the cobra. The cobra also attempts to attack the mongoose."
+    },
+    {
+        "second": 3,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8L1liW3oeK0/output_frames/sec_3_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[0-3] The mongoose turns its head and then launches an attack towards the cobra. The cobra also attempts to attack the mongoose."
+    },
+    {
+        "second": 4,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8L1liW3oeK0/output_frames/sec_4_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[3-7] The mongoose and the cobra move back and forth, testing each other. Subsequently, the mongoose runs towards the woods."
+    },
+    {
+        "second": 5,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8L1liW3oeK0/output_frames/sec_5_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[3-7] The mongoose and the cobra move back and forth, testing each other. Subsequently, the mongoose runs towards the woods."
+    },
+    {
+        "second": 6,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8L1liW3oeK0/output_frames/sec_6_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[3-7] The mongoose and the cobra move back and forth, testing each other. Subsequently, the mongoose runs towards the woods."
+    },
+    {
+        "second": 7,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8L1liW3oeK0/output_frames/sec_7_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[3-7] The mongoose and the cobra move back and forth, testing each other. Subsequently, the mongoose runs towards the woods."
+    }
+]

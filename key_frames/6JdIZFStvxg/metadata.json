@@ -1,0 +1,135 @@
+[
+    {
+        "second": 0,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6JdIZFStvxg/output_frames/sec_0_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[0-0] Inside a workshop, a woman wearing a black mask and a black T-shirt with colorful letters stands in front of a round metal container. Several glass bottles of Coke are submerged in the liquid inside the container. The woman reaches for a bottle with her left hand while her right hand holds a plastic cup filled with ice. Next to the container is a red box containing empty glass bottles. On top of the box is a bamboo tray with some coins. Several more Coke bottles are beside the box. In the background, blue boxes, red foam boxes, and some furniture are visible. On the wall behind the woman is a mirror reflecting a man in a green T-shirt and a woman in black who are also busy in a shop. Behind the woman in the black mask, there is a Coca-Cola logo sign."
+    },
+    {
+        "second": 1,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6JdIZFStvxg/output_frames/sec_1_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-7] The woman takes a glass bottle of Coke out of the container with her right hand and uses a metal bottle opener on the platform to tap the bottom of the bottle with her left hand before prying open the cap. She then quickly inverts the opened Coke bottle over the plastic cup, shaking it up and down while continuously tapping the bottom of the bottle with her left hand to make the Coke quickly pour into the plastic cup."
+    },
+    {
+        "second": 2,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6JdIZFStvxg/output_frames/sec_2_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[0-7] The woman takes a glass bottle of Coke out of the container with her right hand and uses a metal bottle opener on the platform to tap the bottom of the bottle with her left hand before prying open the cap. She then quickly inverts the opened Coke bottle over the plastic cup, shaking it up and down while continuously tapping the bottom of the bottle with her left hand to make the Coke quickly pour into the plastic cup."
+    },
+    {
+        "second": 3,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6JdIZFStvxg/output_frames/sec_3_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[0-7] The woman takes a glass bottle of Coke out of the container with her right hand and uses a metal bottle opener on the platform to tap the bottom of the bottle with her left hand before prying open the cap. She then quickly inverts the opened Coke bottle over the plastic cup, shaking it up and down while continuously tapping the bottom of the bottle with her left hand to make the Coke quickly pour into the plastic cup."
+    },
+    {
+        "second": 4,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6JdIZFStvxg/output_frames/sec_4_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-7] The woman takes a glass bottle of Coke out of the container with her right hand and uses a metal bottle opener on the platform to tap the bottom of the bottle with her left hand before prying open the cap. She then quickly inverts the opened Coke bottle over the plastic cup, shaking it up and down while continuously tapping the bottom of the bottle with her left hand to make the Coke quickly pour into the plastic cup."
+    },
+    {
+        "second": 5,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6JdIZFStvxg/output_frames/sec_5_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-7] The woman takes a glass bottle of Coke out of the container with her right hand and uses a metal bottle opener on the platform to tap the bottom of the bottle with her left hand before prying open the cap. She then quickly inverts the opened Coke bottle over the plastic cup, shaking it up and down while continuously tapping the bottom of the bottle with her left hand to make the Coke quickly pour into the plastic cup."
+    },
+    {
+        "second": 6,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6JdIZFStvxg/output_frames/sec_6_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[0-7] The woman takes a glass bottle of Coke out of the container with her right hand and uses a metal bottle opener on the platform to tap the bottom of the bottle with her left hand before prying open the cap. She then quickly inverts the opened Coke bottle over the plastic cup, shaking it up and down while continuously tapping the bottom of the bottle with her left hand to make the Coke quickly pour into the plastic cup."
+    },
+    {
+        "second": 7,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6JdIZFStvxg/output_frames/sec_7_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[0-7] The woman takes a glass bottle of Coke out of the container with her right hand and uses a metal bottle opener on the platform to tap the bottom of the bottle with her left hand before prying open the cap. She then quickly inverts the opened Coke bottle over the plastic cup, shaking it up and down while continuously tapping the bottom of the bottle with her left hand to make the Coke quickly pour into the plastic cup."
+    },
+    {
+        "second": 8,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6JdIZFStvxg/output_frames/sec_8_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[7-13] While pouring the Coke into the plastic cup, the woman moves the bamboo tray with coins to the lower platform of the container with her right hand. Once the ice cup is full of Coke, she squeezes the cup a few times with her right hand and transfers the Coke bottle from her left hand to her right. Next, she bends down and takes the lid of the ice cup from the side with her left hand and covers the cup."
+    },
+    {
+        "second": 9,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6JdIZFStvxg/output_frames/sec_9_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[7-13] While pouring the Coke into the plastic cup, the woman moves the bamboo tray with coins to the lower platform of the container with her right hand. Once the ice cup is full of Coke, she squeezes the cup a few times with her right hand and transfers the Coke bottle from her left hand to her right. Next, she bends down and takes the lid of the ice cup from the side with her left hand and covers the cup."
+    },
+    {
+        "second": 10,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6JdIZFStvxg/output_frames/sec_10_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[7-13] While pouring the Coke into the plastic cup, the woman moves the bamboo tray with coins to the lower platform of the container with her right hand. Once the ice cup is full of Coke, she squeezes the cup a few times with her right hand and transfers the Coke bottle from her left hand to her right. Next, she bends down and takes the lid of the ice cup from the side with her left hand and covers the cup."
+    },
+    {
+        "second": 11,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6JdIZFStvxg/output_frames/sec_11_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[7-13] While pouring the Coke into the plastic cup, the woman moves the bamboo tray with coins to the lower platform of the container with her right hand. Once the ice cup is full of Coke, she squeezes the cup a few times with her right hand and transfers the Coke bottle from her left hand to her right. Next, she bends down and takes the lid of the ice cup from the side with her left hand and covers the cup."
+    },
+    {
+        "second": 12,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6JdIZFStvxg/output_frames/sec_12_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[7-13] While pouring the Coke into the plastic cup, the woman moves the bamboo tray with coins to the lower platform of the container with her right hand. Once the ice cup is full of Coke, she squeezes the cup a few times with her right hand and transfers the Coke bottle from her left hand to her right. Next, she bends down and takes the lid of the ice cup from the side with her left hand and covers the cup."
+    },
+    {
+        "second": 13,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6JdIZFStvxg/output_frames/sec_13_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[7-13] While pouring the Coke into the plastic cup, the woman moves the bamboo tray with coins to the lower platform of the container with her right hand. Once the ice cup is full of Coke, she squeezes the cup a few times with her right hand and transfers the Coke bottle from her left hand to her right. Next, she bends down and takes the lid of the ice cup from the side with her left hand and covers the cup."
+    },
+    {
+        "second": 14,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6JdIZFStvxg/output_frames/sec_14_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[13-18] Immediately afterward, she uses her left hand to pour the remaining Coke from the bottle into the opening on the lid of the plastic cup. After pouring the Coke, she puts the empty bottle into the red box. Then, she pulls down a plastic bag hanging on the platform with her right hand and puts the plastic cup filled with Coke into the bag."
+    },
+    {
+        "second": 15,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6JdIZFStvxg/output_frames/sec_15_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[13-18] Immediately afterward, she uses her left hand to pour the remaining Coke from the bottle into the opening on the lid of the plastic cup. After pouring the Coke, she puts the empty bottle into the red box. Then, she pulls down a plastic bag hanging on the platform with her right hand and puts the plastic cup filled with Coke into the bag."
+    },
+    {
+        "second": 16,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6JdIZFStvxg/output_frames/sec_16_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[13-18] Immediately afterward, she uses her left hand to pour the remaining Coke from the bottle into the opening on the lid of the plastic cup. After pouring the Coke, she puts the empty bottle into the red box. Then, she pulls down a plastic bag hanging on the platform with her right hand and puts the plastic cup filled with Coke into the bag."
+    },
+    {
+        "second": 17,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6JdIZFStvxg/output_frames/sec_17_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[13-18] Immediately afterward, she uses her left hand to pour the remaining Coke from the bottle into the opening on the lid of the plastic cup. After pouring the Coke, she puts the empty bottle into the red box. Then, she pulls down a plastic bag hanging on the platform with her right hand and puts the plastic cup filled with Coke into the bag."
+    },
+    {
+        "second": 18,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6JdIZFStvxg/output_frames/sec_18_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[13-18] Immediately afterward, she uses her left hand to pour the remaining Coke from the bottle into the opening on the lid of the plastic cup. After pouring the Coke, she puts the empty bottle into the red box. Then, she pulls down a plastic bag hanging on the platform with her right hand and puts the plastic cup filled with Coke into the bag."
+    }
+]

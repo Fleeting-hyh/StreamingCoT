@@ -1,0 +1,72 @@
+[
+    {
+        "second": 0,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/OhqIrDGSuAY/output_frames/sec_0_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[0-0] Two white charging adapters are placed on the gray tiles. The adapter on the left is connected to a white data cable, with a hand above the cable. There are two white power sockets on the wall."
+    },
+    {
+        "second": 1,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/OhqIrDGSuAY/output_frames/sec_1_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Then, a hand picks up the white charging adapter on the right, plugs it into the power socket on the right, picks up the charging adapter on the left, and plugs it into the power socket on the left."
+    },
+    {
+        "second": 2,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/OhqIrDGSuAY/output_frames/sec_2_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Then, a hand picks up the white charging adapter on the right, plugs it into the power socket on the right, picks up the charging adapter on the left, and plugs it into the power socket on the left."
+    },
+    {
+        "second": 3,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/OhqIrDGSuAY/output_frames/sec_3_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Then, a hand picks up the white charging adapter on the right, plugs it into the power socket on the right, picks up the charging adapter on the left, and plugs it into the power socket on the left."
+    },
+    {
+        "second": 4,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/OhqIrDGSuAY/output_frames/sec_4_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[3-9] Subsequently, the hand picks up the white data cable, plugs the connector into the charging adapter on the right, then the camera moves backward, and a hand gives a thumbs-up."
+    },
+    {
+        "second": 5,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/OhqIrDGSuAY/output_frames/sec_5_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[3-9] Subsequently, the hand picks up the white data cable, plugs the connector into the charging adapter on the right, then the camera moves backward, and a hand gives a thumbs-up."
+    },
+    {
+        "second": 6,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/OhqIrDGSuAY/output_frames/sec_6_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[3-9] Subsequently, the hand picks up the white data cable, plugs the connector into the charging adapter on the right, then the camera moves backward, and a hand gives a thumbs-up."
+    },
+    {
+        "second": 7,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/OhqIrDGSuAY/output_frames/sec_7_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[3-9] Subsequently, the hand picks up the white data cable, plugs the connector into the charging adapter on the right, then the camera moves backward, and a hand gives a thumbs-up."
+    },
+    {
+        "second": 8,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/OhqIrDGSuAY/output_frames/sec_8_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[3-9] Subsequently, the hand picks up the white data cable, plugs the connector into the charging adapter on the right, then the camera moves backward, and a hand gives a thumbs-up."
+    },
+    {
+        "second": 9,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/OhqIrDGSuAY/output_frames/sec_9_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[3-9] Subsequently, the hand picks up the white data cable, plugs the connector into the charging adapter on the right, then the camera moves backward, and a hand gives a thumbs-up."
+    }
+]

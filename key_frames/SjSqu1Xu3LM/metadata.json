@@ -1,0 +1,184 @@
+[
+    {
+        "second": 0,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SjSqu1Xu3LM/output_frames/sec_0_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[0-0] On a gray concrete floor, there's a box filled with colorful chalks. A finger wearing a black glove is pressing against the edge of the box."
+    },
+    {
+        "second": 1,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SjSqu1Xu3LM/output_frames/sec_1_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Next, the chalk box is opened, revealing various colors of chalk neatly arranged inside. A hand wearing a black glove appears above the chalks. The scene switches to the concrete floor, where a hand is drawing curved lines using white chalk. The scene changes again, showing a hand coloring next to the white lines with blue chalk."
+    },
+    {
+        "second": 2,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SjSqu1Xu3LM/output_frames/sec_2_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Next, the chalk box is opened, revealing various colors of chalk neatly arranged inside. A hand wearing a black glove appears above the chalks. The scene switches to the concrete floor, where a hand is drawing curved lines using white chalk. The scene changes again, showing a hand coloring next to the white lines with blue chalk."
+    },
+    {
+        "second": 3,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SjSqu1Xu3LM/output_frames/sec_3_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Next, the chalk box is opened, revealing various colors of chalk neatly arranged inside. A hand wearing a black glove appears above the chalks. The scene switches to the concrete floor, where a hand is drawing curved lines using white chalk. The scene changes again, showing a hand coloring next to the white lines with blue chalk."
+    },
+    {
+        "second": 4,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SjSqu1Xu3LM/output_frames/sec_4_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[3-10] Immediately, the scene shifts to a container filled with blue paint placed on grass, with a brush stirring the paint. Back on the concrete floor, a hand uses the brush to apply the blue paint, the white lines drawn earlier still clearly visible. Then, a hand continues to spread the paint evenly, covering most of the concrete floor."
+    },
+    {
+        "second": 5,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SjSqu1Xu3LM/output_frames/sec_5_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[3-10] Immediately, the scene shifts to a container filled with blue paint placed on grass, with a brush stirring the paint. Back on the concrete floor, a hand uses the brush to apply the blue paint, the white lines drawn earlier still clearly visible. Then, a hand continues to spread the paint evenly, covering most of the concrete floor."
+    },
+    {
+        "second": 6,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SjSqu1Xu3LM/output_frames/sec_6_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[3-10] Immediately, the scene shifts to a container filled with blue paint placed on grass, with a brush stirring the paint. Back on the concrete floor, a hand uses the brush to apply the blue paint, the white lines drawn earlier still clearly visible. Then, a hand continues to spread the paint evenly, covering most of the concrete floor."
+    },
+    {
+        "second": 7,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SjSqu1Xu3LM/output_frames/sec_7_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[3-10] Immediately, the scene shifts to a container filled with blue paint placed on grass, with a brush stirring the paint. Back on the concrete floor, a hand uses the brush to apply the blue paint, the white lines drawn earlier still clearly visible. Then, a hand continues to spread the paint evenly, covering most of the concrete floor."
+    },
+    {
+        "second": 8,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SjSqu1Xu3LM/output_frames/sec_8_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[3-10] Immediately, the scene shifts to a container filled with blue paint placed on grass, with a brush stirring the paint. Back on the concrete floor, a hand uses the brush to apply the blue paint, the white lines drawn earlier still clearly visible. Then, a hand continues to spread the paint evenly, covering most of the concrete floor."
+    },
+    {
+        "second": 9,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SjSqu1Xu3LM/output_frames/sec_9_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[3-10] Immediately, the scene shifts to a container filled with blue paint placed on grass, with a brush stirring the paint. Back on the concrete floor, a hand uses the brush to apply the blue paint, the white lines drawn earlier still clearly visible. Then, a hand continues to spread the paint evenly, covering most of the concrete floor."
+    },
+    {
+        "second": 10,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SjSqu1Xu3LM/output_frames/sec_10_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[3-10] Immediately, the scene shifts to a container filled with blue paint placed on grass, with a brush stirring the paint. Back on the concrete floor, a hand uses the brush to apply the blue paint, the white lines drawn earlier still clearly visible. Then, a hand continues to spread the paint evenly, covering most of the concrete floor."
+    },
+    {
+        "second": 11,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SjSqu1Xu3LM/output_frames/sec_11_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[10-19] Afterward, the scene changes to a hand continuing to spread the paint evenly with the brush. The scene then shifts to show orange paint being applied from the brush onto the concrete. Then, the camera moves to the right, showing a hand using the brush to apply orange paint on the concrete floor. The scene changes again, showing a hand using black chalk and then yellow chalk to draw on the concrete."
+    },
+    {
+        "second": 12,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SjSqu1Xu3LM/output_frames/sec_12_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[10-19] Afterward, the scene changes to a hand continuing to spread the paint evenly with the brush. The scene then shifts to show orange paint being applied from the brush onto the concrete. Then, the camera moves to the right, showing a hand using the brush to apply orange paint on the concrete floor. The scene changes again, showing a hand using black chalk and then yellow chalk to draw on the concrete."
+    },
+    {
+        "second": 13,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SjSqu1Xu3LM/output_frames/sec_13_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[10-19] Afterward, the scene changes to a hand continuing to spread the paint evenly with the brush. The scene then shifts to show orange paint being applied from the brush onto the concrete. Then, the camera moves to the right, showing a hand using the brush to apply orange paint on the concrete floor. The scene changes again, showing a hand using black chalk and then yellow chalk to draw on the concrete."
+    },
+    {
+        "second": 14,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SjSqu1Xu3LM/output_frames/sec_14_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[10-19] Afterward, the scene changes to a hand continuing to spread the paint evenly with the brush. The scene then shifts to show orange paint being applied from the brush onto the concrete. Then, the camera moves to the right, showing a hand using the brush to apply orange paint on the concrete floor. The scene changes again, showing a hand using black chalk and then yellow chalk to draw on the concrete."
+    },
+    {
+        "second": 15,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SjSqu1Xu3LM/output_frames/sec_15_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[10-19] Afterward, the scene changes to a hand continuing to spread the paint evenly with the brush. The scene then shifts to show orange paint being applied from the brush onto the concrete. Then, the camera moves to the right, showing a hand using the brush to apply orange paint on the concrete floor. The scene changes again, showing a hand using black chalk and then yellow chalk to draw on the concrete."
+    },
+    {
+        "second": 16,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SjSqu1Xu3LM/output_frames/sec_16_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[10-19] Afterward, the scene changes to a hand continuing to spread the paint evenly with the brush. The scene then shifts to show orange paint being applied from the brush onto the concrete. Then, the camera moves to the right, showing a hand using the brush to apply orange paint on the concrete floor. The scene changes again, showing a hand using black chalk and then yellow chalk to draw on the concrete."
+    },
+    {
+        "second": 17,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SjSqu1Xu3LM/output_frames/sec_17_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[10-19] Afterward, the scene changes to a hand continuing to spread the paint evenly with the brush. The scene then shifts to show orange paint being applied from the brush onto the concrete. Then, the camera moves to the right, showing a hand using the brush to apply orange paint on the concrete floor. The scene changes again, showing a hand using black chalk and then yellow chalk to draw on the concrete."
+    },
+    {
+        "second": 18,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SjSqu1Xu3LM/output_frames/sec_18_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[10-19] Afterward, the scene changes to a hand continuing to spread the paint evenly with the brush. The scene then shifts to show orange paint being applied from the brush onto the concrete. Then, the camera moves to the right, showing a hand using the brush to apply orange paint on the concrete floor. The scene changes again, showing a hand using black chalk and then yellow chalk to draw on the concrete."
+    },
+    {
+        "second": 19,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SjSqu1Xu3LM/output_frames/sec_19_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[10-19] Afterward, the scene changes to a hand continuing to spread the paint evenly with the brush. The scene then shifts to show orange paint being applied from the brush onto the concrete. Then, the camera moves to the right, showing a hand using the brush to apply orange paint on the concrete floor. The scene changes again, showing a hand using black chalk and then yellow chalk to draw on the concrete."
+    },
+    {
+        "second": 20,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SjSqu1Xu3LM/output_frames/sec_20_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[19-26] Subsequently, the scene changes to a hand writing on the concrete floor using white chalk. Finally, the scene shifts to reveal a cartoon puppy in orange and blue on the concrete floor, with a pink balloon above it and white buildings in the background."
+    },
+    {
+        "second": 21,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SjSqu1Xu3LM/output_frames/sec_21_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[19-26] Subsequently, the scene changes to a hand writing on the concrete floor using white chalk. Finally, the scene shifts to reveal a cartoon puppy in orange and blue on the concrete floor, with a pink balloon above it and white buildings in the background."
+    },
+    {
+        "second": 22,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SjSqu1Xu3LM/output_frames/sec_22_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[19-26] Subsequently, the scene changes to a hand writing on the concrete floor using white chalk. Finally, the scene shifts to reveal a cartoon puppy in orange and blue on the concrete floor, with a pink balloon above it and white buildings in the background."
+    },
+    {
+        "second": 23,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SjSqu1Xu3LM/output_frames/sec_23_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[19-26] Subsequently, the scene changes to a hand writing on the concrete floor using white chalk. Finally, the scene shifts to reveal a cartoon puppy in orange and blue on the concrete floor, with a pink balloon above it and white buildings in the background."
+    },
+    {
+        "second": 24,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SjSqu1Xu3LM/output_frames/sec_24_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[19-26] Subsequently, the scene changes to a hand writing on the concrete floor using white chalk. Finally, the scene shifts to reveal a cartoon puppy in orange and blue on the concrete floor, with a pink balloon above it and white buildings in the background."
+    },
+    {
+        "second": 25,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SjSqu1Xu3LM/output_frames/sec_25_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[19-26] Subsequently, the scene changes to a hand writing on the concrete floor using white chalk. Finally, the scene shifts to reveal a cartoon puppy in orange and blue on the concrete floor, with a pink balloon above it and white buildings in the background."
+    }
+]

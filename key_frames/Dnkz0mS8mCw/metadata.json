@@ -1,0 +1,177 @@
+[
+    {
+        "second": 0,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Dnkz0mS8mCw/output_frames/sec_0_idx_2.jpg",
+        "fps": 60,
+        "explanation": "[0-0] On a track in the air, two cartoon figures are standing on skateboards. A red cartoon figure wearing white gloves is on a green skateboard, and a blue cartoon figure wearing blue gloves is on a yellow skateboard. The green skateboard is slightly ahead. Above their heads is a hexagon with the number \"1\" and the English word \"RANK\". There are also hexagons with numbers on the track."
+    },
+    {
+        "second": 1,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Dnkz0mS8mCw/output_frames/sec_1_idx_24.jpg",
+        "fps": 60,
+        "explanation": "[0-2] The two skateboards are side by side in a line. The two skateboards bump into each other, and the red cartoon figure raises its right hand and shakes it. The blue cartoon figure moves to the left of the red cartoon figure, taking the lead and its overhead number changes to \"2\"."
+    },
+    {
+        "second": 2,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Dnkz0mS8mCw/output_frames/sec_2_idx_10.jpg",
+        "fps": 60,
+        "explanation": "[0-2] The two skateboards are side by side in a line. The two skateboards bump into each other, and the red cartoon figure raises its right hand and shakes it. The blue cartoon figure moves to the left of the red cartoon figure, taking the lead and its overhead number changes to \"2\"."
+    },
+    {
+        "second": 3,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Dnkz0mS8mCw/output_frames/sec_3_idx_23.jpg",
+        "fps": 60,
+        "explanation": "[2-5] Subsequently, the blue figure blocks the red figure and gets the score. The number above its head changes to \"8\". The red figure suddenly accelerates past the blue figure and looks back at it. Then, the red figure gets the score, and the number above its head changes to \"2\". They turn their skateboards sideways and slide over two purple railings."
+    },
+    {
+        "second": 4,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Dnkz0mS8mCw/output_frames/sec_4_idx_9.jpg",
+        "fps": 60,
+        "explanation": "[2-5] Subsequently, the blue figure blocks the red figure and gets the score. The number above its head changes to \"8\". The red figure suddenly accelerates past the blue figure and looks back at it. Then, the red figure gets the score, and the number above its head changes to \"2\". They turn their skateboards sideways and slide over two purple railings."
+    },
+    {
+        "second": 5,
+        "frame_index": 55,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Dnkz0mS8mCw/output_frames/sec_5_idx_55.jpg",
+        "fps": 60,
+        "explanation": "[2-5] Subsequently, the blue figure blocks the red figure and gets the score. The number above its head changes to \"8\". The red figure suddenly accelerates past the blue figure and looks back at it. Then, the red figure gets the score, and the number above its head changes to \"2\". They turn their skateboards sideways and slide over two purple railings."
+    },
+    {
+        "second": 6,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Dnkz0mS8mCw/output_frames/sec_6_idx_5.jpg",
+        "fps": 60,
+        "explanation": "[5-9] After sliding over the railing, the skateboards return to their original orientation. The red figure blocks in front of the blue figure and gets the score. The number above its head changes to \"8\". Immediately afterwards, the track changes, with red and green lights appearing in the middle. The green one says \"\u00d72\" and the red one says \"\u00f72\". The camera zooms in as the red and blue figures look at each other and then forward. The blue figure chooses red, and its score becomes \"4\". The red figure chooses green, and its score becomes \"16\". After that, two staggered red lights appear on the track ahead."
+    },
+    {
+        "second": 7,
+        "frame_index": 50,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Dnkz0mS8mCw/output_frames/sec_7_idx_50.jpg",
+        "fps": 60,
+        "explanation": "[5-9] After sliding over the railing, the skateboards return to their original orientation. The red figure blocks in front of the blue figure and gets the score. The number above its head changes to \"8\". Immediately afterwards, the track changes, with red and green lights appearing in the middle. The green one says \"\u00d72\" and the red one says \"\u00f72\". The camera zooms in as the red and blue figures look at each other and then forward. The blue figure chooses red, and its score becomes \"4\". The red figure chooses green, and its score becomes \"16\". After that, two staggered red lights appear on the track ahead."
+    },
+    {
+        "second": 8,
+        "frame_index": 33,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Dnkz0mS8mCw/output_frames/sec_8_idx_33.jpg",
+        "fps": 60,
+        "explanation": "[5-9] After sliding over the railing, the skateboards return to their original orientation. The red figure blocks in front of the blue figure and gets the score. The number above its head changes to \"8\". Immediately afterwards, the track changes, with red and green lights appearing in the middle. The green one says \"\u00d72\" and the red one says \"\u00f72\". The camera zooms in as the red and blue figures look at each other and then forward. The blue figure chooses red, and its score becomes \"4\". The red figure chooses green, and its score becomes \"16\". After that, two staggered red lights appear on the track ahead."
+    },
+    {
+        "second": 9,
+        "frame_index": 42,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Dnkz0mS8mCw/output_frames/sec_9_idx_42.jpg",
+        "fps": 60,
+        "explanation": "[5-9] After sliding over the railing, the skateboards return to their original orientation. The red figure blocks in front of the blue figure and gets the score. The number above its head changes to \"8\". Immediately afterwards, the track changes, with red and green lights appearing in the middle. The green one says \"\u00d72\" and the red one says \"\u00f72\". The camera zooms in as the red and blue figures look at each other and then forward. The blue figure chooses red, and its score becomes \"4\". The red figure chooses green, and its score becomes \"16\". After that, two staggered red lights appear on the track ahead."
+    },
+    {
+        "second": 10,
+        "frame_index": 50,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Dnkz0mS8mCw/output_frames/sec_10_idx_50.jpg",
+        "fps": 60,
+        "explanation": "[9-12] Then, the camera zooms in on the blue figure with a surprised expression. The red figure smiles. The red figure follows the blue figure and dodges the two red lights. The blue figure gets the score, and the number above its head changes to \"32\". Subsequently, the red figure overtakes the blue figure and gets the score, and the number above its head changes to \"32\"."
+    },
+    {
+        "second": 11,
+        "frame_index": 43,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Dnkz0mS8mCw/output_frames/sec_11_idx_43.jpg",
+        "fps": 60,
+        "explanation": "[9-12] Then, the camera zooms in on the blue figure with a surprised expression. The red figure smiles. The red figure follows the blue figure and dodges the two red lights. The blue figure gets the score, and the number above its head changes to \"32\". Subsequently, the red figure overtakes the blue figure and gets the score, and the number above its head changes to \"32\"."
+    },
+    {
+        "second": 12,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Dnkz0mS8mCw/output_frames/sec_12_idx_6.jpg",
+        "fps": 60,
+        "explanation": "[9-12] Then, the camera zooms in on the blue figure with a surprised expression. The red figure smiles. The red figure follows the blue figure and dodges the two red lights. The blue figure gets the score, and the number above its head changes to \"32\". Subsequently, the red figure overtakes the blue figure and gets the score, and the number above its head changes to \"32\"."
+    },
+    {
+        "second": 13,
+        "frame_index": 59,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Dnkz0mS8mCw/output_frames/sec_13_idx_59.jpg",
+        "fps": 60,
+        "explanation": "[12-16] Afterwards, the camera zooms in on the blue figure with a surprised expression. Then, the screen changes to two green lights, the left one being \"\u00d712\" and the right one being \"+12\". Above the lights are two blue squares with blue arrows pointing to the two lights. The left square has a hand with a thumbs up, and the right square has a piece of paper with writing on it. Behind the light is another hexagon with \"384\" written on it. Subsequently, the blue figure chooses the left light, and the number above its head becomes \"384\". The red figure chooses the right light, and the number above its head becomes \"44\"."
+    },
+    {
+        "second": 14,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Dnkz0mS8mCw/output_frames/sec_14_idx_15.jpg",
+        "fps": 60,
+        "explanation": "[12-16] Afterwards, the camera zooms in on the blue figure with a surprised expression. Then, the screen changes to two green lights, the left one being \"\u00d712\" and the right one being \"+12\". Above the lights are two blue squares with blue arrows pointing to the two lights. The left square has a hand with a thumbs up, and the right square has a piece of paper with writing on it. Behind the light is another hexagon with \"384\" written on it. Subsequently, the blue figure chooses the left light, and the number above its head becomes \"384\". The red figure chooses the right light, and the number above its head becomes \"44\"."
+    },
+    {
+        "second": 15,
+        "frame_index": 31,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Dnkz0mS8mCw/output_frames/sec_15_idx_31.jpg",
+        "fps": 60,
+        "explanation": "[12-16] Afterwards, the camera zooms in on the blue figure with a surprised expression. Then, the screen changes to two green lights, the left one being \"\u00d712\" and the right one being \"+12\". Above the lights are two blue squares with blue arrows pointing to the two lights. The left square has a hand with a thumbs up, and the right square has a piece of paper with writing on it. Behind the light is another hexagon with \"384\" written on it. Subsequently, the blue figure chooses the left light, and the number above its head becomes \"384\". The red figure chooses the right light, and the number above its head becomes \"44\"."
+    },
+    {
+        "second": 16,
+        "frame_index": 37,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Dnkz0mS8mCw/output_frames/sec_16_idx_37.jpg",
+        "fps": 60,
+        "explanation": "[12-16] Afterwards, the camera zooms in on the blue figure with a surprised expression. Then, the screen changes to two green lights, the left one being \"\u00d712\" and the right one being \"+12\". Above the lights are two blue squares with blue arrows pointing to the two lights. The left square has a hand with a thumbs up, and the right square has a piece of paper with writing on it. Behind the light is another hexagon with \"384\" written on it. Subsequently, the blue figure chooses the left light, and the number above its head becomes \"384\". The red figure chooses the right light, and the number above its head becomes \"44\"."
+    },
+    {
+        "second": 17,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Dnkz0mS8mCw/output_frames/sec_17_idx_12.jpg",
+        "fps": 60,
+        "explanation": "[16-20] The blue figure takes the lead and gets the score, and the number above its head changes to \"768\". They then turn their skateboards sideways and slide over two purple railings. After sliding over the railings, the skateboards return to their original orientation. Immediately afterwards, green thorns appear in the middle of the track. The red figure follows the blue figure and dodges the thorns. Afterwards, the blue figure is the first to cross the finish line. There are blue flags on both sides of the finish line."
+    },
+    {
+        "second": 18,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Dnkz0mS8mCw/output_frames/sec_18_idx_17.jpg",
+        "fps": 60,
+        "explanation": "[16-20] The blue figure takes the lead and gets the score, and the number above its head changes to \"768\". They then turn their skateboards sideways and slide over two purple railings. After sliding over the railings, the skateboards return to their original orientation. Immediately afterwards, green thorns appear in the middle of the track. The red figure follows the blue figure and dodges the thorns. Afterwards, the blue figure is the first to cross the finish line. There are blue flags on both sides of the finish line."
+    },
+    {
+        "second": 19,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Dnkz0mS8mCw/output_frames/sec_19_idx_10.jpg",
+        "fps": 60,
+        "explanation": "[16-20] The blue figure takes the lead and gets the score, and the number above its head changes to \"768\". They then turn their skateboards sideways and slide over two purple railings. After sliding over the railings, the skateboards return to their original orientation. Immediately afterwards, green thorns appear in the middle of the track. The red figure follows the blue figure and dodges the thorns. Afterwards, the blue figure is the first to cross the finish line. There are blue flags on both sides of the finish line."
+    },
+    {
+        "second": 20,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Dnkz0mS8mCw/output_frames/sec_20_idx_1.jpg",
+        "fps": 60,
+        "explanation": "[16-20] The blue figure takes the lead and gets the score, and the number above its head changes to \"768\". They then turn their skateboards sideways and slide over two purple railings. After sliding over the railings, the skateboards return to their original orientation. Immediately afterwards, green thorns appear in the middle of the track. The red figure follows the blue figure and dodges the thorns. Afterwards, the blue figure is the first to cross the finish line. There are blue flags on both sides of the finish line."
+    },
+    {
+        "second": 21,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Dnkz0mS8mCw/output_frames/sec_21_idx_13.jpg",
+        "fps": 60,
+        "explanation": "[20-24] After walking down a rainbow-colored track with scores on either side, the blue figure hugs another red figure. The red figure stomps its foot in anger."
+    },
+    {
+        "second": 22,
+        "frame_index": 58,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Dnkz0mS8mCw/output_frames/sec_22_idx_58.jpg",
+        "fps": 60,
+        "explanation": "[20-24] After walking down a rainbow-colored track with scores on either side, the blue figure hugs another red figure. The red figure stomps its foot in anger."
+    },
+    {
+        "second": 23,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Dnkz0mS8mCw/output_frames/sec_23_idx_9.jpg",
+        "fps": 60,
+        "explanation": "[20-24] After walking down a rainbow-colored track with scores on either side, the blue figure hugs another red figure. The red figure stomps its foot in anger."
+    },
+    {
+        "second": 24,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Dnkz0mS8mCw/output_frames/sec_24_idx_5.jpg",
+        "fps": 60,
+        "explanation": "[20-24] After walking down a rainbow-colored track with scores on either side, the blue figure hugs another red figure. The red figure stomps its foot in anger."
+    }
+]

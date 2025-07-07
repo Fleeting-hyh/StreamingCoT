@@ -1,0 +1,65 @@
+[
+    {
+        "second": 0,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Rg5Pvw_7dVE/output_frames/sec_0_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A gray kitten is standing on a yellow wooden floor. There is a red mat in front of it. In the upper right corner is a blue fitness equipment."
+    },
+    {
+        "second": 1,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Rg5Pvw_7dVE/output_frames/sec_1_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[0-8] Then the kitten looked up and continued walking forward, it walked to the dumbbell. At this time, a hand stretched out from the left to stroke it. Then the kitten continued to walk forward."
+    },
+    {
+        "second": 2,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Rg5Pvw_7dVE/output_frames/sec_2_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[0-8] Then the kitten looked up and continued walking forward, it walked to the dumbbell. At this time, a hand stretched out from the left to stroke it. Then the kitten continued to walk forward."
+    },
+    {
+        "second": 3,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Rg5Pvw_7dVE/output_frames/sec_3_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[0-8] Then the kitten looked up and continued walking forward, it walked to the dumbbell. At this time, a hand stretched out from the left to stroke it. Then the kitten continued to walk forward."
+    },
+    {
+        "second": 4,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Rg5Pvw_7dVE/output_frames/sec_4_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[0-8] Then the kitten looked up and continued walking forward, it walked to the dumbbell. At this time, a hand stretched out from the left to stroke it. Then the kitten continued to walk forward."
+    },
+    {
+        "second": 5,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Rg5Pvw_7dVE/output_frames/sec_5_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[0-8] Then the kitten looked up and continued walking forward, it walked to the dumbbell. At this time, a hand stretched out from the left to stroke it. Then the kitten continued to walk forward."
+    },
+    {
+        "second": 6,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Rg5Pvw_7dVE/output_frames/sec_6_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[0-8] Then the kitten looked up and continued walking forward, it walked to the dumbbell. At this time, a hand stretched out from the left to stroke it. Then the kitten continued to walk forward."
+    },
+    {
+        "second": 7,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Rg5Pvw_7dVE/output_frames/sec_7_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[0-8] Then the kitten looked up and continued walking forward, it walked to the dumbbell. At this time, a hand stretched out from the left to stroke it. Then the kitten continued to walk forward."
+    },
+    {
+        "second": 8,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Rg5Pvw_7dVE/output_frames/sec_8_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-8] Then the kitten looked up and continued walking forward, it walked to the dumbbell. At this time, a hand stretched out from the left to stroke it. Then the kitten continued to walk forward."
+    }
+]

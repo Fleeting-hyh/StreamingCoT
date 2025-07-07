@@ -1,0 +1,72 @@
+[
+    {
+        "second": 0,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AcL34BAuew4/output_frames/sec_0_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A man wearing a gray short-sleeved shirt and a red printed headscarf sits on a chair with black and white armrests, holding a large plate of potato chips in both hands. Behind him, several picture frames hang on the white wall, and there are some partitions on the right. There is a black caption on a white background on the screen that says \"Eating chips be like.\""
+    },
+    {
+        "second": 1,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AcL34BAuew4/output_frames/sec_1_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-3] The man in the gray short-sleeved shirt then lifts the chips to the right and chews, and the scene cuts to a man in a black short-sleeved shirt with a black printed headscarf. He smiles, grabs a chip, and eats it happily. Then he raises his right hand, widens his eyes, lowers the corners of his mouth, looks to the left and spreads his hands, his right hand covered with chip crumbs. The caption on the screen disappears."
+    },
+    {
+        "second": 2,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AcL34BAuew4/output_frames/sec_2_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[0-3] The man in the gray short-sleeved shirt then lifts the chips to the right and chews, and the scene cuts to a man in a black short-sleeved shirt with a black printed headscarf. He smiles, grabs a chip, and eats it happily. Then he raises his right hand, widens his eyes, lowers the corners of his mouth, looks to the left and spreads his hands, his right hand covered with chip crumbs. The caption on the screen disappears."
+    },
+    {
+        "second": 3,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AcL34BAuew4/output_frames/sec_3_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[0-3] The man in the gray short-sleeved shirt then lifts the chips to the right and chews, and the scene cuts to a man in a black short-sleeved shirt with a black printed headscarf. He smiles, grabs a chip, and eats it happily. Then he raises his right hand, widens his eyes, lowers the corners of his mouth, looks to the left and spreads his hands, his right hand covered with chip crumbs. The caption on the screen disappears."
+    },
+    {
+        "second": 4,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AcL34BAuew4/output_frames/sec_4_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[3-7] The scene then cuts back to the man in the gray short-sleeved shirt, who opens his eyes wide in surprise, shakes his head with his mouth wide open, and extends his right hand forward. A right hand covered with chip crumbs moves on his black pants, leaving them covered in crumbs. The man in the black short sleeves closes his eyes with satisfaction, smiles and nods."
+    },
+    {
+        "second": 5,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AcL34BAuew4/output_frames/sec_5_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[3-7] The scene then cuts back to the man in the gray short-sleeved shirt, who opens his eyes wide in surprise, shakes his head with his mouth wide open, and extends his right hand forward. A right hand covered with chip crumbs moves on his black pants, leaving them covered in crumbs. The man in the black short sleeves closes his eyes with satisfaction, smiles and nods."
+    },
+    {
+        "second": 6,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AcL34BAuew4/output_frames/sec_6_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[3-7] The scene then cuts back to the man in the gray short-sleeved shirt, who opens his eyes wide in surprise, shakes his head with his mouth wide open, and extends his right hand forward. A right hand covered with chip crumbs moves on his black pants, leaving them covered in crumbs. The man in the black short sleeves closes his eyes with satisfaction, smiles and nods."
+    },
+    {
+        "second": 7,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AcL34BAuew4/output_frames/sec_7_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[3-7] The scene then cuts back to the man in the gray short-sleeved shirt, who opens his eyes wide in surprise, shakes his head with his mouth wide open, and extends his right hand forward. A right hand covered with chip crumbs moves on his black pants, leaving them covered in crumbs. The man in the black short sleeves closes his eyes with satisfaction, smiles and nods."
+    },
+    {
+        "second": 8,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AcL34BAuew4/output_frames/sec_8_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[7-9] Then the scene cuts back to the man in the gray short-sleeved shirt, who puts his right hand to his mouth in frustration, then closes his eyes and covers his face."
+    },
+    {
+        "second": 9,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AcL34BAuew4/output_frames/sec_9_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[7-9] Then the scene cuts back to the man in the gray short-sleeved shirt, who puts his right hand to his mouth in frustration, then closes his eyes and covers his face."
+    }
+]

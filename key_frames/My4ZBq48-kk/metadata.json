@@ -1,0 +1,93 @@
+[
+    {
+        "second": 0,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/My4ZBq48-kk/output_frames/sec_0_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A blonde woman in an orange jumpsuit stands behind metal bars in a room, facing a man in a blue police uniform and cap. A white table is placed near the bars, with eight different drinks on it. Both of them have smiles on their faces, the man tilts his head slightly with his arms raised, and a blue wall is in the background."
+    },
+    {
+        "second": 1,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/My4ZBq48-kk/output_frames/sec_1_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Next, the woman in the orange jumpsuit picks up a bottle of blue drink from the table with her right hand and holds it in her arms. The man swings his body to the rhythm of the music, and both continue to smile. Then the man picks up a can of orange juice with his left hand, while the woman picks up a can of cola, and both continue to sway to the music."
+    },
+    {
+        "second": 2,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/My4ZBq48-kk/output_frames/sec_2_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Next, the woman in the orange jumpsuit picks up a bottle of blue drink from the table with her right hand and holds it in her arms. The man swings his body to the rhythm of the music, and both continue to smile. Then the man picks up a can of orange juice with his left hand, while the woman picks up a can of cola, and both continue to sway to the music."
+    },
+    {
+        "second": 3,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/My4ZBq48-kk/output_frames/sec_3_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Next, the woman in the orange jumpsuit picks up a bottle of blue drink from the table with her right hand and holds it in her arms. The man swings his body to the rhythm of the music, and both continue to smile. Then the man picks up a can of orange juice with his left hand, while the woman picks up a can of cola, and both continue to sway to the music."
+    },
+    {
+        "second": 4,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/My4ZBq48-kk/output_frames/sec_4_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Next, the woman in the orange jumpsuit picks up a bottle of blue drink from the table with her right hand and holds it in her arms. The man swings his body to the rhythm of the music, and both continue to smile. Then the man picks up a can of orange juice with his left hand, while the woman picks up a can of cola, and both continue to sway to the music."
+    },
+    {
+        "second": 5,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/My4ZBq48-kk/output_frames/sec_5_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[4-7] Immediately afterwards, the man picks up a can of blue packaged drink and holds it in his arms, then the woman picks up a can of green packaged drink and holds all the drinks she has picked up in her left arm."
+    },
+    {
+        "second": 6,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/My4ZBq48-kk/output_frames/sec_6_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[4-7] Immediately afterwards, the man picks up a can of blue packaged drink and holds it in his arms, then the woman picks up a can of green packaged drink and holds all the drinks she has picked up in her left arm."
+    },
+    {
+        "second": 7,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/My4ZBq48-kk/output_frames/sec_7_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[4-7] Immediately afterwards, the man picks up a can of blue packaged drink and holds it in his arms, then the woman picks up a can of green packaged drink and holds all the drinks she has picked up in her left arm."
+    },
+    {
+        "second": 8,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/My4ZBq48-kk/output_frames/sec_8_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[7-10] Then the woman picks up another can of red packaged drink, and then another can of blue packaged drink. At this time, there is only one bottle of green packaged drink left on the table. The man looks at the table in surprise and spreads his left hand."
+    },
+    {
+        "second": 9,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/My4ZBq48-kk/output_frames/sec_9_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[7-10] Then the woman picks up another can of red packaged drink, and then another can of blue packaged drink. At this time, there is only one bottle of green packaged drink left on the table. The man looks at the table in surprise and spreads his left hand."
+    },
+    {
+        "second": 10,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/My4ZBq48-kk/output_frames/sec_10_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[7-10] Then the woman picks up another can of red packaged drink, and then another can of blue packaged drink. At this time, there is only one bottle of green packaged drink left on the table. The man looks at the table in surprise and spreads his left hand."
+    },
+    {
+        "second": 11,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/My4ZBq48-kk/output_frames/sec_11_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[10-12] Afterwards, the woman picks up the last can of green packaged drink from the table, then the man punches the table, and the woman sits down on a green stool in the room."
+    },
+    {
+        "second": 12,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/My4ZBq48-kk/output_frames/sec_12_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[10-12] Afterwards, the woman picks up the last can of green packaged drink from the table, then the man punches the table, and the woman sits down on a green stool in the room."
+    }
+]

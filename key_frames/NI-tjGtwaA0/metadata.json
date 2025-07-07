@@ -1,0 +1,51 @@
+[
+    {
+        "second": 0,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/NI-tjGtwaA0/output_frames/sec_0_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[0-0] The video starts with four bottles of soda: Mountain Dew, Coca-Cola, Fanta, and Pepsi. Each bottle has a skewer of Mentos candies above it, ready to be dropped into the bottles. The background is a grassy area with some greenery, trees, and bushes."
+    },
+    {
+        "second": 1,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/NI-tjGtwaA0/output_frames/sec_1_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[0-6] Then, four hands simultaneously release the Mentos candies, and the candies begin to fall into the soda bottles at the same time. Pepsi has the most violent reaction, followed closely by Coca-Cola and Fanta. All three sodas quickly erupt with large amounts of foam, while Mountain Dew has a very mild reaction, only producing some fizz. A large amount of foam is scattered on the ground. Mountain Dew still only produces some fizz, reacting far less violently than the other three."
+    },
+    {
+        "second": 2,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/NI-tjGtwaA0/output_frames/sec_2_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[0-6] Then, four hands simultaneously release the Mentos candies, and the candies begin to fall into the soda bottles at the same time. Pepsi has the most violent reaction, followed closely by Coca-Cola and Fanta. All three sodas quickly erupt with large amounts of foam, while Mountain Dew has a very mild reaction, only producing some fizz. A large amount of foam is scattered on the ground. Mountain Dew still only produces some fizz, reacting far less violently than the other three."
+    },
+    {
+        "second": 3,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/NI-tjGtwaA0/output_frames/sec_3_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-6] Then, four hands simultaneously release the Mentos candies, and the candies begin to fall into the soda bottles at the same time. Pepsi has the most violent reaction, followed closely by Coca-Cola and Fanta. All three sodas quickly erupt with large amounts of foam, while Mountain Dew has a very mild reaction, only producing some fizz. A large amount of foam is scattered on the ground. Mountain Dew still only produces some fizz, reacting far less violently than the other three."
+    },
+    {
+        "second": 4,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/NI-tjGtwaA0/output_frames/sec_4_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[0-6] Then, four hands simultaneously release the Mentos candies, and the candies begin to fall into the soda bottles at the same time. Pepsi has the most violent reaction, followed closely by Coca-Cola and Fanta. All three sodas quickly erupt with large amounts of foam, while Mountain Dew has a very mild reaction, only producing some fizz. A large amount of foam is scattered on the ground. Mountain Dew still only produces some fizz, reacting far less violently than the other three."
+    },
+    {
+        "second": 5,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/NI-tjGtwaA0/output_frames/sec_5_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[0-6] Then, four hands simultaneously release the Mentos candies, and the candies begin to fall into the soda bottles at the same time. Pepsi has the most violent reaction, followed closely by Coca-Cola and Fanta. All three sodas quickly erupt with large amounts of foam, while Mountain Dew has a very mild reaction, only producing some fizz. A large amount of foam is scattered on the ground. Mountain Dew still only produces some fizz, reacting far less violently than the other three."
+    },
+    {
+        "second": 6,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/NI-tjGtwaA0/output_frames/sec_6_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[0-6] Then, four hands simultaneously release the Mentos candies, and the candies begin to fall into the soda bottles at the same time. Pepsi has the most violent reaction, followed closely by Coca-Cola and Fanta. All three sodas quickly erupt with large amounts of foam, while Mountain Dew has a very mild reaction, only producing some fizz. A large amount of foam is scattered on the ground. Mountain Dew still only produces some fizz, reacting far less violently than the other three."
+    }
+]

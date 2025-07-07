@@ -1,0 +1,93 @@
+[
+    {
+        "second": 0,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/O-gjlaWcohs/output_frames/sec_0_idx_9.jpg",
+        "fps": 60,
+        "explanation": "[0-0] On a sunny soccer field, several players in blue jerseys are about to start training."
+    },
+    {
+        "second": 1,
+        "frame_index": 35,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/O-gjlaWcohs/output_frames/sec_1_idx_35.jpg",
+        "fps": 60,
+        "explanation": "[0-5] Then the ball flies over, one of the players is about to shoot, the ball is near the goal line, the player shoots, the ball flies to the goal, the goalkeeper flies to save and successfully blocks the ball."
+    },
+    {
+        "second": 2,
+        "frame_index": 53,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/O-gjlaWcohs/output_frames/sec_2_idx_53.jpg",
+        "fps": 60,
+        "explanation": "[0-5] Then the ball flies over, one of the players is about to shoot, the ball is near the goal line, the player shoots, the ball flies to the goal, the goalkeeper flies to save and successfully blocks the ball."
+    },
+    {
+        "second": 3,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/O-gjlaWcohs/output_frames/sec_3_idx_13.jpg",
+        "fps": 60,
+        "explanation": "[0-5] Then the ball flies over, one of the players is about to shoot, the ball is near the goal line, the player shoots, the ball flies to the goal, the goalkeeper flies to save and successfully blocks the ball."
+    },
+    {
+        "second": 4,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/O-gjlaWcohs/output_frames/sec_4_idx_4.jpg",
+        "fps": 60,
+        "explanation": "[0-5] Then the ball flies over, one of the players is about to shoot, the ball is near the goal line, the player shoots, the ball flies to the goal, the goalkeeper flies to save and successfully blocks the ball."
+    },
+    {
+        "second": 5,
+        "frame_index": 49,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/O-gjlaWcohs/output_frames/sec_5_idx_49.jpg",
+        "fps": 60,
+        "explanation": "[0-5] Then the ball flies over, one of the players is about to shoot, the ball is near the goal line, the player shoots, the ball flies to the goal, the goalkeeper flies to save and successfully blocks the ball."
+    },
+    {
+        "second": 6,
+        "frame_index": 40,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/O-gjlaWcohs/output_frames/sec_6_idx_40.jpg",
+        "fps": 60,
+        "explanation": "[5-8] Then the camera switches to another player in a blue jersey who kicks the ball towards the goal, the goalkeeper blocks it and hits it back."
+    },
+    {
+        "second": 7,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/O-gjlaWcohs/output_frames/sec_7_idx_23.jpg",
+        "fps": 60,
+        "explanation": "[5-8] Then the camera switches to another player in a blue jersey who kicks the ball towards the goal, the goalkeeper blocks it and hits it back."
+    },
+    {
+        "second": 8,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/O-gjlaWcohs/output_frames/sec_8_idx_1.jpg",
+        "fps": 60,
+        "explanation": "[5-8] Then the camera switches to another player in a blue jersey who kicks the ball towards the goal, the goalkeeper blocks it and hits it back."
+    },
+    {
+        "second": 9,
+        "frame_index": 57,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/O-gjlaWcohs/output_frames/sec_9_idx_57.jpg",
+        "fps": 60,
+        "explanation": "[8-12] Then a player dribbles and prepares to shoot, the goalkeeper flies again to save and successfully saves the ball."
+    },
+    {
+        "second": 10,
+        "frame_index": 37,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/O-gjlaWcohs/output_frames/sec_10_idx_37.jpg",
+        "fps": 60,
+        "explanation": "[8-12] Then a player dribbles and prepares to shoot, the goalkeeper flies again to save and successfully saves the ball."
+    },
+    {
+        "second": 11,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/O-gjlaWcohs/output_frames/sec_11_idx_8.jpg",
+        "fps": 60,
+        "explanation": "[8-12] Then a player dribbles and prepares to shoot, the goalkeeper flies again to save and successfully saves the ball."
+    },
+    {
+        "second": 12,
+        "frame_index": 47,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/O-gjlaWcohs/output_frames/sec_12_idx_47.jpg",
+        "fps": 60,
+        "explanation": "[8-12] Then a player dribbles and prepares to shoot, the goalkeeper flies again to save and successfully saves the ball."
+    }
+]

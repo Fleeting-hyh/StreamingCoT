@@ -1,0 +1,107 @@
+[
+    {
+        "second": 0,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7uB08YVvGcw/output_frames/sec_0_idx_3.jpg",
+        "fps": 45,
+        "explanation": "[0-0] A yellow car is driving on the road at the bottom of the screen. In the distance, there is a yellow parking area with a red bus and a truck. At the top of the screen, there is a woman with long hair and a white block with black subtitles inside."
+    },
+    {
+        "second": 1,
+        "frame_index": 37,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7uB08YVvGcw/output_frames/sec_1_idx_37.jpg",
+        "fps": 45,
+        "explanation": "[0-2] Then, the yellow car in the lower part of the screen spins and bounces into the yellow parking area beside the road. The number 1000 appears on the upper screen."
+    },
+    {
+        "second": 2,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7uB08YVvGcw/output_frames/sec_2_idx_21.jpg",
+        "fps": 45,
+        "explanation": "[0-2] Then, the yellow car in the lower part of the screen spins and bounces into the yellow parking area beside the road. The number 1000 appears on the upper screen."
+    },
+    {
+        "second": 3,
+        "frame_index": 35,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7uB08YVvGcw/output_frames/sec_3_idx_35.jpg",
+        "fps": 45,
+        "explanation": "[2-6] Subsequently, the scene changes, and the yellow car in the lower part of the screen spins and bounces onto the red bus by the roadside. The subtitle \"Epic Score 1001\" appears on the upper screen. The woman in the upper screen smiles."
+    },
+    {
+        "second": 4,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7uB08YVvGcw/output_frames/sec_4_idx_17.jpg",
+        "fps": 45,
+        "explanation": "[2-6] Subsequently, the scene changes, and the yellow car in the lower part of the screen spins and bounces onto the red bus by the roadside. The subtitle \"Epic Score 1001\" appears on the upper screen. The woman in the upper screen smiles."
+    },
+    {
+        "second": 5,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7uB08YVvGcw/output_frames/sec_5_idx_10.jpg",
+        "fps": 45,
+        "explanation": "[2-6] Subsequently, the scene changes, and the yellow car in the lower part of the screen spins and bounces onto the red bus by the roadside. The subtitle \"Epic Score 1001\" appears on the upper screen. The woman in the upper screen smiles."
+    },
+    {
+        "second": 6,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7uB08YVvGcw/output_frames/sec_6_idx_15.jpg",
+        "fps": 45,
+        "explanation": "[2-6] Subsequently, the scene changes, and the yellow car in the lower part of the screen spins and bounces onto the red bus by the roadside. The subtitle \"Epic Score 1001\" appears on the upper screen. The woman in the upper screen smiles."
+    },
+    {
+        "second": 7,
+        "frame_index": 36,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7uB08YVvGcw/output_frames/sec_7_idx_36.jpg",
+        "fps": 45,
+        "explanation": "[6-9] Next, the scene changes, and the yellow car in the lower part of the screen spins and bounces onto the truck by the roadside. The subtitle \"Epic Score 1002\" appears on the upper screen."
+    },
+    {
+        "second": 8,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7uB08YVvGcw/output_frames/sec_8_idx_0.jpg",
+        "fps": 45,
+        "explanation": "[6-9] Next, the scene changes, and the yellow car in the lower part of the screen spins and bounces onto the truck by the roadside. The subtitle \"Epic Score 1002\" appears on the upper screen."
+    },
+    {
+        "second": 9,
+        "frame_index": 43,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7uB08YVvGcw/output_frames/sec_9_idx_43.jpg",
+        "fps": 45,
+        "explanation": "[6-9] Next, the scene changes, and the yellow car in the lower part of the screen spins and bounces onto the truck by the roadside. The subtitle \"Epic Score 1002\" appears on the upper screen."
+    },
+    {
+        "second": 10,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7uB08YVvGcw/output_frames/sec_10_idx_19.jpg",
+        "fps": 45,
+        "explanation": "[9-14] Then the scene changes, and the yellow car in the lower part of the screen drifts into a parking lot with two yellow cars parked there. A subtitle appears on the upper screen."
+    },
+    {
+        "second": 11,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7uB08YVvGcw/output_frames/sec_11_idx_11.jpg",
+        "fps": 45,
+        "explanation": "[9-14] Then the scene changes, and the yellow car in the lower part of the screen drifts into a parking lot with two yellow cars parked there. A subtitle appears on the upper screen."
+    },
+    {
+        "second": 12,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7uB08YVvGcw/output_frames/sec_12_idx_15.jpg",
+        "fps": 45,
+        "explanation": "[9-14] Then the scene changes, and the yellow car in the lower part of the screen drifts into a parking lot with two yellow cars parked there. A subtitle appears on the upper screen."
+    },
+    {
+        "second": 13,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7uB08YVvGcw/output_frames/sec_13_idx_17.jpg",
+        "fps": 45,
+        "explanation": "[9-14] Then the scene changes, and the yellow car in the lower part of the screen drifts into a parking lot with two yellow cars parked there. A subtitle appears on the upper screen."
+    },
+    {
+        "second": 14,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7uB08YVvGcw/output_frames/sec_14_idx_1.jpg",
+        "fps": 45,
+        "explanation": "[9-14] Then the scene changes, and the yellow car in the lower part of the screen drifts into a parking lot with two yellow cars parked there. A subtitle appears on the upper screen."
+    }
+]

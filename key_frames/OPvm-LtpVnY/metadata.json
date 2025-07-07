@@ -1,0 +1,37 @@
+[
+    {
+        "second": 0,
+        "frame_index": 43,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/OPvm-LtpVnY/output_frames/sec_0_idx_43.jpg",
+        "fps": 60,
+        "explanation": "[0-0] Princess Peach, wearing her pink dress, stands beside a brown table, on which lies Mario in a white diaper. The background wall and floor are both gray."
+    },
+    {
+        "second": 1,
+        "frame_index": 53,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/OPvm-LtpVnY/output_frames/sec_1_idx_53.jpg",
+        "fps": 60,
+        "explanation": "[0-2] Princess Peach leans down and headbutts Mario, causing him to struggle. The camera then pans back as Princess Peach leans down again and headbutts Mario, making him struggle once more."
+    },
+    {
+        "second": 2,
+        "frame_index": 30,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/OPvm-LtpVnY/output_frames/sec_2_idx_30.jpg",
+        "fps": 60,
+        "explanation": "[0-2] Princess Peach leans down and headbutts Mario, causing him to struggle. The camera then pans back as Princess Peach leans down again and headbutts Mario, making him struggle once more."
+    },
+    {
+        "second": 3,
+        "frame_index": 45,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/OPvm-LtpVnY/output_frames/sec_3_idx_45.jpg",
+        "fps": 60,
+        "explanation": "[2-4] Finally, Princess Peach delivers another headbutt, breaking the table in half. The camera then pans downwards."
+    },
+    {
+        "second": 4,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/OPvm-LtpVnY/output_frames/sec_4_idx_3.jpg",
+        "fps": 60,
+        "explanation": "[2-4] Finally, Princess Peach delivers another headbutt, breaking the table in half. The camera then pans downwards."
+    }
+]

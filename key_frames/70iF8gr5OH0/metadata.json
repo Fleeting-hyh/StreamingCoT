@@ -1,0 +1,65 @@
+[
+    {
+        "second": 0,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/70iF8gr5OH0/output_frames/sec_0_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[0-0] In a dance studio with brown flooring, two dancers in black tops and white tulle skirts stand facing forward. Their left legs are slightly bent to the left, with toes touching the ground, and hands on their hips. Behind them, a white wall features a black cloth, a black speaker sits in the left corner, and the ceiling has many illuminated rectangular lights and white air vents."
+    },
+    {
+        "second": 1,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/70iF8gr5OH0/output_frames/sec_1_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[0-3] The dancer on the left begins by touching her left toe to the ground, then rises onto the balls of both feet. She turns her body slightly to the right, bends her right leg to the right with her toes touching the ground. The dancer on the right then mirrors the movement."
+    },
+    {
+        "second": 2,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/70iF8gr5OH0/output_frames/sec_2_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[0-3] The dancer on the left begins by touching her left toe to the ground, then rises onto the balls of both feet. She turns her body slightly to the right, bends her right leg to the right with her toes touching the ground. The dancer on the right then mirrors the movement."
+    },
+    {
+        "second": 3,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/70iF8gr5OH0/output_frames/sec_3_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[0-3] The dancer on the left begins by touching her left toe to the ground, then rises onto the balls of both feet. She turns her body slightly to the right, bends her right leg to the right with her toes touching the ground. The dancer on the right then mirrors the movement."
+    },
+    {
+        "second": 4,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/70iF8gr5OH0/output_frames/sec_4_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[3-8] Next, both dancers simultaneously touch their right toes to the ground, rise onto the balls of their feet, and stand. They then turn their bodies slightly to the left, bend their left legs to the left with their toes touching the ground. Subsequently, they bend both legs, slightly squatting, and then straighten up with their toes touching the ground. They raise both arms, continue to tap their toes, then lower their arms to their sides and walk forward."
+    },
+    {
+        "second": 5,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/70iF8gr5OH0/output_frames/sec_5_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[3-8] Next, both dancers simultaneously touch their right toes to the ground, rise onto the balls of their feet, and stand. They then turn their bodies slightly to the left, bend their left legs to the left with their toes touching the ground. Subsequently, they bend both legs, slightly squatting, and then straighten up with their toes touching the ground. They raise both arms, continue to tap their toes, then lower their arms to their sides and walk forward."
+    },
+    {
+        "second": 6,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/70iF8gr5OH0/output_frames/sec_6_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[3-8] Next, both dancers simultaneously touch their right toes to the ground, rise onto the balls of their feet, and stand. They then turn their bodies slightly to the left, bend their left legs to the left with their toes touching the ground. Subsequently, they bend both legs, slightly squatting, and then straighten up with their toes touching the ground. They raise both arms, continue to tap their toes, then lower their arms to their sides and walk forward."
+    },
+    {
+        "second": 7,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/70iF8gr5OH0/output_frames/sec_7_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[3-8] Next, both dancers simultaneously touch their right toes to the ground, rise onto the balls of their feet, and stand. They then turn their bodies slightly to the left, bend their left legs to the left with their toes touching the ground. Subsequently, they bend both legs, slightly squatting, and then straighten up with their toes touching the ground. They raise both arms, continue to tap their toes, then lower their arms to their sides and walk forward."
+    },
+    {
+        "second": 8,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/70iF8gr5OH0/output_frames/sec_8_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[3-8] Next, both dancers simultaneously touch their right toes to the ground, rise onto the balls of their feet, and stand. They then turn their bodies slightly to the left, bend their left legs to the left with their toes touching the ground. Subsequently, they bend both legs, slightly squatting, and then straighten up with their toes touching the ground. They raise both arms, continue to tap their toes, then lower their arms to their sides and walk forward."
+    }
+]

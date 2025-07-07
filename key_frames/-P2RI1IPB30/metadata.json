@@ -1,0 +1,65 @@
+[
+    {
+        "second": 0,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-P2RI1IPB30/output_frames/sec_0_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A small monkey wearing yellow clothes and a white hat is standing backward on a bunch of green bananas hanging from a banana tree. The monkey is holding a sickle with a green handle, and the blade of the sickle is cutting into the stem of the banana tree. The monkey is surrounded by lush green plants."
+    },
+    {
+        "second": 1,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-P2RI1IPB30/output_frames/sec_1_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[0-8] The monkey continues to hold the sickle tightly, standing on the bananas and slightly adjusting its body, then hugs the stem of the bunch of bananas."
+    },
+    {
+        "second": 2,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-P2RI1IPB30/output_frames/sec_2_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[0-8] The monkey continues to hold the sickle tightly, standing on the bananas and slightly adjusting its body, then hugs the stem of the bunch of bananas."
+    },
+    {
+        "second": 3,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-P2RI1IPB30/output_frames/sec_3_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[0-8] The monkey continues to hold the sickle tightly, standing on the bananas and slightly adjusting its body, then hugs the stem of the bunch of bananas."
+    },
+    {
+        "second": 4,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-P2RI1IPB30/output_frames/sec_4_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-8] The monkey continues to hold the sickle tightly, standing on the bananas and slightly adjusting its body, then hugs the stem of the bunch of bananas."
+    },
+    {
+        "second": 5,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-P2RI1IPB30/output_frames/sec_5_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[0-8] The monkey continues to hold the sickle tightly, standing on the bananas and slightly adjusting its body, then hugs the stem of the bunch of bananas."
+    },
+    {
+        "second": 6,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-P2RI1IPB30/output_frames/sec_6_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[0-8] The monkey continues to hold the sickle tightly, standing on the bananas and slightly adjusting its body, then hugs the stem of the bunch of bananas."
+    },
+    {
+        "second": 7,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-P2RI1IPB30/output_frames/sec_7_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[0-8] The monkey continues to hold the sickle tightly, standing on the bananas and slightly adjusting its body, then hugs the stem of the bunch of bananas."
+    },
+    {
+        "second": 8,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-P2RI1IPB30/output_frames/sec_8_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[0-8] The monkey continues to hold the sickle tightly, standing on the bananas and slightly adjusting its body, then hugs the stem of the bunch of bananas."
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "second": 0,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7b0tSh31GvA/output_frames/sec_0_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A man in a black shirt is looking down at something brown. There is a wooden table in front of the man in the black shirt and a white background behind him. The words \"Normal People\" are written in white font at the top of the screen."
+    },
+    {
+        "second": 1,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7b0tSh31GvA/output_frames/sec_1_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Then, the man in the black shirt picks up a chocolate ice cream cone with both hands with an excited expression. Then, the man in the black shirt picks up a knife in his right hand and holds the ice cream in his left hand, and then the man in the black shirt cuts the chocolate ice cream with the knife. The white font at the top of the screen changes to red font that reads \"PSYCHOPATHS\"."
+    },
+    {
+        "second": 2,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7b0tSh31GvA/output_frames/sec_2_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Then, the man in the black shirt picks up a chocolate ice cream cone with both hands with an excited expression. Then, the man in the black shirt picks up a knife in his right hand and holds the ice cream in his left hand, and then the man in the black shirt cuts the chocolate ice cream with the knife. The white font at the top of the screen changes to red font that reads \"PSYCHOPATHS\"."
+    },
+    {
+        "second": 3,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7b0tSh31GvA/output_frames/sec_3_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Then, the man in the black shirt picks up a chocolate ice cream cone with both hands with an excited expression. Then, the man in the black shirt picks up a knife in his right hand and holds the ice cream in his left hand, and then the man in the black shirt cuts the chocolate ice cream with the knife. The white font at the top of the screen changes to red font that reads \"PSYCHOPATHS\"."
+    },
+    {
+        "second": 4,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7b0tSh31GvA/output_frames/sec_4_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[3-5] Immediately afterward, the man in the black shirt looks at the cut chocolate ice cream cone in his hand, then smiles and extends the chocolate ice cream cone in his right hand forward."
+    },
+    {
+        "second": 5,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7b0tSh31GvA/output_frames/sec_5_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[3-5] Immediately afterward, the man in the black shirt looks at the cut chocolate ice cream cone in his hand, then smiles and extends the chocolate ice cream cone in his right hand forward."
+    },
+    {
+        "second": 6,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7b0tSh31GvA/output_frames/sec_6_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[5-8] Then, the scene changes to a man wearing a red Spiderman shirt and red-framed glasses taking the cut chocolate ice cream cone in his right hand. Then the man in the red Spiderman shirt looks up with a surprised expression."
+    },
+    {
+        "second": 7,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7b0tSh31GvA/output_frames/sec_7_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[5-8] Then, the scene changes to a man wearing a red Spiderman shirt and red-framed glasses taking the cut chocolate ice cream cone in his right hand. Then the man in the red Spiderman shirt looks up with a surprised expression."
+    },
+    {
+        "second": 8,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7b0tSh31GvA/output_frames/sec_8_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[5-8] Then, the scene changes to a man wearing a red Spiderman shirt and red-framed glasses taking the cut chocolate ice cream cone in his right hand. Then the man in the red Spiderman shirt looks up with a surprised expression."
+    }
+]

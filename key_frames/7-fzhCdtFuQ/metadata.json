@@ -1,0 +1,51 @@
+[
+    {
+        "second": 0,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7-fzhCdtFuQ/output_frames/sec_0_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A brown gazelle lowers its head, grazing on a vast grassland. In the distance, a cheetah lurks in the grass, eyes fixed on the gazelle, ready to attack. In the upper left corner of the frame, there's a green logo featuring a black silhouette profile picture against a white background. The backdrop is a blue sky meeting gray mountains on the horizon."
+    },
+    {
+        "second": 1,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7-fzhCdtFuQ/output_frames/sec_1_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-2] The gazelle grazes leisurely, head down, occasionally wagging its tail. Suddenly, the cheetah launches its attack, sprinting towards the gazelle."
+    },
+    {
+        "second": 2,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7-fzhCdtFuQ/output_frames/sec_2_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-2] The gazelle grazes leisurely, head down, occasionally wagging its tail. Suddenly, the cheetah launches its attack, sprinting towards the gazelle."
+    },
+    {
+        "second": 3,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7-fzhCdtFuQ/output_frames/sec_3_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[2-6] Sensing danger, the gazelle bolts in panic. The cheetah gives chase with all its might. The gazelle swiftly escapes the danger and runs out of the frame, leaving only the cheetah sprinting across the grassland."
+    },
+    {
+        "second": 4,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7-fzhCdtFuQ/output_frames/sec_4_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[2-6] Sensing danger, the gazelle bolts in panic. The cheetah gives chase with all its might. The gazelle swiftly escapes the danger and runs out of the frame, leaving only the cheetah sprinting across the grassland."
+    },
+    {
+        "second": 5,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7-fzhCdtFuQ/output_frames/sec_5_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[2-6] Sensing danger, the gazelle bolts in panic. The cheetah gives chase with all its might. The gazelle swiftly escapes the danger and runs out of the frame, leaving only the cheetah sprinting across the grassland."
+    },
+    {
+        "second": 6,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7-fzhCdtFuQ/output_frames/sec_6_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[2-6] Sensing danger, the gazelle bolts in panic. The cheetah gives chase with all its might. The gazelle swiftly escapes the danger and runs out of the frame, leaving only the cheetah sprinting across the grassland."
+    }
+]

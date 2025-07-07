@@ -1,0 +1,65 @@
+[
+    {
+        "second": 0,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QxJP1TikMcQ/output_frames/sec_0_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[0-0] On a sunny beach with clear skies, a man wearing shorts is walking towards the sea carrying a hydrofoil board and an inflatable paraglider."
+    },
+    {
+        "second": 1,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QxJP1TikMcQ/output_frames/sec_1_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-3] The man puts the hydrofoil board into the sea and starts running, pushing the board, then jumps onto it."
+    },
+    {
+        "second": 2,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QxJP1TikMcQ/output_frames/sec_2_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[0-3] The man puts the hydrofoil board into the sea and starts running, pushing the board, then jumps onto it."
+    },
+    {
+        "second": 3,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QxJP1TikMcQ/output_frames/sec_3_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[0-3] The man puts the hydrofoil board into the sea and starts running, pushing the board, then jumps onto it."
+    },
+    {
+        "second": 4,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QxJP1TikMcQ/output_frames/sec_4_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[3-9] Immediately, the man glides through the sea by pumping the hydrofoil board up and down, then picks up the inflatable paraglider and continues gliding with both hands, finally making a smooth arc."
+    },
+    {
+        "second": 5,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QxJP1TikMcQ/output_frames/sec_5_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[3-9] Immediately, the man glides through the sea by pumping the hydrofoil board up and down, then picks up the inflatable paraglider and continues gliding with both hands, finally making a smooth arc."
+    },
+    {
+        "second": 6,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QxJP1TikMcQ/output_frames/sec_6_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[3-9] Immediately, the man glides through the sea by pumping the hydrofoil board up and down, then picks up the inflatable paraglider and continues gliding with both hands, finally making a smooth arc."
+    },
+    {
+        "second": 7,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QxJP1TikMcQ/output_frames/sec_7_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[3-9] Immediately, the man glides through the sea by pumping the hydrofoil board up and down, then picks up the inflatable paraglider and continues gliding with both hands, finally making a smooth arc."
+    },
+    {
+        "second": 8,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QxJP1TikMcQ/output_frames/sec_8_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[3-9] Immediately, the man glides through the sea by pumping the hydrofoil board up and down, then picks up the inflatable paraglider and continues gliding with both hands, finally making a smooth arc."
+    }
+]

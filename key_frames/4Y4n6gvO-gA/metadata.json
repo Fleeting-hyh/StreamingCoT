@@ -1,0 +1,72 @@
+[
+    {
+        "second": 0,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4Y4n6gvO-gA/output_frames/sec_0_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A man with curly hair is standing on a football field, wearing a black top. He holds up a smartphone towards the camera, the screen displaying a picture of Harry Kane. The time on the phone shows 16:30."
+    },
+    {
+        "second": 1,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4Y4n6gvO-gA/output_frames/sec_1_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-4] As he lowers the phone, a smiling Harry Kane appears behind him, wearing a blue top. The man in black reacts with surprise and briefly touches Harry Kane."
+    },
+    {
+        "second": 2,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4Y4n6gvO-gA/output_frames/sec_2_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[0-4] As he lowers the phone, a smiling Harry Kane appears behind him, wearing a blue top. The man in black reacts with surprise and briefly touches Harry Kane."
+    },
+    {
+        "second": 3,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4Y4n6gvO-gA/output_frames/sec_3_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[0-4] As he lowers the phone, a smiling Harry Kane appears behind him, wearing a blue top. The man in black reacts with surprise and briefly touches Harry Kane."
+    },
+    {
+        "second": 4,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4Y4n6gvO-gA/output_frames/sec_4_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-4] As he lowers the phone, a smiling Harry Kane appears behind him, wearing a blue top. The man in black reacts with surprise and briefly touches Harry Kane."
+    },
+    {
+        "second": 5,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4Y4n6gvO-gA/output_frames/sec_5_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[4-9] A young boy in a gray top holds a smartphone in his left hand. He flips the phone, the screen now showing a picture of Cristiano Ronaldo wearing a black suit, white shirt and blue tie. As he lowers the phone, Cristiano Ronaldo appears behind the young man, smiling. A small skull icon appears on the left side of the screen, and the image shakes."
+    },
+    {
+        "second": 6,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4Y4n6gvO-gA/output_frames/sec_6_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[4-9] A young boy in a gray top holds a smartphone in his left hand. He flips the phone, the screen now showing a picture of Cristiano Ronaldo wearing a black suit, white shirt and blue tie. As he lowers the phone, Cristiano Ronaldo appears behind the young man, smiling. A small skull icon appears on the left side of the screen, and the image shakes."
+    },
+    {
+        "second": 7,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4Y4n6gvO-gA/output_frames/sec_7_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[4-9] A young boy in a gray top holds a smartphone in his left hand. He flips the phone, the screen now showing a picture of Cristiano Ronaldo wearing a black suit, white shirt and blue tie. As he lowers the phone, Cristiano Ronaldo appears behind the young man, smiling. A small skull icon appears on the left side of the screen, and the image shakes."
+    },
+    {
+        "second": 8,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4Y4n6gvO-gA/output_frames/sec_8_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[4-9] A young boy in a gray top holds a smartphone in his left hand. He flips the phone, the screen now showing a picture of Cristiano Ronaldo wearing a black suit, white shirt and blue tie. As he lowers the phone, Cristiano Ronaldo appears behind the young man, smiling. A small skull icon appears on the left side of the screen, and the image shakes."
+    },
+    {
+        "second": 9,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4Y4n6gvO-gA/output_frames/sec_9_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[4-9] A young boy in a gray top holds a smartphone in his left hand. He flips the phone, the screen now showing a picture of Cristiano Ronaldo wearing a black suit, white shirt and blue tie. As he lowers the phone, Cristiano Ronaldo appears behind the young man, smiling. A small skull icon appears on the left side of the screen, and the image shakes."
+    }
+]

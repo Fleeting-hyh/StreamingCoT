@@ -1,0 +1,72 @@
+[
+    {
+        "second": 0,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7aVihWr8rC8/output_frames/sec_0_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-0] In a room, a curly-haired man in a brown shirt is leaning against a patterned cushion with his eyes closed. A door is behind him. There are subtitles at the top of the screen."
+    },
+    {
+        "second": 1,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7aVihWr8rC8/output_frames/sec_1_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Then the man raises his head, opens his eyes, smiles, and nods."
+    },
+    {
+        "second": 2,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7aVihWr8rC8/output_frames/sec_2_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Then the man raises his head, opens his eyes, smiles, and nods."
+    },
+    {
+        "second": 3,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7aVihWr8rC8/output_frames/sec_3_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[2-5] Subsequently, the shot changes, the man closes his eyes, smiles, and speaks. The subtitles at the top of the screen change."
+    },
+    {
+        "second": 4,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7aVihWr8rC8/output_frames/sec_4_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[2-5] Subsequently, the shot changes, the man closes his eyes, smiles, and speaks. The subtitles at the top of the screen change."
+    },
+    {
+        "second": 5,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7aVihWr8rC8/output_frames/sec_5_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[2-5] Subsequently, the shot changes, the man closes his eyes, smiles, and speaks. The subtitles at the top of the screen change."
+    },
+    {
+        "second": 6,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7aVihWr8rC8/output_frames/sec_6_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[5-7] Then the shot changes, the man looks up with an annoyed expression, finishes speaking, and rests his head on the cushion. The subtitles at the top of the screen change."
+    },
+    {
+        "second": 7,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7aVihWr8rC8/output_frames/sec_7_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[5-7] Then the shot changes, the man looks up with an annoyed expression, finishes speaking, and rests his head on the cushion. The subtitles at the top of the screen change."
+    },
+    {
+        "second": 8,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7aVihWr8rC8/output_frames/sec_8_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[7-9] Then the shot changes, the man looks up in horror and looks around. The subtitles at the top of the screen change."
+    },
+    {
+        "second": 9,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7aVihWr8rC8/output_frames/sec_9_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[7-9] Then the shot changes, the man looks up in horror and looks around. The subtitles at the top of the screen change."
+    }
+]

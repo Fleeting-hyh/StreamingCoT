@@ -1,0 +1,37 @@
+[
+    {
+        "second": 0,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/I29KgUorIIY/output_frames/sec_0_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A woman is leaning back on the edge of a giant toilet-shaped pool filled with blue-green water, her limbs stretched out. She is wearing a yellow bikini top and red swimming trunks. She smiles and looks to the left, where there is a white wall. The floor is brown."
+    },
+    {
+        "second": 1,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/I29KgUorIIY/output_frames/sec_1_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[0-2] The woman then moves her feet along the edge of the toilet-shaped pool, raises her arms, and falls backward into the water with a surprised expression on her face."
+    },
+    {
+        "second": 2,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/I29KgUorIIY/output_frames/sec_2_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-2] The woman then moves her feet along the edge of the toilet-shaped pool, raises her arms, and falls backward into the water with a surprised expression on her face."
+    },
+    {
+        "second": 3,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/I29KgUorIIY/output_frames/sec_3_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[2-4] Immediately after, the woman's body falls into the blue-green pool, creating a huge splash. Only her feet can be seen above the water."
+    },
+    {
+        "second": 4,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/I29KgUorIIY/output_frames/sec_4_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[2-4] Immediately after, the woman's body falls into the blue-green pool, creating a huge splash. Only her feet can be seen above the water."
+    }
+]

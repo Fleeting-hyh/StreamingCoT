@@ -1,0 +1,100 @@
+[
+    {
+        "second": 0,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/BOqjBfP6v18/output_frames/sec_0_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[0-0] In a processing workshop, a shoe sole making machine is placed, with green shoe sole molds underneath."
+    },
+    {
+        "second": 1,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/BOqjBfP6v18/output_frames/sec_1_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Then, black rubber strips are pressed into the shoe sole molds, followed by a wooden ruler appearing from the right side, pressing down on the black rubber strips in the mold."
+    },
+    {
+        "second": 2,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/BOqjBfP6v18/output_frames/sec_2_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Then, black rubber strips are pressed into the shoe sole molds, followed by a wooden ruler appearing from the right side, pressing down on the black rubber strips in the mold."
+    },
+    {
+        "second": 3,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/BOqjBfP6v18/output_frames/sec_3_idx_24.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Then, black rubber strips are pressed into the shoe sole molds, followed by a wooden ruler appearing from the right side, pressing down on the black rubber strips in the mold."
+    },
+    {
+        "second": 4,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/BOqjBfP6v18/output_frames/sec_4_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Then, black rubber strips are pressed into the shoe sole molds, followed by a wooden ruler appearing from the right side, pressing down on the black rubber strips in the mold."
+    },
+    {
+        "second": 5,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/BOqjBfP6v18/output_frames/sec_5_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Then, black rubber strips are pressed into the shoe sole molds, followed by a wooden ruler appearing from the right side, pressing down on the black rubber strips in the mold."
+    },
+    {
+        "second": 6,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/BOqjBfP6v18/output_frames/sec_6_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[5-9] Immediately afterwards, a machine platen appears from above and presses down on the black rubber strips laid out below."
+    },
+    {
+        "second": 7,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/BOqjBfP6v18/output_frames/sec_7_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[5-9] Immediately afterwards, a machine platen appears from above and presses down on the black rubber strips laid out below."
+    },
+    {
+        "second": 8,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/BOqjBfP6v18/output_frames/sec_8_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[5-9] Immediately afterwards, a machine platen appears from above and presses down on the black rubber strips laid out below."
+    },
+    {
+        "second": 9,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/BOqjBfP6v18/output_frames/sec_9_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[5-9] Immediately afterwards, a machine platen appears from above and presses down on the black rubber strips laid out below."
+    },
+    {
+        "second": 10,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/BOqjBfP6v18/output_frames/sec_10_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[9-13] Subsequently, the machine platen lifts, revealing the formed rubber sole. A hand wearing a white glove extends from the left, taking the formed rubber sole out of the mold. It is then placed on the iron table beside it, and black smoke can be seen rising from the sole."
+    },
+    {
+        "second": 11,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/BOqjBfP6v18/output_frames/sec_11_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[9-13] Subsequently, the machine platen lifts, revealing the formed rubber sole. A hand wearing a white glove extends from the left, taking the formed rubber sole out of the mold. It is then placed on the iron table beside it, and black smoke can be seen rising from the sole."
+    },
+    {
+        "second": 12,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/BOqjBfP6v18/output_frames/sec_12_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[9-13] Subsequently, the machine platen lifts, revealing the formed rubber sole. A hand wearing a white glove extends from the left, taking the formed rubber sole out of the mold. It is then placed on the iron table beside it, and black smoke can be seen rising from the sole."
+    },
+    {
+        "second": 13,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/BOqjBfP6v18/output_frames/sec_13_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[9-13] Subsequently, the machine platen lifts, revealing the formed rubber sole. A hand wearing a white glove extends from the left, taking the formed rubber sole out of the mold. It is then placed on the iron table beside it, and black smoke can be seen rising from the sole."
+    }
+]

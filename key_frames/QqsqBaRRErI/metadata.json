@@ -1,0 +1,51 @@
+[
+    {
+        "second": 0,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QqsqBaRRErI/output_frames/sec_0_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[0-0] In a modern kitchen, a young man wearing a mint green T-shirt and pinkish-white pants is standing by the kitchen island. There are two slices of bread on a white plate on the island. The man is holding a bottle of ketchup in his hand."
+    },
+    {
+        "second": 1,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QqsqBaRRErI/output_frames/sec_1_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[0-6] Then the man opens the lid of the ketchup bottle. A large amount of water bursts out of the ketchup bottle and pours onto the bread, with only a small amount of ketchup dripping onto the bread. Immediately afterwards, a large amount of water pours into the white plate. The man then closes the lid and throws the bottle onto the cabinet behind him."
+    },
+    {
+        "second": 2,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QqsqBaRRErI/output_frames/sec_2_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[0-6] Then the man opens the lid of the ketchup bottle. A large amount of water bursts out of the ketchup bottle and pours onto the bread, with only a small amount of ketchup dripping onto the bread. Immediately afterwards, a large amount of water pours into the white plate. The man then closes the lid and throws the bottle onto the cabinet behind him."
+    },
+    {
+        "second": 3,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QqsqBaRRErI/output_frames/sec_3_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[0-6] Then the man opens the lid of the ketchup bottle. A large amount of water bursts out of the ketchup bottle and pours onto the bread, with only a small amount of ketchup dripping onto the bread. Immediately afterwards, a large amount of water pours into the white plate. The man then closes the lid and throws the bottle onto the cabinet behind him."
+    },
+    {
+        "second": 4,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QqsqBaRRErI/output_frames/sec_4_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[0-6] Then the man opens the lid of the ketchup bottle. A large amount of water bursts out of the ketchup bottle and pours onto the bread, with only a small amount of ketchup dripping onto the bread. Immediately afterwards, a large amount of water pours into the white plate. The man then closes the lid and throws the bottle onto the cabinet behind him."
+    },
+    {
+        "second": 5,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QqsqBaRRErI/output_frames/sec_5_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[0-6] Then the man opens the lid of the ketchup bottle. A large amount of water bursts out of the ketchup bottle and pours onto the bread, with only a small amount of ketchup dripping onto the bread. Immediately afterwards, a large amount of water pours into the white plate. The man then closes the lid and throws the bottle onto the cabinet behind him."
+    },
+    {
+        "second": 6,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QqsqBaRRErI/output_frames/sec_6_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[0-6] Then the man opens the lid of the ketchup bottle. A large amount of water bursts out of the ketchup bottle and pours onto the bread, with only a small amount of ketchup dripping onto the bread. Immediately afterwards, a large amount of water pours into the white plate. The man then closes the lid and throws the bottle onto the cabinet behind him."
+    }
+]

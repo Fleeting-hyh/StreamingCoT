@@ -1,0 +1,142 @@
+[
+    {
+        "second": 0,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Lv8aA2Fzhg8/output_frames/sec_0_idx_11.jpg",
+        "fps": 24,
+        "explanation": "[0-0] The screen is split. Both the upper and lower parts share the same scene: A tall man wearing a blue athletic top and black shorts and a smaller version of him wearing a white T-shirt with pink patterns and black shorts are standing on a cliff overlooking the sea. The tall man is in front, and the smaller version is behind. The cliff is composed of brown rocks and green grass. The brown rock on the cliff in the upper part has the word \"DAD,\" while the brown rock in the lower part has the word \"MOM.\""
+    },
+    {
+        "second": 1,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Lv8aA2Fzhg8/output_frames/sec_1_idx_5.jpg",
+        "fps": 24,
+        "explanation": "[0-6] Then they both start to walk forward, reaching the edge of the cliff. The tall man representing \"DAD\" in the upper part directly carries a piece of wood and places it on the edge, forming a bridge. However, the tall man representing \"MOM\" in the lower part guides the smaller version behind him to carry the wood and place it on the edge, also forming a bridge. Eventually, both men successfully cross to the other side. After reaching the opposite bank, a fire burns on the grass in front of them."
+    },
+    {
+        "second": 2,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Lv8aA2Fzhg8/output_frames/sec_2_idx_1.jpg",
+        "fps": 24,
+        "explanation": "[0-6] Then they both start to walk forward, reaching the edge of the cliff. The tall man representing \"DAD\" in the upper part directly carries a piece of wood and places it on the edge, forming a bridge. However, the tall man representing \"MOM\" in the lower part guides the smaller version behind him to carry the wood and place it on the edge, also forming a bridge. Eventually, both men successfully cross to the other side. After reaching the opposite bank, a fire burns on the grass in front of them."
+    },
+    {
+        "second": 3,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Lv8aA2Fzhg8/output_frames/sec_3_idx_18.jpg",
+        "fps": 24,
+        "explanation": "[0-6] Then they both start to walk forward, reaching the edge of the cliff. The tall man representing \"DAD\" in the upper part directly carries a piece of wood and places it on the edge, forming a bridge. However, the tall man representing \"MOM\" in the lower part guides the smaller version behind him to carry the wood and place it on the edge, also forming a bridge. Eventually, both men successfully cross to the other side. After reaching the opposite bank, a fire burns on the grass in front of them."
+    },
+    {
+        "second": 4,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Lv8aA2Fzhg8/output_frames/sec_4_idx_12.jpg",
+        "fps": 24,
+        "explanation": "[0-6] Then they both start to walk forward, reaching the edge of the cliff. The tall man representing \"DAD\" in the upper part directly carries a piece of wood and places it on the edge, forming a bridge. However, the tall man representing \"MOM\" in the lower part guides the smaller version behind him to carry the wood and place it on the edge, also forming a bridge. Eventually, both men successfully cross to the other side. After reaching the opposite bank, a fire burns on the grass in front of them."
+    },
+    {
+        "second": 5,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Lv8aA2Fzhg8/output_frames/sec_5_idx_15.jpg",
+        "fps": 24,
+        "explanation": "[0-6] Then they both start to walk forward, reaching the edge of the cliff. The tall man representing \"DAD\" in the upper part directly carries a piece of wood and places it on the edge, forming a bridge. However, the tall man representing \"MOM\" in the lower part guides the smaller version behind him to carry the wood and place it on the edge, also forming a bridge. Eventually, both men successfully cross to the other side. After reaching the opposite bank, a fire burns on the grass in front of them."
+    },
+    {
+        "second": 6,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Lv8aA2Fzhg8/output_frames/sec_6_idx_8.jpg",
+        "fps": 24,
+        "explanation": "[0-6] Then they both start to walk forward, reaching the edge of the cliff. The tall man representing \"DAD\" in the upper part directly carries a piece of wood and places it on the edge, forming a bridge. However, the tall man representing \"MOM\" in the lower part guides the smaller version behind him to carry the wood and place it on the edge, also forming a bridge. Eventually, both men successfully cross to the other side. After reaching the opposite bank, a fire burns on the grass in front of them."
+    },
+    {
+        "second": 7,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Lv8aA2Fzhg8/output_frames/sec_7_idx_5.jpg",
+        "fps": 24,
+        "explanation": "[6-11] \"DAD\" picks up a blue bucket and pours water to extinguish the flames, while \"MOM\" still guides the smaller version behind him to pick up the blue bucket and extinguish the flames. The flames are extinguished, and they continue to move forward. At this time, the smaller version following behind in the upper part walks very slowly, widening the distance from the tall man in front."
+    },
+    {
+        "second": 8,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Lv8aA2Fzhg8/output_frames/sec_8_idx_9.jpg",
+        "fps": 24,
+        "explanation": "[6-11] \"DAD\" picks up a blue bucket and pours water to extinguish the flames, while \"MOM\" still guides the smaller version behind him to pick up the blue bucket and extinguish the flames. The flames are extinguished, and they continue to move forward. At this time, the smaller version following behind in the upper part walks very slowly, widening the distance from the tall man in front."
+    },
+    {
+        "second": 9,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Lv8aA2Fzhg8/output_frames/sec_9_idx_22.jpg",
+        "fps": 24,
+        "explanation": "[6-11] \"DAD\" picks up a blue bucket and pours water to extinguish the flames, while \"MOM\" still guides the smaller version behind him to pick up the blue bucket and extinguish the flames. The flames are extinguished, and they continue to move forward. At this time, the smaller version following behind in the upper part walks very slowly, widening the distance from the tall man in front."
+    },
+    {
+        "second": 10,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Lv8aA2Fzhg8/output_frames/sec_10_idx_23.jpg",
+        "fps": 24,
+        "explanation": "[6-11] \"DAD\" picks up a blue bucket and pours water to extinguish the flames, while \"MOM\" still guides the smaller version behind him to pick up the blue bucket and extinguish the flames. The flames are extinguished, and they continue to move forward. At this time, the smaller version following behind in the upper part walks very slowly, widening the distance from the tall man in front."
+    },
+    {
+        "second": 11,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Lv8aA2Fzhg8/output_frames/sec_11_idx_11.jpg",
+        "fps": 24,
+        "explanation": "[6-11] \"DAD\" picks up a blue bucket and pours water to extinguish the flames, while \"MOM\" still guides the smaller version behind him to pick up the blue bucket and extinguish the flames. The flames are extinguished, and they continue to move forward. At this time, the smaller version following behind in the upper part walks very slowly, widening the distance from the tall man in front."
+    },
+    {
+        "second": 12,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Lv8aA2Fzhg8/output_frames/sec_12_idx_22.jpg",
+        "fps": 24,
+        "explanation": "[11-19] Then, the smaller version in the upper part accelerates past the tall man, comes to the rock, and starts climbing. In the lower part, the smaller version follows the tall man to the rock and starts climbing under his guidance. The smaller version in the upper part has been under the protection of the tall man all the way and has not been exercised, so he ultimately fails to climb. The tall man covers his face with his right hand in frustration. However, the smaller version in the lower part has been guided by the tall man all the way and has been well-exercised. He finally climbs to the top and wins the trophy. The tall man is very excited to celebrate."
+    },
+    {
+        "second": 13,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Lv8aA2Fzhg8/output_frames/sec_13_idx_13.jpg",
+        "fps": 24,
+        "explanation": "[11-19] Then, the smaller version in the upper part accelerates past the tall man, comes to the rock, and starts climbing. In the lower part, the smaller version follows the tall man to the rock and starts climbing under his guidance. The smaller version in the upper part has been under the protection of the tall man all the way and has not been exercised, so he ultimately fails to climb. The tall man covers his face with his right hand in frustration. However, the smaller version in the lower part has been guided by the tall man all the way and has been well-exercised. He finally climbs to the top and wins the trophy. The tall man is very excited to celebrate."
+    },
+    {
+        "second": 14,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Lv8aA2Fzhg8/output_frames/sec_14_idx_20.jpg",
+        "fps": 24,
+        "explanation": "[11-19] Then, the smaller version in the upper part accelerates past the tall man, comes to the rock, and starts climbing. In the lower part, the smaller version follows the tall man to the rock and starts climbing under his guidance. The smaller version in the upper part has been under the protection of the tall man all the way and has not been exercised, so he ultimately fails to climb. The tall man covers his face with his right hand in frustration. However, the smaller version in the lower part has been guided by the tall man all the way and has been well-exercised. He finally climbs to the top and wins the trophy. The tall man is very excited to celebrate."
+    },
+    {
+        "second": 15,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Lv8aA2Fzhg8/output_frames/sec_15_idx_3.jpg",
+        "fps": 24,
+        "explanation": "[11-19] Then, the smaller version in the upper part accelerates past the tall man, comes to the rock, and starts climbing. In the lower part, the smaller version follows the tall man to the rock and starts climbing under his guidance. The smaller version in the upper part has been under the protection of the tall man all the way and has not been exercised, so he ultimately fails to climb. The tall man covers his face with his right hand in frustration. However, the smaller version in the lower part has been guided by the tall man all the way and has been well-exercised. He finally climbs to the top and wins the trophy. The tall man is very excited to celebrate."
+    },
+    {
+        "second": 16,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Lv8aA2Fzhg8/output_frames/sec_16_idx_6.jpg",
+        "fps": 24,
+        "explanation": "[11-19] Then, the smaller version in the upper part accelerates past the tall man, comes to the rock, and starts climbing. In the lower part, the smaller version follows the tall man to the rock and starts climbing under his guidance. The smaller version in the upper part has been under the protection of the tall man all the way and has not been exercised, so he ultimately fails to climb. The tall man covers his face with his right hand in frustration. However, the smaller version in the lower part has been guided by the tall man all the way and has been well-exercised. He finally climbs to the top and wins the trophy. The tall man is very excited to celebrate."
+    },
+    {
+        "second": 17,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Lv8aA2Fzhg8/output_frames/sec_17_idx_5.jpg",
+        "fps": 24,
+        "explanation": "[11-19] Then, the smaller version in the upper part accelerates past the tall man, comes to the rock, and starts climbing. In the lower part, the smaller version follows the tall man to the rock and starts climbing under his guidance. The smaller version in the upper part has been under the protection of the tall man all the way and has not been exercised, so he ultimately fails to climb. The tall man covers his face with his right hand in frustration. However, the smaller version in the lower part has been guided by the tall man all the way and has been well-exercised. He finally climbs to the top and wins the trophy. The tall man is very excited to celebrate."
+    },
+    {
+        "second": 18,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Lv8aA2Fzhg8/output_frames/sec_18_idx_14.jpg",
+        "fps": 24,
+        "explanation": "[11-19] Then, the smaller version in the upper part accelerates past the tall man, comes to the rock, and starts climbing. In the lower part, the smaller version follows the tall man to the rock and starts climbing under his guidance. The smaller version in the upper part has been under the protection of the tall man all the way and has not been exercised, so he ultimately fails to climb. The tall man covers his face with his right hand in frustration. However, the smaller version in the lower part has been guided by the tall man all the way and has been well-exercised. He finally climbs to the top and wins the trophy. The tall man is very excited to celebrate."
+    },
+    {
+        "second": 19,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Lv8aA2Fzhg8/output_frames/sec_19_idx_17.jpg",
+        "fps": 24,
+        "explanation": "[11-19] Then, the smaller version in the upper part accelerates past the tall man, comes to the rock, and starts climbing. In the lower part, the smaller version follows the tall man to the rock and starts climbing under his guidance. The smaller version in the upper part has been under the protection of the tall man all the way and has not been exercised, so he ultimately fails to climb. The tall man covers his face with his right hand in frustration. However, the smaller version in the lower part has been guided by the tall man all the way and has been well-exercised. He finally climbs to the top and wins the trophy. The tall man is very excited to celebrate."
+    }
+]

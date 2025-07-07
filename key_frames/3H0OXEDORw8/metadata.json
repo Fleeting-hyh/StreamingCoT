@@ -1,0 +1,51 @@
+[
+    {
+        "second": 0,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3H0OXEDORw8/output_frames/sec_0_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A man in a white shirt and black pants hangs from a stick placed on two stone pillars in the sea. There is a tiger on both the left and right pillars. The sea is filled with crocodiles, and smoke billows behind the pillars."
+    },
+    {
+        "second": 1,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3H0OXEDORw8/output_frames/sec_1_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-7] Subsequently, the man in the white shirt struggles while hanging from the stick between the pillars. The tigers on the pillars look towards the man, and the crocodiles in the sea swim towards him."
+    },
+    {
+        "second": 2,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3H0OXEDORw8/output_frames/sec_2_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[0-7] Subsequently, the man in the white shirt struggles while hanging from the stick between the pillars. The tigers on the pillars look towards the man, and the crocodiles in the sea swim towards him."
+    },
+    {
+        "second": 3,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3H0OXEDORw8/output_frames/sec_3_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[0-7] Subsequently, the man in the white shirt struggles while hanging from the stick between the pillars. The tigers on the pillars look towards the man, and the crocodiles in the sea swim towards him."
+    },
+    {
+        "second": 4,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3H0OXEDORw8/output_frames/sec_4_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-7] Subsequently, the man in the white shirt struggles while hanging from the stick between the pillars. The tigers on the pillars look towards the man, and the crocodiles in the sea swim towards him."
+    },
+    {
+        "second": 5,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3H0OXEDORw8/output_frames/sec_5_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[0-7] Subsequently, the man in the white shirt struggles while hanging from the stick between the pillars. The tigers on the pillars look towards the man, and the crocodiles in the sea swim towards him."
+    },
+    {
+        "second": 6,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3H0OXEDORw8/output_frames/sec_6_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-7] Subsequently, the man in the white shirt struggles while hanging from the stick between the pillars. The tigers on the pillars look towards the man, and the crocodiles in the sea swim towards him."
+    }
+]

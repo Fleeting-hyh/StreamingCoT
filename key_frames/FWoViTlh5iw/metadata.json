@@ -1,0 +1,128 @@
+[
+    {
+        "second": 0,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FWoViTlh5iw/output_frames/sec_0_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A man wearing a red shirt, blue pants, and headphones sits in front of a drum set looking at a laptop in front of him. He's holding a flute to his mouth with his right hand and a white hanger in his left hand. There are many items placed on the drums in front of him. On the black background behind him is a game screen of Fruit Ninja."
+    },
+    {
+        "second": 1,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FWoViTlh5iw/output_frames/sec_1_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Then the game starts, yellow and green subtitles appear on the screen indicating the start of the game, and the man puts the flute from his mouth onto the drum in front of him."
+    },
+    {
+        "second": 2,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FWoViTlh5iw/output_frames/sec_2_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Then the game starts, yellow and green subtitles appear on the screen indicating the start of the game, and the man puts the flute from his mouth onto the drum in front of him."
+    },
+    {
+        "second": 3,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FWoViTlh5iw/output_frames/sec_3_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[2-5] The man then flicks the hanger, after which a fruit appears in the game screen. The man uses his left hand to pick up an object from his side and hits the edge of the drum. Then the fruit in the picture is cut into two pieces and falls. The man puts down the object in his left hand."
+    },
+    {
+        "second": 4,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FWoViTlh5iw/output_frames/sec_4_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[2-5] The man then flicks the hanger, after which a fruit appears in the game screen. The man uses his left hand to pick up an object from his side and hits the edge of the drum. Then the fruit in the picture is cut into two pieces and falls. The man puts down the object in his left hand."
+    },
+    {
+        "second": 5,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FWoViTlh5iw/output_frames/sec_5_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[2-5] The man then flicks the hanger, after which a fruit appears in the game screen. The man uses his left hand to pick up an object from his side and hits the edge of the drum. Then the fruit in the picture is cut into two pieces and falls. The man puts down the object in his left hand."
+    },
+    {
+        "second": 6,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FWoViTlh5iw/output_frames/sec_6_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[5-8] Then the man waves the hanger in his hand again and lets it fall to the ground. We can see that the game screen shows a score of eight points, with the highest score being sixteen points. Then two fruits appear on the screen together, the man picks up the tape beside him, hits it on his right arm, and throws the tape on the ground. The fruits on the screen are immediately cut and fall."
+    },
+    {
+        "second": 7,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FWoViTlh5iw/output_frames/sec_7_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[5-8] Then the man waves the hanger in his hand again and lets it fall to the ground. We can see that the game screen shows a score of eight points, with the highest score being sixteen points. Then two fruits appear on the screen together, the man picks up the tape beside him, hits it on his right arm, and throws the tape on the ground. The fruits on the screen are immediately cut and fall."
+    },
+    {
+        "second": 8,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FWoViTlh5iw/output_frames/sec_8_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[5-8] Then the man waves the hanger in his hand again and lets it fall to the ground. We can see that the game screen shows a score of eight points, with the highest score being sixteen points. Then two fruits appear on the screen together, the man picks up the tape beside him, hits it on his right arm, and throws the tape on the ground. The fruits on the screen are immediately cut and fall."
+    },
+    {
+        "second": 9,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FWoViTlh5iw/output_frames/sec_9_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[8-12] Then the man picks up an object from his side and sweeps it across the drumhead while hitting the drumhead with his right fist. At this time, a black bomb appears on the screen. The man watches the bomb fall without moving."
+    },
+    {
+        "second": 10,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FWoViTlh5iw/output_frames/sec_10_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[8-12] Then the man picks up an object from his side and sweeps it across the drumhead while hitting the drumhead with his right fist. At this time, a black bomb appears on the screen. The man watches the bomb fall without moving."
+    },
+    {
+        "second": 11,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FWoViTlh5iw/output_frames/sec_11_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[8-12] Then the man picks up an object from his side and sweeps it across the drumhead while hitting the drumhead with his right fist. At this time, a black bomb appears on the screen. The man watches the bomb fall without moving."
+    },
+    {
+        "second": 12,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FWoViTlh5iw/output_frames/sec_12_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[8-12] Then the man picks up an object from his side and sweeps it across the drumhead while hitting the drumhead with his right fist. At this time, a black bomb appears on the screen. The man watches the bomb fall without moving."
+    },
+    {
+        "second": 13,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FWoViTlh5iw/output_frames/sec_13_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[12-17] Then the man hits the drumhead again, and a bomb and a fruit appear on the screen. The man picks up the object in his left hand and quickly sweeps it across the drumhead, staring at the computer screen. The fruit is cut open in the picture, and at the same time the bomb explodes with a white light. Then, when the picture turns white, he quickly hits the cymbal on the right with a hammer in his right hand. Finally, a red \"GAME OVER\" appears on the screen indicating the end of the game. The man looks at the screen, puts down the object in his hand, indicating that the dubbing is complete."
+    },
+    {
+        "second": 14,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FWoViTlh5iw/output_frames/sec_14_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[12-17] Then the man hits the drumhead again, and a bomb and a fruit appear on the screen. The man picks up the object in his left hand and quickly sweeps it across the drumhead, staring at the computer screen. The fruit is cut open in the picture, and at the same time the bomb explodes with a white light. Then, when the picture turns white, he quickly hits the cymbal on the right with a hammer in his right hand. Finally, a red \"GAME OVER\" appears on the screen indicating the end of the game. The man looks at the screen, puts down the object in his hand, indicating that the dubbing is complete."
+    },
+    {
+        "second": 15,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FWoViTlh5iw/output_frames/sec_15_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[12-17] Then the man hits the drumhead again, and a bomb and a fruit appear on the screen. The man picks up the object in his left hand and quickly sweeps it across the drumhead, staring at the computer screen. The fruit is cut open in the picture, and at the same time the bomb explodes with a white light. Then, when the picture turns white, he quickly hits the cymbal on the right with a hammer in his right hand. Finally, a red \"GAME OVER\" appears on the screen indicating the end of the game. The man looks at the screen, puts down the object in his hand, indicating that the dubbing is complete."
+    },
+    {
+        "second": 16,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FWoViTlh5iw/output_frames/sec_16_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[12-17] Then the man hits the drumhead again, and a bomb and a fruit appear on the screen. The man picks up the object in his left hand and quickly sweeps it across the drumhead, staring at the computer screen. The fruit is cut open in the picture, and at the same time the bomb explodes with a white light. Then, when the picture turns white, he quickly hits the cymbal on the right with a hammer in his right hand. Finally, a red \"GAME OVER\" appears on the screen indicating the end of the game. The man looks at the screen, puts down the object in his hand, indicating that the dubbing is complete."
+    },
+    {
+        "second": 17,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FWoViTlh5iw/output_frames/sec_17_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[12-17] Then the man hits the drumhead again, and a bomb and a fruit appear on the screen. The man picks up the object in his left hand and quickly sweeps it across the drumhead, staring at the computer screen. The fruit is cut open in the picture, and at the same time the bomb explodes with a white light. Then, when the picture turns white, he quickly hits the cymbal on the right with a hammer in his right hand. Finally, a red \"GAME OVER\" appears on the screen indicating the end of the game. The man looks at the screen, puts down the object in his hand, indicating that the dubbing is complete."
+    }
+]

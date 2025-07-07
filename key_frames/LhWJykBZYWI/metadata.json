@@ -1,0 +1,58 @@
+[
+    {
+        "second": 0,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LhWJykBZYWI/output_frames/sec_0_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[0-0] Two cartoon characters stand in a pixelated room with a gray floor. The character on the left is entirely green and holds a red and green marble. The male character on the right wears green clothes and holds a yellow and purple marble. Behind them is a blue wall with a door in the middle."
+    },
+    {
+        "second": 1,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LhWJykBZYWI/output_frames/sec_1_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Next, the male character throws his marble, which rolls a few times on the floor before stopping. There is a hole in front of the marble, and next to it is a yellow sign with a green downward arrow symbol. The scene changes, and the all-green cartoon character faces away from the male character, sticking out their tongue."
+    },
+    {
+        "second": 2,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LhWJykBZYWI/output_frames/sec_2_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Next, the male character throws his marble, which rolls a few times on the floor before stopping. There is a hole in front of the marble, and next to it is a yellow sign with a green downward arrow symbol. The scene changes, and the all-green cartoon character faces away from the male character, sticking out their tongue."
+    },
+    {
+        "second": 3,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LhWJykBZYWI/output_frames/sec_3_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[2-5] Immediately afterward, the male character lowers his head, and the all-green cartoon character throws their marble. The marble rolls forward, hitting the male character's marble, causing it to fall into the hole."
+    },
+    {
+        "second": 4,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LhWJykBZYWI/output_frames/sec_4_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[2-5] Immediately afterward, the male character lowers his head, and the all-green cartoon character throws their marble. The marble rolls forward, hitting the male character's marble, causing it to fall into the hole."
+    },
+    {
+        "second": 5,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LhWJykBZYWI/output_frames/sec_5_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[2-5] Immediately afterward, the male character lowers his head, and the all-green cartoon character throws their marble. The marble rolls forward, hitting the male character's marble, causing it to fall into the hole."
+    },
+    {
+        "second": 6,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LhWJykBZYWI/output_frames/sec_6_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[5-8] Finally, the scene changes again, and a cartoon character wearing a red mask and clothes appears next to the male character. The three characters stand in a row, looking surprised."
+    },
+    {
+        "second": 7,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LhWJykBZYWI/output_frames/sec_7_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[5-8] Finally, the scene changes again, and a cartoon character wearing a red mask and clothes appears next to the male character. The three characters stand in a row, looking surprised."
+    }
+]

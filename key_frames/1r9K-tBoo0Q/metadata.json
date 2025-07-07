@@ -1,0 +1,114 @@
+[
+    {
+        "second": 0,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1r9K-tBoo0Q/output_frames/sec_0_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[0-0] On a city road, red and black cars are parked, and a green Lamborghini is parked on the far left side of the road. Next to the green Lamborghini, a short-haired man in dark blue clothes is riding an electric scooter, which has an orange delivery box. On the far right side of the road, there are many trees planted, with buildings behind them. At the top of the screen, there is a white box with black text inside that reads: \"Can you do it Turing Rs12cr in busy road?\", with a question mark after the word \"it.\""
+    },
+    {
+        "second": 1,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1r9K-tBoo0Q/output_frames/sec_1_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[0-2] As the cars parked on the road drive forward along the road, the green Lamborghini on the left side of the road attempts to turn left at the intersection. There is a triangular sign and a utility pole next to the intersection. The short-haired man who was next to him before has already ridden his electric scooter and turned left at the intersection, disappearing from the screen. During this time, many people riding motorcycles pass by the green Lamborghini."
+    },
+    {
+        "second": 2,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1r9K-tBoo0Q/output_frames/sec_2_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[0-2] As the cars parked on the road drive forward along the road, the green Lamborghini on the left side of the road attempts to turn left at the intersection. There is a triangular sign and a utility pole next to the intersection. The short-haired man who was next to him before has already ridden his electric scooter and turned left at the intersection, disappearing from the screen. During this time, many people riding motorcycles pass by the green Lamborghini."
+    },
+    {
+        "second": 3,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1r9K-tBoo0Q/output_frames/sec_3_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[2-9] Then the green Lamborghini stops at the corner, and a red electric vehicle comes from the left side of the green Lamborghini. The camera moves to the left, and a brown SUV is driving straight ahead in front of the Lamborghini."
+    },
+    {
+        "second": 4,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1r9K-tBoo0Q/output_frames/sec_4_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[2-9] Then the green Lamborghini stops at the corner, and a red electric vehicle comes from the left side of the green Lamborghini. The camera moves to the left, and a brown SUV is driving straight ahead in front of the Lamborghini."
+    },
+    {
+        "second": 5,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1r9K-tBoo0Q/output_frames/sec_5_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[2-9] Then the green Lamborghini stops at the corner, and a red electric vehicle comes from the left side of the green Lamborghini. The camera moves to the left, and a brown SUV is driving straight ahead in front of the Lamborghini."
+    },
+    {
+        "second": 6,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1r9K-tBoo0Q/output_frames/sec_6_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[2-9] Then the green Lamborghini stops at the corner, and a red electric vehicle comes from the left side of the green Lamborghini. The camera moves to the left, and a brown SUV is driving straight ahead in front of the Lamborghini."
+    },
+    {
+        "second": 7,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1r9K-tBoo0Q/output_frames/sec_7_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[2-9] Then the green Lamborghini stops at the corner, and a red electric vehicle comes from the left side of the green Lamborghini. The camera moves to the left, and a brown SUV is driving straight ahead in front of the Lamborghini."
+    },
+    {
+        "second": 8,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1r9K-tBoo0Q/output_frames/sec_8_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[2-9] Then the green Lamborghini stops at the corner, and a red electric vehicle comes from the left side of the green Lamborghini. The camera moves to the left, and a brown SUV is driving straight ahead in front of the Lamborghini."
+    },
+    {
+        "second": 9,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1r9K-tBoo0Q/output_frames/sec_9_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[2-9] Then the green Lamborghini stops at the corner, and a red electric vehicle comes from the left side of the green Lamborghini. The camera moves to the left, and a brown SUV is driving straight ahead in front of the Lamborghini."
+    },
+    {
+        "second": 10,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1r9K-tBoo0Q/output_frames/sec_10_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[9-16] Finally, the camera moves to the left. After the green Lamborghini successfully turns and merges into the traffic, it continues to drive forward and disappears into the traffic."
+    },
+    {
+        "second": 11,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1r9K-tBoo0Q/output_frames/sec_11_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[9-16] Finally, the camera moves to the left. After the green Lamborghini successfully turns and merges into the traffic, it continues to drive forward and disappears into the traffic."
+    },
+    {
+        "second": 12,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1r9K-tBoo0Q/output_frames/sec_12_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[9-16] Finally, the camera moves to the left. After the green Lamborghini successfully turns and merges into the traffic, it continues to drive forward and disappears into the traffic."
+    },
+    {
+        "second": 13,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1r9K-tBoo0Q/output_frames/sec_13_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[9-16] Finally, the camera moves to the left. After the green Lamborghini successfully turns and merges into the traffic, it continues to drive forward and disappears into the traffic."
+    },
+    {
+        "second": 14,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1r9K-tBoo0Q/output_frames/sec_14_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[9-16] Finally, the camera moves to the left. After the green Lamborghini successfully turns and merges into the traffic, it continues to drive forward and disappears into the traffic."
+    },
+    {
+        "second": 15,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1r9K-tBoo0Q/output_frames/sec_15_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[9-16] Finally, the camera moves to the left. After the green Lamborghini successfully turns and merges into the traffic, it continues to drive forward and disappears into the traffic."
+    }
+]

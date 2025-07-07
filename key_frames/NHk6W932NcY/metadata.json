@@ -1,0 +1,191 @@
+[
+    {
+        "second": 0,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/NHk6W932NcY/output_frames/sec_0_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[0-0] In a carpeted room, a family is sitting on the floor. On the left, a man in a red short-sleeved shirt is looking at his phone with both hands. To his right sits a man in a gray and white striped short-sleeved shirt, looking down at a book. To the right of the man in the striped shirt sits a boy in a white vest, also looking down at a book. There are three white plates in front of them. On the right, a woman wearing a black headscarf sits with a bucket of cooking oil in front of her. To her left is a blue-flowered blanket on a white background, with pancakes on it. In the background, there is a closed wooden door and several cushions. The walls of the room are white."
+    },
+    {
+        "second": 1,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/NHk6W932NcY/output_frames/sec_1_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[0-5] First, the woman in the black headscarf takes a pancake in her left hand, lifts the oil bucket with her left hand, rubs the pancake on the oil bucket with her right hand, and places it on the plate in front of the boy in the white vest."
+    },
+    {
+        "second": 2,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/NHk6W932NcY/output_frames/sec_2_idx_24.jpg",
+        "fps": 30,
+        "explanation": "[0-5] First, the woman in the black headscarf takes a pancake in her left hand, lifts the oil bucket with her left hand, rubs the pancake on the oil bucket with her right hand, and places it on the plate in front of the boy in the white vest."
+    },
+    {
+        "second": 3,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/NHk6W932NcY/output_frames/sec_3_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[0-5] First, the woman in the black headscarf takes a pancake in her left hand, lifts the oil bucket with her left hand, rubs the pancake on the oil bucket with her right hand, and places it on the plate in front of the boy in the white vest."
+    },
+    {
+        "second": 4,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/NHk6W932NcY/output_frames/sec_4_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[0-5] First, the woman in the black headscarf takes a pancake in her left hand, lifts the oil bucket with her left hand, rubs the pancake on the oil bucket with her right hand, and places it on the plate in front of the boy in the white vest."
+    },
+    {
+        "second": 5,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/NHk6W932NcY/output_frames/sec_5_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[0-5] First, the woman in the black headscarf takes a pancake in her left hand, lifts the oil bucket with her left hand, rubs the pancake on the oil bucket with her right hand, and places it on the plate in front of the boy in the white vest."
+    },
+    {
+        "second": 6,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/NHk6W932NcY/output_frames/sec_6_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[5-11] Then, she picks up another pancake with her left hand. At this time, the boy in the white vest rolls up the pancake on his plate with both hands. The woman in the black headscarf lifts the oil bucket with her left hand, rubs the pancake on the oil bucket with her right hand, and then places the pancake on the plate in front of the man in the gray and white striped short sleeves. The boy in the white vest picks up the rolled pancake and takes a bite."
+    },
+    {
+        "second": 7,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/NHk6W932NcY/output_frames/sec_7_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[5-11] Then, she picks up another pancake with her left hand. At this time, the boy in the white vest rolls up the pancake on his plate with both hands. The woman in the black headscarf lifts the oil bucket with her left hand, rubs the pancake on the oil bucket with her right hand, and then places the pancake on the plate in front of the man in the gray and white striped short sleeves. The boy in the white vest picks up the rolled pancake and takes a bite."
+    },
+    {
+        "second": 8,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/NHk6W932NcY/output_frames/sec_8_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[5-11] Then, she picks up another pancake with her left hand. At this time, the boy in the white vest rolls up the pancake on his plate with both hands. The woman in the black headscarf lifts the oil bucket with her left hand, rubs the pancake on the oil bucket with her right hand, and then places the pancake on the plate in front of the man in the gray and white striped short sleeves. The boy in the white vest picks up the rolled pancake and takes a bite."
+    },
+    {
+        "second": 9,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/NHk6W932NcY/output_frames/sec_9_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[5-11] Then, she picks up another pancake with her left hand. At this time, the boy in the white vest rolls up the pancake on his plate with both hands. The woman in the black headscarf lifts the oil bucket with her left hand, rubs the pancake on the oil bucket with her right hand, and then places the pancake on the plate in front of the man in the gray and white striped short sleeves. The boy in the white vest picks up the rolled pancake and takes a bite."
+    },
+    {
+        "second": 10,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/NHk6W932NcY/output_frames/sec_10_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[5-11] Then, she picks up another pancake with her left hand. At this time, the boy in the white vest rolls up the pancake on his plate with both hands. The woman in the black headscarf lifts the oil bucket with her left hand, rubs the pancake on the oil bucket with her right hand, and then places the pancake on the plate in front of the man in the gray and white striped short sleeves. The boy in the white vest picks up the rolled pancake and takes a bite."
+    },
+    {
+        "second": 11,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/NHk6W932NcY/output_frames/sec_11_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[5-11] Then, she picks up another pancake with her left hand. At this time, the boy in the white vest rolls up the pancake on his plate with both hands. The woman in the black headscarf lifts the oil bucket with her left hand, rubs the pancake on the oil bucket with her right hand, and then places the pancake on the plate in front of the man in the gray and white striped short sleeves. The boy in the white vest picks up the rolled pancake and takes a bite."
+    },
+    {
+        "second": 12,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/NHk6W932NcY/output_frames/sec_12_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[11-21] Next, the woman in the black headscarf picks up a pancake with her left hand. At this time, the man in the gray and white striped short sleeves starts to roll up the pancake on his plate with both hands. The woman in the black headscarf lifts the oil bucket with her left hand and rubs the pancake on the oil bucket with her right hand. The man in the red short sleeves looks at the woman in the black headscarf and claps his hands in front of him. The man in the gray and white striped short sleeves rolls up the pancake, picks it up and takes a bite. The woman in the black headscarf puts the pancake on the plate in front of the man in the red short sleeves. The man in the red short sleeves rolls up the pancake on the plate with both hands, picks it up and takes a bite."
+    },
+    {
+        "second": 13,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/NHk6W932NcY/output_frames/sec_13_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[11-21] Next, the woman in the black headscarf picks up a pancake with her left hand. At this time, the man in the gray and white striped short sleeves starts to roll up the pancake on his plate with both hands. The woman in the black headscarf lifts the oil bucket with her left hand and rubs the pancake on the oil bucket with her right hand. The man in the red short sleeves looks at the woman in the black headscarf and claps his hands in front of him. The man in the gray and white striped short sleeves rolls up the pancake, picks it up and takes a bite. The woman in the black headscarf puts the pancake on the plate in front of the man in the red short sleeves. The man in the red short sleeves rolls up the pancake on the plate with both hands, picks it up and takes a bite."
+    },
+    {
+        "second": 14,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/NHk6W932NcY/output_frames/sec_14_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[11-21] Next, the woman in the black headscarf picks up a pancake with her left hand. At this time, the man in the gray and white striped short sleeves starts to roll up the pancake on his plate with both hands. The woman in the black headscarf lifts the oil bucket with her left hand and rubs the pancake on the oil bucket with her right hand. The man in the red short sleeves looks at the woman in the black headscarf and claps his hands in front of him. The man in the gray and white striped short sleeves rolls up the pancake, picks it up and takes a bite. The woman in the black headscarf puts the pancake on the plate in front of the man in the red short sleeves. The man in the red short sleeves rolls up the pancake on the plate with both hands, picks it up and takes a bite."
+    },
+    {
+        "second": 15,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/NHk6W932NcY/output_frames/sec_15_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[11-21] Next, the woman in the black headscarf picks up a pancake with her left hand. At this time, the man in the gray and white striped short sleeves starts to roll up the pancake on his plate with both hands. The woman in the black headscarf lifts the oil bucket with her left hand and rubs the pancake on the oil bucket with her right hand. The man in the red short sleeves looks at the woman in the black headscarf and claps his hands in front of him. The man in the gray and white striped short sleeves rolls up the pancake, picks it up and takes a bite. The woman in the black headscarf puts the pancake on the plate in front of the man in the red short sleeves. The man in the red short sleeves rolls up the pancake on the plate with both hands, picks it up and takes a bite."
+    },
+    {
+        "second": 16,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/NHk6W932NcY/output_frames/sec_16_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[11-21] Next, the woman in the black headscarf picks up a pancake with her left hand. At this time, the man in the gray and white striped short sleeves starts to roll up the pancake on his plate with both hands. The woman in the black headscarf lifts the oil bucket with her left hand and rubs the pancake on the oil bucket with her right hand. The man in the red short sleeves looks at the woman in the black headscarf and claps his hands in front of him. The man in the gray and white striped short sleeves rolls up the pancake, picks it up and takes a bite. The woman in the black headscarf puts the pancake on the plate in front of the man in the red short sleeves. The man in the red short sleeves rolls up the pancake on the plate with both hands, picks it up and takes a bite."
+    },
+    {
+        "second": 17,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/NHk6W932NcY/output_frames/sec_17_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[11-21] Next, the woman in the black headscarf picks up a pancake with her left hand. At this time, the man in the gray and white striped short sleeves starts to roll up the pancake on his plate with both hands. The woman in the black headscarf lifts the oil bucket with her left hand and rubs the pancake on the oil bucket with her right hand. The man in the red short sleeves looks at the woman in the black headscarf and claps his hands in front of him. The man in the gray and white striped short sleeves rolls up the pancake, picks it up and takes a bite. The woman in the black headscarf puts the pancake on the plate in front of the man in the red short sleeves. The man in the red short sleeves rolls up the pancake on the plate with both hands, picks it up and takes a bite."
+    },
+    {
+        "second": 18,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/NHk6W932NcY/output_frames/sec_18_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[11-21] Next, the woman in the black headscarf picks up a pancake with her left hand. At this time, the man in the gray and white striped short sleeves starts to roll up the pancake on his plate with both hands. The woman in the black headscarf lifts the oil bucket with her left hand and rubs the pancake on the oil bucket with her right hand. The man in the red short sleeves looks at the woman in the black headscarf and claps his hands in front of him. The man in the gray and white striped short sleeves rolls up the pancake, picks it up and takes a bite. The woman in the black headscarf puts the pancake on the plate in front of the man in the red short sleeves. The man in the red short sleeves rolls up the pancake on the plate with both hands, picks it up and takes a bite."
+    },
+    {
+        "second": 19,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/NHk6W932NcY/output_frames/sec_19_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[11-21] Next, the woman in the black headscarf picks up a pancake with her left hand. At this time, the man in the gray and white striped short sleeves starts to roll up the pancake on his plate with both hands. The woman in the black headscarf lifts the oil bucket with her left hand and rubs the pancake on the oil bucket with her right hand. The man in the red short sleeves looks at the woman in the black headscarf and claps his hands in front of him. The man in the gray and white striped short sleeves rolls up the pancake, picks it up and takes a bite. The woman in the black headscarf puts the pancake on the plate in front of the man in the red short sleeves. The man in the red short sleeves rolls up the pancake on the plate with both hands, picks it up and takes a bite."
+    },
+    {
+        "second": 20,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/NHk6W932NcY/output_frames/sec_20_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[11-21] Next, the woman in the black headscarf picks up a pancake with her left hand. At this time, the man in the gray and white striped short sleeves starts to roll up the pancake on his plate with both hands. The woman in the black headscarf lifts the oil bucket with her left hand and rubs the pancake on the oil bucket with her right hand. The man in the red short sleeves looks at the woman in the black headscarf and claps his hands in front of him. The man in the gray and white striped short sleeves rolls up the pancake, picks it up and takes a bite. The woman in the black headscarf puts the pancake on the plate in front of the man in the red short sleeves. The man in the red short sleeves rolls up the pancake on the plate with both hands, picks it up and takes a bite."
+    },
+    {
+        "second": 21,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/NHk6W932NcY/output_frames/sec_21_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[11-21] Next, the woman in the black headscarf picks up a pancake with her left hand. At this time, the man in the gray and white striped short sleeves starts to roll up the pancake on his plate with both hands. The woman in the black headscarf lifts the oil bucket with her left hand and rubs the pancake on the oil bucket with her right hand. The man in the red short sleeves looks at the woman in the black headscarf and claps his hands in front of him. The man in the gray and white striped short sleeves rolls up the pancake, picks it up and takes a bite. The woman in the black headscarf puts the pancake on the plate in front of the man in the red short sleeves. The man in the red short sleeves rolls up the pancake on the plate with both hands, picks it up and takes a bite."
+    },
+    {
+        "second": 22,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/NHk6W932NcY/output_frames/sec_22_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[21-26] Finally, the woman in the black headscarf wraps the cooking oil with the blue-flowered blanket on the white background and holds it on the left side of her body."
+    },
+    {
+        "second": 23,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/NHk6W932NcY/output_frames/sec_23_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[21-26] Finally, the woman in the black headscarf wraps the cooking oil with the blue-flowered blanket on the white background and holds it on the left side of her body."
+    },
+    {
+        "second": 24,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/NHk6W932NcY/output_frames/sec_24_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[21-26] Finally, the woman in the black headscarf wraps the cooking oil with the blue-flowered blanket on the white background and holds it on the left side of her body."
+    },
+    {
+        "second": 25,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/NHk6W932NcY/output_frames/sec_25_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[21-26] Finally, the woman in the black headscarf wraps the cooking oil with the blue-flowered blanket on the white background and holds it on the left side of her body."
+    },
+    {
+        "second": 26,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/NHk6W932NcY/output_frames/sec_26_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[21-26] Finally, the woman in the black headscarf wraps the cooking oil with the blue-flowered blanket on the white background and holds it on the left side of her body."
+    }
+]

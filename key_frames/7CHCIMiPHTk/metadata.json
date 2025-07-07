@@ -1,0 +1,121 @@
+[
+    {
+        "second": 0,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7CHCIMiPHTk/output_frames/sec_0_idx_10.jpg",
+        "fps": 60,
+        "explanation": "[0-0] In a dance studio, there are two people. The black-haired girl on the left is wearing a green top and skirt, while the long-haired boy on the right is wearing a blue top and colorful pants."
+    },
+    {
+        "second": 1,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7CHCIMiPHTk/output_frames/sec_1_idx_4.jpg",
+        "fps": 60,
+        "explanation": "[0-8] The two are dancing. The black-haired girl looks at the long-haired boy happily. The boy walks to the right, and the girl looks to the left and smiles."
+    },
+    {
+        "second": 2,
+        "frame_index": 54,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7CHCIMiPHTk/output_frames/sec_2_idx_54.jpg",
+        "fps": 60,
+        "explanation": "[0-8] The two are dancing. The black-haired girl looks at the long-haired boy happily. The boy walks to the right, and the girl looks to the left and smiles."
+    },
+    {
+        "second": 3,
+        "frame_index": 50,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7CHCIMiPHTk/output_frames/sec_3_idx_50.jpg",
+        "fps": 60,
+        "explanation": "[0-8] The two are dancing. The black-haired girl looks at the long-haired boy happily. The boy walks to the right, and the girl looks to the left and smiles."
+    },
+    {
+        "second": 4,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7CHCIMiPHTk/output_frames/sec_4_idx_5.jpg",
+        "fps": 60,
+        "explanation": "[0-8] The two are dancing. The black-haired girl looks at the long-haired boy happily. The boy walks to the right, and the girl looks to the left and smiles."
+    },
+    {
+        "second": 5,
+        "frame_index": 58,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7CHCIMiPHTk/output_frames/sec_5_idx_58.jpg",
+        "fps": 60,
+        "explanation": "[0-8] The two are dancing. The black-haired girl looks at the long-haired boy happily. The boy walks to the right, and the girl looks to the left and smiles."
+    },
+    {
+        "second": 6,
+        "frame_index": 49,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7CHCIMiPHTk/output_frames/sec_6_idx_49.jpg",
+        "fps": 60,
+        "explanation": "[0-8] The two are dancing. The black-haired girl looks at the long-haired boy happily. The boy walks to the right, and the girl looks to the left and smiles."
+    },
+    {
+        "second": 7,
+        "frame_index": 38,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7CHCIMiPHTk/output_frames/sec_7_idx_38.jpg",
+        "fps": 60,
+        "explanation": "[0-8] The two are dancing. The black-haired girl looks at the long-haired boy happily. The boy walks to the right, and the girl looks to the left and smiles."
+    },
+    {
+        "second": 8,
+        "frame_index": 59,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7CHCIMiPHTk/output_frames/sec_8_idx_59.jpg",
+        "fps": 60,
+        "explanation": "[0-8] The two are dancing. The black-haired girl looks at the long-haired boy happily. The boy walks to the right, and the girl looks to the left and smiles."
+    },
+    {
+        "second": 9,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7CHCIMiPHTk/output_frames/sec_9_idx_1.jpg",
+        "fps": 60,
+        "explanation": "[8-16] Then the video slows down. Three more people appear in the studio: a girl in blue and white clothes, a girl in a white top and blue pants, and a girl in a green top and blue skirt. The four girls stand behind the long-haired boy and cheer him on, shouting excitedly. The boy stands in front and performs a backflip."
+    },
+    {
+        "second": 10,
+        "frame_index": 32,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7CHCIMiPHTk/output_frames/sec_10_idx_32.jpg",
+        "fps": 60,
+        "explanation": "[8-16] Then the video slows down. Three more people appear in the studio: a girl in blue and white clothes, a girl in a white top and blue pants, and a girl in a green top and blue skirt. The four girls stand behind the long-haired boy and cheer him on, shouting excitedly. The boy stands in front and performs a backflip."
+    },
+    {
+        "second": 11,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7CHCIMiPHTk/output_frames/sec_11_idx_1.jpg",
+        "fps": 60,
+        "explanation": "[8-16] Then the video slows down. Three more people appear in the studio: a girl in blue and white clothes, a girl in a white top and blue pants, and a girl in a green top and blue skirt. The four girls stand behind the long-haired boy and cheer him on, shouting excitedly. The boy stands in front and performs a backflip."
+    },
+    {
+        "second": 12,
+        "frame_index": 45,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7CHCIMiPHTk/output_frames/sec_12_idx_45.jpg",
+        "fps": 60,
+        "explanation": "[8-16] Then the video slows down. Three more people appear in the studio: a girl in blue and white clothes, a girl in a white top and blue pants, and a girl in a green top and blue skirt. The four girls stand behind the long-haired boy and cheer him on, shouting excitedly. The boy stands in front and performs a backflip."
+    },
+    {
+        "second": 13,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7CHCIMiPHTk/output_frames/sec_13_idx_25.jpg",
+        "fps": 60,
+        "explanation": "[8-16] Then the video slows down. Three more people appear in the studio: a girl in blue and white clothes, a girl in a white top and blue pants, and a girl in a green top and blue skirt. The four girls stand behind the long-haired boy and cheer him on, shouting excitedly. The boy stands in front and performs a backflip."
+    },
+    {
+        "second": 14,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7CHCIMiPHTk/output_frames/sec_14_idx_16.jpg",
+        "fps": 60,
+        "explanation": "[8-16] Then the video slows down. Three more people appear in the studio: a girl in blue and white clothes, a girl in a white top and blue pants, and a girl in a green top and blue skirt. The four girls stand behind the long-haired boy and cheer him on, shouting excitedly. The boy stands in front and performs a backflip."
+    },
+    {
+        "second": 15,
+        "frame_index": 59,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7CHCIMiPHTk/output_frames/sec_15_idx_59.jpg",
+        "fps": 60,
+        "explanation": "[8-16] Then the video slows down. Three more people appear in the studio: a girl in blue and white clothes, a girl in a white top and blue pants, and a girl in a green top and blue skirt. The four girls stand behind the long-haired boy and cheer him on, shouting excitedly. The boy stands in front and performs a backflip."
+    },
+    {
+        "second": 16,
+        "frame_index": 54,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7CHCIMiPHTk/output_frames/sec_16_idx_54.jpg",
+        "fps": 60,
+        "explanation": "[8-16] Then the video slows down. Three more people appear in the studio: a girl in blue and white clothes, a girl in a white top and blue pants, and a girl in a green top and blue skirt. The four girls stand behind the long-haired boy and cheer him on, shouting excitedly. The boy stands in front and performs a backflip."
+    }
+]

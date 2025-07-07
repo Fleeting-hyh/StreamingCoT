@@ -1,0 +1,100 @@
+[
+    {
+        "second": 0,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SILr7OtZF6k/output_frames/sec_0_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[0-0] Against a blue background, a metallic blue trash can is located at the bottom of the screen, with a horizontally placed cylindrical object above it."
+    },
+    {
+        "second": 1,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SILr7OtZF6k/output_frames/sec_1_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[0-7] Next, a white square cartoon character with yellow hands raised appears in the picture, covering its mouth with an exaggerated expression. As the cylindrical object rotates forward, the white cartoon character falls from above. As the cylindrical object continues to rotate, the blue and red cartoon characters that appear subsequently open their mouths wide and fall from above with exaggerated expressions."
+    },
+    {
+        "second": 2,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SILr7OtZF6k/output_frames/sec_2_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-7] Next, a white square cartoon character with yellow hands raised appears in the picture, covering its mouth with an exaggerated expression. As the cylindrical object rotates forward, the white cartoon character falls from above. As the cylindrical object continues to rotate, the blue and red cartoon characters that appear subsequently open their mouths wide and fall from above with exaggerated expressions."
+    },
+    {
+        "second": 3,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SILr7OtZF6k/output_frames/sec_3_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[0-7] Next, a white square cartoon character with yellow hands raised appears in the picture, covering its mouth with an exaggerated expression. As the cylindrical object rotates forward, the white cartoon character falls from above. As the cylindrical object continues to rotate, the blue and red cartoon characters that appear subsequently open their mouths wide and fall from above with exaggerated expressions."
+    },
+    {
+        "second": 4,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SILr7OtZF6k/output_frames/sec_4_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[0-7] Next, a white square cartoon character with yellow hands raised appears in the picture, covering its mouth with an exaggerated expression. As the cylindrical object rotates forward, the white cartoon character falls from above. As the cylindrical object continues to rotate, the blue and red cartoon characters that appear subsequently open their mouths wide and fall from above with exaggerated expressions."
+    },
+    {
+        "second": 5,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SILr7OtZF6k/output_frames/sec_5_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[0-7] Next, a white square cartoon character with yellow hands raised appears in the picture, covering its mouth with an exaggerated expression. As the cylindrical object rotates forward, the white cartoon character falls from above. As the cylindrical object continues to rotate, the blue and red cartoon characters that appear subsequently open their mouths wide and fall from above with exaggerated expressions."
+    },
+    {
+        "second": 6,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SILr7OtZF6k/output_frames/sec_6_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[0-7] Next, a white square cartoon character with yellow hands raised appears in the picture, covering its mouth with an exaggerated expression. As the cylindrical object rotates forward, the white cartoon character falls from above. As the cylindrical object continues to rotate, the blue and red cartoon characters that appear subsequently open their mouths wide and fall from above with exaggerated expressions."
+    },
+    {
+        "second": 7,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SILr7OtZF6k/output_frames/sec_7_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[0-7] Next, a white square cartoon character with yellow hands raised appears in the picture, covering its mouth with an exaggerated expression. As the cylindrical object rotates forward, the white cartoon character falls from above. As the cylindrical object continues to rotate, the blue and red cartoon characters that appear subsequently open their mouths wide and fall from above with exaggerated expressions."
+    },
+    {
+        "second": 8,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SILr7OtZF6k/output_frames/sec_8_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[7-13] Then the scene changes, and the trash can gradually enlarges to occupy the entire screen. It has a conical opening at the bottom. At the same time, a toothbrush appears on the right side of the screen and is placed below the conical opening. The toothpaste in the bottle falls on the toothbrush, the toothbrush disappears from the right, and the scene switches back to the cylindrical object and the trash can."
+    },
+    {
+        "second": 9,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SILr7OtZF6k/output_frames/sec_9_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[7-13] Then the scene changes, and the trash can gradually enlarges to occupy the entire screen. It has a conical opening at the bottom. At the same time, a toothbrush appears on the right side of the screen and is placed below the conical opening. The toothpaste in the bottle falls on the toothbrush, the toothbrush disappears from the right, and the scene switches back to the cylindrical object and the trash can."
+    },
+    {
+        "second": 10,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SILr7OtZF6k/output_frames/sec_10_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[7-13] Then the scene changes, and the trash can gradually enlarges to occupy the entire screen. It has a conical opening at the bottom. At the same time, a toothbrush appears on the right side of the screen and is placed below the conical opening. The toothpaste in the bottle falls on the toothbrush, the toothbrush disappears from the right, and the scene switches back to the cylindrical object and the trash can."
+    },
+    {
+        "second": 11,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SILr7OtZF6k/output_frames/sec_11_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[7-13] Then the scene changes, and the trash can gradually enlarges to occupy the entire screen. It has a conical opening at the bottom. At the same time, a toothbrush appears on the right side of the screen and is placed below the conical opening. The toothpaste in the bottle falls on the toothbrush, the toothbrush disappears from the right, and the scene switches back to the cylindrical object and the trash can."
+    },
+    {
+        "second": 12,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SILr7OtZF6k/output_frames/sec_12_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[7-13] Then the scene changes, and the trash can gradually enlarges to occupy the entire screen. It has a conical opening at the bottom. At the same time, a toothbrush appears on the right side of the screen and is placed below the conical opening. The toothpaste in the bottle falls on the toothbrush, the toothbrush disappears from the right, and the scene switches back to the cylindrical object and the trash can."
+    },
+    {
+        "second": 13,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SILr7OtZF6k/output_frames/sec_13_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[7-13] Then the scene changes, and the trash can gradually enlarges to occupy the entire screen. It has a conical opening at the bottom. At the same time, a toothbrush appears on the right side of the screen and is placed below the conical opening. The toothpaste in the bottle falls on the toothbrush, the toothbrush disappears from the right, and the scene switches back to the cylindrical object and the trash can."
+    }
+]

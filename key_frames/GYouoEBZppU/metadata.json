@@ -1,0 +1,44 @@
+[
+    {
+        "second": 0,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GYouoEBZppU/output_frames/sec_0_idx_15.jpg",
+        "fps": 60,
+        "explanation": "[0-0] The image shows a bright room with brown wooden doors and brown floors, the walls are white."
+    },
+    {
+        "second": 1,
+        "frame_index": 56,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GYouoEBZppU/output_frames/sec_1_idx_56.jpg",
+        "fps": 60,
+        "explanation": "[0-5] A person wearing blue clothes and a blue hood opens the door and looks at the camera, then closes the door. Then a transparent person holding a pink doll appears from the left and comes to the door, immediately after which it turns into a person wearing a pink doll costume and bumps into the door, then falls to the ground, finally, the person in blue clothes pulls the person in pink clothes out the door and closes the door."
+    },
+    {
+        "second": 2,
+        "frame_index": 47,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GYouoEBZppU/output_frames/sec_2_idx_47.jpg",
+        "fps": 60,
+        "explanation": "[0-5] A person wearing blue clothes and a blue hood opens the door and looks at the camera, then closes the door. Then a transparent person holding a pink doll appears from the left and comes to the door, immediately after which it turns into a person wearing a pink doll costume and bumps into the door, then falls to the ground, finally, the person in blue clothes pulls the person in pink clothes out the door and closes the door."
+    },
+    {
+        "second": 3,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GYouoEBZppU/output_frames/sec_3_idx_12.jpg",
+        "fps": 60,
+        "explanation": "[0-5] A person wearing blue clothes and a blue hood opens the door and looks at the camera, then closes the door. Then a transparent person holding a pink doll appears from the left and comes to the door, immediately after which it turns into a person wearing a pink doll costume and bumps into the door, then falls to the ground, finally, the person in blue clothes pulls the person in pink clothes out the door and closes the door."
+    },
+    {
+        "second": 4,
+        "frame_index": 59,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GYouoEBZppU/output_frames/sec_4_idx_59.jpg",
+        "fps": 60,
+        "explanation": "[0-5] A person wearing blue clothes and a blue hood opens the door and looks at the camera, then closes the door. Then a transparent person holding a pink doll appears from the left and comes to the door, immediately after which it turns into a person wearing a pink doll costume and bumps into the door, then falls to the ground, finally, the person in blue clothes pulls the person in pink clothes out the door and closes the door."
+    },
+    {
+        "second": 5,
+        "frame_index": 33,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/GYouoEBZppU/output_frames/sec_5_idx_33.jpg",
+        "fps": 60,
+        "explanation": "[0-5] A person wearing blue clothes and a blue hood opens the door and looks at the camera, then closes the door. Then a transparent person holding a pink doll appears from the left and comes to the door, immediately after which it turns into a person wearing a pink doll costume and bumps into the door, then falls to the ground, finally, the person in blue clothes pulls the person in pink clothes out the door and closes the door."
+    }
+]

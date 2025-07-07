@@ -1,0 +1,37 @@
+[
+    {
+        "second": 0,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0hkH9FFXNmg/output_frames/sec_0_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-0] The video shows a silver latch installed on a wooden door. The latch is made of metal, with a triangular section in the latch containing a small, round hole."
+    },
+    {
+        "second": 1,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0hkH9FFXNmg/output_frames/sec_1_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Immediately afterward, the door is closed. The silver door bolt with a black rubber head on the door is close to the latch. The pushing force of the bolt closing the door lifts the triangle on the latch. Subsequently, when the bolt completely passes through the triangular part of the latch, the triangle drops from its raised position, completely blocking the bolt inside."
+    },
+    {
+        "second": 2,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0hkH9FFXNmg/output_frames/sec_2_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Immediately afterward, the door is closed. The silver door bolt with a black rubber head on the door is close to the latch. The pushing force of the bolt closing the door lifts the triangle on the latch. Subsequently, when the bolt completely passes through the triangular part of the latch, the triangle drops from its raised position, completely blocking the bolt inside."
+    },
+    {
+        "second": 3,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0hkH9FFXNmg/output_frames/sec_3_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Immediately afterward, the door is closed. The silver door bolt with a black rubber head on the door is close to the latch. The pushing force of the bolt closing the door lifts the triangle on the latch. Subsequently, when the bolt completely passes through the triangular part of the latch, the triangle drops from its raised position, completely blocking the bolt inside."
+    },
+    {
+        "second": 4,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/0hkH9FFXNmg/output_frames/sec_4_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Immediately afterward, the door is closed. The silver door bolt with a black rubber head on the door is close to the latch. The pushing force of the bolt closing the door lifts the triangle on the latch. Subsequently, when the bolt completely passes through the triangular part of the latch, the triangle drops from its raised position, completely blocking the bolt inside."
+    }
+]

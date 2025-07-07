@@ -1,0 +1,65 @@
+[
+    {
+        "second": 0,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8WauozQQZrU/output_frames/sec_0_idx_21.jpg",
+        "fps": 25,
+        "explanation": "[0-0] The screen is divided into three sections, with the top and bottom sections blacked out. The top section displays the words \"Show off\" in white letters on a yellow background, a yellow smiley face icon, and a band-aid icon. In the middle section, Mr. Bean is on the left, wearing a brown suit and a red tie. He sits on a lounge chair, with a piece of red cloth visible behind the chair. Mr. Bean turns his head to the right, his mouth slightly open, and his eyes rolled back. On the right sits a woman entirely wrapped in white bandages, with only her eyes and nose exposed. She wears a white floral jacket over the bandages, a silver neck support, and looks straight ahead."
+    },
+    {
+        "second": 1,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8WauozQQZrU/output_frames/sec_1_idx_18.jpg",
+        "fps": 25,
+        "explanation": "[0-2] Mr. Bean then turns his head to the left and rotates his neck clockwise twice. Afterward, he looks at the bandaged woman sitting next to him with a smile, his eyes returning to normal."
+    },
+    {
+        "second": 2,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8WauozQQZrU/output_frames/sec_2_idx_8.jpg",
+        "fps": 25,
+        "explanation": "[0-2] Mr. Bean then turns his head to the left and rotates his neck clockwise twice. Afterward, he looks at the bandaged woman sitting next to him with a smile, his eyes returning to normal."
+    },
+    {
+        "second": 3,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8WauozQQZrU/output_frames/sec_3_idx_24.jpg",
+        "fps": 25,
+        "explanation": "[2-4] The shot cuts to the bandaged woman, who stares straight ahead with wide eyes."
+    },
+    {
+        "second": 4,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8WauozQQZrU/output_frames/sec_4_idx_0.jpg",
+        "fps": 25,
+        "explanation": "[2-4] The shot cuts to the bandaged woman, who stares straight ahead with wide eyes."
+    },
+    {
+        "second": 5,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8WauozQQZrU/output_frames/sec_5_idx_24.jpg",
+        "fps": 25,
+        "explanation": "[4-8] The camera then zooms out as Mr. Bean raises his right hand in front of him, continuously rotating his wrist to showcase his right hand with an exaggerated expression. As the camera pans out, we see that the woman's left arm is bound in bandages, and her gaze remains fixed forward."
+    },
+    {
+        "second": 6,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8WauozQQZrU/output_frames/sec_6_idx_2.jpg",
+        "fps": 25,
+        "explanation": "[4-8] The camera then zooms out as Mr. Bean raises his right hand in front of him, continuously rotating his wrist to showcase his right hand with an exaggerated expression. As the camera pans out, we see that the woman's left arm is bound in bandages, and her gaze remains fixed forward."
+    },
+    {
+        "second": 7,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8WauozQQZrU/output_frames/sec_7_idx_3.jpg",
+        "fps": 25,
+        "explanation": "[4-8] The camera then zooms out as Mr. Bean raises his right hand in front of him, continuously rotating his wrist to showcase his right hand with an exaggerated expression. As the camera pans out, we see that the woman's left arm is bound in bandages, and her gaze remains fixed forward."
+    },
+    {
+        "second": 8,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8WauozQQZrU/output_frames/sec_8_idx_3.jpg",
+        "fps": 25,
+        "explanation": "[4-8] The camera then zooms out as Mr. Bean raises his right hand in front of him, continuously rotating his wrist to showcase his right hand with an exaggerated expression. As the camera pans out, we see that the woman's left arm is bound in bandages, and her gaze remains fixed forward."
+    }
+]

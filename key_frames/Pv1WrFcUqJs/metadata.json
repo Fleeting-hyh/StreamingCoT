@@ -1,0 +1,44 @@
+[
+    {
+        "second": 0,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Pv1WrFcUqJs/output_frames/sec_0_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A craftsman in a purple polo shirt sits at a workbench, working on a curved knife fixed in a vise. He is holding a tool in his hand."
+    },
+    {
+        "second": 1,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Pv1WrFcUqJs/output_frames/sec_1_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[0-6] The craftsman continues to sharpen the blade, and metal shavings fall from the blade and accumulate on the workbench. The craftsman is still carefully sharpening the blade, his movements are skillful and powerful."
+    },
+    {
+        "second": 2,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Pv1WrFcUqJs/output_frames/sec_2_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[0-6] The craftsman continues to sharpen the blade, and metal shavings fall from the blade and accumulate on the workbench. The craftsman is still carefully sharpening the blade, his movements are skillful and powerful."
+    },
+    {
+        "second": 3,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Pv1WrFcUqJs/output_frames/sec_3_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[0-6] The craftsman continues to sharpen the blade, and metal shavings fall from the blade and accumulate on the workbench. The craftsman is still carefully sharpening the blade, his movements are skillful and powerful."
+    },
+    {
+        "second": 4,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Pv1WrFcUqJs/output_frames/sec_4_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[0-6] The craftsman continues to sharpen the blade, and metal shavings fall from the blade and accumulate on the workbench. The craftsman is still carefully sharpening the blade, his movements are skillful and powerful."
+    },
+    {
+        "second": 5,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Pv1WrFcUqJs/output_frames/sec_5_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[0-6] The craftsman continues to sharpen the blade, and metal shavings fall from the blade and accumulate on the workbench. The craftsman is still carefully sharpening the blade, his movements are skillful and powerful."
+    }
+]

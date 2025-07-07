@@ -1,0 +1,51 @@
+[
+    {
+        "second": 0,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TtusiAwiqxM/output_frames/sec_0_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[0-0] In a narrow corridor with wooden flooring, a bald man wearing a vest and shorts stands with his back to us at one end of the corridor. His left hand rests on a button on the wall, and a purple figure stands at the other end of the corridor. There is a mural on the left wall with black text \"@FANTOMPro\" above it."
+    },
+    {
+        "second": 1,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TtusiAwiqxM/output_frames/sec_1_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[0-2] The man then presses the button with his left hand, turning off the lights in the corridor and plunging the room into darkness. The purple figure runs forward, and it can be identified as a purple rooster with bright feathers and a pointed beak. The man turns the lights back on, and the purple rooster immediately stops running. The man then turns the lights off again, and the purple rooster starts running forward again."
+    },
+    {
+        "second": 2,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TtusiAwiqxM/output_frames/sec_2_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[0-2] The man then presses the button with his left hand, turning off the lights in the corridor and plunging the room into darkness. The purple figure runs forward, and it can be identified as a purple rooster with bright feathers and a pointed beak. The man turns the lights back on, and the purple rooster immediately stops running. The man then turns the lights off again, and the purple rooster starts running forward again."
+    },
+    {
+        "second": 3,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TtusiAwiqxM/output_frames/sec_3_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[2-6] Immediately afterwards, the man turns the lights back on, instantly illuminating the room, and the purple rooster stops running again. The man then turns the lights off, and the purple rooster runs up to him and tries to peck at him. The man immediately raises his right foot and kicks the purple rooster away."
+    },
+    {
+        "second": 4,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TtusiAwiqxM/output_frames/sec_4_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[2-6] Immediately afterwards, the man turns the lights back on, instantly illuminating the room, and the purple rooster stops running again. The man then turns the lights off, and the purple rooster runs up to him and tries to peck at him. The man immediately raises his right foot and kicks the purple rooster away."
+    },
+    {
+        "second": 5,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TtusiAwiqxM/output_frames/sec_5_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[2-6] Immediately afterwards, the man turns the lights back on, instantly illuminating the room, and the purple rooster stops running again. The man then turns the lights off, and the purple rooster runs up to him and tries to peck at him. The man immediately raises his right foot and kicks the purple rooster away."
+    },
+    {
+        "second": 6,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TtusiAwiqxM/output_frames/sec_6_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[2-6] Immediately afterwards, the man turns the lights back on, instantly illuminating the room, and the purple rooster stops running again. The man then turns the lights off, and the purple rooster runs up to him and tries to peck at him. The man immediately raises his right foot and kicks the purple rooster away."
+    }
+]

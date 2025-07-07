@@ -1,0 +1,44 @@
+[
+    {
+        "second": 0,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SkH1JMnLFts/output_frames/sec_0_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-0] The image shows a man wearing a black jacket. He is wearing a blue hat with a white \"M\" logo on it. At the top of the image is black text, \"posting a meme online.\""
+    },
+    {
+        "second": 1,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SkH1JMnLFts/output_frames/sec_1_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-2] The man then runs through a city, glances back, and continues running."
+    },
+    {
+        "second": 2,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SkH1JMnLFts/output_frames/sec_2_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-2] The man then runs through a city, glances back, and continues running."
+    },
+    {
+        "second": 3,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SkH1JMnLFts/output_frames/sec_3_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[2-5] Then Mario appears in the frame and starts running through the city. The shot cuts back to the man in the blue hat, who cries out. The text above changes to \"people running to the comments to immediately type First.\""
+    },
+    {
+        "second": 4,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SkH1JMnLFts/output_frames/sec_4_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[2-5] Then Mario appears in the frame and starts running through the city. The shot cuts back to the man in the blue hat, who cries out. The text above changes to \"people running to the comments to immediately type First.\""
+    },
+    {
+        "second": 5,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SkH1JMnLFts/output_frames/sec_5_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[2-5] Then Mario appears in the frame and starts running through the city. The shot cuts back to the man in the blue hat, who cries out. The text above changes to \"people running to the comments to immediately type First.\""
+    }
+]

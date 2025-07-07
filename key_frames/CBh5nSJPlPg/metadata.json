@@ -1,0 +1,65 @@
+[
+    {
+        "second": 0,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CBh5nSJPlPg/output_frames/sec_0_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-0] In a paddy field, a humanoid robot is bending over, holding a shovel in its hand. The robot is grayish-white, with gray and reddish-brown parts. The background is some green trees and a part of the sky."
+    },
+    {
+        "second": 1,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CBh5nSJPlPg/output_frames/sec_1_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[0-8] Then the humanoid robot continues to dig a ditch, stepping on the shovel with its foot to scoop up the mud, and then repeats this action."
+    },
+    {
+        "second": 2,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CBh5nSJPlPg/output_frames/sec_2_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[0-8] Then the humanoid robot continues to dig a ditch, stepping on the shovel with its foot to scoop up the mud, and then repeats this action."
+    },
+    {
+        "second": 3,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CBh5nSJPlPg/output_frames/sec_3_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[0-8] Then the humanoid robot continues to dig a ditch, stepping on the shovel with its foot to scoop up the mud, and then repeats this action."
+    },
+    {
+        "second": 4,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CBh5nSJPlPg/output_frames/sec_4_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[0-8] Then the humanoid robot continues to dig a ditch, stepping on the shovel with its foot to scoop up the mud, and then repeats this action."
+    },
+    {
+        "second": 5,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CBh5nSJPlPg/output_frames/sec_5_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[0-8] Then the humanoid robot continues to dig a ditch, stepping on the shovel with its foot to scoop up the mud, and then repeats this action."
+    },
+    {
+        "second": 6,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CBh5nSJPlPg/output_frames/sec_6_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[0-8] Then the humanoid robot continues to dig a ditch, stepping on the shovel with its foot to scoop up the mud, and then repeats this action."
+    },
+    {
+        "second": 7,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CBh5nSJPlPg/output_frames/sec_7_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[0-8] Then the humanoid robot continues to dig a ditch, stepping on the shovel with its foot to scoop up the mud, and then repeats this action."
+    },
+    {
+        "second": 8,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CBh5nSJPlPg/output_frames/sec_8_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[0-8] Then the humanoid robot continues to dig a ditch, stepping on the shovel with its foot to scoop up the mud, and then repeats this action."
+    }
+]

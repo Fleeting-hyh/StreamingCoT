@@ -1,0 +1,72 @@
+[
+    {
+        "second": 0,
+        "frame_index": 38,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RsvvwuXBUv0/output_frames/sec_0_idx_38.jpg",
+        "fps": 50,
+        "explanation": "[0-0] A little boy in a blue T-shirt and orange shorts is standing by the open door of a car, with a group of fluffy yellow ducklings scattered around the back seat."
+    },
+    {
+        "second": 1,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RsvvwuXBUv0/output_frames/sec_1_idx_27.jpg",
+        "fps": 50,
+        "explanation": "[0-3] Subsequently, the little boy sits in the back seat of the car and closes the door, surrounded by a group of yellow ducklings. The scene then switches to a little boy and a little girl in the car, looking surprised at something in front of them. The boy is wearing a yellow hat, a red top, and blue pants, while the girl is wearing a red long-sleeved shirt and a blue skirt."
+    },
+    {
+        "second": 2,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RsvvwuXBUv0/output_frames/sec_2_idx_8.jpg",
+        "fps": 50,
+        "explanation": "[0-3] Subsequently, the little boy sits in the back seat of the car and closes the door, surrounded by a group of yellow ducklings. The scene then switches to a little boy and a little girl in the car, looking surprised at something in front of them. The boy is wearing a yellow hat, a red top, and blue pants, while the girl is wearing a red long-sleeved shirt and a blue skirt."
+    },
+    {
+        "second": 3,
+        "frame_index": 38,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RsvvwuXBUv0/output_frames/sec_3_idx_38.jpg",
+        "fps": 50,
+        "explanation": "[0-3] Subsequently, the little boy sits in the back seat of the car and closes the door, surrounded by a group of yellow ducklings. The scene then switches to a little boy and a little girl in the car, looking surprised at something in front of them. The boy is wearing a yellow hat, a red top, and blue pants, while the girl is wearing a red long-sleeved shirt and a blue skirt."
+    },
+    {
+        "second": 4,
+        "frame_index": 48,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RsvvwuXBUv0/output_frames/sec_4_idx_48.jpg",
+        "fps": 50,
+        "explanation": "[3-10] Then the scene changes again, and the boy in the blue T-shirt is walking down a road followed by a line of yellow ducklings, with green grass and palm trees beside them. The picture returns to the car, where the boy and girl in red are looking ahead. The scene switches again, and the boy in blue continues to lead the ducks forward. Finally, it returns to the car, where the boy and girl in red give a thumbs-up, and the girl makes a heart gesture with her hands."
+    },
+    {
+        "second": 5,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RsvvwuXBUv0/output_frames/sec_5_idx_11.jpg",
+        "fps": 50,
+        "explanation": "[3-10] Then the scene changes again, and the boy in the blue T-shirt is walking down a road followed by a line of yellow ducklings, with green grass and palm trees beside them. The picture returns to the car, where the boy and girl in red are looking ahead. The scene switches again, and the boy in blue continues to lead the ducks forward. Finally, it returns to the car, where the boy and girl in red give a thumbs-up, and the girl makes a heart gesture with her hands."
+    },
+    {
+        "second": 6,
+        "frame_index": 44,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RsvvwuXBUv0/output_frames/sec_6_idx_44.jpg",
+        "fps": 50,
+        "explanation": "[3-10] Then the scene changes again, and the boy in the blue T-shirt is walking down a road followed by a line of yellow ducklings, with green grass and palm trees beside them. The picture returns to the car, where the boy and girl in red are looking ahead. The scene switches again, and the boy in blue continues to lead the ducks forward. Finally, it returns to the car, where the boy and girl in red give a thumbs-up, and the girl makes a heart gesture with her hands."
+    },
+    {
+        "second": 7,
+        "frame_index": 42,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RsvvwuXBUv0/output_frames/sec_7_idx_42.jpg",
+        "fps": 50,
+        "explanation": "[3-10] Then the scene changes again, and the boy in the blue T-shirt is walking down a road followed by a line of yellow ducklings, with green grass and palm trees beside them. The picture returns to the car, where the boy and girl in red are looking ahead. The scene switches again, and the boy in blue continues to lead the ducks forward. Finally, it returns to the car, where the boy and girl in red give a thumbs-up, and the girl makes a heart gesture with her hands."
+    },
+    {
+        "second": 8,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RsvvwuXBUv0/output_frames/sec_8_idx_2.jpg",
+        "fps": 50,
+        "explanation": "[3-10] Then the scene changes again, and the boy in the blue T-shirt is walking down a road followed by a line of yellow ducklings, with green grass and palm trees beside them. The picture returns to the car, where the boy and girl in red are looking ahead. The scene switches again, and the boy in blue continues to lead the ducks forward. Finally, it returns to the car, where the boy and girl in red give a thumbs-up, and the girl makes a heart gesture with her hands."
+    },
+    {
+        "second": 9,
+        "frame_index": 32,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RsvvwuXBUv0/output_frames/sec_9_idx_32.jpg",
+        "fps": 50,
+        "explanation": "[3-10] Then the scene changes again, and the boy in the blue T-shirt is walking down a road followed by a line of yellow ducklings, with green grass and palm trees beside them. The picture returns to the car, where the boy and girl in red are looking ahead. The scene switches again, and the boy in blue continues to lead the ducks forward. Finally, it returns to the car, where the boy and girl in red give a thumbs-up, and the girl makes a heart gesture with her hands."
+    }
+]

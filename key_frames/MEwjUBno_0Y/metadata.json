@@ -1,0 +1,86 @@
+[
+    {
+        "second": 0,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MEwjUBno_0Y/output_frames/sec_0_idx_7.jpg",
+        "fps": 25,
+        "explanation": "[0-0] This is a split-screen shot. The lower part of the screen shows an industrial press with a brown metal cylinder at the top and a silver metal columnar structure at the bottom. A stack of paper is placed between the two metal cylinders. The upper part of the screen shows a green electronic display with a gray background, indicating that the current pressure is 0 kg."
+    },
+    {
+        "second": 1,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MEwjUBno_0Y/output_frames/sec_1_idx_6.jpg",
+        "fps": 25,
+        "explanation": "[0-2] Next, in the lower part of the screen, the brown cylinder at the top of the press starts to descend, making contact with the paper. The green electronic display in the upper part of the screen still shows that the current pressure is 0 kg."
+    },
+    {
+        "second": 2,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MEwjUBno_0Y/output_frames/sec_2_idx_13.jpg",
+        "fps": 25,
+        "explanation": "[0-2] Next, in the lower part of the screen, the brown cylinder at the top of the press starts to descend, making contact with the paper. The green electronic display in the upper part of the screen still shows that the current pressure is 0 kg."
+    },
+    {
+        "second": 3,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MEwjUBno_0Y/output_frames/sec_3_idx_17.jpg",
+        "fps": 25,
+        "explanation": "[2-6] Immediately afterwards, the press in the lower part of the screen starts to apply pressure to the paper. As the numbers on the green electronic display increase rapidly, the sides of the paper begin to bend and deform, and small cracks appear in the middle of the paper. These cracks multiply as the pressure increases."
+    },
+    {
+        "second": 4,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MEwjUBno_0Y/output_frames/sec_4_idx_2.jpg",
+        "fps": 25,
+        "explanation": "[2-6] Immediately afterwards, the press in the lower part of the screen starts to apply pressure to the paper. As the numbers on the green electronic display increase rapidly, the sides of the paper begin to bend and deform, and small cracks appear in the middle of the paper. These cracks multiply as the pressure increases."
+    },
+    {
+        "second": 5,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MEwjUBno_0Y/output_frames/sec_5_idx_7.jpg",
+        "fps": 25,
+        "explanation": "[2-6] Immediately afterwards, the press in the lower part of the screen starts to apply pressure to the paper. As the numbers on the green electronic display increase rapidly, the sides of the paper begin to bend and deform, and small cracks appear in the middle of the paper. These cracks multiply as the pressure increases."
+    },
+    {
+        "second": 6,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MEwjUBno_0Y/output_frames/sec_6_idx_21.jpg",
+        "fps": 25,
+        "explanation": "[2-6] Immediately afterwards, the press in the lower part of the screen starts to apply pressure to the paper. As the numbers on the green electronic display increase rapidly, the sides of the paper begin to bend and deform, and small cracks appear in the middle of the paper. These cracks multiply as the pressure increases."
+    },
+    {
+        "second": 7,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MEwjUBno_0Y/output_frames/sec_7_idx_1.jpg",
+        "fps": 25,
+        "explanation": "[6-11] Subsequently, the press in the lower part of the screen continues to apply pressure, and the numbers on the green display in the upper part of the screen increase rapidly. When the pressure exceeds 108 tons, the paper is instantly crushed, and the fragments splatter in all directions. The electronic display at the top of the screen disappears."
+    },
+    {
+        "second": 8,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MEwjUBno_0Y/output_frames/sec_8_idx_2.jpg",
+        "fps": 25,
+        "explanation": "[6-11] Subsequently, the press in the lower part of the screen continues to apply pressure, and the numbers on the green display in the upper part of the screen increase rapidly. When the pressure exceeds 108 tons, the paper is instantly crushed, and the fragments splatter in all directions. The electronic display at the top of the screen disappears."
+    },
+    {
+        "second": 9,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MEwjUBno_0Y/output_frames/sec_9_idx_12.jpg",
+        "fps": 25,
+        "explanation": "[6-11] Subsequently, the press in the lower part of the screen continues to apply pressure, and the numbers on the green display in the upper part of the screen increase rapidly. When the pressure exceeds 108 tons, the paper is instantly crushed, and the fragments splatter in all directions. The electronic display at the top of the screen disappears."
+    },
+    {
+        "second": 10,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MEwjUBno_0Y/output_frames/sec_10_idx_2.jpg",
+        "fps": 25,
+        "explanation": "[6-11] Subsequently, the press in the lower part of the screen continues to apply pressure, and the numbers on the green display in the upper part of the screen increase rapidly. When the pressure exceeds 108 tons, the paper is instantly crushed, and the fragments splatter in all directions. The electronic display at the top of the screen disappears."
+    },
+    {
+        "second": 11,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MEwjUBno_0Y/output_frames/sec_11_idx_14.jpg",
+        "fps": 25,
+        "explanation": "[6-11] Subsequently, the press in the lower part of the screen continues to apply pressure, and the numbers on the green display in the upper part of the screen increase rapidly. When the pressure exceeds 108 tons, the paper is instantly crushed, and the fragments splatter in all directions. The electronic display at the top of the screen disappears."
+    }
+]

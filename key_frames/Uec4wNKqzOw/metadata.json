@@ -1,0 +1,79 @@
+[
+    {
+        "second": 0,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Uec4wNKqzOw/output_frames/sec_0_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A woman in a pink swimsuit sits on the edge of a giant white toilet filled with green water. The walls are white, the floor is gray-brown wood, and there are white pipes on the floor."
+    },
+    {
+        "second": 1,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Uec4wNKqzOw/output_frames/sec_1_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Then, the woman pants heavily and moves her body up and down, accidentally slipping into the water, her feet moving at the surface."
+    },
+    {
+        "second": 2,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Uec4wNKqzOw/output_frames/sec_2_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Then, the woman pants heavily and moves her body up and down, accidentally slipping into the water, her feet moving at the surface."
+    },
+    {
+        "second": 3,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Uec4wNKqzOw/output_frames/sec_3_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Then, the woman pants heavily and moves her body up and down, accidentally slipping into the water, her feet moving at the surface."
+    },
+    {
+        "second": 4,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Uec4wNKqzOw/output_frames/sec_4_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Then, the woman pants heavily and moves her body up and down, accidentally slipping into the water, her feet moving at the surface."
+    },
+    {
+        "second": 5,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Uec4wNKqzOw/output_frames/sec_5_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Then, the woman pants heavily and moves her body up and down, accidentally slipping into the water, her feet moving at the surface."
+    },
+    {
+        "second": 6,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Uec4wNKqzOw/output_frames/sec_6_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[5-10] Then the woman gradually emerges from the water, her hair wet, a smile on her face, and her arms open."
+    },
+    {
+        "second": 7,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Uec4wNKqzOw/output_frames/sec_7_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[5-10] Then the woman gradually emerges from the water, her hair wet, a smile on her face, and her arms open."
+    },
+    {
+        "second": 8,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Uec4wNKqzOw/output_frames/sec_8_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[5-10] Then the woman gradually emerges from the water, her hair wet, a smile on her face, and her arms open."
+    },
+    {
+        "second": 9,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Uec4wNKqzOw/output_frames/sec_9_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[5-10] Then the woman gradually emerges from the water, her hair wet, a smile on her face, and her arms open."
+    },
+    {
+        "second": 10,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Uec4wNKqzOw/output_frames/sec_10_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[5-10] Then the woman gradually emerges from the water, her hair wet, a smile on her face, and her arms open."
+    }
+]

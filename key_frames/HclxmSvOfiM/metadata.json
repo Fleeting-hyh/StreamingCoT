@@ -1,0 +1,65 @@
+[
+    {
+        "second": 0,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HclxmSvOfiM/output_frames/sec_0_idx_2.jpg",
+        "fps": 60,
+        "explanation": "[0-0] A man wearing a blonde wig is standing outdoors next to a green trash can. He is wearing a red sweatshirt, blue sweatpants, and white shoes, with his right hand reaching into the trash can. Behind him is a grassy area with a few trees in the distance."
+    },
+    {
+        "second": 1,
+        "frame_index": 59,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HclxmSvOfiM/output_frames/sec_1_idx_59.jpg",
+        "fps": 60,
+        "explanation": "[0-2] The man then pulls out a slim beverage bottle from the trash can. The bottle contains an orange liquid. The man opens his mouth and looks at the camera."
+    },
+    {
+        "second": 2,
+        "frame_index": 54,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HclxmSvOfiM/output_frames/sec_2_idx_54.jpg",
+        "fps": 60,
+        "explanation": "[0-2] The man then pulls out a slim beverage bottle from the trash can. The bottle contains an orange liquid. The man opens his mouth and looks at the camera."
+    },
+    {
+        "second": 3,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HclxmSvOfiM/output_frames/sec_3_idx_2.jpg",
+        "fps": 60,
+        "explanation": "[2-5] Immediately afterward, the camera pans to the left, revealing a man with a purple wig and a white jumpsuit. He is holding a green beverage bottle, speaking to the camera, then tosses the bottle in the air and opens the cap with one hand."
+    },
+    {
+        "second": 4,
+        "frame_index": 53,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HclxmSvOfiM/output_frames/sec_4_idx_53.jpg",
+        "fps": 60,
+        "explanation": "[2-5] Immediately afterward, the camera pans to the left, revealing a man with a purple wig and a white jumpsuit. He is holding a green beverage bottle, speaking to the camera, then tosses the bottle in the air and opens the cap with one hand."
+    },
+    {
+        "second": 5,
+        "frame_index": 31,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HclxmSvOfiM/output_frames/sec_5_idx_31.jpg",
+        "fps": 60,
+        "explanation": "[2-5] Immediately afterward, the camera pans to the left, revealing a man with a purple wig and a white jumpsuit. He is holding a green beverage bottle, speaking to the camera, then tosses the bottle in the air and opens the cap with one hand."
+    },
+    {
+        "second": 6,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HclxmSvOfiM/output_frames/sec_6_idx_5.jpg",
+        "fps": 60,
+        "explanation": "[5-8] Finally, the man with the purple wig puts the green beverage bottle to his mouth, then lowers it and sways his body with a smile, while the man in red watches him."
+    },
+    {
+        "second": 7,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HclxmSvOfiM/output_frames/sec_7_idx_7.jpg",
+        "fps": 60,
+        "explanation": "[5-8] Finally, the man with the purple wig puts the green beverage bottle to his mouth, then lowers it and sways his body with a smile, while the man in red watches him."
+    },
+    {
+        "second": 8,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HclxmSvOfiM/output_frames/sec_8_idx_6.jpg",
+        "fps": 60,
+        "explanation": "[5-8] Finally, the man with the purple wig puts the green beverage bottle to his mouth, then lowers it and sways his body with a smile, while the man in red watches him."
+    }
+]

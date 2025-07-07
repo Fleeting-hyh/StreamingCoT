@@ -1,0 +1,79 @@
+[
+    {
+        "second": 0,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SUTt7NOJUz0/output_frames/sec_0_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A large pack of African wild dogs and a large vulture are on a small hillside. The vulture has black feathers with white feathers on its head and neck. The hillside has some scattered green grass and dry branches, and the sky is gray."
+    },
+    {
+        "second": 1,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SUTt7NOJUz0/output_frames/sec_1_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-3] The wild dogs and the vulture are confronting each other. The vulture spreads its wings and the wild dogs are frightened and flee, kicking up dust. The vulture then folds its wings and continues to stand in place."
+    },
+    {
+        "second": 2,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SUTt7NOJUz0/output_frames/sec_2_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[0-3] The wild dogs and the vulture are confronting each other. The vulture spreads its wings and the wild dogs are frightened and flee, kicking up dust. The vulture then folds its wings and continues to stand in place."
+    },
+    {
+        "second": 3,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SUTt7NOJUz0/output_frames/sec_3_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[0-3] The wild dogs and the vulture are confronting each other. The vulture spreads its wings and the wild dogs are frightened and flee, kicking up dust. The vulture then folds its wings and continues to stand in place."
+    },
+    {
+        "second": 4,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SUTt7NOJUz0/output_frames/sec_4_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[3-10] Then, the wild dogs slowly approach the vulture again and begin a new round of confrontation. The vulture slightly flaps its wings and takes two steps back, and the wild dogs move closer again."
+    },
+    {
+        "second": 5,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SUTt7NOJUz0/output_frames/sec_5_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[3-10] Then, the wild dogs slowly approach the vulture again and begin a new round of confrontation. The vulture slightly flaps its wings and takes two steps back, and the wild dogs move closer again."
+    },
+    {
+        "second": 6,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SUTt7NOJUz0/output_frames/sec_6_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[3-10] Then, the wild dogs slowly approach the vulture again and begin a new round of confrontation. The vulture slightly flaps its wings and takes two steps back, and the wild dogs move closer again."
+    },
+    {
+        "second": 7,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SUTt7NOJUz0/output_frames/sec_7_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[3-10] Then, the wild dogs slowly approach the vulture again and begin a new round of confrontation. The vulture slightly flaps its wings and takes two steps back, and the wild dogs move closer again."
+    },
+    {
+        "second": 8,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SUTt7NOJUz0/output_frames/sec_8_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[3-10] Then, the wild dogs slowly approach the vulture again and begin a new round of confrontation. The vulture slightly flaps its wings and takes two steps back, and the wild dogs move closer again."
+    },
+    {
+        "second": 9,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SUTt7NOJUz0/output_frames/sec_9_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[3-10] Then, the wild dogs slowly approach the vulture again and begin a new round of confrontation. The vulture slightly flaps its wings and takes two steps back, and the wild dogs move closer again."
+    },
+    {
+        "second": 10,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SUTt7NOJUz0/output_frames/sec_10_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[3-10] Then, the wild dogs slowly approach the vulture again and begin a new round of confrontation. The vulture slightly flaps its wings and takes two steps back, and the wild dogs move closer again."
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "second": 0,
+        "frame_index": 36,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Cwc4lSZ78qo/output_frames/sec_0_idx_36.jpg",
+        "fps": 59,
+        "explanation": "[0-0] A long-haired woman in a blue inflatable suit is lying on a gray sofa, holding a black remote control in her right hand. The suit has a red ball on it, inside which are a man in yellow clothes and a person in a blue inflatable suit. On the brick wall behind them, there is a purple painting."
+    },
+    {
+        "second": 1,
+        "frame_index": 33,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Cwc4lSZ78qo/output_frames/sec_1_idx_33.jpg",
+        "fps": 59,
+        "explanation": "[0-3] Then, the long-haired woman in the blue inflatable suit puts down her right hand holding the remote control and speaks. Following that, the man in yellow inside the red ball opens his mouth wide and speaks, and then the person in the blue inflatable suit inside the red ball opens their mouth wide and speaks."
+    },
+    {
+        "second": 2,
+        "frame_index": 55,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Cwc4lSZ78qo/output_frames/sec_2_idx_55.jpg",
+        "fps": 59,
+        "explanation": "[0-3] Then, the long-haired woman in the blue inflatable suit puts down her right hand holding the remote control and speaks. Following that, the man in yellow inside the red ball opens his mouth wide and speaks, and then the person in the blue inflatable suit inside the red ball opens their mouth wide and speaks."
+    },
+    {
+        "second": 3,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Cwc4lSZ78qo/output_frames/sec_3_idx_15.jpg",
+        "fps": 59,
+        "explanation": "[0-3] Then, the long-haired woman in the blue inflatable suit puts down her right hand holding the remote control and speaks. Following that, the man in yellow inside the red ball opens his mouth wide and speaks, and then the person in the blue inflatable suit inside the red ball opens their mouth wide and speaks."
+    },
+    {
+        "second": 4,
+        "frame_index": 49,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Cwc4lSZ78qo/output_frames/sec_4_idx_49.jpg",
+        "fps": 59,
+        "explanation": "[3-6] Immediately after, the man in yellow inside the red ball opens his mouth wide to speak, then falls downward. Subsequently, the long-haired woman in the blue inflatable suit sits up from the gray sofa and points forward with her left hand, her mouth wide open. Immediately afterward, the scene changes to the man in yellow lying on a gray carpet with his mouth wide open."
+    },
+    {
+        "second": 5,
+        "frame_index": 45,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Cwc4lSZ78qo/output_frames/sec_5_idx_45.jpg",
+        "fps": 59,
+        "explanation": "[3-6] Immediately after, the man in yellow inside the red ball opens his mouth wide to speak, then falls downward. Subsequently, the long-haired woman in the blue inflatable suit sits up from the gray sofa and points forward with her left hand, her mouth wide open. Immediately afterward, the scene changes to the man in yellow lying on a gray carpet with his mouth wide open."
+    },
+    {
+        "second": 6,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Cwc4lSZ78qo/output_frames/sec_6_idx_3.jpg",
+        "fps": 59,
+        "explanation": "[3-6] Immediately after, the man in yellow inside the red ball opens his mouth wide to speak, then falls downward. Subsequently, the long-haired woman in the blue inflatable suit sits up from the gray sofa and points forward with her left hand, her mouth wide open. Immediately afterward, the scene changes to the man in yellow lying on a gray carpet with his mouth wide open."
+    }
+]

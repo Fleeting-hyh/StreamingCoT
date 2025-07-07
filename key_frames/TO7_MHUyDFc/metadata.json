@@ -1,0 +1,44 @@
+[
+    {
+        "second": 0,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TO7_MHUyDFc/output_frames/sec_0_idx_24.jpg",
+        "fps": 60,
+        "explanation": "[0-0] The scene is an outdoor area with gravel and construction equipment. A muscular man in a firefighter uniform is holding a sledgehammer, preparing to hit a wall next to him. Two men in similar uniforms are standing next to him."
+    },
+    {
+        "second": 1,
+        "frame_index": 55,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TO7_MHUyDFc/output_frames/sec_1_idx_55.jpg",
+        "fps": 60,
+        "explanation": "[0-2] Then the firefighter slowly lowers the sledgehammer. He kisses the sledgehammer."
+    },
+    {
+        "second": 2,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TO7_MHUyDFc/output_frames/sec_2_idx_28.jpg",
+        "fps": 60,
+        "explanation": "[0-2] Then the firefighter slowly lowers the sledgehammer. He kisses the sledgehammer."
+    },
+    {
+        "second": 3,
+        "frame_index": 56,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TO7_MHUyDFc/output_frames/sec_3_idx_56.jpg",
+        "fps": 60,
+        "explanation": "[2-5] Then one of the men next to him walks over and slaps him on the back of the head. He bends over and the hammer falls to the ground. The man with sunglasses behind him covers his mouth."
+    },
+    {
+        "second": 4,
+        "frame_index": 30,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TO7_MHUyDFc/output_frames/sec_4_idx_30.jpg",
+        "fps": 60,
+        "explanation": "[2-5] Then one of the men next to him walks over and slaps him on the back of the head. He bends over and the hammer falls to the ground. The man with sunglasses behind him covers his mouth."
+    },
+    {
+        "second": 5,
+        "frame_index": 51,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TO7_MHUyDFc/output_frames/sec_5_idx_51.jpg",
+        "fps": 60,
+        "explanation": "[2-5] Then one of the men next to him walks over and slaps him on the back of the head. He bends over and the hammer falls to the ground. The man with sunglasses behind him covers his mouth."
+    }
+]

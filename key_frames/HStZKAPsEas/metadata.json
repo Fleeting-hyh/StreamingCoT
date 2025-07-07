@@ -1,0 +1,107 @@
+[
+    {
+        "second": 0,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HStZKAPsEas/output_frames/sec_0_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[0-0] In a vacant lot next to an asphalt road, there is a white truck with something in its rear compartment, its rear wheels off the ground. There is a streetlight on the left, and some grass and branches on the right."
+    },
+    {
+        "second": 1,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HStZKAPsEas/output_frames/sec_1_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[0-2] The white truck's rear wheels are spinning in the air. Immediately afterwards, the camera moves to the right, revealing the white truck connected to a black truck on the right by a pole. The black truck's rear wheels are on the ground, and its front wheels are off the ground. In the upper right corner, there is white text: \"FAILARMY\"."
+    },
+    {
+        "second": 2,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HStZKAPsEas/output_frames/sec_2_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[0-2] The white truck's rear wheels are spinning in the air. Immediately afterwards, the camera moves to the right, revealing the white truck connected to a black truck on the right by a pole. The black truck's rear wheels are on the ground, and its front wheels are off the ground. In the upper right corner, there is white text: \"FAILARMY\"."
+    },
+    {
+        "second": 3,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HStZKAPsEas/output_frames/sec_3_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[2-8] Subsequently, the black truck's front wheels touch the ground and it pulls the white truck to the right. Then, the camera moves to the left, and the white truck's rear wheels are spinning in the air. A red road sign appears on the left, with the word \"STOP\" written in white on it. Cars are passing by next to the two trucks."
+    },
+    {
+        "second": 4,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HStZKAPsEas/output_frames/sec_4_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[2-8] Subsequently, the black truck's front wheels touch the ground and it pulls the white truck to the right. Then, the camera moves to the left, and the white truck's rear wheels are spinning in the air. A red road sign appears on the left, with the word \"STOP\" written in white on it. Cars are passing by next to the two trucks."
+    },
+    {
+        "second": 5,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HStZKAPsEas/output_frames/sec_5_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[2-8] Subsequently, the black truck's front wheels touch the ground and it pulls the white truck to the right. Then, the camera moves to the left, and the white truck's rear wheels are spinning in the air. A red road sign appears on the left, with the word \"STOP\" written in white on it. Cars are passing by next to the two trucks."
+    },
+    {
+        "second": 6,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HStZKAPsEas/output_frames/sec_6_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[2-8] Subsequently, the black truck's front wheels touch the ground and it pulls the white truck to the right. Then, the camera moves to the left, and the white truck's rear wheels are spinning in the air. A red road sign appears on the left, with the word \"STOP\" written in white on it. Cars are passing by next to the two trucks."
+    },
+    {
+        "second": 7,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HStZKAPsEas/output_frames/sec_7_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[2-8] Subsequently, the black truck's front wheels touch the ground and it pulls the white truck to the right. Then, the camera moves to the left, and the white truck's rear wheels are spinning in the air. A red road sign appears on the left, with the word \"STOP\" written in white on it. Cars are passing by next to the two trucks."
+    },
+    {
+        "second": 8,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HStZKAPsEas/output_frames/sec_8_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[2-8] Subsequently, the black truck's front wheels touch the ground and it pulls the white truck to the right. Then, the camera moves to the left, and the white truck's rear wheels are spinning in the air. A red road sign appears on the left, with the word \"STOP\" written in white on it. Cars are passing by next to the two trucks."
+    },
+    {
+        "second": 9,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HStZKAPsEas/output_frames/sec_9_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[8-14] Afterwards, the red road sign disappears on the right. The camera moves to the left, revealing the cab of the white truck, and a man in a red shirt opens the door of the cab. The camera then cuts to the rear of the white truck. There is a red car on the right. Finally, the white truck drives backward, the pole connecting the white truck and the black truck breaks. The right side of the white truck's rear crashes into the left side of the black truck."
+    },
+    {
+        "second": 10,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HStZKAPsEas/output_frames/sec_10_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[8-14] Afterwards, the red road sign disappears on the right. The camera moves to the left, revealing the cab of the white truck, and a man in a red shirt opens the door of the cab. The camera then cuts to the rear of the white truck. There is a red car on the right. Finally, the white truck drives backward, the pole connecting the white truck and the black truck breaks. The right side of the white truck's rear crashes into the left side of the black truck."
+    },
+    {
+        "second": 11,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HStZKAPsEas/output_frames/sec_11_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[8-14] Afterwards, the red road sign disappears on the right. The camera moves to the left, revealing the cab of the white truck, and a man in a red shirt opens the door of the cab. The camera then cuts to the rear of the white truck. There is a red car on the right. Finally, the white truck drives backward, the pole connecting the white truck and the black truck breaks. The right side of the white truck's rear crashes into the left side of the black truck."
+    },
+    {
+        "second": 12,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HStZKAPsEas/output_frames/sec_12_idx_24.jpg",
+        "fps": 30,
+        "explanation": "[8-14] Afterwards, the red road sign disappears on the right. The camera moves to the left, revealing the cab of the white truck, and a man in a red shirt opens the door of the cab. The camera then cuts to the rear of the white truck. There is a red car on the right. Finally, the white truck drives backward, the pole connecting the white truck and the black truck breaks. The right side of the white truck's rear crashes into the left side of the black truck."
+    },
+    {
+        "second": 13,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HStZKAPsEas/output_frames/sec_13_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[8-14] Afterwards, the red road sign disappears on the right. The camera moves to the left, revealing the cab of the white truck, and a man in a red shirt opens the door of the cab. The camera then cuts to the rear of the white truck. There is a red car on the right. Finally, the white truck drives backward, the pole connecting the white truck and the black truck breaks. The right side of the white truck's rear crashes into the left side of the black truck."
+    },
+    {
+        "second": 14,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HStZKAPsEas/output_frames/sec_14_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[8-14] Afterwards, the red road sign disappears on the right. The camera moves to the left, revealing the cab of the white truck, and a man in a red shirt opens the door of the cab. The camera then cuts to the rear of the white truck. There is a red car on the right. Finally, the white truck drives backward, the pole connecting the white truck and the black truck breaks. The right side of the white truck's rear crashes into the left side of the black truck."
+    }
+]

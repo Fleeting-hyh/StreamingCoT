@@ -1,0 +1,86 @@
+[
+    {
+        "second": 0,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/N88o5q_2itM/output_frames/sec_0_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[0-0] On a city street, a red car is parked on the side of the road, its windshield covered in dust. An arm in a blue sleeve reaches out to the windshield from the left side. Other vehicles and pedestrians on the street can be seen in the background."
+    },
+    {
+        "second": 1,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/N88o5q_2itM/output_frames/sec_1_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[0-2] First, a right hand on the left side of the screen draws three horizontal lines in a three-by-three grid on the windshield."
+    },
+    {
+        "second": 2,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/N88o5q_2itM/output_frames/sec_2_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[0-2] First, a right hand on the left side of the screen draws three horizontal lines in a three-by-three grid on the windshield."
+    },
+    {
+        "second": 3,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/N88o5q_2itM/output_frames/sec_3_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[2-4] Then, the right hand draws a circle in each of the two spaces below the lines, with a smaller circle inside each."
+    },
+    {
+        "second": 4,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/N88o5q_2itM/output_frames/sec_4_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[2-4] Then, the right hand draws a circle in each of the two spaces below the lines, with a smaller circle inside each."
+    },
+    {
+        "second": 5,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/N88o5q_2itM/output_frames/sec_5_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[4-8] Next, the right hand draws a rectangle above the second column of lines. It then draws an irregular trapezoid between the first and second lines of the first column. Continuing to outline the lines of the car body, the overall shape of the car gradually emerges, and a stick-figure car appears on the dust-covered windshield."
+    },
+    {
+        "second": 6,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/N88o5q_2itM/output_frames/sec_6_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[4-8] Next, the right hand draws a rectangle above the second column of lines. It then draws an irregular trapezoid between the first and second lines of the first column. Continuing to outline the lines of the car body, the overall shape of the car gradually emerges, and a stick-figure car appears on the dust-covered windshield."
+    },
+    {
+        "second": 7,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/N88o5q_2itM/output_frames/sec_7_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[4-8] Next, the right hand draws a rectangle above the second column of lines. It then draws an irregular trapezoid between the first and second lines of the first column. Continuing to outline the lines of the car body, the overall shape of the car gradually emerges, and a stick-figure car appears on the dust-covered windshield."
+    },
+    {
+        "second": 8,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/N88o5q_2itM/output_frames/sec_8_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[4-8] Next, the right hand draws a rectangle above the second column of lines. It then draws an irregular trapezoid between the first and second lines of the first column. Continuing to outline the lines of the car body, the overall shape of the car gradually emerges, and a stick-figure car appears on the dust-covered windshield."
+    },
+    {
+        "second": 9,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/N88o5q_2itM/output_frames/sec_9_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[8-11] Finally, the camera gradually zooms out to show the front of the car, with buildings and utility poles above."
+    },
+    {
+        "second": 10,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/N88o5q_2itM/output_frames/sec_10_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[8-11] Finally, the camera gradually zooms out to show the front of the car, with buildings and utility poles above."
+    },
+    {
+        "second": 11,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/N88o5q_2itM/output_frames/sec_11_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[8-11] Finally, the camera gradually zooms out to show the front of the car, with buildings and utility poles above."
+    }
+]

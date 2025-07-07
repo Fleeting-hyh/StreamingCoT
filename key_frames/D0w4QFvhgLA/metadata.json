@@ -1,0 +1,107 @@
+[
+    {
+        "second": 0,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/D0w4QFvhgLA/output_frames/sec_0_idx_20.jpg",
+        "fps": 60,
+        "explanation": "[0-0] In the video, a man is playing the game shown below. The game shows a hat-wearing old man in a boat at the center of a river. On the right bank are a goat and a wolf, with some cabbages beside them. There's a \"GO\" sign at the bottom. The words \"How to solve this\" and a timer appear at the top of the screen."
+    },
+    {
+        "second": 1,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/D0w4QFvhgLA/output_frames/sec_1_idx_21.jpg",
+        "fps": 60,
+        "explanation": "[0-6] Next, the old man in the game sails to the shore, picks up the cabbages, transports them to the left bank, and then the goat on the right bank disappears. The words \"WOLF EATS SHEEP\" appear above the wolf. The goat is eaten, and the game challenge fails. The old man then puts the goat back on the boat and successfully transports it to the left bank. Then he carries the wolf across the river. Then the goat gets eaten by the wolf again. The man in the upper part of the screen frowns, opens his mouth, and speaks. The time is now 14:04."
+    },
+    {
+        "second": 2,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/D0w4QFvhgLA/output_frames/sec_2_idx_26.jpg",
+        "fps": 60,
+        "explanation": "[0-6] Next, the old man in the game sails to the shore, picks up the cabbages, transports them to the left bank, and then the goat on the right bank disappears. The words \"WOLF EATS SHEEP\" appear above the wolf. The goat is eaten, and the game challenge fails. The old man then puts the goat back on the boat and successfully transports it to the left bank. Then he carries the wolf across the river. Then the goat gets eaten by the wolf again. The man in the upper part of the screen frowns, opens his mouth, and speaks. The time is now 14:04."
+    },
+    {
+        "second": 3,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/D0w4QFvhgLA/output_frames/sec_3_idx_5.jpg",
+        "fps": 60,
+        "explanation": "[0-6] Next, the old man in the game sails to the shore, picks up the cabbages, transports them to the left bank, and then the goat on the right bank disappears. The words \"WOLF EATS SHEEP\" appear above the wolf. The goat is eaten, and the game challenge fails. The old man then puts the goat back on the boat and successfully transports it to the left bank. Then he carries the wolf across the river. Then the goat gets eaten by the wolf again. The man in the upper part of the screen frowns, opens his mouth, and speaks. The time is now 14:04."
+    },
+    {
+        "second": 4,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/D0w4QFvhgLA/output_frames/sec_4_idx_18.jpg",
+        "fps": 60,
+        "explanation": "[0-6] Next, the old man in the game sails to the shore, picks up the cabbages, transports them to the left bank, and then the goat on the right bank disappears. The words \"WOLF EATS SHEEP\" appear above the wolf. The goat is eaten, and the game challenge fails. The old man then puts the goat back on the boat and successfully transports it to the left bank. Then he carries the wolf across the river. Then the goat gets eaten by the wolf again. The man in the upper part of the screen frowns, opens his mouth, and speaks. The time is now 14:04."
+    },
+    {
+        "second": 5,
+        "frame_index": 41,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/D0w4QFvhgLA/output_frames/sec_5_idx_41.jpg",
+        "fps": 60,
+        "explanation": "[0-6] Next, the old man in the game sails to the shore, picks up the cabbages, transports them to the left bank, and then the goat on the right bank disappears. The words \"WOLF EATS SHEEP\" appear above the wolf. The goat is eaten, and the game challenge fails. The old man then puts the goat back on the boat and successfully transports it to the left bank. Then he carries the wolf across the river. Then the goat gets eaten by the wolf again. The man in the upper part of the screen frowns, opens his mouth, and speaks. The time is now 14:04."
+    },
+    {
+        "second": 6,
+        "frame_index": 46,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/D0w4QFvhgLA/output_frames/sec_6_idx_46.jpg",
+        "fps": 60,
+        "explanation": "[0-6] Next, the old man in the game sails to the shore, picks up the cabbages, transports them to the left bank, and then the goat on the right bank disappears. The words \"WOLF EATS SHEEP\" appear above the wolf. The goat is eaten, and the game challenge fails. The old man then puts the goat back on the boat and successfully transports it to the left bank. Then he carries the wolf across the river. Then the goat gets eaten by the wolf again. The man in the upper part of the screen frowns, opens his mouth, and speaks. The time is now 14:04."
+    },
+    {
+        "second": 7,
+        "frame_index": 50,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/D0w4QFvhgLA/output_frames/sec_7_idx_50.jpg",
+        "fps": 60,
+        "explanation": "[6-14] Afterward, the old man first transports the cabbage, but then exchanges the cabbage with the wolf, taking the wolf to the opposite bank. As a result, the cabbage is eaten by the goat. The words \"SHEEP EATS CABBAGE\" appear above the goat. The man above shows an angry expression. Then the old man first transports the goat, and then returns to carry the cabbage. When the cabbage is transported to the opposite bank, it is eaten by the goat again. The man in the upper part of the screen has a helpless expression. The picture freezes, and the time above stops at 34:22."
+    },
+    {
+        "second": 8,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/D0w4QFvhgLA/output_frames/sec_8_idx_6.jpg",
+        "fps": 60,
+        "explanation": "[6-14] Afterward, the old man first transports the cabbage, but then exchanges the cabbage with the wolf, taking the wolf to the opposite bank. As a result, the cabbage is eaten by the goat. The words \"SHEEP EATS CABBAGE\" appear above the goat. The man above shows an angry expression. Then the old man first transports the goat, and then returns to carry the cabbage. When the cabbage is transported to the opposite bank, it is eaten by the goat again. The man in the upper part of the screen has a helpless expression. The picture freezes, and the time above stops at 34:22."
+    },
+    {
+        "second": 9,
+        "frame_index": 35,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/D0w4QFvhgLA/output_frames/sec_9_idx_35.jpg",
+        "fps": 60,
+        "explanation": "[6-14] Afterward, the old man first transports the cabbage, but then exchanges the cabbage with the wolf, taking the wolf to the opposite bank. As a result, the cabbage is eaten by the goat. The words \"SHEEP EATS CABBAGE\" appear above the goat. The man above shows an angry expression. Then the old man first transports the goat, and then returns to carry the cabbage. When the cabbage is transported to the opposite bank, it is eaten by the goat again. The man in the upper part of the screen has a helpless expression. The picture freezes, and the time above stops at 34:22."
+    },
+    {
+        "second": 10,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/D0w4QFvhgLA/output_frames/sec_10_idx_22.jpg",
+        "fps": 60,
+        "explanation": "[6-14] Afterward, the old man first transports the cabbage, but then exchanges the cabbage with the wolf, taking the wolf to the opposite bank. As a result, the cabbage is eaten by the goat. The words \"SHEEP EATS CABBAGE\" appear above the goat. The man above shows an angry expression. Then the old man first transports the goat, and then returns to carry the cabbage. When the cabbage is transported to the opposite bank, it is eaten by the goat again. The man in the upper part of the screen has a helpless expression. The picture freezes, and the time above stops at 34:22."
+    },
+    {
+        "second": 11,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/D0w4QFvhgLA/output_frames/sec_11_idx_16.jpg",
+        "fps": 60,
+        "explanation": "[6-14] Afterward, the old man first transports the cabbage, but then exchanges the cabbage with the wolf, taking the wolf to the opposite bank. As a result, the cabbage is eaten by the goat. The words \"SHEEP EATS CABBAGE\" appear above the goat. The man above shows an angry expression. Then the old man first transports the goat, and then returns to carry the cabbage. When the cabbage is transported to the opposite bank, it is eaten by the goat again. The man in the upper part of the screen has a helpless expression. The picture freezes, and the time above stops at 34:22."
+    },
+    {
+        "second": 12,
+        "frame_index": 46,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/D0w4QFvhgLA/output_frames/sec_12_idx_46.jpg",
+        "fps": 60,
+        "explanation": "[6-14] Afterward, the old man first transports the cabbage, but then exchanges the cabbage with the wolf, taking the wolf to the opposite bank. As a result, the cabbage is eaten by the goat. The words \"SHEEP EATS CABBAGE\" appear above the goat. The man above shows an angry expression. Then the old man first transports the goat, and then returns to carry the cabbage. When the cabbage is transported to the opposite bank, it is eaten by the goat again. The man in the upper part of the screen has a helpless expression. The picture freezes, and the time above stops at 34:22."
+    },
+    {
+        "second": 13,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/D0w4QFvhgLA/output_frames/sec_13_idx_8.jpg",
+        "fps": 60,
+        "explanation": "[6-14] Afterward, the old man first transports the cabbage, but then exchanges the cabbage with the wolf, taking the wolf to the opposite bank. As a result, the cabbage is eaten by the goat. The words \"SHEEP EATS CABBAGE\" appear above the goat. The man above shows an angry expression. Then the old man first transports the goat, and then returns to carry the cabbage. When the cabbage is transported to the opposite bank, it is eaten by the goat again. The man in the upper part of the screen has a helpless expression. The picture freezes, and the time above stops at 34:22."
+    },
+    {
+        "second": 14,
+        "frame_index": 36,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/D0w4QFvhgLA/output_frames/sec_14_idx_36.jpg",
+        "fps": 60,
+        "explanation": "[6-14] Afterward, the old man first transports the cabbage, but then exchanges the cabbage with the wolf, taking the wolf to the opposite bank. As a result, the cabbage is eaten by the goat. The words \"SHEEP EATS CABBAGE\" appear above the goat. The man above shows an angry expression. Then the old man first transports the goat, and then returns to carry the cabbage. When the cabbage is transported to the opposite bank, it is eaten by the goat again. The man in the upper part of the screen has a helpless expression. The picture freezes, and the time above stops at 34:22."
+    }
+]

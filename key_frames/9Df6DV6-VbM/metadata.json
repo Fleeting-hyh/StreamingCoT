@@ -1,0 +1,86 @@
+[
+    {
+        "second": 0,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9Df6DV6-VbM/output_frames/sec_0_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[0-0] There is a groove on a wooden board."
+    },
+    {
+        "second": 1,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9Df6DV6-VbM/output_frames/sec_1_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Then a hand puts a screw into the groove and tightens it with an electric screwdriver, followed by a red cross appearing in the picture."
+    },
+    {
+        "second": 2,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9Df6DV6-VbM/output_frames/sec_2_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Then a hand puts a screw into the groove and tightens it with an electric screwdriver, followed by a red cross appearing in the picture."
+    },
+    {
+        "second": 3,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9Df6DV6-VbM/output_frames/sec_3_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Then a hand puts a screw into the groove and tightens it with an electric screwdriver, followed by a red cross appearing in the picture."
+    },
+    {
+        "second": 4,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9Df6DV6-VbM/output_frames/sec_4_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Then a hand puts a screw into the groove and tightens it with an electric screwdriver, followed by a red cross appearing in the picture."
+    },
+    {
+        "second": 5,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9Df6DV6-VbM/output_frames/sec_5_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[4-7] Then the screen switches to a pair of needle-nose pliers cutting a copper wire into small pieces."
+    },
+    {
+        "second": 6,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9Df6DV6-VbM/output_frames/sec_6_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[4-7] Then the screen switches to a pair of needle-nose pliers cutting a copper wire into small pieces."
+    },
+    {
+        "second": 7,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9Df6DV6-VbM/output_frames/sec_7_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[4-7] Then the screen switches to a pair of needle-nose pliers cutting a copper wire into small pieces."
+    },
+    {
+        "second": 8,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9Df6DV6-VbM/output_frames/sec_8_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[7-11] Then the screen switches again, a hand puts the cut copper wire into the groove of the wooden board, and then the hand tightens the screw into the groove with an electric screwdriver. A green check mark appears in the picture."
+    },
+    {
+        "second": 9,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9Df6DV6-VbM/output_frames/sec_9_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[7-11] Then the screen switches again, a hand puts the cut copper wire into the groove of the wooden board, and then the hand tightens the screw into the groove with an electric screwdriver. A green check mark appears in the picture."
+    },
+    {
+        "second": 10,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9Df6DV6-VbM/output_frames/sec_10_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[7-11] Then the screen switches again, a hand puts the cut copper wire into the groove of the wooden board, and then the hand tightens the screw into the groove with an electric screwdriver. A green check mark appears in the picture."
+    },
+    {
+        "second": 11,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9Df6DV6-VbM/output_frames/sec_11_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[7-11] Then the screen switches again, a hand puts the cut copper wire into the groove of the wooden board, and then the hand tightens the screw into the groove with an electric screwdriver. A green check mark appears in the picture."
+    }
+]

@@ -1,0 +1,93 @@
+[
+    {
+        "second": 0,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/OnQgisq2uXE/output_frames/sec_0_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A teal paddle board with a cartoon coconut tree design floats on the water's surface. The blue sky and white clouds are visible."
+    },
+    {
+        "second": 1,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/OnQgisq2uXE/output_frames/sec_1_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Next, an arm wearing a blue sleeve grabs the paddle board, the right hand paddles the water, and a man in black clothing stands in the water."
+    },
+    {
+        "second": 2,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/OnQgisq2uXE/output_frames/sec_2_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Next, an arm wearing a blue sleeve grabs the paddle board, the right hand paddles the water, and a man in black clothing stands in the water."
+    },
+    {
+        "second": 3,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/OnQgisq2uXE/output_frames/sec_3_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Next, an arm wearing a blue sleeve grabs the paddle board, the right hand paddles the water, and a man in black clothing stands in the water."
+    },
+    {
+        "second": 4,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/OnQgisq2uXE/output_frames/sec_4_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[3-8] Immediately afterward, a giant wave crashes down, submerging the man in black. The wave begins to churn, and through the rolling surf, the distant beach and trees are faintly visible."
+    },
+    {
+        "second": 5,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/OnQgisq2uXE/output_frames/sec_5_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[3-8] Immediately afterward, a giant wave crashes down, submerging the man in black. The wave begins to churn, and through the rolling surf, the distant beach and trees are faintly visible."
+    },
+    {
+        "second": 6,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/OnQgisq2uXE/output_frames/sec_6_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[3-8] Immediately afterward, a giant wave crashes down, submerging the man in black. The wave begins to churn, and through the rolling surf, the distant beach and trees are faintly visible."
+    },
+    {
+        "second": 7,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/OnQgisq2uXE/output_frames/sec_7_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[3-8] Immediately afterward, a giant wave crashes down, submerging the man in black. The wave begins to churn, and through the rolling surf, the distant beach and trees are faintly visible."
+    },
+    {
+        "second": 8,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/OnQgisq2uXE/output_frames/sec_8_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[3-8] Immediately afterward, a giant wave crashes down, submerging the man in black. The wave begins to churn, and through the rolling surf, the distant beach and trees are faintly visible."
+    },
+    {
+        "second": 9,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/OnQgisq2uXE/output_frames/sec_9_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[8-12] Finally, the image shows churning seawater and bubbles."
+    },
+    {
+        "second": 10,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/OnQgisq2uXE/output_frames/sec_10_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[8-12] Finally, the image shows churning seawater and bubbles."
+    },
+    {
+        "second": 11,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/OnQgisq2uXE/output_frames/sec_11_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[8-12] Finally, the image shows churning seawater and bubbles."
+    },
+    {
+        "second": 12,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/OnQgisq2uXE/output_frames/sec_12_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[8-12] Finally, the image shows churning seawater and bubbles."
+    }
+]

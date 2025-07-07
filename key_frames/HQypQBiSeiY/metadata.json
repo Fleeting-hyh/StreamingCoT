@@ -1,0 +1,79 @@
+[
+    {
+        "second": 0,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HQypQBiSeiY/output_frames/sec_0_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[0-0] On a light gray surface, there is a light brown wooden board with a silver nail hammered into it."
+    },
+    {
+        "second": 1,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HQypQBiSeiY/output_frames/sec_1_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Next, a black hammer strikes the nail until it is fully hammered into the wood. Afterward, the camera zooms in, a thumb appears and touches the nail, and a red \"X\" appears on the screen."
+    },
+    {
+        "second": 2,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HQypQBiSeiY/output_frames/sec_2_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Next, a black hammer strikes the nail until it is fully hammered into the wood. Afterward, the camera zooms in, a thumb appears and touches the nail, and a red \"X\" appears on the screen."
+    },
+    {
+        "second": 3,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HQypQBiSeiY/output_frames/sec_3_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Next, a black hammer strikes the nail until it is fully hammered into the wood. Afterward, the camera zooms in, a thumb appears and touches the nail, and a red \"X\" appears on the screen."
+    },
+    {
+        "second": 4,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HQypQBiSeiY/output_frames/sec_4_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Next, a black hammer strikes the nail until it is fully hammered into the wood. Afterward, the camera zooms in, a thumb appears and touches the nail, and a red \"X\" appears on the screen."
+    },
+    {
+        "second": 5,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HQypQBiSeiY/output_frames/sec_5_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[4-7] Immediately afterward, the scene switches to a yellow surface with a blue plastic toolbox full of silver nails, and a hand picks up a nail from it. Then the scene changes, a pair of pliers clamps a nail onto a gray iron block, and a black hammer hammers the top of the nail until it becomes flat."
+    },
+    {
+        "second": 6,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HQypQBiSeiY/output_frames/sec_6_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[4-7] Immediately afterward, the scene switches to a yellow surface with a blue plastic toolbox full of silver nails, and a hand picks up a nail from it. Then the scene changes, a pair of pliers clamps a nail onto a gray iron block, and a black hammer hammers the top of the nail until it becomes flat."
+    },
+    {
+        "second": 7,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HQypQBiSeiY/output_frames/sec_7_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[4-7] Immediately afterward, the scene switches to a yellow surface with a blue plastic toolbox full of silver nails, and a hand picks up a nail from it. Then the scene changes, a pair of pliers clamps a nail onto a gray iron block, and a black hammer hammers the top of the nail until it becomes flat."
+    },
+    {
+        "second": 8,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HQypQBiSeiY/output_frames/sec_8_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[7-10] Finally, the scene returns to the original wooden board, the pliers are holding the flat-topped nail on the wooden board, and after the hammer fully hammers the nail into the board, a hand wipes the board with a cloth. A green \"\u221a\" appears on the screen."
+    },
+    {
+        "second": 9,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HQypQBiSeiY/output_frames/sec_9_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[7-10] Finally, the scene returns to the original wooden board, the pliers are holding the flat-topped nail on the wooden board, and after the hammer fully hammers the nail into the board, a hand wipes the board with a cloth. A green \"\u221a\" appears on the screen."
+    },
+    {
+        "second": 10,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HQypQBiSeiY/output_frames/sec_10_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[7-10] Finally, the scene returns to the original wooden board, the pliers are holding the flat-topped nail on the wooden board, and after the hammer fully hammers the nail into the board, a hand wipes the board with a cloth. A green \"\u221a\" appears on the screen."
+    }
+]

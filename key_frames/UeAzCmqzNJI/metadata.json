@@ -1,0 +1,114 @@
+[
+    {
+        "second": 0,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UeAzCmqzNJI/output_frames/sec_0_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A middle-aged woman with blonde hair is in front of a brown background. She is wearing a sports top with a logo on the right side, which has the blue text \"INDIA\" and a football pattern. There is a transparent film over her face. Above her head, there are four character avatars, from left to right: a blonde woman with a beard, a blonde man, a black-haired girl, and an elderly man with white hair. Above them is a photo of a cockroach."
+    },
+    {
+        "second": 1,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UeAzCmqzNJI/output_frames/sec_1_idx_24.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Then a pair of hands holding some fake cockroaches sprinkle them towards the middle-aged woman. She is so frightened that she opens her eyes wide and screams, but the cockroaches are blocked by the transparent cloth and do not fall on her face. At the same time, the blonde woman with a beard's avatar above is marked with a red X, indicating a failed challenge."
+    },
+    {
+        "second": 2,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UeAzCmqzNJI/output_frames/sec_2_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Then a pair of hands holding some fake cockroaches sprinkle them towards the middle-aged woman. She is so frightened that she opens her eyes wide and screams, but the cockroaches are blocked by the transparent cloth and do not fall on her face. At the same time, the blonde woman with a beard's avatar above is marked with a red X, indicating a failed challenge."
+    },
+    {
+        "second": 3,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UeAzCmqzNJI/output_frames/sec_3_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Then a pair of hands holding some fake cockroaches sprinkle them towards the middle-aged woman. She is so frightened that she opens her eyes wide and screams, but the cockroaches are blocked by the transparent cloth and do not fall on her face. At the same time, the blonde woman with a beard's avatar above is marked with a red X, indicating a failed challenge."
+    },
+    {
+        "second": 4,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UeAzCmqzNJI/output_frames/sec_4_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[3-7] Then the person under the film changes to a young man with yellow hair, wearing a white sports top with an orange collar. The young man's mouth is in an O shape. The pair of hands holding fake cockroaches appear again, sprinkling the cockroaches in their hands towards the young man. Similarly, the cockroaches are blocked by the film. The man does not show any fear, and even picks up a fake cockroach and pretends to put it in his mouth. The second avatar, the blonde man, lights up with a white check mark on a green background."
+    },
+    {
+        "second": 5,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UeAzCmqzNJI/output_frames/sec_5_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[3-7] Then the person under the film changes to a young man with yellow hair, wearing a white sports top with an orange collar. The young man's mouth is in an O shape. The pair of hands holding fake cockroaches appear again, sprinkling the cockroaches in their hands towards the young man. Similarly, the cockroaches are blocked by the film. The man does not show any fear, and even picks up a fake cockroach and pretends to put it in his mouth. The second avatar, the blonde man, lights up with a white check mark on a green background."
+    },
+    {
+        "second": 6,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UeAzCmqzNJI/output_frames/sec_6_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[3-7] Then the person under the film changes to a young man with yellow hair, wearing a white sports top with an orange collar. The young man's mouth is in an O shape. The pair of hands holding fake cockroaches appear again, sprinkling the cockroaches in their hands towards the young man. Similarly, the cockroaches are blocked by the film. The man does not show any fear, and even picks up a fake cockroach and pretends to put it in his mouth. The second avatar, the blonde man, lights up with a white check mark on a green background."
+    },
+    {
+        "second": 7,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UeAzCmqzNJI/output_frames/sec_7_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[3-7] Then the person under the film changes to a young man with yellow hair, wearing a white sports top with an orange collar. The young man's mouth is in an O shape. The pair of hands holding fake cockroaches appear again, sprinkling the cockroaches in their hands towards the young man. Similarly, the cockroaches are blocked by the film. The man does not show any fear, and even picks up a fake cockroach and pretends to put it in his mouth. The second avatar, the blonde man, lights up with a white check mark on a green background."
+    },
+    {
+        "second": 8,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UeAzCmqzNJI/output_frames/sec_8_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[7-11] Then the person under the film changes to a girl with long brown hair. She is wearing a yellow sports T-shirt. The pair of hands holding fake cockroaches appear once again, sprinkling the cockroaches in their hands towards the girl. The girl closes her eyes at first, but the cockroaches are similarly blocked by the film. After opening her eyes and seeing that the cockroaches didn't fall, the girl smiles. The third avatar, the black-haired girl, is marked with a red X."
+    },
+    {
+        "second": 9,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UeAzCmqzNJI/output_frames/sec_9_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[7-11] Then the person under the film changes to a girl with long brown hair. She is wearing a yellow sports T-shirt. The pair of hands holding fake cockroaches appear once again, sprinkling the cockroaches in their hands towards the girl. The girl closes her eyes at first, but the cockroaches are similarly blocked by the film. After opening her eyes and seeing that the cockroaches didn't fall, the girl smiles. The third avatar, the black-haired girl, is marked with a red X."
+    },
+    {
+        "second": 10,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UeAzCmqzNJI/output_frames/sec_10_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[7-11] Then the person under the film changes to a girl with long brown hair. She is wearing a yellow sports T-shirt. The pair of hands holding fake cockroaches appear once again, sprinkling the cockroaches in their hands towards the girl. The girl closes her eyes at first, but the cockroaches are similarly blocked by the film. After opening her eyes and seeing that the cockroaches didn't fall, the girl smiles. The third avatar, the black-haired girl, is marked with a red X."
+    },
+    {
+        "second": 11,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UeAzCmqzNJI/output_frames/sec_11_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[7-11] Then the person under the film changes to a girl with long brown hair. She is wearing a yellow sports T-shirt. The pair of hands holding fake cockroaches appear once again, sprinkling the cockroaches in their hands towards the girl. The girl closes her eyes at first, but the cockroaches are similarly blocked by the film. After opening her eyes and seeing that the cockroaches didn't fall, the girl smiles. The third avatar, the black-haired girl, is marked with a red X."
+    },
+    {
+        "second": 12,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UeAzCmqzNJI/output_frames/sec_12_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[11-15] Finally, the person under the film changes to a man with gray hair, wearing a white sports top. His eyes are wide open, his mouth slightly closed, and he cries out in fear as the fake cockroaches are thrown in front of him. Subsequently, the avatar of the white-haired elderly man is also marked with a red X."
+    },
+    {
+        "second": 13,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UeAzCmqzNJI/output_frames/sec_13_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[11-15] Finally, the person under the film changes to a man with gray hair, wearing a white sports top. His eyes are wide open, his mouth slightly closed, and he cries out in fear as the fake cockroaches are thrown in front of him. Subsequently, the avatar of the white-haired elderly man is also marked with a red X."
+    },
+    {
+        "second": 14,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UeAzCmqzNJI/output_frames/sec_14_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[11-15] Finally, the person under the film changes to a man with gray hair, wearing a white sports top. His eyes are wide open, his mouth slightly closed, and he cries out in fear as the fake cockroaches are thrown in front of him. Subsequently, the avatar of the white-haired elderly man is also marked with a red X."
+    },
+    {
+        "second": 15,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UeAzCmqzNJI/output_frames/sec_15_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[11-15] Finally, the person under the film changes to a man with gray hair, wearing a white sports top. His eyes are wide open, his mouth slightly closed, and he cries out in fear as the fake cockroaches are thrown in front of him. Subsequently, the avatar of the white-haired elderly man is also marked with a red X."
+    }
+]

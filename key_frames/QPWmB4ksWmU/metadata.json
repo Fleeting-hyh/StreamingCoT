@@ -1,0 +1,296 @@
+[
+    {
+        "second": 0,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QPWmB4ksWmU/output_frames/sec_0_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[0-0] In a busy pancake factory, workers are working diligently. A row of round griddles is arranged in the middle, with metal containers and finished pancakes on both sides. The workers are wearing blue food caps and standing in front of their respective workstations."
+    },
+    {
+        "second": 1,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QPWmB4ksWmU/output_frames/sec_1_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[0-7] A female worker in a blue T-shirt, a pink apron and a blue food cap takes the pancake off the round griddle in front of her, then she takes the first four finished pancakes and puts them aside one by one."
+    },
+    {
+        "second": 2,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QPWmB4ksWmU/output_frames/sec_2_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[0-7] A female worker in a blue T-shirt, a pink apron and a blue food cap takes the pancake off the round griddle in front of her, then she takes the first four finished pancakes and puts them aside one by one."
+    },
+    {
+        "second": 3,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QPWmB4ksWmU/output_frames/sec_3_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[0-7] A female worker in a blue T-shirt, a pink apron and a blue food cap takes the pancake off the round griddle in front of her, then she takes the first four finished pancakes and puts them aside one by one."
+    },
+    {
+        "second": 4,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QPWmB4ksWmU/output_frames/sec_4_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[0-7] A female worker in a blue T-shirt, a pink apron and a blue food cap takes the pancake off the round griddle in front of her, then she takes the first four finished pancakes and puts them aside one by one."
+    },
+    {
+        "second": 5,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QPWmB4ksWmU/output_frames/sec_5_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[0-7] A female worker in a blue T-shirt, a pink apron and a blue food cap takes the pancake off the round griddle in front of her, then she takes the first four finished pancakes and puts them aside one by one."
+    },
+    {
+        "second": 6,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QPWmB4ksWmU/output_frames/sec_6_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[0-7] A female worker in a blue T-shirt, a pink apron and a blue food cap takes the pancake off the round griddle in front of her, then she takes the first four finished pancakes and puts them aside one by one."
+    },
+    {
+        "second": 7,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QPWmB4ksWmU/output_frames/sec_7_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[0-7] A female worker in a blue T-shirt, a pink apron and a blue food cap takes the pancake off the round griddle in front of her, then she takes the first four finished pancakes and puts them aside one by one."
+    },
+    {
+        "second": 8,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QPWmB4ksWmU/output_frames/sec_8_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[7-17] Then the worker picks up a brush and starts cleaning the griddle to prepare for the next pancake."
+    },
+    {
+        "second": 9,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QPWmB4ksWmU/output_frames/sec_9_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[7-17] Then the worker picks up a brush and starts cleaning the griddle to prepare for the next pancake."
+    },
+    {
+        "second": 10,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QPWmB4ksWmU/output_frames/sec_10_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[7-17] Then the worker picks up a brush and starts cleaning the griddle to prepare for the next pancake."
+    },
+    {
+        "second": 11,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QPWmB4ksWmU/output_frames/sec_11_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[7-17] Then the worker picks up a brush and starts cleaning the griddle to prepare for the next pancake."
+    },
+    {
+        "second": 12,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QPWmB4ksWmU/output_frames/sec_12_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[7-17] Then the worker picks up a brush and starts cleaning the griddle to prepare for the next pancake."
+    },
+    {
+        "second": 13,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QPWmB4ksWmU/output_frames/sec_13_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[7-17] Then the worker picks up a brush and starts cleaning the griddle to prepare for the next pancake."
+    },
+    {
+        "second": 14,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QPWmB4ksWmU/output_frames/sec_14_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[7-17] Then the worker picks up a brush and starts cleaning the griddle to prepare for the next pancake."
+    },
+    {
+        "second": 15,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QPWmB4ksWmU/output_frames/sec_15_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[7-17] Then the worker picks up a brush and starts cleaning the griddle to prepare for the next pancake."
+    },
+    {
+        "second": 16,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QPWmB4ksWmU/output_frames/sec_16_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[7-17] Then the worker picks up a brush and starts cleaning the griddle to prepare for the next pancake."
+    },
+    {
+        "second": 17,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QPWmB4ksWmU/output_frames/sec_17_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[7-17] Then the worker picks up a brush and starts cleaning the griddle to prepare for the next pancake."
+    },
+    {
+        "second": 18,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QPWmB4ksWmU/output_frames/sec_18_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[17-23] After cleaning the griddle, the worker picks up a wooden spoon, scoops up a spoonful of batter, and pours it onto the griddle. The worker skillfully spreads the batter evenly on the griddle with a tool to form a circle, and quickly finishes spreading one."
+    },
+    {
+        "second": 19,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QPWmB4ksWmU/output_frames/sec_19_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[17-23] After cleaning the griddle, the worker picks up a wooden spoon, scoops up a spoonful of batter, and pours it onto the griddle. The worker skillfully spreads the batter evenly on the griddle with a tool to form a circle, and quickly finishes spreading one."
+    },
+    {
+        "second": 20,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QPWmB4ksWmU/output_frames/sec_20_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[17-23] After cleaning the griddle, the worker picks up a wooden spoon, scoops up a spoonful of batter, and pours it onto the griddle. The worker skillfully spreads the batter evenly on the griddle with a tool to form a circle, and quickly finishes spreading one."
+    },
+    {
+        "second": 21,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QPWmB4ksWmU/output_frames/sec_21_idx_24.jpg",
+        "fps": 30,
+        "explanation": "[17-23] After cleaning the griddle, the worker picks up a wooden spoon, scoops up a spoonful of batter, and pours it onto the griddle. The worker skillfully spreads the batter evenly on the griddle with a tool to form a circle, and quickly finishes spreading one."
+    },
+    {
+        "second": 22,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QPWmB4ksWmU/output_frames/sec_22_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[17-23] After cleaning the griddle, the worker picks up a wooden spoon, scoops up a spoonful of batter, and pours it onto the griddle. The worker skillfully spreads the batter evenly on the griddle with a tool to form a circle, and quickly finishes spreading one."
+    },
+    {
+        "second": 23,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QPWmB4ksWmU/output_frames/sec_23_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[17-23] After cleaning the griddle, the worker picks up a wooden spoon, scoops up a spoonful of batter, and pours it onto the griddle. The worker skillfully spreads the batter evenly on the griddle with a tool to form a circle, and quickly finishes spreading one."
+    },
+    {
+        "second": 24,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QPWmB4ksWmU/output_frames/sec_24_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[23-30] The worker continues to repeat the action of spreading the batter, a thin layer of white batter quickly covers the entire griddle, steaming hot, and the second pancake is quickly done."
+    },
+    {
+        "second": 25,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QPWmB4ksWmU/output_frames/sec_25_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[23-30] The worker continues to repeat the action of spreading the batter, a thin layer of white batter quickly covers the entire griddle, steaming hot, and the second pancake is quickly done."
+    },
+    {
+        "second": 26,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QPWmB4ksWmU/output_frames/sec_26_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[23-30] The worker continues to repeat the action of spreading the batter, a thin layer of white batter quickly covers the entire griddle, steaming hot, and the second pancake is quickly done."
+    },
+    {
+        "second": 27,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QPWmB4ksWmU/output_frames/sec_27_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[23-30] The worker continues to repeat the action of spreading the batter, a thin layer of white batter quickly covers the entire griddle, steaming hot, and the second pancake is quickly done."
+    },
+    {
+        "second": 28,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QPWmB4ksWmU/output_frames/sec_28_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[23-30] The worker continues to repeat the action of spreading the batter, a thin layer of white batter quickly covers the entire griddle, steaming hot, and the second pancake is quickly done."
+    },
+    {
+        "second": 29,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QPWmB4ksWmU/output_frames/sec_29_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[23-30] The worker continues to repeat the action of spreading the batter, a thin layer of white batter quickly covers the entire griddle, steaming hot, and the second pancake is quickly done."
+    },
+    {
+        "second": 30,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QPWmB4ksWmU/output_frames/sec_30_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[23-30] The worker continues to repeat the action of spreading the batter, a thin layer of white batter quickly covers the entire griddle, steaming hot, and the second pancake is quickly done."
+    },
+    {
+        "second": 31,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QPWmB4ksWmU/output_frames/sec_31_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[30-36] Then the worker continues to repeat the action of spreading the batter, and soon the third pancake is also spread."
+    },
+    {
+        "second": 32,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QPWmB4ksWmU/output_frames/sec_32_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[30-36] Then the worker continues to repeat the action of spreading the batter, and soon the third pancake is also spread."
+    },
+    {
+        "second": 33,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QPWmB4ksWmU/output_frames/sec_33_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[30-36] Then the worker continues to repeat the action of spreading the batter, and soon the third pancake is also spread."
+    },
+    {
+        "second": 34,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QPWmB4ksWmU/output_frames/sec_34_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[30-36] Then the worker continues to repeat the action of spreading the batter, and soon the third pancake is also spread."
+    },
+    {
+        "second": 35,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QPWmB4ksWmU/output_frames/sec_35_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[30-36] Then the worker continues to repeat the action of spreading the batter, and soon the third pancake is also spread."
+    },
+    {
+        "second": 36,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QPWmB4ksWmU/output_frames/sec_36_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[30-36] Then the worker continues to repeat the action of spreading the batter, and soon the third pancake is also spread."
+    },
+    {
+        "second": 37,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QPWmB4ksWmU/output_frames/sec_37_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[36-42] The worker continues to repeat the action of spreading the batter, and the fourth pancake is quickly spread as well."
+    },
+    {
+        "second": 38,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QPWmB4ksWmU/output_frames/sec_38_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[36-42] The worker continues to repeat the action of spreading the batter, and the fourth pancake is quickly spread as well."
+    },
+    {
+        "second": 39,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QPWmB4ksWmU/output_frames/sec_39_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[36-42] The worker continues to repeat the action of spreading the batter, and the fourth pancake is quickly spread as well."
+    },
+    {
+        "second": 40,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QPWmB4ksWmU/output_frames/sec_40_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[36-42] The worker continues to repeat the action of spreading the batter, and the fourth pancake is quickly spread as well."
+    },
+    {
+        "second": 41,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QPWmB4ksWmU/output_frames/sec_41_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[36-42] The worker continues to repeat the action of spreading the batter, and the fourth pancake is quickly spread as well."
+    }
+]

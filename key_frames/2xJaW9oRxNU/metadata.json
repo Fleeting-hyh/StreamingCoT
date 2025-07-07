@@ -1,0 +1,65 @@
+[
+    {
+        "second": 0,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2xJaW9oRxNU/output_frames/sec_0_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[0-0] In a bright kitchen, a young man wearing a black shirt and a white cap sits beside a dining table, on the table's cutting board lies a large rectangular loaf of bread. Next to him stands a cute little girl in a pink dress, her eyes looking at the bread. The man supports the right side of the bread with his left hand and holds a knife over the bread with his right hand. Wooden cabinets in the kitchen can be seen behind them, with a purple object on the countertop."
+    },
+    {
+        "second": 1,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2xJaW9oRxNU/output_frames/sec_1_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Then the man glances at the little girl, and then puts the knife on the right side of the bread with his right hand, looking at the little girl, who shakes her head."
+    },
+    {
+        "second": 2,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2xJaW9oRxNU/output_frames/sec_2_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Then the man glances at the little girl, and then puts the knife on the right side of the bread with his right hand, looking at the little girl, who shakes her head."
+    },
+    {
+        "second": 3,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2xJaW9oRxNU/output_frames/sec_3_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[2-6] Next, the man takes the knife and moves to the middle of the bread, the little girl continues to shake her head. Then the man puts his left hand over the bread, moves the knife to the left side of the bread with his right hand, and this time the little girl nods happily."
+    },
+    {
+        "second": 4,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2xJaW9oRxNU/output_frames/sec_4_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[2-6] Next, the man takes the knife and moves to the middle of the bread, the little girl continues to shake her head. Then the man puts his left hand over the bread, moves the knife to the left side of the bread with his right hand, and this time the little girl nods happily."
+    },
+    {
+        "second": 5,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2xJaW9oRxNU/output_frames/sec_5_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[2-6] Next, the man takes the knife and moves to the middle of the bread, the little girl continues to shake her head. Then the man puts his left hand over the bread, moves the knife to the left side of the bread with his right hand, and this time the little girl nods happily."
+    },
+    {
+        "second": 6,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2xJaW9oRxNU/output_frames/sec_6_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[2-6] Next, the man takes the knife and moves to the middle of the bread, the little girl continues to shake her head. Then the man puts his left hand over the bread, moves the knife to the left side of the bread with his right hand, and this time the little girl nods happily."
+    },
+    {
+        "second": 7,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2xJaW9oRxNU/output_frames/sec_7_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[6-8] Then the man cuts off a small piece of bread on the left side with the knife in his right hand, and then the little girl runs away with the large piece of bread on the right side in her arms. The man looks at the little girl's action and helplessly spreads his hands. Then the camera zooms in on the man, he raises his hands, holds the small piece of bread in his right hand, and looks forward in surprise."
+    },
+    {
+        "second": 8,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2xJaW9oRxNU/output_frames/sec_8_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[6-8] Then the man cuts off a small piece of bread on the left side with the knife in his right hand, and then the little girl runs away with the large piece of bread on the right side in her arms. The man looks at the little girl's action and helplessly spreads his hands. Then the camera zooms in on the man, he raises his hands, holds the small piece of bread in his right hand, and looks forward in surprise."
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "second": 0,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/NY1PApEVNlI/output_frames/sec_0_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[0-0] On a quiet residential street, a man stands in the distance, bat in hand, ready to hit. He wears yellow shorts and is bare-chested, facing away from the camera. In front of the camera, a pair of hands holds a black device with a yellow baseball resting on it. The street is lined with buildings of various sizes and some greenery, with a gray car parked on the left side."
+    },
+    {
+        "second": 1,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/NY1PApEVNlI/output_frames/sec_1_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The hands activate the device, launching the ball swiftly towards the man. The man swings the bat, successfully striking the ball, which rebounds quickly."
+    },
+    {
+        "second": 2,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/NY1PApEVNlI/output_frames/sec_2_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The hands activate the device, launching the ball swiftly towards the man. The man swings the bat, successfully striking the ball, which rebounds quickly."
+    },
+    {
+        "second": 3,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/NY1PApEVNlI/output_frames/sec_3_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The hands activate the device, launching the ball swiftly towards the man. The man swings the bat, successfully striking the ball, which rebounds quickly."
+    },
+    {
+        "second": 4,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/NY1PApEVNlI/output_frames/sec_4_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The hands activate the device, launching the ball swiftly towards the man. The man swings the bat, successfully striking the ball, which rebounds quickly."
+    }
+]

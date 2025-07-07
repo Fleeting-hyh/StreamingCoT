@@ -1,0 +1,65 @@
+[
+    {
+        "second": 0,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3ltkF9JUy_E/output_frames/sec_0_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A gray robot stands in a field holding a small red rotary tiller, with two water buffalo standing at the edge of the field. Weeds and trees grow on the slope beside them, and a mountain can be seen in the distance."
+    },
+    {
+        "second": 1,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3ltkF9JUy_E/output_frames/sec_1_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Then, one water buffalo walks to the left, while the other blocks the tiller. The robot crouches down, picks up a stone, and throws it at the distant water buffalo. It picks up another stone and throws it at the water buffalo in front of the tiller."
+    },
+    {
+        "second": 2,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3ltkF9JUy_E/output_frames/sec_2_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Then, one water buffalo walks to the left, while the other blocks the tiller. The robot crouches down, picks up a stone, and throws it at the distant water buffalo. It picks up another stone and throws it at the water buffalo in front of the tiller."
+    },
+    {
+        "second": 3,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3ltkF9JUy_E/output_frames/sec_3_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Then, one water buffalo walks to the left, while the other blocks the tiller. The robot crouches down, picks up a stone, and throws it at the distant water buffalo. It picks up another stone and throws it at the water buffalo in front of the tiller."
+    },
+    {
+        "second": 4,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3ltkF9JUy_E/output_frames/sec_4_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Then, one water buffalo walks to the left, while the other blocks the tiller. The robot crouches down, picks up a stone, and throws it at the distant water buffalo. It picks up another stone and throws it at the water buffalo in front of the tiller."
+    },
+    {
+        "second": 5,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3ltkF9JUy_E/output_frames/sec_5_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Then, one water buffalo walks to the left, while the other blocks the tiller. The robot crouches down, picks up a stone, and throws it at the distant water buffalo. It picks up another stone and throws it at the water buffalo in front of the tiller."
+    },
+    {
+        "second": 6,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3ltkF9JUy_E/output_frames/sec_6_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[5-8] Finally, the robot pushes the small tiller again, and it starts to rotate. The water buffalo in front of the tiller walks to the left."
+    },
+    {
+        "second": 7,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3ltkF9JUy_E/output_frames/sec_7_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[5-8] Finally, the robot pushes the small tiller again, and it starts to rotate. The water buffalo in front of the tiller walks to the left."
+    },
+    {
+        "second": 8,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3ltkF9JUy_E/output_frames/sec_8_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[5-8] Finally, the robot pushes the small tiller again, and it starts to rotate. The water buffalo in front of the tiller walks to the left."
+    }
+]

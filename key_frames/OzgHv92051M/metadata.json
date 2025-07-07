@@ -1,0 +1,86 @@
+[
+    {
+        "second": 0,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/OzgHv92051M/output_frames/sec_0_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[0-0] On a road, a person wearing a black top is sitting in a homemade vehicle. The vehicle has many wheels. There are many trees on the side of the road, and a yellow road sign."
+    },
+    {
+        "second": 1,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/OzgHv92051M/output_frames/sec_1_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[0-7] The person drives the vehicle forward and then turns left. We can see that this is a man. Immediately afterwards, he holds the steering wheel and continues to drive forward. There are parked cars on the road and pedestrians riding bicycles in the opposite direction. The man continues driving this homemade vehicle forward, and the surrounding scenery moves backward as he moves forward."
+    },
+    {
+        "second": 2,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/OzgHv92051M/output_frames/sec_2_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-7] The person drives the vehicle forward and then turns left. We can see that this is a man. Immediately afterwards, he holds the steering wheel and continues to drive forward. There are parked cars on the road and pedestrians riding bicycles in the opposite direction. The man continues driving this homemade vehicle forward, and the surrounding scenery moves backward as he moves forward."
+    },
+    {
+        "second": 3,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/OzgHv92051M/output_frames/sec_3_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[0-7] The person drives the vehicle forward and then turns left. We can see that this is a man. Immediately afterwards, he holds the steering wheel and continues to drive forward. There are parked cars on the road and pedestrians riding bicycles in the opposite direction. The man continues driving this homemade vehicle forward, and the surrounding scenery moves backward as he moves forward."
+    },
+    {
+        "second": 4,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/OzgHv92051M/output_frames/sec_4_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[0-7] The person drives the vehicle forward and then turns left. We can see that this is a man. Immediately afterwards, he holds the steering wheel and continues to drive forward. There are parked cars on the road and pedestrians riding bicycles in the opposite direction. The man continues driving this homemade vehicle forward, and the surrounding scenery moves backward as he moves forward."
+    },
+    {
+        "second": 5,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/OzgHv92051M/output_frames/sec_5_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[0-7] The person drives the vehicle forward and then turns left. We can see that this is a man. Immediately afterwards, he holds the steering wheel and continues to drive forward. There are parked cars on the road and pedestrians riding bicycles in the opposite direction. The man continues driving this homemade vehicle forward, and the surrounding scenery moves backward as he moves forward."
+    },
+    {
+        "second": 6,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/OzgHv92051M/output_frames/sec_6_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[0-7] The person drives the vehicle forward and then turns left. We can see that this is a man. Immediately afterwards, he holds the steering wheel and continues to drive forward. There are parked cars on the road and pedestrians riding bicycles in the opposite direction. The man continues driving this homemade vehicle forward, and the surrounding scenery moves backward as he moves forward."
+    },
+    {
+        "second": 7,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/OzgHv92051M/output_frames/sec_7_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-7] The person drives the vehicle forward and then turns left. We can see that this is a man. Immediately afterwards, he holds the steering wheel and continues to drive forward. There are parked cars on the road and pedestrians riding bicycles in the opposite direction. The man continues driving this homemade vehicle forward, and the surrounding scenery moves backward as he moves forward."
+    },
+    {
+        "second": 8,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/OzgHv92051M/output_frames/sec_8_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[7-11] Then, the man drives while turning his head to look at the scenery on the roadside from time to time. As the vehicle moves quickly, the surrounding scenery moves backward. Finally, the camera zooms in, and we can see that the vehicle is powered by a small electric motor. It is attached to a wooden board, and the man is sitting in the driver's seat in front."
+    },
+    {
+        "second": 9,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/OzgHv92051M/output_frames/sec_9_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[7-11] Then, the man drives while turning his head to look at the scenery on the roadside from time to time. As the vehicle moves quickly, the surrounding scenery moves backward. Finally, the camera zooms in, and we can see that the vehicle is powered by a small electric motor. It is attached to a wooden board, and the man is sitting in the driver's seat in front."
+    },
+    {
+        "second": 10,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/OzgHv92051M/output_frames/sec_10_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[7-11] Then, the man drives while turning his head to look at the scenery on the roadside from time to time. As the vehicle moves quickly, the surrounding scenery moves backward. Finally, the camera zooms in, and we can see that the vehicle is powered by a small electric motor. It is attached to a wooden board, and the man is sitting in the driver's seat in front."
+    },
+    {
+        "second": 11,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/OzgHv92051M/output_frames/sec_11_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[7-11] Then, the man drives while turning his head to look at the scenery on the roadside from time to time. As the vehicle moves quickly, the surrounding scenery moves backward. Finally, the camera zooms in, and we can see that the vehicle is powered by a small electric motor. It is attached to a wooden board, and the man is sitting in the driver's seat in front."
+    }
+]

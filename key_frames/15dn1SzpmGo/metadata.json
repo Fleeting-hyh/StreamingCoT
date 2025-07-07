@@ -1,0 +1,128 @@
+[
+    {
+        "second": 0,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/15dn1SzpmGo/output_frames/sec_0_idx_10.jpg",
+        "fps": 25,
+        "explanation": "[0-0] A pile of colorful candies is placed in a metal container under a hydraulic press. The container is on a metal table with a green background."
+    },
+    {
+        "second": 1,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/15dn1SzpmGo/output_frames/sec_1_idx_20.jpg",
+        "fps": 25,
+        "explanation": "[0-3] The hydraulic press moves downwards, flattening the candies in the container. The candies spill out from the long holes on the edge of the press, forming long strips of colorful candy."
+    },
+    {
+        "second": 2,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/15dn1SzpmGo/output_frames/sec_2_idx_24.jpg",
+        "fps": 25,
+        "explanation": "[0-3] The hydraulic press moves downwards, flattening the candies in the container. The candies spill out from the long holes on the edge of the press, forming long strips of colorful candy."
+    },
+    {
+        "second": 3,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/15dn1SzpmGo/output_frames/sec_3_idx_8.jpg",
+        "fps": 25,
+        "explanation": "[0-3] The hydraulic press moves downwards, flattening the candies in the container. The candies spill out from the long holes on the edge of the press, forming long strips of colorful candy."
+    },
+    {
+        "second": 4,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/15dn1SzpmGo/output_frames/sec_4_idx_24.jpg",
+        "fps": 25,
+        "explanation": "[3-7] Next, the metal container is filled with a different type of candy, this time individually wrapped square candies. The hydraulic press moves downwards, and the candies spill out from the long holes on the edge of the press, forming long strips of colorful candy."
+    },
+    {
+        "second": 5,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/15dn1SzpmGo/output_frames/sec_5_idx_24.jpg",
+        "fps": 25,
+        "explanation": "[3-7] Next, the metal container is filled with a different type of candy, this time individually wrapped square candies. The hydraulic press moves downwards, and the candies spill out from the long holes on the edge of the press, forming long strips of colorful candy."
+    },
+    {
+        "second": 6,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/15dn1SzpmGo/output_frames/sec_6_idx_7.jpg",
+        "fps": 25,
+        "explanation": "[3-7] Next, the metal container is filled with a different type of candy, this time individually wrapped square candies. The hydraulic press moves downwards, and the candies spill out from the long holes on the edge of the press, forming long strips of colorful candy."
+    },
+    {
+        "second": 7,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/15dn1SzpmGo/output_frames/sec_7_idx_21.jpg",
+        "fps": 25,
+        "explanation": "[3-7] Next, the metal container is filled with a different type of candy, this time individually wrapped square candies. The hydraulic press moves downwards, and the candies spill out from the long holes on the edge of the press, forming long strips of colorful candy."
+    },
+    {
+        "second": 8,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/15dn1SzpmGo/output_frames/sec_8_idx_0.jpg",
+        "fps": 25,
+        "explanation": "[7-10] Subsequently, the metal container is filled with a pile of gold coin-shaped chocolates. The hydraulic press moves downwards, and the chocolates spill out from the round holes on the edge of the press, forming cylindrical chocolate bars."
+    },
+    {
+        "second": 9,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/15dn1SzpmGo/output_frames/sec_9_idx_24.jpg",
+        "fps": 25,
+        "explanation": "[7-10] Subsequently, the metal container is filled with a pile of gold coin-shaped chocolates. The hydraulic press moves downwards, and the chocolates spill out from the round holes on the edge of the press, forming cylindrical chocolate bars."
+    },
+    {
+        "second": 10,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/15dn1SzpmGo/output_frames/sec_10_idx_0.jpg",
+        "fps": 25,
+        "explanation": "[7-10] Subsequently, the metal container is filled with a pile of gold coin-shaped chocolates. The hydraulic press moves downwards, and the chocolates spill out from the round holes on the edge of the press, forming cylindrical chocolate bars."
+    },
+    {
+        "second": 11,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/15dn1SzpmGo/output_frames/sec_11_idx_24.jpg",
+        "fps": 25,
+        "explanation": "[10-13] Immediately after, the metal container is filled with a pile of candy hamburgers. The hydraulic press moves downwards, and the candy hamburgers spill out from the long holes on the edge of the press, becoming extremely crushed."
+    },
+    {
+        "second": 12,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/15dn1SzpmGo/output_frames/sec_12_idx_2.jpg",
+        "fps": 25,
+        "explanation": "[10-13] Immediately after, the metal container is filled with a pile of candy hamburgers. The hydraulic press moves downwards, and the candy hamburgers spill out from the long holes on the edge of the press, becoming extremely crushed."
+    },
+    {
+        "second": 13,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/15dn1SzpmGo/output_frames/sec_13_idx_16.jpg",
+        "fps": 25,
+        "explanation": "[10-13] Immediately after, the metal container is filled with a pile of candy hamburgers. The hydraulic press moves downwards, and the candy hamburgers spill out from the long holes on the edge of the press, becoming extremely crushed."
+    },
+    {
+        "second": 14,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/15dn1SzpmGo/output_frames/sec_14_idx_0.jpg",
+        "fps": 25,
+        "explanation": "[13-17] Then, the metal container is filled with a pile of colorful macarons. The hydraulic press moves downwards, and the colorful macarons spill out from the round holes on the edge of the press, forming cylindrical colorful sticks."
+    },
+    {
+        "second": 15,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/15dn1SzpmGo/output_frames/sec_15_idx_18.jpg",
+        "fps": 25,
+        "explanation": "[13-17] Then, the metal container is filled with a pile of colorful macarons. The hydraulic press moves downwards, and the colorful macarons spill out from the round holes on the edge of the press, forming cylindrical colorful sticks."
+    },
+    {
+        "second": 16,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/15dn1SzpmGo/output_frames/sec_16_idx_18.jpg",
+        "fps": 25,
+        "explanation": "[13-17] Then, the metal container is filled with a pile of colorful macarons. The hydraulic press moves downwards, and the colorful macarons spill out from the round holes on the edge of the press, forming cylindrical colorful sticks."
+    },
+    {
+        "second": 17,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/15dn1SzpmGo/output_frames/sec_17_idx_0.jpg",
+        "fps": 25,
+        "explanation": "[13-17] Then, the metal container is filled with a pile of colorful macarons. The hydraulic press moves downwards, and the colorful macarons spill out from the round holes on the edge of the press, forming cylindrical colorful sticks."
+    }
+]

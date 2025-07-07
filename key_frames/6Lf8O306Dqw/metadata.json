@@ -1,0 +1,72 @@
+[
+    {
+        "second": 0,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6Lf8O306Dqw/output_frames/sec_0_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[0-0] Two young ladies wearing identical outfits are standing face to face. They are wearing white tops and yellow shorts. There is a wooden seesaw on the ground, with a backdrop of green trees and mountains."
+    },
+    {
+        "second": 1,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6Lf8O306Dqw/output_frames/sec_1_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Next, the lady on the right starts to jump up and down while the lady on the left remains still. The force of the seesaw launches the lady on the left into the air, hitting a crane, and then she falls back down."
+    },
+    {
+        "second": 2,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6Lf8O306Dqw/output_frames/sec_2_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Next, the lady on the right starts to jump up and down while the lady on the left remains still. The force of the seesaw launches the lady on the left into the air, hitting a crane, and then she falls back down."
+    },
+    {
+        "second": 3,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6Lf8O306Dqw/output_frames/sec_3_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Next, the lady on the right starts to jump up and down while the lady on the left remains still. The force of the seesaw launches the lady on the left into the air, hitting a crane, and then she falls back down."
+    },
+    {
+        "second": 4,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6Lf8O306Dqw/output_frames/sec_4_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Next, the lady on the right starts to jump up and down while the lady on the left remains still. The force of the seesaw launches the lady on the left into the air, hitting a crane, and then she falls back down."
+    },
+    {
+        "second": 5,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6Lf8O306Dqw/output_frames/sec_5_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[4-9] Then the scene changes, a man wearing a blue short-sleeved shirt and black trousers appears outdoors. He is holding an orange bag, puts the lady who fell into the bag, carries it on his shoulder, and walks to the right."
+    },
+    {
+        "second": 6,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6Lf8O306Dqw/output_frames/sec_6_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[4-9] Then the scene changes, a man wearing a blue short-sleeved shirt and black trousers appears outdoors. He is holding an orange bag, puts the lady who fell into the bag, carries it on his shoulder, and walks to the right."
+    },
+    {
+        "second": 7,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6Lf8O306Dqw/output_frames/sec_7_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[4-9] Then the scene changes, a man wearing a blue short-sleeved shirt and black trousers appears outdoors. He is holding an orange bag, puts the lady who fell into the bag, carries it on his shoulder, and walks to the right."
+    },
+    {
+        "second": 8,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6Lf8O306Dqw/output_frames/sec_8_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[4-9] Then the scene changes, a man wearing a blue short-sleeved shirt and black trousers appears outdoors. He is holding an orange bag, puts the lady who fell into the bag, carries it on his shoulder, and walks to the right."
+    },
+    {
+        "second": 9,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6Lf8O306Dqw/output_frames/sec_9_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[4-9] Then the scene changes, a man wearing a blue short-sleeved shirt and black trousers appears outdoors. He is holding an orange bag, puts the lady who fell into the bag, carries it on his shoulder, and walks to the right."
+    }
+]

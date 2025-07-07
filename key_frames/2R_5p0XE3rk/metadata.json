@@ -1,0 +1,44 @@
+[
+    {
+        "second": 0,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2R_5p0XE3rk/output_frames/sec_0_idx_4.jpg",
+        "fps": 24,
+        "explanation": "[0-0] A car is parked in front of a convenience store, with a pair of blue sunglasses on it. On the upper right side of the screen, there's a black and white square frame, and to the right of it are the yellow letters \"doodle by LeopARTnik\"."
+    },
+    {
+        "second": 1,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2R_5p0XE3rk/output_frames/sec_1_idx_20.jpg",
+        "fps": 24,
+        "explanation": "[0-3] Then the convenience store door opens, a white car drives in from the left side of the screen, passes through the frame, and the camera zooms in. A duck walks out of the convenience store with a few bags in its hand and something in its mouth. The letters on the right side of the screen shift to the left side. The duck walks to the left, carrying bags and holding something in its mouth."
+    },
+    {
+        "second": 2,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2R_5p0XE3rk/output_frames/sec_2_idx_21.jpg",
+        "fps": 24,
+        "explanation": "[0-3] Then the convenience store door opens, a white car drives in from the left side of the screen, passes through the frame, and the camera zooms in. A duck walks out of the convenience store with a few bags in its hand and something in its mouth. The letters on the right side of the screen shift to the left side. The duck walks to the left, carrying bags and holding something in its mouth."
+    },
+    {
+        "second": 3,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2R_5p0XE3rk/output_frames/sec_3_idx_15.jpg",
+        "fps": 24,
+        "explanation": "[0-3] Then the convenience store door opens, a white car drives in from the left side of the screen, passes through the frame, and the camera zooms in. A duck walks out of the convenience store with a few bags in its hand and something in its mouth. The letters on the right side of the screen shift to the left side. The duck walks to the left, carrying bags and holding something in its mouth."
+    },
+    {
+        "second": 4,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2R_5p0XE3rk/output_frames/sec_4_idx_0.jpg",
+        "fps": 24,
+        "explanation": "[3-5] Finally, the duck continues walking to the left, a silver car drives in from the left side of the screen behind it, and the picture gradually darkens."
+    },
+    {
+        "second": 5,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2R_5p0XE3rk/output_frames/sec_5_idx_16.jpg",
+        "fps": 24,
+        "explanation": "[3-5] Finally, the duck continues walking to the left, a silver car drives in from the left side of the screen behind it, and the picture gradually darkens."
+    }
+]

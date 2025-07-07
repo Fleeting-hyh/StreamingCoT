@@ -1,0 +1,51 @@
+[
+    {
+        "second": 0,
+        "frame_index": 45,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CZ7Yf6IHgXw/output_frames/sec_0_idx_45.jpg",
+        "fps": 50,
+        "explanation": "[0-0] A large metal cutting blade of a machine is cutting a red metal bar."
+    },
+    {
+        "second": 1,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CZ7Yf6IHgXw/output_frames/sec_1_idx_0.jpg",
+        "fps": 50,
+        "explanation": "[0-3] Afterward, as the cutting continues, a large amount of metal chips spurts from the cutting point, scattering on the machine's platform."
+    },
+    {
+        "second": 2,
+        "frame_index": 46,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CZ7Yf6IHgXw/output_frames/sec_2_idx_46.jpg",
+        "fps": 50,
+        "explanation": "[0-3] Afterward, as the cutting continues, a large amount of metal chips spurts from the cutting point, scattering on the machine's platform."
+    },
+    {
+        "second": 3,
+        "frame_index": 47,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CZ7Yf6IHgXw/output_frames/sec_3_idx_47.jpg",
+        "fps": 50,
+        "explanation": "[0-3] Afterward, as the cutting continues, a large amount of metal chips spurts from the cutting point, scattering on the machine's platform."
+    },
+    {
+        "second": 4,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CZ7Yf6IHgXw/output_frames/sec_4_idx_12.jpg",
+        "fps": 50,
+        "explanation": "[3-7] Then the metal cutting blade continues to cut the metal bar, and more and more metal chips accumulate on the machine platform."
+    },
+    {
+        "second": 5,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CZ7Yf6IHgXw/output_frames/sec_5_idx_8.jpg",
+        "fps": 50,
+        "explanation": "[3-7] Then the metal cutting blade continues to cut the metal bar, and more and more metal chips accumulate on the machine platform."
+    },
+    {
+        "second": 6,
+        "frame_index": 36,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CZ7Yf6IHgXw/output_frames/sec_6_idx_36.jpg",
+        "fps": 50,
+        "explanation": "[3-7] Then the metal cutting blade continues to cut the metal bar, and more and more metal chips accumulate on the machine platform."
+    }
+]

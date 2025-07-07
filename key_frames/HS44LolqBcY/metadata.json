@@ -1,0 +1,65 @@
+[
+    {
+        "second": 0,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HS44LolqBcY/output_frames/sec_0_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A man wearing a white T-shirt and gray shorts is standing in front of a garage. He is pulling a blue jack. An orange McLaren sports car is parked in the garage. There is a blue cabinet behind the car. There are white subtitles at the top of the screen."
+    },
+    {
+        "second": 1,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HS44LolqBcY/output_frames/sec_1_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[0-2] The man walks forward and out of the garage. There are several trash cans next to the garage. The man comes to the driveway, where a green Lamborghini SUV is parked."
+    },
+    {
+        "second": 2,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HS44LolqBcY/output_frames/sec_2_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[0-2] The man walks forward and out of the garage. There are several trash cans next to the garage. The man comes to the driveway, where a green Lamborghini SUV is parked."
+    },
+    {
+        "second": 3,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HS44LolqBcY/output_frames/sec_3_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[2-9] The man pulls the jack and walks up the street, raises his left hand to say hello to the front. A white SUV is parked in front of a house behind him, and a black car is parked in front of another house. The man starts walking down the street. The street is lined with trees. There are white subtitles at the top of the screen."
+    },
+    {
+        "second": 4,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HS44LolqBcY/output_frames/sec_4_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[2-9] The man pulls the jack and walks up the street, raises his left hand to say hello to the front. A white SUV is parked in front of a house behind him, and a black car is parked in front of another house. The man starts walking down the street. The street is lined with trees. There are white subtitles at the top of the screen."
+    },
+    {
+        "second": 5,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HS44LolqBcY/output_frames/sec_5_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[2-9] The man pulls the jack and walks up the street, raises his left hand to say hello to the front. A white SUV is parked in front of a house behind him, and a black car is parked in front of another house. The man starts walking down the street. The street is lined with trees. There are white subtitles at the top of the screen."
+    },
+    {
+        "second": 6,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HS44LolqBcY/output_frames/sec_6_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[2-9] The man pulls the jack and walks up the street, raises his left hand to say hello to the front. A white SUV is parked in front of a house behind him, and a black car is parked in front of another house. The man starts walking down the street. The street is lined with trees. There are white subtitles at the top of the screen."
+    },
+    {
+        "second": 7,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HS44LolqBcY/output_frames/sec_7_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[2-9] The man pulls the jack and walks up the street, raises his left hand to say hello to the front. A white SUV is parked in front of a house behind him, and a black car is parked in front of another house. The man starts walking down the street. The street is lined with trees. There are white subtitles at the top of the screen."
+    },
+    {
+        "second": 8,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/HS44LolqBcY/output_frames/sec_8_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[2-9] The man pulls the jack and walks up the street, raises his left hand to say hello to the front. A white SUV is parked in front of a house behind him, and a black car is parked in front of another house. The man starts walking down the street. The street is lined with trees. There are white subtitles at the top of the screen."
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "second": 0,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7LsaNTs--pE/output_frames/sec_0_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A woman in a pink dress and a gold crown is standing on a gray sidewalk with her right hand raised. Behind her is a gray building in the shade."
+    },
+    {
+        "second": 1,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7LsaNTs--pE/output_frames/sec_1_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Then, the woman in the pink dress bends forward with her right hand raised and speaks. Afterwards, a baby in pink clothes with a pacifier in its mouth walks on a road. Then, the baby in pink clothes opens its arms and nods on the sidewalk."
+    },
+    {
+        "second": 2,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7LsaNTs--pE/output_frames/sec_2_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Then, the woman in the pink dress bends forward with her right hand raised and speaks. Afterwards, a baby in pink clothes with a pacifier in its mouth walks on a road. Then, the baby in pink clothes opens its arms and nods on the sidewalk."
+    },
+    {
+        "second": 3,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7LsaNTs--pE/output_frames/sec_3_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Then, the woman in the pink dress bends forward with her right hand raised and speaks. Afterwards, a baby in pink clothes with a pacifier in its mouth walks on a road. Then, the baby in pink clothes opens its arms and nods on the sidewalk."
+    },
+    {
+        "second": 4,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7LsaNTs--pE/output_frames/sec_4_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[3-7] Immediately, a foot crushes the baby in pink clothes. Then, a Tyrannosaurus Rex steps on the baby in pink clothes and speaks."
+    },
+    {
+        "second": 5,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7LsaNTs--pE/output_frames/sec_5_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[3-7] Immediately, a foot crushes the baby in pink clothes. Then, a Tyrannosaurus Rex steps on the baby in pink clothes and speaks."
+    },
+    {
+        "second": 6,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7LsaNTs--pE/output_frames/sec_6_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[3-7] Immediately, a foot crushes the baby in pink clothes. Then, a Tyrannosaurus Rex steps on the baby in pink clothes and speaks."
+    },
+    {
+        "second": 7,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7LsaNTs--pE/output_frames/sec_7_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[3-7] Immediately, a foot crushes the baby in pink clothes. Then, a Tyrannosaurus Rex steps on the baby in pink clothes and speaks."
+    }
+]

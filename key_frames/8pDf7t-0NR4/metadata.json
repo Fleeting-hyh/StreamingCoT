@@ -1,0 +1,58 @@
+[
+    {
+        "second": 0,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8pDf7t-0NR4/output_frames/sec_0_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A boy in a white school uniform with a black watch on his left wrist is sitting at a yellow desk. The boy with the black watch smiles and puts his hands together on the left side of his body. There are many posters on the white wall behind him. At the bottom of the screen, there are white subtitles: When you get punished."
+    },
+    {
+        "second": 1,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8pDf7t-0NR4/output_frames/sec_1_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Then the boy with the black watch on his left hand swings his arms and dances in front of the yellow desk. Then a long-haired girl in a white school uniform and a gray skirt appears on the left side of the screen. The long-haired girl and the boy with the black watch are doing the same movement, swinging their arms and dancing in front of the yellow desk. A line of white subtitles is added to the screen: and so do your besties."
+    },
+    {
+        "second": 2,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8pDf7t-0NR4/output_frames/sec_2_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Then the boy with the black watch on his left hand swings his arms and dances in front of the yellow desk. Then a long-haired girl in a white school uniform and a gray skirt appears on the left side of the screen. The long-haired girl and the boy with the black watch are doing the same movement, swinging their arms and dancing in front of the yellow desk. A line of white subtitles is added to the screen: and so do your besties."
+    },
+    {
+        "second": 3,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8pDf7t-0NR4/output_frames/sec_3_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Then the boy with the black watch on his left hand swings his arms and dances in front of the yellow desk. Then a long-haired girl in a white school uniform and a gray skirt appears on the left side of the screen. The long-haired girl and the boy with the black watch are doing the same movement, swinging their arms and dancing in front of the yellow desk. A line of white subtitles is added to the screen: and so do your besties."
+    },
+    {
+        "second": 4,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8pDf7t-0NR4/output_frames/sec_4_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[3-6] Then a boy in a white school uniform with a red bracelet on his right hand appears on the left side of the screen. The boy with the red bracelet on his right hand is doing the same movement, swinging his arms and dancing in front of the yellow desk."
+    },
+    {
+        "second": 5,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8pDf7t-0NR4/output_frames/sec_5_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[3-6] Then a boy in a white school uniform with a red bracelet on his right hand appears on the left side of the screen. The boy with the red bracelet on his right hand is doing the same movement, swinging his arms and dancing in front of the yellow desk."
+    },
+    {
+        "second": 6,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8pDf7t-0NR4/output_frames/sec_6_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[3-6] Then a boy in a white school uniform with a red bracelet on his right hand appears on the left side of the screen. The boy with the red bracelet on his right hand is doing the same movement, swinging his arms and dancing in front of the yellow desk."
+    },
+    {
+        "second": 7,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8pDf7t-0NR4/output_frames/sec_7_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[6-8] Then the boy with the black watch on his left hand, the girl with long hair and the boy with the red bracelet on his right hand are swinging their arms and dancing while sitting at the yellow desk."
+    }
+]

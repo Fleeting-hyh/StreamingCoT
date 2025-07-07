@@ -1,0 +1,149 @@
+[
+    {
+        "second": 0,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1eorCKJiW1o/output_frames/sec_0_idx_23.jpg",
+        "fps": 25,
+        "explanation": "[0-0] A man wearing a black hat and a black T-shirt stands in front of a blue background. He is holding a green packaged bottle in his left hand with a blue straw attached to the mouth of the bottle, and an orange utility knife in his right hand with the blade against the bottle."
+    },
+    {
+        "second": 1,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1eorCKJiW1o/output_frames/sec_1_idx_6.jpg",
+        "fps": 25,
+        "explanation": "[0-9] Next, the man cuts the green packaging with the utility knife, tearing off the packaging completely to reveal the transparent liquid inside the bottle. Then he puts one end of the straw device in his mouth, turns the bottle over, and points the mouth of the bottle downward."
+    },
+    {
+        "second": 2,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1eorCKJiW1o/output_frames/sec_2_idx_1.jpg",
+        "fps": 25,
+        "explanation": "[0-9] Next, the man cuts the green packaging with the utility knife, tearing off the packaging completely to reveal the transparent liquid inside the bottle. Then he puts one end of the straw device in his mouth, turns the bottle over, and points the mouth of the bottle downward."
+    },
+    {
+        "second": 3,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1eorCKJiW1o/output_frames/sec_3_idx_19.jpg",
+        "fps": 25,
+        "explanation": "[0-9] Next, the man cuts the green packaging with the utility knife, tearing off the packaging completely to reveal the transparent liquid inside the bottle. Then he puts one end of the straw device in his mouth, turns the bottle over, and points the mouth of the bottle downward."
+    },
+    {
+        "second": 4,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1eorCKJiW1o/output_frames/sec_4_idx_8.jpg",
+        "fps": 25,
+        "explanation": "[0-9] Next, the man cuts the green packaging with the utility knife, tearing off the packaging completely to reveal the transparent liquid inside the bottle. Then he puts one end of the straw device in his mouth, turns the bottle over, and points the mouth of the bottle downward."
+    },
+    {
+        "second": 5,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1eorCKJiW1o/output_frames/sec_5_idx_5.jpg",
+        "fps": 25,
+        "explanation": "[0-9] Next, the man cuts the green packaging with the utility knife, tearing off the packaging completely to reveal the transparent liquid inside the bottle. Then he puts one end of the straw device in his mouth, turns the bottle over, and points the mouth of the bottle downward."
+    },
+    {
+        "second": 6,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1eorCKJiW1o/output_frames/sec_6_idx_22.jpg",
+        "fps": 25,
+        "explanation": "[0-9] Next, the man cuts the green packaging with the utility knife, tearing off the packaging completely to reveal the transparent liquid inside the bottle. Then he puts one end of the straw device in his mouth, turns the bottle over, and points the mouth of the bottle downward."
+    },
+    {
+        "second": 7,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1eorCKJiW1o/output_frames/sec_7_idx_23.jpg",
+        "fps": 25,
+        "explanation": "[0-9] Next, the man cuts the green packaging with the utility knife, tearing off the packaging completely to reveal the transparent liquid inside the bottle. Then he puts one end of the straw device in his mouth, turns the bottle over, and points the mouth of the bottle downward."
+    },
+    {
+        "second": 8,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1eorCKJiW1o/output_frames/sec_8_idx_11.jpg",
+        "fps": 25,
+        "explanation": "[0-9] Next, the man cuts the green packaging with the utility knife, tearing off the packaging completely to reveal the transparent liquid inside the bottle. Then he puts one end of the straw device in his mouth, turns the bottle over, and points the mouth of the bottle downward."
+    },
+    {
+        "second": 9,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1eorCKJiW1o/output_frames/sec_9_idx_19.jpg",
+        "fps": 25,
+        "explanation": "[0-9] Next, the man cuts the green packaging with the utility knife, tearing off the packaging completely to reveal the transparent liquid inside the bottle. Then he puts one end of the straw device in his mouth, turns the bottle over, and points the mouth of the bottle downward."
+    },
+    {
+        "second": 10,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1eorCKJiW1o/output_frames/sec_10_idx_24.jpg",
+        "fps": 25,
+        "explanation": "[9-16] Immediately afterward, the man starts to drink the water. The water level in the bottle slowly drops as the man drinks all the water."
+    },
+    {
+        "second": 11,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1eorCKJiW1o/output_frames/sec_11_idx_4.jpg",
+        "fps": 25,
+        "explanation": "[9-16] Immediately afterward, the man starts to drink the water. The water level in the bottle slowly drops as the man drinks all the water."
+    },
+    {
+        "second": 12,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1eorCKJiW1o/output_frames/sec_12_idx_0.jpg",
+        "fps": 25,
+        "explanation": "[9-16] Immediately afterward, the man starts to drink the water. The water level in the bottle slowly drops as the man drinks all the water."
+    },
+    {
+        "second": 13,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1eorCKJiW1o/output_frames/sec_13_idx_4.jpg",
+        "fps": 25,
+        "explanation": "[9-16] Immediately afterward, the man starts to drink the water. The water level in the bottle slowly drops as the man drinks all the water."
+    },
+    {
+        "second": 14,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1eorCKJiW1o/output_frames/sec_14_idx_4.jpg",
+        "fps": 25,
+        "explanation": "[9-16] Immediately afterward, the man starts to drink the water. The water level in the bottle slowly drops as the man drinks all the water."
+    },
+    {
+        "second": 15,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1eorCKJiW1o/output_frames/sec_15_idx_23.jpg",
+        "fps": 25,
+        "explanation": "[9-16] Immediately afterward, the man starts to drink the water. The water level in the bottle slowly drops as the man drinks all the water."
+    },
+    {
+        "second": 16,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1eorCKJiW1o/output_frames/sec_16_idx_2.jpg",
+        "fps": 25,
+        "explanation": "[9-16] Immediately afterward, the man starts to drink the water. The water level in the bottle slowly drops as the man drinks all the water."
+    },
+    {
+        "second": 17,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1eorCKJiW1o/output_frames/sec_17_idx_20.jpg",
+        "fps": 25,
+        "explanation": "[16-20] Then, the yellow subtitle \"SUBSCRIBE\" appears on a pink background. The man takes the bottle away, looks at the camera, and finally opens his mouth."
+    },
+    {
+        "second": 18,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1eorCKJiW1o/output_frames/sec_18_idx_0.jpg",
+        "fps": 25,
+        "explanation": "[16-20] Then, the yellow subtitle \"SUBSCRIBE\" appears on a pink background. The man takes the bottle away, looks at the camera, and finally opens his mouth."
+    },
+    {
+        "second": 19,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1eorCKJiW1o/output_frames/sec_19_idx_15.jpg",
+        "fps": 25,
+        "explanation": "[16-20] Then, the yellow subtitle \"SUBSCRIBE\" appears on a pink background. The man takes the bottle away, looks at the camera, and finally opens his mouth."
+    },
+    {
+        "second": 20,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1eorCKJiW1o/output_frames/sec_20_idx_1.jpg",
+        "fps": 25,
+        "explanation": "[16-20] Then, the yellow subtitle \"SUBSCRIBE\" appears on a pink background. The man takes the bottle away, looks at the camera, and finally opens his mouth."
+    }
+]

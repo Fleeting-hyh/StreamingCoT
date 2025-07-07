@@ -1,0 +1,79 @@
+[
+    {
+        "second": 0,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QbthMR_QHRw/output_frames/sec_0_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[0-0] In a shoe store, shelves are fully stocked with shoeboxes and shoes."
+    },
+    {
+        "second": 1,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QbthMR_QHRw/output_frames/sec_1_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[0-6] Then the camera focuses on a pair of pink children's Crocs, followed by a hand taking the shoes to a shopping mall, outdoors, a park, a street, and a square."
+    },
+    {
+        "second": 2,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QbthMR_QHRw/output_frames/sec_2_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-6] Then the camera focuses on a pair of pink children's Crocs, followed by a hand taking the shoes to a shopping mall, outdoors, a park, a street, and a square."
+    },
+    {
+        "second": 3,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QbthMR_QHRw/output_frames/sec_3_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[0-6] Then the camera focuses on a pair of pink children's Crocs, followed by a hand taking the shoes to a shopping mall, outdoors, a park, a street, and a square."
+    },
+    {
+        "second": 4,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QbthMR_QHRw/output_frames/sec_4_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[0-6] Then the camera focuses on a pair of pink children's Crocs, followed by a hand taking the shoes to a shopping mall, outdoors, a park, a street, and a square."
+    },
+    {
+        "second": 5,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QbthMR_QHRw/output_frames/sec_5_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[0-6] Then the camera focuses on a pair of pink children's Crocs, followed by a hand taking the shoes to a shopping mall, outdoors, a park, a street, and a square."
+    },
+    {
+        "second": 6,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QbthMR_QHRw/output_frames/sec_6_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[0-6] Then the camera focuses on a pair of pink children's Crocs, followed by a hand taking the shoes to a shopping mall, outdoors, a park, a street, and a square."
+    },
+    {
+        "second": 7,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QbthMR_QHRw/output_frames/sec_7_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[6-10] Next, the hand carries the Crocs into an elevator and a room. Finally, the shoes are displayed on a cat's paws, making the cat look amusing."
+    },
+    {
+        "second": 8,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QbthMR_QHRw/output_frames/sec_8_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[6-10] Next, the hand carries the Crocs into an elevator and a room. Finally, the shoes are displayed on a cat's paws, making the cat look amusing."
+    },
+    {
+        "second": 9,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QbthMR_QHRw/output_frames/sec_9_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[6-10] Next, the hand carries the Crocs into an elevator and a room. Finally, the shoes are displayed on a cat's paws, making the cat look amusing."
+    },
+    {
+        "second": 10,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QbthMR_QHRw/output_frames/sec_10_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[6-10] Next, the hand carries the Crocs into an elevator and a room. Finally, the shoes are displayed on a cat's paws, making the cat look amusing."
+    }
+]

@@ -1,0 +1,135 @@
+[
+    {
+        "second": 0,
+        "frame_index": 41,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EIUduXtDOEk/output_frames/sec_0_idx_41.jpg",
+        "fps": 60,
+        "explanation": "[0-0] A man in a black T-shirt and shorts is walking forward in a park, with a thick mattress in front of him, preparing to jump. There is a white car in the distance."
+    },
+    {
+        "second": 1,
+        "frame_index": 32,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EIUduXtDOEk/output_frames/sec_1_idx_32.jpg",
+        "fps": 60,
+        "explanation": "[0-3] The man runs forward as the white car drives up and stops in front of him, the man jumps up and falls onto the mattress, landing safely."
+    },
+    {
+        "second": 2,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EIUduXtDOEk/output_frames/sec_2_idx_22.jpg",
+        "fps": 60,
+        "explanation": "[0-3] The man runs forward as the white car drives up and stops in front of him, the man jumps up and falls onto the mattress, landing safely."
+    },
+    {
+        "second": 3,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EIUduXtDOEk/output_frames/sec_3_idx_15.jpg",
+        "fps": 60,
+        "explanation": "[0-3] The man runs forward as the white car drives up and stops in front of him, the man jumps up and falls onto the mattress, landing safely."
+    },
+    {
+        "second": 4,
+        "frame_index": 53,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EIUduXtDOEk/output_frames/sec_4_idx_53.jpg",
+        "fps": 60,
+        "explanation": "[3-8] The scene changes to a beach. The man, now shirtless, is standing on a beach towel. He jumps up, performs a backflip, and lands sideways on the towel, then a pile of ice cubes is thrown over and sprinkled on the man."
+    },
+    {
+        "second": 5,
+        "frame_index": 41,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EIUduXtDOEk/output_frames/sec_5_idx_41.jpg",
+        "fps": 60,
+        "explanation": "[3-8] The scene changes to a beach. The man, now shirtless, is standing on a beach towel. He jumps up, performs a backflip, and lands sideways on the towel, then a pile of ice cubes is thrown over and sprinkled on the man."
+    },
+    {
+        "second": 6,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EIUduXtDOEk/output_frames/sec_6_idx_2.jpg",
+        "fps": 60,
+        "explanation": "[3-8] The scene changes to a beach. The man, now shirtless, is standing on a beach towel. He jumps up, performs a backflip, and lands sideways on the towel, then a pile of ice cubes is thrown over and sprinkled on the man."
+    },
+    {
+        "second": 7,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EIUduXtDOEk/output_frames/sec_7_idx_6.jpg",
+        "fps": 60,
+        "explanation": "[3-8] The scene changes to a beach. The man, now shirtless, is standing on a beach towel. He jumps up, performs a backflip, and lands sideways on the towel, then a pile of ice cubes is thrown over and sprinkled on the man."
+    },
+    {
+        "second": 8,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EIUduXtDOEk/output_frames/sec_8_idx_19.jpg",
+        "fps": 60,
+        "explanation": "[3-8] The scene changes to a beach. The man, now shirtless, is standing on a beach towel. He jumps up, performs a backflip, and lands sideways on the towel, then a pile of ice cubes is thrown over and sprinkled on the man."
+    },
+    {
+        "second": 9,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EIUduXtDOEk/output_frames/sec_9_idx_10.jpg",
+        "fps": 60,
+        "explanation": "[8-10] The scene changes to indoors. The man, now wearing a black hoodie, does a front flip forward, his head hitting the black table in front of him, turning into a pile of scattered building blocks."
+    },
+    {
+        "second": 10,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EIUduXtDOEk/output_frames/sec_10_idx_1.jpg",
+        "fps": 60,
+        "explanation": "[8-10] The scene changes to indoors. The man, now wearing a black hoodie, does a front flip forward, his head hitting the black table in front of him, turning into a pile of scattered building blocks."
+    },
+    {
+        "second": 11,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EIUduXtDOEk/output_frames/sec_11_idx_25.jpg",
+        "fps": 60,
+        "explanation": "[10-18] The scene changes again, and we're now in a large room with blue mats on the floor. The man in the white shirt is kneeling on the mat, aiming a NERF gun at the camera. Another man with red hair is standing on a balcony above him, also holding a Nerf gun. The man on the balcony jumps down, does a front flip, lands on the mattress and stands up. At the same time the man in the white shirt rolls forward, both pointing their guns at each other. The man in the white shirt then pulls a toy pistol from his pants pocket and shoots the red-haired man to the ground."
+    },
+    {
+        "second": 12,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EIUduXtDOEk/output_frames/sec_12_idx_2.jpg",
+        "fps": 60,
+        "explanation": "[10-18] The scene changes again, and we're now in a large room with blue mats on the floor. The man in the white shirt is kneeling on the mat, aiming a NERF gun at the camera. Another man with red hair is standing on a balcony above him, also holding a Nerf gun. The man on the balcony jumps down, does a front flip, lands on the mattress and stands up. At the same time the man in the white shirt rolls forward, both pointing their guns at each other. The man in the white shirt then pulls a toy pistol from his pants pocket and shoots the red-haired man to the ground."
+    },
+    {
+        "second": 13,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EIUduXtDOEk/output_frames/sec_13_idx_23.jpg",
+        "fps": 60,
+        "explanation": "[10-18] The scene changes again, and we're now in a large room with blue mats on the floor. The man in the white shirt is kneeling on the mat, aiming a NERF gun at the camera. Another man with red hair is standing on a balcony above him, also holding a Nerf gun. The man on the balcony jumps down, does a front flip, lands on the mattress and stands up. At the same time the man in the white shirt rolls forward, both pointing their guns at each other. The man in the white shirt then pulls a toy pistol from his pants pocket and shoots the red-haired man to the ground."
+    },
+    {
+        "second": 14,
+        "frame_index": 58,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EIUduXtDOEk/output_frames/sec_14_idx_58.jpg",
+        "fps": 60,
+        "explanation": "[10-18] The scene changes again, and we're now in a large room with blue mats on the floor. The man in the white shirt is kneeling on the mat, aiming a NERF gun at the camera. Another man with red hair is standing on a balcony above him, also holding a Nerf gun. The man on the balcony jumps down, does a front flip, lands on the mattress and stands up. At the same time the man in the white shirt rolls forward, both pointing their guns at each other. The man in the white shirt then pulls a toy pistol from his pants pocket and shoots the red-haired man to the ground."
+    },
+    {
+        "second": 15,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EIUduXtDOEk/output_frames/sec_15_idx_19.jpg",
+        "fps": 60,
+        "explanation": "[10-18] The scene changes again, and we're now in a large room with blue mats on the floor. The man in the white shirt is kneeling on the mat, aiming a NERF gun at the camera. Another man with red hair is standing on a balcony above him, also holding a Nerf gun. The man on the balcony jumps down, does a front flip, lands on the mattress and stands up. At the same time the man in the white shirt rolls forward, both pointing their guns at each other. The man in the white shirt then pulls a toy pistol from his pants pocket and shoots the red-haired man to the ground."
+    },
+    {
+        "second": 16,
+        "frame_index": 53,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EIUduXtDOEk/output_frames/sec_16_idx_53.jpg",
+        "fps": 60,
+        "explanation": "[10-18] The scene changes again, and we're now in a large room with blue mats on the floor. The man in the white shirt is kneeling on the mat, aiming a NERF gun at the camera. Another man with red hair is standing on a balcony above him, also holding a Nerf gun. The man on the balcony jumps down, does a front flip, lands on the mattress and stands up. At the same time the man in the white shirt rolls forward, both pointing their guns at each other. The man in the white shirt then pulls a toy pistol from his pants pocket and shoots the red-haired man to the ground."
+    },
+    {
+        "second": 17,
+        "frame_index": 52,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EIUduXtDOEk/output_frames/sec_17_idx_52.jpg",
+        "fps": 60,
+        "explanation": "[10-18] The scene changes again, and we're now in a large room with blue mats on the floor. The man in the white shirt is kneeling on the mat, aiming a NERF gun at the camera. Another man with red hair is standing on a balcony above him, also holding a Nerf gun. The man on the balcony jumps down, does a front flip, lands on the mattress and stands up. At the same time the man in the white shirt rolls forward, both pointing their guns at each other. The man in the white shirt then pulls a toy pistol from his pants pocket and shoots the red-haired man to the ground."
+    },
+    {
+        "second": 18,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EIUduXtDOEk/output_frames/sec_18_idx_3.jpg",
+        "fps": 60,
+        "explanation": "[10-18] The scene changes again, and we're now in a large room with blue mats on the floor. The man in the white shirt is kneeling on the mat, aiming a NERF gun at the camera. Another man with red hair is standing on a balcony above him, also holding a Nerf gun. The man on the balcony jumps down, does a front flip, lands on the mattress and stands up. At the same time the man in the white shirt rolls forward, both pointing their guns at each other. The man in the white shirt then pulls a toy pistol from his pants pocket and shoots the red-haired man to the ground."
+    }
+]

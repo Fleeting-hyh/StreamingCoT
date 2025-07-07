@@ -1,0 +1,72 @@
+[
+    {
+        "second": 0,
+        "frame_index": 36,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5IloXSHUmvM/output_frames/sec_0_idx_36.jpg",
+        "fps": 60,
+        "explanation": "[0-0] A person in a blue plush suit and a blue monster head is standing on the floor, holding a rolled-up yellow poster tube. Behind them is a white wall with a white door that has \"YouTube\" on it. Next to the door is a white light switch."
+    },
+    {
+        "second": 1,
+        "frame_index": 43,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5IloXSHUmvM/output_frames/sec_1_idx_43.jpg",
+        "fps": 60,
+        "explanation": "[0-4] Next, the person in the blue head raises their right hand, squats down, and faces right, shaking the poster tube. The door opens to reveal a person in a pink tracksuit and a pink monster head."
+    },
+    {
+        "second": 2,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5IloXSHUmvM/output_frames/sec_2_idx_14.jpg",
+        "fps": 60,
+        "explanation": "[0-4] Next, the person in the blue head raises their right hand, squats down, and faces right, shaking the poster tube. The door opens to reveal a person in a pink tracksuit and a pink monster head."
+    },
+    {
+        "second": 3,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5IloXSHUmvM/output_frames/sec_3_idx_7.jpg",
+        "fps": 60,
+        "explanation": "[0-4] Next, the person in the blue head raises their right hand, squats down, and faces right, shaking the poster tube. The door opens to reveal a person in a pink tracksuit and a pink monster head."
+    },
+    {
+        "second": 4,
+        "frame_index": 36,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5IloXSHUmvM/output_frames/sec_4_idx_36.jpg",
+        "fps": 60,
+        "explanation": "[0-4] Next, the person in the blue head raises their right hand, squats down, and faces right, shaking the poster tube. The door opens to reveal a person in a pink tracksuit and a pink monster head."
+    },
+    {
+        "second": 5,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5IloXSHUmvM/output_frames/sec_5_idx_25.jpg",
+        "fps": 60,
+        "explanation": "[4-6] Then, the person in the pink head walks up to the person in the blue head, shakes their hips with their back to the camera, and several brown and colorful poop emojis appear underneath them."
+    },
+    {
+        "second": 6,
+        "frame_index": 54,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5IloXSHUmvM/output_frames/sec_6_idx_54.jpg",
+        "fps": 60,
+        "explanation": "[4-6] Then, the person in the pink head walks up to the person in the blue head, shakes their hips with their back to the camera, and several brown and colorful poop emojis appear underneath them."
+    },
+    {
+        "second": 7,
+        "frame_index": 55,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5IloXSHUmvM/output_frames/sec_7_idx_55.jpg",
+        "fps": 60,
+        "explanation": "[6-10] Finally, the person in the pink head exits the room and closes the door. The poop emojis disappear, and the person in the blue head remains standing in place."
+    },
+    {
+        "second": 8,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5IloXSHUmvM/output_frames/sec_8_idx_22.jpg",
+        "fps": 60,
+        "explanation": "[6-10] Finally, the person in the pink head exits the room and closes the door. The poop emojis disappear, and the person in the blue head remains standing in place."
+    },
+    {
+        "second": 9,
+        "frame_index": 50,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5IloXSHUmvM/output_frames/sec_9_idx_50.jpg",
+        "fps": 60,
+        "explanation": "[6-10] Finally, the person in the pink head exits the room and closes the door. The poop emojis disappear, and the person in the blue head remains standing in place."
+    }
+]

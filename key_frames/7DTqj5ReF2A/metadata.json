@@ -1,0 +1,170 @@
+[
+    {
+        "second": 0,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7DTqj5ReF2A/output_frames/sec_0_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-0] In the video, two men are standing in front of a white kitchen island. The man on the left has a black beard and is wearing a short-sleeved army green T-shirt and holding a red bottle. He has a silver bracelet on his left wrist. The man on the right is wearing a greenish-gray short-sleeved T-shirt and holding a green bottle. They are playing tic-tac-toe. There is a reddish-brown wooden tic-tac-toe board on the island, with a pile of golden Os on the left and a pile of golden Xs on the right. The background is a gray wall with cabinets on it."
+    },
+    {
+        "second": 1,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7DTqj5ReF2A/output_frames/sec_1_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[0-2] They both smile and throw the bottles into the air together. The first time, the bottle of the man on the right lands standing up, and he places an X in the middle square."
+    },
+    {
+        "second": 2,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7DTqj5ReF2A/output_frames/sec_2_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[0-2] They both smile and throw the bottles into the air together. The first time, the bottle of the man on the right lands standing up, and he places an X in the middle square."
+    },
+    {
+        "second": 3,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7DTqj5ReF2A/output_frames/sec_3_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[2-5] The second time, both of their bottles land standing up. The man on the left places an O in the first square of the third row, and the man on the right places an X in the third square of the first row."
+    },
+    {
+        "second": 4,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7DTqj5ReF2A/output_frames/sec_4_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[2-5] The second time, both of their bottles land standing up. The man on the left places an O in the first square of the third row, and the man on the right places an X in the third square of the first row."
+    },
+    {
+        "second": 5,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7DTqj5ReF2A/output_frames/sec_5_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[2-5] The second time, both of their bottles land standing up. The man on the left places an O in the first square of the third row, and the man on the right places an X in the third square of the first row."
+    },
+    {
+        "second": 6,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7DTqj5ReF2A/output_frames/sec_6_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[5-9] They continue to the third round without success. In the fourth round, the bottle of the man on the left lands standing up, and he puts an O in the third square of the third row."
+    },
+    {
+        "second": 7,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7DTqj5ReF2A/output_frames/sec_7_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[5-9] They continue to the third round without success. In the fourth round, the bottle of the man on the left lands standing up, and he puts an O in the third square of the third row."
+    },
+    {
+        "second": 8,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7DTqj5ReF2A/output_frames/sec_8_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[5-9] They continue to the third round without success. In the fourth round, the bottle of the man on the left lands standing up, and he puts an O in the third square of the third row."
+    },
+    {
+        "second": 9,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7DTqj5ReF2A/output_frames/sec_9_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[5-9] They continue to the third round without success. In the fourth round, the bottle of the man on the left lands standing up, and he puts an O in the third square of the third row."
+    },
+    {
+        "second": 10,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7DTqj5ReF2A/output_frames/sec_10_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[9-14] In the fifth round, the bottle of the man on the left lands standing up again. He happily picks up the O and is about to place it in the second square of the third row to win the game, but accidentally drops it into the third square of the second row. He smiles a little helplessly, and the man on the right laughs."
+    },
+    {
+        "second": 11,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7DTqj5ReF2A/output_frames/sec_11_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[9-14] In the fifth round, the bottle of the man on the left lands standing up again. He happily picks up the O and is about to place it in the second square of the third row to win the game, but accidentally drops it into the third square of the second row. He smiles a little helplessly, and the man on the right laughs."
+    },
+    {
+        "second": 12,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7DTqj5ReF2A/output_frames/sec_12_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[9-14] In the fifth round, the bottle of the man on the left lands standing up again. He happily picks up the O and is about to place it in the second square of the third row to win the game, but accidentally drops it into the third square of the second row. He smiles a little helplessly, and the man on the right laughs."
+    },
+    {
+        "second": 13,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7DTqj5ReF2A/output_frames/sec_13_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[9-14] In the fifth round, the bottle of the man on the left lands standing up again. He happily picks up the O and is about to place it in the second square of the third row to win the game, but accidentally drops it into the third square of the second row. He smiles a little helplessly, and the man on the right laughs."
+    },
+    {
+        "second": 14,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7DTqj5ReF2A/output_frames/sec_14_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[9-14] In the fifth round, the bottle of the man on the left lands standing up again. He happily picks up the O and is about to place it in the second square of the third row to win the game, but accidentally drops it into the third square of the second row. He smiles a little helplessly, and the man on the right laughs."
+    },
+    {
+        "second": 15,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7DTqj5ReF2A/output_frames/sec_15_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[14-17] In the sixth round, the bottle of the man on the right lands standing up, and he places an X in the second square of the third row."
+    },
+    {
+        "second": 16,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7DTqj5ReF2A/output_frames/sec_16_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[14-17] In the sixth round, the bottle of the man on the right lands standing up, and he places an X in the second square of the third row."
+    },
+    {
+        "second": 17,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7DTqj5ReF2A/output_frames/sec_17_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[14-17] In the sixth round, the bottle of the man on the right lands standing up, and he places an X in the second square of the third row."
+    },
+    {
+        "second": 18,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7DTqj5ReF2A/output_frames/sec_18_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[17-19] In the seventh round, both of their bottles land standing up. The man on the left puts an O in the first square of the second row, and the man on the right puts an X in the second square of the first row. His Xs form a straight line."
+    },
+    {
+        "second": 19,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7DTqj5ReF2A/output_frames/sec_19_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[17-19] In the seventh round, both of their bottles land standing up. The man on the left puts an O in the first square of the second row, and the man on the right puts an X in the second square of the first row. His Xs form a straight line."
+    },
+    {
+        "second": 20,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7DTqj5ReF2A/output_frames/sec_20_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[19-23] In the eighth round, the bottle of the man on the left lands standing up. He looks at the board, raises his finger, and smiles helplessly. The white subtitle \"Winner\" appears on the right side of the screen. The man on the right raises his arm and smiles happily to celebrate his victory."
+    },
+    {
+        "second": 21,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7DTqj5ReF2A/output_frames/sec_21_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[19-23] In the eighth round, the bottle of the man on the left lands standing up. He looks at the board, raises his finger, and smiles helplessly. The white subtitle \"Winner\" appears on the right side of the screen. The man on the right raises his arm and smiles happily to celebrate his victory."
+    },
+    {
+        "second": 22,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7DTqj5ReF2A/output_frames/sec_22_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[19-23] In the eighth round, the bottle of the man on the left lands standing up. He looks at the board, raises his finger, and smiles helplessly. The white subtitle \"Winner\" appears on the right side of the screen. The man on the right raises his arm and smiles happily to celebrate his victory."
+    },
+    {
+        "second": 23,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7DTqj5ReF2A/output_frames/sec_23_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[19-23] In the eighth round, the bottle of the man on the left lands standing up. He looks at the board, raises his finger, and smiles helplessly. The white subtitle \"Winner\" appears on the right side of the screen. The man on the right raises his arm and smiles happily to celebrate his victory."
+    }
+]

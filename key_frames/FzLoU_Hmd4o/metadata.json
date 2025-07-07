@@ -1,0 +1,93 @@
+[
+    {
+        "second": 0,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FzLoU_Hmd4o/output_frames/sec_0_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[0-0] In the picture, there is a gray water dispenser with a red striped paper cup on it, and a coffee-colored hand reaches out. There is also a yellow cabinet in the background."
+    },
+    {
+        "second": 1,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FzLoU_Hmd4o/output_frames/sec_1_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-5] First, the finger presses the button, and dark brown water starts to flow into the cup. A child is watching it in front of the water dispenser. Suddenly, a sheep appears next to the child, raises a hand, and makes a gesture."
+    },
+    {
+        "second": 2,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FzLoU_Hmd4o/output_frames/sec_2_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[0-5] First, the finger presses the button, and dark brown water starts to flow into the cup. A child is watching it in front of the water dispenser. Suddenly, a sheep appears next to the child, raises a hand, and makes a gesture."
+    },
+    {
+        "second": 3,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FzLoU_Hmd4o/output_frames/sec_3_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-5] First, the finger presses the button, and dark brown water starts to flow into the cup. A child is watching it in front of the water dispenser. Suddenly, a sheep appears next to the child, raises a hand, and makes a gesture."
+    },
+    {
+        "second": 4,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FzLoU_Hmd4o/output_frames/sec_4_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[0-5] First, the finger presses the button, and dark brown water starts to flow into the cup. A child is watching it in front of the water dispenser. Suddenly, a sheep appears next to the child, raises a hand, and makes a gesture."
+    },
+    {
+        "second": 5,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FzLoU_Hmd4o/output_frames/sec_5_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[0-5] First, the finger presses the button, and dark brown water starts to flow into the cup. A child is watching it in front of the water dispenser. Suddenly, a sheep appears next to the child, raises a hand, and makes a gesture."
+    },
+    {
+        "second": 6,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FzLoU_Hmd4o/output_frames/sec_6_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[5-8] First, the finger, at this moment, a finger presses the button, and water starts to flow into the cup from the circle circled by the hand."
+    },
+    {
+        "second": 7,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FzLoU_Hmd4o/output_frames/sec_7_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[5-8] First, the finger, at this moment, a finger presses the button, and water starts to flow into the cup from the circle circled by the hand."
+    },
+    {
+        "second": 8,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FzLoU_Hmd4o/output_frames/sec_8_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[5-8] First, the finger, at this moment, a finger presses the button, and water starts to flow into the cup from the circle circled by the hand."
+    },
+    {
+        "second": 9,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FzLoU_Hmd4o/output_frames/sec_9_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[8-12] Finally, the child drinks water with the paper cup, while the sheep watches from the side."
+    },
+    {
+        "second": 10,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FzLoU_Hmd4o/output_frames/sec_10_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[8-12] Finally, the child drinks water with the paper cup, while the sheep watches from the side."
+    },
+    {
+        "second": 11,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FzLoU_Hmd4o/output_frames/sec_11_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[8-12] Finally, the child drinks water with the paper cup, while the sheep watches from the side."
+    },
+    {
+        "second": 12,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/FzLoU_Hmd4o/output_frames/sec_12_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[8-12] Finally, the child drinks water with the paper cup, while the sheep watches from the side."
+    }
+]

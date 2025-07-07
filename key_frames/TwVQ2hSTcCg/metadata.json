@@ -1,0 +1,58 @@
+[
+    {
+        "second": 0,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TwVQ2hSTcCg/output_frames/sec_0_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[0-0] On a riverside trail, there is some accumulated water and scattered branches on the steps, and a patch of green vegetation beside the path. Some trees and buildings can be seen in the distance. There is a surprised emoji at the bottom of the screen and a black and white animal image on a white background at the top."
+    },
+    {
+        "second": 1,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TwVQ2hSTcCg/output_frames/sec_1_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Then the camera zooms in, and a snake can be seen on the steps, moving down the steps. There is a bird standing on the lower step, then a red circle symbol appears around the bird, and then the snake continues to move forward."
+    },
+    {
+        "second": 2,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TwVQ2hSTcCg/output_frames/sec_2_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Then the camera zooms in, and a snake can be seen on the steps, moving down the steps. There is a bird standing on the lower step, then a red circle symbol appears around the bird, and then the snake continues to move forward."
+    },
+    {
+        "second": 3,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TwVQ2hSTcCg/output_frames/sec_3_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Then the camera zooms in, and a snake can be seen on the steps, moving down the steps. There is a bird standing on the lower step, then a red circle symbol appears around the bird, and then the snake continues to move forward."
+    },
+    {
+        "second": 4,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TwVQ2hSTcCg/output_frames/sec_4_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Then the camera zooms in, and a snake can be seen on the steps, moving down the steps. There is a bird standing on the lower step, then a red circle symbol appears around the bird, and then the snake continues to move forward."
+    },
+    {
+        "second": 5,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TwVQ2hSTcCg/output_frames/sec_5_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[4-7] Immediately afterward, the snake moves next to the bird, the bird stands on the edge of the step, staring at the snake. The snake then jumps up forcefully and lands on the ground. The snake continues to move forward, part of its body has left the steps, and finally, the screen turns black."
+    },
+    {
+        "second": 6,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TwVQ2hSTcCg/output_frames/sec_6_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[4-7] Immediately afterward, the snake moves next to the bird, the bird stands on the edge of the step, staring at the snake. The snake then jumps up forcefully and lands on the ground. The snake continues to move forward, part of its body has left the steps, and finally, the screen turns black."
+    },
+    {
+        "second": 7,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TwVQ2hSTcCg/output_frames/sec_7_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[4-7] Immediately afterward, the snake moves next to the bird, the bird stands on the edge of the step, staring at the snake. The snake then jumps up forcefully and lands on the ground. The snake continues to move forward, part of its body has left the steps, and finally, the screen turns black."
+    }
+]

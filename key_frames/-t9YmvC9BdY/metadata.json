@@ -1,0 +1,100 @@
+[
+    {
+        "second": 0,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-t9YmvC9BdY/output_frames/sec_0_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A man in a watermelon-patterned shirt stands in front of a TV, mouth agape, watching the screen. The TV displays a game screen, where a game character stands with his back to the viewer at the edge of a tall building. Information is displayed in the upper right corner, including a fist icon, time, amount of money, a full health bar, and a full star rating. The amount of money is 99999999, and both the health bar and star rating are full. In the lower left corner, there's a mini-map, marking the character's location and some landmarks."
+    },
+    {
+        "second": 1,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-t9YmvC9BdY/output_frames/sec_1_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-3] The man puts his index finger to his lips, signaling silence, then opens his hand and gestures, turns towards the TV, and snaps his fingers at the game character."
+    },
+    {
+        "second": 2,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-t9YmvC9BdY/output_frames/sec_2_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[0-3] The man puts his index finger to his lips, signaling silence, then opens his hand and gestures, turns towards the TV, and snaps his fingers at the game character."
+    },
+    {
+        "second": 3,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-t9YmvC9BdY/output_frames/sec_3_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[0-3] The man puts his index finger to his lips, signaling silence, then opens his hand and gestures, turns towards the TV, and snaps his fingers at the game character."
+    },
+    {
+        "second": 4,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-t9YmvC9BdY/output_frames/sec_4_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[3-5] The game character then jumps off the tall building. The man covers his mouth with his hand and turns to look at the TV."
+    },
+    {
+        "second": 5,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-t9YmvC9BdY/output_frames/sec_5_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[3-5] The game character then jumps off the tall building. The man covers his mouth with his hand and turns to look at the TV."
+    },
+    {
+        "second": 6,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-t9YmvC9BdY/output_frames/sec_6_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[5-7] The game character continues to fall, and the man reaches out and gestures at the TV screen, saying something."
+    },
+    {
+        "second": 7,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-t9YmvC9BdY/output_frames/sec_7_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[5-7] The game character continues to fall, and the man reaches out and gestures at the TV screen, saying something."
+    },
+    {
+        "second": 8,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-t9YmvC9BdY/output_frames/sec_8_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[7-9] The game character hits the ground, surrounded by blood. The screen suddenly turns black and white, frozen at the moment of impact. The man clenches one hand into a fist. A gray rectangle appears in the middle of the TV screen with English subtitles inside."
+    },
+    {
+        "second": 9,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-t9YmvC9BdY/output_frames/sec_9_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[7-9] The game character hits the ground, surrounded by blood. The screen suddenly turns black and white, frozen at the moment of impact. The man clenches one hand into a fist. A gray rectangle appears in the middle of the TV screen with English subtitles inside."
+    },
+    {
+        "second": 10,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-t9YmvC9BdY/output_frames/sec_10_idx_24.jpg",
+        "fps": 30,
+        "explanation": "[9-13] Finally, the man turns his head to look forward, covers his mouth with his hand, widens his eyes, and then leaves the screen after putting his hand down."
+    },
+    {
+        "second": 11,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-t9YmvC9BdY/output_frames/sec_11_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[9-13] Finally, the man turns his head to look forward, covers his mouth with his hand, widens his eyes, and then leaves the screen after putting his hand down."
+    },
+    {
+        "second": 12,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-t9YmvC9BdY/output_frames/sec_12_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[9-13] Finally, the man turns his head to look forward, covers his mouth with his hand, widens his eyes, and then leaves the screen after putting his hand down."
+    },
+    {
+        "second": 13,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/-t9YmvC9BdY/output_frames/sec_13_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[9-13] Finally, the man turns his head to look forward, covers his mouth with his hand, widens his eyes, and then leaves the screen after putting his hand down."
+    }
+]

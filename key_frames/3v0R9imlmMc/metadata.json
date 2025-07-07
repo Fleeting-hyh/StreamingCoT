@@ -1,0 +1,30 @@
+[
+    {
+        "second": 0,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3v0R9imlmMc/output_frames/sec_0_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-0] Outdoors, a little boy in a dark blue T-shirt and grey pants is riding a brown toy horse, behind him is a little boy in a blue T-shirt and light blue pants riding a white toy horse, their hands gripping silver metal bars, the toy horses moving along a yellow track. To the left is a brown building, the background is green trees and low shrubs, and green grass. At the top and bottom of the screen are the words \"@gload& Famnily.\""
+    },
+    {
+        "second": 1,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3v0R9imlmMc/output_frames/sec_1_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Then, the toy horses move up and down the yellow track, the children looking ahead."
+    },
+    {
+        "second": 2,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3v0R9imlmMc/output_frames/sec_2_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Then, the toy horses move up and down the yellow track, the children looking ahead."
+    },
+    {
+        "second": 3,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3v0R9imlmMc/output_frames/sec_3_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[2-4] Then, as the camera moves, only the boy in front is in the picture, and he turns his head to look to the right."
+    }
+]

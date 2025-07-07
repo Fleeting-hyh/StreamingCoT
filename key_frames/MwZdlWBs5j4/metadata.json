@@ -1,0 +1,51 @@
+[
+    {
+        "second": 0,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MwZdlWBs5j4/output_frames/sec_0_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A man is riding a motorcycle on a multi-lane highway. He is wearing black clothes and a black helmet. A brightly colored pink sports car is in the right lane. Many cars can be seen ahead on the road, and there are many trees and green vegetation on the slopes beside the highway."
+    },
+    {
+        "second": 1,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MwZdlWBs5j4/output_frames/sec_1_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Then the motorcycle and the pink sports car drive forward together quickly."
+    },
+    {
+        "second": 2,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MwZdlWBs5j4/output_frames/sec_2_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Then the motorcycle and the pink sports car drive forward together quickly."
+    },
+    {
+        "second": 3,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MwZdlWBs5j4/output_frames/sec_3_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[2-4] Immediately, the camera zooms in on the two vehicles. It can be seen that the motorcyclist is performing a wheelie stunt, keeping the motorcycle balanced, controlling the direction, and driving side by side with the sports car. The motorcycle is also pink."
+    },
+    {
+        "second": 4,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MwZdlWBs5j4/output_frames/sec_4_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[2-4] Immediately, the camera zooms in on the two vehicles. It can be seen that the motorcyclist is performing a wheelie stunt, keeping the motorcycle balanced, controlling the direction, and driving side by side with the sports car. The motorcycle is also pink."
+    },
+    {
+        "second": 5,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MwZdlWBs5j4/output_frames/sec_5_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[4-6] Subsequently, the camera zooms out, and the motorcyclist continues to skillfully maintain the wheelie position, controlling the balance of the motorcycle, and driving on the highway. It can be seen that the motorcyclist is also wearing a black mask on his face."
+    },
+    {
+        "second": 6,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/MwZdlWBs5j4/output_frames/sec_6_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[4-6] Subsequently, the camera zooms out, and the motorcyclist continues to skillfully maintain the wheelie position, controlling the balance of the motorcycle, and driving on the highway. It can be seen that the motorcyclist is also wearing a black mask on his face."
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "second": 0,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9vTm83n7o4U/output_frames/sec_0_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[0-0] Five children are sitting on the ground. The child on the far left is wearing pink clothes and red pants. The little girl next to her is wearing a purple top and black pants. The girl in the middle is wearing a blue top and brown pants. The boy next to her is wearing a blue short-sleeved shirt, and the child on the far right is wearing a pink top. There are two adult monkeys and a baby monkey beside them. The baby monkey's hands are on the legs of the child on the far left. There is an electric fan behind them, and several people are sitting next to it."
+    },
+    {
+        "second": 1,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9vTm83n7o4U/output_frames/sec_1_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Then the child in the pink clothes on the far left puts her hand next to the baby monkey, and the adult monkey suddenly pounces on the child, who falls to the ground in fright."
+    },
+    {
+        "second": 2,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9vTm83n7o4U/output_frames/sec_2_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Then the child in the pink clothes on the far left puts her hand next to the baby monkey, and the adult monkey suddenly pounces on the child, who falls to the ground in fright."
+    },
+    {
+        "second": 3,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9vTm83n7o4U/output_frames/sec_3_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Then the child in the pink clothes on the far left puts her hand next to the baby monkey, and the adult monkey suddenly pounces on the child, who falls to the ground in fright."
+    },
+    {
+        "second": 4,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9vTm83n7o4U/output_frames/sec_4_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[3-7] Finally, the other children stand up and run backwards. The child who fell grabs the collar of the girl in purple, and the two children run backwards while playing. The monkey watches quietly from the side."
+    },
+    {
+        "second": 5,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9vTm83n7o4U/output_frames/sec_5_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[3-7] Finally, the other children stand up and run backwards. The child who fell grabs the collar of the girl in purple, and the two children run backwards while playing. The monkey watches quietly from the side."
+    },
+    {
+        "second": 6,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/9vTm83n7o4U/output_frames/sec_6_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[3-7] Finally, the other children stand up and run backwards. The child who fell grabs the collar of the girl in purple, and the two children run backwards while playing. The monkey watches quietly from the side."
+    }
+]

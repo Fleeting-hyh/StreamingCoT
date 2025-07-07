@@ -1,0 +1,401 @@
+[
+    {
+        "second": 0,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8n-CGVfWbZQ/output_frames/sec_0_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-0] The video begins with a living room scene where two girls are sitting on a brown sofa, each with a blue pillow on their lap. The girl on the left is wearing a green short-sleeved shirt and jeans, holding a doll and a comb, combing the doll's hair. The girl on the right is wearing similar clothes and is holding a teddy bear. Behind them is a white wall."
+    },
+    {
+        "second": 1,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8n-CGVfWbZQ/output_frames/sec_1_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[0-9] The girl on the right looks at the doll in the left girl's hand, reaches for it, and the two girls start fighting over the doll. After snatching the doll, the girl on the right pushes the left girl away, then happily combs the doll's hair, while the left girl lowers her head in frustration."
+    },
+    {
+        "second": 2,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8n-CGVfWbZQ/output_frames/sec_2_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[0-9] The girl on the right looks at the doll in the left girl's hand, reaches for it, and the two girls start fighting over the doll. After snatching the doll, the girl on the right pushes the left girl away, then happily combs the doll's hair, while the left girl lowers her head in frustration."
+    },
+    {
+        "second": 3,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8n-CGVfWbZQ/output_frames/sec_3_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[0-9] The girl on the right looks at the doll in the left girl's hand, reaches for it, and the two girls start fighting over the doll. After snatching the doll, the girl on the right pushes the left girl away, then happily combs the doll's hair, while the left girl lowers her head in frustration."
+    },
+    {
+        "second": 4,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8n-CGVfWbZQ/output_frames/sec_4_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[0-9] The girl on the right looks at the doll in the left girl's hand, reaches for it, and the two girls start fighting over the doll. After snatching the doll, the girl on the right pushes the left girl away, then happily combs the doll's hair, while the left girl lowers her head in frustration."
+    },
+    {
+        "second": 5,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8n-CGVfWbZQ/output_frames/sec_5_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-9] The girl on the right looks at the doll in the left girl's hand, reaches for it, and the two girls start fighting over the doll. After snatching the doll, the girl on the right pushes the left girl away, then happily combs the doll's hair, while the left girl lowers her head in frustration."
+    },
+    {
+        "second": 6,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8n-CGVfWbZQ/output_frames/sec_6_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[0-9] The girl on the right looks at the doll in the left girl's hand, reaches for it, and the two girls start fighting over the doll. After snatching the doll, the girl on the right pushes the left girl away, then happily combs the doll's hair, while the left girl lowers her head in frustration."
+    },
+    {
+        "second": 7,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8n-CGVfWbZQ/output_frames/sec_7_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[0-9] The girl on the right looks at the doll in the left girl's hand, reaches for it, and the two girls start fighting over the doll. After snatching the doll, the girl on the right pushes the left girl away, then happily combs the doll's hair, while the left girl lowers her head in frustration."
+    },
+    {
+        "second": 8,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8n-CGVfWbZQ/output_frames/sec_8_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[0-9] The girl on the right looks at the doll in the left girl's hand, reaches for it, and the two girls start fighting over the doll. After snatching the doll, the girl on the right pushes the left girl away, then happily combs the doll's hair, while the left girl lowers her head in frustration."
+    },
+    {
+        "second": 9,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8n-CGVfWbZQ/output_frames/sec_9_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[0-9] The girl on the right looks at the doll in the left girl's hand, reaches for it, and the two girls start fighting over the doll. After snatching the doll, the girl on the right pushes the left girl away, then happily combs the doll's hair, while the left girl lowers her head in frustration."
+    },
+    {
+        "second": 10,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8n-CGVfWbZQ/output_frames/sec_10_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[9-16] At this point, the camera switches to a panoramic view of the living room, and a man in blue clothes wearing an old man mask walks out of the room. He walks toward the girl on the right sitting on the sofa, strokes her head, then takes out a snowman toy from his pocket and hands it to her."
+    },
+    {
+        "second": 11,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8n-CGVfWbZQ/output_frames/sec_11_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[9-16] At this point, the camera switches to a panoramic view of the living room, and a man in blue clothes wearing an old man mask walks out of the room. He walks toward the girl on the right sitting on the sofa, strokes her head, then takes out a snowman toy from his pocket and hands it to her."
+    },
+    {
+        "second": 12,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8n-CGVfWbZQ/output_frames/sec_12_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[9-16] At this point, the camera switches to a panoramic view of the living room, and a man in blue clothes wearing an old man mask walks out of the room. He walks toward the girl on the right sitting on the sofa, strokes her head, then takes out a snowman toy from his pocket and hands it to her."
+    },
+    {
+        "second": 13,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8n-CGVfWbZQ/output_frames/sec_13_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[9-16] At this point, the camera switches to a panoramic view of the living room, and a man in blue clothes wearing an old man mask walks out of the room. He walks toward the girl on the right sitting on the sofa, strokes her head, then takes out a snowman toy from his pocket and hands it to her."
+    },
+    {
+        "second": 14,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8n-CGVfWbZQ/output_frames/sec_14_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[9-16] At this point, the camera switches to a panoramic view of the living room, and a man in blue clothes wearing an old man mask walks out of the room. He walks toward the girl on the right sitting on the sofa, strokes her head, then takes out a snowman toy from his pocket and hands it to her."
+    },
+    {
+        "second": 15,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8n-CGVfWbZQ/output_frames/sec_15_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[9-16] At this point, the camera switches to a panoramic view of the living room, and a man in blue clothes wearing an old man mask walks out of the room. He walks toward the girl on the right sitting on the sofa, strokes her head, then takes out a snowman toy from his pocket and hands it to her."
+    },
+    {
+        "second": 16,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8n-CGVfWbZQ/output_frames/sec_16_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[9-16] At this point, the camera switches to a panoramic view of the living room, and a man in blue clothes wearing an old man mask walks out of the room. He walks toward the girl on the right sitting on the sofa, strokes her head, then takes out a snowman toy from his pocket and hands it to her."
+    },
+    {
+        "second": 17,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8n-CGVfWbZQ/output_frames/sec_17_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[16-25] Then the girl on the left sees this and reaches out her hands to the man in blue for the toy with a wronged expression, but the man in blue just shakes his finger and turns away."
+    },
+    {
+        "second": 18,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8n-CGVfWbZQ/output_frames/sec_18_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[16-25] Then the girl on the left sees this and reaches out her hands to the man in blue for the toy with a wronged expression, but the man in blue just shakes his finger and turns away."
+    },
+    {
+        "second": 19,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8n-CGVfWbZQ/output_frames/sec_19_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[16-25] Then the girl on the left sees this and reaches out her hands to the man in blue for the toy with a wronged expression, but the man in blue just shakes his finger and turns away."
+    },
+    {
+        "second": 20,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8n-CGVfWbZQ/output_frames/sec_20_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[16-25] Then the girl on the left sees this and reaches out her hands to the man in blue for the toy with a wronged expression, but the man in blue just shakes his finger and turns away."
+    },
+    {
+        "second": 21,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8n-CGVfWbZQ/output_frames/sec_21_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[16-25] Then the girl on the left sees this and reaches out her hands to the man in blue for the toy with a wronged expression, but the man in blue just shakes his finger and turns away."
+    },
+    {
+        "second": 22,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8n-CGVfWbZQ/output_frames/sec_22_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[16-25] Then the girl on the left sees this and reaches out her hands to the man in blue for the toy with a wronged expression, but the man in blue just shakes his finger and turns away."
+    },
+    {
+        "second": 23,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8n-CGVfWbZQ/output_frames/sec_23_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[16-25] Then the girl on the left sees this and reaches out her hands to the man in blue for the toy with a wronged expression, but the man in blue just shakes his finger and turns away."
+    },
+    {
+        "second": 24,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8n-CGVfWbZQ/output_frames/sec_24_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[16-25] Then the girl on the left sees this and reaches out her hands to the man in blue for the toy with a wronged expression, but the man in blue just shakes his finger and turns away."
+    },
+    {
+        "second": 25,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8n-CGVfWbZQ/output_frames/sec_25_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[16-25] Then the girl on the left sees this and reaches out her hands to the man in blue for the toy with a wronged expression, but the man in blue just shakes his finger and turns away."
+    },
+    {
+        "second": 26,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8n-CGVfWbZQ/output_frames/sec_26_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[25-32] The girl on the left cries sadly, burying her face in the pillow. The girl on the right reaches out and pokes the girl on the left, making faces at her."
+    },
+    {
+        "second": 27,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8n-CGVfWbZQ/output_frames/sec_27_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[25-32] The girl on the left cries sadly, burying her face in the pillow. The girl on the right reaches out and pokes the girl on the left, making faces at her."
+    },
+    {
+        "second": 28,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8n-CGVfWbZQ/output_frames/sec_28_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[25-32] The girl on the left cries sadly, burying her face in the pillow. The girl on the right reaches out and pokes the girl on the left, making faces at her."
+    },
+    {
+        "second": 29,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8n-CGVfWbZQ/output_frames/sec_29_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[25-32] The girl on the left cries sadly, burying her face in the pillow. The girl on the right reaches out and pokes the girl on the left, making faces at her."
+    },
+    {
+        "second": 30,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8n-CGVfWbZQ/output_frames/sec_30_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[25-32] The girl on the left cries sadly, burying her face in the pillow. The girl on the right reaches out and pokes the girl on the left, making faces at her."
+    },
+    {
+        "second": 31,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8n-CGVfWbZQ/output_frames/sec_31_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[25-32] The girl on the left cries sadly, burying her face in the pillow. The girl on the right reaches out and pokes the girl on the left, making faces at her."
+    },
+    {
+        "second": 32,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8n-CGVfWbZQ/output_frames/sec_32_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[25-32] The girl on the left cries sadly, burying her face in the pillow. The girl on the right reaches out and pokes the girl on the left, making faces at her."
+    },
+    {
+        "second": 33,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8n-CGVfWbZQ/output_frames/sec_33_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[32-40] The scene changes to an outdoor setting where the girl on the left walks dejectedly down a path. She then walks to a corner and sits down, hugging her knees, looking sad. At this time, a man dressed as Santa Claus walks up to the girl, squats down, and talks to her."
+    },
+    {
+        "second": 34,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8n-CGVfWbZQ/output_frames/sec_34_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[32-40] The scene changes to an outdoor setting where the girl on the left walks dejectedly down a path. She then walks to a corner and sits down, hugging her knees, looking sad. At this time, a man dressed as Santa Claus walks up to the girl, squats down, and talks to her."
+    },
+    {
+        "second": 35,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8n-CGVfWbZQ/output_frames/sec_35_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[32-40] The scene changes to an outdoor setting where the girl on the left walks dejectedly down a path. She then walks to a corner and sits down, hugging her knees, looking sad. At this time, a man dressed as Santa Claus walks up to the girl, squats down, and talks to her."
+    },
+    {
+        "second": 36,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8n-CGVfWbZQ/output_frames/sec_36_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[32-40] The scene changes to an outdoor setting where the girl on the left walks dejectedly down a path. She then walks to a corner and sits down, hugging her knees, looking sad. At this time, a man dressed as Santa Claus walks up to the girl, squats down, and talks to her."
+    },
+    {
+        "second": 37,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8n-CGVfWbZQ/output_frames/sec_37_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[32-40] The scene changes to an outdoor setting where the girl on the left walks dejectedly down a path. She then walks to a corner and sits down, hugging her knees, looking sad. At this time, a man dressed as Santa Claus walks up to the girl, squats down, and talks to her."
+    },
+    {
+        "second": 38,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8n-CGVfWbZQ/output_frames/sec_38_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[32-40] The scene changes to an outdoor setting where the girl on the left walks dejectedly down a path. She then walks to a corner and sits down, hugging her knees, looking sad. At this time, a man dressed as Santa Claus walks up to the girl, squats down, and talks to her."
+    },
+    {
+        "second": 39,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8n-CGVfWbZQ/output_frames/sec_39_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[32-40] The scene changes to an outdoor setting where the girl on the left walks dejectedly down a path. She then walks to a corner and sits down, hugging her knees, looking sad. At this time, a man dressed as Santa Claus walks up to the girl, squats down, and talks to her."
+    },
+    {
+        "second": 40,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8n-CGVfWbZQ/output_frames/sec_40_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[32-40] The scene changes to an outdoor setting where the girl on the left walks dejectedly down a path. She then walks to a corner and sits down, hugging her knees, looking sad. At this time, a man dressed as Santa Claus walks up to the girl, squats down, and talks to her."
+    },
+    {
+        "second": 41,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8n-CGVfWbZQ/output_frames/sec_41_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[40-50] The man dressed as Santa Claus takes out a Christmas stocking and lets the girl on the left pull out a Santa Claus toy. The girl gets a small Santa Claus toy and then looks surprised. She smiles happily."
+    },
+    {
+        "second": 42,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8n-CGVfWbZQ/output_frames/sec_42_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[40-50] The man dressed as Santa Claus takes out a Christmas stocking and lets the girl on the left pull out a Santa Claus toy. The girl gets a small Santa Claus toy and then looks surprised. She smiles happily."
+    },
+    {
+        "second": 43,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8n-CGVfWbZQ/output_frames/sec_43_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[40-50] The man dressed as Santa Claus takes out a Christmas stocking and lets the girl on the left pull out a Santa Claus toy. The girl gets a small Santa Claus toy and then looks surprised. She smiles happily."
+    },
+    {
+        "second": 44,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8n-CGVfWbZQ/output_frames/sec_44_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[40-50] The man dressed as Santa Claus takes out a Christmas stocking and lets the girl on the left pull out a Santa Claus toy. The girl gets a small Santa Claus toy and then looks surprised. She smiles happily."
+    },
+    {
+        "second": 45,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8n-CGVfWbZQ/output_frames/sec_45_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[40-50] The man dressed as Santa Claus takes out a Christmas stocking and lets the girl on the left pull out a Santa Claus toy. The girl gets a small Santa Claus toy and then looks surprised. She smiles happily."
+    },
+    {
+        "second": 46,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8n-CGVfWbZQ/output_frames/sec_46_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[40-50] The man dressed as Santa Claus takes out a Christmas stocking and lets the girl on the left pull out a Santa Claus toy. The girl gets a small Santa Claus toy and then looks surprised. She smiles happily."
+    },
+    {
+        "second": 47,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8n-CGVfWbZQ/output_frames/sec_47_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[40-50] The man dressed as Santa Claus takes out a Christmas stocking and lets the girl on the left pull out a Santa Claus toy. The girl gets a small Santa Claus toy and then looks surprised. She smiles happily."
+    },
+    {
+        "second": 48,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8n-CGVfWbZQ/output_frames/sec_48_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[40-50] The man dressed as Santa Claus takes out a Christmas stocking and lets the girl on the left pull out a Santa Claus toy. The girl gets a small Santa Claus toy and then looks surprised. She smiles happily."
+    },
+    {
+        "second": 49,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8n-CGVfWbZQ/output_frames/sec_49_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[40-50] The man dressed as Santa Claus takes out a Christmas stocking and lets the girl on the left pull out a Santa Claus toy. The girl gets a small Santa Claus toy and then looks surprised. She smiles happily."
+    },
+    {
+        "second": 50,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8n-CGVfWbZQ/output_frames/sec_50_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[40-50] The man dressed as Santa Claus takes out a Christmas stocking and lets the girl on the left pull out a Santa Claus toy. The girl gets a small Santa Claus toy and then looks surprised. She smiles happily."
+    },
+    {
+        "second": 51,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8n-CGVfWbZQ/output_frames/sec_51_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[50-58] Finally, the man dressed as Santa Claus leaves, and the girl on the left waves goodbye to him, then happily looks around with the Santa Claus toy."
+    },
+    {
+        "second": 52,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8n-CGVfWbZQ/output_frames/sec_52_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[50-58] Finally, the man dressed as Santa Claus leaves, and the girl on the left waves goodbye to him, then happily looks around with the Santa Claus toy."
+    },
+    {
+        "second": 53,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8n-CGVfWbZQ/output_frames/sec_53_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[50-58] Finally, the man dressed as Santa Claus leaves, and the girl on the left waves goodbye to him, then happily looks around with the Santa Claus toy."
+    },
+    {
+        "second": 54,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8n-CGVfWbZQ/output_frames/sec_54_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[50-58] Finally, the man dressed as Santa Claus leaves, and the girl on the left waves goodbye to him, then happily looks around with the Santa Claus toy."
+    },
+    {
+        "second": 55,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8n-CGVfWbZQ/output_frames/sec_55_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[50-58] Finally, the man dressed as Santa Claus leaves, and the girl on the left waves goodbye to him, then happily looks around with the Santa Claus toy."
+    },
+    {
+        "second": 56,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/8n-CGVfWbZQ/output_frames/sec_56_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[50-58] Finally, the man dressed as Santa Claus leaves, and the girl on the left waves goodbye to him, then happily looks around with the Santa Claus toy."
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "second": 0,
+        "frame_index": 56,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4K6Jw7ngHM4/output_frames/sec_0_idx_56.jpg",
+        "fps": 60,
+        "explanation": "[0-0] A little girl wearing a yellow mask is standing in the hallway, beside her is a door, behind her is the living room with toy cars on the floor."
+    },
+    {
+        "second": 1,
+        "frame_index": 56,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4K6Jw7ngHM4/output_frames/sec_1_idx_56.jpg",
+        "fps": 60,
+        "explanation": "[0-3] Then the little girl walks to the corner of the hallway, peeks her head out, and then tiptoes to a door."
+    },
+    {
+        "second": 2,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4K6Jw7ngHM4/output_frames/sec_2_idx_9.jpg",
+        "fps": 60,
+        "explanation": "[0-3] Then the little girl walks to the corner of the hallway, peeks her head out, and then tiptoes to a door."
+    },
+    {
+        "second": 3,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4K6Jw7ngHM4/output_frames/sec_3_idx_7.jpg",
+        "fps": 60,
+        "explanation": "[0-3] Then the little girl walks to the corner of the hallway, peeks her head out, and then tiptoes to a door."
+    },
+    {
+        "second": 4,
+        "frame_index": 44,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4K6Jw7ngHM4/output_frames/sec_4_idx_44.jpg",
+        "fps": 60,
+        "explanation": "[3-5] Then the little girl opens the door, revealing a man wearing a scary mask standing inside, making funny moves. There's a toilet next to him."
+    },
+    {
+        "second": 5,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4K6Jw7ngHM4/output_frames/sec_5_idx_6.jpg",
+        "fps": 60,
+        "explanation": "[3-5] Then the little girl opens the door, revealing a man wearing a scary mask standing inside, making funny moves. There's a toilet next to him."
+    },
+    {
+        "second": 6,
+        "frame_index": 54,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4K6Jw7ngHM4/output_frames/sec_6_idx_54.jpg",
+        "fps": 60,
+        "explanation": "[5-7] Finally, the girl is startled, steps back, and looks scared. The man then holds the mask with both hands."
+    },
+    {
+        "second": 7,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4K6Jw7ngHM4/output_frames/sec_7_idx_16.jpg",
+        "fps": 60,
+        "explanation": "[5-7] Finally, the girl is startled, steps back, and looks scared. The man then holds the mask with both hands."
+    }
+]

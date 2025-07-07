@@ -1,0 +1,30 @@
+[
+    {
+        "second": 0,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Pb0m8yme0-0/output_frames/sec_0_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A close-up shot of a wooden fence gate with a metal latch. The background is black, and there is a green circle in the upper left corner with the words SIMPLE MOTIONS in white."
+    },
+    {
+        "second": 1,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Pb0m8yme0-0/output_frames/sec_1_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Then, another wooden fence gate on the right pans over, approaching the left gate. The latch is pulled up, hooked onto the clasp on the other gate, and finally fastened."
+    },
+    {
+        "second": 2,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Pb0m8yme0-0/output_frames/sec_2_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Then, another wooden fence gate on the right pans over, approaching the left gate. The latch is pulled up, hooked onto the clasp on the other gate, and finally fastened."
+    },
+    {
+        "second": 3,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Pb0m8yme0-0/output_frames/sec_3_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Then, another wooden fence gate on the right pans over, approaching the left gate. The latch is pulled up, hooked onto the clasp on the other gate, and finally fastened."
+    }
+]

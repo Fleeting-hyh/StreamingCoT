@@ -1,0 +1,51 @@
+[
+    {
+        "second": 0,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6kESfDpHOwU/output_frames/sec_0_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A hand holds a pink balloon with eyes and a mouth drawn on it. Another hand holds scissors, about to cut the top of the balloon. Below is a green tray."
+    },
+    {
+        "second": 1,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6kESfDpHOwU/output_frames/sec_1_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-6] Subsequently, the scissors cut the top of the balloon, and purple liquid begins to flow out of it, landing on the green tray below."
+    },
+    {
+        "second": 2,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6kESfDpHOwU/output_frames/sec_2_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[0-6] Subsequently, the scissors cut the top of the balloon, and purple liquid begins to flow out of it, landing on the green tray below."
+    },
+    {
+        "second": 3,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6kESfDpHOwU/output_frames/sec_3_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[0-6] Subsequently, the scissors cut the top of the balloon, and purple liquid begins to flow out of it, landing on the green tray below."
+    },
+    {
+        "second": 4,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6kESfDpHOwU/output_frames/sec_4_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-6] Subsequently, the scissors cut the top of the balloon, and purple liquid begins to flow out of it, landing on the green tray below."
+    },
+    {
+        "second": 5,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6kESfDpHOwU/output_frames/sec_5_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[0-6] Subsequently, the scissors cut the top of the balloon, and purple liquid begins to flow out of it, landing on the green tray below."
+    },
+    {
+        "second": 6,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6kESfDpHOwU/output_frames/sec_6_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[0-6] Subsequently, the scissors cut the top of the balloon, and purple liquid begins to flow out of it, landing on the green tray below."
+    }
+]

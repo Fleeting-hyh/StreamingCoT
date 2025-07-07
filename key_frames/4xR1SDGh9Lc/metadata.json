@@ -1,0 +1,65 @@
+[
+    {
+        "second": 0,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4xR1SDGh9Lc/output_frames/sec_0_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[0-0] On an indoor basketball court, a blonde woman in blue athletic shorts and a green tank top stands in front of a person in a green bodysuit. The person in the green bodysuit has a basketball for a head. The woman has her hands on the basketball, and there is a basketball hoop to the side. The woman smiles at the camera."
+    },
+    {
+        "second": 1,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4xR1SDGh9Lc/output_frames/sec_1_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[0-2] The woman, still smiling, starts bouncing the ball down from the head of the person in the green bodysuit. The person in the green bodysuit bounces back and forth with the movement of the ball as the woman dribbles."
+    },
+    {
+        "second": 2,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4xR1SDGh9Lc/output_frames/sec_2_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[0-2] The woman, still smiling, starts bouncing the ball down from the head of the person in the green bodysuit. The person in the green bodysuit bounces back and forth with the movement of the ball as the woman dribbles."
+    },
+    {
+        "second": 3,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4xR1SDGh9Lc/output_frames/sec_3_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[2-5] Then, the person in the green bodysuit starts walking, using the ball as their head, and pivoting along the woman's arms, moving from her left hand to her right hand and back again."
+    },
+    {
+        "second": 4,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4xR1SDGh9Lc/output_frames/sec_4_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[2-5] Then, the person in the green bodysuit starts walking, using the ball as their head, and pivoting along the woman's arms, moving from her left hand to her right hand and back again."
+    },
+    {
+        "second": 5,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4xR1SDGh9Lc/output_frames/sec_5_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[2-5] Then, the person in the green bodysuit starts walking, using the ball as their head, and pivoting along the woman's arms, moving from her left hand to her right hand and back again."
+    },
+    {
+        "second": 6,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4xR1SDGh9Lc/output_frames/sec_6_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[5-6] Next, the woman turns and grabs the basketball, then shoots it towards the basketball hoop. The person in the green bodysuit jumps towards the basket."
+    },
+    {
+        "second": 7,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4xR1SDGh9Lc/output_frames/sec_7_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[6-8] Finally, the woman celebrates with her arms raised and fingers pointed upward, while the person in the green bodysuit lies on the floor."
+    },
+    {
+        "second": 8,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4xR1SDGh9Lc/output_frames/sec_8_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[6-8] Finally, the woman celebrates with her arms raised and fingers pointed upward, while the person in the green bodysuit lies on the floor."
+    }
+]

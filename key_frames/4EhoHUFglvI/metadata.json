@@ -1,0 +1,394 @@
+[
+    {
+        "second": 0,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4EhoHUFglvI/output_frames/sec_0_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-0] On a white countertop, a hand holds a black pestle, placed inside a black mortar."
+    },
+    {
+        "second": 1,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4EhoHUFglvI/output_frames/sec_1_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Then the scene switches, two hands hold a golden rectangular object with the word \"GOLD\" printed on it. After opening the outer golden packaging, a yellow rectangular object is placed into the mortar. Then a hand appears on the right side, holding the black pestle and starts grinding until the yellow rectangular object is ground into a pile of yellow powder. Then the pestle stirs the powder."
+    },
+    {
+        "second": 2,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4EhoHUFglvI/output_frames/sec_2_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Then the scene switches, two hands hold a golden rectangular object with the word \"GOLD\" printed on it. After opening the outer golden packaging, a yellow rectangular object is placed into the mortar. Then a hand appears on the right side, holding the black pestle and starts grinding until the yellow rectangular object is ground into a pile of yellow powder. Then the pestle stirs the powder."
+    },
+    {
+        "second": 3,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4EhoHUFglvI/output_frames/sec_3_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Then the scene switches, two hands hold a golden rectangular object with the word \"GOLD\" printed on it. After opening the outer golden packaging, a yellow rectangular object is placed into the mortar. Then a hand appears on the right side, holding the black pestle and starts grinding until the yellow rectangular object is ground into a pile of yellow powder. Then the pestle stirs the powder."
+    },
+    {
+        "second": 4,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4EhoHUFglvI/output_frames/sec_4_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[3-6] Then the scene switches, a right hand holds a transparent plastic bottle filled with small golden balls. Then the left hand unscrews the cap and pours the balls into the mortar. Then the right hand holds the pestle and continues to grind until the golden balls are ground up. It can be seen that the inside of the balls is white, and then the pestle mixes the crushed balls and the yellow powder inside."
+    },
+    {
+        "second": 5,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4EhoHUFglvI/output_frames/sec_5_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[3-6] Then the scene switches, a right hand holds a transparent plastic bottle filled with small golden balls. Then the left hand unscrews the cap and pours the balls into the mortar. Then the right hand holds the pestle and continues to grind until the golden balls are ground up. It can be seen that the inside of the balls is white, and then the pestle mixes the crushed balls and the yellow powder inside."
+    },
+    {
+        "second": 6,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4EhoHUFglvI/output_frames/sec_6_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[3-6] Then the scene switches, a right hand holds a transparent plastic bottle filled with small golden balls. Then the left hand unscrews the cap and pours the balls into the mortar. Then the right hand holds the pestle and continues to grind until the golden balls are ground up. It can be seen that the inside of the balls is white, and then the pestle mixes the crushed balls and the yellow powder inside."
+    },
+    {
+        "second": 7,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4EhoHUFglvI/output_frames/sec_7_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[6-9] Then the scene switches, a right hand holds a transparent plastic bottle with a blue label, the bottle is filled with golden long strips. Then the left hand unscrews the black cap on top and pours the long strips into the mortar. Then a hand holds the pestle and starts grinding everything in the mortar. After the golden strips inside are ground and broken, the hand holds the pestle and stirs in the mortar, mixing everything inside together."
+    },
+    {
+        "second": 8,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4EhoHUFglvI/output_frames/sec_8_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[6-9] Then the scene switches, a right hand holds a transparent plastic bottle with a blue label, the bottle is filled with golden long strips. Then the left hand unscrews the black cap on top and pours the long strips into the mortar. Then a hand holds the pestle and starts grinding everything in the mortar. After the golden strips inside are ground and broken, the hand holds the pestle and stirs in the mortar, mixing everything inside together."
+    },
+    {
+        "second": 9,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4EhoHUFglvI/output_frames/sec_9_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[6-9] Then the scene switches, a right hand holds a transparent plastic bottle with a blue label, the bottle is filled with golden long strips. Then the left hand unscrews the black cap on top and pours the long strips into the mortar. Then a hand holds the pestle and starts grinding everything in the mortar. After the golden strips inside are ground and broken, the hand holds the pestle and stirs in the mortar, mixing everything inside together."
+    },
+    {
+        "second": 10,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4EhoHUFglvI/output_frames/sec_10_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[9-12] Then the scene switches, two hands hold a bag of golden round sequins. Then the two hands tear open the bag and pour the sequins into the mortar. Then a hand holds the pestle and starts grinding everything in the mortar, then holds the pestle and stirs in the mortar to mix the contents more evenly."
+    },
+    {
+        "second": 11,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4EhoHUFglvI/output_frames/sec_11_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[9-12] Then the scene switches, two hands hold a bag of golden round sequins. Then the two hands tear open the bag and pour the sequins into the mortar. Then a hand holds the pestle and starts grinding everything in the mortar, then holds the pestle and stirs in the mortar to mix the contents more evenly."
+    },
+    {
+        "second": 12,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4EhoHUFglvI/output_frames/sec_12_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[9-12] Then the scene switches, two hands hold a bag of golden round sequins. Then the two hands tear open the bag and pour the sequins into the mortar. Then a hand holds the pestle and starts grinding everything in the mortar, then holds the pestle and stirs in the mortar to mix the contents more evenly."
+    },
+    {
+        "second": 13,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4EhoHUFglvI/output_frames/sec_13_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[12-15] Then the scene switches, a hand holds a transparent plastic bottle filled with golden-yellow granular objects. Then the right hand opens the cap on top and pours the golden-yellow granular objects into the mortar. Immediately afterwards, a hand holds the pestle and starts grinding everything in the mortar, then holds the pestle and stirs in the mortar so that all the contents are mixed together."
+    },
+    {
+        "second": 14,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4EhoHUFglvI/output_frames/sec_14_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[12-15] Then the scene switches, a hand holds a transparent plastic bottle filled with golden-yellow granular objects. Then the right hand opens the cap on top and pours the golden-yellow granular objects into the mortar. Immediately afterwards, a hand holds the pestle and starts grinding everything in the mortar, then holds the pestle and stirs in the mortar so that all the contents are mixed together."
+    },
+    {
+        "second": 15,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4EhoHUFglvI/output_frames/sec_15_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[12-15] Then the scene switches, a hand holds a transparent plastic bottle filled with golden-yellow granular objects. Then the right hand opens the cap on top and pours the golden-yellow granular objects into the mortar. Immediately afterwards, a hand holds the pestle and starts grinding everything in the mortar, then holds the pestle and stirs in the mortar so that all the contents are mixed together."
+    },
+    {
+        "second": 16,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4EhoHUFglvI/output_frames/sec_16_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[15-19] Then the scene switches, a hand holds a small golden bottle filled with golden powder, and then pours the powder into the mortar. Then a hand holds the pestle and starts grinding everything in the mortar. Then, holding the pestle, it continues to stir the contents of the mortar, blending them together."
+    },
+    {
+        "second": 17,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4EhoHUFglvI/output_frames/sec_17_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[15-19] Then the scene switches, a hand holds a small golden bottle filled with golden powder, and then pours the powder into the mortar. Then a hand holds the pestle and starts grinding everything in the mortar. Then, holding the pestle, it continues to stir the contents of the mortar, blending them together."
+    },
+    {
+        "second": 18,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4EhoHUFglvI/output_frames/sec_18_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[15-19] Then the scene switches, a hand holds a small golden bottle filled with golden powder, and then pours the powder into the mortar. Then a hand holds the pestle and starts grinding everything in the mortar. Then, holding the pestle, it continues to stir the contents of the mortar, blending them together."
+    },
+    {
+        "second": 19,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4EhoHUFglvI/output_frames/sec_19_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[15-19] Then the scene switches, a hand holds a small golden bottle filled with golden powder, and then pours the powder into the mortar. Then a hand holds the pestle and starts grinding everything in the mortar. Then, holding the pestle, it continues to stir the contents of the mortar, blending them together."
+    },
+    {
+        "second": 20,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4EhoHUFglvI/output_frames/sec_20_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[19-21] Then the scene switches, a hand holds a white paper, which unfolds to reveal a thin golden sheet. Then the sheet is placed into the mortar, followed by a hand holding the pestle and grinding everything inside. Afterward, the hand continues to stir the contents of the mortar with the pestle."
+    },
+    {
+        "second": 21,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4EhoHUFglvI/output_frames/sec_21_idx_24.jpg",
+        "fps": 30,
+        "explanation": "[19-21] Then the scene switches, a hand holds a white paper, which unfolds to reveal a thin golden sheet. Then the sheet is placed into the mortar, followed by a hand holding the pestle and grinding everything inside. Afterward, the hand continues to stir the contents of the mortar with the pestle."
+    },
+    {
+        "second": 22,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4EhoHUFglvI/output_frames/sec_22_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[21-24] Then the scene switches, two hands are holding a transparent square box filled with golden glitter. Then the left hand opens the lid and pours the glitter into the mortar. Subsequently, a hand uses the pestle to grind everything inside, then stirs the mortar with the pestle, blending all the contents together."
+    },
+    {
+        "second": 23,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4EhoHUFglvI/output_frames/sec_23_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[21-24] Then the scene switches, two hands are holding a transparent square box filled with golden glitter. Then the left hand opens the lid and pours the glitter into the mortar. Subsequently, a hand uses the pestle to grind everything inside, then stirs the mortar with the pestle, blending all the contents together."
+    },
+    {
+        "second": 24,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4EhoHUFglvI/output_frames/sec_24_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[21-24] Then the scene switches, two hands are holding a transparent square box filled with golden glitter. Then the left hand opens the lid and pours the glitter into the mortar. Subsequently, a hand uses the pestle to grind everything inside, then stirs the mortar with the pestle, blending all the contents together."
+    },
+    {
+        "second": 25,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4EhoHUFglvI/output_frames/sec_25_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[24-27] Then the scene switches, a right hand is holding a golden bottle. Then the left hand opens the lid, squeezing out a large amount of golden, viscous substance into the mortar below. Subsequently, a hand uses the pestle to stir, mixing the golden viscous liquid with the ingredients in the mortar."
+    },
+    {
+        "second": 26,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4EhoHUFglvI/output_frames/sec_26_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[24-27] Then the scene switches, a right hand is holding a golden bottle. Then the left hand opens the lid, squeezing out a large amount of golden, viscous substance into the mortar below. Subsequently, a hand uses the pestle to stir, mixing the golden viscous liquid with the ingredients in the mortar."
+    },
+    {
+        "second": 27,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4EhoHUFglvI/output_frames/sec_27_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[24-27] Then the scene switches, a right hand is holding a golden bottle. Then the left hand opens the lid, squeezing out a large amount of golden, viscous substance into the mortar below. Subsequently, a hand uses the pestle to stir, mixing the golden viscous liquid with the ingredients in the mortar."
+    },
+    {
+        "second": 28,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4EhoHUFglvI/output_frames/sec_28_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[27-30] Then the scene switches, a right hand is holding a small, transparent glass bottle with a golden cap. Then the left hand opens the lid and pours the liquid from the small bottle into the mortar below. Afterward, a hand uses the pestle to stir, better mixing the ingredients inside."
+    },
+    {
+        "second": 29,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4EhoHUFglvI/output_frames/sec_29_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[27-30] Then the scene switches, a right hand is holding a small, transparent glass bottle with a golden cap. Then the left hand opens the lid and pours the liquid from the small bottle into the mortar below. Afterward, a hand uses the pestle to stir, better mixing the ingredients inside."
+    },
+    {
+        "second": 30,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4EhoHUFglvI/output_frames/sec_30_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[27-30] Then the scene switches, a right hand is holding a small, transparent glass bottle with a golden cap. Then the left hand opens the lid and pours the liquid from the small bottle into the mortar below. Afterward, a hand uses the pestle to stir, better mixing the ingredients inside."
+    },
+    {
+        "second": 31,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4EhoHUFglvI/output_frames/sec_31_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[30-32] Then the scene switches, two hands are holding a blue packaging box. Then the left hand opens the box and takes out a bottle of golden liquid. After opening the lid, the liquid is poured into the mortar. Afterward, a hand uses the pestle to stir rapidly, mixing the ingredients together. At this point, the contents of the mortar have transformed from powder to mud-like consistency."
+    },
+    {
+        "second": 32,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4EhoHUFglvI/output_frames/sec_32_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[30-32] Then the scene switches, two hands are holding a blue packaging box. Then the left hand opens the box and takes out a bottle of golden liquid. After opening the lid, the liquid is poured into the mortar. Afterward, a hand uses the pestle to stir rapidly, mixing the ingredients together. At this point, the contents of the mortar have transformed from powder to mud-like consistency."
+    },
+    {
+        "second": 33,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4EhoHUFglvI/output_frames/sec_33_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[32-35] Then the scene switches, two hands are holding a golden jar. Then the left hand opens the lid of the jar. Still using the left hand to hold the jar, the right hand uses a small spoon to scoop the golden viscous substance from the jar into the mortar. Subsequently, a hand uses the pestle to stir, mixing all the ingredients evenly. By now, the contents of the mortar have become a viscous, golden paste-like substance."
+    },
+    {
+        "second": 34,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4EhoHUFglvI/output_frames/sec_34_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[32-35] Then the scene switches, two hands are holding a golden jar. Then the left hand opens the lid of the jar. Still using the left hand to hold the jar, the right hand uses a small spoon to scoop the golden viscous substance from the jar into the mortar. Subsequently, a hand uses the pestle to stir, mixing all the ingredients evenly. By now, the contents of the mortar have become a viscous, golden paste-like substance."
+    },
+    {
+        "second": 35,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4EhoHUFglvI/output_frames/sec_35_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[32-35] Then the scene switches, two hands are holding a golden jar. Then the left hand opens the lid of the jar. Still using the left hand to hold the jar, the right hand uses a small spoon to scoop the golden viscous substance from the jar into the mortar. Subsequently, a hand uses the pestle to stir, mixing all the ingredients evenly. By now, the contents of the mortar have become a viscous, golden paste-like substance."
+    },
+    {
+        "second": 36,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4EhoHUFglvI/output_frames/sec_36_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[35-39] Then the scene switches, two hands are holding a tube-shaped object with a yellow cap. After opening the lid, the golden-yellow viscous substance inside is squeezed into the mortar below. Then a hand uses the pestle to stir, mixing the ingredients evenly."
+    },
+    {
+        "second": 37,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4EhoHUFglvI/output_frames/sec_37_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[35-39] Then the scene switches, two hands are holding a tube-shaped object with a yellow cap. After opening the lid, the golden-yellow viscous substance inside is squeezed into the mortar below. Then a hand uses the pestle to stir, mixing the ingredients evenly."
+    },
+    {
+        "second": 38,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4EhoHUFglvI/output_frames/sec_38_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[35-39] Then the scene switches, two hands are holding a tube-shaped object with a yellow cap. After opening the lid, the golden-yellow viscous substance inside is squeezed into the mortar below. Then a hand uses the pestle to stir, mixing the ingredients evenly."
+    },
+    {
+        "second": 39,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4EhoHUFglvI/output_frames/sec_39_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[35-39] Then the scene switches, two hands are holding a tube-shaped object with a yellow cap. After opening the lid, the golden-yellow viscous substance inside is squeezed into the mortar below. Then a hand uses the pestle to stir, mixing the ingredients evenly."
+    },
+    {
+        "second": 40,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4EhoHUFglvI/output_frames/sec_40_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[39-41] Then the scene switches, a hand throws a golden chain into the mortar. Subsequently, a hand uses the pestle to stir and mix."
+    },
+    {
+        "second": 41,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4EhoHUFglvI/output_frames/sec_41_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[39-41] Then the scene switches, a hand throws a golden chain into the mortar. Subsequently, a hand uses the pestle to stir and mix."
+    },
+    {
+        "second": 42,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4EhoHUFglvI/output_frames/sec_42_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[41-45] Then the scene switches, a hand is holding a jar of golden liquid, which is then poured into the mortar. Afterward, a hand uses the pestle to stir, ensuring all the contents are thoroughly mixed. By now, the liquid is not as thick as it was, having been diluted."
+    },
+    {
+        "second": 43,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4EhoHUFglvI/output_frames/sec_43_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[41-45] Then the scene switches, a hand is holding a jar of golden liquid, which is then poured into the mortar. Afterward, a hand uses the pestle to stir, ensuring all the contents are thoroughly mixed. By now, the liquid is not as thick as it was, having been diluted."
+    },
+    {
+        "second": 44,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4EhoHUFglvI/output_frames/sec_44_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[41-45] Then the scene switches, a hand is holding a jar of golden liquid, which is then poured into the mortar. Afterward, a hand uses the pestle to stir, ensuring all the contents are thoroughly mixed. By now, the liquid is not as thick as it was, having been diluted."
+    },
+    {
+        "second": 45,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4EhoHUFglvI/output_frames/sec_45_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[41-45] Then the scene switches, a hand is holding a jar of golden liquid, which is then poured into the mortar. Afterward, a hand uses the pestle to stir, ensuring all the contents are thoroughly mixed. By now, the liquid is not as thick as it was, having been diluted."
+    },
+    {
+        "second": 46,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4EhoHUFglvI/output_frames/sec_46_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[45-48] Then the scene switches, a hand is holding a syringe, which is then placed into the mortar. First, the plunger is pushed down slightly to expel air, and then the yellow liquid from the mortar is drawn into the syringe."
+    },
+    {
+        "second": 47,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4EhoHUFglvI/output_frames/sec_47_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[45-48] Then the scene switches, a hand is holding a syringe, which is then placed into the mortar. First, the plunger is pushed down slightly to expel air, and then the yellow liquid from the mortar is drawn into the syringe."
+    },
+    {
+        "second": 48,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4EhoHUFglvI/output_frames/sec_48_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[45-48] Then the scene switches, a hand is holding a syringe, which is then placed into the mortar. First, the plunger is pushed down slightly to expel air, and then the yellow liquid from the mortar is drawn into the syringe."
+    },
+    {
+        "second": 49,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4EhoHUFglvI/output_frames/sec_49_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[48-53] Afterward, the scene switches to a white countertop with a round white object on top. The object has a hole at the top and a white button next to it. Below the white object is a transparent, face-shaped object. Then a hand holding the syringe filled with yellow liquid injects the liquid into the hole of the white object. Immediately after, a small, silver object is thrown in as well. Next, the white button at the top is pressed, and at this moment, the words \"SUBSCRIBE\" in white letters on a red background and a small hand icon appear at the top of the screen. Subsequently, we see the yellow liquid flowing into the transparent face below, and the red background above turns white."
+    },
+    {
+        "second": 50,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4EhoHUFglvI/output_frames/sec_50_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[48-53] Afterward, the scene switches to a white countertop with a round white object on top. The object has a hole at the top and a white button next to it. Below the white object is a transparent, face-shaped object. Then a hand holding the syringe filled with yellow liquid injects the liquid into the hole of the white object. Immediately after, a small, silver object is thrown in as well. Next, the white button at the top is pressed, and at this moment, the words \"SUBSCRIBE\" in white letters on a red background and a small hand icon appear at the top of the screen. Subsequently, we see the yellow liquid flowing into the transparent face below, and the red background above turns white."
+    },
+    {
+        "second": 51,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4EhoHUFglvI/output_frames/sec_51_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[48-53] Afterward, the scene switches to a white countertop with a round white object on top. The object has a hole at the top and a white button next to it. Below the white object is a transparent, face-shaped object. Then a hand holding the syringe filled with yellow liquid injects the liquid into the hole of the white object. Immediately after, a small, silver object is thrown in as well. Next, the white button at the top is pressed, and at this moment, the words \"SUBSCRIBE\" in white letters on a red background and a small hand icon appear at the top of the screen. Subsequently, we see the yellow liquid flowing into the transparent face below, and the red background above turns white."
+    },
+    {
+        "second": 52,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4EhoHUFglvI/output_frames/sec_52_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[48-53] Afterward, the scene switches to a white countertop with a round white object on top. The object has a hole at the top and a white button next to it. Below the white object is a transparent, face-shaped object. Then a hand holding the syringe filled with yellow liquid injects the liquid into the hole of the white object. Immediately after, a small, silver object is thrown in as well. Next, the white button at the top is pressed, and at this moment, the words \"SUBSCRIBE\" in white letters on a red background and a small hand icon appear at the top of the screen. Subsequently, we see the yellow liquid flowing into the transparent face below, and the red background above turns white."
+    },
+    {
+        "second": 53,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4EhoHUFglvI/output_frames/sec_53_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[48-53] Afterward, the scene switches to a white countertop with a round white object on top. The object has a hole at the top and a white button next to it. Below the white object is a transparent, face-shaped object. Then a hand holding the syringe filled with yellow liquid injects the liquid into the hole of the white object. Immediately after, a small, silver object is thrown in as well. Next, the white button at the top is pressed, and at this moment, the words \"SUBSCRIBE\" in white letters on a red background and a small hand icon appear at the top of the screen. Subsequently, we see the yellow liquid flowing into the transparent face below, and the red background above turns white."
+    },
+    {
+        "second": 54,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4EhoHUFglvI/output_frames/sec_54_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[53-55] Afterward, the scene switches to a golden facial mask. Then the scene transitions to a man wearing a black shirt applying a golden facial mask to his face. He opens his mouth wide, his eyes looking straight ahead with a smile on his face."
+    },
+    {
+        "second": 55,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4EhoHUFglvI/output_frames/sec_55_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[53-55] Afterward, the scene switches to a golden facial mask. Then the scene transitions to a man wearing a black shirt applying a golden facial mask to his face. He opens his mouth wide, his eyes looking straight ahead with a smile on his face."
+    }
+]

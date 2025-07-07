@@ -1,0 +1,37 @@
+[
+    {
+        "second": 0,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/OUtWEhH3UFg/output_frames/sec_0_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A little boy and a monkey are sitting in a yard. The boy, naked from the waist up and hugging a red printed pillow, is sitting in front of the steering wheel of a green toy car. Next to the boy sits a monkey, staring at him. There are some branches and other debris in the yard."
+    },
+    {
+        "second": 1,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/OUtWEhH3UFg/output_frames/sec_1_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Subsequently, the monkey raises its arm and hits the boy in the face. The boy instinctively dodges backward. Then, the monkey puts its arm on the boy's arm."
+    },
+    {
+        "second": 2,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/OUtWEhH3UFg/output_frames/sec_2_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Subsequently, the monkey raises its arm and hits the boy in the face. The boy instinctively dodges backward. Then, the monkey puts its arm on the boy's arm."
+    },
+    {
+        "second": 3,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/OUtWEhH3UFg/output_frames/sec_3_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Subsequently, the monkey raises its arm and hits the boy in the face. The boy instinctively dodges backward. Then, the monkey puts its arm on the boy's arm."
+    },
+    {
+        "second": 4,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/OUtWEhH3UFg/output_frames/sec_4_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[0-5] Subsequently, the monkey raises its arm and hits the boy in the face. The boy instinctively dodges backward. Then, the monkey puts its arm on the boy's arm."
+    }
+]

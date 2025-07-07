@@ -1,0 +1,44 @@
+[
+    {
+        "second": 0,
+        "frame_index": 32,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DY_6HmeDYWE/output_frames/sec_0_idx_32.jpg",
+        "fps": 60,
+        "explanation": "[0-0] A man dressed in a yellow banana costume and another friend in a blue inflatable costume appear to be engrossed in playing video games. Below them is a grey sofa, the floor is brown with a grey carpet, and behind them is a brown brick wall with a white picture frame hanging on it and a white door to the right."
+    },
+    {
+        "second": 1,
+        "frame_index": 36,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DY_6HmeDYWE/output_frames/sec_1_idx_36.jpg",
+        "fps": 60,
+        "explanation": "[0-5] The friend in the banana costume points to the camera, then the shot cuts to a black spider model lying on a blue cabinet. The man in the blue suit walks to the right, takes a stool, takes the spider down and walks towards the man in the yellow suit, the man in the yellow suit runs quickly to the door, and the man in the blue suit chases after him."
+    },
+    {
+        "second": 2,
+        "frame_index": 58,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DY_6HmeDYWE/output_frames/sec_2_idx_58.jpg",
+        "fps": 60,
+        "explanation": "[0-5] The friend in the banana costume points to the camera, then the shot cuts to a black spider model lying on a blue cabinet. The man in the blue suit walks to the right, takes a stool, takes the spider down and walks towards the man in the yellow suit, the man in the yellow suit runs quickly to the door, and the man in the blue suit chases after him."
+    },
+    {
+        "second": 3,
+        "frame_index": 59,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DY_6HmeDYWE/output_frames/sec_3_idx_59.jpg",
+        "fps": 60,
+        "explanation": "[0-5] The friend in the banana costume points to the camera, then the shot cuts to a black spider model lying on a blue cabinet. The man in the blue suit walks to the right, takes a stool, takes the spider down and walks towards the man in the yellow suit, the man in the yellow suit runs quickly to the door, and the man in the blue suit chases after him."
+    },
+    {
+        "second": 4,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DY_6HmeDYWE/output_frames/sec_4_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[0-5] The friend in the banana costume points to the camera, then the shot cuts to a black spider model lying on a blue cabinet. The man in the blue suit walks to the right, takes a stool, takes the spider down and walks towards the man in the yellow suit, the man in the yellow suit runs quickly to the door, and the man in the blue suit chases after him."
+    },
+    {
+        "second": 5,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DY_6HmeDYWE/output_frames/sec_5_idx_28.jpg",
+        "fps": 60,
+        "explanation": "[0-5] The friend in the banana costume points to the camera, then the shot cuts to a black spider model lying on a blue cabinet. The man in the blue suit walks to the right, takes a stool, takes the spider down and walks towards the man in the yellow suit, the man in the yellow suit runs quickly to the door, and the man in the blue suit chases after him."
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "second": 0,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TwXwAz4Ozy8/output_frames/sec_0_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[0-0] On a beach, there is a dark blue flying device with an orange pattern in the air. A woman wearing a white top and grey pants is holding onto the handles of the device. Below her is a man wearing a black top and dark blue pants, who is lifting the woman's legs. Not far away, there is a person wearing a white top. In the distance are green plants and a blue sky."
+    },
+    {
+        "second": 1,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TwXwAz4Ozy8/output_frames/sec_1_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[0-3] The video begins with the woman holding tightly onto the flying device. The man pulls one of the woman's legs and runs forward. After a few steps, he releases his grip on her leg."
+    },
+    {
+        "second": 2,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TwXwAz4Ozy8/output_frames/sec_2_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-3] The video begins with the woman holding tightly onto the flying device. The man pulls one of the woman's legs and runs forward. After a few steps, he releases his grip on her leg."
+    },
+    {
+        "second": 3,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TwXwAz4Ozy8/output_frames/sec_3_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[0-3] The video begins with the woman holding tightly onto the flying device. The man pulls one of the woman's legs and runs forward. After a few steps, he releases his grip on her leg."
+    },
+    {
+        "second": 4,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TwXwAz4Ozy8/output_frames/sec_4_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[3-9] The woman grabs the flying device and flies towards the sea. After flying a certain distance, the woman falls heavily onto the beach, and the flying device also falls onto the beach. You can see the distant hills and blue seawater, as well as another person on the beach holding a flying device."
+    },
+    {
+        "second": 5,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TwXwAz4Ozy8/output_frames/sec_5_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[3-9] The woman grabs the flying device and flies towards the sea. After flying a certain distance, the woman falls heavily onto the beach, and the flying device also falls onto the beach. You can see the distant hills and blue seawater, as well as another person on the beach holding a flying device."
+    },
+    {
+        "second": 6,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TwXwAz4Ozy8/output_frames/sec_6_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[3-9] The woman grabs the flying device and flies towards the sea. After flying a certain distance, the woman falls heavily onto the beach, and the flying device also falls onto the beach. You can see the distant hills and blue seawater, as well as another person on the beach holding a flying device."
+    },
+    {
+        "second": 7,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TwXwAz4Ozy8/output_frames/sec_7_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[3-9] The woman grabs the flying device and flies towards the sea. After flying a certain distance, the woman falls heavily onto the beach, and the flying device also falls onto the beach. You can see the distant hills and blue seawater, as well as another person on the beach holding a flying device."
+    },
+    {
+        "second": 8,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TwXwAz4Ozy8/output_frames/sec_8_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[3-9] The woman grabs the flying device and flies towards the sea. After flying a certain distance, the woman falls heavily onto the beach, and the flying device also falls onto the beach. You can see the distant hills and blue seawater, as well as another person on the beach holding a flying device."
+    }
+]

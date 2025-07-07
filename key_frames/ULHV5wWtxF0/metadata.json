@@ -1,0 +1,93 @@
+[
+    {
+        "second": 0,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/ULHV5wWtxF0/output_frames/sec_0_idx_2.jpg",
+        "fps": 25,
+        "explanation": "[0-0] A cartoon bear stands by a table with a bowl of soup on it. The bear is holding a red object and appears unwell with flushed cheeks. The background is green."
+    },
+    {
+        "second": 1,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/ULHV5wWtxF0/output_frames/sec_1_idx_2.jpg",
+        "fps": 25,
+        "explanation": "[0-2] The bear clutches its stomach, the red object in its hand emitting black gas, and sneezes."
+    },
+    {
+        "second": 2,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/ULHV5wWtxF0/output_frames/sec_2_idx_21.jpg",
+        "fps": 25,
+        "explanation": "[0-2] The bear clutches its stomach, the red object in its hand emitting black gas, and sneezes."
+    },
+    {
+        "second": 3,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/ULHV5wWtxF0/output_frames/sec_3_idx_1.jpg",
+        "fps": 25,
+        "explanation": "[2-4] Then, a yellow duck appears behind the bear, looking at it and saying something. The scene switches to a snowman wearing a purple hat and red scarf, its nose made of a carrot. The text \"Havu\u00e7\" appears above."
+    },
+    {
+        "second": 4,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/ULHV5wWtxF0/output_frames/sec_4_idx_12.jpg",
+        "fps": 25,
+        "explanation": "[2-4] Then, a yellow duck appears behind the bear, looking at it and saying something. The scene switches to a snowman wearing a purple hat and red scarf, its nose made of a carrot. The text \"Havu\u00e7\" appears above."
+    },
+    {
+        "second": 5,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/ULHV5wWtxF0/output_frames/sec_5_idx_8.jpg",
+        "fps": 25,
+        "explanation": "[4-7] Next, the bear, now beside a tree, takes the snowman's carrot nose and takes a bite. The scene changes to a bathroom, where the bear is wrapped in a red towel with a purple shower cap on its head. The text \"Havlu\" appears above."
+    },
+    {
+        "second": 6,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/ULHV5wWtxF0/output_frames/sec_6_idx_24.jpg",
+        "fps": 25,
+        "explanation": "[4-7] Next, the bear, now beside a tree, takes the snowman's carrot nose and takes a bite. The scene changes to a bathroom, where the bear is wrapped in a red towel with a purple shower cap on its head. The text \"Havlu\" appears above."
+    },
+    {
+        "second": 7,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/ULHV5wWtxF0/output_frames/sec_7_idx_20.jpg",
+        "fps": 25,
+        "explanation": "[4-7] Next, the bear, now beside a tree, takes the snowman's carrot nose and takes a bite. The scene changes to a bathroom, where the bear is wrapped in a red towel with a purple shower cap on its head. The text \"Havlu\" appears above."
+    },
+    {
+        "second": 8,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/ULHV5wWtxF0/output_frames/sec_8_idx_5.jpg",
+        "fps": 25,
+        "explanation": "[7-10] The scene shifts to the bear lying in bed, appearing unwell with flushed cheeks. Its paw rests on its face as it sings something."
+    },
+    {
+        "second": 9,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/ULHV5wWtxF0/output_frames/sec_9_idx_23.jpg",
+        "fps": 25,
+        "explanation": "[7-10] The scene shifts to the bear lying in bed, appearing unwell with flushed cheeks. Its paw rests on its face as it sings something."
+    },
+    {
+        "second": 10,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/ULHV5wWtxF0/output_frames/sec_10_idx_6.jpg",
+        "fps": 25,
+        "explanation": "[7-10] The scene shifts to the bear lying in bed, appearing unwell with flushed cheeks. Its paw rests on its face as it sings something."
+    },
+    {
+        "second": 11,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/ULHV5wWtxF0/output_frames/sec_11_idx_1.jpg",
+        "fps": 25,
+        "explanation": "[10-12] Finally, the camera zooms out to reveal a female doctor with blonde hair, wearing a white coat and stethoscope. She places an ice pack on the bear's forehead."
+    },
+    {
+        "second": 12,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/ULHV5wWtxF0/output_frames/sec_12_idx_1.jpg",
+        "fps": 25,
+        "explanation": "[10-12] Finally, the camera zooms out to reveal a female doctor with blonde hair, wearing a white coat and stethoscope. She places an ice pack on the bear's forehead."
+    }
+]

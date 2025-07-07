@@ -1,0 +1,79 @@
+[
+    {
+        "second": 0,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TR3NSz3CFl8/output_frames/sec_0_idx_2.jpg",
+        "fps": 50,
+        "explanation": "[0-0] The frame is divided into three sections. The upper and lower parts show a blurred gray interface. In the middle section, against a white wall, a red vehicle with only one front wheel is placed on the ground, its wheel mounted on a black metal stand. There is an elongated fuel tank above the vehicle, with handlebars at the front and a seat at the rear. On the left, a person wearing a red shirt is holding the handlebars with their right hand and the seat with their left hand."
+    },
+    {
+        "second": 1,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TR3NSz3CFl8/output_frames/sec_1_idx_20.jpg",
+        "fps": 50,
+        "explanation": "[0-2] The person on the left steps forward, placing their right foot on the vehicle and pressing down on the gear lever, starting the vehicle."
+    },
+    {
+        "second": 2,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TR3NSz3CFl8/output_frames/sec_2_idx_2.jpg",
+        "fps": 50,
+        "explanation": "[0-2] The person on the left steps forward, placing their right foot on the vehicle and pressing down on the gear lever, starting the vehicle."
+    },
+    {
+        "second": 3,
+        "frame_index": 45,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TR3NSz3CFl8/output_frames/sec_3_idx_45.jpg",
+        "fps": 50,
+        "explanation": "[2-10] The person then turns the handlebars with their hands, slowly turning the vehicle to face the front of the frame. They then press the horn on top of the vehicle a few times with their left hand."
+    },
+    {
+        "second": 4,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TR3NSz3CFl8/output_frames/sec_4_idx_8.jpg",
+        "fps": 50,
+        "explanation": "[2-10] The person then turns the handlebars with their hands, slowly turning the vehicle to face the front of the frame. They then press the horn on top of the vehicle a few times with their left hand."
+    },
+    {
+        "second": 5,
+        "frame_index": 48,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TR3NSz3CFl8/output_frames/sec_5_idx_48.jpg",
+        "fps": 50,
+        "explanation": "[2-10] The person then turns the handlebars with their hands, slowly turning the vehicle to face the front of the frame. They then press the horn on top of the vehicle a few times with their left hand."
+    },
+    {
+        "second": 6,
+        "frame_index": 36,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TR3NSz3CFl8/output_frames/sec_6_idx_36.jpg",
+        "fps": 50,
+        "explanation": "[2-10] The person then turns the handlebars with their hands, slowly turning the vehicle to face the front of the frame. They then press the horn on top of the vehicle a few times with their left hand."
+    },
+    {
+        "second": 7,
+        "frame_index": 32,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TR3NSz3CFl8/output_frames/sec_7_idx_32.jpg",
+        "fps": 50,
+        "explanation": "[2-10] The person then turns the handlebars with their hands, slowly turning the vehicle to face the front of the frame. They then press the horn on top of the vehicle a few times with their left hand."
+    },
+    {
+        "second": 8,
+        "frame_index": 49,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TR3NSz3CFl8/output_frames/sec_8_idx_49.jpg",
+        "fps": 50,
+        "explanation": "[2-10] The person then turns the handlebars with their hands, slowly turning the vehicle to face the front of the frame. They then press the horn on top of the vehicle a few times with their left hand."
+    },
+    {
+        "second": 9,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TR3NSz3CFl8/output_frames/sec_9_idx_0.jpg",
+        "fps": 50,
+        "explanation": "[2-10] The person then turns the handlebars with their hands, slowly turning the vehicle to face the front of the frame. They then press the horn on top of the vehicle a few times with their left hand."
+    },
+    {
+        "second": 10,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TR3NSz3CFl8/output_frames/sec_10_idx_16.jpg",
+        "fps": 50,
+        "explanation": "[2-10] The person then turns the handlebars with their hands, slowly turning the vehicle to face the front of the frame. They then press the horn on top of the vehicle a few times with their left hand."
+    }
+]

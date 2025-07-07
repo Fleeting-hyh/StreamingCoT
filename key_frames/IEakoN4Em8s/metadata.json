@@ -1,0 +1,37 @@
+[
+    {
+        "second": 0,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IEakoN4Em8s/output_frames/sec_0_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-0] On a newly paved concrete road, a construction worker wearing a yellow safety helmet is squatting on the right side, facing right, stepping on a tool with his feet and holding the handle with both hands."
+    },
+    {
+        "second": 1,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IEakoN4Em8s/output_frames/sec_1_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[0-2] First, the construction worker in the yellow safety helmet moves to the left, carving parallel grooves on the concrete road surface. A long handle appears on the right side, moves to the left side of the concrete road, and the worker's feet leave the tool as he lifts it slightly with both hands."
+    },
+    {
+        "second": 2,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IEakoN4Em8s/output_frames/sec_2_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[0-2] First, the construction worker in the yellow safety helmet moves to the left, carving parallel grooves on the concrete road surface. A long handle appears on the right side, moves to the left side of the concrete road, and the worker's feet leave the tool as he lifts it slightly with both hands."
+    },
+    {
+        "second": 3,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IEakoN4Em8s/output_frames/sec_3_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[2-5] Finally, the construction worker in the yellow safety helmet steps on the tool with both feet and grasps the handle with both hands. The construction worker in the yellow safety helmet moves to the right, leaving parallel grooves on the concrete road surface behind him. The construction worker in the yellow safety helmet stops at the right side of the concrete road."
+    },
+    {
+        "second": 4,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/IEakoN4Em8s/output_frames/sec_4_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[2-5] Finally, the construction worker in the yellow safety helmet steps on the tool with both feet and grasps the handle with both hands. The construction worker in the yellow safety helmet moves to the right, leaving parallel grooves on the concrete road surface behind him. The construction worker in the yellow safety helmet stops at the right side of the concrete road."
+    }
+]

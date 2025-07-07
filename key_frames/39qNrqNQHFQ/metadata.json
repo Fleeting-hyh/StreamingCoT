@@ -1,0 +1,72 @@
+[
+    {
+        "second": 0,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/39qNrqNQHFQ/output_frames/sec_0_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A blue puppet wearing a crown stands at the end of a green hallway, its hand resting on a white button, peeking towards the other end of the hallway. A hand stands on the ground at the other end of the hallway, and the pillar at the end of the hallway bears the black inscription \"FANTOMPro\"."
+    },
+    {
+        "second": 1,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/39qNrqNQHFQ/output_frames/sec_1_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The blue puppet toggles the white button, plunging the hallway into darkness, and the hand at the other end moves towards the blue puppet. The blue puppet then flips the switch, and as the lights come on, the hand in the hallway stops moving. The blue puppet toggles the switch once more, and with the lights off, the hand in the hallway draws closer, prompting the puppet to quickly turn the lights back on."
+    },
+    {
+        "second": 2,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/39qNrqNQHFQ/output_frames/sec_2_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The blue puppet toggles the white button, plunging the hallway into darkness, and the hand at the other end moves towards the blue puppet. The blue puppet then flips the switch, and as the lights come on, the hand in the hallway stops moving. The blue puppet toggles the switch once more, and with the lights off, the hand in the hallway draws closer, prompting the puppet to quickly turn the lights back on."
+    },
+    {
+        "second": 3,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/39qNrqNQHFQ/output_frames/sec_3_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The blue puppet toggles the white button, plunging the hallway into darkness, and the hand at the other end moves towards the blue puppet. The blue puppet then flips the switch, and as the lights come on, the hand in the hallway stops moving. The blue puppet toggles the switch once more, and with the lights off, the hand in the hallway draws closer, prompting the puppet to quickly turn the lights back on."
+    },
+    {
+        "second": 4,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/39qNrqNQHFQ/output_frames/sec_4_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[0-4] The blue puppet toggles the white button, plunging the hallway into darkness, and the hand at the other end moves towards the blue puppet. The blue puppet then flips the switch, and as the lights come on, the hand in the hallway stops moving. The blue puppet toggles the switch once more, and with the lights off, the hand in the hallway draws closer, prompting the puppet to quickly turn the lights back on."
+    },
+    {
+        "second": 5,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/39qNrqNQHFQ/output_frames/sec_5_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[4-9] The blue puppet turns off the lights again, and the hand moves closer. The frightened blue puppet turns the lights back on, and this time the hand is almost out of the hallway. Finally, the blue puppet turns off the lights one more time, and the hand quickly runs to the side of the blue puppet. The puppet turns its head, sees the hand and reveals a terrified expression, then kicks the hand back to the other end of the hallway and turns on the lights."
+    },
+    {
+        "second": 6,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/39qNrqNQHFQ/output_frames/sec_6_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[4-9] The blue puppet turns off the lights again, and the hand moves closer. The frightened blue puppet turns the lights back on, and this time the hand is almost out of the hallway. Finally, the blue puppet turns off the lights one more time, and the hand quickly runs to the side of the blue puppet. The puppet turns its head, sees the hand and reveals a terrified expression, then kicks the hand back to the other end of the hallway and turns on the lights."
+    },
+    {
+        "second": 7,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/39qNrqNQHFQ/output_frames/sec_7_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[4-9] The blue puppet turns off the lights again, and the hand moves closer. The frightened blue puppet turns the lights back on, and this time the hand is almost out of the hallway. Finally, the blue puppet turns off the lights one more time, and the hand quickly runs to the side of the blue puppet. The puppet turns its head, sees the hand and reveals a terrified expression, then kicks the hand back to the other end of the hallway and turns on the lights."
+    },
+    {
+        "second": 8,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/39qNrqNQHFQ/output_frames/sec_8_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[4-9] The blue puppet turns off the lights again, and the hand moves closer. The frightened blue puppet turns the lights back on, and this time the hand is almost out of the hallway. Finally, the blue puppet turns off the lights one more time, and the hand quickly runs to the side of the blue puppet. The puppet turns its head, sees the hand and reveals a terrified expression, then kicks the hand back to the other end of the hallway and turns on the lights."
+    },
+    {
+        "second": 9,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/39qNrqNQHFQ/output_frames/sec_9_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[4-9] The blue puppet turns off the lights again, and the hand moves closer. The frightened blue puppet turns the lights back on, and this time the hand is almost out of the hallway. Finally, the blue puppet turns off the lights one more time, and the hand quickly runs to the side of the blue puppet. The puppet turns its head, sees the hand and reveals a terrified expression, then kicks the hand back to the other end of the hallway and turns on the lights."
+    }
+]

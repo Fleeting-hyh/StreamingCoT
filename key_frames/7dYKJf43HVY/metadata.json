@@ -1,0 +1,65 @@
+[
+    {
+        "second": 0,
+        "frame_index": 52,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7dYKJf43HVY/output_frames/sec_0_idx_52.jpg",
+        "fps": 60,
+        "explanation": "[0-0] A hand is placed on a metal farming tool, which is placed on a gray concrete floor. The metal farm tool consists of three triangular metal pieces and a metal frame."
+    },
+    {
+        "second": 1,
+        "frame_index": 59,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7dYKJf43HVY/output_frames/sec_1_idx_59.jpg",
+        "fps": 60,
+        "explanation": "[0-4] Subsequently, yellow subtitles \"simple multifunctional hoe\", a yellow thumbs-up emoji, and a laughing-crying emoji appear at the bottom of the screen. One hand unscrews a screw at the back of the farming tool and removes the triangular metal piece from the metal frame. Then, one hand assembles a rectangular metal piece onto the metal frame and tightens the screw."
+    },
+    {
+        "second": 2,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7dYKJf43HVY/output_frames/sec_2_idx_1.jpg",
+        "fps": 60,
+        "explanation": "[0-4] Subsequently, yellow subtitles \"simple multifunctional hoe\", a yellow thumbs-up emoji, and a laughing-crying emoji appear at the bottom of the screen. One hand unscrews a screw at the back of the farming tool and removes the triangular metal piece from the metal frame. Then, one hand assembles a rectangular metal piece onto the metal frame and tightens the screw."
+    },
+    {
+        "second": 3,
+        "frame_index": 47,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7dYKJf43HVY/output_frames/sec_3_idx_47.jpg",
+        "fps": 60,
+        "explanation": "[0-4] Subsequently, yellow subtitles \"simple multifunctional hoe\", a yellow thumbs-up emoji, and a laughing-crying emoji appear at the bottom of the screen. One hand unscrews a screw at the back of the farming tool and removes the triangular metal piece from the metal frame. Then, one hand assembles a rectangular metal piece onto the metal frame and tightens the screw."
+    },
+    {
+        "second": 4,
+        "frame_index": 37,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7dYKJf43HVY/output_frames/sec_4_idx_37.jpg",
+        "fps": 60,
+        "explanation": "[0-4] Subsequently, yellow subtitles \"simple multifunctional hoe\", a yellow thumbs-up emoji, and a laughing-crying emoji appear at the bottom of the screen. One hand unscrews a screw at the back of the farming tool and removes the triangular metal piece from the metal frame. Then, one hand assembles a rectangular metal piece onto the metal frame and tightens the screw."
+    },
+    {
+        "second": 5,
+        "frame_index": 45,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7dYKJf43HVY/output_frames/sec_5_idx_45.jpg",
+        "fps": 60,
+        "explanation": "[4-8] Immediately afterwards, two hands adjust the two triangular metal pieces in front. Then the yellow subtitles at the bottom of the screen disappear."
+    },
+    {
+        "second": 6,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7dYKJf43HVY/output_frames/sec_6_idx_19.jpg",
+        "fps": 60,
+        "explanation": "[4-8] Immediately afterwards, two hands adjust the two triangular metal pieces in front. Then the yellow subtitles at the bottom of the screen disappear."
+    },
+    {
+        "second": 7,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7dYKJf43HVY/output_frames/sec_7_idx_13.jpg",
+        "fps": 60,
+        "explanation": "[4-8] Immediately afterwards, two hands adjust the two triangular metal pieces in front. Then the yellow subtitles at the bottom of the screen disappear."
+    },
+    {
+        "second": 8,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7dYKJf43HVY/output_frames/sec_8_idx_2.jpg",
+        "fps": 60,
+        "explanation": "[4-8] Immediately afterwards, two hands adjust the two triangular metal pieces in front. Then the yellow subtitles at the bottom of the screen disappear."
+    }
+]

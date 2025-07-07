@@ -1,0 +1,121 @@
+[
+    {
+        "second": 0,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7wC102kdgXg/output_frames/sec_0_idx_21.jpg",
+        "fps": 60,
+        "explanation": "[0-0] In a room, a man sits at a white table. He's wearing a white T-shirt and multiple silver rings. He's holding a deck of playing cards with a yellow axle connecting the two ends of the card box. Behind the man, there's a white radiator on the white wall."
+    },
+    {
+        "second": 1,
+        "frame_index": 57,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7wC102kdgXg/output_frames/sec_1_idx_57.jpg",
+        "fps": 60,
+        "explanation": "[0-9] The man separates the card box, one part dropping onto the table. He then shows the separated card box to the front, and the camera zooms in as he raises his right hand with a thumbs-up. Then, he connects the two parts of the card box and pats the side and top."
+    },
+    {
+        "second": 2,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7wC102kdgXg/output_frames/sec_2_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[0-9] The man separates the card box, one part dropping onto the table. He then shows the separated card box to the front, and the camera zooms in as he raises his right hand with a thumbs-up. Then, he connects the two parts of the card box and pats the side and top."
+    },
+    {
+        "second": 3,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7wC102kdgXg/output_frames/sec_3_idx_8.jpg",
+        "fps": 60,
+        "explanation": "[0-9] The man separates the card box, one part dropping onto the table. He then shows the separated card box to the front, and the camera zooms in as he raises his right hand with a thumbs-up. Then, he connects the two parts of the card box and pats the side and top."
+    },
+    {
+        "second": 4,
+        "frame_index": 42,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7wC102kdgXg/output_frames/sec_4_idx_42.jpg",
+        "fps": 60,
+        "explanation": "[0-9] The man separates the card box, one part dropping onto the table. He then shows the separated card box to the front, and the camera zooms in as he raises his right hand with a thumbs-up. Then, he connects the two parts of the card box and pats the side and top."
+    },
+    {
+        "second": 5,
+        "frame_index": 35,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7wC102kdgXg/output_frames/sec_5_idx_35.jpg",
+        "fps": 60,
+        "explanation": "[0-9] The man separates the card box, one part dropping onto the table. He then shows the separated card box to the front, and the camera zooms in as he raises his right hand with a thumbs-up. Then, he connects the two parts of the card box and pats the side and top."
+    },
+    {
+        "second": 6,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7wC102kdgXg/output_frames/sec_6_idx_5.jpg",
+        "fps": 60,
+        "explanation": "[0-9] The man separates the card box, one part dropping onto the table. He then shows the separated card box to the front, and the camera zooms in as he raises his right hand with a thumbs-up. Then, he connects the two parts of the card box and pats the side and top."
+    },
+    {
+        "second": 7,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7wC102kdgXg/output_frames/sec_7_idx_15.jpg",
+        "fps": 60,
+        "explanation": "[0-9] The man separates the card box, one part dropping onto the table. He then shows the separated card box to the front, and the camera zooms in as he raises his right hand with a thumbs-up. Then, he connects the two parts of the card box and pats the side and top."
+    },
+    {
+        "second": 8,
+        "frame_index": 50,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7wC102kdgXg/output_frames/sec_8_idx_50.jpg",
+        "fps": 60,
+        "explanation": "[0-9] The man separates the card box, one part dropping onto the table. He then shows the separated card box to the front, and the camera zooms in as he raises his right hand with a thumbs-up. Then, he connects the two parts of the card box and pats the side and top."
+    },
+    {
+        "second": 9,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7wC102kdgXg/output_frames/sec_9_idx_6.jpg",
+        "fps": 60,
+        "explanation": "[0-9] The man separates the card box, one part dropping onto the table. He then shows the separated card box to the front, and the camera zooms in as he raises his right hand with a thumbs-up. Then, he connects the two parts of the card box and pats the side and top."
+    },
+    {
+        "second": 10,
+        "frame_index": 53,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7wC102kdgXg/output_frames/sec_10_idx_53.jpg",
+        "fps": 60,
+        "explanation": "[9-16] Subsequently, the man pulls a deck of cards from the bottom of the box, places the box on the table, and points at different playing cards with his right index finger. He then bends a playing card and twists it back to its original shape. Finally, the man smiles and shows the playing cards to the front before separating them. A yellow subtitle \"Sub for more!\" appears in the middle of the screen."
+    },
+    {
+        "second": 11,
+        "frame_index": 42,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7wC102kdgXg/output_frames/sec_11_idx_42.jpg",
+        "fps": 60,
+        "explanation": "[9-16] Subsequently, the man pulls a deck of cards from the bottom of the box, places the box on the table, and points at different playing cards with his right index finger. He then bends a playing card and twists it back to its original shape. Finally, the man smiles and shows the playing cards to the front before separating them. A yellow subtitle \"Sub for more!\" appears in the middle of the screen."
+    },
+    {
+        "second": 12,
+        "frame_index": 36,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7wC102kdgXg/output_frames/sec_12_idx_36.jpg",
+        "fps": 60,
+        "explanation": "[9-16] Subsequently, the man pulls a deck of cards from the bottom of the box, places the box on the table, and points at different playing cards with his right index finger. He then bends a playing card and twists it back to its original shape. Finally, the man smiles and shows the playing cards to the front before separating them. A yellow subtitle \"Sub for more!\" appears in the middle of the screen."
+    },
+    {
+        "second": 13,
+        "frame_index": 53,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7wC102kdgXg/output_frames/sec_13_idx_53.jpg",
+        "fps": 60,
+        "explanation": "[9-16] Subsequently, the man pulls a deck of cards from the bottom of the box, places the box on the table, and points at different playing cards with his right index finger. He then bends a playing card and twists it back to its original shape. Finally, the man smiles and shows the playing cards to the front before separating them. A yellow subtitle \"Sub for more!\" appears in the middle of the screen."
+    },
+    {
+        "second": 14,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7wC102kdgXg/output_frames/sec_14_idx_7.jpg",
+        "fps": 60,
+        "explanation": "[9-16] Subsequently, the man pulls a deck of cards from the bottom of the box, places the box on the table, and points at different playing cards with his right index finger. He then bends a playing card and twists it back to its original shape. Finally, the man smiles and shows the playing cards to the front before separating them. A yellow subtitle \"Sub for more!\" appears in the middle of the screen."
+    },
+    {
+        "second": 15,
+        "frame_index": 52,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7wC102kdgXg/output_frames/sec_15_idx_52.jpg",
+        "fps": 60,
+        "explanation": "[9-16] Subsequently, the man pulls a deck of cards from the bottom of the box, places the box on the table, and points at different playing cards with his right index finger. He then bends a playing card and twists it back to its original shape. Finally, the man smiles and shows the playing cards to the front before separating them. A yellow subtitle \"Sub for more!\" appears in the middle of the screen."
+    },
+    {
+        "second": 16,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7wC102kdgXg/output_frames/sec_16_idx_28.jpg",
+        "fps": 60,
+        "explanation": "[9-16] Subsequently, the man pulls a deck of cards from the bottom of the box, places the box on the table, and points at different playing cards with his right index finger. He then bends a playing card and twists it back to its original shape. Finally, the man smiles and shows the playing cards to the front before separating them. A yellow subtitle \"Sub for more!\" appears in the middle of the screen."
+    }
+]

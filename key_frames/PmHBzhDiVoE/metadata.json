@@ -1,0 +1,72 @@
+[
+    {
+        "second": 0,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PmHBzhDiVoE/output_frames/sec_0_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A person in a pink hoodie stands in front of a white background with their mouth open. The caption \"Girl rejecting a guy:\" appears at the top of the screen."
+    },
+    {
+        "second": 1,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PmHBzhDiVoE/output_frames/sec_1_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[0-5] The person raises their right hand and laughs. The scene switches to a boy in a red hoodie sitting in front of a white door, shaking his head and looking to the right. He then stands up. The caption \"Boy rejecting a girl:\" appears at the top of the screen."
+    },
+    {
+        "second": 2,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PmHBzhDiVoE/output_frames/sec_2_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[0-5] The person raises their right hand and laughs. The scene switches to a boy in a red hoodie sitting in front of a white door, shaking his head and looking to the right. He then stands up. The caption \"Boy rejecting a girl:\" appears at the top of the screen."
+    },
+    {
+        "second": 3,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PmHBzhDiVoE/output_frames/sec_3_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-5] The person raises their right hand and laughs. The scene switches to a boy in a red hoodie sitting in front of a white door, shaking his head and looking to the right. He then stands up. The caption \"Boy rejecting a girl:\" appears at the top of the screen."
+    },
+    {
+        "second": 4,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PmHBzhDiVoE/output_frames/sec_4_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[0-5] The person raises their right hand and laughs. The scene switches to a boy in a red hoodie sitting in front of a white door, shaking his head and looking to the right. He then stands up. The caption \"Boy rejecting a girl:\" appears at the top of the screen."
+    },
+    {
+        "second": 5,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PmHBzhDiVoE/output_frames/sec_5_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[0-5] The person raises their right hand and laughs. The scene switches to a boy in a red hoodie sitting in front of a white door, shaking his head and looking to the right. He then stands up. The caption \"Boy rejecting a girl:\" appears at the top of the screen."
+    },
+    {
+        "second": 6,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PmHBzhDiVoE/output_frames/sec_6_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[5-9] Finally, the scene switches back to the person in the pink hoodie, who looks to the left and raises their right hand, laughing. The captions \"I\u2019m bi now.\" \"KILL all Men!!\" \"He\u2019s a player\" appear on the screen."
+    },
+    {
+        "second": 7,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PmHBzhDiVoE/output_frames/sec_7_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[5-9] Finally, the scene switches back to the person in the pink hoodie, who looks to the left and raises their right hand, laughing. The captions \"I\u2019m bi now.\" \"KILL all Men!!\" \"He\u2019s a player\" appear on the screen."
+    },
+    {
+        "second": 8,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PmHBzhDiVoE/output_frames/sec_8_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[5-9] Finally, the scene switches back to the person in the pink hoodie, who looks to the left and raises their right hand, laughing. The captions \"I\u2019m bi now.\" \"KILL all Men!!\" \"He\u2019s a player\" appear on the screen."
+    },
+    {
+        "second": 9,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PmHBzhDiVoE/output_frames/sec_9_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[5-9] Finally, the scene switches back to the person in the pink hoodie, who looks to the left and raises their right hand, laughing. The captions \"I\u2019m bi now.\" \"KILL all Men!!\" \"He\u2019s a player\" appear on the screen."
+    }
+]

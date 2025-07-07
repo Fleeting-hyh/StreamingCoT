@@ -1,0 +1,72 @@
+[
+    {
+        "second": 0,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4HytYAPP83Y/output_frames/sec_0_idx_14.jpg",
+        "fps": 24,
+        "explanation": "[0-0] In a purple room, with some colorful balls on the back wall, there is a big-eyed red figure with a slightly indifferent expression, and a bucket of popcorn pattern on its head. Red subtitles with white text appear on the screen, saying \"your theater snack while watching Inside Out 2...\""
+    },
+    {
+        "second": 1,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4HytYAPP83Y/output_frames/sec_1_idx_5.jpg",
+        "fps": 24,
+        "explanation": "[0-5] The popcorn pattern on the red figure's head keeps changing, followed by chocolate, candy, apple, and biscuit, these patterns keep cycling. Until the apple stops on his head, the expression of the little figure begins to change. His eyes suddenly widened, and he opened his mouth slightly in a daze."
+    },
+    {
+        "second": 2,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4HytYAPP83Y/output_frames/sec_2_idx_11.jpg",
+        "fps": 24,
+        "explanation": "[0-5] The popcorn pattern on the red figure's head keeps changing, followed by chocolate, candy, apple, and biscuit, these patterns keep cycling. Until the apple stops on his head, the expression of the little figure begins to change. His eyes suddenly widened, and he opened his mouth slightly in a daze."
+    },
+    {
+        "second": 3,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4HytYAPP83Y/output_frames/sec_3_idx_23.jpg",
+        "fps": 24,
+        "explanation": "[0-5] The popcorn pattern on the red figure's head keeps changing, followed by chocolate, candy, apple, and biscuit, these patterns keep cycling. Until the apple stops on his head, the expression of the little figure begins to change. His eyes suddenly widened, and he opened his mouth slightly in a daze."
+    },
+    {
+        "second": 4,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4HytYAPP83Y/output_frames/sec_4_idx_0.jpg",
+        "fps": 24,
+        "explanation": "[0-5] The popcorn pattern on the red figure's head keeps changing, followed by chocolate, candy, apple, and biscuit, these patterns keep cycling. Until the apple stops on his head, the expression of the little figure begins to change. His eyes suddenly widened, and he opened his mouth slightly in a daze."
+    },
+    {
+        "second": 5,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4HytYAPP83Y/output_frames/sec_5_idx_18.jpg",
+        "fps": 24,
+        "explanation": "[0-5] The popcorn pattern on the red figure's head keeps changing, followed by chocolate, candy, apple, and biscuit, these patterns keep cycling. Until the apple stops on his head, the expression of the little figure begins to change. His eyes suddenly widened, and he opened his mouth slightly in a daze."
+    },
+    {
+        "second": 6,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4HytYAPP83Y/output_frames/sec_6_idx_18.jpg",
+        "fps": 24,
+        "explanation": "[5-9] Then his face became angry and ferocious, a slight yellow color appeared on the top of his head, his mouth opened wide, and his tongue stuck out. Then flames burst from the top of his head, the screen brightened, then the flames became smaller, and his hands appeared on the screen, his expression still angry."
+    },
+    {
+        "second": 7,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4HytYAPP83Y/output_frames/sec_7_idx_1.jpg",
+        "fps": 24,
+        "explanation": "[5-9] Then his face became angry and ferocious, a slight yellow color appeared on the top of his head, his mouth opened wide, and his tongue stuck out. Then flames burst from the top of his head, the screen brightened, then the flames became smaller, and his hands appeared on the screen, his expression still angry."
+    },
+    {
+        "second": 8,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4HytYAPP83Y/output_frames/sec_8_idx_3.jpg",
+        "fps": 24,
+        "explanation": "[5-9] Then his face became angry and ferocious, a slight yellow color appeared on the top of his head, his mouth opened wide, and his tongue stuck out. Then flames burst from the top of his head, the screen brightened, then the flames became smaller, and his hands appeared on the screen, his expression still angry."
+    },
+    {
+        "second": 9,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/4HytYAPP83Y/output_frames/sec_9_idx_0.jpg",
+        "fps": 24,
+        "explanation": "[5-9] Then his face became angry and ferocious, a slight yellow color appeared on the top of his head, his mouth opened wide, and his tongue stuck out. Then flames burst from the top of his head, the screen brightened, then the flames became smaller, and his hands appeared on the screen, his expression still angry."
+    }
+]

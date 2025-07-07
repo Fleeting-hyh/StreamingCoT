@@ -1,0 +1,86 @@
+[
+    {
+        "second": 0,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CY7nSHZLb_I/output_frames/sec_0_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[0-0] In a living room, a man in white clothes sits at a table, holding a watermelon to his mouth with both hands. To the right is a person in striped clothes, holding a white bowl. The table is covered with a gray printed tablecloth. Next to it is a gray sofa with a blue lace-trimmed cushion. There is a long mirror next to the sofa, reflecting the back of the man in white. Next to the mirror is a white cabinet with patterned partitions and green plants on top."
+    },
+    {
+        "second": 1,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CY7nSHZLb_I/output_frames/sec_1_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[0-4] A woman in striped clothes walks over from the right, holding a white bowl. She sits down on the sofa, puts the bowl of food on the table, gets up, and walks to the right. The man in white opens his mouth, smiles, breaks open the cucumber in his hand, picks up a sausage from the bowl, puts it in the cucumber, and then covers it with the other half of the cucumber."
+    },
+    {
+        "second": 2,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CY7nSHZLb_I/output_frames/sec_2_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-4] A woman in striped clothes walks over from the right, holding a white bowl. She sits down on the sofa, puts the bowl of food on the table, gets up, and walks to the right. The man in white opens his mouth, smiles, breaks open the cucumber in his hand, picks up a sausage from the bowl, puts it in the cucumber, and then covers it with the other half of the cucumber."
+    },
+    {
+        "second": 3,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CY7nSHZLb_I/output_frames/sec_3_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-4] A woman in striped clothes walks over from the right, holding a white bowl. She sits down on the sofa, puts the bowl of food on the table, gets up, and walks to the right. The man in white opens his mouth, smiles, breaks open the cucumber in his hand, picks up a sausage from the bowl, puts it in the cucumber, and then covers it with the other half of the cucumber."
+    },
+    {
+        "second": 4,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CY7nSHZLb_I/output_frames/sec_4_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[0-4] A woman in striped clothes walks over from the right, holding a white bowl. She sits down on the sofa, puts the bowl of food on the table, gets up, and walks to the right. The man in white opens his mouth, smiles, breaks open the cucumber in his hand, picks up a sausage from the bowl, puts it in the cucumber, and then covers it with the other half of the cucumber."
+    },
+    {
+        "second": 5,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CY7nSHZLb_I/output_frames/sec_5_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[4-11] Subsequently, the man in white continues to eat the cucumber. The woman in stripes walks over from the right with bananas, sits on the sofa, and puts the bananas on the table. Holding a banana in her hand, she picks up the bowl and observes that there are no more grilled sausages left. The man in white looks at the woman in stripes. Then the woman grabs the man's right arm with her left hand, takes a bite of the cucumber from the man's hand, and looks at it."
+    },
+    {
+        "second": 6,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CY7nSHZLb_I/output_frames/sec_6_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[4-11] Subsequently, the man in white continues to eat the cucumber. The woman in stripes walks over from the right with bananas, sits on the sofa, and puts the bananas on the table. Holding a banana in her hand, she picks up the bowl and observes that there are no more grilled sausages left. The man in white looks at the woman in stripes. Then the woman grabs the man's right arm with her left hand, takes a bite of the cucumber from the man's hand, and looks at it."
+    },
+    {
+        "second": 7,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CY7nSHZLb_I/output_frames/sec_7_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[4-11] Subsequently, the man in white continues to eat the cucumber. The woman in stripes walks over from the right with bananas, sits on the sofa, and puts the bananas on the table. Holding a banana in her hand, she picks up the bowl and observes that there are no more grilled sausages left. The man in white looks at the woman in stripes. Then the woman grabs the man's right arm with her left hand, takes a bite of the cucumber from the man's hand, and looks at it."
+    },
+    {
+        "second": 8,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CY7nSHZLb_I/output_frames/sec_8_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[4-11] Subsequently, the man in white continues to eat the cucumber. The woman in stripes walks over from the right with bananas, sits on the sofa, and puts the bananas on the table. Holding a banana in her hand, she picks up the bowl and observes that there are no more grilled sausages left. The man in white looks at the woman in stripes. Then the woman grabs the man's right arm with her left hand, takes a bite of the cucumber from the man's hand, and looks at it."
+    },
+    {
+        "second": 9,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CY7nSHZLb_I/output_frames/sec_9_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[4-11] Subsequently, the man in white continues to eat the cucumber. The woman in stripes walks over from the right with bananas, sits on the sofa, and puts the bananas on the table. Holding a banana in her hand, she picks up the bowl and observes that there are no more grilled sausages left. The man in white looks at the woman in stripes. Then the woman grabs the man's right arm with her left hand, takes a bite of the cucumber from the man's hand, and looks at it."
+    },
+    {
+        "second": 10,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CY7nSHZLb_I/output_frames/sec_10_idx_24.jpg",
+        "fps": 30,
+        "explanation": "[4-11] Subsequently, the man in white continues to eat the cucumber. The woman in stripes walks over from the right with bananas, sits on the sofa, and puts the bananas on the table. Holding a banana in her hand, she picks up the bowl and observes that there are no more grilled sausages left. The man in white looks at the woman in stripes. Then the woman grabs the man's right arm with her left hand, takes a bite of the cucumber from the man's hand, and looks at it."
+    },
+    {
+        "second": 11,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/CY7nSHZLb_I/output_frames/sec_11_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[4-11] Subsequently, the man in white continues to eat the cucumber. The woman in stripes walks over from the right with bananas, sits on the sofa, and puts the bananas on the table. Holding a banana in her hand, she picks up the bowl and observes that there are no more grilled sausages left. The man in white looks at the woman in stripes. Then the woman grabs the man's right arm with her left hand, takes a bite of the cucumber from the man's hand, and looks at it."
+    }
+]

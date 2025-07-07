@@ -1,0 +1,86 @@
+[
+    {
+        "second": 0,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1B8TyPwH2P8/output_frames/sec_0_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-0] In a room, a man in a blue shirt sits on a chair on the left side, with a blackboard on the right. The man holds a white chalk in his right hand and draws a diagonal line on the blackboard. Above, there is an air conditioner, and some home decorations."
+    },
+    {
+        "second": 1,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1B8TyPwH2P8/output_frames/sec_1_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[0-4] First, the man in blue draws a short diagonal line upward from the right end of the first line. He turns his head to the front. The scene switches to a little girl in pink sitting on the left, with a white drawing board on her right. The girl draws the same line on the white drawing board with a red pen. After drawing, the girl turns her head to the front. The scene switches back to the man in blue. He continues to draw a horizontal line to the left from the top of the short diagonal line. After drawing, he turns his head to the front. The scene switches to the girl in pink. She draws the same line on the white drawing board. After drawing, the girl turns her head to the front."
+    },
+    {
+        "second": 2,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1B8TyPwH2P8/output_frames/sec_2_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[0-4] First, the man in blue draws a short diagonal line upward from the right end of the first line. He turns his head to the front. The scene switches to a little girl in pink sitting on the left, with a white drawing board on her right. The girl draws the same line on the white drawing board with a red pen. After drawing, the girl turns her head to the front. The scene switches back to the man in blue. He continues to draw a horizontal line to the left from the top of the short diagonal line. After drawing, he turns his head to the front. The scene switches to the girl in pink. She draws the same line on the white drawing board. After drawing, the girl turns her head to the front."
+    },
+    {
+        "second": 3,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1B8TyPwH2P8/output_frames/sec_3_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-4] First, the man in blue draws a short diagonal line upward from the right end of the first line. He turns his head to the front. The scene switches to a little girl in pink sitting on the left, with a white drawing board on her right. The girl draws the same line on the white drawing board with a red pen. After drawing, the girl turns her head to the front. The scene switches back to the man in blue. He continues to draw a horizontal line to the left from the top of the short diagonal line. After drawing, he turns his head to the front. The scene switches to the girl in pink. She draws the same line on the white drawing board. After drawing, the girl turns her head to the front."
+    },
+    {
+        "second": 4,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1B8TyPwH2P8/output_frames/sec_4_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[0-4] First, the man in blue draws a short diagonal line upward from the right end of the first line. He turns his head to the front. The scene switches to a little girl in pink sitting on the left, with a white drawing board on her right. The girl draws the same line on the white drawing board with a red pen. After drawing, the girl turns her head to the front. The scene switches back to the man in blue. He continues to draw a horizontal line to the left from the top of the short diagonal line. After drawing, he turns his head to the front. The scene switches to the girl in pink. She draws the same line on the white drawing board. After drawing, the girl turns her head to the front."
+    },
+    {
+        "second": 5,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1B8TyPwH2P8/output_frames/sec_5_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[4-8] Then the scene switches to the man in blue. He draws a diagonal line downward to the right from the end of the horizontal line. After drawing, he turns his head to the front. The scene switches to the girl in pink. She draws the same line on the white drawing board. After drawing, the girl turns her head to the front. The scene switches back to the man in blue. He draws a line upward from the end of the last diagonal line. A white pentagon appears in the picture. After drawing, he turns his head to the front. The scene switches to the girl in pink. She draws the same line on the white drawing board. A red pentagon appears on the white drawing board. After drawing, the girl turns her head to the front."
+    },
+    {
+        "second": 6,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1B8TyPwH2P8/output_frames/sec_6_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[4-8] Then the scene switches to the man in blue. He draws a diagonal line downward to the right from the end of the horizontal line. After drawing, he turns his head to the front. The scene switches to the girl in pink. She draws the same line on the white drawing board. After drawing, the girl turns her head to the front. The scene switches back to the man in blue. He draws a line upward from the end of the last diagonal line. A white pentagon appears in the picture. After drawing, he turns his head to the front. The scene switches to the girl in pink. She draws the same line on the white drawing board. A red pentagon appears on the white drawing board. After drawing, the girl turns her head to the front."
+    },
+    {
+        "second": 7,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1B8TyPwH2P8/output_frames/sec_7_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[4-8] Then the scene switches to the man in blue. He draws a diagonal line downward to the right from the end of the horizontal line. After drawing, he turns his head to the front. The scene switches to the girl in pink. She draws the same line on the white drawing board. After drawing, the girl turns her head to the front. The scene switches back to the man in blue. He draws a line upward from the end of the last diagonal line. A white pentagon appears in the picture. After drawing, he turns his head to the front. The scene switches to the girl in pink. She draws the same line on the white drawing board. A red pentagon appears on the white drawing board. After drawing, the girl turns her head to the front."
+    },
+    {
+        "second": 8,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1B8TyPwH2P8/output_frames/sec_8_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[4-8] Then the scene switches to the man in blue. He draws a diagonal line downward to the right from the end of the horizontal line. After drawing, he turns his head to the front. The scene switches to the girl in pink. She draws the same line on the white drawing board. After drawing, the girl turns her head to the front. The scene switches back to the man in blue. He draws a line upward from the end of the last diagonal line. A white pentagon appears in the picture. After drawing, he turns his head to the front. The scene switches to the girl in pink. She draws the same line on the white drawing board. A red pentagon appears on the white drawing board. After drawing, the girl turns her head to the front."
+    },
+    {
+        "second": 9,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1B8TyPwH2P8/output_frames/sec_9_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[8-11] Finally, the scene switches to the man in blue with his right hand placed below the pentagon and turns his head to the front. The scene switches to the girl in pink, who turns her head to the front, holding a red pen in her right hand, and keeps drawing messy lines on the white drawing board."
+    },
+    {
+        "second": 10,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1B8TyPwH2P8/output_frames/sec_10_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[8-11] Finally, the scene switches to the man in blue with his right hand placed below the pentagon and turns his head to the front. The scene switches to the girl in pink, who turns her head to the front, holding a red pen in her right hand, and keeps drawing messy lines on the white drawing board."
+    },
+    {
+        "second": 11,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1B8TyPwH2P8/output_frames/sec_11_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[8-11] Finally, the scene switches to the man in blue with his right hand placed below the pentagon and turns his head to the front. The scene switches to the girl in pink, who turns her head to the front, holding a red pen in her right hand, and keeps drawing messy lines on the white drawing board."
+    }
+]

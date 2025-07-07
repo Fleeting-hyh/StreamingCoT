@@ -1,0 +1,30 @@
+[
+    {
+        "second": 0,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/APyCSdmIITQ/output_frames/sec_0_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-0] Two cats are snuggling on a gray mattress; one is lying on its stomach while the other rests comfortably on top. The floor is brown wood, and in the background, there's a wardrobe with clothes hanging on a rack and a white shelf."
+    },
+    {
+        "second": 1,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/APyCSdmIITQ/output_frames/sec_1_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Then, a hand throws a yellow cloth with cartoon patterns onto the cat lying down. The two cats remain motionless in their original positions, seeming to enjoy each other's company."
+    },
+    {
+        "second": 2,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/APyCSdmIITQ/output_frames/sec_2_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Then, a hand throws a yellow cloth with cartoon patterns onto the cat lying down. The two cats remain motionless in their original positions, seeming to enjoy each other's company."
+    },
+    {
+        "second": 3,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/APyCSdmIITQ/output_frames/sec_3_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Then, a hand throws a yellow cloth with cartoon patterns onto the cat lying down. The two cats remain motionless in their original positions, seeming to enjoy each other's company."
+    }
+]

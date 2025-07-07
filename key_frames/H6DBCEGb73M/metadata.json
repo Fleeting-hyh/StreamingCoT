@@ -1,0 +1,100 @@
+[
+    {
+        "second": 0,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/H6DBCEGb73M/output_frames/sec_0_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A yellow robot stands in a kitchen, facing a stove with burning flames. A wok sits on the stove, and the robot is using a spatula to stir-fry food in it. The surroundings show a kitchen filled with various utensils."
+    },
+    {
+        "second": 1,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/H6DBCEGb73M/output_frames/sec_1_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[0-3] The robot continues to stir-fry the food in the wok, hitting the wok vigorously with the spatula as it cooks. The scene cuts to two men, the one on the left wearing blue and the one on the right wearing white. They are holding empty plates and have shocked expressions."
+    },
+    {
+        "second": 2,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/H6DBCEGb73M/output_frames/sec_2_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-3] The robot continues to stir-fry the food in the wok, hitting the wok vigorously with the spatula as it cooks. The scene cuts to two men, the one on the left wearing blue and the one on the right wearing white. They are holding empty plates and have shocked expressions."
+    },
+    {
+        "second": 3,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/H6DBCEGb73M/output_frames/sec_3_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[0-3] The robot continues to stir-fry the food in the wok, hitting the wok vigorously with the spatula as it cooks. The scene cuts to two men, the one on the left wearing blue and the one on the right wearing white. They are holding empty plates and have shocked expressions."
+    },
+    {
+        "second": 4,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/H6DBCEGb73M/output_frames/sec_4_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[3-7] The scene cuts back to the robot continuing to stir-fry the food and then hitting the wok vigorously with the spatula. The two men are still holding their plates with shocked expressions. The man in blue has his mouth open and appears to be whispering something to the man in white next to him."
+    },
+    {
+        "second": 5,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/H6DBCEGb73M/output_frames/sec_5_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[3-7] The scene cuts back to the robot continuing to stir-fry the food and then hitting the wok vigorously with the spatula. The two men are still holding their plates with shocked expressions. The man in blue has his mouth open and appears to be whispering something to the man in white next to him."
+    },
+    {
+        "second": 6,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/H6DBCEGb73M/output_frames/sec_6_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[3-7] The scene cuts back to the robot continuing to stir-fry the food and then hitting the wok vigorously with the spatula. The two men are still holding their plates with shocked expressions. The man in blue has his mouth open and appears to be whispering something to the man in white next to him."
+    },
+    {
+        "second": 7,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/H6DBCEGb73M/output_frames/sec_7_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[3-7] The scene cuts back to the robot continuing to stir-fry the food and then hitting the wok vigorously with the spatula. The two men are still holding their plates with shocked expressions. The man in blue has his mouth open and appears to be whispering something to the man in white next to him."
+    },
+    {
+        "second": 8,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/H6DBCEGb73M/output_frames/sec_8_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[7-13] The robot pours the food from the wok onto a large sheet of paper, underneath which are many metal bowls containing seasonings. Finally, the scene cuts back to the two men. The man in blue on the left is staring at the screen with his mouth agape in shock, while the man in white on the right is licking his lips with a dull expression."
+    },
+    {
+        "second": 9,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/H6DBCEGb73M/output_frames/sec_9_idx_24.jpg",
+        "fps": 30,
+        "explanation": "[7-13] The robot pours the food from the wok onto a large sheet of paper, underneath which are many metal bowls containing seasonings. Finally, the scene cuts back to the two men. The man in blue on the left is staring at the screen with his mouth agape in shock, while the man in white on the right is licking his lips with a dull expression."
+    },
+    {
+        "second": 10,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/H6DBCEGb73M/output_frames/sec_10_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[7-13] The robot pours the food from the wok onto a large sheet of paper, underneath which are many metal bowls containing seasonings. Finally, the scene cuts back to the two men. The man in blue on the left is staring at the screen with his mouth agape in shock, while the man in white on the right is licking his lips with a dull expression."
+    },
+    {
+        "second": 11,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/H6DBCEGb73M/output_frames/sec_11_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[7-13] The robot pours the food from the wok onto a large sheet of paper, underneath which are many metal bowls containing seasonings. Finally, the scene cuts back to the two men. The man in blue on the left is staring at the screen with his mouth agape in shock, while the man in white on the right is licking his lips with a dull expression."
+    },
+    {
+        "second": 12,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/H6DBCEGb73M/output_frames/sec_12_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[7-13] The robot pours the food from the wok onto a large sheet of paper, underneath which are many metal bowls containing seasonings. Finally, the scene cuts back to the two men. The man in blue on the left is staring at the screen with his mouth agape in shock, while the man in white on the right is licking his lips with a dull expression."
+    },
+    {
+        "second": 13,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/H6DBCEGb73M/output_frames/sec_13_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[7-13] The robot pours the food from the wok onto a large sheet of paper, underneath which are many metal bowls containing seasonings. Finally, the scene cuts back to the two men. The man in blue on the left is staring at the screen with his mouth agape in shock, while the man in white on the right is licking his lips with a dull expression."
+    }
+]

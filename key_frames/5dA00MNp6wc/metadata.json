@@ -1,0 +1,65 @@
+[
+    {
+        "second": 0,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5dA00MNp6wc/output_frames/sec_0_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[0-0] Someone is using a pair of chopsticks as knitting needles to knit together noodles from a black bowl, with the text \"Mom: Don't play with your food Me:\" in black above. The background is a brown wooden floor."
+    },
+    {
+        "second": 1,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5dA00MNp6wc/output_frames/sec_1_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[0-8] Then, the instant noodles have been woven into a long shape and are being woven together with a toothpick."
+    },
+    {
+        "second": 2,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5dA00MNp6wc/output_frames/sec_2_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-8] Then, the instant noodles have been woven into a long shape and are being woven together with a toothpick."
+    },
+    {
+        "second": 3,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5dA00MNp6wc/output_frames/sec_3_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[0-8] Then, the instant noodles have been woven into a long shape and are being woven together with a toothpick."
+    },
+    {
+        "second": 4,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5dA00MNp6wc/output_frames/sec_4_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[0-8] Then, the instant noodles have been woven into a long shape and are being woven together with a toothpick."
+    },
+    {
+        "second": 5,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5dA00MNp6wc/output_frames/sec_5_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[0-8] Then, the instant noodles have been woven into a long shape and are being woven together with a toothpick."
+    },
+    {
+        "second": 6,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5dA00MNp6wc/output_frames/sec_6_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[0-8] Then, the instant noodles have been woven into a long shape and are being woven together with a toothpick."
+    },
+    {
+        "second": 7,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5dA00MNp6wc/output_frames/sec_7_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-8] Then, the instant noodles have been woven into a long shape and are being woven together with a toothpick."
+    },
+    {
+        "second": 8,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5dA00MNp6wc/output_frames/sec_8_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-8] Then, the instant noodles have been woven into a long shape and are being woven together with a toothpick."
+    }
+]

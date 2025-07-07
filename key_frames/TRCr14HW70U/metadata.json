@@ -1,0 +1,30 @@
+[
+    {
+        "second": 0,
+        "frame_index": 38,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TRCr14HW70U/output_frames/sec_0_idx_38.jpg",
+        "fps": 60,
+        "explanation": "[0-0] The video begins in a gym, where a woman in a white crop top and black shorts is looking at her phone. The background is a brightly lit gym environment with various fitness equipment, and in the distance stands a man wearing a black baseball cap backwards, a yellow T-shirt, and brick-red shorts."
+    },
+    {
+        "second": 1,
+        "frame_index": 46,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TRCr14HW70U/output_frames/sec_1_idx_46.jpg",
+        "fps": 60,
+        "explanation": "[0-3] The camera then cuts to a man behind the woman, with a black beard, lying shirtless on a piece of gym equipment, holding the handles with both hands. In the background, a person in a blue T-shirt and another in a black T-shirt are walking, followed by a shot of a man with his head covered by a piece of clothing making a funny face with his tongue out."
+    },
+    {
+        "second": 2,
+        "frame_index": 50,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TRCr14HW70U/output_frames/sec_2_idx_50.jpg",
+        "fps": 60,
+        "explanation": "[0-3] The camera then cuts to a man behind the woman, with a black beard, lying shirtless on a piece of gym equipment, holding the handles with both hands. In the background, a person in a blue T-shirt and another in a black T-shirt are walking, followed by a shot of a man with his head covered by a piece of clothing making a funny face with his tongue out."
+    },
+    {
+        "second": 3,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TRCr14HW70U/output_frames/sec_3_idx_20.jpg",
+        "fps": 60,
+        "explanation": "[0-3] The camera then cuts to a man behind the woman, with a black beard, lying shirtless on a piece of gym equipment, holding the handles with both hands. In the background, a person in a blue T-shirt and another in a black T-shirt are walking, followed by a shot of a man with his head covered by a piece of clothing making a funny face with his tongue out."
+    }
+]

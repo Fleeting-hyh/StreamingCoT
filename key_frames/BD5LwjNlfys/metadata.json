@@ -1,0 +1,51 @@
+[
+    {
+        "second": 0,
+        "frame_index": 35,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/BD5LwjNlfys/output_frames/sec_0_idx_35.jpg",
+        "fps": 50,
+        "explanation": "[0-0] In a brightly colored room, a man wearing a red top, black vest, and black pants stands on the left side, while a little girl wearing a red dress and a flame wig stands on the right side. The little girl in the red dress has her arms crossed over her chest and is looking sideways at the man in black pants. The man in black pants is half-squatting, looking sideways at the little girl in the red dress. They are standing in front of a popcorn counter."
+    },
+    {
+        "second": 1,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/BD5LwjNlfys/output_frames/sec_1_idx_29.jpg",
+        "fps": 50,
+        "explanation": "[0-3] The man in black pants first raises his chin towards the little girl in the red dress, and the little girl in the red dress starts to sway her body and shake her head."
+    },
+    {
+        "second": 2,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/BD5LwjNlfys/output_frames/sec_2_idx_22.jpg",
+        "fps": 50,
+        "explanation": "[0-3] The man in black pants first raises his chin towards the little girl in the red dress, and the little girl in the red dress starts to sway her body and shake her head."
+    },
+    {
+        "second": 3,
+        "frame_index": 39,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/BD5LwjNlfys/output_frames/sec_3_idx_39.jpg",
+        "fps": 50,
+        "explanation": "[0-3] The man in black pants first raises his chin towards the little girl in the red dress, and the little girl in the red dress starts to sway her body and shake her head."
+    },
+    {
+        "second": 4,
+        "frame_index": 48,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/BD5LwjNlfys/output_frames/sec_4_idx_48.jpg",
+        "fps": 50,
+        "explanation": "[3-7] Finally, the man in black pants extends his left hand and points in front of the little girl in the red dress. The little girl in the red dress stops, and the man in black pants starts to move his hands and twist his body. The little girl in the red dress raises her right hand to cover her eyes and turns her head to the right. The scene freezes."
+    },
+    {
+        "second": 5,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/BD5LwjNlfys/output_frames/sec_5_idx_6.jpg",
+        "fps": 50,
+        "explanation": "[3-7] Finally, the man in black pants extends his left hand and points in front of the little girl in the red dress. The little girl in the red dress stops, and the man in black pants starts to move his hands and twist his body. The little girl in the red dress raises her right hand to cover her eyes and turns her head to the right. The scene freezes."
+    },
+    {
+        "second": 6,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/BD5LwjNlfys/output_frames/sec_6_idx_10.jpg",
+        "fps": 50,
+        "explanation": "[3-7] Finally, the man in black pants extends his left hand and points in front of the little girl in the red dress. The little girl in the red dress stops, and the man in black pants starts to move his hands and twist his body. The little girl in the red dress raises her right hand to cover her eyes and turns her head to the right. The scene freezes."
+    }
+]

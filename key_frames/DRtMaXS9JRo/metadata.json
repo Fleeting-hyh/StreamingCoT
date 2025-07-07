@@ -1,0 +1,100 @@
+[
+    {
+        "second": 0,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DRtMaXS9JRo/output_frames/sec_0_idx_25.jpg",
+        "fps": 60,
+        "explanation": "[0-0] The frame is in gray. In a hallway, a man and a woman are physically fighting. The man is trying to restrain the woman's arms."
+    },
+    {
+        "second": 1,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DRtMaXS9JRo/output_frames/sec_1_idx_19.jpg",
+        "fps": 60,
+        "explanation": "[0-4] The fight continues, the environment remains the same, the man and woman are still struggling in the hallway. After the woman breaks free, she grabs the man's arm, flips him to the ground. Then the picture turns color, the man grabs the woman's arm, the woman's body shaking, facing forward with her index finger raised and shaking."
+    },
+    {
+        "second": 2,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DRtMaXS9JRo/output_frames/sec_2_idx_20.jpg",
+        "fps": 60,
+        "explanation": "[0-4] The fight continues, the environment remains the same, the man and woman are still struggling in the hallway. After the woman breaks free, she grabs the man's arm, flips him to the ground. Then the picture turns color, the man grabs the woman's arm, the woman's body shaking, facing forward with her index finger raised and shaking."
+    },
+    {
+        "second": 3,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DRtMaXS9JRo/output_frames/sec_3_idx_8.jpg",
+        "fps": 60,
+        "explanation": "[0-4] The fight continues, the environment remains the same, the man and woman are still struggling in the hallway. After the woman breaks free, she grabs the man's arm, flips him to the ground. Then the picture turns color, the man grabs the woman's arm, the woman's body shaking, facing forward with her index finger raised and shaking."
+    },
+    {
+        "second": 4,
+        "frame_index": 54,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DRtMaXS9JRo/output_frames/sec_4_idx_54.jpg",
+        "fps": 60,
+        "explanation": "[0-4] The fight continues, the environment remains the same, the man and woman are still struggling in the hallway. After the woman breaks free, she grabs the man's arm, flips him to the ground. Then the picture turns color, the man grabs the woman's arm, the woman's body shaking, facing forward with her index finger raised and shaking."
+    },
+    {
+        "second": 5,
+        "frame_index": 58,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DRtMaXS9JRo/output_frames/sec_5_idx_58.jpg",
+        "fps": 60,
+        "explanation": "[4-13] Then the woman spreads out her hands, grabs the man's wrists, crosses his arms, and stands up, flipping the man's body to the ground. She makes an \"OK\" gesture with her hand, while the man remains motionless on the ground, and the woman starts to run away."
+    },
+    {
+        "second": 6,
+        "frame_index": 50,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DRtMaXS9JRo/output_frames/sec_6_idx_50.jpg",
+        "fps": 60,
+        "explanation": "[4-13] Then the woman spreads out her hands, grabs the man's wrists, crosses his arms, and stands up, flipping the man's body to the ground. She makes an \"OK\" gesture with her hand, while the man remains motionless on the ground, and the woman starts to run away."
+    },
+    {
+        "second": 7,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DRtMaXS9JRo/output_frames/sec_7_idx_9.jpg",
+        "fps": 60,
+        "explanation": "[4-13] Then the woman spreads out her hands, grabs the man's wrists, crosses his arms, and stands up, flipping the man's body to the ground. She makes an \"OK\" gesture with her hand, while the man remains motionless on the ground, and the woman starts to run away."
+    },
+    {
+        "second": 8,
+        "frame_index": 58,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DRtMaXS9JRo/output_frames/sec_8_idx_58.jpg",
+        "fps": 60,
+        "explanation": "[4-13] Then the woman spreads out her hands, grabs the man's wrists, crosses his arms, and stands up, flipping the man's body to the ground. She makes an \"OK\" gesture with her hand, while the man remains motionless on the ground, and the woman starts to run away."
+    },
+    {
+        "second": 9,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DRtMaXS9JRo/output_frames/sec_9_idx_13.jpg",
+        "fps": 60,
+        "explanation": "[4-13] Then the woman spreads out her hands, grabs the man's wrists, crosses his arms, and stands up, flipping the man's body to the ground. She makes an \"OK\" gesture with her hand, while the man remains motionless on the ground, and the woman starts to run away."
+    },
+    {
+        "second": 10,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DRtMaXS9JRo/output_frames/sec_10_idx_9.jpg",
+        "fps": 60,
+        "explanation": "[4-13] Then the woman spreads out her hands, grabs the man's wrists, crosses his arms, and stands up, flipping the man's body to the ground. She makes an \"OK\" gesture with her hand, while the man remains motionless on the ground, and the woman starts to run away."
+    },
+    {
+        "second": 11,
+        "frame_index": 52,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DRtMaXS9JRo/output_frames/sec_11_idx_52.jpg",
+        "fps": 60,
+        "explanation": "[4-13] Then the woman spreads out her hands, grabs the man's wrists, crosses his arms, and stands up, flipping the man's body to the ground. She makes an \"OK\" gesture with her hand, while the man remains motionless on the ground, and the woman starts to run away."
+    },
+    {
+        "second": 12,
+        "frame_index": 58,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DRtMaXS9JRo/output_frames/sec_12_idx_58.jpg",
+        "fps": 60,
+        "explanation": "[4-13] Then the woman spreads out her hands, grabs the man's wrists, crosses his arms, and stands up, flipping the man's body to the ground. She makes an \"OK\" gesture with her hand, while the man remains motionless on the ground, and the woman starts to run away."
+    },
+    {
+        "second": 13,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/DRtMaXS9JRo/output_frames/sec_13_idx_8.jpg",
+        "fps": 60,
+        "explanation": "[4-13] Then the woman spreads out her hands, grabs the man's wrists, crosses his arms, and stands up, flipping the man's body to the ground. She makes an \"OK\" gesture with her hand, while the man remains motionless on the ground, and the woman starts to run away."
+    }
+]

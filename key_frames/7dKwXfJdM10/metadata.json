@@ -1,0 +1,289 @@
+[
+    {
+        "second": 0,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7dKwXfJdM10/output_frames/sec_0_idx_19.jpg",
+        "fps": 25,
+        "explanation": "[0-0] A young woman is standing in front of a copy machine. She is wearing a denim jacket and jeans. There is a green plant by the white wall, and the floor is gray."
+    },
+    {
+        "second": 1,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7dKwXfJdM10/output_frames/sec_1_idx_0.jpg",
+        "fps": 25,
+        "explanation": "[0-2] The woman in the denim jacket opens the cover of the copier, leans her head on it as if looking for something. A bright light flashes on the copier, then she looks up and closes the cover."
+    },
+    {
+        "second": 2,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7dKwXfJdM10/output_frames/sec_2_idx_19.jpg",
+        "fps": 25,
+        "explanation": "[0-2] The woman in the denim jacket opens the cover of the copier, leans her head on it as if looking for something. A bright light flashes on the copier, then she looks up and closes the cover."
+    },
+    {
+        "second": 3,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7dKwXfJdM10/output_frames/sec_3_idx_18.jpg",
+        "fps": 25,
+        "explanation": "[2-4] Then the woman bends down and takes a piece of paper from the copier, and stands up."
+    },
+    {
+        "second": 4,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7dKwXfJdM10/output_frames/sec_4_idx_6.jpg",
+        "fps": 25,
+        "explanation": "[2-4] Then the woman bends down and takes a piece of paper from the copier, and stands up."
+    },
+    {
+        "second": 5,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7dKwXfJdM10/output_frames/sec_5_idx_6.jpg",
+        "fps": 25,
+        "explanation": "[4-9] The scene switches to a blue table. Two hands place a white paper on it, then one hand takes a bottle of glue and squeezes it onto the white paper. The words \"PVA GLUE\" appear in white on the screen."
+    },
+    {
+        "second": 6,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7dKwXfJdM10/output_frames/sec_6_idx_1.jpg",
+        "fps": 25,
+        "explanation": "[4-9] The scene switches to a blue table. Two hands place a white paper on it, then one hand takes a bottle of glue and squeezes it onto the white paper. The words \"PVA GLUE\" appear in white on the screen."
+    },
+    {
+        "second": 7,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7dKwXfJdM10/output_frames/sec_7_idx_21.jpg",
+        "fps": 25,
+        "explanation": "[4-9] The scene switches to a blue table. Two hands place a white paper on it, then one hand takes a bottle of glue and squeezes it onto the white paper. The words \"PVA GLUE\" appear in white on the screen."
+    },
+    {
+        "second": 8,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7dKwXfJdM10/output_frames/sec_8_idx_11.jpg",
+        "fps": 25,
+        "explanation": "[4-9] The scene switches to a blue table. Two hands place a white paper on it, then one hand takes a bottle of glue and squeezes it onto the white paper. The words \"PVA GLUE\" appear in white on the screen."
+    },
+    {
+        "second": 9,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7dKwXfJdM10/output_frames/sec_9_idx_5.jpg",
+        "fps": 25,
+        "explanation": "[4-9] The scene switches to a blue table. Two hands place a white paper on it, then one hand takes a bottle of glue and squeezes it onto the white paper. The words \"PVA GLUE\" appear in white on the screen."
+    },
+    {
+        "second": 10,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7dKwXfJdM10/output_frames/sec_10_idx_16.jpg",
+        "fps": 25,
+        "explanation": "[9-13] Next, one hand holds the white paper, and the other uses a blue sponge to spread the glue evenly."
+    },
+    {
+        "second": 11,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7dKwXfJdM10/output_frames/sec_11_idx_3.jpg",
+        "fps": 25,
+        "explanation": "[9-13] Next, one hand holds the white paper, and the other uses a blue sponge to spread the glue evenly."
+    },
+    {
+        "second": 12,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7dKwXfJdM10/output_frames/sec_12_idx_24.jpg",
+        "fps": 25,
+        "explanation": "[9-13] Next, one hand holds the white paper, and the other uses a blue sponge to spread the glue evenly."
+    },
+    {
+        "second": 13,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7dKwXfJdM10/output_frames/sec_13_idx_6.jpg",
+        "fps": 25,
+        "explanation": "[9-13] Next, one hand holds the white paper, and the other uses a blue sponge to spread the glue evenly."
+    },
+    {
+        "second": 14,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7dKwXfJdM10/output_frames/sec_14_idx_10.jpg",
+        "fps": 25,
+        "explanation": "[13-17] Then, two hands take a paper with the woman's photo printed on it and place it face down on the photo. They place a piece of cloth on top and flatten it with their hands. The words \"LET DRY\" appear in white on the screen."
+    },
+    {
+        "second": 15,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7dKwXfJdM10/output_frames/sec_15_idx_13.jpg",
+        "fps": 25,
+        "explanation": "[13-17] Then, two hands take a paper with the woman's photo printed on it and place it face down on the photo. They place a piece of cloth on top and flatten it with their hands. The words \"LET DRY\" appear in white on the screen."
+    },
+    {
+        "second": 16,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7dKwXfJdM10/output_frames/sec_16_idx_2.jpg",
+        "fps": 25,
+        "explanation": "[13-17] Then, two hands take a paper with the woman's photo printed on it and place it face down on the photo. They place a piece of cloth on top and flatten it with their hands. The words \"LET DRY\" appear in white on the screen."
+    },
+    {
+        "second": 17,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7dKwXfJdM10/output_frames/sec_17_idx_23.jpg",
+        "fps": 25,
+        "explanation": "[13-17] Then, two hands take a paper with the woman's photo printed on it and place it face down on the photo. They place a piece of cloth on top and flatten it with their hands. The words \"LET DRY\" appear in white on the screen."
+    },
+    {
+        "second": 18,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7dKwXfJdM10/output_frames/sec_18_idx_13.jpg",
+        "fps": 25,
+        "explanation": "[17-20] Afterward, one hand presses down on the white paper while the other takes a piece of blue cloth and rubs it on the white paper."
+    },
+    {
+        "second": 19,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7dKwXfJdM10/output_frames/sec_19_idx_1.jpg",
+        "fps": 25,
+        "explanation": "[17-20] Afterward, one hand presses down on the white paper while the other takes a piece of blue cloth and rubs it on the white paper."
+    },
+    {
+        "second": 20,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7dKwXfJdM10/output_frames/sec_20_idx_0.jpg",
+        "fps": 25,
+        "explanation": "[17-20] Afterward, one hand presses down on the white paper while the other takes a piece of blue cloth and rubs it on the white paper."
+    },
+    {
+        "second": 21,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7dKwXfJdM10/output_frames/sec_21_idx_6.jpg",
+        "fps": 25,
+        "explanation": "[20-22] Then one hand presses the white paper while the index finger of the other hand rubs on it."
+    },
+    {
+        "second": 22,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7dKwXfJdM10/output_frames/sec_22_idx_24.jpg",
+        "fps": 25,
+        "explanation": "[20-22] Then one hand presses the white paper while the index finger of the other hand rubs on it."
+    },
+    {
+        "second": 23,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7dKwXfJdM10/output_frames/sec_23_idx_13.jpg",
+        "fps": 25,
+        "explanation": "[22-24] The picture zooms in, and as the finger rubs, an eye appears on the white paper."
+    },
+    {
+        "second": 24,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7dKwXfJdM10/output_frames/sec_24_idx_10.jpg",
+        "fps": 25,
+        "explanation": "[22-24] The picture zooms in, and as the finger rubs, an eye appears on the white paper."
+    },
+    {
+        "second": 25,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7dKwXfJdM10/output_frames/sec_25_idx_10.jpg",
+        "fps": 25,
+        "explanation": "[24-28] Then one hand continues to rub, and the woman's photo is fully revealed, with tiny pieces of paper from the rubbing. Two hands shake the white cloth, and it transforms into a pillow with the woman's photo printed on it."
+    },
+    {
+        "second": 26,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7dKwXfJdM10/output_frames/sec_26_idx_0.jpg",
+        "fps": 25,
+        "explanation": "[24-28] Then one hand continues to rub, and the woman's photo is fully revealed, with tiny pieces of paper from the rubbing. Two hands shake the white cloth, and it transforms into a pillow with the woman's photo printed on it."
+    },
+    {
+        "second": 27,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7dKwXfJdM10/output_frames/sec_27_idx_20.jpg",
+        "fps": 25,
+        "explanation": "[24-28] Then one hand continues to rub, and the woman's photo is fully revealed, with tiny pieces of paper from the rubbing. Two hands shake the white cloth, and it transforms into a pillow with the woman's photo printed on it."
+    },
+    {
+        "second": 28,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7dKwXfJdM10/output_frames/sec_28_idx_8.jpg",
+        "fps": 25,
+        "explanation": "[24-28] Then one hand continues to rub, and the woman's photo is fully revealed, with tiny pieces of paper from the rubbing. Two hands shake the white cloth, and it transforms into a pillow with the woman's photo printed on it."
+    },
+    {
+        "second": 29,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7dKwXfJdM10/output_frames/sec_29_idx_4.jpg",
+        "fps": 25,
+        "explanation": "[28-30] The scene shifts to the living room, where a man in a purple sweatshirt and a woman in a yellow short-sleeved shirt and carrying a suitcase hug in front of a blue sofa. There is a green plant and a table lamp next to the sofa, and a yellow light on the white wall."
+    },
+    {
+        "second": 30,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7dKwXfJdM10/output_frames/sec_30_idx_24.jpg",
+        "fps": 25,
+        "explanation": "[28-30] The scene shifts to the living room, where a man in a purple sweatshirt and a woman in a yellow short-sleeved shirt and carrying a suitcase hug in front of a blue sofa. There is a green plant and a table lamp next to the sofa, and a yellow light on the white wall."
+    },
+    {
+        "second": 31,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7dKwXfJdM10/output_frames/sec_31_idx_19.jpg",
+        "fps": 25,
+        "explanation": "[30-32] Then the woman in the yellow short sleeves and the man in the purple sweatshirt wave goodbye to each other, and the woman walks away with her suitcase. The man sits happily on the sofa. The camera zooms in as the man picks up the green pillow and finds another pillow with the woman's photo printed on it underneath."
+    },
+    {
+        "second": 32,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7dKwXfJdM10/output_frames/sec_32_idx_1.jpg",
+        "fps": 25,
+        "explanation": "[30-32] Then the woman in the yellow short sleeves and the man in the purple sweatshirt wave goodbye to each other, and the woman walks away with her suitcase. The man sits happily on the sofa. The camera zooms in as the man picks up the green pillow and finds another pillow with the woman's photo printed on it underneath."
+    },
+    {
+        "second": 33,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7dKwXfJdM10/output_frames/sec_33_idx_8.jpg",
+        "fps": 25,
+        "explanation": "[32-35] Subsequently, the man picks up the pillow, looks at his girlfriend's picture, and reveals a surprised and confused expression."
+    },
+    {
+        "second": 34,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7dKwXfJdM10/output_frames/sec_34_idx_9.jpg",
+        "fps": 25,
+        "explanation": "[32-35] Subsequently, the man picks up the pillow, looks at his girlfriend's picture, and reveals a surprised and confused expression."
+    },
+    {
+        "second": 35,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7dKwXfJdM10/output_frames/sec_35_idx_0.jpg",
+        "fps": 25,
+        "explanation": "[32-35] Subsequently, the man picks up the pillow, looks at his girlfriend's picture, and reveals a surprised and confused expression."
+    },
+    {
+        "second": 36,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7dKwXfJdM10/output_frames/sec_36_idx_3.jpg",
+        "fps": 25,
+        "explanation": "[35-39] Then the woman's picture is enlarged, showing her eyes at the top and the man's eyes at the bottom. The words \"I'M WATCHING YOU!\" are written in white above and \"\uff1f\uff1f\uff1f\uff01\uff01\uff01\u201d below."
+    },
+    {
+        "second": 37,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7dKwXfJdM10/output_frames/sec_37_idx_1.jpg",
+        "fps": 25,
+        "explanation": "[35-39] Then the woman's picture is enlarged, showing her eyes at the top and the man's eyes at the bottom. The words \"I'M WATCHING YOU!\" are written in white above and \"\uff1f\uff1f\uff1f\uff01\uff01\uff01\u201d below."
+    },
+    {
+        "second": 38,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7dKwXfJdM10/output_frames/sec_38_idx_21.jpg",
+        "fps": 25,
+        "explanation": "[35-39] Then the woman's picture is enlarged, showing her eyes at the top and the man's eyes at the bottom. The words \"I'M WATCHING YOU!\" are written in white above and \"\uff1f\uff1f\uff1f\uff01\uff01\uff01\u201d below."
+    },
+    {
+        "second": 39,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7dKwXfJdM10/output_frames/sec_39_idx_21.jpg",
+        "fps": 25,
+        "explanation": "[35-39] Then the woman's picture is enlarged, showing her eyes at the top and the man's eyes at the bottom. The words \"I'M WATCHING YOU!\" are written in white above and \"\uff1f\uff1f\uff1f\uff01\uff01\uff01\u201d below."
+    },
+    {
+        "second": 40,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7dKwXfJdM10/output_frames/sec_40_idx_18.jpg",
+        "fps": 25,
+        "explanation": "[39-41] Finally, the scene returns to the living room, where the man shakes his head and puts the pillow down."
+    }
+]

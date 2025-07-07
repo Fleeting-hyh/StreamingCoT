@@ -1,0 +1,72 @@
+[
+    {
+        "second": 0,
+        "frame_index": 44,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QfbF7pILg7s/output_frames/sec_0_idx_44.jpg",
+        "fps": 60,
+        "explanation": "[0-0] A long-haired man is on a beach by the sea, with a blue sky above and trees and people in the distance."
+    },
+    {
+        "second": 1,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QfbF7pILg7s/output_frames/sec_1_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[0-9] The man continues running on the beach, holding a surfboard, and rushes into the sea. Another man in a black top appears, also heading into the sea, performing a jump while surfing. He soars above the waves, reaching the peak of his surfing maneuver. The shirtless man is then engulfed by the waves, and after the wave passes, he emerges from the water."
+    },
+    {
+        "second": 2,
+        "frame_index": 57,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QfbF7pILg7s/output_frames/sec_2_idx_57.jpg",
+        "fps": 60,
+        "explanation": "[0-9] The man continues running on the beach, holding a surfboard, and rushes into the sea. Another man in a black top appears, also heading into the sea, performing a jump while surfing. He soars above the waves, reaching the peak of his surfing maneuver. The shirtless man is then engulfed by the waves, and after the wave passes, he emerges from the water."
+    },
+    {
+        "second": 3,
+        "frame_index": 53,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QfbF7pILg7s/output_frames/sec_3_idx_53.jpg",
+        "fps": 60,
+        "explanation": "[0-9] The man continues running on the beach, holding a surfboard, and rushes into the sea. Another man in a black top appears, also heading into the sea, performing a jump while surfing. He soars above the waves, reaching the peak of his surfing maneuver. The shirtless man is then engulfed by the waves, and after the wave passes, he emerges from the water."
+    },
+    {
+        "second": 4,
+        "frame_index": 40,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QfbF7pILg7s/output_frames/sec_4_idx_40.jpg",
+        "fps": 60,
+        "explanation": "[0-9] The man continues running on the beach, holding a surfboard, and rushes into the sea. Another man in a black top appears, also heading into the sea, performing a jump while surfing. He soars above the waves, reaching the peak of his surfing maneuver. The shirtless man is then engulfed by the waves, and after the wave passes, he emerges from the water."
+    },
+    {
+        "second": 5,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QfbF7pILg7s/output_frames/sec_5_idx_6.jpg",
+        "fps": 60,
+        "explanation": "[0-9] The man continues running on the beach, holding a surfboard, and rushes into the sea. Another man in a black top appears, also heading into the sea, performing a jump while surfing. He soars above the waves, reaching the peak of his surfing maneuver. The shirtless man is then engulfed by the waves, and after the wave passes, he emerges from the water."
+    },
+    {
+        "second": 6,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QfbF7pILg7s/output_frames/sec_6_idx_15.jpg",
+        "fps": 60,
+        "explanation": "[0-9] The man continues running on the beach, holding a surfboard, and rushes into the sea. Another man in a black top appears, also heading into the sea, performing a jump while surfing. He soars above the waves, reaching the peak of his surfing maneuver. The shirtless man is then engulfed by the waves, and after the wave passes, he emerges from the water."
+    },
+    {
+        "second": 7,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QfbF7pILg7s/output_frames/sec_7_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[0-9] The man continues running on the beach, holding a surfboard, and rushes into the sea. Another man in a black top appears, also heading into the sea, performing a jump while surfing. He soars above the waves, reaching the peak of his surfing maneuver. The shirtless man is then engulfed by the waves, and after the wave passes, he emerges from the water."
+    },
+    {
+        "second": 8,
+        "frame_index": 30,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QfbF7pILg7s/output_frames/sec_8_idx_30.jpg",
+        "fps": 60,
+        "explanation": "[0-9] The man continues running on the beach, holding a surfboard, and rushes into the sea. Another man in a black top appears, also heading into the sea, performing a jump while surfing. He soars above the waves, reaching the peak of his surfing maneuver. The shirtless man is then engulfed by the waves, and after the wave passes, he emerges from the water."
+    },
+    {
+        "second": 9,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/QfbF7pILg7s/output_frames/sec_9_idx_1.jpg",
+        "fps": 60,
+        "explanation": "[0-9] The man continues running on the beach, holding a surfboard, and rushes into the sea. Another man in a black top appears, also heading into the sea, performing a jump while surfing. He soars above the waves, reaching the peak of his surfing maneuver. The shirtless man is then engulfed by the waves, and after the wave passes, he emerges from the water."
+    }
+]

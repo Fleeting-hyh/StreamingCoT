@@ -1,0 +1,37 @@
+[
+    {
+        "second": 0,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6sKCAcyjIT0/output_frames/sec_0_idx_24.jpg",
+        "fps": 30,
+        "explanation": "[0-0] Against a black background, there is a wooden object with a silver perforated metal plate attached to it. In the upper left corner, there is a green circle with white text inside that says \"SIMPLE MTIONS\". Inside the text, there is a black circle with a green fast forward symbol."
+    },
+    {
+        "second": 1,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6sKCAcyjIT0/output_frames/sec_1_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[0-4] A piece of wood appears on the right side, with a metal block with a handle attached to it, gradually moving to the left. The metal handle slides onto the metal plate, moves down to enclose it, and the two pieces of wood come together. Then the wood on the right moves left and right a few times."
+    },
+    {
+        "second": 2,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6sKCAcyjIT0/output_frames/sec_2_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[0-4] A piece of wood appears on the right side, with a metal block with a handle attached to it, gradually moving to the left. The metal handle slides onto the metal plate, moves down to enclose it, and the two pieces of wood come together. Then the wood on the right moves left and right a few times."
+    },
+    {
+        "second": 3,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6sKCAcyjIT0/output_frames/sec_3_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-4] A piece of wood appears on the right side, with a metal block with a handle attached to it, gradually moving to the left. The metal handle slides onto the metal plate, moves down to enclose it, and the two pieces of wood come together. Then the wood on the right moves left and right a few times."
+    },
+    {
+        "second": 4,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/6sKCAcyjIT0/output_frames/sec_4_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-4] A piece of wood appears on the right side, with a metal block with a handle attached to it, gradually moving to the left. The metal handle slides onto the metal plate, moves down to enclose it, and the two pieces of wood come together. Then the wood on the right moves left and right a few times."
+    }
+]

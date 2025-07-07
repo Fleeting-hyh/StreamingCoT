@@ -1,0 +1,79 @@
+[
+    {
+        "second": 0,
+        "frame_index": 51,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EOVrgVY_BYo/output_frames/sec_0_idx_51.jpg",
+        "fps": 60,
+        "explanation": "[0-0] A woman in a black dress, wearing bracelets, is standing on a stage, smiling. White smoke billows above the stage. At the top of the screen, there are subtitles, the number 53, and a surprised emoji. In the lower-left corner, there are yellow subtitles and a heart-eyes emoji."
+    },
+    {
+        "second": 1,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EOVrgVY_BYo/output_frames/sec_1_idx_4.jpg",
+        "fps": 60,
+        "explanation": "[0-5] The woman then hugs and briefly touches faces with a man wearing a black shirt and black pants. The man holds a microphone in his right hand. He hands the microphone to the woman, who takes it and stands on stage, looking to the left side of the screen."
+    },
+    {
+        "second": 2,
+        "frame_index": 58,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EOVrgVY_BYo/output_frames/sec_2_idx_58.jpg",
+        "fps": 60,
+        "explanation": "[0-5] The woman then hugs and briefly touches faces with a man wearing a black shirt and black pants. The man holds a microphone in his right hand. He hands the microphone to the woman, who takes it and stands on stage, looking to the left side of the screen."
+    },
+    {
+        "second": 3,
+        "frame_index": 46,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EOVrgVY_BYo/output_frames/sec_3_idx_46.jpg",
+        "fps": 60,
+        "explanation": "[0-5] The woman then hugs and briefly touches faces with a man wearing a black shirt and black pants. The man holds a microphone in his right hand. He hands the microphone to the woman, who takes it and stands on stage, looking to the left side of the screen."
+    },
+    {
+        "second": 4,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EOVrgVY_BYo/output_frames/sec_4_idx_7.jpg",
+        "fps": 60,
+        "explanation": "[0-5] The woman then hugs and briefly touches faces with a man wearing a black shirt and black pants. The man holds a microphone in his right hand. He hands the microphone to the woman, who takes it and stands on stage, looking to the left side of the screen."
+    },
+    {
+        "second": 5,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EOVrgVY_BYo/output_frames/sec_5_idx_11.jpg",
+        "fps": 60,
+        "explanation": "[0-5] The woman then hugs and briefly touches faces with a man wearing a black shirt and black pants. The man holds a microphone in his right hand. He hands the microphone to the woman, who takes it and stands on stage, looking to the left side of the screen."
+    },
+    {
+        "second": 6,
+        "frame_index": 52,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EOVrgVY_BYo/output_frames/sec_6_idx_52.jpg",
+        "fps": 60,
+        "explanation": "[5-8] The scene changes to show a man in a black shirt and yellow glasses on stage, holding the woman's hand. The woman laughs and steps back. Behind the man in yellow glasses, another man in a blue hoodie and red glasses places his hand on the first man's back."
+    },
+    {
+        "second": 7,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EOVrgVY_BYo/output_frames/sec_7_idx_26.jpg",
+        "fps": 60,
+        "explanation": "[5-8] The scene changes to show a man in a black shirt and yellow glasses on stage, holding the woman's hand. The woman laughs and steps back. Behind the man in yellow glasses, another man in a blue hoodie and red glasses places his hand on the first man's back."
+    },
+    {
+        "second": 8,
+        "frame_index": 56,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EOVrgVY_BYo/output_frames/sec_8_idx_56.jpg",
+        "fps": 60,
+        "explanation": "[5-8] The scene changes to show a man in a black shirt and yellow glasses on stage, holding the woman's hand. The woman laughs and steps back. Behind the man in yellow glasses, another man in a blue hoodie and red glasses places his hand on the first man's back."
+    },
+    {
+        "second": 9,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EOVrgVY_BYo/output_frames/sec_9_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[8-10] The scene changes again, showing the woman on stage speaking. A circle highlights the bracelet on her wrist. Finally, the shot changes to the woman sitting on a sofa, smiling. In the lower right corner of the screen, a circle highlights the bracelet on her hand."
+    },
+    {
+        "second": 10,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/EOVrgVY_BYo/output_frames/sec_10_idx_17.jpg",
+        "fps": 60,
+        "explanation": "[8-10] The scene changes again, showing the woman on stage speaking. A circle highlights the bracelet on her wrist. Finally, the shot changes to the woman sitting on a sofa, smiling. In the lower right corner of the screen, a circle highlights the bracelet on her hand."
+    }
+]

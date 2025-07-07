@@ -1,0 +1,170 @@
+[
+    {
+        "second": 0,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S5StDVLUlxk/output_frames/sec_0_idx_0.jpg",
+        "fps": 25,
+        "explanation": "[0-0] A pair of hands holds a princess doll made of paper cups, the princess is wearing a yellow dress with a small blue flower pattern. The background is decorated with colorful ornaments."
+    },
+    {
+        "second": 1,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S5StDVLUlxk/output_frames/sec_1_idx_12.jpg",
+        "fps": 25,
+        "explanation": "[0-4] Then, the princess changes into another dress, now she is wearing a pink dress with a red heart pattern. A cup is thrown onto the table, a hand picks up the cup on the table, and dumps out a piece of paper with a princess head drawn on it from the cup."
+    },
+    {
+        "second": 2,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S5StDVLUlxk/output_frames/sec_2_idx_16.jpg",
+        "fps": 25,
+        "explanation": "[0-4] Then, the princess changes into another dress, now she is wearing a pink dress with a red heart pattern. A cup is thrown onto the table, a hand picks up the cup on the table, and dumps out a piece of paper with a princess head drawn on it from the cup."
+    },
+    {
+        "second": 3,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S5StDVLUlxk/output_frames/sec_3_idx_4.jpg",
+        "fps": 25,
+        "explanation": "[0-4] Then, the princess changes into another dress, now she is wearing a pink dress with a red heart pattern. A cup is thrown onto the table, a hand picks up the cup on the table, and dumps out a piece of paper with a princess head drawn on it from the cup."
+    },
+    {
+        "second": 4,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S5StDVLUlxk/output_frames/sec_4_idx_18.jpg",
+        "fps": 25,
+        "explanation": "[0-4] Then, the princess changes into another dress, now she is wearing a pink dress with a red heart pattern. A cup is thrown onto the table, a hand picks up the cup on the table, and dumps out a piece of paper with a princess head drawn on it from the cup."
+    },
+    {
+        "second": 5,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S5StDVLUlxk/output_frames/sec_5_idx_2.jpg",
+        "fps": 25,
+        "explanation": "[4-6] Subsequently, a hand puts down a pink paper cup. A black marker pen draws a dress-shaped pattern on the paper cup and writes \"CUT ME!\" inside the pattern."
+    },
+    {
+        "second": 6,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S5StDVLUlxk/output_frames/sec_6_idx_17.jpg",
+        "fps": 25,
+        "explanation": "[4-6] Subsequently, a hand puts down a pink paper cup. A black marker pen draws a dress-shaped pattern on the paper cup and writes \"CUT ME!\" inside the pattern."
+    },
+    {
+        "second": 7,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S5StDVLUlxk/output_frames/sec_7_idx_18.jpg",
+        "fps": 25,
+        "explanation": "[6-13] Next, the skirt pattern on the paper cup is cut out, a hand puts the paper with the princess's head drawn on it on the paper cup, the princess's head is exactly at the position of the skirt pattern cut out of the paper cup, and draws some black lines on the cup."
+    },
+    {
+        "second": 8,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S5StDVLUlxk/output_frames/sec_8_idx_23.jpg",
+        "fps": 25,
+        "explanation": "[6-13] Next, the skirt pattern on the paper cup is cut out, a hand puts the paper with the princess's head drawn on it on the paper cup, the princess's head is exactly at the position of the skirt pattern cut out of the paper cup, and draws some black lines on the cup."
+    },
+    {
+        "second": 9,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S5StDVLUlxk/output_frames/sec_9_idx_1.jpg",
+        "fps": 25,
+        "explanation": "[6-13] Next, the skirt pattern on the paper cup is cut out, a hand puts the paper with the princess's head drawn on it on the paper cup, the princess's head is exactly at the position of the skirt pattern cut out of the paper cup, and draws some black lines on the cup."
+    },
+    {
+        "second": 10,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S5StDVLUlxk/output_frames/sec_10_idx_4.jpg",
+        "fps": 25,
+        "explanation": "[6-13] Next, the skirt pattern on the paper cup is cut out, a hand puts the paper with the princess's head drawn on it on the paper cup, the princess's head is exactly at the position of the skirt pattern cut out of the paper cup, and draws some black lines on the cup."
+    },
+    {
+        "second": 11,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S5StDVLUlxk/output_frames/sec_11_idx_20.jpg",
+        "fps": 25,
+        "explanation": "[6-13] Next, the skirt pattern on the paper cup is cut out, a hand puts the paper with the princess's head drawn on it on the paper cup, the princess's head is exactly at the position of the skirt pattern cut out of the paper cup, and draws some black lines on the cup."
+    },
+    {
+        "second": 12,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S5StDVLUlxk/output_frames/sec_12_idx_15.jpg",
+        "fps": 25,
+        "explanation": "[6-13] Next, the skirt pattern on the paper cup is cut out, a hand puts the paper with the princess's head drawn on it on the paper cup, the princess's head is exactly at the position of the skirt pattern cut out of the paper cup, and draws some black lines on the cup."
+    },
+    {
+        "second": 13,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S5StDVLUlxk/output_frames/sec_13_idx_17.jpg",
+        "fps": 25,
+        "explanation": "[6-13] Next, the skirt pattern on the paper cup is cut out, a hand puts the paper with the princess's head drawn on it on the paper cup, the princess's head is exactly at the position of the skirt pattern cut out of the paper cup, and draws some black lines on the cup."
+    },
+    {
+        "second": 14,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S5StDVLUlxk/output_frames/sec_14_idx_18.jpg",
+        "fps": 25,
+        "explanation": "[13-16] Afterwards, a pink paper cup appears with yellow base and blue flowers, pink base and red hearts, and rainbow stripes drawn on it."
+    },
+    {
+        "second": 15,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S5StDVLUlxk/output_frames/sec_15_idx_19.jpg",
+        "fps": 25,
+        "explanation": "[13-16] Afterwards, a pink paper cup appears with yellow base and blue flowers, pink base and red hearts, and rainbow stripes drawn on it."
+    },
+    {
+        "second": 16,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S5StDVLUlxk/output_frames/sec_16_idx_0.jpg",
+        "fps": 25,
+        "explanation": "[13-16] Afterwards, a pink paper cup appears with yellow base and blue flowers, pink base and red hearts, and rainbow stripes drawn on it."
+    },
+    {
+        "second": 17,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S5StDVLUlxk/output_frames/sec_17_idx_2.jpg",
+        "fps": 25,
+        "explanation": "[16-18] Then, a hand puts the paper cup with the princess's head attached to it on top of the decorated cup."
+    },
+    {
+        "second": 18,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S5StDVLUlxk/output_frames/sec_18_idx_2.jpg",
+        "fps": 25,
+        "explanation": "[16-18] Then, a hand puts the paper cup with the princess's head attached to it on top of the decorated cup."
+    },
+    {
+        "second": 19,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S5StDVLUlxk/output_frames/sec_19_idx_4.jpg",
+        "fps": 25,
+        "explanation": "[18-23] Finally, a hand turns the bottom cup, and the princess is wearing different \"skirts\"."
+    },
+    {
+        "second": 20,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S5StDVLUlxk/output_frames/sec_20_idx_19.jpg",
+        "fps": 25,
+        "explanation": "[18-23] Finally, a hand turns the bottom cup, and the princess is wearing different \"skirts\"."
+    },
+    {
+        "second": 21,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S5StDVLUlxk/output_frames/sec_21_idx_5.jpg",
+        "fps": 25,
+        "explanation": "[18-23] Finally, a hand turns the bottom cup, and the princess is wearing different \"skirts\"."
+    },
+    {
+        "second": 22,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S5StDVLUlxk/output_frames/sec_22_idx_24.jpg",
+        "fps": 25,
+        "explanation": "[18-23] Finally, a hand turns the bottom cup, and the princess is wearing different \"skirts\"."
+    },
+    {
+        "second": 23,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S5StDVLUlxk/output_frames/sec_23_idx_0.jpg",
+        "fps": 25,
+        "explanation": "[18-23] Finally, a hand turns the bottom cup, and the princess is wearing different \"skirts\"."
+    }
+]

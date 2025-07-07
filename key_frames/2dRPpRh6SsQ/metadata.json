@@ -1,0 +1,44 @@
+[
+    {
+        "second": 0,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2dRPpRh6SsQ/output_frames/sec_0_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-0] On a country road. A man in black clothes stands by the road, a cautious monster standing in front of him. They are surrounded by withered grass and some trees."
+    },
+    {
+        "second": 1,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2dRPpRh6SsQ/output_frames/sec_1_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[0-6] The monster chases the man, who waves his arms trying to scare it away. Suddenly, the monster pulls out two pistols and shoots while chasing the man. The man disappears from the frame while being pursued."
+    },
+    {
+        "second": 2,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2dRPpRh6SsQ/output_frames/sec_2_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[0-6] The monster chases the man, who waves his arms trying to scare it away. Suddenly, the monster pulls out two pistols and shoots while chasing the man. The man disappears from the frame while being pursued."
+    },
+    {
+        "second": 3,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2dRPpRh6SsQ/output_frames/sec_3_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[0-6] The monster chases the man, who waves his arms trying to scare it away. Suddenly, the monster pulls out two pistols and shoots while chasing the man. The man disappears from the frame while being pursued."
+    },
+    {
+        "second": 4,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2dRPpRh6SsQ/output_frames/sec_4_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[0-6] The monster chases the man, who waves his arms trying to scare it away. Suddenly, the monster pulls out two pistols and shoots while chasing the man. The man disappears from the frame while being pursued."
+    },
+    {
+        "second": 5,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/2dRPpRh6SsQ/output_frames/sec_5_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[0-6] The monster chases the man, who waves his arms trying to scare it away. Suddenly, the monster pulls out two pistols and shoots while chasing the man. The man disappears from the frame while being pursued."
+    }
+]

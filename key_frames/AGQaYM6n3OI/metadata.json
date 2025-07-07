@@ -1,0 +1,58 @@
+[
+    {
+        "second": 0,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AGQaYM6n3OI/output_frames/sec_0_idx_17.jpg",
+        "fps": 50,
+        "explanation": "[0-0] A yellow balloon with drawn eyebrows, eyes, and a smiling face rests on a wooden floor, with a white wall illuminated by a blue-violet light source in the background."
+    },
+    {
+        "second": 1,
+        "frame_index": 44,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AGQaYM6n3OI/output_frames/sec_1_idx_44.jpg",
+        "fps": 50,
+        "explanation": "[0-3] Next, a foot wearing yellow socks and black high heels steps on and pops the yellow balloon, leaving behind its remnants. The balloon on the floor then changes to a light pink one, which is also popped by the foot wearing black high heels, causing the rice puffs inside to scatter. Then, an orange balloon appears, and the foot wearing black high heels pops it, leaving small pink, yellow, and green mesh balloons on the floor."
+    },
+    {
+        "second": 2,
+        "frame_index": 41,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AGQaYM6n3OI/output_frames/sec_2_idx_41.jpg",
+        "fps": 50,
+        "explanation": "[0-3] Next, a foot wearing yellow socks and black high heels steps on and pops the yellow balloon, leaving behind its remnants. The balloon on the floor then changes to a light pink one, which is also popped by the foot wearing black high heels, causing the rice puffs inside to scatter. Then, an orange balloon appears, and the foot wearing black high heels pops it, leaving small pink, yellow, and green mesh balloons on the floor."
+    },
+    {
+        "second": 3,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AGQaYM6n3OI/output_frames/sec_3_idx_17.jpg",
+        "fps": 50,
+        "explanation": "[0-3] Next, a foot wearing yellow socks and black high heels steps on and pops the yellow balloon, leaving behind its remnants. The balloon on the floor then changes to a light pink one, which is also popped by the foot wearing black high heels, causing the rice puffs inside to scatter. Then, an orange balloon appears, and the foot wearing black high heels pops it, leaving small pink, yellow, and green mesh balloons on the floor."
+    },
+    {
+        "second": 4,
+        "frame_index": 45,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AGQaYM6n3OI/output_frames/sec_4_idx_45.jpg",
+        "fps": 50,
+        "explanation": "[3-7] Afterward, the balloon on the ground changes to a white one. The foot wearing black high heels steps on and deflates the white balloon. Next, a red balloon is popped, leaving behind red balloon remnants, a broken white mesh bag, and a mango-shaped ball on the floor."
+    },
+    {
+        "second": 5,
+        "frame_index": 38,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AGQaYM6n3OI/output_frames/sec_5_idx_38.jpg",
+        "fps": 50,
+        "explanation": "[3-7] Afterward, the balloon on the ground changes to a white one. The foot wearing black high heels steps on and deflates the white balloon. Next, a red balloon is popped, leaving behind red balloon remnants, a broken white mesh bag, and a mango-shaped ball on the floor."
+    },
+    {
+        "second": 6,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AGQaYM6n3OI/output_frames/sec_6_idx_14.jpg",
+        "fps": 50,
+        "explanation": "[3-7] Afterward, the balloon on the ground changes to a white one. The foot wearing black high heels steps on and deflates the white balloon. Next, a red balloon is popped, leaving behind red balloon remnants, a broken white mesh bag, and a mango-shaped ball on the floor."
+    },
+    {
+        "second": 7,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/AGQaYM6n3OI/output_frames/sec_7_idx_0.jpg",
+        "fps": 50,
+        "explanation": "[3-7] Afterward, the balloon on the ground changes to a white one. The foot wearing black high heels steps on and deflates the white balloon. Next, a red balloon is popped, leaving behind red balloon remnants, a broken white mesh bag, and a mango-shaped ball on the floor."
+    }
+]

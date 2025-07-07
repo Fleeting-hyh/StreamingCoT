@@ -1,0 +1,58 @@
+[
+    {
+        "second": 0,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UhG6XDoSzPY/output_frames/sec_0_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A yellow excavator is working on a railroad track. The track is covered with gravel, and there are green trees in the distance. A worker is on the left side. The sky is gray."
+    },
+    {
+        "second": 1,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UhG6XDoSzPY/output_frames/sec_1_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[0-7] The excavator digs up the gravel under the track, then uses its mechanical arm to grab a piece of railroad tie, removes it from the track, and throws it below. At this time, a worker wearing a yellow safety helmet and yellow work clothes enters the picture from the left, bending over to work."
+    },
+    {
+        "second": 2,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UhG6XDoSzPY/output_frames/sec_2_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[0-7] The excavator digs up the gravel under the track, then uses its mechanical arm to grab a piece of railroad tie, removes it from the track, and throws it below. At this time, a worker wearing a yellow safety helmet and yellow work clothes enters the picture from the left, bending over to work."
+    },
+    {
+        "second": 3,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UhG6XDoSzPY/output_frames/sec_3_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-7] The excavator digs up the gravel under the track, then uses its mechanical arm to grab a piece of railroad tie, removes it from the track, and throws it below. At this time, a worker wearing a yellow safety helmet and yellow work clothes enters the picture from the left, bending over to work."
+    },
+    {
+        "second": 4,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UhG6XDoSzPY/output_frames/sec_4_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-7] The excavator digs up the gravel under the track, then uses its mechanical arm to grab a piece of railroad tie, removes it from the track, and throws it below. At this time, a worker wearing a yellow safety helmet and yellow work clothes enters the picture from the left, bending over to work."
+    },
+    {
+        "second": 5,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UhG6XDoSzPY/output_frames/sec_5_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[0-7] The excavator digs up the gravel under the track, then uses its mechanical arm to grab a piece of railroad tie, removes it from the track, and throws it below. At this time, a worker wearing a yellow safety helmet and yellow work clothes enters the picture from the left, bending over to work."
+    },
+    {
+        "second": 6,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UhG6XDoSzPY/output_frames/sec_6_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-7] The excavator digs up the gravel under the track, then uses its mechanical arm to grab a piece of railroad tie, removes it from the track, and throws it below. At this time, a worker wearing a yellow safety helmet and yellow work clothes enters the picture from the left, bending over to work."
+    },
+    {
+        "second": 7,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/UhG6XDoSzPY/output_frames/sec_7_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[0-7] The excavator digs up the gravel under the track, then uses its mechanical arm to grab a piece of railroad tie, removes it from the track, and throws it below. At this time, a worker wearing a yellow safety helmet and yellow work clothes enters the picture from the left, bending over to work."
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "second": 0,
+        "frame_index": 58,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/71ChsqsFj3c/output_frames/sec_0_idx_58.jpg",
+        "fps": 60,
+        "explanation": "[0-0] In a library, a young man wearing a gray T-shirt, black pants and white shoes stands in front of a yellow wooden bookshelf, smiling at the camera. He is making a \"V\" gesture with two fingers while holding onto the black handle of the bookshelf with his other hand. There are many similar bookshelves around, and the room's white ceiling and gray carpet can be seen."
+    },
+    {
+        "second": 1,
+        "frame_index": 58,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/71ChsqsFj3c/output_frames/sec_1_idx_58.jpg",
+        "fps": 60,
+        "explanation": "[0-2] Then, the man lowers his right hand and starts turning a handle on the bookshelf to his right. After turning it a few times, he quickly runs away."
+    },
+    {
+        "second": 2,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/71ChsqsFj3c/output_frames/sec_2_idx_2.jpg",
+        "fps": 60,
+        "explanation": "[0-2] Then, the man lowers his right hand and starts turning a handle on the bookshelf to his right. After turning it a few times, he quickly runs away."
+    },
+    {
+        "second": 3,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/71ChsqsFj3c/output_frames/sec_3_idx_17.jpg",
+        "fps": 60,
+        "explanation": "[2-6] Next, the shot switches to a young woman's selfie perspective. She is wearing a black T-shirt and blue jeans and is running fast down the aisle between the two rows of bookshelves. The man can be seen chasing after her. The woman runs out from between the two rows of bookshelves."
+    },
+    {
+        "second": 4,
+        "frame_index": 40,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/71ChsqsFj3c/output_frames/sec_4_idx_40.jpg",
+        "fps": 60,
+        "explanation": "[2-6] Next, the shot switches to a young woman's selfie perspective. She is wearing a black T-shirt and blue jeans and is running fast down the aisle between the two rows of bookshelves. The man can be seen chasing after her. The woman runs out from between the two rows of bookshelves."
+    },
+    {
+        "second": 5,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/71ChsqsFj3c/output_frames/sec_5_idx_7.jpg",
+        "fps": 60,
+        "explanation": "[2-6] Next, the shot switches to a young woman's selfie perspective. She is wearing a black T-shirt and blue jeans and is running fast down the aisle between the two rows of bookshelves. The man can be seen chasing after her. The woman runs out from between the two rows of bookshelves."
+    },
+    {
+        "second": 6,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/71ChsqsFj3c/output_frames/sec_6_idx_12.jpg",
+        "fps": 60,
+        "explanation": "[2-6] Next, the shot switches to a young woman's selfie perspective. She is wearing a black T-shirt and blue jeans and is running fast down the aisle between the two rows of bookshelves. The man can be seen chasing after her. The woman runs out from between the two rows of bookshelves."
+    },
+    {
+        "second": 7,
+        "frame_index": 59,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/71ChsqsFj3c/output_frames/sec_7_idx_59.jpg",
+        "fps": 60,
+        "explanation": "[6-9] Then, the woman looks back to see the man trapped between the bookshelves, unable to get out. Finally, the shot switches to the young man, who peeks his head out from between the two rows of bookshelves, clenching his fist with a smile on his face."
+    },
+    {
+        "second": 8,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/71ChsqsFj3c/output_frames/sec_8_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[6-9] Then, the woman looks back to see the man trapped between the bookshelves, unable to get out. Finally, the shot switches to the young man, who peeks his head out from between the two rows of bookshelves, clenching his fist with a smile on his face."
+    },
+    {
+        "second": 9,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/71ChsqsFj3c/output_frames/sec_9_idx_4.jpg",
+        "fps": 60,
+        "explanation": "[6-9] Then, the woman looks back to see the man trapped between the bookshelves, unable to get out. Finally, the shot switches to the young man, who peeks his head out from between the two rows of bookshelves, clenching his fist with a smile on his face."
+    }
+]

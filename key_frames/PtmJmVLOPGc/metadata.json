@@ -1,0 +1,58 @@
+[
+    {
+        "second": 0,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PtmJmVLOPGc/output_frames/sec_0_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[0-0] On an asphalt road, there are three black tires stacked on top of each other."
+    },
+    {
+        "second": 1,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PtmJmVLOPGc/output_frames/sec_1_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[0-7] Then, a hand places a small egg in the middle of the tires, standing upright. Subsequently, a purple remote control car in the distance is driving towards the tires. The remote control car is getting closer and closer, moving at high speed, and stops on the right side of the tires. Then the remote control car drives towards the tires again and stops behind them. Finally, the remote control car drives towards the tires once more and stops beside them."
+    },
+    {
+        "second": 2,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PtmJmVLOPGc/output_frames/sec_2_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[0-7] Then, a hand places a small egg in the middle of the tires, standing upright. Subsequently, a purple remote control car in the distance is driving towards the tires. The remote control car is getting closer and closer, moving at high speed, and stops on the right side of the tires. Then the remote control car drives towards the tires again and stops behind them. Finally, the remote control car drives towards the tires once more and stops beside them."
+    },
+    {
+        "second": 3,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PtmJmVLOPGc/output_frames/sec_3_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[0-7] Then, a hand places a small egg in the middle of the tires, standing upright. Subsequently, a purple remote control car in the distance is driving towards the tires. The remote control car is getting closer and closer, moving at high speed, and stops on the right side of the tires. Then the remote control car drives towards the tires again and stops behind them. Finally, the remote control car drives towards the tires once more and stops beside them."
+    },
+    {
+        "second": 4,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PtmJmVLOPGc/output_frames/sec_4_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[0-7] Then, a hand places a small egg in the middle of the tires, standing upright. Subsequently, a purple remote control car in the distance is driving towards the tires. The remote control car is getting closer and closer, moving at high speed, and stops on the right side of the tires. Then the remote control car drives towards the tires again and stops behind them. Finally, the remote control car drives towards the tires once more and stops beside them."
+    },
+    {
+        "second": 5,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PtmJmVLOPGc/output_frames/sec_5_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[0-7] Then, a hand places a small egg in the middle of the tires, standing upright. Subsequently, a purple remote control car in the distance is driving towards the tires. The remote control car is getting closer and closer, moving at high speed, and stops on the right side of the tires. Then the remote control car drives towards the tires again and stops behind them. Finally, the remote control car drives towards the tires once more and stops beside them."
+    },
+    {
+        "second": 6,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PtmJmVLOPGc/output_frames/sec_6_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[0-7] Then, a hand places a small egg in the middle of the tires, standing upright. Subsequently, a purple remote control car in the distance is driving towards the tires. The remote control car is getting closer and closer, moving at high speed, and stops on the right side of the tires. Then the remote control car drives towards the tires again and stops behind them. Finally, the remote control car drives towards the tires once more and stops beside them."
+    },
+    {
+        "second": 7,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/PtmJmVLOPGc/output_frames/sec_7_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-7] Then, a hand places a small egg in the middle of the tires, standing upright. Subsequently, a purple remote control car in the distance is driving towards the tires. The remote control car is getting closer and closer, moving at high speed, and stops on the right side of the tires. Then the remote control car drives towards the tires again and stops behind them. Finally, the remote control car drives towards the tires once more and stops beside them."
+    }
+]

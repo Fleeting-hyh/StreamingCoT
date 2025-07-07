@@ -1,0 +1,65 @@
+[
+    {
+        "second": 0,
+        "frame_index": 41,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P6bix9zNm80/output_frames/sec_0_idx_41.jpg",
+        "fps": 60,
+        "explanation": "[0-0] On a bed with gray sheets, a baby in a white onesie is crying, lying on the bed with limbs outstretched. Next to the baby is a man in a yellow T-shirt and black sweatpants, lying on his side with his back to the baby."
+    },
+    {
+        "second": 1,
+        "frame_index": 59,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P6bix9zNm80/output_frames/sec_1_idx_59.jpg",
+        "fps": 60,
+        "explanation": "[0-8] Then the man slowly turns over, from lying on his side to lying flat on his back with his eyes closed, pressing down on the baby. Subsequently, he turns over and lies on his stomach on the bed. On the back of the man's yellow T-shirt is a picture of the same baby."
+    },
+    {
+        "second": 2,
+        "frame_index": 40,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P6bix9zNm80/output_frames/sec_2_idx_40.jpg",
+        "fps": 60,
+        "explanation": "[0-8] Then the man slowly turns over, from lying on his side to lying flat on his back with his eyes closed, pressing down on the baby. Subsequently, he turns over and lies on his stomach on the bed. On the back of the man's yellow T-shirt is a picture of the same baby."
+    },
+    {
+        "second": 3,
+        "frame_index": 42,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P6bix9zNm80/output_frames/sec_3_idx_42.jpg",
+        "fps": 60,
+        "explanation": "[0-8] Then the man slowly turns over, from lying on his side to lying flat on his back with his eyes closed, pressing down on the baby. Subsequently, he turns over and lies on his stomach on the bed. On the back of the man's yellow T-shirt is a picture of the same baby."
+    },
+    {
+        "second": 4,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P6bix9zNm80/output_frames/sec_4_idx_8.jpg",
+        "fps": 60,
+        "explanation": "[0-8] Then the man slowly turns over, from lying on his side to lying flat on his back with his eyes closed, pressing down on the baby. Subsequently, he turns over and lies on his stomach on the bed. On the back of the man's yellow T-shirt is a picture of the same baby."
+    },
+    {
+        "second": 5,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P6bix9zNm80/output_frames/sec_5_idx_6.jpg",
+        "fps": 60,
+        "explanation": "[0-8] Then the man slowly turns over, from lying on his side to lying flat on his back with his eyes closed, pressing down on the baby. Subsequently, he turns over and lies on his stomach on the bed. On the back of the man's yellow T-shirt is a picture of the same baby."
+    },
+    {
+        "second": 6,
+        "frame_index": 39,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P6bix9zNm80/output_frames/sec_6_idx_39.jpg",
+        "fps": 60,
+        "explanation": "[0-8] Then the man slowly turns over, from lying on his side to lying flat on his back with his eyes closed, pressing down on the baby. Subsequently, he turns over and lies on his stomach on the bed. On the back of the man's yellow T-shirt is a picture of the same baby."
+    },
+    {
+        "second": 7,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P6bix9zNm80/output_frames/sec_7_idx_10.jpg",
+        "fps": 60,
+        "explanation": "[0-8] Then the man slowly turns over, from lying on his side to lying flat on his back with his eyes closed, pressing down on the baby. Subsequently, he turns over and lies on his stomach on the bed. On the back of the man's yellow T-shirt is a picture of the same baby."
+    },
+    {
+        "second": 8,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/P6bix9zNm80/output_frames/sec_8_idx_2.jpg",
+        "fps": 60,
+        "explanation": "[0-8] Then the man slowly turns over, from lying on his side to lying flat on his back with his eyes closed, pressing down on the baby. Subsequently, he turns over and lies on his stomach on the bed. On the back of the man's yellow T-shirt is a picture of the same baby."
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "second": 0,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7JkLLEpZ5gw/output_frames/sec_0_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[0-0] On a street at night, two girls in white vests are standing to the right of a purple sports car. On the left side of the frame is a road with a black motorcycle and the purple sports car parked. On the right side is a sidewalk with white pillars and many pedestrians."
+    },
+    {
+        "second": 1,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7JkLLEpZ5gw/output_frames/sec_1_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Subsequently, a hand holding a black key appears. The hand then presses the black key, and the purple sports car parked on the road in front lights up with red lights."
+    },
+    {
+        "second": 2,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7JkLLEpZ5gw/output_frames/sec_2_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Subsequently, a hand holding a black key appears. The hand then presses the black key, and the purple sports car parked on the road in front lights up with red lights."
+    },
+    {
+        "second": 3,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7JkLLEpZ5gw/output_frames/sec_3_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[2-7] Immediately after, the purple sports car lights up with red lights again. The two girls in white vests, who were standing by the car, cover their mouths in horror and run to the right."
+    },
+    {
+        "second": 4,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7JkLLEpZ5gw/output_frames/sec_4_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[2-7] Immediately after, the purple sports car lights up with red lights again. The two girls in white vests, who were standing by the car, cover their mouths in horror and run to the right."
+    },
+    {
+        "second": 5,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7JkLLEpZ5gw/output_frames/sec_5_idx_24.jpg",
+        "fps": 30,
+        "explanation": "[2-7] Immediately after, the purple sports car lights up with red lights again. The two girls in white vests, who were standing by the car, cover their mouths in horror and run to the right."
+    },
+    {
+        "second": 6,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7JkLLEpZ5gw/output_frames/sec_6_idx_9.jpg",
+        "fps": 30,
+        "explanation": "[2-7] Immediately after, the purple sports car lights up with red lights again. The two girls in white vests, who were standing by the car, cover their mouths in horror and run to the right."
+    },
+    {
+        "second": 7,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7JkLLEpZ5gw/output_frames/sec_7_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[2-7] Immediately after, the purple sports car lights up with red lights again. The two girls in white vests, who were standing by the car, cover their mouths in horror and run to the right."
+    }
+]

@@ -1,0 +1,100 @@
+[
+    {
+        "second": 0,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3wzGcyOs_Ek/output_frames/sec_0_idx_2.jpg",
+        "fps": 24,
+        "explanation": "[0-0] In a dimly lit movie theater, the screen is showing a trailer for \"The Super Mario Bros. Movie\" with Mario standing on a kart. The seats are filled with various characters, including Yoshi, Koopa Troopas, etc. Below the screen, there are a pair of legs wearing green shoes, and above it, a white caption reads \"Loudly stating my opinion on movie previews.\""
+    },
+    {
+        "second": 1,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3wzGcyOs_Ek/output_frames/sec_1_idx_2.jpg",
+        "fps": 24,
+        "explanation": "[0-6] Next, a figure flies by from the front, and then the camera pans left to show a character holding a box of popcorn and waving."
+    },
+    {
+        "second": 2,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3wzGcyOs_Ek/output_frames/sec_2_idx_13.jpg",
+        "fps": 24,
+        "explanation": "[0-6] Next, a figure flies by from the front, and then the camera pans left to show a character holding a box of popcorn and waving."
+    },
+    {
+        "second": 3,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3wzGcyOs_Ek/output_frames/sec_3_idx_3.jpg",
+        "fps": 24,
+        "explanation": "[0-6] Next, a figure flies by from the front, and then the camera pans left to show a character holding a box of popcorn and waving."
+    },
+    {
+        "second": 4,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3wzGcyOs_Ek/output_frames/sec_4_idx_17.jpg",
+        "fps": 24,
+        "explanation": "[0-6] Next, a figure flies by from the front, and then the camera pans left to show a character holding a box of popcorn and waving."
+    },
+    {
+        "second": 5,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3wzGcyOs_Ek/output_frames/sec_5_idx_5.jpg",
+        "fps": 24,
+        "explanation": "[0-6] Next, a figure flies by from the front, and then the camera pans left to show a character holding a box of popcorn and waving."
+    },
+    {
+        "second": 6,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3wzGcyOs_Ek/output_frames/sec_6_idx_13.jpg",
+        "fps": 24,
+        "explanation": "[0-6] Next, a figure flies by from the front, and then the camera pans left to show a character holding a box of popcorn and waving."
+    },
+    {
+        "second": 7,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3wzGcyOs_Ek/output_frames/sec_7_idx_4.jpg",
+        "fps": 24,
+        "explanation": "[6-9] Afterward, the camera returns to the screen. A snowman holding a stick with popcorn passes by. The trailer ends, and the title \"The Super Mario Bros. Movie\" appears on the screen."
+    },
+    {
+        "second": 8,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3wzGcyOs_Ek/output_frames/sec_8_idx_0.jpg",
+        "fps": 24,
+        "explanation": "[6-9] Afterward, the camera returns to the screen. A snowman holding a stick with popcorn passes by. The trailer ends, and the title \"The Super Mario Bros. Movie\" appears on the screen."
+    },
+    {
+        "second": 9,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3wzGcyOs_Ek/output_frames/sec_9_idx_15.jpg",
+        "fps": 24,
+        "explanation": "[6-9] Afterward, the camera returns to the screen. A snowman holding a stick with popcorn passes by. The trailer ends, and the title \"The Super Mario Bros. Movie\" appears on the screen."
+    },
+    {
+        "second": 10,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3wzGcyOs_Ek/output_frames/sec_10_idx_4.jpg",
+        "fps": 24,
+        "explanation": "[9-14] Then, the release date of the movie is displayed on the screen: April 5th, only in theaters. Finally, all the characters in the front row turn their heads and look back."
+    },
+    {
+        "second": 11,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3wzGcyOs_Ek/output_frames/sec_11_idx_23.jpg",
+        "fps": 24,
+        "explanation": "[9-14] Then, the release date of the movie is displayed on the screen: April 5th, only in theaters. Finally, all the characters in the front row turn their heads and look back."
+    },
+    {
+        "second": 12,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3wzGcyOs_Ek/output_frames/sec_12_idx_10.jpg",
+        "fps": 24,
+        "explanation": "[9-14] Then, the release date of the movie is displayed on the screen: April 5th, only in theaters. Finally, all the characters in the front row turn their heads and look back."
+    },
+    {
+        "second": 13,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/3wzGcyOs_Ek/output_frames/sec_13_idx_5.jpg",
+        "fps": 24,
+        "explanation": "[9-14] Then, the release date of the movie is displayed on the screen: April 5th, only in theaters. Finally, all the characters in the front row turn their heads and look back."
+    }
+]

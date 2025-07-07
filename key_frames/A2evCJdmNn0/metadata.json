@@ -1,0 +1,44 @@
+[
+    {
+        "second": 0,
+        "frame_index": 58,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/A2evCJdmNn0/output_frames/sec_0_idx_58.jpg",
+        "fps": 60,
+        "explanation": "[0-0] A dumpling making machine is placed on a wooden chopping board. The machine is greyish-white. A right hand holds a beige dumpling wrapper to show it. There is a bowl of dumpling filling next to the chopping board."
+    },
+    {
+        "second": 1,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/A2evCJdmNn0/output_frames/sec_1_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[0-3] Then a right hand puts a round dumpling wrapper on the groove of the machine. A pair of chopsticks picks up some meat filling and puts it on the wrapper. The meat filling is pink with some green vegetables mixed in. After the filling is placed, a right hand presses the left button on the top of the machine. The indicator light on the machine lights up and the machine starts to operate."
+    },
+    {
+        "second": 2,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/A2evCJdmNn0/output_frames/sec_2_idx_3.jpg",
+        "fps": 60,
+        "explanation": "[0-3] Then a right hand puts a round dumpling wrapper on the groove of the machine. A pair of chopsticks picks up some meat filling and puts it on the wrapper. The meat filling is pink with some green vegetables mixed in. After the filling is placed, a right hand presses the left button on the top of the machine. The indicator light on the machine lights up and the machine starts to operate."
+    },
+    {
+        "second": 3,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/A2evCJdmNn0/output_frames/sec_3_idx_18.jpg",
+        "fps": 60,
+        "explanation": "[0-3] Then a right hand puts a round dumpling wrapper on the groove of the machine. A pair of chopsticks picks up some meat filling and puts it on the wrapper. The meat filling is pink with some green vegetables mixed in. After the filling is placed, a right hand presses the left button on the top of the machine. The indicator light on the machine lights up and the machine starts to operate."
+    },
+    {
+        "second": 4,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/A2evCJdmNn0/output_frames/sec_4_idx_27.jpg",
+        "fps": 60,
+        "explanation": "[3-6] Then the molds on both sides of the machine rotate slowly, trying to wrap the meat filling with the dumpling wrapper, but finally the wrapper falls on the chopping board. Finally, a hand pushes down the dumpling making machine."
+    },
+    {
+        "second": 5,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/A2evCJdmNn0/output_frames/sec_5_idx_17.jpg",
+        "fps": 60,
+        "explanation": "[3-6] Then the molds on both sides of the machine rotate slowly, trying to wrap the meat filling with the dumpling wrapper, but finally the wrapper falls on the chopping board. Finally, a hand pushes down the dumpling making machine."
+    }
+]

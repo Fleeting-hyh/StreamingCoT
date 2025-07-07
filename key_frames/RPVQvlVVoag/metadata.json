@@ -1,0 +1,107 @@
+[
+    {
+        "second": 0,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RPVQvlVVoag/output_frames/sec_0_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-0] On a dark gray asphalt motorcycle racetrack, a racer wearing a blue-green racing suit and a blue helmet leans forward, gripping the handlebars tightly as he rides his blue-green motorcycle on the track. The motorcycle is adorned with logos of multiple sponsors. Beside the track is green grass."
+    },
+    {
+        "second": 1,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RPVQvlVVoag/output_frames/sec_1_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-9] As the rider with the blue-green helmet speeds forward on his motorcycle, another blue-green motorcycle follows closely behind, ridden by a racer with a white and green helmet. They ride side-by-side for a short distance before the rider with the blue-green helmet quickly pulls away, leaning into the curves as he speeds ahead."
+    },
+    {
+        "second": 2,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RPVQvlVVoag/output_frames/sec_2_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[0-9] As the rider with the blue-green helmet speeds forward on his motorcycle, another blue-green motorcycle follows closely behind, ridden by a racer with a white and green helmet. They ride side-by-side for a short distance before the rider with the blue-green helmet quickly pulls away, leaning into the curves as he speeds ahead."
+    },
+    {
+        "second": 3,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RPVQvlVVoag/output_frames/sec_3_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[0-9] As the rider with the blue-green helmet speeds forward on his motorcycle, another blue-green motorcycle follows closely behind, ridden by a racer with a white and green helmet. They ride side-by-side for a short distance before the rider with the blue-green helmet quickly pulls away, leaning into the curves as he speeds ahead."
+    },
+    {
+        "second": 4,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RPVQvlVVoag/output_frames/sec_4_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[0-9] As the rider with the blue-green helmet speeds forward on his motorcycle, another blue-green motorcycle follows closely behind, ridden by a racer with a white and green helmet. They ride side-by-side for a short distance before the rider with the blue-green helmet quickly pulls away, leaning into the curves as he speeds ahead."
+    },
+    {
+        "second": 5,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RPVQvlVVoag/output_frames/sec_5_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[0-9] As the rider with the blue-green helmet speeds forward on his motorcycle, another blue-green motorcycle follows closely behind, ridden by a racer with a white and green helmet. They ride side-by-side for a short distance before the rider with the blue-green helmet quickly pulls away, leaning into the curves as he speeds ahead."
+    },
+    {
+        "second": 6,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RPVQvlVVoag/output_frames/sec_6_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[0-9] As the rider with the blue-green helmet speeds forward on his motorcycle, another blue-green motorcycle follows closely behind, ridden by a racer with a white and green helmet. They ride side-by-side for a short distance before the rider with the blue-green helmet quickly pulls away, leaning into the curves as he speeds ahead."
+    },
+    {
+        "second": 7,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RPVQvlVVoag/output_frames/sec_7_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[0-9] As the rider with the blue-green helmet speeds forward on his motorcycle, another blue-green motorcycle follows closely behind, ridden by a racer with a white and green helmet. They ride side-by-side for a short distance before the rider with the blue-green helmet quickly pulls away, leaning into the curves as he speeds ahead."
+    },
+    {
+        "second": 8,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RPVQvlVVoag/output_frames/sec_8_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[0-9] As the rider with the blue-green helmet speeds forward on his motorcycle, another blue-green motorcycle follows closely behind, ridden by a racer with a white and green helmet. They ride side-by-side for a short distance before the rider with the blue-green helmet quickly pulls away, leaning into the curves as he speeds ahead."
+    },
+    {
+        "second": 9,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RPVQvlVVoag/output_frames/sec_9_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-9] As the rider with the blue-green helmet speeds forward on his motorcycle, another blue-green motorcycle follows closely behind, ridden by a racer with a white and green helmet. They ride side-by-side for a short distance before the rider with the blue-green helmet quickly pulls away, leaning into the curves as he speeds ahead."
+    },
+    {
+        "second": 10,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RPVQvlVVoag/output_frames/sec_10_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[9-15] The rider with the blue-green helmet continues to speed along the track. As he approaches a curve, another red and white motorcycle closes in behind him, but the rider with the blue-green helmet quickly widens the gap and races ahead. In the surrounding stands, spectators wave yellow flags."
+    },
+    {
+        "second": 11,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RPVQvlVVoag/output_frames/sec_11_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[9-15] The rider with the blue-green helmet continues to speed along the track. As he approaches a curve, another red and white motorcycle closes in behind him, but the rider with the blue-green helmet quickly widens the gap and races ahead. In the surrounding stands, spectators wave yellow flags."
+    },
+    {
+        "second": 12,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RPVQvlVVoag/output_frames/sec_12_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[9-15] The rider with the blue-green helmet continues to speed along the track. As he approaches a curve, another red and white motorcycle closes in behind him, but the rider with the blue-green helmet quickly widens the gap and races ahead. In the surrounding stands, spectators wave yellow flags."
+    },
+    {
+        "second": 13,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RPVQvlVVoag/output_frames/sec_13_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[9-15] The rider with the blue-green helmet continues to speed along the track. As he approaches a curve, another red and white motorcycle closes in behind him, but the rider with the blue-green helmet quickly widens the gap and races ahead. In the surrounding stands, spectators wave yellow flags."
+    },
+    {
+        "second": 14,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RPVQvlVVoag/output_frames/sec_14_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[9-15] The rider with the blue-green helmet continues to speed along the track. As he approaches a curve, another red and white motorcycle closes in behind him, but the rider with the blue-green helmet quickly widens the gap and races ahead. In the surrounding stands, spectators wave yellow flags."
+    }
+]

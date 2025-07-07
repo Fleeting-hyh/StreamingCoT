@@ -1,0 +1,58 @@
+[
+    {
+        "second": 0,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/A69ud9xr1yA/output_frames/sec_0_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[0-0] On a lush green meadow, a black and white border collie is staring intently at two sheep, one large and one small, to the right. The large sheep looks at the border collie on the left with a wary expression, while the small sheep stands to the right of the large sheep. There are some dark trees in the distance, the sky is light blue, and there is a logo in the upper left corner of the image."
+    },
+    {
+        "second": 1,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/A69ud9xr1yA/output_frames/sec_1_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Then the border collie crouches slightly and walks to the right. The large sheep nervously steps back to the right, and the small sheep follows closely."
+    },
+    {
+        "second": 2,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/A69ud9xr1yA/output_frames/sec_2_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Then the border collie crouches slightly and walks to the right. The large sheep nervously steps back to the right, and the small sheep follows closely."
+    },
+    {
+        "second": 3,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/A69ud9xr1yA/output_frames/sec_3_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[2-4] The border collie continues to approach the sheep in a crouching position. Suddenly, the large sheep turns to the left and headbutts the border collie. The border collie quickly ducks, and the large sheep then turns left and runs to the right, with the small sheep following closely. The large sheep then quickly turns to the left to look at the border collie, and the border collie straightens up and continues to approach the sheep."
+    },
+    {
+        "second": 4,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/A69ud9xr1yA/output_frames/sec_4_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[2-4] The border collie continues to approach the sheep in a crouching position. Suddenly, the large sheep turns to the left and headbutts the border collie. The border collie quickly ducks, and the large sheep then turns left and runs to the right, with the small sheep following closely. The large sheep then quickly turns to the left to look at the border collie, and the border collie straightens up and continues to approach the sheep."
+    },
+    {
+        "second": 5,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/A69ud9xr1yA/output_frames/sec_5_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[4-7] The scene then switches to an open meadow, where the border collie continues to approach the sheep, facing right. The large sheep, facing left, nervously steps back, while the small sheep stands looking to the right."
+    },
+    {
+        "second": 6,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/A69ud9xr1yA/output_frames/sec_6_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[4-7] The scene then switches to an open meadow, where the border collie continues to approach the sheep, facing right. The large sheep, facing left, nervously steps back, while the small sheep stands looking to the right."
+    },
+    {
+        "second": 7,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/A69ud9xr1yA/output_frames/sec_7_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[4-7] The scene then switches to an open meadow, where the border collie continues to approach the sheep, facing right. The large sheep, facing left, nervously steps back, while the small sheep stands looking to the right."
+    }
+]

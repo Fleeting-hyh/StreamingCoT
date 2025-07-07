@@ -1,0 +1,268 @@
+[
+    {
+        "second": 0,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TYJ3_Wf2Zbg/output_frames/sec_0_idx_4.jpg",
+        "fps": 25,
+        "explanation": "[0-0] A young man with a black beanie and a black T-shirt stands in front of a blue background. He has a black beard, silver earrings, and a silver necklace. He is holding a glass bottle with chocolate milk in his right hand. The bottle is double-layered, with water on the outer layer and chocolate milk on the inner layer. There is a comment on the upper left of the screen."
+    },
+    {
+        "second": 1,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TYJ3_Wf2Zbg/output_frames/sec_1_idx_18.jpg",
+        "fps": 25,
+        "explanation": "[0-9] Then the man starts to drink the water from the outer layer of the bottle. The water flows into his mouth through an opening, and he swallows it in large gulps."
+    },
+    {
+        "second": 2,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TYJ3_Wf2Zbg/output_frames/sec_2_idx_7.jpg",
+        "fps": 25,
+        "explanation": "[0-9] Then the man starts to drink the water from the outer layer of the bottle. The water flows into his mouth through an opening, and he swallows it in large gulps."
+    },
+    {
+        "second": 3,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TYJ3_Wf2Zbg/output_frames/sec_3_idx_9.jpg",
+        "fps": 25,
+        "explanation": "[0-9] Then the man starts to drink the water from the outer layer of the bottle. The water flows into his mouth through an opening, and he swallows it in large gulps."
+    },
+    {
+        "second": 4,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TYJ3_Wf2Zbg/output_frames/sec_4_idx_6.jpg",
+        "fps": 25,
+        "explanation": "[0-9] Then the man starts to drink the water from the outer layer of the bottle. The water flows into his mouth through an opening, and he swallows it in large gulps."
+    },
+    {
+        "second": 5,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TYJ3_Wf2Zbg/output_frames/sec_5_idx_8.jpg",
+        "fps": 25,
+        "explanation": "[0-9] Then the man starts to drink the water from the outer layer of the bottle. The water flows into his mouth through an opening, and he swallows it in large gulps."
+    },
+    {
+        "second": 6,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TYJ3_Wf2Zbg/output_frames/sec_6_idx_11.jpg",
+        "fps": 25,
+        "explanation": "[0-9] Then the man starts to drink the water from the outer layer of the bottle. The water flows into his mouth through an opening, and he swallows it in large gulps."
+    },
+    {
+        "second": 7,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TYJ3_Wf2Zbg/output_frames/sec_7_idx_1.jpg",
+        "fps": 25,
+        "explanation": "[0-9] Then the man starts to drink the water from the outer layer of the bottle. The water flows into his mouth through an opening, and he swallows it in large gulps."
+    },
+    {
+        "second": 8,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TYJ3_Wf2Zbg/output_frames/sec_8_idx_13.jpg",
+        "fps": 25,
+        "explanation": "[0-9] Then the man starts to drink the water from the outer layer of the bottle. The water flows into his mouth through an opening, and he swallows it in large gulps."
+    },
+    {
+        "second": 9,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TYJ3_Wf2Zbg/output_frames/sec_9_idx_20.jpg",
+        "fps": 25,
+        "explanation": "[0-9] Then the man starts to drink the water from the outer layer of the bottle. The water flows into his mouth through an opening, and he swallows it in large gulps."
+    },
+    {
+        "second": 10,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TYJ3_Wf2Zbg/output_frames/sec_10_idx_8.jpg",
+        "fps": 25,
+        "explanation": "[9-16] Subsequently, the man continues to drink the water from the outer layer."
+    },
+    {
+        "second": 11,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TYJ3_Wf2Zbg/output_frames/sec_11_idx_24.jpg",
+        "fps": 25,
+        "explanation": "[9-16] Subsequently, the man continues to drink the water from the outer layer."
+    },
+    {
+        "second": 12,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TYJ3_Wf2Zbg/output_frames/sec_12_idx_0.jpg",
+        "fps": 25,
+        "explanation": "[9-16] Subsequently, the man continues to drink the water from the outer layer."
+    },
+    {
+        "second": 13,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TYJ3_Wf2Zbg/output_frames/sec_13_idx_9.jpg",
+        "fps": 25,
+        "explanation": "[9-16] Subsequently, the man continues to drink the water from the outer layer."
+    },
+    {
+        "second": 14,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TYJ3_Wf2Zbg/output_frames/sec_14_idx_13.jpg",
+        "fps": 25,
+        "explanation": "[9-16] Subsequently, the man continues to drink the water from the outer layer."
+    },
+    {
+        "second": 15,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TYJ3_Wf2Zbg/output_frames/sec_15_idx_15.jpg",
+        "fps": 25,
+        "explanation": "[9-16] Subsequently, the man continues to drink the water from the outer layer."
+    },
+    {
+        "second": 16,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TYJ3_Wf2Zbg/output_frames/sec_16_idx_0.jpg",
+        "fps": 25,
+        "explanation": "[9-16] Subsequently, the man continues to drink the water from the outer layer."
+    },
+    {
+        "second": 17,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TYJ3_Wf2Zbg/output_frames/sec_17_idx_12.jpg",
+        "fps": 25,
+        "explanation": "[16-20] Then, a pink speech bubble with the orange subtitle \"SUBSCRIBE\" pops up in the lower right corner of the screen. Then the bubble disappears, and the man finishes drinking the water from the outer layer of the bottle."
+    },
+    {
+        "second": 18,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TYJ3_Wf2Zbg/output_frames/sec_18_idx_24.jpg",
+        "fps": 25,
+        "explanation": "[16-20] Then, a pink speech bubble with the orange subtitle \"SUBSCRIBE\" pops up in the lower right corner of the screen. Then the bubble disappears, and the man finishes drinking the water from the outer layer of the bottle."
+    },
+    {
+        "second": 19,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TYJ3_Wf2Zbg/output_frames/sec_19_idx_1.jpg",
+        "fps": 25,
+        "explanation": "[16-20] Then, a pink speech bubble with the orange subtitle \"SUBSCRIBE\" pops up in the lower right corner of the screen. Then the bubble disappears, and the man finishes drinking the water from the outer layer of the bottle."
+    },
+    {
+        "second": 20,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TYJ3_Wf2Zbg/output_frames/sec_20_idx_24.jpg",
+        "fps": 25,
+        "explanation": "[16-20] Then, a pink speech bubble with the orange subtitle \"SUBSCRIBE\" pops up in the lower right corner of the screen. Then the bubble disappears, and the man finishes drinking the water from the outer layer of the bottle."
+    },
+    {
+        "second": 21,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TYJ3_Wf2Zbg/output_frames/sec_21_idx_0.jpg",
+        "fps": 25,
+        "explanation": "[20-28] Afterwards, the man turns the bottle upside down, opens the small wooden stopper of the inner layer opening, and starts to drink the chocolate milk inside. The chocolate milk keeps flowing into his mouth, and the man swallows it in large gulps."
+    },
+    {
+        "second": 22,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TYJ3_Wf2Zbg/output_frames/sec_22_idx_9.jpg",
+        "fps": 25,
+        "explanation": "[20-28] Afterwards, the man turns the bottle upside down, opens the small wooden stopper of the inner layer opening, and starts to drink the chocolate milk inside. The chocolate milk keeps flowing into his mouth, and the man swallows it in large gulps."
+    },
+    {
+        "second": 23,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TYJ3_Wf2Zbg/output_frames/sec_23_idx_18.jpg",
+        "fps": 25,
+        "explanation": "[20-28] Afterwards, the man turns the bottle upside down, opens the small wooden stopper of the inner layer opening, and starts to drink the chocolate milk inside. The chocolate milk keeps flowing into his mouth, and the man swallows it in large gulps."
+    },
+    {
+        "second": 24,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TYJ3_Wf2Zbg/output_frames/sec_24_idx_21.jpg",
+        "fps": 25,
+        "explanation": "[20-28] Afterwards, the man turns the bottle upside down, opens the small wooden stopper of the inner layer opening, and starts to drink the chocolate milk inside. The chocolate milk keeps flowing into his mouth, and the man swallows it in large gulps."
+    },
+    {
+        "second": 25,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TYJ3_Wf2Zbg/output_frames/sec_25_idx_2.jpg",
+        "fps": 25,
+        "explanation": "[20-28] Afterwards, the man turns the bottle upside down, opens the small wooden stopper of the inner layer opening, and starts to drink the chocolate milk inside. The chocolate milk keeps flowing into his mouth, and the man swallows it in large gulps."
+    },
+    {
+        "second": 26,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TYJ3_Wf2Zbg/output_frames/sec_26_idx_0.jpg",
+        "fps": 25,
+        "explanation": "[20-28] Afterwards, the man turns the bottle upside down, opens the small wooden stopper of the inner layer opening, and starts to drink the chocolate milk inside. The chocolate milk keeps flowing into his mouth, and the man swallows it in large gulps."
+    },
+    {
+        "second": 27,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TYJ3_Wf2Zbg/output_frames/sec_27_idx_22.jpg",
+        "fps": 25,
+        "explanation": "[20-28] Afterwards, the man turns the bottle upside down, opens the small wooden stopper of the inner layer opening, and starts to drink the chocolate milk inside. The chocolate milk keeps flowing into his mouth, and the man swallows it in large gulps."
+    },
+    {
+        "second": 28,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TYJ3_Wf2Zbg/output_frames/sec_28_idx_10.jpg",
+        "fps": 25,
+        "explanation": "[20-28] Afterwards, the man turns the bottle upside down, opens the small wooden stopper of the inner layer opening, and starts to drink the chocolate milk inside. The chocolate milk keeps flowing into his mouth, and the man swallows it in large gulps."
+    },
+    {
+        "second": 29,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TYJ3_Wf2Zbg/output_frames/sec_29_idx_1.jpg",
+        "fps": 25,
+        "explanation": "[28-37] Finally, the man finishes all the chocolate milk."
+    },
+    {
+        "second": 30,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TYJ3_Wf2Zbg/output_frames/sec_30_idx_17.jpg",
+        "fps": 25,
+        "explanation": "[28-37] Finally, the man finishes all the chocolate milk."
+    },
+    {
+        "second": 31,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TYJ3_Wf2Zbg/output_frames/sec_31_idx_23.jpg",
+        "fps": 25,
+        "explanation": "[28-37] Finally, the man finishes all the chocolate milk."
+    },
+    {
+        "second": 32,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TYJ3_Wf2Zbg/output_frames/sec_32_idx_3.jpg",
+        "fps": 25,
+        "explanation": "[28-37] Finally, the man finishes all the chocolate milk."
+    },
+    {
+        "second": 33,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TYJ3_Wf2Zbg/output_frames/sec_33_idx_23.jpg",
+        "fps": 25,
+        "explanation": "[28-37] Finally, the man finishes all the chocolate milk."
+    },
+    {
+        "second": 34,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TYJ3_Wf2Zbg/output_frames/sec_34_idx_0.jpg",
+        "fps": 25,
+        "explanation": "[28-37] Finally, the man finishes all the chocolate milk."
+    },
+    {
+        "second": 35,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TYJ3_Wf2Zbg/output_frames/sec_35_idx_22.jpg",
+        "fps": 25,
+        "explanation": "[28-37] Finally, the man finishes all the chocolate milk."
+    },
+    {
+        "second": 36,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TYJ3_Wf2Zbg/output_frames/sec_36_idx_12.jpg",
+        "fps": 25,
+        "explanation": "[28-37] Finally, the man finishes all the chocolate milk."
+    },
+    {
+        "second": 37,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TYJ3_Wf2Zbg/output_frames/sec_37_idx_12.jpg",
+        "fps": 25,
+        "explanation": "[28-37] Finally, the man finishes all the chocolate milk."
+    }
+]

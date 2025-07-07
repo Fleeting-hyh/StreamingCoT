@@ -1,0 +1,72 @@
+[
+    {
+        "second": 0,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Dyl0-6nUSm0/output_frames/sec_0_idx_11.jpg",
+        "fps": 60,
+        "explanation": "[0-0] On a road, three cars are stopped, a traffic policeman stops a sports car, the words \"PORSCHE\" and \"BYSTED\" in a red box appear on the screen."
+    },
+    {
+        "second": 1,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Dyl0-6nUSm0/output_frames/sec_1_idx_5.jpg",
+        "fps": 60,
+        "explanation": "[0-9] Then the vehicles on the road are driving, the traffic policeman in white uniform directs the sports car to the side of the road, the policeman in orange coat walks over, many people walk back and forth on the small road nearby."
+    },
+    {
+        "second": 2,
+        "frame_index": 45,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Dyl0-6nUSm0/output_frames/sec_2_idx_45.jpg",
+        "fps": 60,
+        "explanation": "[0-9] Then the vehicles on the road are driving, the traffic policeman in white uniform directs the sports car to the side of the road, the policeman in orange coat walks over, many people walk back and forth on the small road nearby."
+    },
+    {
+        "second": 3,
+        "frame_index": 31,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Dyl0-6nUSm0/output_frames/sec_3_idx_31.jpg",
+        "fps": 60,
+        "explanation": "[0-9] Then the vehicles on the road are driving, the traffic policeman in white uniform directs the sports car to the side of the road, the policeman in orange coat walks over, many people walk back and forth on the small road nearby."
+    },
+    {
+        "second": 4,
+        "frame_index": 31,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Dyl0-6nUSm0/output_frames/sec_4_idx_31.jpg",
+        "fps": 60,
+        "explanation": "[0-9] Then the vehicles on the road are driving, the traffic policeman in white uniform directs the sports car to the side of the road, the policeman in orange coat walks over, many people walk back and forth on the small road nearby."
+    },
+    {
+        "second": 5,
+        "frame_index": 57,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Dyl0-6nUSm0/output_frames/sec_5_idx_57.jpg",
+        "fps": 60,
+        "explanation": "[0-9] Then the vehicles on the road are driving, the traffic policeman in white uniform directs the sports car to the side of the road, the policeman in orange coat walks over, many people walk back and forth on the small road nearby."
+    },
+    {
+        "second": 6,
+        "frame_index": 47,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Dyl0-6nUSm0/output_frames/sec_6_idx_47.jpg",
+        "fps": 60,
+        "explanation": "[0-9] Then the vehicles on the road are driving, the traffic policeman in white uniform directs the sports car to the side of the road, the policeman in orange coat walks over, many people walk back and forth on the small road nearby."
+    },
+    {
+        "second": 7,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Dyl0-6nUSm0/output_frames/sec_7_idx_3.jpg",
+        "fps": 60,
+        "explanation": "[0-9] Then the vehicles on the road are driving, the traffic policeman in white uniform directs the sports car to the side of the road, the policeman in orange coat walks over, many people walk back and forth on the small road nearby."
+    },
+    {
+        "second": 8,
+        "frame_index": 35,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Dyl0-6nUSm0/output_frames/sec_8_idx_35.jpg",
+        "fps": 60,
+        "explanation": "[0-9] Then the vehicles on the road are driving, the traffic policeman in white uniform directs the sports car to the side of the road, the policeman in orange coat walks over, many people walk back and forth on the small road nearby."
+    },
+    {
+        "second": 9,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Dyl0-6nUSm0/output_frames/sec_9_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[0-9] Then the vehicles on the road are driving, the traffic policeman in white uniform directs the sports car to the side of the road, the policeman in orange coat walks over, many people walk back and forth on the small road nearby."
+    }
+]

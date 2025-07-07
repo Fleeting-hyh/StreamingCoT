@@ -1,0 +1,380 @@
+[
+    {
+        "second": 0,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/49Kc-45kz5k/output_frames/sec_0_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[0-0] On a road, a blonde woman wearing a black top and grey pants is walking on the sidewalk. There is a grey car on her right and two large trees on the roadside in front of her. To the left of the grey car, there is a man wearing a black top and black pants."
+    },
+    {
+        "second": 1,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/49Kc-45kz5k/output_frames/sec_1_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Then, the man rushes towards the grey car, puts his hands on the front door, and flips onto the roof. The woman turns her head to look at this. Then the man falls from the roof of the car, supports himself with his hands on the ground, gets up, runs to the left, and looks back with a relieved expression on his face."
+    },
+    {
+        "second": 2,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/49Kc-45kz5k/output_frames/sec_2_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Then, the man rushes towards the grey car, puts his hands on the front door, and flips onto the roof. The woman turns her head to look at this. Then the man falls from the roof of the car, supports himself with his hands on the ground, gets up, runs to the left, and looks back with a relieved expression on his face."
+    },
+    {
+        "second": 3,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/49Kc-45kz5k/output_frames/sec_3_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Then, the man rushes towards the grey car, puts his hands on the front door, and flips onto the roof. The woman turns her head to look at this. Then the man falls from the roof of the car, supports himself with his hands on the ground, gets up, runs to the left, and looks back with a relieved expression on his face."
+    },
+    {
+        "second": 4,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/49Kc-45kz5k/output_frames/sec_4_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[0-4] Then, the man rushes towards the grey car, puts his hands on the front door, and flips onto the roof. The woman turns her head to look at this. Then the man falls from the roof of the car, supports himself with his hands on the ground, gets up, runs to the left, and looks back with a relieved expression on his face."
+    },
+    {
+        "second": 5,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/49Kc-45kz5k/output_frames/sec_5_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[4-14] Then the scene switches to a path by the sea. A blond man in a red T-shirt and black shorts runs towards a seawall, steps onto it, and jumps backward. He then puts his hand on the wall, looks down, and there are some people next to him. Then he walks backward to the green belt on the side of the road, takes off his red T-shirt, takes off his shoes, and continues to walk backward. Then, in the green belt, he makes a gesture of stretching out both hands and jumps forward. Then he continues to retreat to the road and does another gesture of stretching out his hands and jumping once in the middle of the road before continuing to retreat."
+    },
+    {
+        "second": 6,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/49Kc-45kz5k/output_frames/sec_6_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[4-14] Then the scene switches to a path by the sea. A blond man in a red T-shirt and black shorts runs towards a seawall, steps onto it, and jumps backward. He then puts his hand on the wall, looks down, and there are some people next to him. Then he walks backward to the green belt on the side of the road, takes off his red T-shirt, takes off his shoes, and continues to walk backward. Then, in the green belt, he makes a gesture of stretching out both hands and jumps forward. Then he continues to retreat to the road and does another gesture of stretching out his hands and jumping once in the middle of the road before continuing to retreat."
+    },
+    {
+        "second": 7,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/49Kc-45kz5k/output_frames/sec_7_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[4-14] Then the scene switches to a path by the sea. A blond man in a red T-shirt and black shorts runs towards a seawall, steps onto it, and jumps backward. He then puts his hand on the wall, looks down, and there are some people next to him. Then he walks backward to the green belt on the side of the road, takes off his red T-shirt, takes off his shoes, and continues to walk backward. Then, in the green belt, he makes a gesture of stretching out both hands and jumps forward. Then he continues to retreat to the road and does another gesture of stretching out his hands and jumping once in the middle of the road before continuing to retreat."
+    },
+    {
+        "second": 8,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/49Kc-45kz5k/output_frames/sec_8_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[4-14] Then the scene switches to a path by the sea. A blond man in a red T-shirt and black shorts runs towards a seawall, steps onto it, and jumps backward. He then puts his hand on the wall, looks down, and there are some people next to him. Then he walks backward to the green belt on the side of the road, takes off his red T-shirt, takes off his shoes, and continues to walk backward. Then, in the green belt, he makes a gesture of stretching out both hands and jumps forward. Then he continues to retreat to the road and does another gesture of stretching out his hands and jumping once in the middle of the road before continuing to retreat."
+    },
+    {
+        "second": 9,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/49Kc-45kz5k/output_frames/sec_9_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[4-14] Then the scene switches to a path by the sea. A blond man in a red T-shirt and black shorts runs towards a seawall, steps onto it, and jumps backward. He then puts his hand on the wall, looks down, and there are some people next to him. Then he walks backward to the green belt on the side of the road, takes off his red T-shirt, takes off his shoes, and continues to walk backward. Then, in the green belt, he makes a gesture of stretching out both hands and jumps forward. Then he continues to retreat to the road and does another gesture of stretching out his hands and jumping once in the middle of the road before continuing to retreat."
+    },
+    {
+        "second": 10,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/49Kc-45kz5k/output_frames/sec_10_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[4-14] Then the scene switches to a path by the sea. A blond man in a red T-shirt and black shorts runs towards a seawall, steps onto it, and jumps backward. He then puts his hand on the wall, looks down, and there are some people next to him. Then he walks backward to the green belt on the side of the road, takes off his red T-shirt, takes off his shoes, and continues to walk backward. Then, in the green belt, he makes a gesture of stretching out both hands and jumps forward. Then he continues to retreat to the road and does another gesture of stretching out his hands and jumping once in the middle of the road before continuing to retreat."
+    },
+    {
+        "second": 11,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/49Kc-45kz5k/output_frames/sec_11_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[4-14] Then the scene switches to a path by the sea. A blond man in a red T-shirt and black shorts runs towards a seawall, steps onto it, and jumps backward. He then puts his hand on the wall, looks down, and there are some people next to him. Then he walks backward to the green belt on the side of the road, takes off his red T-shirt, takes off his shoes, and continues to walk backward. Then, in the green belt, he makes a gesture of stretching out both hands and jumps forward. Then he continues to retreat to the road and does another gesture of stretching out his hands and jumping once in the middle of the road before continuing to retreat."
+    },
+    {
+        "second": 12,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/49Kc-45kz5k/output_frames/sec_12_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[4-14] Then the scene switches to a path by the sea. A blond man in a red T-shirt and black shorts runs towards a seawall, steps onto it, and jumps backward. He then puts his hand on the wall, looks down, and there are some people next to him. Then he walks backward to the green belt on the side of the road, takes off his red T-shirt, takes off his shoes, and continues to walk backward. Then, in the green belt, he makes a gesture of stretching out both hands and jumps forward. Then he continues to retreat to the road and does another gesture of stretching out his hands and jumping once in the middle of the road before continuing to retreat."
+    },
+    {
+        "second": 13,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/49Kc-45kz5k/output_frames/sec_13_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[4-14] Then the scene switches to a path by the sea. A blond man in a red T-shirt and black shorts runs towards a seawall, steps onto it, and jumps backward. He then puts his hand on the wall, looks down, and there are some people next to him. Then he walks backward to the green belt on the side of the road, takes off his red T-shirt, takes off his shoes, and continues to walk backward. Then, in the green belt, he makes a gesture of stretching out both hands and jumps forward. Then he continues to retreat to the road and does another gesture of stretching out his hands and jumping once in the middle of the road before continuing to retreat."
+    },
+    {
+        "second": 14,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/49Kc-45kz5k/output_frames/sec_14_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[4-14] Then the scene switches to a path by the sea. A blond man in a red T-shirt and black shorts runs towards a seawall, steps onto it, and jumps backward. He then puts his hand on the wall, looks down, and there are some people next to him. Then he walks backward to the green belt on the side of the road, takes off his red T-shirt, takes off his shoes, and continues to walk backward. Then, in the green belt, he makes a gesture of stretching out both hands and jumps forward. Then he continues to retreat to the road and does another gesture of stretching out his hands and jumping once in the middle of the road before continuing to retreat."
+    },
+    {
+        "second": 15,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/49Kc-45kz5k/output_frames/sec_15_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[14-24] Then, when the man retreats to the side of the road, he leans forward and makes a starting gesture, then continues to retreat. After retreating to the sidewalk, he gets down and makes a starting gesture, then stands up and retreats again. Then he turns around and climbs over a wall, and raises his arms and jumps several times behind the wall."
+    },
+    {
+        "second": 16,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/49Kc-45kz5k/output_frames/sec_16_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[14-24] Then, when the man retreats to the side of the road, he leans forward and makes a starting gesture, then continues to retreat. After retreating to the sidewalk, he gets down and makes a starting gesture, then stands up and retreats again. Then he turns around and climbs over a wall, and raises his arms and jumps several times behind the wall."
+    },
+    {
+        "second": 17,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/49Kc-45kz5k/output_frames/sec_17_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[14-24] Then, when the man retreats to the side of the road, he leans forward and makes a starting gesture, then continues to retreat. After retreating to the sidewalk, he gets down and makes a starting gesture, then stands up and retreats again. Then he turns around and climbs over a wall, and raises his arms and jumps several times behind the wall."
+    },
+    {
+        "second": 18,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/49Kc-45kz5k/output_frames/sec_18_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[14-24] Then, when the man retreats to the side of the road, he leans forward and makes a starting gesture, then continues to retreat. After retreating to the sidewalk, he gets down and makes a starting gesture, then stands up and retreats again. Then he turns around and climbs over a wall, and raises his arms and jumps several times behind the wall."
+    },
+    {
+        "second": 19,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/49Kc-45kz5k/output_frames/sec_19_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[14-24] Then, when the man retreats to the side of the road, he leans forward and makes a starting gesture, then continues to retreat. After retreating to the sidewalk, he gets down and makes a starting gesture, then stands up and retreats again. Then he turns around and climbs over a wall, and raises his arms and jumps several times behind the wall."
+    },
+    {
+        "second": 20,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/49Kc-45kz5k/output_frames/sec_20_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[14-24] Then, when the man retreats to the side of the road, he leans forward and makes a starting gesture, then continues to retreat. After retreating to the sidewalk, he gets down and makes a starting gesture, then stands up and retreats again. Then he turns around and climbs over a wall, and raises his arms and jumps several times behind the wall."
+    },
+    {
+        "second": 21,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/49Kc-45kz5k/output_frames/sec_21_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[14-24] Then, when the man retreats to the side of the road, he leans forward and makes a starting gesture, then continues to retreat. After retreating to the sidewalk, he gets down and makes a starting gesture, then stands up and retreats again. Then he turns around and climbs over a wall, and raises his arms and jumps several times behind the wall."
+    },
+    {
+        "second": 22,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/49Kc-45kz5k/output_frames/sec_22_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[14-24] Then, when the man retreats to the side of the road, he leans forward and makes a starting gesture, then continues to retreat. After retreating to the sidewalk, he gets down and makes a starting gesture, then stands up and retreats again. Then he turns around and climbs over a wall, and raises his arms and jumps several times behind the wall."
+    },
+    {
+        "second": 23,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/49Kc-45kz5k/output_frames/sec_23_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[14-24] Then, when the man retreats to the side of the road, he leans forward and makes a starting gesture, then continues to retreat. After retreating to the sidewalk, he gets down and makes a starting gesture, then stands up and retreats again. Then he turns around and climbs over a wall, and raises his arms and jumps several times behind the wall."
+    },
+    {
+        "second": 24,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/49Kc-45kz5k/output_frames/sec_24_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[14-24] Then, when the man retreats to the side of the road, he leans forward and makes a starting gesture, then continues to retreat. After retreating to the sidewalk, he gets down and makes a starting gesture, then stands up and retreats again. Then he turns around and climbs over a wall, and raises his arms and jumps several times behind the wall."
+    },
+    {
+        "second": 25,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/49Kc-45kz5k/output_frames/sec_25_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[24-29] Then the scene comes to an intersection of a street, where a man in black is walking while looking at his cell phone. A woman in a purple down jacket is also walking while looking at her phone. The man shows a panicked expression after walking past the wall and looks back and forth. Then the man turns and runs back, throws away his cell phone, and gets into the trash can behind him. A cleaner in an orange work uniform stares in shock at the man, holding the handle of the trash can."
+    },
+    {
+        "second": 26,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/49Kc-45kz5k/output_frames/sec_26_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[24-29] Then the scene comes to an intersection of a street, where a man in black is walking while looking at his cell phone. A woman in a purple down jacket is also walking while looking at her phone. The man shows a panicked expression after walking past the wall and looks back and forth. Then the man turns and runs back, throws away his cell phone, and gets into the trash can behind him. A cleaner in an orange work uniform stares in shock at the man, holding the handle of the trash can."
+    },
+    {
+        "second": 27,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/49Kc-45kz5k/output_frames/sec_27_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[24-29] Then the scene comes to an intersection of a street, where a man in black is walking while looking at his cell phone. A woman in a purple down jacket is also walking while looking at her phone. The man shows a panicked expression after walking past the wall and looks back and forth. Then the man turns and runs back, throws away his cell phone, and gets into the trash can behind him. A cleaner in an orange work uniform stares in shock at the man, holding the handle of the trash can."
+    },
+    {
+        "second": 28,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/49Kc-45kz5k/output_frames/sec_28_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[24-29] Then the scene comes to an intersection of a street, where a man in black is walking while looking at his cell phone. A woman in a purple down jacket is also walking while looking at her phone. The man shows a panicked expression after walking past the wall and looks back and forth. Then the man turns and runs back, throws away his cell phone, and gets into the trash can behind him. A cleaner in an orange work uniform stares in shock at the man, holding the handle of the trash can."
+    },
+    {
+        "second": 29,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/49Kc-45kz5k/output_frames/sec_29_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[24-29] Then the scene comes to an intersection of a street, where a man in black is walking while looking at his cell phone. A woman in a purple down jacket is also walking while looking at her phone. The man shows a panicked expression after walking past the wall and looks back and forth. Then the man turns and runs back, throws away his cell phone, and gets into the trash can behind him. A cleaner in an orange work uniform stares in shock at the man, holding the handle of the trash can."
+    },
+    {
+        "second": 30,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/49Kc-45kz5k/output_frames/sec_30_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[29-35] After that, the woman comes to the intersection, sees the mobile phone on the ground, bends over to pick it up, then throws the phone into the blue trash can, turns and walks away, and the cleaner closes the lid of the trash can and pulls it away."
+    },
+    {
+        "second": 31,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/49Kc-45kz5k/output_frames/sec_31_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[29-35] After that, the woman comes to the intersection, sees the mobile phone on the ground, bends over to pick it up, then throws the phone into the blue trash can, turns and walks away, and the cleaner closes the lid of the trash can and pulls it away."
+    },
+    {
+        "second": 32,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/49Kc-45kz5k/output_frames/sec_32_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[29-35] After that, the woman comes to the intersection, sees the mobile phone on the ground, bends over to pick it up, then throws the phone into the blue trash can, turns and walks away, and the cleaner closes the lid of the trash can and pulls it away."
+    },
+    {
+        "second": 33,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/49Kc-45kz5k/output_frames/sec_33_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[29-35] After that, the woman comes to the intersection, sees the mobile phone on the ground, bends over to pick it up, then throws the phone into the blue trash can, turns and walks away, and the cleaner closes the lid of the trash can and pulls it away."
+    },
+    {
+        "second": 34,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/49Kc-45kz5k/output_frames/sec_34_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[29-35] After that, the woman comes to the intersection, sees the mobile phone on the ground, bends over to pick it up, then throws the phone into the blue trash can, turns and walks away, and the cleaner closes the lid of the trash can and pulls it away."
+    },
+    {
+        "second": 35,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/49Kc-45kz5k/output_frames/sec_35_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[29-35] After that, the woman comes to the intersection, sees the mobile phone on the ground, bends over to pick it up, then throws the phone into the blue trash can, turns and walks away, and the cleaner closes the lid of the trash can and pulls it away."
+    },
+    {
+        "second": 36,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/49Kc-45kz5k/output_frames/sec_36_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[35-40] Then the scene changes to an open-air swimming pool. A dark-haired man in shorts with a blue bracelet on his right hand is standing by the pool making a phone call. A blond man in yellow shorts with a blue bracelet on his left hand comes up behind him and snatches the phone from the dark-haired man. The blond man then throws the phone into the pool. The dark-haired man jumps into the pool to catch the phone and falls into the water along with the phone."
+    },
+    {
+        "second": 37,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/49Kc-45kz5k/output_frames/sec_37_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[35-40] Then the scene changes to an open-air swimming pool. A dark-haired man in shorts with a blue bracelet on his right hand is standing by the pool making a phone call. A blond man in yellow shorts with a blue bracelet on his left hand comes up behind him and snatches the phone from the dark-haired man. The blond man then throws the phone into the pool. The dark-haired man jumps into the pool to catch the phone and falls into the water along with the phone."
+    },
+    {
+        "second": 38,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/49Kc-45kz5k/output_frames/sec_38_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[35-40] Then the scene changes to an open-air swimming pool. A dark-haired man in shorts with a blue bracelet on his right hand is standing by the pool making a phone call. A blond man in yellow shorts with a blue bracelet on his left hand comes up behind him and snatches the phone from the dark-haired man. The blond man then throws the phone into the pool. The dark-haired man jumps into the pool to catch the phone and falls into the water along with the phone."
+    },
+    {
+        "second": 39,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/49Kc-45kz5k/output_frames/sec_39_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[35-40] Then the scene changes to an open-air swimming pool. A dark-haired man in shorts with a blue bracelet on his right hand is standing by the pool making a phone call. A blond man in yellow shorts with a blue bracelet on his left hand comes up behind him and snatches the phone from the dark-haired man. The blond man then throws the phone into the pool. The dark-haired man jumps into the pool to catch the phone and falls into the water along with the phone."
+    },
+    {
+        "second": 40,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/49Kc-45kz5k/output_frames/sec_40_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[35-40] Then the scene changes to an open-air swimming pool. A dark-haired man in shorts with a blue bracelet on his right hand is standing by the pool making a phone call. A blond man in yellow shorts with a blue bracelet on his left hand comes up behind him and snatches the phone from the dark-haired man. The blond man then throws the phone into the pool. The dark-haired man jumps into the pool to catch the phone and falls into the water along with the phone."
+    },
+    {
+        "second": 41,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/49Kc-45kz5k/output_frames/sec_41_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[40-44] Then the blond man covers his mouth and smiles gleefully. Then the dark-haired man in the pool fishes the phone out and stands in the pool."
+    },
+    {
+        "second": 42,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/49Kc-45kz5k/output_frames/sec_42_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[40-44] Then the blond man covers his mouth and smiles gleefully. Then the dark-haired man in the pool fishes the phone out and stands in the pool."
+    },
+    {
+        "second": 43,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/49Kc-45kz5k/output_frames/sec_43_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[40-44] Then the blond man covers his mouth and smiles gleefully. Then the dark-haired man in the pool fishes the phone out and stands in the pool."
+    },
+    {
+        "second": 44,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/49Kc-45kz5k/output_frames/sec_44_idx_24.jpg",
+        "fps": 30,
+        "explanation": "[40-44] Then the blond man covers his mouth and smiles gleefully. Then the dark-haired man in the pool fishes the phone out and stands in the pool."
+    },
+    {
+        "second": 45,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/49Kc-45kz5k/output_frames/sec_45_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[44-49] After that, the scene comes to a bridge on the Seine in Paris. There is a man in an orange top and black shorts, sitting on the railing with his left hand supporting his body, his left foot hanging in the air, and his right foot stepping on the railing. Behind him, there are some people boating in the river, and the Eiffel Tower on the bank. The man does a somersault jump from the railing and lands on the ground."
+    },
+    {
+        "second": 46,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/49Kc-45kz5k/output_frames/sec_46_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[44-49] After that, the scene comes to a bridge on the Seine in Paris. There is a man in an orange top and black shorts, sitting on the railing with his left hand supporting his body, his left foot hanging in the air, and his right foot stepping on the railing. Behind him, there are some people boating in the river, and the Eiffel Tower on the bank. The man does a somersault jump from the railing and lands on the ground."
+    },
+    {
+        "second": 47,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/49Kc-45kz5k/output_frames/sec_47_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[44-49] After that, the scene comes to a bridge on the Seine in Paris. There is a man in an orange top and black shorts, sitting on the railing with his left hand supporting his body, his left foot hanging in the air, and his right foot stepping on the railing. Behind him, there are some people boating in the river, and the Eiffel Tower on the bank. The man does a somersault jump from the railing and lands on the ground."
+    },
+    {
+        "second": 48,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/49Kc-45kz5k/output_frames/sec_48_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[44-49] After that, the scene comes to a bridge on the Seine in Paris. There is a man in an orange top and black shorts, sitting on the railing with his left hand supporting his body, his left foot hanging in the air, and his right foot stepping on the railing. Behind him, there are some people boating in the river, and the Eiffel Tower on the bank. The man does a somersault jump from the railing and lands on the ground."
+    },
+    {
+        "second": 49,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/49Kc-45kz5k/output_frames/sec_49_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[44-49] After that, the scene comes to a bridge on the Seine in Paris. There is a man in an orange top and black shorts, sitting on the railing with his left hand supporting his body, his left foot hanging in the air, and his right foot stepping on the railing. Behind him, there are some people boating in the river, and the Eiffel Tower on the bank. The man does a somersault jump from the railing and lands on the ground."
+    },
+    {
+        "second": 50,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/49Kc-45kz5k/output_frames/sec_50_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[49-53] Then the man in the orange top squats on the railing with his arms stretched back, then does a backflip and lands on the ground. He then smiles and makes a celebratory gesture."
+    },
+    {
+        "second": 51,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/49Kc-45kz5k/output_frames/sec_51_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[49-53] Then the man in the orange top squats on the railing with his arms stretched back, then does a backflip and lands on the ground. He then smiles and makes a celebratory gesture."
+    },
+    {
+        "second": 52,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/49Kc-45kz5k/output_frames/sec_52_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[49-53] Then the man in the orange top squats on the railing with his arms stretched back, then does a backflip and lands on the ground. He then smiles and makes a celebratory gesture."
+    },
+    {
+        "second": 53,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/49Kc-45kz5k/output_frames/sec_53_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[49-53] Then the man in the orange top squats on the railing with his arms stretched back, then does a backflip and lands on the ground. He then smiles and makes a celebratory gesture."
+    }
+]

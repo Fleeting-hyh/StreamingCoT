@@ -1,0 +1,86 @@
+[
+    {
+        "second": 0,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/BM4_KN05HpI/output_frames/sec_0_idx_20.jpg",
+        "fps": 28,
+        "explanation": "[0-0] The screen is divided into three parts, with the upper and lower parts blacked out. In the middle part, a man in a gray shirt and black pants, holding a long stick, is standing on a hillside covered with withered grass. Facing him is a wolf staring at him menacingly. The hillside is covered with snow, and in the distance are rolling mountains."
+    },
+    {
+        "second": 1,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/BM4_KN05HpI/output_frames/sec_1_idx_4.jpg",
+        "fps": 28,
+        "explanation": "[0-3] The man then waves the long stick, trying to drive the wolf down the hillside. The wolf keeps approaching tentatively but keeps a certain distance from the man."
+    },
+    {
+        "second": 2,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/BM4_KN05HpI/output_frames/sec_2_idx_11.jpg",
+        "fps": 28,
+        "explanation": "[0-3] The man then waves the long stick, trying to drive the wolf down the hillside. The wolf keeps approaching tentatively but keeps a certain distance from the man."
+    },
+    {
+        "second": 3,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/BM4_KN05HpI/output_frames/sec_3_idx_26.jpg",
+        "fps": 28,
+        "explanation": "[0-3] The man then waves the long stick, trying to drive the wolf down the hillside. The wolf keeps approaching tentatively but keeps a certain distance from the man."
+    },
+    {
+        "second": 4,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/BM4_KN05HpI/output_frames/sec_4_idx_26.jpg",
+        "fps": 28,
+        "explanation": "[3-8] Immediately afterward, another wolf joins the confrontation. The two wolves, one after the other, constantly test the man's reaction, looking for an opportunity to attack."
+    },
+    {
+        "second": 5,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/BM4_KN05HpI/output_frames/sec_5_idx_5.jpg",
+        "fps": 28,
+        "explanation": "[3-8] Immediately afterward, another wolf joins the confrontation. The two wolves, one after the other, constantly test the man's reaction, looking for an opportunity to attack."
+    },
+    {
+        "second": 6,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/BM4_KN05HpI/output_frames/sec_6_idx_8.jpg",
+        "fps": 28,
+        "explanation": "[3-8] Immediately afterward, another wolf joins the confrontation. The two wolves, one after the other, constantly test the man's reaction, looking for an opportunity to attack."
+    },
+    {
+        "second": 7,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/BM4_KN05HpI/output_frames/sec_7_idx_27.jpg",
+        "fps": 28,
+        "explanation": "[3-8] Immediately afterward, another wolf joins the confrontation. The two wolves, one after the other, constantly test the man's reaction, looking for an opportunity to attack."
+    },
+    {
+        "second": 8,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/BM4_KN05HpI/output_frames/sec_8_idx_26.jpg",
+        "fps": 28,
+        "explanation": "[3-8] Immediately afterward, another wolf joins the confrontation. The two wolves, one after the other, constantly test the man's reaction, looking for an opportunity to attack."
+    },
+    {
+        "second": 9,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/BM4_KN05HpI/output_frames/sec_9_idx_6.jpg",
+        "fps": 28,
+        "explanation": "[8-11] Subsequently, the man becomes more vigilant, waving the long stick forcefully to prevent the two wolves from approaching, and then throws a stone at them."
+    },
+    {
+        "second": 10,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/BM4_KN05HpI/output_frames/sec_10_idx_10.jpg",
+        "fps": 28,
+        "explanation": "[8-11] Subsequently, the man becomes more vigilant, waving the long stick forcefully to prevent the two wolves from approaching, and then throws a stone at them."
+    },
+    {
+        "second": 11,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/BM4_KN05HpI/output_frames/sec_11_idx_4.jpg",
+        "fps": 28,
+        "explanation": "[8-11] Subsequently, the man becomes more vigilant, waving the long stick forcefully to prevent the two wolves from approaching, and then throws a stone at them."
+    }
+]

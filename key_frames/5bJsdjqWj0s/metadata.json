@@ -1,0 +1,205 @@
+[
+    {
+        "second": 0,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5bJsdjqWj0s/output_frames/sec_0_idx_21.jpg",
+        "fps": 25,
+        "explanation": "[0-0] A newborn baby is lying on a pink fleece blanket, which is placed on a white wooden prop bed. The bed is positioned on a surface covered with beige fabric. A man stands beside the bed, and two other photographers are also beside the bed, taking pictures of the baby with their cameras. The room is well-lit, with a chandelier hanging from the off-white ceiling. There is a reflector on the right side to reflect more light onto the baby."
+    },
+    {
+        "second": 1,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5bJsdjqWj0s/output_frames/sec_1_idx_3.jpg",
+        "fps": 25,
+        "explanation": "[0-4] Then, the man in the plaid shirt claps his hands and talks, trying to get the baby's attention. The two photographers adjust their angles."
+    },
+    {
+        "second": 2,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5bJsdjqWj0s/output_frames/sec_2_idx_9.jpg",
+        "fps": 25,
+        "explanation": "[0-4] Then, the man in the plaid shirt claps his hands and talks, trying to get the baby's attention. The two photographers adjust their angles."
+    },
+    {
+        "second": 3,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5bJsdjqWj0s/output_frames/sec_3_idx_5.jpg",
+        "fps": 25,
+        "explanation": "[0-4] Then, the man in the plaid shirt claps his hands and talks, trying to get the baby's attention. The two photographers adjust their angles."
+    },
+    {
+        "second": 4,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5bJsdjqWj0s/output_frames/sec_4_idx_1.jpg",
+        "fps": 25,
+        "explanation": "[0-4] Then, the man in the plaid shirt claps his hands and talks, trying to get the baby's attention. The two photographers adjust their angles."
+    },
+    {
+        "second": 5,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5bJsdjqWj0s/output_frames/sec_5_idx_4.jpg",
+        "fps": 25,
+        "explanation": "[4-7] Next, the baby is lying on the pink blanket."
+    },
+    {
+        "second": 6,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5bJsdjqWj0s/output_frames/sec_6_idx_10.jpg",
+        "fps": 25,
+        "explanation": "[4-7] Next, the baby is lying on the pink blanket."
+    },
+    {
+        "second": 7,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5bJsdjqWj0s/output_frames/sec_7_idx_22.jpg",
+        "fps": 25,
+        "explanation": "[4-7] Next, the baby is lying on the pink blanket."
+    },
+    {
+        "second": 8,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5bJsdjqWj0s/output_frames/sec_8_idx_3.jpg",
+        "fps": 25,
+        "explanation": "[7-10] Subsequently, the camera zooms in, and the baby continues to lie on the pink blanket."
+    },
+    {
+        "second": 9,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5bJsdjqWj0s/output_frames/sec_9_idx_18.jpg",
+        "fps": 25,
+        "explanation": "[7-10] Subsequently, the camera zooms in, and the baby continues to lie on the pink blanket."
+    },
+    {
+        "second": 10,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5bJsdjqWj0s/output_frames/sec_10_idx_9.jpg",
+        "fps": 25,
+        "explanation": "[7-10] Subsequently, the camera zooms in, and the baby continues to lie on the pink blanket."
+    },
+    {
+        "second": 11,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5bJsdjqWj0s/output_frames/sec_11_idx_0.jpg",
+        "fps": 25,
+        "explanation": "[10-13] Afterwards, the baby is lying on a purple fleece blanket, covered with purple lace fabric."
+    },
+    {
+        "second": 12,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5bJsdjqWj0s/output_frames/sec_12_idx_10.jpg",
+        "fps": 25,
+        "explanation": "[10-13] Afterwards, the baby is lying on a purple fleece blanket, covered with purple lace fabric."
+    },
+    {
+        "second": 13,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5bJsdjqWj0s/output_frames/sec_13_idx_5.jpg",
+        "fps": 25,
+        "explanation": "[10-13] Afterwards, the baby is lying on a purple fleece blanket, covered with purple lace fabric."
+    },
+    {
+        "second": 14,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5bJsdjqWj0s/output_frames/sec_14_idx_1.jpg",
+        "fps": 25,
+        "explanation": "[13-16] Next, the baby is wearing a white knitted suit with a matching hat, lying in a wicker basket lined with red fabric with white polka dots."
+    },
+    {
+        "second": 15,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5bJsdjqWj0s/output_frames/sec_15_idx_10.jpg",
+        "fps": 25,
+        "explanation": "[13-16] Next, the baby is wearing a white knitted suit with a matching hat, lying in a wicker basket lined with red fabric with white polka dots."
+    },
+    {
+        "second": 16,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5bJsdjqWj0s/output_frames/sec_16_idx_14.jpg",
+        "fps": 25,
+        "explanation": "[13-16] Next, the baby is wearing a white knitted suit with a matching hat, lying in a wicker basket lined with red fabric with white polka dots."
+    },
+    {
+        "second": 17,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5bJsdjqWj0s/output_frames/sec_17_idx_21.jpg",
+        "fps": 25,
+        "explanation": "[16-22] Subsequently, the baby is wearing a red and white hat and red and white clothes, sleeping in a wicker basket with rose petals scattered beside. The camera zooms in for a close-up on the baby's face."
+    },
+    {
+        "second": 18,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5bJsdjqWj0s/output_frames/sec_18_idx_22.jpg",
+        "fps": 25,
+        "explanation": "[16-22] Subsequently, the baby is wearing a red and white hat and red and white clothes, sleeping in a wicker basket with rose petals scattered beside. The camera zooms in for a close-up on the baby's face."
+    },
+    {
+        "second": 19,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5bJsdjqWj0s/output_frames/sec_19_idx_20.jpg",
+        "fps": 25,
+        "explanation": "[16-22] Subsequently, the baby is wearing a red and white hat and red and white clothes, sleeping in a wicker basket with rose petals scattered beside. The camera zooms in for a close-up on the baby's face."
+    },
+    {
+        "second": 20,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5bJsdjqWj0s/output_frames/sec_20_idx_6.jpg",
+        "fps": 25,
+        "explanation": "[16-22] Subsequently, the baby is wearing a red and white hat and red and white clothes, sleeping in a wicker basket with rose petals scattered beside. The camera zooms in for a close-up on the baby's face."
+    },
+    {
+        "second": 21,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5bJsdjqWj0s/output_frames/sec_21_idx_20.jpg",
+        "fps": 25,
+        "explanation": "[16-22] Subsequently, the baby is wearing a red and white hat and red and white clothes, sleeping in a wicker basket with rose petals scattered beside. The camera zooms in for a close-up on the baby's face."
+    },
+    {
+        "second": 22,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5bJsdjqWj0s/output_frames/sec_22_idx_14.jpg",
+        "fps": 25,
+        "explanation": "[16-22] Subsequently, the baby is wearing a red and white hat and red and white clothes, sleeping in a wicker basket with rose petals scattered beside. The camera zooms in for a close-up on the baby's face."
+    },
+    {
+        "second": 23,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5bJsdjqWj0s/output_frames/sec_23_idx_21.jpg",
+        "fps": 25,
+        "explanation": "[22-25] Then, the baby is sleeping in a wicker basket, wrapped in a beige knitted blanket."
+    },
+    {
+        "second": 24,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5bJsdjqWj0s/output_frames/sec_24_idx_0.jpg",
+        "fps": 25,
+        "explanation": "[22-25] Then, the baby is sleeping in a wicker basket, wrapped in a beige knitted blanket."
+    },
+    {
+        "second": 25,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5bJsdjqWj0s/output_frames/sec_25_idx_22.jpg",
+        "fps": 25,
+        "explanation": "[22-25] Then, the baby is sleeping in a wicker basket, wrapped in a beige knitted blanket."
+    },
+    {
+        "second": 26,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5bJsdjqWj0s/output_frames/sec_26_idx_9.jpg",
+        "fps": 25,
+        "explanation": "[25-28] Finally, the baby is wearing a light blue dinosaur hat, naked upper body, wearing a diaper and blue bottoms, lying on its stomach and sleeping in a wicker basket."
+    },
+    {
+        "second": 27,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5bJsdjqWj0s/output_frames/sec_27_idx_16.jpg",
+        "fps": 25,
+        "explanation": "[25-28] Finally, the baby is wearing a light blue dinosaur hat, naked upper body, wearing a diaper and blue bottoms, lying on its stomach and sleeping in a wicker basket."
+    },
+    {
+        "second": 28,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5bJsdjqWj0s/output_frames/sec_28_idx_2.jpg",
+        "fps": 25,
+        "explanation": "[25-28] Finally, the baby is wearing a light blue dinosaur hat, naked upper body, wearing a diaper and blue bottoms, lying on its stomach and sleeping in a wicker basket."
+    }
+]

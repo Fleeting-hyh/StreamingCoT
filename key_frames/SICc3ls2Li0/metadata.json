@@ -1,0 +1,422 @@
+[
+    {
+        "second": 0,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SICc3ls2Li0/output_frames/sec_0_idx_25.jpg",
+        "fps": 50,
+        "explanation": "[0-0] Under a blue sky, there's a grassy field with lush green hills and majestic mountains in the distance, a man in a camouflage vest is bending over."
+    },
+    {
+        "second": 1,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SICc3ls2Li0/output_frames/sec_1_idx_26.jpg",
+        "fps": 50,
+        "explanation": "[0-6] A man in a camouflage vest, wearing an army green hat, is chopping wood vigorously with an ax in both hands. He places the chopped firewood between two rocks by the river. He takes out tinder and ignites the wood, then he lifts a flat, smooth stone slab and places it over the fire. The slab acts as a natural cooking surface."
+    },
+    {
+        "second": 2,
+        "frame_index": 35,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SICc3ls2Li0/output_frames/sec_2_idx_35.jpg",
+        "fps": 50,
+        "explanation": "[0-6] A man in a camouflage vest, wearing an army green hat, is chopping wood vigorously with an ax in both hands. He places the chopped firewood between two rocks by the river. He takes out tinder and ignites the wood, then he lifts a flat, smooth stone slab and places it over the fire. The slab acts as a natural cooking surface."
+    },
+    {
+        "second": 3,
+        "frame_index": 46,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SICc3ls2Li0/output_frames/sec_3_idx_46.jpg",
+        "fps": 50,
+        "explanation": "[0-6] A man in a camouflage vest, wearing an army green hat, is chopping wood vigorously with an ax in both hands. He places the chopped firewood between two rocks by the river. He takes out tinder and ignites the wood, then he lifts a flat, smooth stone slab and places it over the fire. The slab acts as a natural cooking surface."
+    },
+    {
+        "second": 4,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SICc3ls2Li0/output_frames/sec_4_idx_15.jpg",
+        "fps": 50,
+        "explanation": "[0-6] A man in a camouflage vest, wearing an army green hat, is chopping wood vigorously with an ax in both hands. He places the chopped firewood between two rocks by the river. He takes out tinder and ignites the wood, then he lifts a flat, smooth stone slab and places it over the fire. The slab acts as a natural cooking surface."
+    },
+    {
+        "second": 5,
+        "frame_index": 33,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SICc3ls2Li0/output_frames/sec_5_idx_33.jpg",
+        "fps": 50,
+        "explanation": "[0-6] A man in a camouflage vest, wearing an army green hat, is chopping wood vigorously with an ax in both hands. He places the chopped firewood between two rocks by the river. He takes out tinder and ignites the wood, then he lifts a flat, smooth stone slab and places it over the fire. The slab acts as a natural cooking surface."
+    },
+    {
+        "second": 6,
+        "frame_index": 33,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SICc3ls2Li0/output_frames/sec_6_idx_33.jpg",
+        "fps": 50,
+        "explanation": "[0-6] A man in a camouflage vest, wearing an army green hat, is chopping wood vigorously with an ax in both hands. He places the chopped firewood between two rocks by the river. He takes out tinder and ignites the wood, then he lifts a flat, smooth stone slab and places it over the fire. The slab acts as a natural cooking surface."
+    },
+    {
+        "second": 7,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SICc3ls2Li0/output_frames/sec_7_idx_4.jpg",
+        "fps": 50,
+        "explanation": "[6-15] The man then takes two round wooden stumps and places them on the ground. On one stump, he puts a furry cushion, and on the other, a wooden cutting board with a red onion on top. He then dices the onion with a large knife and puts it into a red ceramic bowl. Next, the man takes a head of garlic, cuts it open, peels off two cloves, crushes them, chops them into minced garlic, and adds them to the ceramic bowl with the onion."
+    },
+    {
+        "second": 8,
+        "frame_index": 36,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SICc3ls2Li0/output_frames/sec_8_idx_36.jpg",
+        "fps": 50,
+        "explanation": "[6-15] The man then takes two round wooden stumps and places them on the ground. On one stump, he puts a furry cushion, and on the other, a wooden cutting board with a red onion on top. He then dices the onion with a large knife and puts it into a red ceramic bowl. Next, the man takes a head of garlic, cuts it open, peels off two cloves, crushes them, chops them into minced garlic, and adds them to the ceramic bowl with the onion."
+    },
+    {
+        "second": 9,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SICc3ls2Li0/output_frames/sec_9_idx_0.jpg",
+        "fps": 50,
+        "explanation": "[6-15] The man then takes two round wooden stumps and places them on the ground. On one stump, he puts a furry cushion, and on the other, a wooden cutting board with a red onion on top. He then dices the onion with a large knife and puts it into a red ceramic bowl. Next, the man takes a head of garlic, cuts it open, peels off two cloves, crushes them, chops them into minced garlic, and adds them to the ceramic bowl with the onion."
+    },
+    {
+        "second": 10,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SICc3ls2Li0/output_frames/sec_10_idx_26.jpg",
+        "fps": 50,
+        "explanation": "[6-15] The man then takes two round wooden stumps and places them on the ground. On one stump, he puts a furry cushion, and on the other, a wooden cutting board with a red onion on top. He then dices the onion with a large knife and puts it into a red ceramic bowl. Next, the man takes a head of garlic, cuts it open, peels off two cloves, crushes them, chops them into minced garlic, and adds them to the ceramic bowl with the onion."
+    },
+    {
+        "second": 11,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SICc3ls2Li0/output_frames/sec_11_idx_18.jpg",
+        "fps": 50,
+        "explanation": "[6-15] The man then takes two round wooden stumps and places them on the ground. On one stump, he puts a furry cushion, and on the other, a wooden cutting board with a red onion on top. He then dices the onion with a large knife and puts it into a red ceramic bowl. Next, the man takes a head of garlic, cuts it open, peels off two cloves, crushes them, chops them into minced garlic, and adds them to the ceramic bowl with the onion."
+    },
+    {
+        "second": 12,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SICc3ls2Li0/output_frames/sec_12_idx_6.jpg",
+        "fps": 50,
+        "explanation": "[6-15] The man then takes two round wooden stumps and places them on the ground. On one stump, he puts a furry cushion, and on the other, a wooden cutting board with a red onion on top. He then dices the onion with a large knife and puts it into a red ceramic bowl. Next, the man takes a head of garlic, cuts it open, peels off two cloves, crushes them, chops them into minced garlic, and adds them to the ceramic bowl with the onion."
+    },
+    {
+        "second": 13,
+        "frame_index": 39,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SICc3ls2Li0/output_frames/sec_13_idx_39.jpg",
+        "fps": 50,
+        "explanation": "[6-15] The man then takes two round wooden stumps and places them on the ground. On one stump, he puts a furry cushion, and on the other, a wooden cutting board with a red onion on top. He then dices the onion with a large knife and puts it into a red ceramic bowl. Next, the man takes a head of garlic, cuts it open, peels off two cloves, crushes them, chops them into minced garlic, and adds them to the ceramic bowl with the onion."
+    },
+    {
+        "second": 14,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SICc3ls2Li0/output_frames/sec_14_idx_5.jpg",
+        "fps": 50,
+        "explanation": "[6-15] The man then takes two round wooden stumps and places them on the ground. On one stump, he puts a furry cushion, and on the other, a wooden cutting board with a red onion on top. He then dices the onion with a large knife and puts it into a red ceramic bowl. Next, the man takes a head of garlic, cuts it open, peels off two cloves, crushes them, chops them into minced garlic, and adds them to the ceramic bowl with the onion."
+    },
+    {
+        "second": 15,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SICc3ls2Li0/output_frames/sec_15_idx_24.jpg",
+        "fps": 50,
+        "explanation": "[6-15] The man then takes two round wooden stumps and places them on the ground. On one stump, he puts a furry cushion, and on the other, a wooden cutting board with a red onion on top. He then dices the onion with a large knife and puts it into a red ceramic bowl. Next, the man takes a head of garlic, cuts it open, peels off two cloves, crushes them, chops them into minced garlic, and adds them to the ceramic bowl with the onion."
+    },
+    {
+        "second": 16,
+        "frame_index": 42,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SICc3ls2Li0/output_frames/sec_16_idx_42.jpg",
+        "fps": 50,
+        "explanation": "[15-24] The man places the bowl on the stone slab over the fire. After adding oil and a white substance to the bowl and simmering it, he adds salt and pepper to the bowl and stirs well. He then places a redwood bowl with a lemon and a small brown bag containing four seasoning bottles on the red cutting board. Next, he adds cumin, pepper, salt, and a light brown powder to the redwood bowl, followed by oil. Then, the man cuts open the lemon with a large knife and squeezes the lemon juice into the redwood bowl."
+    },
+    {
+        "second": 17,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SICc3ls2Li0/output_frames/sec_17_idx_11.jpg",
+        "fps": 50,
+        "explanation": "[15-24] The man places the bowl on the stone slab over the fire. After adding oil and a white substance to the bowl and simmering it, he adds salt and pepper to the bowl and stirs well. He then places a redwood bowl with a lemon and a small brown bag containing four seasoning bottles on the red cutting board. Next, he adds cumin, pepper, salt, and a light brown powder to the redwood bowl, followed by oil. Then, the man cuts open the lemon with a large knife and squeezes the lemon juice into the redwood bowl."
+    },
+    {
+        "second": 18,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SICc3ls2Li0/output_frames/sec_18_idx_9.jpg",
+        "fps": 50,
+        "explanation": "[15-24] The man places the bowl on the stone slab over the fire. After adding oil and a white substance to the bowl and simmering it, he adds salt and pepper to the bowl and stirs well. He then places a redwood bowl with a lemon and a small brown bag containing four seasoning bottles on the red cutting board. Next, he adds cumin, pepper, salt, and a light brown powder to the redwood bowl, followed by oil. Then, the man cuts open the lemon with a large knife and squeezes the lemon juice into the redwood bowl."
+    },
+    {
+        "second": 19,
+        "frame_index": 43,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SICc3ls2Li0/output_frames/sec_19_idx_43.jpg",
+        "fps": 50,
+        "explanation": "[15-24] The man places the bowl on the stone slab over the fire. After adding oil and a white substance to the bowl and simmering it, he adds salt and pepper to the bowl and stirs well. He then places a redwood bowl with a lemon and a small brown bag containing four seasoning bottles on the red cutting board. Next, he adds cumin, pepper, salt, and a light brown powder to the redwood bowl, followed by oil. Then, the man cuts open the lemon with a large knife and squeezes the lemon juice into the redwood bowl."
+    },
+    {
+        "second": 20,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SICc3ls2Li0/output_frames/sec_20_idx_11.jpg",
+        "fps": 50,
+        "explanation": "[15-24] The man places the bowl on the stone slab over the fire. After adding oil and a white substance to the bowl and simmering it, he adds salt and pepper to the bowl and stirs well. He then places a redwood bowl with a lemon and a small brown bag containing four seasoning bottles on the red cutting board. Next, he adds cumin, pepper, salt, and a light brown powder to the redwood bowl, followed by oil. Then, the man cuts open the lemon with a large knife and squeezes the lemon juice into the redwood bowl."
+    },
+    {
+        "second": 21,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SICc3ls2Li0/output_frames/sec_21_idx_3.jpg",
+        "fps": 50,
+        "explanation": "[15-24] The man places the bowl on the stone slab over the fire. After adding oil and a white substance to the bowl and simmering it, he adds salt and pepper to the bowl and stirs well. He then places a redwood bowl with a lemon and a small brown bag containing four seasoning bottles on the red cutting board. Next, he adds cumin, pepper, salt, and a light brown powder to the redwood bowl, followed by oil. Then, the man cuts open the lemon with a large knife and squeezes the lemon juice into the redwood bowl."
+    },
+    {
+        "second": 22,
+        "frame_index": 41,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SICc3ls2Li0/output_frames/sec_22_idx_41.jpg",
+        "fps": 50,
+        "explanation": "[15-24] The man places the bowl on the stone slab over the fire. After adding oil and a white substance to the bowl and simmering it, he adds salt and pepper to the bowl and stirs well. He then places a redwood bowl with a lemon and a small brown bag containing four seasoning bottles on the red cutting board. Next, he adds cumin, pepper, salt, and a light brown powder to the redwood bowl, followed by oil. Then, the man cuts open the lemon with a large knife and squeezes the lemon juice into the redwood bowl."
+    },
+    {
+        "second": 23,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SICc3ls2Li0/output_frames/sec_23_idx_1.jpg",
+        "fps": 50,
+        "explanation": "[15-24] The man places the bowl on the stone slab over the fire. After adding oil and a white substance to the bowl and simmering it, he adds salt and pepper to the bowl and stirs well. He then places a redwood bowl with a lemon and a small brown bag containing four seasoning bottles on the red cutting board. Next, he adds cumin, pepper, salt, and a light brown powder to the redwood bowl, followed by oil. Then, the man cuts open the lemon with a large knife and squeezes the lemon juice into the redwood bowl."
+    },
+    {
+        "second": 24,
+        "frame_index": 30,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SICc3ls2Li0/output_frames/sec_24_idx_30.jpg",
+        "fps": 50,
+        "explanation": "[15-24] The man places the bowl on the stone slab over the fire. After adding oil and a white substance to the bowl and simmering it, he adds salt and pepper to the bowl and stirs well. He then places a redwood bowl with a lemon and a small brown bag containing four seasoning bottles on the red cutting board. Next, he adds cumin, pepper, salt, and a light brown powder to the redwood bowl, followed by oil. Then, the man cuts open the lemon with a large knife and squeezes the lemon juice into the redwood bowl."
+    },
+    {
+        "second": 25,
+        "frame_index": 31,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SICc3ls2Li0/output_frames/sec_25_idx_31.jpg",
+        "fps": 50,
+        "explanation": "[24-29] The man then adds a spoonful of starch to the previous ceramic bowl, stirs well, and then picks some wild raspberries and other small berries into the ceramic bowl, giving it a stir."
+    },
+    {
+        "second": 26,
+        "frame_index": 40,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SICc3ls2Li0/output_frames/sec_26_idx_40.jpg",
+        "fps": 50,
+        "explanation": "[24-29] The man then adds a spoonful of starch to the previous ceramic bowl, stirs well, and then picks some wild raspberries and other small berries into the ceramic bowl, giving it a stir."
+    },
+    {
+        "second": 27,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SICc3ls2Li0/output_frames/sec_27_idx_5.jpg",
+        "fps": 50,
+        "explanation": "[24-29] The man then adds a spoonful of starch to the previous ceramic bowl, stirs well, and then picks some wild raspberries and other small berries into the ceramic bowl, giving it a stir."
+    },
+    {
+        "second": 28,
+        "frame_index": 32,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SICc3ls2Li0/output_frames/sec_28_idx_32.jpg",
+        "fps": 50,
+        "explanation": "[24-29] The man then adds a spoonful of starch to the previous ceramic bowl, stirs well, and then picks some wild raspberries and other small berries into the ceramic bowl, giving it a stir."
+    },
+    {
+        "second": 29,
+        "frame_index": 38,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SICc3ls2Li0/output_frames/sec_29_idx_38.jpg",
+        "fps": 50,
+        "explanation": "[24-29] The man then adds a spoonful of starch to the previous ceramic bowl, stirs well, and then picks some wild raspberries and other small berries into the ceramic bowl, giving it a stir."
+    },
+    {
+        "second": 30,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SICc3ls2Li0/output_frames/sec_30_idx_19.jpg",
+        "fps": 50,
+        "explanation": "[29-35] Next, the man places two pieces of beef on the wooden cutting board, drizzles the sauce from the prepared redwood bowl over them, spreads it evenly with his hands, flips them over, adds more sauce, and spreads it evenly again."
+    },
+    {
+        "second": 31,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SICc3ls2Li0/output_frames/sec_31_idx_18.jpg",
+        "fps": 50,
+        "explanation": "[29-35] Next, the man places two pieces of beef on the wooden cutting board, drizzles the sauce from the prepared redwood bowl over them, spreads it evenly with his hands, flips them over, adds more sauce, and spreads it evenly again."
+    },
+    {
+        "second": 32,
+        "frame_index": 44,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SICc3ls2Li0/output_frames/sec_32_idx_44.jpg",
+        "fps": 50,
+        "explanation": "[29-35] Next, the man places two pieces of beef on the wooden cutting board, drizzles the sauce from the prepared redwood bowl over them, spreads it evenly with his hands, flips them over, adds more sauce, and spreads it evenly again."
+    },
+    {
+        "second": 33,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SICc3ls2Li0/output_frames/sec_33_idx_4.jpg",
+        "fps": 50,
+        "explanation": "[29-35] Next, the man places two pieces of beef on the wooden cutting board, drizzles the sauce from the prepared redwood bowl over them, spreads it evenly with his hands, flips them over, adds more sauce, and spreads it evenly again."
+    },
+    {
+        "second": 34,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SICc3ls2Li0/output_frames/sec_34_idx_21.jpg",
+        "fps": 50,
+        "explanation": "[29-35] Next, the man places two pieces of beef on the wooden cutting board, drizzles the sauce from the prepared redwood bowl over them, spreads it evenly with his hands, flips them over, adds more sauce, and spreads it evenly again."
+    },
+    {
+        "second": 35,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SICc3ls2Li0/output_frames/sec_35_idx_20.jpg",
+        "fps": 50,
+        "explanation": "[29-35] Next, the man places two pieces of beef on the wooden cutting board, drizzles the sauce from the prepared redwood bowl over them, spreads it evenly with his hands, flips them over, adds more sauce, and spreads it evenly again."
+    },
+    {
+        "second": 36,
+        "frame_index": 42,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SICc3ls2Li0/output_frames/sec_36_idx_42.jpg",
+        "fps": 50,
+        "explanation": "[35-44] The man then places the marinated steaks on the hot stone slab to grill. The beef sizzles as it cooks. When one side is almost done, he flips them over and continues grilling. Then he puts butter on top. When both sides are slightly browned, he places two yellow peppers between the two pieces of beef to grill. After that, he places the grilled steaks and peppers on the wooden cutting board and then places the cutting board on the wooden stump."
+    },
+    {
+        "second": 37,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SICc3ls2Li0/output_frames/sec_37_idx_11.jpg",
+        "fps": 50,
+        "explanation": "[35-44] The man then places the marinated steaks on the hot stone slab to grill. The beef sizzles as it cooks. When one side is almost done, he flips them over and continues grilling. Then he puts butter on top. When both sides are slightly browned, he places two yellow peppers between the two pieces of beef to grill. After that, he places the grilled steaks and peppers on the wooden cutting board and then places the cutting board on the wooden stump."
+    },
+    {
+        "second": 38,
+        "frame_index": 47,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SICc3ls2Li0/output_frames/sec_38_idx_47.jpg",
+        "fps": 50,
+        "explanation": "[35-44] The man then places the marinated steaks on the hot stone slab to grill. The beef sizzles as it cooks. When one side is almost done, he flips them over and continues grilling. Then he puts butter on top. When both sides are slightly browned, he places two yellow peppers between the two pieces of beef to grill. After that, he places the grilled steaks and peppers on the wooden cutting board and then places the cutting board on the wooden stump."
+    },
+    {
+        "second": 39,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SICc3ls2Li0/output_frames/sec_39_idx_18.jpg",
+        "fps": 50,
+        "explanation": "[35-44] The man then places the marinated steaks on the hot stone slab to grill. The beef sizzles as it cooks. When one side is almost done, he flips them over and continues grilling. Then he puts butter on top. When both sides are slightly browned, he places two yellow peppers between the two pieces of beef to grill. After that, he places the grilled steaks and peppers on the wooden cutting board and then places the cutting board on the wooden stump."
+    },
+    {
+        "second": 40,
+        "frame_index": 48,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SICc3ls2Li0/output_frames/sec_40_idx_48.jpg",
+        "fps": 50,
+        "explanation": "[35-44] The man then places the marinated steaks on the hot stone slab to grill. The beef sizzles as it cooks. When one side is almost done, he flips them over and continues grilling. Then he puts butter on top. When both sides are slightly browned, he places two yellow peppers between the two pieces of beef to grill. After that, he places the grilled steaks and peppers on the wooden cutting board and then places the cutting board on the wooden stump."
+    },
+    {
+        "second": 41,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SICc3ls2Li0/output_frames/sec_41_idx_27.jpg",
+        "fps": 50,
+        "explanation": "[35-44] The man then places the marinated steaks on the hot stone slab to grill. The beef sizzles as it cooks. When one side is almost done, he flips them over and continues grilling. Then he puts butter on top. When both sides are slightly browned, he places two yellow peppers between the two pieces of beef to grill. After that, he places the grilled steaks and peppers on the wooden cutting board and then places the cutting board on the wooden stump."
+    },
+    {
+        "second": 42,
+        "frame_index": 37,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SICc3ls2Li0/output_frames/sec_42_idx_37.jpg",
+        "fps": 50,
+        "explanation": "[35-44] The man then places the marinated steaks on the hot stone slab to grill. The beef sizzles as it cooks. When one side is almost done, he flips them over and continues grilling. Then he puts butter on top. When both sides are slightly browned, he places two yellow peppers between the two pieces of beef to grill. After that, he places the grilled steaks and peppers on the wooden cutting board and then places the cutting board on the wooden stump."
+    },
+    {
+        "second": 43,
+        "frame_index": 35,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SICc3ls2Li0/output_frames/sec_43_idx_35.jpg",
+        "fps": 50,
+        "explanation": "[35-44] The man then places the marinated steaks on the hot stone slab to grill. The beef sizzles as it cooks. When one side is almost done, he flips them over and continues grilling. Then he puts butter on top. When both sides are slightly browned, he places two yellow peppers between the two pieces of beef to grill. After that, he places the grilled steaks and peppers on the wooden cutting board and then places the cutting board on the wooden stump."
+    },
+    {
+        "second": 44,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SICc3ls2Li0/output_frames/sec_44_idx_12.jpg",
+        "fps": 50,
+        "explanation": "[35-44] The man then places the marinated steaks on the hot stone slab to grill. The beef sizzles as it cooks. When one side is almost done, he flips them over and continues grilling. Then he puts butter on top. When both sides are slightly browned, he places two yellow peppers between the two pieces of beef to grill. After that, he places the grilled steaks and peppers on the wooden cutting board and then places the cutting board on the wooden stump."
+    },
+    {
+        "second": 45,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SICc3ls2Li0/output_frames/sec_45_idx_20.jpg",
+        "fps": 50,
+        "explanation": "[44-51] The man then uses a large knife to cut the steak into long strips, stirs the sauce in the ceramic bowl, and pours it over the steak. Then he picks up the steak and starts eating. The camera then pans to the river where two ducks are swimming, then back to the man eating steak."
+    },
+    {
+        "second": 46,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SICc3ls2Li0/output_frames/sec_46_idx_15.jpg",
+        "fps": 50,
+        "explanation": "[44-51] The man then uses a large knife to cut the steak into long strips, stirs the sauce in the ceramic bowl, and pours it over the steak. Then he picks up the steak and starts eating. The camera then pans to the river where two ducks are swimming, then back to the man eating steak."
+    },
+    {
+        "second": 47,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SICc3ls2Li0/output_frames/sec_47_idx_0.jpg",
+        "fps": 50,
+        "explanation": "[44-51] The man then uses a large knife to cut the steak into long strips, stirs the sauce in the ceramic bowl, and pours it over the steak. Then he picks up the steak and starts eating. The camera then pans to the river where two ducks are swimming, then back to the man eating steak."
+    },
+    {
+        "second": 48,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SICc3ls2Li0/output_frames/sec_48_idx_19.jpg",
+        "fps": 50,
+        "explanation": "[44-51] The man then uses a large knife to cut the steak into long strips, stirs the sauce in the ceramic bowl, and pours it over the steak. Then he picks up the steak and starts eating. The camera then pans to the river where two ducks are swimming, then back to the man eating steak."
+    },
+    {
+        "second": 49,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SICc3ls2Li0/output_frames/sec_49_idx_22.jpg",
+        "fps": 50,
+        "explanation": "[44-51] The man then uses a large knife to cut the steak into long strips, stirs the sauce in the ceramic bowl, and pours it over the steak. Then he picks up the steak and starts eating. The camera then pans to the river where two ducks are swimming, then back to the man eating steak."
+    },
+    {
+        "second": 50,
+        "frame_index": 47,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SICc3ls2Li0/output_frames/sec_50_idx_47.jpg",
+        "fps": 50,
+        "explanation": "[44-51] The man then uses a large knife to cut the steak into long strips, stirs the sauce in the ceramic bowl, and pours it over the steak. Then he picks up the steak and starts eating. The camera then pans to the river where two ducks are swimming, then back to the man eating steak."
+    },
+    {
+        "second": 51,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SICc3ls2Li0/output_frames/sec_51_idx_16.jpg",
+        "fps": 50,
+        "explanation": "[44-51] The man then uses a large knife to cut the steak into long strips, stirs the sauce in the ceramic bowl, and pours it over the steak. Then he picks up the steak and starts eating. The camera then pans to the river where two ducks are swimming, then back to the man eating steak."
+    },
+    {
+        "second": 52,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SICc3ls2Li0/output_frames/sec_52_idx_18.jpg",
+        "fps": 50,
+        "explanation": "[51-60] The camera then cuts back to the river, where one duck dives underwater and two birds forage for food on the bank. The man sits by the river and enjoys the scenery. The video ends with a shot of the setting sun."
+    },
+    {
+        "second": 53,
+        "frame_index": 34,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SICc3ls2Li0/output_frames/sec_53_idx_34.jpg",
+        "fps": 50,
+        "explanation": "[51-60] The camera then cuts back to the river, where one duck dives underwater and two birds forage for food on the bank. The man sits by the river and enjoys the scenery. The video ends with a shot of the setting sun."
+    },
+    {
+        "second": 54,
+        "frame_index": 47,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SICc3ls2Li0/output_frames/sec_54_idx_47.jpg",
+        "fps": 50,
+        "explanation": "[51-60] The camera then cuts back to the river, where one duck dives underwater and two birds forage for food on the bank. The man sits by the river and enjoys the scenery. The video ends with a shot of the setting sun."
+    },
+    {
+        "second": 55,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SICc3ls2Li0/output_frames/sec_55_idx_11.jpg",
+        "fps": 50,
+        "explanation": "[51-60] The camera then cuts back to the river, where one duck dives underwater and two birds forage for food on the bank. The man sits by the river and enjoys the scenery. The video ends with a shot of the setting sun."
+    },
+    {
+        "second": 56,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SICc3ls2Li0/output_frames/sec_56_idx_6.jpg",
+        "fps": 50,
+        "explanation": "[51-60] The camera then cuts back to the river, where one duck dives underwater and two birds forage for food on the bank. The man sits by the river and enjoys the scenery. The video ends with a shot of the setting sun."
+    },
+    {
+        "second": 57,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SICc3ls2Li0/output_frames/sec_57_idx_13.jpg",
+        "fps": 50,
+        "explanation": "[51-60] The camera then cuts back to the river, where one duck dives underwater and two birds forage for food on the bank. The man sits by the river and enjoys the scenery. The video ends with a shot of the setting sun."
+    },
+    {
+        "second": 58,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SICc3ls2Li0/output_frames/sec_58_idx_1.jpg",
+        "fps": 50,
+        "explanation": "[51-60] The camera then cuts back to the river, where one duck dives underwater and two birds forage for food on the bank. The man sits by the river and enjoys the scenery. The video ends with a shot of the setting sun."
+    },
+    {
+        "second": 59,
+        "frame_index": 24,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SICc3ls2Li0/output_frames/sec_59_idx_24.jpg",
+        "fps": 50,
+        "explanation": "[51-60] The camera then cuts back to the river, where one duck dives underwater and two birds forage for food on the bank. The man sits by the river and enjoys the scenery. The video ends with a shot of the setting sun."
+    }
+]

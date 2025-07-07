@@ -1,0 +1,65 @@
+[
+    {
+        "second": 0,
+        "frame_index": 42,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LLQ62EHPx_g/output_frames/sec_0_idx_42.jpg",
+        "fps": 60,
+        "explanation": "[0-0] On a sunny day, two young boys stand under a large tree, looking down at a line of ants marching in formation on the ground. One boy is wearing blue jeans and a black and white sports shirt, while the other boy is wearing a purple shirt and blue jeans. A cute pink kitten stands on a small hill in the distance, curiously watching them. The surrounding area is covered in green grass, dotted with bright orange flowers."
+    },
+    {
+        "second": 1,
+        "frame_index": 44,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LLQ62EHPx_g/output_frames/sec_1_idx_44.jpg",
+        "fps": 60,
+        "explanation": "[0-3] Then the boy in the black and white sports shirt and the boy in the purple shirt look up, following the line of ants upwards, their faces filled with curiosity and puzzlement, then they look up. Then the shot cuts to a round, orange bird perched on the trunk of the tree, pecking at the ants crawling upwards with relish."
+    },
+    {
+        "second": 2,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LLQ62EHPx_g/output_frames/sec_2_idx_3.jpg",
+        "fps": 60,
+        "explanation": "[0-3] Then the boy in the black and white sports shirt and the boy in the purple shirt look up, following the line of ants upwards, their faces filled with curiosity and puzzlement, then they look up. Then the shot cuts to a round, orange bird perched on the trunk of the tree, pecking at the ants crawling upwards with relish."
+    },
+    {
+        "second": 3,
+        "frame_index": 53,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LLQ62EHPx_g/output_frames/sec_3_idx_53.jpg",
+        "fps": 60,
+        "explanation": "[0-3] Then the boy in the black and white sports shirt and the boy in the purple shirt look up, following the line of ants upwards, their faces filled with curiosity and puzzlement, then they look up. Then the shot cuts to a round, orange bird perched on the trunk of the tree, pecking at the ants crawling upwards with relish."
+    },
+    {
+        "second": 4,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LLQ62EHPx_g/output_frames/sec_4_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[3-9] Then the two boys jump over the ant colony on the ground together and watch the ants on the ground. Then the boy in the purple shirt crouches down, stretches out his right hand, and moves one of the ants in the ant colony to the left. Then he sees the ants behind him all start to go to the left, no longer climbing up the tree. Then the two boys laugh happily, then raise their hands and clap their hands in celebration, then they turn and walk to the right together."
+    },
+    {
+        "second": 5,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LLQ62EHPx_g/output_frames/sec_5_idx_22.jpg",
+        "fps": 60,
+        "explanation": "[3-9] Then the two boys jump over the ant colony on the ground together and watch the ants on the ground. Then the boy in the purple shirt crouches down, stretches out his right hand, and moves one of the ants in the ant colony to the left. Then he sees the ants behind him all start to go to the left, no longer climbing up the tree. Then the two boys laugh happily, then raise their hands and clap their hands in celebration, then they turn and walk to the right together."
+    },
+    {
+        "second": 6,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LLQ62EHPx_g/output_frames/sec_6_idx_13.jpg",
+        "fps": 60,
+        "explanation": "[3-9] Then the two boys jump over the ant colony on the ground together and watch the ants on the ground. Then the boy in the purple shirt crouches down, stretches out his right hand, and moves one of the ants in the ant colony to the left. Then he sees the ants behind him all start to go to the left, no longer climbing up the tree. Then the two boys laugh happily, then raise their hands and clap their hands in celebration, then they turn and walk to the right together."
+    },
+    {
+        "second": 7,
+        "frame_index": 55,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LLQ62EHPx_g/output_frames/sec_7_idx_55.jpg",
+        "fps": 60,
+        "explanation": "[3-9] Then the two boys jump over the ant colony on the ground together and watch the ants on the ground. Then the boy in the purple shirt crouches down, stretches out his right hand, and moves one of the ants in the ant colony to the left. Then he sees the ants behind him all start to go to the left, no longer climbing up the tree. Then the two boys laugh happily, then raise their hands and clap their hands in celebration, then they turn and walk to the right together."
+    },
+    {
+        "second": 8,
+        "frame_index": 56,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/LLQ62EHPx_g/output_frames/sec_8_idx_56.jpg",
+        "fps": 60,
+        "explanation": "[3-9] Then the two boys jump over the ant colony on the ground together and watch the ants on the ground. Then the boy in the purple shirt crouches down, stretches out his right hand, and moves one of the ants in the ant colony to the left. Then he sees the ants behind him all start to go to the left, no longer climbing up the tree. Then the two boys laugh happily, then raise their hands and clap their hands in celebration, then they turn and walk to the right together."
+    }
+]

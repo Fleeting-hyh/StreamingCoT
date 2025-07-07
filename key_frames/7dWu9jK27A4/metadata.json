@@ -1,0 +1,212 @@
+[
+    {
+        "second": 0,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7dWu9jK27A4/output_frames/sec_0_idx_11.jpg",
+        "fps": 24,
+        "explanation": "[0-0] In an animated scene with a pink background, a little girl in a red dress is standing by a swing, holding a blue rabbit toy. There are trees and rock patterns in the background."
+    },
+    {
+        "second": 1,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7dWu9jK27A4/output_frames/sec_1_idx_18.jpg",
+        "fps": 24,
+        "explanation": "[0-3] Then the little girl walks to the swing, sits on it with a smile, and starts swinging."
+    },
+    {
+        "second": 2,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7dWu9jK27A4/output_frames/sec_2_idx_21.jpg",
+        "fps": 24,
+        "explanation": "[0-3] Then the little girl walks to the swing, sits on it with a smile, and starts swinging."
+    },
+    {
+        "second": 3,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7dWu9jK27A4/output_frames/sec_3_idx_14.jpg",
+        "fps": 24,
+        "explanation": "[0-3] Then the little girl walks to the swing, sits on it with a smile, and starts swinging."
+    },
+    {
+        "second": 4,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7dWu9jK27A4/output_frames/sec_4_idx_19.jpg",
+        "fps": 24,
+        "explanation": "[3-10] Subsequently, the little girl swings higher and higher. Reaching the highest point, her eyes widen, and she swings out of the frame."
+    },
+    {
+        "second": 5,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7dWu9jK27A4/output_frames/sec_5_idx_22.jpg",
+        "fps": 24,
+        "explanation": "[3-10] Subsequently, the little girl swings higher and higher. Reaching the highest point, her eyes widen, and she swings out of the frame."
+    },
+    {
+        "second": 6,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7dWu9jK27A4/output_frames/sec_6_idx_11.jpg",
+        "fps": 24,
+        "explanation": "[3-10] Subsequently, the little girl swings higher and higher. Reaching the highest point, her eyes widen, and she swings out of the frame."
+    },
+    {
+        "second": 7,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7dWu9jK27A4/output_frames/sec_7_idx_23.jpg",
+        "fps": 24,
+        "explanation": "[3-10] Subsequently, the little girl swings higher and higher. Reaching the highest point, her eyes widen, and she swings out of the frame."
+    },
+    {
+        "second": 8,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7dWu9jK27A4/output_frames/sec_8_idx_17.jpg",
+        "fps": 24,
+        "explanation": "[3-10] Subsequently, the little girl swings higher and higher. Reaching the highest point, her eyes widen, and she swings out of the frame."
+    },
+    {
+        "second": 9,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7dWu9jK27A4/output_frames/sec_9_idx_8.jpg",
+        "fps": 24,
+        "explanation": "[3-10] Subsequently, the little girl swings higher and higher. Reaching the highest point, her eyes widen, and she swings out of the frame."
+    },
+    {
+        "second": 10,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7dWu9jK27A4/output_frames/sec_10_idx_9.jpg",
+        "fps": 24,
+        "explanation": "[3-10] Subsequently, the little girl swings higher and higher. Reaching the highest point, her eyes widen, and she swings out of the frame."
+    },
+    {
+        "second": 11,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7dWu9jK27A4/output_frames/sec_11_idx_15.jpg",
+        "fps": 24,
+        "explanation": "[10-13] Then a little boy in a green outfit appears in the frame, holding a mobile phone, stopping to take a selfie."
+    },
+    {
+        "second": 12,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7dWu9jK27A4/output_frames/sec_12_idx_14.jpg",
+        "fps": 24,
+        "explanation": "[10-13] Then a little boy in a green outfit appears in the frame, holding a mobile phone, stopping to take a selfie."
+    },
+    {
+        "second": 13,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7dWu9jK27A4/output_frames/sec_13_idx_8.jpg",
+        "fps": 24,
+        "explanation": "[10-13] Then a little boy in a green outfit appears in the frame, holding a mobile phone, stopping to take a selfie."
+    },
+    {
+        "second": 14,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7dWu9jK27A4/output_frames/sec_14_idx_18.jpg",
+        "fps": 24,
+        "explanation": "[13-15] Next, the little girl swings down from behind the boy, carrying the boy along as they both fly out of the frame."
+    },
+    {
+        "second": 15,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7dWu9jK27A4/output_frames/sec_15_idx_20.jpg",
+        "fps": 24,
+        "explanation": "[13-15] Next, the little girl swings down from behind the boy, carrying the boy along as they both fly out of the frame."
+    },
+    {
+        "second": 16,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7dWu9jK27A4/output_frames/sec_16_idx_1.jpg",
+        "fps": 24,
+        "explanation": "[15-21] Afterward, the swing comes to a stop with only the little boy left on it, still holding the blue rabbit toy. He then jumps off the swing, picks it up with his hand, looks under it, and takes out his phone with a smile."
+    },
+    {
+        "second": 17,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7dWu9jK27A4/output_frames/sec_17_idx_1.jpg",
+        "fps": 24,
+        "explanation": "[15-21] Afterward, the swing comes to a stop with only the little boy left on it, still holding the blue rabbit toy. He then jumps off the swing, picks it up with his hand, looks under it, and takes out his phone with a smile."
+    },
+    {
+        "second": 18,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7dWu9jK27A4/output_frames/sec_18_idx_7.jpg",
+        "fps": 24,
+        "explanation": "[15-21] Afterward, the swing comes to a stop with only the little boy left on it, still holding the blue rabbit toy. He then jumps off the swing, picks it up with his hand, looks under it, and takes out his phone with a smile."
+    },
+    {
+        "second": 19,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7dWu9jK27A4/output_frames/sec_19_idx_18.jpg",
+        "fps": 24,
+        "explanation": "[15-21] Afterward, the swing comes to a stop with only the little boy left on it, still holding the blue rabbit toy. He then jumps off the swing, picks it up with his hand, looks under it, and takes out his phone with a smile."
+    },
+    {
+        "second": 20,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7dWu9jK27A4/output_frames/sec_20_idx_23.jpg",
+        "fps": 24,
+        "explanation": "[15-21] Afterward, the swing comes to a stop with only the little boy left on it, still holding the blue rabbit toy. He then jumps off the swing, picks it up with his hand, looks under it, and takes out his phone with a smile."
+    },
+    {
+        "second": 21,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7dWu9jK27A4/output_frames/sec_21_idx_21.jpg",
+        "fps": 24,
+        "explanation": "[15-21] Afterward, the swing comes to a stop with only the little boy left on it, still holding the blue rabbit toy. He then jumps off the swing, picks it up with his hand, looks under it, and takes out his phone with a smile."
+    },
+    {
+        "second": 22,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7dWu9jK27A4/output_frames/sec_22_idx_14.jpg",
+        "fps": 24,
+        "explanation": "[21-23] At this moment, the little girl falls from the sky, the boy is crushed to the ground, the rabbit toy returns to the girl's hand, and the girl takes a selfie with her other hand."
+    },
+    {
+        "second": 23,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7dWu9jK27A4/output_frames/sec_23_idx_15.jpg",
+        "fps": 24,
+        "explanation": "[21-23] At this moment, the little girl falls from the sky, the boy is crushed to the ground, the rabbit toy returns to the girl's hand, and the girl takes a selfie with her other hand."
+    },
+    {
+        "second": 24,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7dWu9jK27A4/output_frames/sec_24_idx_1.jpg",
+        "fps": 24,
+        "explanation": "[23-25] After that, the girl stands up, hands the phone to the boy, and walks away. The boy reaches out a hand to take the phone and takes a selfie."
+    },
+    {
+        "second": 25,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7dWu9jK27A4/output_frames/sec_25_idx_14.jpg",
+        "fps": 24,
+        "explanation": "[23-25] After that, the girl stands up, hands the phone to the boy, and walks away. The boy reaches out a hand to take the phone and takes a selfie."
+    },
+    {
+        "second": 26,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7dWu9jK27A4/output_frames/sec_26_idx_2.jpg",
+        "fps": 24,
+        "explanation": "[25-30] Finally, the screen turns pink, with the little girl holding the rabbit toy, laughing happily. The words \"M\u00f4nica Ty\" appear on the screen."
+    },
+    {
+        "second": 27,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7dWu9jK27A4/output_frames/sec_27_idx_20.jpg",
+        "fps": 24,
+        "explanation": "[25-30] Finally, the screen turns pink, with the little girl holding the rabbit toy, laughing happily. The words \"M\u00f4nica Ty\" appear on the screen."
+    },
+    {
+        "second": 28,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7dWu9jK27A4/output_frames/sec_28_idx_6.jpg",
+        "fps": 24,
+        "explanation": "[25-30] Finally, the screen turns pink, with the little girl holding the rabbit toy, laughing happily. The words \"M\u00f4nica Ty\" appear on the screen."
+    },
+    {
+        "second": 29,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/7dWu9jK27A4/output_frames/sec_29_idx_0.jpg",
+        "fps": 24,
+        "explanation": "[25-30] Finally, the screen turns pink, with the little girl holding the rabbit toy, laughing happily. The words \"M\u00f4nica Ty\" appear on the screen."
+    }
+]

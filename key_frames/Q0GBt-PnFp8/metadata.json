@@ -1,0 +1,72 @@
+[
+    {
+        "second": 0,
+        "frame_index": 25,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Q0GBt-PnFp8/output_frames/sec_0_idx_25.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A young boy with a grey towel draped around him is sitting. Next to him, a barber in a brown shirt holds a razor, resting it near the boy's eyebrow."
+    },
+    {
+        "second": 1,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Q0GBt-PnFp8/output_frames/sec_1_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[0-9] The boy then bends over and sneezes, followed by two other boys bending over and sneezing as well. As the last boy sits up, he is accidentally cut by the razor on his eyebrow. The boy looks at the barber, and both make surprised expressions."
+    },
+    {
+        "second": 2,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Q0GBt-PnFp8/output_frames/sec_2_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[0-9] The boy then bends over and sneezes, followed by two other boys bending over and sneezing as well. As the last boy sits up, he is accidentally cut by the razor on his eyebrow. The boy looks at the barber, and both make surprised expressions."
+    },
+    {
+        "second": 3,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Q0GBt-PnFp8/output_frames/sec_3_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[0-9] The boy then bends over and sneezes, followed by two other boys bending over and sneezing as well. As the last boy sits up, he is accidentally cut by the razor on his eyebrow. The boy looks at the barber, and both make surprised expressions."
+    },
+    {
+        "second": 4,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Q0GBt-PnFp8/output_frames/sec_4_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[0-9] The boy then bends over and sneezes, followed by two other boys bending over and sneezing as well. As the last boy sits up, he is accidentally cut by the razor on his eyebrow. The boy looks at the barber, and both make surprised expressions."
+    },
+    {
+        "second": 5,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Q0GBt-PnFp8/output_frames/sec_5_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[0-9] The boy then bends over and sneezes, followed by two other boys bending over and sneezing as well. As the last boy sits up, he is accidentally cut by the razor on his eyebrow. The boy looks at the barber, and both make surprised expressions."
+    },
+    {
+        "second": 6,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Q0GBt-PnFp8/output_frames/sec_6_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[0-9] The boy then bends over and sneezes, followed by two other boys bending over and sneezing as well. As the last boy sits up, he is accidentally cut by the razor on his eyebrow. The boy looks at the barber, and both make surprised expressions."
+    },
+    {
+        "second": 7,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Q0GBt-PnFp8/output_frames/sec_7_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[0-9] The boy then bends over and sneezes, followed by two other boys bending over and sneezing as well. As the last boy sits up, he is accidentally cut by the razor on his eyebrow. The boy looks at the barber, and both make surprised expressions."
+    },
+    {
+        "second": 8,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Q0GBt-PnFp8/output_frames/sec_8_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[0-9] The boy then bends over and sneezes, followed by two other boys bending over and sneezing as well. As the last boy sits up, he is accidentally cut by the razor on his eyebrow. The boy looks at the barber, and both make surprised expressions."
+    },
+    {
+        "second": 9,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/Q0GBt-PnFp8/output_frames/sec_9_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[0-9] The boy then bends over and sneezes, followed by two other boys bending over and sneezing as well. As the last boy sits up, he is accidentally cut by the razor on his eyebrow. The boy looks at the barber, and both make surprised expressions."
+    }
+]

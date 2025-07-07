@@ -1,0 +1,30 @@
+[
+    {
+        "second": 0,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S6TBJY77Q1c/output_frames/sec_0_idx_3.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A woman and a man are squatting on either side of a little girl who is sitting on a small stool. The woman is wearing a burgundy top and the man is wearing a yellow T-shirt. Each of them is holding a balloon, the balloons are at the girl's feet, the woman is holding a red balloon in her hand and the man is holding a blue balloon in his hand, all three of them have smiles on their faces."
+    },
+    {
+        "second": 1,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S6TBJY77Q1c/output_frames/sec_1_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Then the woman and the man press the girl's feet, and the red balloon is successfully wrapped around the girl's foot, while the blue balloon fails."
+    },
+    {
+        "second": 2,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S6TBJY77Q1c/output_frames/sec_2_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Then the woman and the man press the girl's feet, and the red balloon is successfully wrapped around the girl's foot, while the blue balloon fails."
+    },
+    {
+        "second": 3,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/S6TBJY77Q1c/output_frames/sec_3_idx_11.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Then the woman and the man press the girl's feet, and the red balloon is successfully wrapped around the girl's foot, while the blue balloon fails."
+    }
+]

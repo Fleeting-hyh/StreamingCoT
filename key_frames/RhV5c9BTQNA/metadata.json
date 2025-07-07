@@ -1,0 +1,247 @@
+[
+    {
+        "second": 0,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RhV5c9BTQNA/output_frames/sec_0_idx_19.jpg",
+        "fps": 60,
+        "explanation": "[0-0] A person holds a white coffee cup in their left hand and a spoon with chocolate in their right hand. On the table, there is a green ceramic bowl filled with chopped hazelnuts, and in the upper left corner, an open coffee bean bottle with a few beans scattered on the table."
+    },
+    {
+        "second": 1,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RhV5c9BTQNA/output_frames/sec_1_idx_19.jpg",
+        "fps": 60,
+        "explanation": "[0-4] The left hand rotates the cup, while the right hand evenly spreads the chocolate from the spoon onto the inner wall of the white cup. Then, the right hand takes a spoonful of chopped hazelnuts and sprinkles them evenly over the chocolate."
+    },
+    {
+        "second": 2,
+        "frame_index": 45,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RhV5c9BTQNA/output_frames/sec_2_idx_45.jpg",
+        "fps": 60,
+        "explanation": "[0-4] The left hand rotates the cup, while the right hand evenly spreads the chocolate from the spoon onto the inner wall of the white cup. Then, the right hand takes a spoonful of chopped hazelnuts and sprinkles them evenly over the chocolate."
+    },
+    {
+        "second": 3,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RhV5c9BTQNA/output_frames/sec_3_idx_10.jpg",
+        "fps": 60,
+        "explanation": "[0-4] The left hand rotates the cup, while the right hand evenly spreads the chocolate from the spoon onto the inner wall of the white cup. Then, the right hand takes a spoonful of chopped hazelnuts and sprinkles them evenly over the chocolate."
+    },
+    {
+        "second": 4,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RhV5c9BTQNA/output_frames/sec_4_idx_7.jpg",
+        "fps": 60,
+        "explanation": "[0-4] The left hand rotates the cup, while the right hand evenly spreads the chocolate from the spoon onto the inner wall of the white cup. Then, the right hand takes a spoonful of chopped hazelnuts and sprinkles them evenly over the chocolate."
+    },
+    {
+        "second": 5,
+        "frame_index": 32,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RhV5c9BTQNA/output_frames/sec_5_idx_32.jpg",
+        "fps": 60,
+        "explanation": "[4-14] Next, a hand places a portafilter filled with coffee powder onto a machine. Then, a round tool is placed on top of the portafilter. The right hand, holding a needle, stirs the coffee powder and then squats down to remove the round tool. The right hand takes a distributor, places it on the portafilter, rotates it a few times, and removes it. Then, a tamper is taken and pressed down on the portafilter. Finally, the right hand picks up the portafilter and secures it onto the coffee machine."
+    },
+    {
+        "second": 6,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RhV5c9BTQNA/output_frames/sec_6_idx_28.jpg",
+        "fps": 60,
+        "explanation": "[4-14] Next, a hand places a portafilter filled with coffee powder onto a machine. Then, a round tool is placed on top of the portafilter. The right hand, holding a needle, stirs the coffee powder and then squats down to remove the round tool. The right hand takes a distributor, places it on the portafilter, rotates it a few times, and removes it. Then, a tamper is taken and pressed down on the portafilter. Finally, the right hand picks up the portafilter and secures it onto the coffee machine."
+    },
+    {
+        "second": 7,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RhV5c9BTQNA/output_frames/sec_7_idx_28.jpg",
+        "fps": 60,
+        "explanation": "[4-14] Next, a hand places a portafilter filled with coffee powder onto a machine. Then, a round tool is placed on top of the portafilter. The right hand, holding a needle, stirs the coffee powder and then squats down to remove the round tool. The right hand takes a distributor, places it on the portafilter, rotates it a few times, and removes it. Then, a tamper is taken and pressed down on the portafilter. Finally, the right hand picks up the portafilter and secures it onto the coffee machine."
+    },
+    {
+        "second": 8,
+        "frame_index": 52,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RhV5c9BTQNA/output_frames/sec_8_idx_52.jpg",
+        "fps": 60,
+        "explanation": "[4-14] Next, a hand places a portafilter filled with coffee powder onto a machine. Then, a round tool is placed on top of the portafilter. The right hand, holding a needle, stirs the coffee powder and then squats down to remove the round tool. The right hand takes a distributor, places it on the portafilter, rotates it a few times, and removes it. Then, a tamper is taken and pressed down on the portafilter. Finally, the right hand picks up the portafilter and secures it onto the coffee machine."
+    },
+    {
+        "second": 9,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RhV5c9BTQNA/output_frames/sec_9_idx_27.jpg",
+        "fps": 60,
+        "explanation": "[4-14] Next, a hand places a portafilter filled with coffee powder onto a machine. Then, a round tool is placed on top of the portafilter. The right hand, holding a needle, stirs the coffee powder and then squats down to remove the round tool. The right hand takes a distributor, places it on the portafilter, rotates it a few times, and removes it. Then, a tamper is taken and pressed down on the portafilter. Finally, the right hand picks up the portafilter and secures it onto the coffee machine."
+    },
+    {
+        "second": 10,
+        "frame_index": 38,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RhV5c9BTQNA/output_frames/sec_10_idx_38.jpg",
+        "fps": 60,
+        "explanation": "[4-14] Next, a hand places a portafilter filled with coffee powder onto a machine. Then, a round tool is placed on top of the portafilter. The right hand, holding a needle, stirs the coffee powder and then squats down to remove the round tool. The right hand takes a distributor, places it on the portafilter, rotates it a few times, and removes it. Then, a tamper is taken and pressed down on the portafilter. Finally, the right hand picks up the portafilter and secures it onto the coffee machine."
+    },
+    {
+        "second": 11,
+        "frame_index": 56,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RhV5c9BTQNA/output_frames/sec_11_idx_56.jpg",
+        "fps": 60,
+        "explanation": "[4-14] Next, a hand places a portafilter filled with coffee powder onto a machine. Then, a round tool is placed on top of the portafilter. The right hand, holding a needle, stirs the coffee powder and then squats down to remove the round tool. The right hand takes a distributor, places it on the portafilter, rotates it a few times, and removes it. Then, a tamper is taken and pressed down on the portafilter. Finally, the right hand picks up the portafilter and secures it onto the coffee machine."
+    },
+    {
+        "second": 12,
+        "frame_index": 46,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RhV5c9BTQNA/output_frames/sec_12_idx_46.jpg",
+        "fps": 60,
+        "explanation": "[4-14] Next, a hand places a portafilter filled with coffee powder onto a machine. Then, a round tool is placed on top of the portafilter. The right hand, holding a needle, stirs the coffee powder and then squats down to remove the round tool. The right hand takes a distributor, places it on the portafilter, rotates it a few times, and removes it. Then, a tamper is taken and pressed down on the portafilter. Finally, the right hand picks up the portafilter and secures it onto the coffee machine."
+    },
+    {
+        "second": 13,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RhV5c9BTQNA/output_frames/sec_13_idx_17.jpg",
+        "fps": 60,
+        "explanation": "[4-14] Next, a hand places a portafilter filled with coffee powder onto a machine. Then, a round tool is placed on top of the portafilter. The right hand, holding a needle, stirs the coffee powder and then squats down to remove the round tool. The right hand takes a distributor, places it on the portafilter, rotates it a few times, and removes it. Then, a tamper is taken and pressed down on the portafilter. Finally, the right hand picks up the portafilter and secures it onto the coffee machine."
+    },
+    {
+        "second": 14,
+        "frame_index": 56,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RhV5c9BTQNA/output_frames/sec_14_idx_56.jpg",
+        "fps": 60,
+        "explanation": "[4-14] Next, a hand places a portafilter filled with coffee powder onto a machine. Then, a round tool is placed on top of the portafilter. The right hand, holding a needle, stirs the coffee powder and then squats down to remove the round tool. The right hand takes a distributor, places it on the portafilter, rotates it a few times, and removes it. Then, a tamper is taken and pressed down on the portafilter. Finally, the right hand picks up the portafilter and secures it onto the coffee machine."
+    },
+    {
+        "second": 15,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RhV5c9BTQNA/output_frames/sec_15_idx_12.jpg",
+        "fps": 60,
+        "explanation": "[14-24] The white coffee cup, previously coated with chocolate, is placed on the drip tray, and coffee flows into the cup. The scene then switches to a hand holding a container of milk, which is placed under a milk frother and frothed until it overflows."
+    },
+    {
+        "second": 16,
+        "frame_index": 57,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RhV5c9BTQNA/output_frames/sec_16_idx_57.jpg",
+        "fps": 60,
+        "explanation": "[14-24] The white coffee cup, previously coated with chocolate, is placed on the drip tray, and coffee flows into the cup. The scene then switches to a hand holding a container of milk, which is placed under a milk frother and frothed until it overflows."
+    },
+    {
+        "second": 17,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RhV5c9BTQNA/output_frames/sec_17_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[14-24] The white coffee cup, previously coated with chocolate, is placed on the drip tray, and coffee flows into the cup. The scene then switches to a hand holding a container of milk, which is placed under a milk frother and frothed until it overflows."
+    },
+    {
+        "second": 18,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RhV5c9BTQNA/output_frames/sec_18_idx_1.jpg",
+        "fps": 60,
+        "explanation": "[14-24] The white coffee cup, previously coated with chocolate, is placed on the drip tray, and coffee flows into the cup. The scene then switches to a hand holding a container of milk, which is placed under a milk frother and frothed until it overflows."
+    },
+    {
+        "second": 19,
+        "frame_index": 42,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RhV5c9BTQNA/output_frames/sec_19_idx_42.jpg",
+        "fps": 60,
+        "explanation": "[14-24] The white coffee cup, previously coated with chocolate, is placed on the drip tray, and coffee flows into the cup. The scene then switches to a hand holding a container of milk, which is placed under a milk frother and frothed until it overflows."
+    },
+    {
+        "second": 20,
+        "frame_index": 35,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RhV5c9BTQNA/output_frames/sec_20_idx_35.jpg",
+        "fps": 60,
+        "explanation": "[14-24] The white coffee cup, previously coated with chocolate, is placed on the drip tray, and coffee flows into the cup. The scene then switches to a hand holding a container of milk, which is placed under a milk frother and frothed until it overflows."
+    },
+    {
+        "second": 21,
+        "frame_index": 54,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RhV5c9BTQNA/output_frames/sec_21_idx_54.jpg",
+        "fps": 60,
+        "explanation": "[14-24] The white coffee cup, previously coated with chocolate, is placed on the drip tray, and coffee flows into the cup. The scene then switches to a hand holding a container of milk, which is placed under a milk frother and frothed until it overflows."
+    },
+    {
+        "second": 22,
+        "frame_index": 54,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RhV5c9BTQNA/output_frames/sec_22_idx_54.jpg",
+        "fps": 60,
+        "explanation": "[14-24] The white coffee cup, previously coated with chocolate, is placed on the drip tray, and coffee flows into the cup. The scene then switches to a hand holding a container of milk, which is placed under a milk frother and frothed until it overflows."
+    },
+    {
+        "second": 23,
+        "frame_index": 32,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RhV5c9BTQNA/output_frames/sec_23_idx_32.jpg",
+        "fps": 60,
+        "explanation": "[14-24] The white coffee cup, previously coated with chocolate, is placed on the drip tray, and coffee flows into the cup. The scene then switches to a hand holding a container of milk, which is placed under a milk frother and frothed until it overflows."
+    },
+    {
+        "second": 24,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RhV5c9BTQNA/output_frames/sec_24_idx_29.jpg",
+        "fps": 60,
+        "explanation": "[14-24] The white coffee cup, previously coated with chocolate, is placed on the drip tray, and coffee flows into the cup. The scene then switches to a hand holding a container of milk, which is placed under a milk frother and frothed until it overflows."
+    },
+    {
+        "second": 25,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RhV5c9BTQNA/output_frames/sec_25_idx_5.jpg",
+        "fps": 60,
+        "explanation": "[24-34] The right hand then picks up the cup of milk and moves it up and down, shaking the cup to pour the milk into the coffee cup, creating a white heart shape. The coffee cup is placed on the table, and a spoon scoops up a spoonful of hazelnuts from the green bowl and places them on the side of the coffee cup. Finally, khaki-colored food, a coffee bean, and a green leaf are added to the hazelnuts as decoration."
+    },
+    {
+        "second": 26,
+        "frame_index": 42,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RhV5c9BTQNA/output_frames/sec_26_idx_42.jpg",
+        "fps": 60,
+        "explanation": "[24-34] The right hand then picks up the cup of milk and moves it up and down, shaking the cup to pour the milk into the coffee cup, creating a white heart shape. The coffee cup is placed on the table, and a spoon scoops up a spoonful of hazelnuts from the green bowl and places them on the side of the coffee cup. Finally, khaki-colored food, a coffee bean, and a green leaf are added to the hazelnuts as decoration."
+    },
+    {
+        "second": 27,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RhV5c9BTQNA/output_frames/sec_27_idx_4.jpg",
+        "fps": 60,
+        "explanation": "[24-34] The right hand then picks up the cup of milk and moves it up and down, shaking the cup to pour the milk into the coffee cup, creating a white heart shape. The coffee cup is placed on the table, and a spoon scoops up a spoonful of hazelnuts from the green bowl and places them on the side of the coffee cup. Finally, khaki-colored food, a coffee bean, and a green leaf are added to the hazelnuts as decoration."
+    },
+    {
+        "second": 28,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RhV5c9BTQNA/output_frames/sec_28_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[24-34] The right hand then picks up the cup of milk and moves it up and down, shaking the cup to pour the milk into the coffee cup, creating a white heart shape. The coffee cup is placed on the table, and a spoon scoops up a spoonful of hazelnuts from the green bowl and places them on the side of the coffee cup. Finally, khaki-colored food, a coffee bean, and a green leaf are added to the hazelnuts as decoration."
+    },
+    {
+        "second": 29,
+        "frame_index": 59,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RhV5c9BTQNA/output_frames/sec_29_idx_59.jpg",
+        "fps": 60,
+        "explanation": "[24-34] The right hand then picks up the cup of milk and moves it up and down, shaking the cup to pour the milk into the coffee cup, creating a white heart shape. The coffee cup is placed on the table, and a spoon scoops up a spoonful of hazelnuts from the green bowl and places them on the side of the coffee cup. Finally, khaki-colored food, a coffee bean, and a green leaf are added to the hazelnuts as decoration."
+    },
+    {
+        "second": 30,
+        "frame_index": 59,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RhV5c9BTQNA/output_frames/sec_30_idx_59.jpg",
+        "fps": 60,
+        "explanation": "[24-34] The right hand then picks up the cup of milk and moves it up and down, shaking the cup to pour the milk into the coffee cup, creating a white heart shape. The coffee cup is placed on the table, and a spoon scoops up a spoonful of hazelnuts from the green bowl and places them on the side of the coffee cup. Finally, khaki-colored food, a coffee bean, and a green leaf are added to the hazelnuts as decoration."
+    },
+    {
+        "second": 31,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RhV5c9BTQNA/output_frames/sec_31_idx_6.jpg",
+        "fps": 60,
+        "explanation": "[24-34] The right hand then picks up the cup of milk and moves it up and down, shaking the cup to pour the milk into the coffee cup, creating a white heart shape. The coffee cup is placed on the table, and a spoon scoops up a spoonful of hazelnuts from the green bowl and places them on the side of the coffee cup. Finally, khaki-colored food, a coffee bean, and a green leaf are added to the hazelnuts as decoration."
+    },
+    {
+        "second": 32,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RhV5c9BTQNA/output_frames/sec_32_idx_3.jpg",
+        "fps": 60,
+        "explanation": "[24-34] The right hand then picks up the cup of milk and moves it up and down, shaking the cup to pour the milk into the coffee cup, creating a white heart shape. The coffee cup is placed on the table, and a spoon scoops up a spoonful of hazelnuts from the green bowl and places them on the side of the coffee cup. Finally, khaki-colored food, a coffee bean, and a green leaf are added to the hazelnuts as decoration."
+    },
+    {
+        "second": 33,
+        "frame_index": 45,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RhV5c9BTQNA/output_frames/sec_33_idx_45.jpg",
+        "fps": 60,
+        "explanation": "[24-34] The right hand then picks up the cup of milk and moves it up and down, shaking the cup to pour the milk into the coffee cup, creating a white heart shape. The coffee cup is placed on the table, and a spoon scoops up a spoonful of hazelnuts from the green bowl and places them on the side of the coffee cup. Finally, khaki-colored food, a coffee bean, and a green leaf are added to the hazelnuts as decoration."
+    },
+    {
+        "second": 34,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RhV5c9BTQNA/output_frames/sec_34_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[24-34] The right hand then picks up the cup of milk and moves it up and down, shaking the cup to pour the milk into the coffee cup, creating a white heart shape. The coffee cup is placed on the table, and a spoon scoops up a spoonful of hazelnuts from the green bowl and places them on the side of the coffee cup. Finally, khaki-colored food, a coffee bean, and a green leaf are added to the hazelnuts as decoration."
+    }
+]

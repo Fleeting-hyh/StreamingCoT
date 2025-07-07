@@ -1,0 +1,72 @@
+[
+    {
+        "second": 0,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/04ciWaVMeg4/output_frames/sec_0_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A person in a Spiderman costume stands at the edge of a dock, arms raised forward, facing the sea."
+    },
+    {
+        "second": 1,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/04ciWaVMeg4/output_frames/sec_1_idx_5.jpg",
+        "fps": 30,
+        "explanation": "[0-9] The person in the Spiderman costume jumps up, leans back with arms outstretched, then bends their knees and grabs their legs with their hands. They flip over and fall into the water, creating a splash. The person in the Spiderman costume emerges from the water, shaking their head. There are other people in the water, and a red floatation device."
+    },
+    {
+        "second": 2,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/04ciWaVMeg4/output_frames/sec_2_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[0-9] The person in the Spiderman costume jumps up, leans back with arms outstretched, then bends their knees and grabs their legs with their hands. They flip over and fall into the water, creating a splash. The person in the Spiderman costume emerges from the water, shaking their head. There are other people in the water, and a red floatation device."
+    },
+    {
+        "second": 3,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/04ciWaVMeg4/output_frames/sec_3_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-9] The person in the Spiderman costume jumps up, leans back with arms outstretched, then bends their knees and grabs their legs with their hands. They flip over and fall into the water, creating a splash. The person in the Spiderman costume emerges from the water, shaking their head. There are other people in the water, and a red floatation device."
+    },
+    {
+        "second": 4,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/04ciWaVMeg4/output_frames/sec_4_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[0-9] The person in the Spiderman costume jumps up, leans back with arms outstretched, then bends their knees and grabs their legs with their hands. They flip over and fall into the water, creating a splash. The person in the Spiderman costume emerges from the water, shaking their head. There are other people in the water, and a red floatation device."
+    },
+    {
+        "second": 5,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/04ciWaVMeg4/output_frames/sec_5_idx_22.jpg",
+        "fps": 30,
+        "explanation": "[0-9] The person in the Spiderman costume jumps up, leans back with arms outstretched, then bends their knees and grabs their legs with their hands. They flip over and fall into the water, creating a splash. The person in the Spiderman costume emerges from the water, shaking their head. There are other people in the water, and a red floatation device."
+    },
+    {
+        "second": 6,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/04ciWaVMeg4/output_frames/sec_6_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-9] The person in the Spiderman costume jumps up, leans back with arms outstretched, then bends their knees and grabs their legs with their hands. They flip over and fall into the water, creating a splash. The person in the Spiderman costume emerges from the water, shaking their head. There are other people in the water, and a red floatation device."
+    },
+    {
+        "second": 7,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/04ciWaVMeg4/output_frames/sec_7_idx_4.jpg",
+        "fps": 30,
+        "explanation": "[0-9] The person in the Spiderman costume jumps up, leans back with arms outstretched, then bends their knees and grabs their legs with their hands. They flip over and fall into the water, creating a splash. The person in the Spiderman costume emerges from the water, shaking their head. There are other people in the water, and a red floatation device."
+    },
+    {
+        "second": 8,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/04ciWaVMeg4/output_frames/sec_8_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[0-9] The person in the Spiderman costume jumps up, leans back with arms outstretched, then bends their knees and grabs their legs with their hands. They flip over and fall into the water, creating a splash. The person in the Spiderman costume emerges from the water, shaking their head. There are other people in the water, and a red floatation device."
+    },
+    {
+        "second": 9,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/04ciWaVMeg4/output_frames/sec_9_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[0-9] The person in the Spiderman costume jumps up, leans back with arms outstretched, then bends their knees and grabs their legs with their hands. They flip over and fall into the water, creating a splash. The person in the Spiderman costume emerges from the water, shaking their head. There are other people in the water, and a red floatation device."
+    }
+]

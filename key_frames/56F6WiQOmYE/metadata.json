@@ -1,0 +1,65 @@
+[
+    {
+        "second": 0,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/56F6WiQOmYE/output_frames/sec_0_idx_0.jpg",
+        "fps": 50,
+        "explanation": "[0-0] A Kinder Surprise egg is placed on an indoor wooden floor, with a black cabinet in the background."
+    },
+    {
+        "second": 1,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/56F6WiQOmYE/output_frames/sec_1_idx_9.jpg",
+        "fps": 50,
+        "explanation": "[0-3] Then a foot wearing a clear high-heeled boot with yellow stockings and exposing green toe socks is stepping on a Kinder Surprise egg. The high heel steadily steps on the Kinder Surprise egg, slightly denting the shell. The high heel continues to apply pressure, further deforming the Kinder Surprise egg's shell. The high heel suddenly exerts force, crushing the Kinder Surprise egg, splattering chocolate and the toy inside. Then a purple plush toy is placed on the wooden floor, and the high heel steps on the purple plush toy, flattening it."
+    },
+    {
+        "second": 2,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/56F6WiQOmYE/output_frames/sec_2_idx_19.jpg",
+        "fps": 50,
+        "explanation": "[0-3] Then a foot wearing a clear high-heeled boot with yellow stockings and exposing green toe socks is stepping on a Kinder Surprise egg. The high heel steadily steps on the Kinder Surprise egg, slightly denting the shell. The high heel continues to apply pressure, further deforming the Kinder Surprise egg's shell. The high heel suddenly exerts force, crushing the Kinder Surprise egg, splattering chocolate and the toy inside. Then a purple plush toy is placed on the wooden floor, and the high heel steps on the purple plush toy, flattening it."
+    },
+    {
+        "second": 3,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/56F6WiQOmYE/output_frames/sec_3_idx_16.jpg",
+        "fps": 50,
+        "explanation": "[0-3] Then a foot wearing a clear high-heeled boot with yellow stockings and exposing green toe socks is stepping on a Kinder Surprise egg. The high heel steadily steps on the Kinder Surprise egg, slightly denting the shell. The high heel continues to apply pressure, further deforming the Kinder Surprise egg's shell. The high heel suddenly exerts force, crushing the Kinder Surprise egg, splattering chocolate and the toy inside. Then a purple plush toy is placed on the wooden floor, and the high heel steps on the purple plush toy, flattening it."
+    },
+    {
+        "second": 4,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/56F6WiQOmYE/output_frames/sec_4_idx_3.jpg",
+        "fps": 50,
+        "explanation": "[3-6] Subsequently, an egg-shaped chocolate is placed on the wooden floor, and the high heel steps on the chocolate, crushing it. Then a yellow plastic egg is placed on the wooden floor, and the high heel steps on the yellow plastic egg, crushing it, and the colorful candies inside scatter out."
+    },
+    {
+        "second": 5,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/56F6WiQOmYE/output_frames/sec_5_idx_10.jpg",
+        "fps": 50,
+        "explanation": "[3-6] Subsequently, an egg-shaped chocolate is placed on the wooden floor, and the high heel steps on the chocolate, crushing it. Then a yellow plastic egg is placed on the wooden floor, and the high heel steps on the yellow plastic egg, crushing it, and the colorful candies inside scatter out."
+    },
+    {
+        "second": 6,
+        "frame_index": 33,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/56F6WiQOmYE/output_frames/sec_6_idx_33.jpg",
+        "fps": 50,
+        "explanation": "[3-6] Subsequently, an egg-shaped chocolate is placed on the wooden floor, and the high heel steps on the chocolate, crushing it. Then a yellow plastic egg is placed on the wooden floor, and the high heel steps on the yellow plastic egg, crushing it, and the colorful candies inside scatter out."
+    },
+    {
+        "second": 7,
+        "frame_index": 38,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/56F6WiQOmYE/output_frames/sec_7_idx_38.jpg",
+        "fps": 50,
+        "explanation": "[6-8] Finally, a pack of Skittles is placed on the wooden floor, and the high heel steps on the Skittles bag, flattening it."
+    },
+    {
+        "second": 8,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/56F6WiQOmYE/output_frames/sec_8_idx_5.jpg",
+        "fps": 50,
+        "explanation": "[6-8] Finally, a pack of Skittles is placed on the wooden floor, and the high heel steps on the Skittles bag, flattening it."
+    }
+]

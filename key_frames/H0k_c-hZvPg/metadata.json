@@ -1,0 +1,44 @@
+[
+    {
+        "second": 0,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/H0k_c-hZvPg/output_frames/sec_0_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A little boy with a shaved head, wearing yellow clothes, is lying on a bed in a bedroom with a black laptop beside him. Opposite the bed is a closed white door, and several yellow stars are decorated on the blue wall."
+    },
+    {
+        "second": 1,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/H0k_c-hZvPg/output_frames/sec_1_idx_2.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Then, a scary ghost in a white dress, with red stains on the dress and a frightening expression, pushes open the door and stands by the bed. The ghost then exits the room and closes the door. The little boy on the bed suddenly wakes up, lies on the other side of the bed, and starts typing on the laptop."
+    },
+    {
+        "second": 2,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/H0k_c-hZvPg/output_frames/sec_2_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[0-2] Then, a scary ghost in a white dress, with red stains on the dress and a frightening expression, pushes open the door and stands by the bed. The ghost then exits the room and closes the door. The little boy on the bed suddenly wakes up, lies on the other side of the bed, and starts typing on the laptop."
+    },
+    {
+        "second": 3,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/H0k_c-hZvPg/output_frames/sec_3_idx_21.jpg",
+        "fps": 30,
+        "explanation": "[2-5] Immediately, the ghost in the white dress pushes the door open again. At the same time, the little boy quickly puts the laptop back in place and lies down on the bed. Afterward, the ghost exits the room and closes the door. The boy quickly gets up again, lies on his stomach on the bed, and continues typing on the laptop. Then, the little boy quickly puts the laptop back in place and lies down on the bed again."
+    },
+    {
+        "second": 4,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/H0k_c-hZvPg/output_frames/sec_4_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[2-5] Immediately, the ghost in the white dress pushes the door open again. At the same time, the little boy quickly puts the laptop back in place and lies down on the bed. Afterward, the ghost exits the room and closes the door. The boy quickly gets up again, lies on his stomach on the bed, and continues typing on the laptop. Then, the little boy quickly puts the laptop back in place and lies down on the bed again."
+    },
+    {
+        "second": 5,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/H0k_c-hZvPg/output_frames/sec_5_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[2-5] Immediately, the ghost in the white dress pushes the door open again. At the same time, the little boy quickly puts the laptop back in place and lies down on the bed. Afterward, the ghost exits the room and closes the door. The boy quickly gets up again, lies on his stomach on the bed, and continues typing on the laptop. Then, the little boy quickly puts the laptop back in place and lies down on the bed again."
+    }
+]

@@ -1,0 +1,408 @@
+[
+    {
+        "second": 0,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5G5mqXvsKyU/output_frames/sec_0_idx_13.jpg",
+        "fps": 24,
+        "explanation": "[0-0] Against a blue background, an orange stick figure stands on black ground, holding a pixelated sword in its left hand."
+    },
+    {
+        "second": 1,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5G5mqXvsKyU/output_frames/sec_1_idx_1.jpg",
+        "fps": 24,
+        "explanation": "[0-10] Then, the orange figure walks to a black block with an open book on it. The figure raises the sword above its head, starts flipping through the book, tears out a page, and throws the sword away."
+    },
+    {
+        "second": 2,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5G5mqXvsKyU/output_frames/sec_2_idx_10.jpg",
+        "fps": 24,
+        "explanation": "[0-10] Then, the orange figure walks to a black block with an open book on it. The figure raises the sword above its head, starts flipping through the book, tears out a page, and throws the sword away."
+    },
+    {
+        "second": 3,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5G5mqXvsKyU/output_frames/sec_3_idx_2.jpg",
+        "fps": 24,
+        "explanation": "[0-10] Then, the orange figure walks to a black block with an open book on it. The figure raises the sword above its head, starts flipping through the book, tears out a page, and throws the sword away."
+    },
+    {
+        "second": 4,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5G5mqXvsKyU/output_frames/sec_4_idx_1.jpg",
+        "fps": 24,
+        "explanation": "[0-10] Then, the orange figure walks to a black block with an open book on it. The figure raises the sword above its head, starts flipping through the book, tears out a page, and throws the sword away."
+    },
+    {
+        "second": 5,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5G5mqXvsKyU/output_frames/sec_5_idx_7.jpg",
+        "fps": 24,
+        "explanation": "[0-10] Then, the orange figure walks to a black block with an open book on it. The figure raises the sword above its head, starts flipping through the book, tears out a page, and throws the sword away."
+    },
+    {
+        "second": 6,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5G5mqXvsKyU/output_frames/sec_6_idx_17.jpg",
+        "fps": 24,
+        "explanation": "[0-10] Then, the orange figure walks to a black block with an open book on it. The figure raises the sword above its head, starts flipping through the book, tears out a page, and throws the sword away."
+    },
+    {
+        "second": 7,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5G5mqXvsKyU/output_frames/sec_7_idx_18.jpg",
+        "fps": 24,
+        "explanation": "[0-10] Then, the orange figure walks to a black block with an open book on it. The figure raises the sword above its head, starts flipping through the book, tears out a page, and throws the sword away."
+    },
+    {
+        "second": 8,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5G5mqXvsKyU/output_frames/sec_8_idx_18.jpg",
+        "fps": 24,
+        "explanation": "[0-10] Then, the orange figure walks to a black block with an open book on it. The figure raises the sword above its head, starts flipping through the book, tears out a page, and throws the sword away."
+    },
+    {
+        "second": 9,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5G5mqXvsKyU/output_frames/sec_9_idx_0.jpg",
+        "fps": 24,
+        "explanation": "[0-10] Then, the orange figure walks to a black block with an open book on it. The figure raises the sword above its head, starts flipping through the book, tears out a page, and throws the sword away."
+    },
+    {
+        "second": 10,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5G5mqXvsKyU/output_frames/sec_10_idx_23.jpg",
+        "fps": 24,
+        "explanation": "[0-10] Then, the orange figure walks to a black block with an open book on it. The figure raises the sword above its head, starts flipping through the book, tears out a page, and throws the sword away."
+    },
+    {
+        "second": 11,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5G5mqXvsKyU/output_frames/sec_11_idx_12.jpg",
+        "fps": 24,
+        "explanation": "[10-13] Next, the orange figure walks away from the black block but suddenly returns to take the book."
+    },
+    {
+        "second": 12,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5G5mqXvsKyU/output_frames/sec_12_idx_6.jpg",
+        "fps": 24,
+        "explanation": "[10-13] Next, the orange figure walks away from the black block but suddenly returns to take the book."
+    },
+    {
+        "second": 13,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5G5mqXvsKyU/output_frames/sec_13_idx_7.jpg",
+        "fps": 24,
+        "explanation": "[10-13] Next, the orange figure walks away from the black block but suddenly returns to take the book."
+    },
+    {
+        "second": 14,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5G5mqXvsKyU/output_frames/sec_14_idx_11.jpg",
+        "fps": 24,
+        "explanation": "[13-23] Afterward, the scene switches to a red and a green figure walking forward together. The red figure raises its hands, a paper airplane flies over and gets stuck on its head. The red figure pulls out the airplane and walks over to see the orange figure folding a paper crane. The orange figure holds up the paper crane to show the red figure."
+    },
+    {
+        "second": 15,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5G5mqXvsKyU/output_frames/sec_15_idx_23.jpg",
+        "fps": 24,
+        "explanation": "[13-23] Afterward, the scene switches to a red and a green figure walking forward together. The red figure raises its hands, a paper airplane flies over and gets stuck on its head. The red figure pulls out the airplane and walks over to see the orange figure folding a paper crane. The orange figure holds up the paper crane to show the red figure."
+    },
+    {
+        "second": 16,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5G5mqXvsKyU/output_frames/sec_16_idx_6.jpg",
+        "fps": 24,
+        "explanation": "[13-23] Afterward, the scene switches to a red and a green figure walking forward together. The red figure raises its hands, a paper airplane flies over and gets stuck on its head. The red figure pulls out the airplane and walks over to see the orange figure folding a paper crane. The orange figure holds up the paper crane to show the red figure."
+    },
+    {
+        "second": 17,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5G5mqXvsKyU/output_frames/sec_17_idx_0.jpg",
+        "fps": 24,
+        "explanation": "[13-23] Afterward, the scene switches to a red and a green figure walking forward together. The red figure raises its hands, a paper airplane flies over and gets stuck on its head. The red figure pulls out the airplane and walks over to see the orange figure folding a paper crane. The orange figure holds up the paper crane to show the red figure."
+    },
+    {
+        "second": 18,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5G5mqXvsKyU/output_frames/sec_18_idx_22.jpg",
+        "fps": 24,
+        "explanation": "[13-23] Afterward, the scene switches to a red and a green figure walking forward together. The red figure raises its hands, a paper airplane flies over and gets stuck on its head. The red figure pulls out the airplane and walks over to see the orange figure folding a paper crane. The orange figure holds up the paper crane to show the red figure."
+    },
+    {
+        "second": 19,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5G5mqXvsKyU/output_frames/sec_19_idx_0.jpg",
+        "fps": 24,
+        "explanation": "[13-23] Afterward, the scene switches to a red and a green figure walking forward together. The red figure raises its hands, a paper airplane flies over and gets stuck on its head. The red figure pulls out the airplane and walks over to see the orange figure folding a paper crane. The orange figure holds up the paper crane to show the red figure."
+    },
+    {
+        "second": 20,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5G5mqXvsKyU/output_frames/sec_20_idx_15.jpg",
+        "fps": 24,
+        "explanation": "[13-23] Afterward, the scene switches to a red and a green figure walking forward together. The red figure raises its hands, a paper airplane flies over and gets stuck on its head. The red figure pulls out the airplane and walks over to see the orange figure folding a paper crane. The orange figure holds up the paper crane to show the red figure."
+    },
+    {
+        "second": 21,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5G5mqXvsKyU/output_frames/sec_21_idx_23.jpg",
+        "fps": 24,
+        "explanation": "[13-23] Afterward, the scene switches to a red and a green figure walking forward together. The red figure raises its hands, a paper airplane flies over and gets stuck on its head. The red figure pulls out the airplane and walks over to see the orange figure folding a paper crane. The orange figure holds up the paper crane to show the red figure."
+    },
+    {
+        "second": 22,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5G5mqXvsKyU/output_frames/sec_22_idx_0.jpg",
+        "fps": 24,
+        "explanation": "[13-23] Afterward, the scene switches to a red and a green figure walking forward together. The red figure raises its hands, a paper airplane flies over and gets stuck on its head. The red figure pulls out the airplane and walks over to see the orange figure folding a paper crane. The orange figure holds up the paper crane to show the red figure."
+    },
+    {
+        "second": 23,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5G5mqXvsKyU/output_frames/sec_23_idx_22.jpg",
+        "fps": 24,
+        "explanation": "[13-23] Afterward, the scene switches to a red and a green figure walking forward together. The red figure raises its hands, a paper airplane flies over and gets stuck on its head. The red figure pulls out the airplane and walks over to see the orange figure folding a paper crane. The orange figure holds up the paper crane to show the red figure."
+    },
+    {
+        "second": 24,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5G5mqXvsKyU/output_frames/sec_24_idx_9.jpg",
+        "fps": 24,
+        "explanation": "[23-33] Then, a paper crane flies up from the orange figure's head, sparkling with purple light. Immediately after, other paper cranes fly up and start spitting fire. The paper cranes fly away, and the orange figure stomps out the flames on the ground."
+    },
+    {
+        "second": 25,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5G5mqXvsKyU/output_frames/sec_25_idx_16.jpg",
+        "fps": 24,
+        "explanation": "[23-33] Then, a paper crane flies up from the orange figure's head, sparkling with purple light. Immediately after, other paper cranes fly up and start spitting fire. The paper cranes fly away, and the orange figure stomps out the flames on the ground."
+    },
+    {
+        "second": 26,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5G5mqXvsKyU/output_frames/sec_26_idx_10.jpg",
+        "fps": 24,
+        "explanation": "[23-33] Then, a paper crane flies up from the orange figure's head, sparkling with purple light. Immediately after, other paper cranes fly up and start spitting fire. The paper cranes fly away, and the orange figure stomps out the flames on the ground."
+    },
+    {
+        "second": 27,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5G5mqXvsKyU/output_frames/sec_27_idx_7.jpg",
+        "fps": 24,
+        "explanation": "[23-33] Then, a paper crane flies up from the orange figure's head, sparkling with purple light. Immediately after, other paper cranes fly up and start spitting fire. The paper cranes fly away, and the orange figure stomps out the flames on the ground."
+    },
+    {
+        "second": 28,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5G5mqXvsKyU/output_frames/sec_28_idx_1.jpg",
+        "fps": 24,
+        "explanation": "[23-33] Then, a paper crane flies up from the orange figure's head, sparkling with purple light. Immediately after, other paper cranes fly up and start spitting fire. The paper cranes fly away, and the orange figure stomps out the flames on the ground."
+    },
+    {
+        "second": 29,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5G5mqXvsKyU/output_frames/sec_29_idx_10.jpg",
+        "fps": 24,
+        "explanation": "[23-33] Then, a paper crane flies up from the orange figure's head, sparkling with purple light. Immediately after, other paper cranes fly up and start spitting fire. The paper cranes fly away, and the orange figure stomps out the flames on the ground."
+    },
+    {
+        "second": 30,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5G5mqXvsKyU/output_frames/sec_30_idx_14.jpg",
+        "fps": 24,
+        "explanation": "[23-33] Then, a paper crane flies up from the orange figure's head, sparkling with purple light. Immediately after, other paper cranes fly up and start spitting fire. The paper cranes fly away, and the orange figure stomps out the flames on the ground."
+    },
+    {
+        "second": 31,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5G5mqXvsKyU/output_frames/sec_31_idx_1.jpg",
+        "fps": 24,
+        "explanation": "[23-33] Then, a paper crane flies up from the orange figure's head, sparkling with purple light. Immediately after, other paper cranes fly up and start spitting fire. The paper cranes fly away, and the orange figure stomps out the flames on the ground."
+    },
+    {
+        "second": 32,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5G5mqXvsKyU/output_frames/sec_32_idx_15.jpg",
+        "fps": 24,
+        "explanation": "[23-33] Then, a paper crane flies up from the orange figure's head, sparkling with purple light. Immediately after, other paper cranes fly up and start spitting fire. The paper cranes fly away, and the orange figure stomps out the flames on the ground."
+    },
+    {
+        "second": 33,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5G5mqXvsKyU/output_frames/sec_33_idx_1.jpg",
+        "fps": 24,
+        "explanation": "[23-33] Then, a paper crane flies up from the orange figure's head, sparkling with purple light. Immediately after, other paper cranes fly up and start spitting fire. The paper cranes fly away, and the orange figure stomps out the flames on the ground."
+    },
+    {
+        "second": 34,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5G5mqXvsKyU/output_frames/sec_34_idx_5.jpg",
+        "fps": 24,
+        "explanation": "[33-39] After that, the red figure raises its hands, and the orange and red figures run to a wooden box. The orange figure throws out some things from the box, eventually finding some glass bottles."
+    },
+    {
+        "second": 35,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5G5mqXvsKyU/output_frames/sec_35_idx_7.jpg",
+        "fps": 24,
+        "explanation": "[33-39] After that, the red figure raises its hands, and the orange and red figures run to a wooden box. The orange figure throws out some things from the box, eventually finding some glass bottles."
+    },
+    {
+        "second": 36,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5G5mqXvsKyU/output_frames/sec_36_idx_21.jpg",
+        "fps": 24,
+        "explanation": "[33-39] After that, the red figure raises its hands, and the orange and red figures run to a wooden box. The orange figure throws out some things from the box, eventually finding some glass bottles."
+    },
+    {
+        "second": 37,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5G5mqXvsKyU/output_frames/sec_37_idx_4.jpg",
+        "fps": 24,
+        "explanation": "[33-39] After that, the red figure raises its hands, and the orange and red figures run to a wooden box. The orange figure throws out some things from the box, eventually finding some glass bottles."
+    },
+    {
+        "second": 38,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5G5mqXvsKyU/output_frames/sec_38_idx_13.jpg",
+        "fps": 24,
+        "explanation": "[33-39] After that, the red figure raises its hands, and the orange and red figures run to a wooden box. The orange figure throws out some things from the box, eventually finding some glass bottles."
+    },
+    {
+        "second": 39,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5G5mqXvsKyU/output_frames/sec_39_idx_22.jpg",
+        "fps": 24,
+        "explanation": "[33-39] After that, the red figure raises its hands, and the orange and red figures run to a wooden box. The orange figure throws out some things from the box, eventually finding some glass bottles."
+    },
+    {
+        "second": 40,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5G5mqXvsKyU/output_frames/sec_40_idx_7.jpg",
+        "fps": 24,
+        "explanation": "[39-46] Subsequently, a paper crane breathes fire, burning an Internet Explorer icon. The red figure then grabs a glass bottle, jumps up to catch a paper crane in the bottle, and closes the lid."
+    },
+    {
+        "second": 41,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5G5mqXvsKyU/output_frames/sec_41_idx_13.jpg",
+        "fps": 24,
+        "explanation": "[39-46] Subsequently, a paper crane breathes fire, burning an Internet Explorer icon. The red figure then grabs a glass bottle, jumps up to catch a paper crane in the bottle, and closes the lid."
+    },
+    {
+        "second": 42,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5G5mqXvsKyU/output_frames/sec_42_idx_6.jpg",
+        "fps": 24,
+        "explanation": "[39-46] Subsequently, a paper crane breathes fire, burning an Internet Explorer icon. The red figure then grabs a glass bottle, jumps up to catch a paper crane in the bottle, and closes the lid."
+    },
+    {
+        "second": 43,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5G5mqXvsKyU/output_frames/sec_43_idx_22.jpg",
+        "fps": 24,
+        "explanation": "[39-46] Subsequently, a paper crane breathes fire, burning an Internet Explorer icon. The red figure then grabs a glass bottle, jumps up to catch a paper crane in the bottle, and closes the lid."
+    },
+    {
+        "second": 44,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5G5mqXvsKyU/output_frames/sec_44_idx_9.jpg",
+        "fps": 24,
+        "explanation": "[39-46] Subsequently, a paper crane breathes fire, burning an Internet Explorer icon. The red figure then grabs a glass bottle, jumps up to catch a paper crane in the bottle, and closes the lid."
+    },
+    {
+        "second": 45,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5G5mqXvsKyU/output_frames/sec_45_idx_18.jpg",
+        "fps": 24,
+        "explanation": "[39-46] Subsequently, a paper crane breathes fire, burning an Internet Explorer icon. The red figure then grabs a glass bottle, jumps up to catch a paper crane in the bottle, and closes the lid."
+    },
+    {
+        "second": 46,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5G5mqXvsKyU/output_frames/sec_46_idx_4.jpg",
+        "fps": 24,
+        "explanation": "[39-46] Subsequently, a paper crane breathes fire, burning an Internet Explorer icon. The red figure then grabs a glass bottle, jumps up to catch a paper crane in the bottle, and closes the lid."
+    },
+    {
+        "second": 47,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5G5mqXvsKyU/output_frames/sec_47_idx_22.jpg",
+        "fps": 24,
+        "explanation": "[46-49] Then, the orange figure also catches a paper crane. One of the paper cranes emerges from behind the \"File Explorer\" icon but is captured by the red figure."
+    },
+    {
+        "second": 48,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5G5mqXvsKyU/output_frames/sec_48_idx_13.jpg",
+        "fps": 24,
+        "explanation": "[46-49] Then, the orange figure also catches a paper crane. One of the paper cranes emerges from behind the \"File Explorer\" icon but is captured by the red figure."
+    },
+    {
+        "second": 49,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5G5mqXvsKyU/output_frames/sec_49_idx_0.jpg",
+        "fps": 24,
+        "explanation": "[46-49] Then, the orange figure also catches a paper crane. One of the paper cranes emerges from behind the \"File Explorer\" icon but is captured by the red figure."
+    },
+    {
+        "second": 50,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5G5mqXvsKyU/output_frames/sec_50_idx_2.jpg",
+        "fps": 24,
+        "explanation": "[49-53] Next, the green figure is being pecked on the head by a paper crane. The orange figure captures the paper crane with a glass bottle."
+    },
+    {
+        "second": 51,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5G5mqXvsKyU/output_frames/sec_51_idx_14.jpg",
+        "fps": 24,
+        "explanation": "[49-53] Next, the green figure is being pecked on the head by a paper crane. The orange figure captures the paper crane with a glass bottle."
+    },
+    {
+        "second": 52,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5G5mqXvsKyU/output_frames/sec_52_idx_9.jpg",
+        "fps": 24,
+        "explanation": "[49-53] Next, the green figure is being pecked on the head by a paper crane. The orange figure captures the paper crane with a glass bottle."
+    },
+    {
+        "second": 53,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5G5mqXvsKyU/output_frames/sec_53_idx_10.jpg",
+        "fps": 24,
+        "explanation": "[49-53] Next, the green figure is being pecked on the head by a paper crane. The orange figure captures the paper crane with a glass bottle."
+    },
+    {
+        "second": 54,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5G5mqXvsKyU/output_frames/sec_54_idx_1.jpg",
+        "fps": 24,
+        "explanation": "[53-57] Finally, the orange figure approaches the red figure, holding the glass bottle containing the paper crane. The orange figure places the glass bottle on the ground, and the red and orange figures give each other a high five."
+    },
+    {
+        "second": 55,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5G5mqXvsKyU/output_frames/sec_55_idx_1.jpg",
+        "fps": 24,
+        "explanation": "[53-57] Finally, the orange figure approaches the red figure, holding the glass bottle containing the paper crane. The orange figure places the glass bottle on the ground, and the red and orange figures give each other a high five."
+    },
+    {
+        "second": 56,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5G5mqXvsKyU/output_frames/sec_56_idx_10.jpg",
+        "fps": 24,
+        "explanation": "[53-57] Finally, the orange figure approaches the red figure, holding the glass bottle containing the paper crane. The orange figure places the glass bottle on the ground, and the red and orange figures give each other a high five."
+    },
+    {
+        "second": 57,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/5G5mqXvsKyU/output_frames/sec_57_idx_4.jpg",
+        "fps": 24,
+        "explanation": "[53-57] Finally, the orange figure approaches the red figure, holding the glass bottle containing the paper crane. The orange figure places the glass bottle on the ground, and the red and orange figures give each other a high five."
+    }
+]

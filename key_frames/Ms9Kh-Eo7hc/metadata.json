@@ -1,0 +1,72 @@
+[
+    {
+        "second": 0,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Ms9Kh-Eo7hc/output_frames/sec_0_idx_0.jpg",
+        "fps": 60,
+        "explanation": "[0-0] A man in a white T-shirt is sitting on a green armchair, facing left, with a white door behind him."
+    },
+    {
+        "second": 1,
+        "frame_index": 39,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Ms9Kh-Eo7hc/output_frames/sec_1_idx_39.jpg",
+        "fps": 60,
+        "explanation": "[0-3] Then a woman in a blue dress walks in from the left, her hair tied back. She squats in front of the man, who smiles and raises his arms. He then lifts his shirt, and the woman places both hands on his stomach."
+    },
+    {
+        "second": 2,
+        "frame_index": 50,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Ms9Kh-Eo7hc/output_frames/sec_2_idx_50.jpg",
+        "fps": 60,
+        "explanation": "[0-3] Then a woman in a blue dress walks in from the left, her hair tied back. She squats in front of the man, who smiles and raises his arms. He then lifts his shirt, and the woman places both hands on his stomach."
+    },
+    {
+        "second": 3,
+        "frame_index": 45,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Ms9Kh-Eo7hc/output_frames/sec_3_idx_45.jpg",
+        "fps": 60,
+        "explanation": "[0-3] Then a woman in a blue dress walks in from the left, her hair tied back. She squats in front of the man, who smiles and raises his arms. He then lifts his shirt, and the woman places both hands on his stomach."
+    },
+    {
+        "second": 4,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Ms9Kh-Eo7hc/output_frames/sec_4_idx_17.jpg",
+        "fps": 60,
+        "explanation": "[3-9] Subsequently, the door opens, and a little girl in a pink dress walks in. The man quickly adjusts his clothes. The little girl then waves her arms and jumps. The man and woman look at the little girl and wave their arms with a smile."
+    },
+    {
+        "second": 5,
+        "frame_index": 49,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Ms9Kh-Eo7hc/output_frames/sec_5_idx_49.jpg",
+        "fps": 60,
+        "explanation": "[3-9] Subsequently, the door opens, and a little girl in a pink dress walks in. The man quickly adjusts his clothes. The little girl then waves her arms and jumps. The man and woman look at the little girl and wave their arms with a smile."
+    },
+    {
+        "second": 6,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Ms9Kh-Eo7hc/output_frames/sec_6_idx_12.jpg",
+        "fps": 60,
+        "explanation": "[3-9] Subsequently, the door opens, and a little girl in a pink dress walks in. The man quickly adjusts his clothes. The little girl then waves her arms and jumps. The man and woman look at the little girl and wave their arms with a smile."
+    },
+    {
+        "second": 7,
+        "frame_index": 52,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Ms9Kh-Eo7hc/output_frames/sec_7_idx_52.jpg",
+        "fps": 60,
+        "explanation": "[3-9] Subsequently, the door opens, and a little girl in a pink dress walks in. The man quickly adjusts his clothes. The little girl then waves her arms and jumps. The man and woman look at the little girl and wave their arms with a smile."
+    },
+    {
+        "second": 8,
+        "frame_index": 57,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Ms9Kh-Eo7hc/output_frames/sec_8_idx_57.jpg",
+        "fps": 60,
+        "explanation": "[3-9] Subsequently, the door opens, and a little girl in a pink dress walks in. The man quickly adjusts his clothes. The little girl then waves her arms and jumps. The man and woman look at the little girl and wave their arms with a smile."
+    },
+    {
+        "second": 9,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/Ms9Kh-Eo7hc/output_frames/sec_9_idx_17.jpg",
+        "fps": 60,
+        "explanation": "[3-9] Subsequently, the door opens, and a little girl in a pink dress walks in. The man quickly adjusts his clothes. The little girl then waves her arms and jumps. The man and woman look at the little girl and wave their arms with a smile."
+    }
+]

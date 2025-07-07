@@ -1,0 +1,142 @@
+[
+    {
+        "second": 0,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RUi2DDhHFHQ/output_frames/sec_0_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[0-0] A pair of hands wearing transparent gloves is holding a squid. Below the squid are two large stones, on which there is a small seashell and a starfish. The right hand also holds a knife. The background shows a pebble-covered seaside."
+    },
+    {
+        "second": 1,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RUi2DDhHFHQ/output_frames/sec_1_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[0-7] Next, the hands pick up the squid for examination and then press it against the stones with the right hand. The left hand feels the squid's body and finds a dark, hard lump. The left hand presses on the lump, while the right hand makes an incision on the squid's body with the knife."
+    },
+    {
+        "second": 2,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RUi2DDhHFHQ/output_frames/sec_2_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[0-7] Next, the hands pick up the squid for examination and then press it against the stones with the right hand. The left hand feels the squid's body and finds a dark, hard lump. The left hand presses on the lump, while the right hand makes an incision on the squid's body with the knife."
+    },
+    {
+        "second": 3,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RUi2DDhHFHQ/output_frames/sec_3_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[0-7] Next, the hands pick up the squid for examination and then press it against the stones with the right hand. The left hand feels the squid's body and finds a dark, hard lump. The left hand presses on the lump, while the right hand makes an incision on the squid's body with the knife."
+    },
+    {
+        "second": 4,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RUi2DDhHFHQ/output_frames/sec_4_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[0-7] Next, the hands pick up the squid for examination and then press it against the stones with the right hand. The left hand feels the squid's body and finds a dark, hard lump. The left hand presses on the lump, while the right hand makes an incision on the squid's body with the knife."
+    },
+    {
+        "second": 5,
+        "frame_index": 8,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RUi2DDhHFHQ/output_frames/sec_5_idx_8.jpg",
+        "fps": 30,
+        "explanation": "[0-7] Next, the hands pick up the squid for examination and then press it against the stones with the right hand. The left hand feels the squid's body and finds a dark, hard lump. The left hand presses on the lump, while the right hand makes an incision on the squid's body with the knife."
+    },
+    {
+        "second": 6,
+        "frame_index": 17,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RUi2DDhHFHQ/output_frames/sec_6_idx_17.jpg",
+        "fps": 30,
+        "explanation": "[0-7] Next, the hands pick up the squid for examination and then press it against the stones with the right hand. The left hand feels the squid's body and finds a dark, hard lump. The left hand presses on the lump, while the right hand makes an incision on the squid's body with the knife."
+    },
+    {
+        "second": 7,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RUi2DDhHFHQ/output_frames/sec_7_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[0-7] Next, the hands pick up the squid for examination and then press it against the stones with the right hand. The left hand feels the squid's body and finds a dark, hard lump. The left hand presses on the lump, while the right hand makes an incision on the squid's body with the knife."
+    },
+    {
+        "second": 8,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RUi2DDhHFHQ/output_frames/sec_8_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[7-15] Then, the knife is placed in the seawater. Both hands squeeze the area below the hard lump, revealing a green stone inside the squid's body. The hands then force the green stone out of the squid's body and catch it with the right hand."
+    },
+    {
+        "second": 9,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RUi2DDhHFHQ/output_frames/sec_9_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[7-15] Then, the knife is placed in the seawater. Both hands squeeze the area below the hard lump, revealing a green stone inside the squid's body. The hands then force the green stone out of the squid's body and catch it with the right hand."
+    },
+    {
+        "second": 10,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RUi2DDhHFHQ/output_frames/sec_10_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[7-15] Then, the knife is placed in the seawater. Both hands squeeze the area below the hard lump, revealing a green stone inside the squid's body. The hands then force the green stone out of the squid's body and catch it with the right hand."
+    },
+    {
+        "second": 11,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RUi2DDhHFHQ/output_frames/sec_11_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[7-15] Then, the knife is placed in the seawater. Both hands squeeze the area below the hard lump, revealing a green stone inside the squid's body. The hands then force the green stone out of the squid's body and catch it with the right hand."
+    },
+    {
+        "second": 12,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RUi2DDhHFHQ/output_frames/sec_12_idx_14.jpg",
+        "fps": 30,
+        "explanation": "[7-15] Then, the knife is placed in the seawater. Both hands squeeze the area below the hard lump, revealing a green stone inside the squid's body. The hands then force the green stone out of the squid's body and catch it with the right hand."
+    },
+    {
+        "second": 13,
+        "frame_index": 19,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RUi2DDhHFHQ/output_frames/sec_13_idx_19.jpg",
+        "fps": 30,
+        "explanation": "[7-15] Then, the knife is placed in the seawater. Both hands squeeze the area below the hard lump, revealing a green stone inside the squid's body. The hands then force the green stone out of the squid's body and catch it with the right hand."
+    },
+    {
+        "second": 14,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RUi2DDhHFHQ/output_frames/sec_14_idx_16.jpg",
+        "fps": 30,
+        "explanation": "[7-15] Then, the knife is placed in the seawater. Both hands squeeze the area below the hard lump, revealing a green stone inside the squid's body. The hands then force the green stone out of the squid's body and catch it with the right hand."
+    },
+    {
+        "second": 15,
+        "frame_index": 13,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RUi2DDhHFHQ/output_frames/sec_15_idx_13.jpg",
+        "fps": 30,
+        "explanation": "[7-15] Then, the knife is placed in the seawater. Both hands squeeze the area below the hard lump, revealing a green stone inside the squid's body. The hands then force the green stone out of the squid's body and catch it with the right hand."
+    },
+    {
+        "second": 16,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RUi2DDhHFHQ/output_frames/sec_16_idx_27.jpg",
+        "fps": 30,
+        "explanation": "[15-19] The hands continue to squeeze the squid's body, checking for any more hard lumps. Finally, a brown object is squeezed out from the squid's body."
+    },
+    {
+        "second": 17,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RUi2DDhHFHQ/output_frames/sec_17_idx_7.jpg",
+        "fps": 30,
+        "explanation": "[15-19] The hands continue to squeeze the squid's body, checking for any more hard lumps. Finally, a brown object is squeezed out from the squid's body."
+    },
+    {
+        "second": 18,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RUi2DDhHFHQ/output_frames/sec_18_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[15-19] The hands continue to squeeze the squid's body, checking for any more hard lumps. Finally, a brown object is squeezed out from the squid's body."
+    },
+    {
+        "second": 19,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/RUi2DDhHFHQ/output_frames/sec_19_idx_0.jpg",
+        "fps": 30,
+        "explanation": "[15-19] The hands continue to squeeze the squid's body, checking for any more hard lumps. Finally, a brown object is squeezed out from the squid's body."
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "second": 0,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1E8v6V9T_jg/output_frames/sec_0_idx_1.jpg",
+        "fps": 50,
+        "explanation": "[0-0] In a room, a man wearing a purple rabbit mask and pink overalls is looking down at his phone. Behind the man is a blue wall decorated with various ornaments."
+    },
+    {
+        "second": 1,
+        "frame_index": 48,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1E8v6V9T_jg/output_frames/sec_1_idx_48.jpg",
+        "fps": 50,
+        "explanation": "[0-3] Then, a woman wearing a purple rabbit mask and a black dress walks up behind the man, holding a water gun. She then smiles and puts the water gun away."
+    },
+    {
+        "second": 2,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1E8v6V9T_jg/output_frames/sec_2_idx_7.jpg",
+        "fps": 50,
+        "explanation": "[0-3] Then, a woman wearing a purple rabbit mask and a black dress walks up behind the man, holding a water gun. She then smiles and puts the water gun away."
+    },
+    {
+        "second": 3,
+        "frame_index": 16,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1E8v6V9T_jg/output_frames/sec_3_idx_16.jpg",
+        "fps": 50,
+        "explanation": "[0-3] Then, a woman wearing a purple rabbit mask and a black dress walks up behind the man, holding a water gun. She then smiles and puts the water gun away."
+    },
+    {
+        "second": 4,
+        "frame_index": 5,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1E8v6V9T_jg/output_frames/sec_4_idx_5.jpg",
+        "fps": 50,
+        "explanation": "[3-7] The scene then cuts to the man's phone, which displays a photo of the man and the woman. The man then uses a cartoon clown image to cover the woman in the photo. Finally, the shot changes to the woman angrily shooting the man with the water gun."
+    },
+    {
+        "second": 5,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1E8v6V9T_jg/output_frames/sec_5_idx_1.jpg",
+        "fps": 50,
+        "explanation": "[3-7] The scene then cuts to the man's phone, which displays a photo of the man and the woman. The man then uses a cartoon clown image to cover the woman in the photo. Finally, the shot changes to the woman angrily shooting the man with the water gun."
+    },
+    {
+        "second": 6,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1E8v6V9T_jg/output_frames/sec_6_idx_1.jpg",
+        "fps": 50,
+        "explanation": "[3-7] The scene then cuts to the man's phone, which displays a photo of the man and the woman. The man then uses a cartoon clown image to cover the woman in the photo. Finally, the shot changes to the woman angrily shooting the man with the water gun."
+    },
+    {
+        "second": 7,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/1E8v6V9T_jg/output_frames/sec_7_idx_3.jpg",
+        "fps": 50,
+        "explanation": "[3-7] The scene then cuts to the man's phone, which displays a photo of the man and the woman. The man then uses a cartoon clown image to cover the woman in the photo. Finally, the shot changes to the woman angrily shooting the man with the water gun."
+    }
+]

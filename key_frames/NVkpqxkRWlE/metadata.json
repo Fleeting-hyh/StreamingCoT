@@ -1,0 +1,58 @@
+[
+    {
+        "second": 0,
+        "frame_index": 58,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/NVkpqxkRWlE/output_frames/sec_0_idx_58.jpg",
+        "fps": 60,
+        "explanation": "[0-0] In a hallway, a little girl in a pink top and a yellow mask is standing by a closed door. Above the door is a black cabinet, and above the cabinet, a television is mounted on the wall. In the distance to the right, there is a woman in black clothing wearing a red mask."
+    },
+    {
+        "second": 1,
+        "frame_index": 39,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/NVkpqxkRWlE/output_frames/sec_1_idx_39.jpg",
+        "fps": 60,
+        "explanation": "[0-2] First, the woman in black walks towards the girl in pink, extends her right index finger to make a \"hush\" gesture, then raises both hands to her cheeks, and makes another \"hush\" gesture. The girl in pink turns sideways and looks towards the door."
+    },
+    {
+        "second": 2,
+        "frame_index": 51,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/NVkpqxkRWlE/output_frames/sec_2_idx_51.jpg",
+        "fps": 60,
+        "explanation": "[0-2] First, the woman in black walks towards the girl in pink, extends her right index finger to make a \"hush\" gesture, then raises both hands to her cheeks, and makes another \"hush\" gesture. The girl in pink turns sideways and looks towards the door."
+    },
+    {
+        "second": 3,
+        "frame_index": 27,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/NVkpqxkRWlE/output_frames/sec_3_idx_27.jpg",
+        "fps": 60,
+        "explanation": "[2-5] Then the woman in black clasps her hands in front of her and continues walking towards the girl in pink. The woman in black walks to the door, takes a step forward, turns to the left, opens her hands to the sides of her body, and squats slightly. The girl in pink leans forward, opens her hands in front of her, and looks up at the woman in black."
+    },
+    {
+        "second": 4,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/NVkpqxkRWlE/output_frames/sec_4_idx_23.jpg",
+        "fps": 60,
+        "explanation": "[2-5] Then the woman in black clasps her hands in front of her and continues walking towards the girl in pink. The woman in black walks to the door, takes a step forward, turns to the left, opens her hands to the sides of her body, and squats slightly. The girl in pink leans forward, opens her hands in front of her, and looks up at the woman in black."
+    },
+    {
+        "second": 5,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/NVkpqxkRWlE/output_frames/sec_5_idx_7.jpg",
+        "fps": 60,
+        "explanation": "[2-5] Then the woman in black clasps her hands in front of her and continues walking towards the girl in pink. The woman in black walks to the door, takes a step forward, turns to the left, opens her hands to the sides of her body, and squats slightly. The girl in pink leans forward, opens her hands in front of her, and looks up at the woman in black."
+    },
+    {
+        "second": 6,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/NVkpqxkRWlE/output_frames/sec_6_idx_4.jpg",
+        "fps": 60,
+        "explanation": "[5-8] Finally, the woman in black stands up straight, pushes her mask to the top of her head with both hands, and smiles at the girl in pink. The girl in pink puts her mask on top of her head with both hands and looks at the woman in black."
+    },
+    {
+        "second": 7,
+        "frame_index": 39,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_train4k/NVkpqxkRWlE/output_frames/sec_7_idx_39.jpg",
+        "fps": 60,
+        "explanation": "[5-8] Finally, the woman in black stands up straight, pushes her mask to the top of her head with both hands, and smiles at the girl in pink. The girl in pink puts her mask on top of her head with both hands and looks at the woman in black."
+    }
+]

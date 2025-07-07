@@ -1,0 +1,156 @@
+[
+    {
+        "second": 0,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TPLIKGJlWbc/output_frames/sec_0_idx_4.jpg",
+        "fps": 25,
+        "explanation": "[0-0] On a football field, a group of people are playing football. A referee in blue stands above, while three players in white and two in yellow are below. One of the players in yellow is taking a penalty kick. There are many spectators off the field."
+    },
+    {
+        "second": 1,
+        "frame_index": 11,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TPLIKGJlWbc/output_frames/sec_1_idx_11.jpg",
+        "fps": 25,
+        "explanation": "[0-4] They are having a new penalty shootout. When the player in yellow shoots, the goalkeeper in black misses, resulting in a precise goal."
+    },
+    {
+        "second": 2,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TPLIKGJlWbc/output_frames/sec_2_idx_12.jpg",
+        "fps": 25,
+        "explanation": "[0-4] They are having a new penalty shootout. When the player in yellow shoots, the goalkeeper in black misses, resulting in a precise goal."
+    },
+    {
+        "second": 3,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TPLIKGJlWbc/output_frames/sec_3_idx_9.jpg",
+        "fps": 25,
+        "explanation": "[0-4] They are having a new penalty shootout. When the player in yellow shoots, the goalkeeper in black misses, resulting in a precise goal."
+    },
+    {
+        "second": 4,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TPLIKGJlWbc/output_frames/sec_4_idx_0.jpg",
+        "fps": 25,
+        "explanation": "[0-4] They are having a new penalty shootout. When the player in yellow shoots, the goalkeeper in black misses, resulting in a precise goal."
+    },
+    {
+        "second": 5,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TPLIKGJlWbc/output_frames/sec_5_idx_22.jpg",
+        "fps": 25,
+        "explanation": "[4-9] Then the scene switches to a player in red taking a shot, but it is blocked by the goalkeeper in black. Another player in red follows up and heads the ball back. A player in blue runs over but fails to get the ball."
+    },
+    {
+        "second": 6,
+        "frame_index": 14,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TPLIKGJlWbc/output_frames/sec_6_idx_14.jpg",
+        "fps": 25,
+        "explanation": "[4-9] Then the scene switches to a player in red taking a shot, but it is blocked by the goalkeeper in black. Another player in red follows up and heads the ball back. A player in blue runs over but fails to get the ball."
+    },
+    {
+        "second": 7,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TPLIKGJlWbc/output_frames/sec_7_idx_6.jpg",
+        "fps": 25,
+        "explanation": "[4-9] Then the scene switches to a player in red taking a shot, but it is blocked by the goalkeeper in black. Another player in red follows up and heads the ball back. A player in blue runs over but fails to get the ball."
+    },
+    {
+        "second": 8,
+        "frame_index": 7,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TPLIKGJlWbc/output_frames/sec_8_idx_7.jpg",
+        "fps": 25,
+        "explanation": "[4-9] Then the scene switches to a player in red taking a shot, but it is blocked by the goalkeeper in black. Another player in red follows up and heads the ball back. A player in blue runs over but fails to get the ball."
+    },
+    {
+        "second": 9,
+        "frame_index": 22,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TPLIKGJlWbc/output_frames/sec_9_idx_22.jpg",
+        "fps": 25,
+        "explanation": "[4-9] Then the scene switches to a player in red taking a shot, but it is blocked by the goalkeeper in black. Another player in red follows up and heads the ball back. A player in blue runs over but fails to get the ball."
+    },
+    {
+        "second": 10,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TPLIKGJlWbc/output_frames/sec_10_idx_20.jpg",
+        "fps": 25,
+        "explanation": "[9-17] The scene switches again. A player in orange is taking a penalty kick, with a referee in blue and three players waiting beside him. This time, the goalkeeper in green lies in front but fails to stop the ball, resulting in a successful goal. The scene changes again, with a player in green shooting. The goalkeeper in black dives in the opposite direction of the ball, making the scene comical."
+    },
+    {
+        "second": 11,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TPLIKGJlWbc/output_frames/sec_11_idx_20.jpg",
+        "fps": 25,
+        "explanation": "[9-17] The scene switches again. A player in orange is taking a penalty kick, with a referee in blue and three players waiting beside him. This time, the goalkeeper in green lies in front but fails to stop the ball, resulting in a successful goal. The scene changes again, with a player in green shooting. The goalkeeper in black dives in the opposite direction of the ball, making the scene comical."
+    },
+    {
+        "second": 12,
+        "frame_index": 4,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TPLIKGJlWbc/output_frames/sec_12_idx_4.jpg",
+        "fps": 25,
+        "explanation": "[9-17] The scene switches again. A player in orange is taking a penalty kick, with a referee in blue and three players waiting beside him. This time, the goalkeeper in green lies in front but fails to stop the ball, resulting in a successful goal. The scene changes again, with a player in green shooting. The goalkeeper in black dives in the opposite direction of the ball, making the scene comical."
+    },
+    {
+        "second": 13,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TPLIKGJlWbc/output_frames/sec_13_idx_3.jpg",
+        "fps": 25,
+        "explanation": "[9-17] The scene switches again. A player in orange is taking a penalty kick, with a referee in blue and three players waiting beside him. This time, the goalkeeper in green lies in front but fails to stop the ball, resulting in a successful goal. The scene changes again, with a player in green shooting. The goalkeeper in black dives in the opposite direction of the ball, making the scene comical."
+    },
+    {
+        "second": 14,
+        "frame_index": 2,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TPLIKGJlWbc/output_frames/sec_14_idx_2.jpg",
+        "fps": 25,
+        "explanation": "[9-17] The scene switches again. A player in orange is taking a penalty kick, with a referee in blue and three players waiting beside him. This time, the goalkeeper in green lies in front but fails to stop the ball, resulting in a successful goal. The scene changes again, with a player in green shooting. The goalkeeper in black dives in the opposite direction of the ball, making the scene comical."
+    },
+    {
+        "second": 15,
+        "frame_index": 9,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TPLIKGJlWbc/output_frames/sec_15_idx_9.jpg",
+        "fps": 25,
+        "explanation": "[9-17] The scene switches again. A player in orange is taking a penalty kick, with a referee in blue and three players waiting beside him. This time, the goalkeeper in green lies in front but fails to stop the ball, resulting in a successful goal. The scene changes again, with a player in green shooting. The goalkeeper in black dives in the opposite direction of the ball, making the scene comical."
+    },
+    {
+        "second": 16,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TPLIKGJlWbc/output_frames/sec_16_idx_21.jpg",
+        "fps": 25,
+        "explanation": "[9-17] The scene switches again. A player in orange is taking a penalty kick, with a referee in blue and three players waiting beside him. This time, the goalkeeper in green lies in front but fails to stop the ball, resulting in a successful goal. The scene changes again, with a player in green shooting. The goalkeeper in black dives in the opposite direction of the ball, making the scene comical."
+    },
+    {
+        "second": 17,
+        "frame_index": 0,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TPLIKGJlWbc/output_frames/sec_17_idx_0.jpg",
+        "fps": 25,
+        "explanation": "[9-17] The scene switches again. A player in orange is taking a penalty kick, with a referee in blue and three players waiting beside him. This time, the goalkeeper in green lies in front but fails to stop the ball, resulting in a successful goal. The scene changes again, with a player in green shooting. The goalkeeper in black dives in the opposite direction of the ball, making the scene comical."
+    },
+    {
+        "second": 18,
+        "frame_index": 21,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TPLIKGJlWbc/output_frames/sec_18_idx_21.jpg",
+        "fps": 25,
+        "explanation": "[17-21] In the final scene, a player in white takes a shot and kicks the ball off the field, while a man in black laughs."
+    },
+    {
+        "second": 19,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TPLIKGJlWbc/output_frames/sec_19_idx_10.jpg",
+        "fps": 25,
+        "explanation": "[17-21] In the final scene, a player in white takes a shot and kicks the ball off the field, while a man in black laughs."
+    },
+    {
+        "second": 20,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TPLIKGJlWbc/output_frames/sec_20_idx_23.jpg",
+        "fps": 25,
+        "explanation": "[17-21] In the final scene, a player in white takes a shot and kicks the ball off the field, while a man in black laughs."
+    },
+    {
+        "second": 21,
+        "frame_index": 3,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/TPLIKGJlWbc/output_frames/sec_21_idx_3.jpg",
+        "fps": 25,
+        "explanation": "[17-21] In the final scene, a player in white takes a shot and kicks the ball off the field, while a man in black laughs."
+    }
+]

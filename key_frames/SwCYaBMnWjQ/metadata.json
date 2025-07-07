@@ -1,0 +1,79 @@
+[
+    {
+        "second": 0,
+        "frame_index": 20,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SwCYaBMnWjQ/output_frames/sec_0_idx_20.jpg",
+        "fps": 30,
+        "explanation": "[0-0] In a yellow room with a brown door in the background, a man and a woman are sitting by a marble counter, looking at the phone in the woman's hand together. The man is wearing a white short-sleeved shirt, and the woman is wearing a green sweater and has long black hair."
+    },
+    {
+        "second": 1,
+        "frame_index": 15,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SwCYaBMnWjQ/output_frames/sec_1_idx_15.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Then two hands holding lollipops appear from the bottom of the screen. The left hand is holding a small yellow lollipop, and the right hand is holding a large red lollipop. The man reaches out and takes the big lollipop first. The woman looks at the man who is smiling at her with the big lollipop and takes the small lollipop helplessly."
+    },
+    {
+        "second": 2,
+        "frame_index": 23,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SwCYaBMnWjQ/output_frames/sec_2_idx_23.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Then two hands holding lollipops appear from the bottom of the screen. The left hand is holding a small yellow lollipop, and the right hand is holding a large red lollipop. The man reaches out and takes the big lollipop first. The woman looks at the man who is smiling at her with the big lollipop and takes the small lollipop helplessly."
+    },
+    {
+        "second": 3,
+        "frame_index": 12,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SwCYaBMnWjQ/output_frames/sec_3_idx_12.jpg",
+        "fps": 30,
+        "explanation": "[0-3] Then two hands holding lollipops appear from the bottom of the screen. The left hand is holding a small yellow lollipop, and the right hand is holding a large red lollipop. The man reaches out and takes the big lollipop first. The woman looks at the man who is smiling at her with the big lollipop and takes the small lollipop helplessly."
+    },
+    {
+        "second": 4,
+        "frame_index": 26,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SwCYaBMnWjQ/output_frames/sec_4_idx_26.jpg",
+        "fps": 30,
+        "explanation": "[3-10] Then a banknote is placed on the table, indicating that whoever finishes the lollipop first can get the banknote. The woman looks at the banknote in front of her in surprise, puts the lollipop in her mouth in one bite, and the man can only helplessly stick out his tongue to lick the big lollipop in front of him. Finally, the woman puts the lollipop in her mouth in one bite, happily shows it to the man, then reaches out and takes the banknote on the table and shows it in front of the man, who smiles helplessly as the woman takes the banknote away."
+    },
+    {
+        "second": 5,
+        "frame_index": 29,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SwCYaBMnWjQ/output_frames/sec_5_idx_29.jpg",
+        "fps": 30,
+        "explanation": "[3-10] Then a banknote is placed on the table, indicating that whoever finishes the lollipop first can get the banknote. The woman looks at the banknote in front of her in surprise, puts the lollipop in her mouth in one bite, and the man can only helplessly stick out his tongue to lick the big lollipop in front of him. Finally, the woman puts the lollipop in her mouth in one bite, happily shows it to the man, then reaches out and takes the banknote on the table and shows it in front of the man, who smiles helplessly as the woman takes the banknote away."
+    },
+    {
+        "second": 6,
+        "frame_index": 10,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SwCYaBMnWjQ/output_frames/sec_6_idx_10.jpg",
+        "fps": 30,
+        "explanation": "[3-10] Then a banknote is placed on the table, indicating that whoever finishes the lollipop first can get the banknote. The woman looks at the banknote in front of her in surprise, puts the lollipop in her mouth in one bite, and the man can only helplessly stick out his tongue to lick the big lollipop in front of him. Finally, the woman puts the lollipop in her mouth in one bite, happily shows it to the man, then reaches out and takes the banknote on the table and shows it in front of the man, who smiles helplessly as the woman takes the banknote away."
+    },
+    {
+        "second": 7,
+        "frame_index": 18,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SwCYaBMnWjQ/output_frames/sec_7_idx_18.jpg",
+        "fps": 30,
+        "explanation": "[3-10] Then a banknote is placed on the table, indicating that whoever finishes the lollipop first can get the banknote. The woman looks at the banknote in front of her in surprise, puts the lollipop in her mouth in one bite, and the man can only helplessly stick out his tongue to lick the big lollipop in front of him. Finally, the woman puts the lollipop in her mouth in one bite, happily shows it to the man, then reaches out and takes the banknote on the table and shows it in front of the man, who smiles helplessly as the woman takes the banknote away."
+    },
+    {
+        "second": 8,
+        "frame_index": 6,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SwCYaBMnWjQ/output_frames/sec_8_idx_6.jpg",
+        "fps": 30,
+        "explanation": "[3-10] Then a banknote is placed on the table, indicating that whoever finishes the lollipop first can get the banknote. The woman looks at the banknote in front of her in surprise, puts the lollipop in her mouth in one bite, and the man can only helplessly stick out his tongue to lick the big lollipop in front of him. Finally, the woman puts the lollipop in her mouth in one bite, happily shows it to the man, then reaches out and takes the banknote on the table and shows it in front of the man, who smiles helplessly as the woman takes the banknote away."
+    },
+    {
+        "second": 9,
+        "frame_index": 28,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SwCYaBMnWjQ/output_frames/sec_9_idx_28.jpg",
+        "fps": 30,
+        "explanation": "[3-10] Then a banknote is placed on the table, indicating that whoever finishes the lollipop first can get the banknote. The woman looks at the banknote in front of her in surprise, puts the lollipop in her mouth in one bite, and the man can only helplessly stick out his tongue to lick the big lollipop in front of him. Finally, the woman puts the lollipop in her mouth in one bite, happily shows it to the man, then reaches out and takes the banknote on the table and shows it in front of the man, who smiles helplessly as the woman takes the banknote away."
+    },
+    {
+        "second": 10,
+        "frame_index": 1,
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/5_find_key_frame/key_frames_test1k/SwCYaBMnWjQ/output_frames/sec_10_idx_1.jpg",
+        "fps": 30,
+        "explanation": "[3-10] Then a banknote is placed on the table, indicating that whoever finishes the lollipop first can get the banknote. The woman looks at the banknote in front of her in surprise, puts the lollipop in her mouth in one bite, and the man can only helplessly stick out his tongue to lick the big lollipop in front of him. Finally, the woman puts the lollipop in her mouth in one bite, happily shows it to the man, then reaches out and takes the banknote on the table and shows it in front of the man, who smiles helplessly as the woman takes the banknote away."
+    }
+]
