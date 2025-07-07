@@ -55,16 +55,20 @@ This dataset establishes a new foundation for research in streaming video unders
 ## Dataset Structure
 ```
 StreamingCoT/
-├── videos/                  # Original video files (MP4)
-├── metadata/                # Video source and filtering info
-├── annotations/
-│   ├── dense_captions/      # Per-second and segment-level captions
-│   ├── qa_pairs/            # Question-answer sets with options
-│   ├── cot_chains/          # Multimodal reasoning chains
-│   └── validation_reports/  # Human verification records
-└── visual_grounding/
-    ├── keyframes/           # Temporally significant frames
-    └── bounding_boxes/      # Spatially grounded object annotations
+├── bbox/                    # Per-second bounding box annotations
+│   └── VIDEO_ID/            # Directory per video (YouTube ID)
+│       ├── sec_0_idx_48.json  # Bounding boxes at second 0 (frame 48)
+│       ├── sec_1_idx_17.json  # Second 1 annotations
+│       └── ...              
+├── final_cot/               # Verified reasoning chains
+│   ├── VIDEO_ID.jsonl       # Final CoT in JSON Lines format
+│   └── ...                  
+├── initial_cot/             # Preliminary reasoning chains
+│   ├── VIDEO_ID.jsonl       # Initial CoT annotations
+│   └── ...                  
+└── key_frames/              # Temporally significant frames
+    └── VIDEO_ID/            # Directory per video
+        └── metadata.json    # Key frame positions and features
 ```
 
 ## Construction Pipeline
