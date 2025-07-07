@@ -1,0 +1,13 @@
+[
+    {
+        "key_items": "person in red clothes,white wall",
+        "confidence": 0.13,
+        "bbox": [
+            0.357,
+            0.421,
+            0.28,
+            0.202
+        ],
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/dataset/bbox_wrong/A08wAcBQ_eU/sec_10_idx_11.jpg"
+    }
+]

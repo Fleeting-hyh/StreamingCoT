@@ -1,0 +1,13 @@
+[
+    {
+        "key_items": "person with green hair,woman with pink hair",
+        "confidence": 0.13,
+        "bbox": [
+            0.501,
+            0.499,
+            0.985,
+            0.992
+        ],
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/dataset/bbox_wrong/DFC-EX2XY1Q/sec_8_idx_11.jpg"
+    }
+]

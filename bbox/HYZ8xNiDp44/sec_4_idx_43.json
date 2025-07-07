@@ -1,0 +1,13 @@
+[
+    {
+        "key_items": "pliers,gloves,entity 3: nail,entity 4: spiral-shaped tool",
+        "confidence": 0.1,
+        "bbox": [
+            0.374,
+            0.623,
+            0.455,
+            0.748
+        ],
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/dataset/bbox_wrong/HYZ8xNiDp44/sec_4_idx_43.jpg"
+    }
+]

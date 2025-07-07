@@ -1,0 +1,13 @@
+[
+    {
+        "key_items": "water boiling in the red pot,oil boiling in the metal pot",
+        "confidence": 0.15,
+        "bbox": [
+            0.5,
+            0.483,
+            0.99,
+            0.942
+        ],
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/dataset/bbox_wrong/4poXkhIiMIk/sec_18_idx_18.jpg"
+    }
+]

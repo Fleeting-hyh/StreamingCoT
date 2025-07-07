@@ -1,0 +1,13 @@
+[
+    {
+        "key_items": "kitchen,church",
+        "confidence": 0.27,
+        "bbox": [
+            0.5,
+            0.5,
+            0.989,
+            0.994
+        ],
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/dataset/bbox_wrong/RcYWAkgByFg/sec_16_idx_10.jpg"
+    }
+]

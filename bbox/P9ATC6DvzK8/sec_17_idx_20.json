@@ -1,0 +1,13 @@
+[
+    {
+        "key_items": "motorcycle car",
+        "confidence": 0.2,
+        "bbox": [
+            0.518,
+            0.574,
+            0.955,
+            0.845
+        ],
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/dataset/bbox/P9ATC6DvzK8/sec_17_idx_20.jpg"
+    }
+]

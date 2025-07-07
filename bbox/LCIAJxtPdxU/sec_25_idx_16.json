@@ -1,0 +1,13 @@
+[
+    {
+        "key_items": "motorcycle's rear wheel motorcycle's dashboard",
+        "confidence": 0.21,
+        "bbox": [
+            0.5,
+            0.545,
+            0.988,
+            0.898
+        ],
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/dataset/bbox_wrong/LCIAJxtPdxU/sec_25_idx_16.jpg"
+    }
+]

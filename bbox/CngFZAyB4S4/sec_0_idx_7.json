@@ -1,0 +1,13 @@
+[
+    {
+        "key_items": "pig,lamb,entity 3: sheep",
+        "confidence": 0.1,
+        "bbox": [
+            0.417,
+            0.491,
+            0.476,
+            0.375
+        ],
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/dataset/bbox_wrong/CngFZAyB4S4/sec_0_idx_7.jpg"
+    }
+]

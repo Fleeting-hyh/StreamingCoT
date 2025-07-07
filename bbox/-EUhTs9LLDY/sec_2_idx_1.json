@@ -1,0 +1,13 @@
+[
+    {
+        "key_items": "speaker-headed robot,camera-headed robot",
+        "confidence": 0.24,
+        "bbox": [
+            0.5,
+            0.51,
+            0.989,
+            0.973
+        ],
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/dataset/bbox_wrong/-EUhTs9LLDY/sec_2_idx_1.jpg"
+    }
+]

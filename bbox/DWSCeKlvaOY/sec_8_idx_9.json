@@ -1,0 +1,13 @@
+[
+    {
+        "key_items": "female pilot,steering wheel",
+        "confidence": 0.35,
+        "bbox": [
+            0.594,
+            0.501,
+            0.806,
+            0.995
+        ],
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/dataset/bbox_wrong/DWSCeKlvaOY/sec_8_idx_9.jpg"
+    }
+]

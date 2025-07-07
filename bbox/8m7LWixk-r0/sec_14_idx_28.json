@@ -1,0 +1,13 @@
+[
+    {
+        "key_items": "player in the white jersey numbered 5,player in the black jersey numbered 13",
+        "confidence": 0.1,
+        "bbox": [
+            0.5,
+            0.499,
+            0.991,
+            0.994
+        ],
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/dataset/bbox_wrong/8m7LWixk-r0/sec_14_idx_28.jpg"
+    }
+]

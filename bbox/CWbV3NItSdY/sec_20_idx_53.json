@@ -1,0 +1,13 @@
+[
+    {
+        "key_items": "dining table,bathroom,entity 3: living room",
+        "confidence": 0.1,
+        "bbox": [
+            0.501,
+            0.501,
+            0.986,
+            0.994
+        ],
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/dataset/bbox_wrong/CWbV3NItSdY/sec_20_idx_53.jpg"
+    }
+]

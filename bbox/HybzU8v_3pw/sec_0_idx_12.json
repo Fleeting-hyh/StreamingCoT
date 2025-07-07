@@ -1,0 +1,13 @@
+[
+    {
+        "key_items": "rivet gun,electric screwdriver",
+        "confidence": 0.24,
+        "bbox": [
+            0.733,
+            0.231,
+            0.523,
+            0.46
+        ],
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/dataset/bbox_wrong/HybzU8v_3pw/sec_0_idx_12.jpg"
+    }
+]

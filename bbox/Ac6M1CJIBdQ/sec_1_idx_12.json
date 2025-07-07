@@ -1,0 +1,13 @@
+[
+    {
+        "key_items": "parrot driving a blue car",
+        "confidence": 0.32,
+        "bbox": [
+            0.5,
+            0.514,
+            0.994,
+            0.762
+        ],
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/dataset/bbox_wrong/Ac6M1CJIBdQ/sec_1_idx_12.jpg"
+    }
+]

@@ -1,0 +1,13 @@
+[
+    {
+        "key_items": "blue bag,scissors",
+        "confidence": 0.3,
+        "bbox": [
+            0.55,
+            0.587,
+            0.894,
+            0.484
+        ],
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/dataset/bbox_wrong/BsGu6tkatx0/sec_42_idx_18.jpg"
+    }
+]

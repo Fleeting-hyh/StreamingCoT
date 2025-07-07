@@ -1,0 +1,13 @@
+[
+    {
+        "key_items": "screwdriver,heat gun",
+        "confidence": 0.23,
+        "bbox": [
+            0.488,
+            0.238,
+            0.259,
+            0.473
+        ],
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/dataset/bbox_wrong/HRasjiW5gM0/sec_42_idx_5.jpg"
+    }
+]

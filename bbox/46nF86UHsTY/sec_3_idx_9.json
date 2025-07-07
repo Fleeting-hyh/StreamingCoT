@@ -1,0 +1,13 @@
+[
+    {
+        "key_items": "football,players in purple jersey,entity 3: player in white jersey",
+        "confidence": 0.1,
+        "bbox": [
+            0.673,
+            0.935,
+            0.099,
+            0.066
+        ],
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/dataset/bbox_wrong/46nF86UHsTY/sec_3_idx_9.jpg"
+    }
+]

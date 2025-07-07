@@ -1,0 +1,13 @@
+[
+    {
+        "key_items": "pikachu toy,red marker",
+        "confidence": 0.4,
+        "bbox": [
+            0.416,
+            0.434,
+            0.825,
+            0.304
+        ],
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/dataset/bbox_wrong/BRLCApe47_c/sec_28_idx_3.jpg"
+    }
+]

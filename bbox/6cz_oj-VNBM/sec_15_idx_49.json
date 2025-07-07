@@ -1,0 +1,13 @@
+[
+    {
+        "key_items": "glue gun,scissors",
+        "confidence": 0.19,
+        "bbox": [
+            0.516,
+            0.444,
+            0.311,
+            0.665
+        ],
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/dataset/bbox_wrong/6cz_oj-VNBM/sec_15_idx_49.jpg"
+    }
+]

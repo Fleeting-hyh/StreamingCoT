@@ -1,0 +1,13 @@
+[
+    {
+        "key_items": "flight attendant,cabin door",
+        "confidence": 0.34,
+        "bbox": [
+            0.572,
+            0.578,
+            0.581,
+            0.833
+        ],
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/dataset/bbox_wrong/0SC54RFjSWA/sec_12_idx_18.jpg"
+    }
+]

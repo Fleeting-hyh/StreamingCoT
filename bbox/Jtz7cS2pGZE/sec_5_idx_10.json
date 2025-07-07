@@ -1,0 +1,13 @@
+[
+    {
+        "key_items": "taillights emitting red light,motorcycle's rear wheel rotating",
+        "confidence": 0.17,
+        "bbox": [
+            0.248,
+            0.527,
+            0.491,
+            0.268
+        ],
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/dataset/bbox_wrong/Jtz7cS2pGZE/sec_5_idx_10.jpg"
+    }
+]

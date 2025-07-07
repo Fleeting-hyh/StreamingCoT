@@ -1,0 +1,13 @@
+[
+    {
+        "key_items": "\"man wearing blue t-shirt\",\"man wearing yellow t-shirt\",entity 3: \"man wearing red shirt\",entity 4: \"man wearing white shirt\",entity 5: \"man wearing blue,white,and purple shirt\"",
+        "confidence": 0.17,
+        "bbox": [
+            0.889,
+            0.463,
+            0.118,
+            0.109
+        ],
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/dataset/bbox_wrong/NrdEaOOmM_0/sec_21_idx_23.jpg"
+    }
+]

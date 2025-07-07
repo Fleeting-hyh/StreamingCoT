@@ -1,0 +1,13 @@
+[
+    {
+        "key_items": "trees,parked cars",
+        "confidence": 0.12,
+        "bbox": [
+            0.5,
+            0.488,
+            0.989,
+            0.28
+        ],
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/dataset/bbox_wrong/FYmAgFcCj78/sec_3_idx_9.jpg"
+    }
+]

@@ -1,0 +1,13 @@
+[
+    {
+        "key_items": "plane,runway",
+        "confidence": 0.17,
+        "bbox": [
+            0.5,
+            0.621,
+            0.993,
+            0.75
+        ],
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/dataset/bbox_wrong/M1DTlOVAy-E/sec_24_idx_21.jpg"
+    }
+]

@@ -1,0 +1,13 @@
+[
+    {
+        "key_items": "\"yellow hat and blue,black,and white striped shirt\",\"purple hooded sweatshirt and brown hat\",entity 3: \"black leather jacket and brown hat\",entity 4: \"blue and black striped shirt\"",
+        "confidence": 0.1,
+        "bbox": [
+            0.502,
+            0.766,
+            0.989,
+            0.462
+        ],
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/dataset/bbox_wrong/Ai9sSWIOq_8/sec_30_idx_20.jpg"
+    }
+]

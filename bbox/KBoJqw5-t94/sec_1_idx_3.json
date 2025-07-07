@@ -1,0 +1,13 @@
+[
+    {
+        "key_items": "dog,black bucket",
+        "confidence": 0.25,
+        "bbox": [
+            0.821,
+            0.808,
+            0.349,
+            0.132
+        ],
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/dataset/bbox_wrong/KBoJqw5-t94/sec_1_idx_3.jpg"
+    }
+]

@@ -1,0 +1,13 @@
+[
+    {
+        "key_items": "player in a blue and red jersey,players in red and white jerseys,black jerseys,yellow jerseys,and blue jerseys",
+        "confidence": 0.13,
+        "bbox": [
+            0.447,
+            0.489,
+            0.887,
+            0.53
+        ],
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/dataset/bbox_wrong/5-phrMPVDNo/sec_19_idx_0.jpg"
+    }
+]

@@ -1,0 +1,13 @@
+[
+    {
+        "key_items": "humanoid robot,shovel",
+        "confidence": 0.35,
+        "bbox": [
+            0.528,
+            0.341,
+            0.456,
+            0.38
+        ],
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/dataset/bbox_wrong/CBh5nSJPlPg/sec_5_idx_16.jpg"
+    }
+]

@@ -1,0 +1,13 @@
+[
+    {
+        "key_items": "green empty beverage bottles,small red car",
+        "confidence": 0.3,
+        "bbox": [
+            0.338,
+            0.561,
+            0.091,
+            0.051
+        ],
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/dataset/bbox_wrong/Tv75KHEogzY/sec_19_idx_15.jpg"
+    }
+]

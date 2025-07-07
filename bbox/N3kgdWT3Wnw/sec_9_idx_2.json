@@ -1,0 +1,13 @@
+[
+    {
+        "key_items": "headlight,windshield",
+        "confidence": 0.34,
+        "bbox": [
+            0.506,
+            0.496,
+            0.858,
+            0.48
+        ],
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/dataset/bbox_wrong/N3kgdWT3Wnw/sec_9_idx_2.jpg"
+    }
+]

@@ -1,0 +1,13 @@
+[
+    {
+        "key_items": "red car-shaped cake left rear wheel",
+        "confidence": 0.51,
+        "bbox": [
+            0.5,
+            0.524,
+            0.992,
+            0.674
+        ],
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/dataset/bbox/48veL2zCtrA/sec_20_idx_1.jpg"
+    }
+]

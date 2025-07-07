@@ -1,0 +1,13 @@
+[
+    {
+        "key_items": "arcade,room,entity 3: gym,entity 4: escalator indoors",
+        "confidence": 0.15,
+        "bbox": [
+            0.5,
+            0.813,
+            0.992,
+            0.368
+        ],
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/dataset/bbox_wrong/FYmAgFcCj78/sec_55_idx_2.jpg"
+    }
+]

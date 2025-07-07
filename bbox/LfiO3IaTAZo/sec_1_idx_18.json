@@ -1,0 +1,13 @@
+[
+    {
+        "key_items": "motorcycle,throttle",
+        "confidence": 0.31,
+        "bbox": [
+            0.512,
+            0.576,
+            0.943,
+            0.408
+        ],
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/dataset/bbox_wrong/LfiO3IaTAZo/sec_1_idx_18.jpg"
+    }
+]

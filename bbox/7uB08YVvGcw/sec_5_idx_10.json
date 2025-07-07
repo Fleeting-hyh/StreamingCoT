@@ -1,0 +1,13 @@
+[
+    {
+        "key_items": "yellow car red bus by the roadside,yellow parking area",
+        "confidence": 0.15,
+        "bbox": [
+            0.405,
+            0.736,
+            0.311,
+            0.127
+        ],
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/dataset/bbox_wrong/7uB08YVvGcw/sec_5_idx_10.jpg"
+    }
+]

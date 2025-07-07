@@ -1,0 +1,13 @@
+[
+    {
+        "key_items": "fire truck,burning house",
+        "confidence": 0.19,
+        "bbox": [
+            0.496,
+            0.499,
+            0.981,
+            0.991
+        ],
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/dataset/bbox_wrong/KePr82BOTKI/sec_20_idx_1.jpg"
+    }
+]

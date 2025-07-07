@@ -1,0 +1,13 @@
+[
+    {
+        "key_items": "large truck,green snowplow",
+        "confidence": 0.25,
+        "bbox": [
+            0.326,
+            0.489,
+            0.645,
+            0.241
+        ],
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/dataset/bbox_wrong/NP_afnT3c24/sec_1_idx_4.jpg"
+    }
+]

@@ -1,0 +1,13 @@
+[
+    {
+        "key_items": "man rotating counterclockwise,hammer throw",
+        "confidence": 0.15,
+        "bbox": [
+            0.397,
+            0.597,
+            0.256,
+            0.288
+        ],
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/dataset/bbox_wrong/OBTs01UT6ec/sec_45_idx_5.jpg"
+    }
+]

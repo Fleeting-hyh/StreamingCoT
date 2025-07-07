@@ -1,0 +1,13 @@
+[
+    {
+        "key_items": "red spatula,ice cream scoop",
+        "confidence": 0.24,
+        "bbox": [
+            0.5,
+            0.505,
+            0.993,
+            0.982
+        ],
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/dataset/bbox_wrong/0MLgN2A_1mg/sec_18_idx_28.jpg"
+    }
+]

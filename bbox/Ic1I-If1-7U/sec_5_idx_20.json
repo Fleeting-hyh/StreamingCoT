@@ -1,0 +1,13 @@
+[
+    {
+        "key_items": "yellow food,bacon,entity 3: cheese,entity 4: pickle",
+        "confidence": 0.1,
+        "bbox": [
+            0.598,
+            0.514,
+            0.281,
+            0.067
+        ],
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/dataset/bbox_wrong/Ic1I-If1-7U/sec_5_idx_20.jpg"
+    }
+]

@@ -1,0 +1,13 @@
+[
+    {
+        "key_items": "hallway,door",
+        "confidence": 0.16,
+        "bbox": [
+            0.5,
+            0.5,
+            0.99,
+            0.996
+        ],
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/dataset/bbox_wrong/5M91vTjzx0U/sec_35_idx_22.jpg"
+    }
+]

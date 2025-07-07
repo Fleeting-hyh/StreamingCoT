@@ -1,0 +1,13 @@
+[
+    {
+        "key_items": "ping pong table,toy airplane",
+        "confidence": 0.17,
+        "bbox": [
+            0.45,
+            0.406,
+            0.656,
+            0.118
+        ],
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/dataset/bbox_wrong/O6_g3dSsju4/sec_22_idx_5.jpg"
+    }
+]

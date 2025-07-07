@@ -1,0 +1,13 @@
+[
+    {
+        "key_items": "goalkeeper,shot attempt",
+        "confidence": 0.25,
+        "bbox": [
+            0.299,
+            0.682,
+            0.59,
+            0.632
+        ],
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/dataset/bbox_wrong/NXE_IecDO88/sec_5_idx_5.jpg"
+    }
+]

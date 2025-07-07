@@ -1,0 +1,13 @@
+[
+    {
+        "key_items": "car's license plate",
+        "confidence": 0.52,
+        "bbox": [
+            0.5,
+            0.69,
+            0.995,
+            0.593
+        ],
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/dataset/bbox/9riAlVbLuy0/sec_1_idx_13.jpg"
+    }
+]

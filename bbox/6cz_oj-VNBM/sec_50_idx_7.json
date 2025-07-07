@@ -1,0 +1,13 @@
+[
+    {
+        "key_items": "painting tool,tool for putting on socks",
+        "confidence": 0.1,
+        "bbox": [
+            0.499,
+            0.649,
+            0.987,
+            0.695
+        ],
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/dataset/bbox_wrong/6cz_oj-VNBM/sec_50_idx_7.jpg"
+    }
+]

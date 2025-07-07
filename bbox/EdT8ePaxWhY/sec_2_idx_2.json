@@ -1,0 +1,13 @@
+[
+    {
+        "key_items": "toy figure bottle of cola",
+        "confidence": 0.22,
+        "bbox": [
+            0.48,
+            0.503,
+            0.915,
+            0.755
+        ],
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/dataset/bbox/EdT8ePaxWhY/sec_2_idx_2.jpg"
+    }
+]

@@ -1,0 +1,13 @@
+[
+    {
+        "key_items": "yellow bus red traffic light",
+        "confidence": 0.33,
+        "bbox": [
+            0.5,
+            0.446,
+            0.99,
+            0.888
+        ],
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/dataset/bbox/HxQpHDSPoEE/sec_11_idx_13.jpg"
+    }
+]

@@ -1,0 +1,13 @@
+[
+    {
+        "key_items": "faucet,bathtub",
+        "confidence": 0.25,
+        "bbox": [
+            0.609,
+            0.201,
+            0.525,
+            0.177
+        ],
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/dataset/bbox_wrong/1iwr8THyzew/sec_2_idx_19.jpg"
+    }
+]

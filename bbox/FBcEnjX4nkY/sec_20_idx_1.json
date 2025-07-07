@@ -1,0 +1,13 @@
+[
+    {
+        "key_items": "player in the red uniform,defender in white",
+        "confidence": 0.15,
+        "bbox": [
+            0.35,
+            0.693,
+            0.129,
+            0.155
+        ],
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/dataset/bbox_wrong/FBcEnjX4nkY/sec_20_idx_1.jpg"
+    }
+]

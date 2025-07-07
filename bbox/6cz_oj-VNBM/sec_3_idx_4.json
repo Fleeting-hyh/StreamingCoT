@@ -1,0 +1,13 @@
+[
+    {
+        "key_items": "glue gun,painting tool",
+        "confidence": 0.2,
+        "bbox": [
+            0.629,
+            0.659,
+            0.574,
+            0.665
+        ],
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/dataset/bbox_wrong/6cz_oj-VNBM/sec_3_idx_4.jpg"
+    }
+]

@@ -1,0 +1,13 @@
+[
+    {
+        "key_items": "green balloon,needle",
+        "confidence": 0.41,
+        "bbox": [
+            0.042,
+            0.524,
+            0.084,
+            0.229
+        ],
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/dataset/bbox_wrong/Am5K5EaZnCY/sec_0_idx_3.jpg"
+    }
+]

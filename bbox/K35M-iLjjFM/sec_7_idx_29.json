@@ -1,0 +1,13 @@
+[
+    {
+        "key_items": "metal washer,drill bit",
+        "confidence": 0.37,
+        "bbox": [
+            0.623,
+            0.443,
+            0.748,
+            0.195
+        ],
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/dataset/bbox_wrong/K35M-iLjjFM/sec_7_idx_29.jpg"
+    }
+]

@@ -1,0 +1,13 @@
+[
+    {
+        "key_items": "blue mechanical component,red meat",
+        "confidence": 0.24,
+        "bbox": [
+            0.514,
+            0.464,
+            0.683,
+            0.186
+        ],
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/dataset/bbox_wrong/Bl6SAJhBNeA/sec_13_idx_1.jpg"
+    }
+]

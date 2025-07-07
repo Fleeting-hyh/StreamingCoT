@@ -1,0 +1,13 @@
+[
+    {
+        "key_items": "motorcycle rider,inside of a car",
+        "confidence": 0.15,
+        "bbox": [
+            0.319,
+            0.502,
+            0.629,
+            0.989
+        ],
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/dataset/bbox_wrong/7Pss0DrGIqE/sec_4_idx_13.jpg"
+    }
+]

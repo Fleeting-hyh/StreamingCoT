@@ -1,0 +1,13 @@
+[
+    {
+        "key_items": "man slipping and falling on an icy road,woman falling off a pole,entity 3: man falling off a chair,entity 4: man jumping into a muddy pond,entity 5: man missing a trampoline and falling into the sea,entity 6: man falling into a lake,entity 7: man and woman falling into the river",
+        "confidence": 0.1,
+        "bbox": [
+            0.43,
+            0.548,
+            0.463,
+            0.259
+        ],
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/dataset/bbox_wrong/6g-_760qEEA/sec_29_idx_10.jpg"
+    }
+]

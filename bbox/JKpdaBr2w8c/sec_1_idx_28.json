@@ -1,0 +1,13 @@
+[
+    {
+        "key_items": "cat in a colorful striped shirt,spatula in a pot",
+        "confidence": 0.24,
+        "bbox": [
+            0.535,
+            0.575,
+            0.85,
+            0.353
+        ],
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/dataset/bbox_wrong/JKpdaBr2w8c/sec_1_idx_28.jpg"
+    }
+]

@@ -1,0 +1,13 @@
+[
+    {
+        "key_items": "hands,dough strips",
+        "confidence": 0.25,
+        "bbox": [
+            0.482,
+            0.594,
+            0.954,
+            0.641
+        ],
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/dataset/bbox_wrong/KGv12-3O9v0/sec_23_idx_21.jpg"
+    }
+]

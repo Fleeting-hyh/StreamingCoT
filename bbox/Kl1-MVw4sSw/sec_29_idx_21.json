@@ -1,0 +1,13 @@
+[
+    {
+        "key_items": "city park,house,entity 3: desert",
+        "confidence": 0.1,
+        "bbox": [
+            0.5,
+            0.5,
+            0.99,
+            0.992
+        ],
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/dataset/bbox_wrong/Kl1-MVw4sSw/sec_29_idx_21.jpg"
+    }
+]

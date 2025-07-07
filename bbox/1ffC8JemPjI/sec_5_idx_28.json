@@ -1,0 +1,13 @@
+[
+    {
+        "key_items": "character in the brown coat,rightmost character on top of the cabinet",
+        "confidence": 0.1,
+        "bbox": [
+            0.2,
+            0.25,
+            0.392,
+            0.32
+        ],
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/dataset/bbox_wrong/1ffC8JemPjI/sec_5_idx_28.jpg"
+    }
+]

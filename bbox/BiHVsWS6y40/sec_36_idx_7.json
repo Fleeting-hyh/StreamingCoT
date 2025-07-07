@@ -1,0 +1,13 @@
+[
+    {
+        "key_items": "car that has crashed into a barrier,utility pole exploded",
+        "confidence": 0.1,
+        "bbox": [
+            0.5,
+            0.779,
+            0.993,
+            0.437
+        ],
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/dataset/bbox_wrong/BiHVsWS6y40/sec_36_idx_7.jpg"
+    }
+]

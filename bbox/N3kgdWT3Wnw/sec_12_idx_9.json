@@ -1,0 +1,13 @@
+[
+    {
+        "key_items": "interior of the car,headlight",
+        "confidence": 0.22,
+        "bbox": [
+            0.5,
+            0.434,
+            0.99,
+            0.852
+        ],
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/dataset/bbox_wrong/N3kgdWT3Wnw/sec_12_idx_9.jpg"
+    }
+]

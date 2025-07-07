@@ -1,0 +1,13 @@
+[
+    {
+        "key_items": "honeydew melon inside the watermelon,red pepper inside the honeydew melon,entity 3: yellow tomato inside the red pepper",
+        "confidence": 0.11,
+        "bbox": [
+            0.338,
+            0.763,
+            0.352,
+            0.217
+        ],
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/dataset/bbox_wrong/NEHAFdLxJnc/sec_13_idx_12.jpg"
+    }
+]

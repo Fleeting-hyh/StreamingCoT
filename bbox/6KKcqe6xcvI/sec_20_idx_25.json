@@ -1,0 +1,13 @@
+[
+    {
+        "key_items": "stirring the orange mixture,stirring the mixture with a yellow shovel",
+        "confidence": 0.15,
+        "bbox": [
+            0.498,
+            0.592,
+            0.989,
+            0.39
+        ],
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/dataset/bbox_wrong/6KKcqe6xcvI/sec_20_idx_25.jpg"
+    }
+]

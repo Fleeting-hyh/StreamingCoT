@@ -1,0 +1,13 @@
+[
+    {
+        "key_items": "car door lock button",
+        "confidence": 0.63,
+        "bbox": [
+            0.499,
+            0.542,
+            0.993,
+            0.912
+        ],
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/dataset/bbox/TP4M2ENlEpU/sec_8_idx_17.jpg"
+    }
+]

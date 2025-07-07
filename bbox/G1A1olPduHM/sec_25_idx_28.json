@@ -1,0 +1,13 @@
+[
+    {
+        "key_items": "man on the bed,motorcycle",
+        "confidence": 0.12,
+        "bbox": [
+            0.5,
+            0.662,
+            0.989,
+            0.671
+        ],
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/dataset/bbox_wrong/G1A1olPduHM/sec_25_idx_28.jpg"
+    }
+]

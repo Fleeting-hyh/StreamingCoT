@@ -1,0 +1,13 @@
+[
+    {
+        "key_items": "waterlogged road surface muddy ground",
+        "confidence": 0.29,
+        "bbox": [
+            0.5,
+            0.501,
+            0.988,
+            0.99
+        ],
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/dataset/bbox/P8k57gk_kOs/sec_9_idx_6.jpg"
+    }
+]

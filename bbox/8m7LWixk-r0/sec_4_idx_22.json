@@ -1,0 +1,13 @@
+[
+    {
+        "key_items": "player in the red jersey numbered 45,defender in the white jersey",
+        "confidence": 0.1,
+        "bbox": [
+            0.5,
+            0.499,
+            0.99,
+            0.993
+        ],
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/dataset/bbox_wrong/8m7LWixk-r0/sec_4_idx_22.jpg"
+    }
+]

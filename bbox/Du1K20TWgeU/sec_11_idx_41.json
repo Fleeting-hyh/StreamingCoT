@@ -1,0 +1,13 @@
+[
+    {
+        "key_items": "red dinosaur,cardboard box",
+        "confidence": 0.21,
+        "bbox": [
+            0.68,
+            0.8,
+            0.304,
+            0.161
+        ],
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/dataset/bbox_wrong/Du1K20TWgeU/sec_11_idx_41.jpg"
+    }
+]

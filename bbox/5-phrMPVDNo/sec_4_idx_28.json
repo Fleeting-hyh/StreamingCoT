@@ -1,0 +1,13 @@
+[
+    {
+        "key_items": "players in black jerseys,goalkeeper in yellow",
+        "confidence": 0.15,
+        "bbox": [
+            0.66,
+            0.495,
+            0.058,
+            0.06
+        ],
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/dataset/bbox_wrong/5-phrMPVDNo/sec_4_idx_28.jpg"
+    }
+]

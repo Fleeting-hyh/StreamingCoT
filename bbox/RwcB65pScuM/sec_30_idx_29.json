@@ -1,0 +1,13 @@
+[
+    {
+        "key_items": "skull with a red flashing eye,railroad crossing sign with flashing red lights",
+        "confidence": 0.2,
+        "bbox": [
+            0.546,
+            0.616,
+            0.087,
+            0.043
+        ],
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/dataset/bbox_wrong/RwcB65pScuM/sec_30_idx_29.jpg"
+    }
+]

@@ -1,0 +1,13 @@
+[
+    {
+        "key_items": "tweezers,brush",
+        "confidence": 0.35,
+        "bbox": [
+            0.618,
+            0.525,
+            0.758,
+            0.236
+        ],
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/dataset/bbox_wrong/6cz_oj-VNBM/sec_30_idx_10.jpg"
+    }
+]

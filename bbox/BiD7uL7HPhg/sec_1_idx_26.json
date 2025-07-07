@@ -1,0 +1,13 @@
+[
+    {
+        "key_items": "dog with the blue collar black dog with a red ribbon",
+        "confidence": 0.15,
+        "bbox": [
+            0.236,
+            0.549,
+            0.101,
+            0.062
+        ],
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/dataset/bbox/BiD7uL7HPhg/sec_1_idx_26.jpg"
+    }
+]

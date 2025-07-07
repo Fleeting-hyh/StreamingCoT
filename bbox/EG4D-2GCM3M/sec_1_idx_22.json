@@ -1,0 +1,13 @@
+[
+    {
+        "key_items": "soccer ball",
+        "confidence": 0.79,
+        "bbox": [
+            0.222,
+            0.389,
+            0.097,
+            0.058
+        ],
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/dataset/bbox/EG4D-2GCM3M/sec_1_idx_22.jpg"
+    }
+]

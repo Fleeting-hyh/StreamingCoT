@@ -1,0 +1,13 @@
+[
+    {
+        "key_items": "kitchen knife,dough strips",
+        "confidence": 0.21,
+        "bbox": [
+            0.49,
+            0.593,
+            0.91,
+            0.657
+        ],
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/dataset/bbox_wrong/KGv12-3O9v0/sec_8_idx_6.jpg"
+    }
+]

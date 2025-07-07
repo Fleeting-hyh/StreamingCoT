@@ -1,0 +1,13 @@
+[
+    {
+        "key_items": "small yellow detector,metallic object",
+        "confidence": 0.21,
+        "bbox": [
+            0.43,
+            0.311,
+            0.106,
+            0.584
+        ],
+        "path": "/hetu_group/huyuhang/code/Streaming_video/StreamingCoT/data/dataset/bbox_wrong/-GtZEofooFg/sec_53_idx_0.jpg"
+    }
+]
